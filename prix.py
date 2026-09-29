@@ -43,6 +43,28 @@ for code, sym in tickers.items():
         }
     except Exception as e:
         out["erreurs"][code] = f"{sym} : {e}"
+# Matières premières et changes (même calcul, rangés à part)
+out["matieres"] = {}
+try: matieres = json.load(open("matieres.json"))
+except Exception: matieres = {}
+for code, m in matieres.items():
+    sym = m["symbole"]
+    try:
+        h = yf.Ticker(sym).history(period="400d", interval="1d", auto_adjust=False).dropna(subset=["Close"])
+        if h.empty: raise ValueError("aucune donnée")
+        closes = [round(float(c), 4) for c in h["Close"]]
+        dates = [d.strftime("%Y-%m-%d") for d in h.index]
+        un_an = closes[-252:]
+        out["matieres"][code] = {
+            "symbole": sym, "nom": m.get("nom"), "unite": m.get("unite"),
+            "dernier": closes[-1], "dernierLe": dates[-1],
+            "mm50": mm(closes, 50), "mm200": mm(closes, 200), "rsi14": rsi(closes[-120:]),
+            "haut52": round(max(un_an), 4), "bas52": round(min(un_an), 4),
+            "perf1s": perf(closes, 5), "perf1m": perf(closes, 21), "perf3m": perf(closes, 63), "perf12m": perf(closes, 251),
+            "histo": [[d, round(c, 4)] for d, c in zip(dates[-260:], closes[-260:])],
+        }
+    except Exception as e:
+        out["erreurs"]["MP_" + code] = f"{sym} : {e}"
 os.makedirs("data", exist_ok=True)
 json.dump(out, open("data/prices.json", "w"), ensure_ascii=False, separators=(",", ":"))
-print(f"{len(out['series'])} valeurs OK, {len(out['erreurs'])} erreurs", out["erreurs"])
+print(f"{len(out['series'])} valeurs OK, {len(out['matieres'])} matières, {len(out['erreurs'])} erreurs", out["erreurs"])

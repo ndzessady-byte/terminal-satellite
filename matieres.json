@@ -1,0 +1,10 @@
+{
+  "OR": {"symbole": "GC=F", "nom": "Or", "unite": "$/once"},
+  "ARGENT": {"symbole": "SI=F", "nom": "Argent", "unite": "$/once"},
+  "BRENT": {"symbole": "BZ=F", "nom": "Pétrole Brent", "unite": "$/baril"},
+  "GAZ_EU": {"symbole": "TTF=F", "nom": "Gaz européen (TTF)", "unite": "€/MWh"},
+  "CUIVRE": {"symbole": "HG=F", "nom": "Cuivre", "unite": "$/livre"},
+  "ALU": {"symbole": "ALI=F", "nom": "Aluminium", "unite": "$/tonne"},
+  "BLE": {"symbole": "ZW=F", "nom": "Blé", "unite": "cents/boisseau"},
+  "EURUSD": {"symbole": "EURUSD=X", "nom": "Euro / dollar", "unite": "$ pour 1 €"}
+}
