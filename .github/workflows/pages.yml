@@ -4,6 +4,9 @@ on:
     branches: [main]
     paths: ["app/**", "data/**", ".github/workflows/pages.yml"]
   workflow_dispatch:
+  workflow_run:
+    workflows: ["Cours du soir"]
+    types: [completed]
 permissions:
   contents: read
   pages: write

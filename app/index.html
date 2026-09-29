@@ -214,10 +214,39 @@ function vJour(){
  <div class="sec"><div class="k" style="margin-bottom:6px">À regarder</div><div class="list">${watch.slice(0,6).map(w=>`<a class="li" href="#/v/${esc(w.t)}"><span class="tag ${w.c}">${esc(w.tag)}</span><span style="font-size:14px;line-height:1.35">${esc(w.txt)}</span></a>`).join("")||`<div class="mut">Rien de particulier.</div>`}</div></div>
  ${(s.attention||[]).length?`<div class="sec"><div class="k" style="margin-bottom:6px">La semaine (${esc(s.semaine||"")})</div><div class="list">${(s.semaineTexte||[]).map(t=>`<p style="font-size:14px;color:var(--tx2)">${esc(t)}</p>`).join("")}</div></div>`:""}
  ${foot()}`}
+function segNav(on){return `<div class="chips" style="margin-top:14px">${[["#/valeurs","Actions"],["#/etf","ETF"],["#/idees","Idées"]].map(([u,l])=>`<a class="chip ${u===on?"on":""}" href="${u}" style="display:inline-flex;align-items:center">${l}</a>`).join("")}</div>`}
+function hbars(rows,lab,val,color,max){const mx=max||Math.max(...rows.map(val))||1;return `<div style="display:grid;gap:7px;margin-top:10px">${rows.map(r=>`<div style="display:grid;grid-template-columns:minmax(0,150px) minmax(0,1fr) 48px;align-items:center;gap:8px;font-size:13px"><span style="white-space:nowrap;overflow:hidden;text-overflow:ellipsis">${esc(lab(r))}</span><div style="height:8px;border-radius:4px;background:${color};width:${Math.max(1,val(r)/mx*100)}%"></div><span class="mono" style="text-align:right;font-size:12px">${nf(val(r),1)} %</span></div>`).join("")}</div>`}
+function etfData(){return APP.etf||{coeur:null,candidats:[]}}
+function etfPx(code){return PX?.etfs?.[code]}
+function etfHist(code){const h=etfPx(code)?.histo||[];return h.map(p=>[/^\d{4}-/.test(p[0])?p[0].slice(8,10)+"/"+p[0].slice(5,7)+"/"+p[0].slice(2,4):p[0],p[1]])}
+function vEtf(){const E=etfData(),c=E.coeur;if(!c)return head("Valeurs")+segNav("#/etf")+`<div class="empty">Données ETF indisponibles.</div>`;
+ const cp=etfPx(c.code);const all=[c,...E.candidats];
+ const card=x=>{const p=etfPx(x.code);const h=etfHist(x.code);return `<details><summary class="vrow" style="grid-template-columns:minmax(0,1fr) auto auto"><span class="nm">${esc(x.code)} <span class="mut" style="font-weight:400;font-size:13px">${esc(shortEtf(x.nom))}</span></span><span style="grid-row:span 2;align-self:center">${spark(h.slice(-126),60,26)}</span><span class="px">${p?nf(p.dernier)+" €":"–"}</span><span class="sub"><span class="pill" style="font-size:10px;padding:1px 6px;border-color:var(--line)">${esc(x.compte||"")}</span> frais ${x.ter!=null?nf(x.ter,2)+" %":"–"}</span><span class="vj ${cls(p?.perf12m)}">1 an ${pct(p?.perf12m)}</span></summary>
+  <div style="padding:10px 0 4px"><p style="font-size:14px;color:var(--tx2)">${esc(x.role||"")}</p><p class="mut" style="font-size:12px;margin-top:8px">${[x.indice?"Indice "+x.indice:"",x.nombreLignesIndice?nf(x.nombreLignesIndice,0)+" lignes":"",x.replication?"réplication "+x.replication:"",x.distribution||"",x.eligiblePEA?"éligible PEA":"hors PEA",x.encours?"encours "+x.encours+(x.encoursLe?" au "+dFR(x.encoursLe):""):"",x.isin?"ISIN "+x.isin:""].filter(Boolean).map(esc).join(" · ")}</p>${p?`<div class="chips" style="margin-top:8px">${["perf1m","perf3m","perf12m"].map(k=>`<span class="pill ${cls(p[k])}" style="border-color:var(--line)">${{perf1m:"1 mois",perf3m:"3 mois",perf12m:"1 an"}[k]} ${pct(p[k])}</span>`).join("")}</div>`:""}${x.source?`<p style="margin-top:8px;font-size:12px"><a href="${esc(x.source)}" target="_blank" rel="noopener" class="mut" style="text-decoration:underline">source : ${esc(host(x.source))}</a></p>`:""}</div></details>`};
+ const h=etfHist(c.code).slice(-260);
+ return head("Valeurs")+segNav("#/etf")+`
+ <div class="sec"><div class="k">Ton cœur de portefeuille</div><h2 style="margin-top:8px">${esc(shortEtf(c.nom))}</h2><p class="mut" style="font-size:13px;margin-top:4px">${esc(c.code)} · ${esc(c.place||"")} · frais ${nf(c.ter,2)} % par an · ${esc(c.distribution||"")}</p>
+ <div style="display:flex;align-items:baseline;gap:12px;margin-top:14px"><span class="mono" style="font-size:30px">${cp?nf(cp.dernier)+" €":"–"}</span><span class="mono ${cls(cp?.perf12m)}" style="font-size:13px">${cp?"1 an "+pct(cp.perf12m):""}</span></div>
+ ${h.length>1?`<div class="chart" id="etfc">${chartSVG([{pts:h,color:"#efe9dc"}])}</div><div class="read"></div>`:""}</div>
+ <div class="sec"><div class="k">Ce que contient ton ETF</div><p style="margin-top:8px;color:var(--tx2)">${nf(c.nombreLignesIndice,0)} entreprises de pays développés. Les 10 plus grosses pèsent ${nf((c.top10||[]).reduce((a,b)=>a+b.poids,0),1)} % à elles seules, et les États-Unis ${nf((c.pays||[]).find(p=>/tats/.test(p.pays))?.poids,1)} %. C'est pour ça qu'on ne rachète pas ces géants à côté : tu les as déjà.</p>
+ <div class="k" style="margin-top:16px">Les 10 plus grosses positions</div>${hbars(c.top10||[],r=>r.nom,r=>r.poids,"var(--tx2)")}
+ <div class="k" style="margin-top:18px">Par pays</div>${hbars(c.pays||[],r=>r.pays,r=>r.poids,"#9fb7d9",100)}
+ <div class="k" style="margin-top:18px">Par secteur</div>${hbars([...(c.secteurs||[])].sort((a,b)=>b.poids-a.poids),r=>r.secteur,r=>r.poids,"#e9a23b")}
+ <p class="mut" style="font-size:11px;margin-top:8px">Composition de l'indice ${esc(c.indice||"")} au ${esc(dFR(c.compoLe))}${c.compoLe?"/"+esc(c.compoLe.slice(2,4)):""}, source ${esc(host(c.compoSource||""))}.</p></div>
+ <div class="sec"><div class="k">D'autres ETF à connaître</div><p style="margin-top:8px;color:var(--tx2)">Personne ne sait lequel rapportera le plus. Ce qui compte sur 20 ans : les frais, la taille, et surtout ce qu'il ajoute ou double par rapport à ton ETF monde. Touche une ligne pour le détail.</p>
+ <div class="list" style="margin-top:12px">${E.candidats.map(card).join("")}</div>
+ <p class="mut" style="font-size:11px;margin-top:8px">Fiches vérifiées le ${esc(dFR(E.verifieLe))}. Frais et caractéristiques tirés de justETF, composition de la fiche officielle MSCI. Deux ETF (PAEEM, MMS) suivent une version ESG de leur indice.</p></div>
+ ${foot()}`}
+function shortEtf(n){return String(n||"").replace(/ UCITS ETF.*$/,"").replace(/ \(Acc\)| Acc$| EUR C$/,"")}
+function afterEtf(){const c=etfData().coeur;const box=$("#etfc");if(box&&c){const h=etfHist(c.code).slice(-260);const p0=h[0][1];box.nextElementSibling.innerHTML=`sur un an <span class="${cls(h[h.length-1][1]/p0-1)}">${pct((h[h.length-1][1]/p0-1)*100)}</span> · fais glisser le doigt sur la courbe`;wireScrub(box,null,i=>`${esc(h[i][0])} · ${nf(h[i][1])} €`)}}
+function vIdees(){const P=APP.propositions||[];
+ return head("Valeurs")+segNav("#/idees")+`<p style="margin-top:14px;color:var(--tx2)">Chaque 1er du mois, une recherche dans le monde entier, en PEA ou en compte-titres, propose de nouvelles sociétés qui collent à notre façon d'investir. Ce sont des pistes à étudier : c'est toi seul qui décides d'en ajouter une à ta liste.</p>
+ ${P.length?`<div class="list sec" style="margin-top:14px">${P.map(p=>`<details><summary style="display:flex;flex-direction:column;gap:6px"><div style="display:flex;align-items:baseline;gap:8px"><h3>${esc(p.nom||p.ticker)}</h3><span class="mono mut" style="font-size:11px">${esc(p.ticker||"")}</span>${p.compte?`<span class="pill" style="margin-left:auto;font-size:10px;padding:1px 6px;border-color:var(--line)">${esc(p.compte)}</span>`:""}</div><p class="mut" style="font-size:12px">${[p.pays,p.secteur,p.capi].filter(Boolean).map(esc).join(" · ")}</p><p style="font-size:14px;color:var(--tx2)">${esc(p.these||p.pitch||p.resume||p.pourquoi||"")}</p></summary><div style="margin-top:8px;font-size:13px">${p.lienGeo?`<p><span class="watch">Lien avec le monde.</span> <span class="mut">${esc(p.lienGeo)}</span></p>`:""}${p.risque?`<p style="margin-top:6px"><span class="ko">Risque.</span> <span class="mut">${esc(p.risque)}</span></p>`:""}${p.source?`<p style="margin-top:6px"><a href="${esc(p.source)}" target="_blank" rel="noopener" class="mut" style="text-decoration:underline">source : ${esc(host(p.source))}</a></p>`:""}</div></details>`).join("")}</div>`:`<div class="empty">Les premières idées arrivent le jeudi 1er octobre. Elles apparaîtront ici automatiquement.</div>`}
+ ${foot()}`}
 function vListe(){
  const F=favs();const vs=[...APP.valeurs].sort((a,b)=>(F.includes(b.ticker)-F.includes(a.ticker))||a.nom.localeCompare(b.nom));
  const row=v=>{const vj=varJour(v);const {n}=suivi(v);return `<a class="vrow" href="#/v/${esc(v.ticker)}"><span class="nm">${F.includes(v.ticker)?'<span style="color:var(--amber)">★</span> ':""}${esc(v.nom)}</span><span style="grid-row:span 2;align-self:center">${spark(histo(v).slice(-63),60,26)}</span><span class="px">${nf(price(v))} ${esc(dev(v))}</span><span class="sub">${esc(v.secteur||"")}${n.ko?` · <span class="ko">✗ ${n.ko}</span>`:""}</span><span class="vj ${cls(vj)}">${pct(vj)}</span></a>`};
- return head("Valeurs")+`<p class="mut" style="margin-top:10px;font-size:13px">${vs.length} valeurs suivies. Cours du ${esc(dFR(PX?.genere?.slice(0,10)||""))}, touche une ligne pour la fiche.</p><div class="list sec" style="margin-top:14px">${vs.map(row).join("")}</div>${foot()}`}
+ return head("Valeurs")+segNav("#/valeurs")+`<p class="mut" style="margin-top:12px;font-size:13px">${vs.length} valeurs suivies. Cours du ${esc(dFR(PX?.genere?.slice(0,10)||""))}, touche une ligne pour la fiche.</p><div class="list sec" style="margin-top:14px">${vs.map(row).join("")}</div>${foot()}`}
 let per=store.get("sat.per","6M");
 function vFiche(t){
  const v=V[t];if(!v)return `<p>Valeur introuvable.</p>`;
@@ -321,6 +350,8 @@ function render(){
  const h=location.hash||"#/";const [,r,arg]=h.split("/");let html,after,tab;
  if(r==="v"&&arg){html=vFiche(arg);after=()=>afterFiche(arg);tab="#/valeurs"}
  else if(r==="valeurs"){html=vListe();tab="#/valeurs"}
+ else if(r==="etf"){html=vEtf();after=afterEtf;tab="#/valeurs"}
+ else if(r==="idees"){html=vIdees();tab="#/valeurs"}
  else if(r==="monde"){html=vMonde();tab="#/monde"}
  else if(r==="comparer"){html=vComparer(arg);after=afterComparer;tab="#/comparer"}
  else if(r==="carnet"){html=vCarnet(arg);after=afterCarnet;tab="#/carnet"}
@@ -330,7 +361,7 @@ function render(){
 let lastHash=location.hash;
 addEventListener("hashchange",()=>{const top=!/^#\/v\//.test(lastHash)||!/^#\/v\//.test(location.hash);lastHash=location.hash;render();scrollTo(0,0)});
 async function boot(){
- try{const [a,p]=await Promise.all([fetch("data/app.json",{cache:"no-cache"}).then(r=>r.json()),fetch("data/prices.json",{cache:"no-cache"}).then(r=>r.json())]);APP=a;PX=p;APP.valeurs.forEach(v=>V[v.ticker]=v);render()}
+ try{const [a,p]=await Promise.all([fetch("data/app.json",{cache:"no-cache"}).then(r=>r.json()),fetch("data/prices.json",{cache:"no-cache"}).then(r=>r.json())]);APP=a;PX=p;try{APP.etf=await fetch("data/etf.json",{cache:"no-cache"}).then(r=>r.json())}catch(e){}APP.valeurs.forEach(v=>V[v.ticker]=v);render()}
  catch(e){$("#app").innerHTML=`<div class="load">Impossible de charger les données. Vérifie ta connexion et rouvre l'app.</div>`}}
 boot();
 if("serviceWorker" in navigator)addEventListener("load",()=>navigator.serviceWorker.register("sw.js").catch(()=>{}));

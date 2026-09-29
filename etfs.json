@@ -1,0 +1,38 @@
+{
+ "DCAM": {
+  "symbole": "DCAM.PA",
+  "nom": "Amundi PEA Monde (MSCI World) UCITS ETF Acc"
+ },
+ "ESE": {
+  "symbole": "ESE.PA",
+  "nom": "BNP Paribas Easy S&P 500 UCITS ETF EUR C"
+ },
+ "PUST": {
+  "symbole": "PUST.PA",
+  "nom": "Amundi PEA Nasdaq-100 UCITS ETF Acc"
+ },
+ "ETZ": {
+  "symbole": "ETZ.PA",
+  "nom": "BNP Paribas Easy STOXX Europe 600 UCITS ETF EUR C"
+ },
+ "PAEEM": {
+  "symbole": "PAEEM.PA",
+  "nom": "Amundi PEA Emergent (MSCI Emerging) ESG Transition UCITS ETF Acc"
+ },
+ "MMS": {
+  "symbole": "MMS.PA",
+  "nom": "Amundi MSCI EMU Small Cap ESG Broad Transition UCITS ETF Dist"
+ },
+ "IUSN": {
+  "symbole": "IUSN.DE",
+  "nom": "iShares MSCI World Small Cap UCITS ETF USD (Acc)"
+ },
+ "VWCE": {
+  "symbole": "VWCE.DE",
+  "nom": "Vanguard FTSE All-World UCITS ETF (USD) Accumulating"
+ },
+ "EUNL": {
+  "symbole": "EUNL.DE",
+  "nom": "iShares Core MSCI World UCITS ETF USD (Acc)"
+ }
+}

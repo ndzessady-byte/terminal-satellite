@@ -17,7 +17,10 @@ for f in sorted(glob.glob(os.path.join(src, "valeurs", "*.json"))):
 m = {k: load(os.path.join(src, "marche", k + ".json")) for k in ("snapshot", "geo")}
 mat = load(os.path.join(src, "marche", "matieres.json"))
 notes = {k: s.get("note") for k, s in mat.get("series", {}).items() if s.get("note")}
-out = {"genere": datetime.datetime.now(datetime.timezone.utc).isoformat(timespec="seconds"),
+props = []
+for f in sorted(glob.glob(os.path.join(src, "propositions", "*.json"))):
+    props.append(load(f))
+out = {"propositions": props, "genere": datetime.datetime.now(datetime.timezone.utc).isoformat(timespec="seconds"),
        "snapshot": m["snapshot"], "geo": m["geo"], "matieresNotes": notes,
        "matieresNote": mat.get("note"), "valeurs": vals}
 os.makedirs("data", exist_ok=True)
