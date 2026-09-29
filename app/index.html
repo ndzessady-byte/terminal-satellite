@@ -1,5 +1,315 @@
 <!doctype html>
-<html lang="fr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
-<meta name="theme-color" content="#13120f"><title>Satellite</title>
-<style>html,body{margin:0;height:100%;background:#13120f;color:#efe9dc;font-family:Georgia,serif}main{display:flex;height:100%;align-items:center;justify-content:center;flex-direction:column;gap:8px}p{color:#a39c8c;font-family:system-ui;font-size:14px}</style></head>
-<body><main><h1 style="font-weight:400">Satellite</h1><p>L'app arrive. Le déploiement fonctionne.</p></main></body></html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#13120f">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="3A Wealth">
+<title>3A Wealth</title>
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="apple-touch-icon" href="icon-180.png">
+<link rel="icon" href="icon-192.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,400;6..72,500&family=Geist:wght@400;500;600&family=Geist+Mono:wght@400;500&display=swap">
+<style>
+:root{--bg:#13120f;--card:#1c1a16;--line:#34302a;--rail:#4a453c;--tx:#efe9dc;--tx2:#d9d2c3;--mut:#a39c8c;--amber:#e9a23b;--verm:#e2553a;--up:#7cc4a4;--down:#e07b53;
+--serif:'Newsreader',Georgia,serif;--sans:'Geist',system-ui,sans-serif;--mono:'Geist Mono',ui-monospace,monospace;--safe-b:env(safe-area-inset-bottom,0px);--safe-t:env(safe-area-inset-top,0px)}
+*{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
+html,body{margin:0;background:var(--bg);color:var(--tx);font-family:var(--sans);font-size:15px;line-height:1.45}
+body{overscroll-behavior-y:none}
+a{color:inherit;text-decoration:none}
+button,input,select,textarea{font:inherit;color:inherit}
+main{max-width:560px;margin:0 auto;padding:calc(18px + var(--safe-t)) 20px calc(110px + var(--safe-b))}
+.k{font-family:var(--mono);font-size:11px;letter-spacing:.08em;color:var(--mut);text-transform:uppercase}
+.mono{font-family:var(--mono)}
+.mut{color:var(--mut)}
+h1,h2,h3{font-family:var(--serif);font-weight:400;margin:0;letter-spacing:-.015em}
+h1{font-size:30px;line-height:1.12}
+h2{font-size:23px;line-height:1.2}
+h3{font-size:20px;line-height:1.2}
+p{margin:0}
+.top{display:flex;align-items:center;gap:10px;min-height:44px}
+.top .date{margin-left:auto}
+.back{width:44px;height:44px;margin-left:-12px;display:flex;align-items:center;justify-content:center;background:none;border:0;padding:0}
+.star{width:44px;height:44px;margin-left:auto;background:none;border:0;font-size:22px;color:var(--mut);padding:0}
+.star.on{color:var(--amber)}
+.sec{margin-top:26px}
+.strip{margin-top:18px;display:grid;grid-template-columns:repeat(3,minmax(0,1fr));border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
+.strip>div{padding:10px 0 10px 12px;border-left:1px solid var(--line);display:flex;flex-direction:column;gap:2px;min-width:0}
+.strip>div:first-child{padding-left:0;border-left:0}
+.strip .l{font-size:11px;color:var(--mut)}
+.strip .v{font-family:var(--mono);font-size:15px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.strip .n{font-size:10px;color:var(--mut)}
+.card{display:flex;flex-direction:column;gap:10px;padding:14px 16px;background:var(--card);border-radius:16px;margin-top:10px}
+.row1{display:flex;align-items:baseline;gap:8px;min-width:0}
+.row1 .nm{font-family:var(--serif);font-size:22px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.row1 .px{margin-left:auto;font-family:var(--mono);font-size:17px;white-space:nowrap}
+.meta{display:flex;align-items:center;gap:10px;font-size:12px;color:var(--mut)}
+.meta .cnt{margin-left:auto;display:flex;gap:10px;font-family:var(--mono)}
+.ok{color:var(--up)}.watch{color:var(--amber)}.ko{color:var(--verm)}.nc{color:var(--mut)}
+.upc{color:var(--up)}.dnc{color:var(--down)}
+.bar{position:relative;height:16px}
+.bar .r{position:absolute;left:0;right:0;top:7px;height:2px;background:var(--rail)}
+.bar .z{position:absolute;top:2px;height:12px;background:repeating-linear-gradient(135deg,var(--amber) 0 2px,transparent 2px 6px)}
+.bar .d{position:absolute;top:1px;width:14px;height:14px;margin-left:-7px;border-radius:50%;background:var(--tx);box-shadow:0 0 0 3px var(--card)}
+.bare .d{box-shadow:0 0 0 3px var(--bg)}
+.legs{display:flex;justify-content:space-between;margin-top:6px;font-family:var(--mono);font-size:11px;color:var(--mut)}
+.list>*{padding:12px 0;border-top:1px solid var(--line)}
+.list>*:last-child{border-bottom:1px solid var(--line)}
+.li{display:flex;gap:12px;align-items:baseline}
+.li .tag{font-family:var(--mono);font-size:12px;width:44px;flex-shrink:0}
+.vrow{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:4px 12px;align-items:baseline}
+.vrow .nm{font-size:15px;font-weight:500;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.vrow .px{font-family:var(--mono);font-size:14px;text-align:right}
+.vrow .sub{font-size:12px;color:var(--mut);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.vrow .vj{font-family:var(--mono);font-size:12px;text-align:right}
+.chips{display:flex;gap:6px;flex-wrap:wrap}
+.chip{height:32px;padding:0 12px;border-radius:999px;border:1px solid var(--line);background:none;color:var(--mut);font-family:var(--mono);font-size:12px}
+.chip.on{background:var(--tx);color:var(--bg);border-color:var(--tx)}
+.pill{font-family:var(--mono);font-size:12px;padding:3px 9px;border-radius:999px;border:1px solid currentColor;white-space:nowrap}
+.lvl{font-family:var(--mono);font-size:10px;letter-spacing:.08em;color:var(--bg);padding:3px 7px;border-radius:4px}
+.grid3{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));border-top:1px solid var(--line);border-bottom:1px solid var(--line);margin-top:20px}
+.grid3>div{padding:10px 0 10px 12px;border-left:1px solid var(--line);display:flex;flex-direction:column;gap:2px}
+.grid3>div:first-child{padding-left:0;border-left:0}
+.grid3 .l{font-size:11px;color:var(--mut)}.grid3 .v{font-family:var(--mono);font-size:16px}
+.th{display:grid;grid-template-columns:26px minmax(0,1fr);gap:10px}
+.th .s{font-size:16px;font-weight:600}
+.th .t{font-size:14px;font-weight:600;line-height:1.35}
+.th .r{font-size:13px;color:var(--tx2);margin-top:4px}
+.th .p{font-size:12px;color:var(--mut);margin-top:4px}
+.th .nx{font-family:var(--mono);font-size:11px;color:var(--amber);margin-top:4px}
+details summary{list-style:none;cursor:pointer}
+details summary::-webkit-details-marker{display:none}
+.btn{min-height:44px;padding:0 16px;border-radius:12px;border:1px solid var(--line);background:none;display:inline-flex;align-items:center;justify-content:center;font-size:14px}
+.btn.pri{background:var(--tx);color:var(--bg);border-color:var(--tx);font-weight:500}
+.seg{height:6px;display:flex;gap:3px;margin-top:12px}
+.seg i{border-radius:3px}
+table{width:100%;border-collapse:collapse;font-size:13px}
+th,td{padding:8px 0;border-bottom:1px solid var(--line);text-align:right;font-family:var(--mono);font-weight:400}
+th:first-child,td:first-child{text-align:left;font-family:var(--sans);color:var(--mut)}
+thead th{color:var(--mut);font-size:11px}
+.cmp td.best{color:var(--up)}
+.field{display:flex;flex-direction:column;gap:6px;font-size:12px;color:var(--mut)}
+.field input,.field select,.field textarea{min-height:44px;background:var(--card);border:1px solid var(--line);border-radius:10px;padding:10px 12px;color:var(--tx);font-size:16px}
+textarea{resize:vertical;min-height:90px}
+.form{display:grid;gap:10px;margin-top:12px}
+.form .two{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+nav.tabs{position:fixed;left:0;right:0;bottom:0;z-index:5;background:rgba(19,18,15,.96);backdrop-filter:blur(10px);-webkit-backdrop-filter:blur(10px);border-top:1px solid var(--line);padding:8px 8px calc(10px + var(--safe-b))}
+nav.tabs .in{max-width:560px;margin:0 auto;display:grid;grid-template-columns:repeat(5,minmax(0,1fr))}
+nav.tabs a{display:flex;flex-direction:column;align-items:center;gap:3px;font-size:10.5px;color:var(--mut);min-height:48px;justify-content:center}
+nav.tabs a.on{color:var(--tx)}
+svg.ico{width:22px;height:22px;fill:none;stroke:currentColor;stroke-width:1.6}
+.chart{position:relative;margin-top:14px;touch-action:pan-y}
+.chart svg{display:block;width:100%;height:auto;overflow:visible}
+.read{font-family:var(--mono);font-size:12px;color:var(--mut);min-height:18px;margin-top:4px}
+.empty{padding:16px;border:1px dashed var(--line);border-radius:14px;color:var(--mut);font-size:14px;margin-top:10px}
+.foot{margin-top:32px;font-size:11px;color:var(--mut);line-height:1.5}
+.load{display:flex;height:70vh;align-items:center;justify-content:center;color:var(--mut)}
+.x{background:none;border:0;color:var(--mut);min-width:44px;min-height:44px}
+</style>
+</head>
+<body>
+<main id="app"><div class="load">Chargement…</div></main>
+<nav class="tabs" aria-label="Navigation"><div class="in" id="tabs"></div></nav>
+<script>
+"use strict";
+/* ---------- Petites aides ---------- */
+const $=s=>document.querySelector(s);
+const esc=s=>String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const nf=(n,d=2)=>n==null||isNaN(n)?"–":Number(n).toLocaleString("fr-FR",{minimumFractionDigits:d,maximumFractionDigits:d});
+const pct=(n,d=1)=>n==null||isNaN(n)?"–":(n>0?"+":n<0?"−":"")+nf(Math.abs(n),d)+" %";
+const cls=n=>n==null?"":n>0?"upc":n<0?"dnc":"";
+const store={get(k,d){try{const v=localStorage.getItem(k);return v==null?d:JSON.parse(v)}catch(e){return d}},set(k,v){try{localStorage.setItem(k,JSON.stringify(v))}catch(e){}}};
+const dFR=s=>s?s.slice(8,10)+"/"+s.slice(5,7):"";
+const today=new Date();
+const daysTo=s=>{if(!s||!/^\d{4}-\d{2}-\d{2}/.test(s))return null;const t=new Date(s+"T12:00:00");return Math.round((t-today)/864e5)};
+const ICON={
+ jour:'<svg class="ico" viewBox="0 0 24 24"><circle cx="12" cy="12" r="4"/><path d="M12 3v2M12 19v2M3 12h2M19 12h2"/></svg>',
+ val:'<svg class="ico" viewBox="0 0 24 24"><path d="M4 18l5-6 4 3 7-9"/></svg>',
+ monde:'<svg class="ico" viewBox="0 0 24 24"><circle cx="12" cy="12" r="8"/><path d="M4 12h16M12 4c3 3 3 13 0 16M12 4c-3 3-3 13 0 16"/></svg>',
+ cmp:'<svg class="ico" viewBox="0 0 24 24"><path d="M6 20V9M12 20V4M18 20v-7"/></svg>',
+ carnet:'<svg class="ico" viewBox="0 0 24 24"><path d="M6 3h11a1 1 0 0 1 1 1v16l-3-2-3 2-3-2-3 2V4a1 1 0 0 1 1-1z"/><path d="M9 8h6M9 12h6"/></svg>',
+ back:'<svg class="ico" viewBox="0 0 24 24"><path d="M15 5l-7 7 7 7"/></svg>'};
+const LOGO='<img src="mark.png" alt="" width="36" height="23" style="display:block">';
+
+/* ---------- Données ---------- */
+let APP=null, PX=null, V={};
+const favs=()=>store.get("sat.favs",[]);
+function toggleFav(t){let f=favs();f=f.includes(t)?f.filter(x=>x!==t):[...f,t];store.set("sat.favs",f);render()}
+function price(v){const s=PX?.series?.[v.ticker];return s?.dernier??v.analyse?.tech?.cours??v.cours}
+function priceDate(v){const s=PX?.series?.[v.ticker];return s?.dernierLe??v.coursLe}
+const HC={};function histo(v){if(HC[v.ticker])return HC[v.ticker];const h=(PX?.series?.[v.ticker]?.histo||[]).map(p=>[/^\d{4}-/.test(p[0])?p[0].slice(8,10)+"/"+p[0].slice(5,7)+"/"+p[0].slice(2,4):p[0],p[1]]);return HC[v.ticker]=h}
+function varJour(v){const h=histo(v);if(h.length<2)return null;return (h[h.length-1][1]/h[h.length-2][1]-1)*100}
+function perf(v,k){const s=PX?.series?.[v.ticker];const m={m1:"perf1m",m3:"perf3m",m12:"perf12m"}[k];return s?.[m]??v.perf?.[k]}
+function hi52(v){return PX?.series?.[v.ticker]?.haut52??v.analyse?.tech?.haut52}
+function lo52(v){return PX?.series?.[v.ticker]?.bas52??v.analyse?.tech?.bas52}
+function zoneOf(v){const m=(v.analyse?.zones?.interet||"").replace(/(\d)\s(\d)/g,"$1$2").replace(/,/g,".").match(/(\d+(?:\.\d+)?)\s*(?:€|NOK|\$)?\s*(?:à|-|et)\s*(\d+(?:\.\d+)?)/);if(!m)return null;const a=+m[1],b=+m[2],px=price(v);if(!px||a<px*.4||b>px*2.5)return null;return [Math.min(a,b),Math.max(a,b)]}
+function zoneTxt(v){const z=zoneOf(v),px=price(v);if(!z||!px)return "";if(px>=z[0]&&px<=z[1])return "dans sa zone d'intérêt";return px>z[1]?nf((px/z[1]-1)*100,1)+" % au-dessus de sa zone":nf((1-px/z[0])*100,1)+" % sous sa zone"}
+function suivi(v){const s=v.societe?.suivi;if(!s)return {items:[],n:{ok:0,watch:0,ko:0,nc:0}};const items=[...(s.croire||[]).map(x=>({...x,t:x.c,kind:"croire"})),...(s.questions||[]).map(x=>({...x,t:x.q,kind:"question"}))];const n={ok:0,watch:0,ko:0,nc:0};items.forEach(i=>n[i.etat]!=null&&n[i.etat]++);return {items,n,bilan:s.bilan,le:s.le}}
+const SYM={ok:"✓",watch:"⚠",ko:"✗",nc:"?"};
+function counts(v){const {n}=suivi(v);return ["ok","watch","ko","nc"].filter(k=>n[k]||k==="ok"||k==="watch").map(k=>`<span class="${k}">${SYM[k]} ${n[k]}</span>`).join("")}
+function barHTML(v,bare){const lo=lo52(v),hi=hi52(v),px=price(v);if(lo==null||hi==null||!(hi>lo)||px==null)return "";const P=x=>Math.max(0,Math.min(100,(x-lo)/(hi-lo)*100));const z=zoneOf(v);const zb=z?`<div class="z" style="left:${P(z[0])}%;width:${Math.max(1.5,P(z[1])-P(z[0]))}%"></div>`:"";return `<div class="bar ${bare?"bare":""}" role="img" aria-label="Cours ${nf(px)} entre le plus bas ${nf(lo)} et le plus haut ${nf(hi)} sur un an"><div class="r"></div>${zb}<div class="d" style="left:${P(px)}%"></div></div>`}
+const dev=v=>v.devise||"€";
+const place=v=>({IT:"Milan",FR:"Paris",DE:"Francfort",ES:"Madrid",NL:"Amsterdam",BE:"Bruxelles",NO:"Oslo",FI:"Helsinki",SE:"Stockholm",DK:"Copenhague",CH:"Zurich",US:"New York",GB:"Londres"}[v.pays]||v.pays||"");
+
+/* ---------- Graphique ---------- */
+function chartSVG(series,opt={}){ // series: [{pts:[[label,y]],color}]
+ const W=opt.w||346,H=opt.h||160,pt=8,pb=20;
+ let ys=[];series.forEach(s=>s.pts.forEach(p=>ys.push(p[1])));if(opt.zone)ys.push(...opt.zone);if(opt.base!=null)ys.push(opt.base);
+ if(!ys.length)return "";
+ let lo=Math.min(...ys),hi=Math.max(...ys);const pad=(hi-lo)*.06||1;lo-=pad;hi+=pad;
+ const n=Math.max(...series.map(s=>s.pts.length));const X=i=>i/Math.max(1,n-1)*W,Y=y=>pt+(1-(y-lo)/(hi-lo))*(H-pt-pb);
+ let g="";
+ if(opt.zone){const a=Y(Math.min(hi,opt.zone[1])),b=Y(Math.max(lo,opt.zone[0]));g+=`<rect x="0" width="${W}" y="${a}" height="${Math.max(2,b-a)}" fill="#e9a23b" opacity=".14"/><line x1="0" x2="${W}" y1="${a}" y2="${a}" stroke="#e9a23b" stroke-opacity=".5" stroke-dasharray="2 4"/><line x1="0" x2="${W}" y1="${b}" y2="${b}" stroke="#e9a23b" stroke-opacity=".5" stroke-dasharray="2 4"/>`}
+ if(opt.base!=null)g+=`<line x1="0" x2="${W}" y1="${Y(opt.base)}" y2="${Y(opt.base)}" stroke="#4a453c" stroke-dasharray="2 4"/>`;
+ series.forEach(s=>{g+=`<polyline fill="none" stroke="${s.color}" stroke-width="1.8" stroke-linejoin="round" points="${s.pts.map((p,i)=>X(i).toFixed(1)+","+Y(p[1]).toFixed(1)).join(" ")}"/>`;const l=s.pts[s.pts.length-1];if(l&&!opt.noDot)g+=`<circle cx="${X(s.pts.length-1)}" cy="${Y(l[1])}" r="4.5" fill="${s.color}" stroke="#13120f" stroke-width="2"/>`});
+ const p0=series[0].pts;g+=`<text x="0" y="${H-4}" fill="#a39c8c" font-family="Geist Mono" font-size="10">${esc(p0[0]?.[0]||"")}</text><text x="${W}" y="${H-4}" fill="#a39c8c" font-family="Geist Mono" font-size="10" text-anchor="end">${esc(p0[p0.length-1]?.[0]||"")}</text>`;
+ g+=`<line class="cur" x1="0" x2="0" y1="${pt}" y2="${H-pb}" stroke="#efe9dc" stroke-opacity=".35" visibility="hidden"/>`;
+ return `<svg viewBox="0 0 ${W} ${H}" data-n="${n}" data-w="${W}">${g}</svg>`}
+function wireScrub(box,series,fmt){const svg=box.querySelector("svg"),rd=box.nextElementSibling;if(!svg)return;const n=+svg.dataset.n,W=+svg.dataset.w,cur=svg.querySelector(".cur");const def=rd.innerHTML;
+ const at=e=>{const r=svg.getBoundingClientRect();const x=((e.touches?e.touches[0].clientX:e.clientX)-r.left)/r.width;const i=Math.max(0,Math.min(n-1,Math.round(x*(n-1))));cur.setAttribute("x1",i/(n-1)*W);cur.setAttribute("x2",i/(n-1)*W);cur.setAttribute("visibility","visible");rd.innerHTML=fmt(i)};
+ const end=()=>{cur.setAttribute("visibility","hidden");rd.innerHTML=def};
+ box.addEventListener("pointermove",at);box.addEventListener("touchmove",at,{passive:true});box.addEventListener("pointerleave",end);box.addEventListener("touchend",end)}
+const PER={"1M":21,"3M":63,"6M":126,"1A":260};
+
+/* ---------- Écrans ---------- */
+function head(title){const d=today.toLocaleDateString("fr-FR",{weekday:"short",day:"numeric",month:"short"}).toUpperCase();return `<div class="top">${LOGO}<span style="font-family:var(--serif);font-size:22px">${esc(title||"3A Wealth")}</span><span class="k date">${esc(d)}</span></div>`}
+function favCard(v){const vj=varJour(v);return `<a class="card" href="#/v/${esc(v.ticker)}"><div class="row1"><span class="nm">${esc(v.nom)}</span><span class="mono mut" style="font-size:11px">${esc(v.ticker)} · ${esc(place(v).toUpperCase())}</span><span class="px">${nf(price(v))} ${esc(dev(v))}</span></div>${barHTML(v)}<div class="meta"><span>${esc(zoneTxt(v))}${vj!=null?` · <span class="${cls(vj)}">${pct(vj)}</span>`:""}</span><span class="cnt">${counts(v)}</span></div></a>`}
+function vJour(){
+ const s=APP.snapshot||{},g=APP.geo||{};const macro=k=>(s.macro||[]).find(m=>m.label===k);
+ const br=macro("Brent"),oat=macro("OAT 10 ans");const lead=(g.lecture||"").split(/(?<=\.)\s/)[0];
+ const F=favs().map(t=>V[t]).filter(Boolean);
+ const watch=[];APP.valeurs.forEach(v=>{suivi(v).items.filter(i=>i.etat==="ko").forEach(i=>watch.push({tag:"✗",c:"ko",txt:`${v.nom} : ${i.reponse||i.t}`,t:v.ticker,o:0}));const d=daysTo(v.pub);if(d!=null&&d>=0&&d<=30)watch.push({tag:"J-"+d,c:"watch",txt:`${v.nom} : ${v.pubLabel||"publication"} le ${dFR(v.pub)}.`,t:v.ticker,o:1+d})});
+ watch.sort((a,b)=>a.o-b.o);
+ return head()+`
+ <div class="sec" style="margin-top:22px"><div class="k">Ce qui compte</div><h1 style="margin-top:8px">${esc(lead)}</h1></div>
+ <div class="strip">
+  <div><span class="l">Brent</span><span class="v">${esc(br?.valeur||"–")}</span><span class="n">${esc(dFR(s.asOf))}</span></div>
+  <div><span class="l">OAT 10 ans</span><span class="v">${esc(oat?.valeur||"–")}</span><span class="n">${esc(oat?.var||"")}</span></div>
+  <div><span class="l">ETF monde</span><span class="v">${s.etf?nf(s.etf.cours)+" €":"–"}</span><span class="n">${esc(dFR(s.etf?.coursLe))}</span></div>
+ </div>
+ <div class="sec" style="display:flex;align-items:baseline"><span class="k">Mes favoris</span><span class="mut" style="margin-left:auto;font-size:12px">${F.length} suivi${F.length>1?"s":""}</span></div>
+ ${F.length?F.map(favCard).join(""):`<div class="empty">Aucun favori pour l'instant. Ouvre une valeur dans <a href="#/valeurs" style="color:var(--amber)">Valeurs</a> et touche l'étoile ☆ pour la suivre ici.</div>`}
+ <div class="sec"><div class="k" style="margin-bottom:6px">À regarder</div><div class="list">${watch.slice(0,6).map(w=>`<a class="li" href="#/v/${esc(w.t)}"><span class="tag ${w.c}">${esc(w.tag)}</span><span style="font-size:14px;line-height:1.35">${esc(w.txt)}</span></a>`).join("")||`<div class="mut">Rien de particulier.</div>`}</div></div>
+ ${(s.attention||[]).length?`<div class="sec"><div class="k" style="margin-bottom:6px">La semaine (${esc(s.semaine||"")})</div><div class="list">${(s.semaineTexte||[]).map(t=>`<p style="font-size:14px;color:var(--tx2)">${esc(t)}</p>`).join("")}</div></div>`:""}
+ ${foot()}`}
+function vListe(){
+ const F=favs();const vs=[...APP.valeurs].sort((a,b)=>(F.includes(b.ticker)-F.includes(a.ticker))||a.nom.localeCompare(b.nom));
+ const row=v=>{const vj=varJour(v);const {n}=suivi(v);return `<a class="vrow" href="#/v/${esc(v.ticker)}"><span class="nm">${F.includes(v.ticker)?'<span style="color:var(--amber)">★</span> ':""}${esc(v.nom)}</span><span class="px">${nf(price(v))} ${esc(dev(v))}</span><span class="sub">${esc(v.secteur||"")}${n.ko?` · <span class="ko">✗ ${n.ko}</span>`:""}</span><span class="vj ${cls(vj)}">${pct(vj)}</span></a>`};
+ return head("Valeurs")+`<p class="mut" style="margin-top:10px;font-size:13px">${vs.length} valeurs suivies. Cours du ${esc(dFR(PX?.genere?.slice(0,10)||""))}, touche une ligne pour la fiche.</p><div class="list sec" style="margin-top:14px">${vs.map(row).join("")}</div>${foot()}`}
+let per=store.get("sat.per","6M");
+function vFiche(t){
+ const v=V[t];if(!v)return `<p>Valeur introuvable.</p>`;
+ const vj=varJour(v),on=favs().includes(t),{items,n,bilan,le}=suivi(v),z=zoneOf(v),so=v.societe||{},an=v.analyse||{};
+ const d=daysTo(v.pub);const geo=(APP.geo?.points||[]).map(p=>({p,x:(p.valeurs||[]).find(x=>x.ticker===t)})).filter(o=>o.x);
+ const tot=n.ok+n.watch+n.ko+n.nc||1;
+ const ch=(so.chiffres||[]);
+ return `<div class="top"><a class="back" href="#/valeurs" aria-label="Retour">${ICON.back}</a><span class="k">${esc(t)} · ${esc(place(v))}${v.compte?" · "+esc(v.compte):""}</span><button class="star ${on?"on":""}" id="fav" aria-label="${on?"Retirer des favoris":"Ajouter aux favoris"}">${on?"★":"☆"}</button></div>
+ <h1 style="font-size:40px;line-height:1;margin-top:4px">${esc(v.nom)}</h1>
+ <p style="margin-top:10px;color:var(--tx2)">${esc(so.resume||v.these||"")}</p>
+ <div style="display:flex;align-items:baseline;gap:12px;margin-top:20px"><span class="mono" style="font-size:34px;letter-spacing:-.03em">${nf(price(v))} ${esc(dev(v))}</span><span class="mono ${cls(vj)}" style="font-size:13px">${pct(vj)}</span><span class="mut" style="margin-left:auto;font-size:12px">clôture ${esc(dFR(priceDate(v)))}</span></div>
+ <div class="chips" style="margin-top:12px" id="per">${Object.keys(PER).map(k=>`<button class="chip ${k===per?"on":""}" data-p="${k}">${k}</button>`).join("")}</div>
+ <div class="chart" id="ch"></div><div class="read" id="chr"></div>
+ <div style="margin-top:14px">${barHTML(v,true)}<div class="legs"><span>bas 1 an ${nf(lo52(v))}</span>${z?`<span style="color:var(--amber)">zone ${nf(z[0],0)} à ${nf(z[1],0)}</span>`:""}<span>haut ${nf(hi52(v))}</span></div></div>
+ <div class="grid3"><div><span class="l">PER 2026</span><span class="v">${v.per26!=null?nf(v.per26,1):"–"}</span></div><div><span class="l">Note</span><span class="v">${an.fonda?.score!=null?an.fonda.score+"/10":"–"}</span></div><div><span class="l">${esc(v.pubLabel||"Publication")}</span><span class="v">${d!=null&&d>=0?"J-"+d:esc(dFR(v.pub))}</span></div></div>
+ <div class="chips" style="margin-top:10px">${["m1","m3","m12"].map(k=>`<span class="pill ${cls(perf(v,k))}" style="border-color:var(--line)">${{m1:"1 mois",m3:"3 mois",m12:"1 an"}[k]} ${pct(perf(v,k))}</span>`).join("")}</div>
+ ${items.length?`<div class="sec"><div class="k">Ta thèse, aujourd'hui${le?" · "+esc(dFR(le)):""}</div><h2 style="margin-top:8px">${esc(bilan||"")}</h2>
+ <div class="seg">${["ok","watch","ko","nc"].map(k=>n[k]?`<i style="flex-grow:${n[k]};background:${{ok:"var(--up)",watch:"var(--amber)",ko:"var(--verm)",nc:"var(--rail)"}[k]}"></i>`:"").join("")}</div>
+ <div class="list" style="margin-top:14px">${items.map(i=>`<details class="th"><summary style="display:contents"><span class="s ${esc(i.etat)}">${SYM[i.etat]||"?"}</span><div><div class="t">${esc(i.t)}</div><div class="r">${esc(i.reponse||"")}</div></div></summary><span></span><div>${i.preuve?`<div class="p">Preuve : ${esc(i.preuve)}</div>`:""}${i.prochain?`<div class="nx">prochaine réponse : ${esc(i.prochain)}</div>`:""}${i.source?`<div class="p"><a href="${esc(i.source)}" target="_blank" rel="noopener" style="text-decoration:underline">source : ${esc(host(i.source))}</a></div>`:""}</div></details>`).join("")}</div>
+ <p class="mut" style="font-size:11px;margin-top:6px">Touche une ligne pour voir la preuve et la source.</p></div>`:""}
+ <div class="sec"><div class="k">Dans le monde</div>${geo.length?`<div class="list" style="margin-top:8px">${geo.map(o=>`<a href="#/monde" style="display:block"><span class="${o.x.sens==="positif"?"upc":o.x.sens==="negatif"?"dnc":"mut"}">${o.x.sens==="positif"?"▲":o.x.sens==="negatif"?"▼":"•"}</span> <b style="font-weight:500">${esc(o.p.titre)}</b><p style="font-size:13px;color:var(--tx2);margin-top:4px">${esc(o.x.effet)}</p></a>`).join("")}</div>`:`<p style="margin-top:8px;color:var(--tx2)">Aucun des points chauds suivis ne la cite directement.</p>`}</div>
+ ${an.verdict?`<div class="sec"><div class="k">L'analyse</div><p style="margin-top:8px;color:var(--tx2)">${esc(an.verdict)}</p>${an.zones?.interet?`<p style="margin-top:8px;font-size:13px"><span style="color:var(--amber)">Zone d'intérêt.</span> <span class="mut">${esc(an.zones.interet)}</span></p>`:""}${an.zones?.invalidation?`<p style="margin-top:6px;font-size:13px"><span class="ko">Ce qui invaliderait.</span> <span class="mut">${esc(an.zones.invalidation)}</span></p>`:""}</div>`:""}
+ <details class="sec"><summary class="btn" style="width:100%">La société en détail</summary><div style="margin-top:14px">
+  ${so.modele?`<p style="color:var(--tx2)">${esc(so.modele)}</p>`:""}
+  <p class="mut" style="font-size:13px;margin-top:10px">${[so.fondee?"Fondée en "+so.fondee:"",so.siege,so.effectifs?nf(so.effectifs,0)+" salariés":"",v.capi?"capitalisation "+v.capi:""].filter(Boolean).map(esc).join(" · ")}</p>
+  ${ch.length?`<table style="margin-top:14px"><thead><tr><th>Année</th><th>CA</th><th>Marge op.</th><th>Rés. net</th><th>Div.</th></tr></thead><tbody>${ch.map(r=>`<tr><td>${esc(r.annee)}</td><td>${nf(r.ca,0)}</td><td>${r.margeOp!=null?nf(r.margeOp,1)+" %":"–"}</td><td>${r.rn!=null?nf(r.rn,0):"–"}</td><td>${r.dividende!=null?nf(r.dividende,2):"–"}</td></tr>`).join("")}</tbody></table><p class="mut" style="font-size:11px;margin-top:4px">En millions de ${esc(so.devise||dev(v))}, dividende par action en ${esc(so.devDividende||so.devise||dev(v))}. « e » = estimation.</p>`:""}
+  ${(so.segments||[]).length?`<div class="k" style="margin-top:18px">Ce qu'elle vend</div><div class="list" style="margin-top:6px">${so.segments.map(s=>`<div><div style="display:flex"><span>${esc(s.nom)}</span><span class="mono" style="margin-left:auto">${s.part!=null?nf(s.part,1)+" %":""}</span></div><p class="mut" style="font-size:12px">${esc(s.detail||"")}</p></div>`).join("")}</div>`:""}
+  ${(so.histoire||[]).length?`<div class="k" style="margin-top:18px">Son histoire</div><div class="list" style="margin-top:6px">${so.histoire.map(h=>`<div class="li"><span class="tag mono mut">${esc(h.annee)}</span><span style="font-size:14px">${esc(h.fait)}</span></div>`).join("")}</div>`:""}
+  ${(so.dirigeants||[]).length?`<div class="k" style="margin-top:18px">Qui dirige</div><div class="list" style="margin-top:6px">${so.dirigeants.map(p=>`<div style="font-size:14px">${esc(p.nom)} <span class="mut">· ${esc(p.role)}${p.depuis?" depuis "+esc(p.depuis):""}</span></div>`).join("")}</div>`:""}
+  ${so.verifieLe?`<p class="mut" style="font-size:11px;margin-top:12px">Fiche vérifiée sur les sources officielles le ${esc(dFR(so.verifieLe))}.</p>`:""}
+ </div></details>
+ <div class="sec" style="display:flex;gap:8px"><a class="btn" href="#/comparer/${esc(t)}">Comparer</a><a class="btn" href="#/carnet/${esc(t)}">Noter dans mon carnet</a></div>
+ ${foot()}`}
+function host(u){try{return new URL(u).hostname.replace(/^www\./,"")}catch(e){return u}}
+function afterFiche(t){const v=V[t];$("#fav").onclick=()=>toggleFav(t);
+ const draw=()=>{const h=histo(v).slice(-PER[per]);const box=$("#ch");if(h.length<2){box.innerHTML='<p class="mut">L\'historique se construit.</p>';return}
+  box.innerHTML=chartSVG([{pts:h,color:"#efe9dc"}],{zone:zoneOf(v)});const rd=$("#chr");const p0=h[0][1],pl=h[h.length-1][1];rd.innerHTML=`sur la période <span class="${cls(pl/p0-1)}">${pct((pl/p0-1)*100)}</span> · fais glisser le doigt sur la courbe`;
+  wireScrub(box,null,i=>`${esc(h[i][0])} · ${nf(h[i][1])} ${esc(dev(v))} · <span class="${cls(h[i][1]/p0-1)}">${pct((h[i][1]/p0-1)*100)}</span> depuis le début`)};
+ $("#per").onclick=e=>{const b=e.target.closest("[data-p]");if(!b)return;per=b.dataset.p;store.set("sat.per",per);$("#per").querySelectorAll(".chip").forEach(c=>c.classList.toggle("on",c.dataset.p===per));draw()};draw()}
+const LV={eleve:["ÉLEVÉ","var(--down)"],moyen:["MOYEN","var(--amber)"],faible:["FAIBLE","var(--up)"]};
+const TD={hausse:"s'aggrave",baisse:"se détend",stable:"stable"};
+function vMonde(){
+ const g=APP.geo||{},M=PX?.matieres||{};const order=["BRENT","GAZ_EU","OR","ARGENT","CUIVRE","ALU","BLE","EURUSD"];const u={BRENT:"$ le baril",GAZ_EU:"€ le MWh",OR:"$ l'once",ARGENT:"$ l'once",CUIVRE:"$ la livre",ALU:"$ la tonne",BLE:"cents le boisseau",EURUSD:"$ pour 1 €"};
+ const pts=[...(g.points||[])].sort((a,b)=>({eleve:0,moyen:1,faible:2}[a.niveau]??3)-({eleve:0,moyen:1,faible:2}[b.niveau]??3));
+ return head("Monde")+`<p style="margin-top:14px;color:var(--tx2)">${esc(g.lecture||"")}</p>
+ <div class="list sec" style="margin-top:18px">${pts.map(p=>{const lv=LV[p.niveau]||[String(p.niveau||"").toUpperCase(),"var(--mut)"];const last=(p.faits||[]).slice(-1)[0];return `<details><summary style="display:flex;flex-direction:column;gap:8px"><div style="display:flex;align-items:center;gap:8px"><span class="lvl" style="background:${lv[1]}">${esc(lv[0])}</span><span class="mono mut" style="font-size:11px">${esc(TD[p.tendance]||p.tendance||"")}</span><span class="mut" style="margin-left:auto;font-size:11px">${esc(p.region||"")}</span></div><h3>${esc(p.titre)}</h3>${last?`<p style="font-size:13px;color:var(--tx2)"><span class="mono mut">${esc(last.d)}</span> ${esc(last.t)}</p>`:""}<div class="chips">${(p.valeurs||[]).map(x=>`<span class="pill ${x.sens==="positif"?"upc":x.sens==="negatif"?"dnc":"mut"}">${x.sens==="positif"?"▲":x.sens==="negatif"?"▼":"•"} ${esc(x.ticker)}</span>`).join("")}</div></summary>
+  <div style="margin-top:12px"><p style="font-size:14px;color:var(--tx2)">${esc(p.resume||"")}</p>${(p.valeurs||[]).map(x=>`<a href="#/v/${esc(x.ticker)}" style="display:block;margin-top:10px;font-size:13px"><b style="font-weight:500">${esc(V[x.ticker]?.nom||x.ticker)}</b> <span class="mut">${esc(x.effet)}</span></a>`).join("")}${(p.surveiller||[]).length?`<div class="k" style="margin-top:14px">À surveiller</div>${p.surveiller.map(s=>`<p style="font-size:13px;margin-top:4px;color:var(--tx2)">· ${esc(typeof s==="string"?s:(s.t||s.quoi||JSON.stringify(s)))}</p>`).join("")}`:""}</div></details>`}).join("")}</div>
+ <div class="sec" style="display:flex;align-items:baseline"><span class="k">Matières premières</span><span class="mut" style="margin-left:auto;font-size:11px">sur 1 mois</span></div>
+ <div class="list" style="margin-top:8px">${order.filter(k=>M[k]).map(k=>{const m=M[k],note=APP.matieresNotes?.[k];return `<details><summary style="display:grid;grid-template-columns:minmax(0,1fr) 90px 70px;align-items:center;gap:8px"><div><div style="font-size:14px">${esc(m.nom)}${note?' <span class="watch" title="échéance">⚠</span>':""}</div><div class="mut" style="font-size:11px">${esc(u[k]||m.unite)}</div></div><span class="mono" style="text-align:right">${nf(m.dernier,m.dernier>=100?0:m.dernier>=10?1:3)}</span><span class="mono ${cls(m.perf1m)}" style="text-align:right;font-size:13px">${pct(m.perf1m)}</span></summary><div style="margin-top:8px;font-size:13px;color:var(--tx2)">${note?`<p class="watch" style="margin-bottom:6px">${esc(note)}</p>`:""}${esc(g.matieres?.[k]?.moteurs||"")}</div></details>`}).join("")}</div>
+ ${foot()}`}
+function cagr(v){const r=(v.societe?.chiffres||[]).filter(x=>x.ca!=null&&!/e/i.test(String(x.annee)));if(r.length<2)return null;const a=r[0],b=r[r.length-1],n=(+b.annee)-(+a.annee);return n>0?((b.ca/a.ca)**(1/n)-1)*100:null}
+function lastReal(v){return (v.societe?.chiffres||[]).filter(x=>x.margeOp!=null&&!/e/i.test(String(x.annee))).slice(-1)[0]}
+function vComparer(t0){
+ let sel=store.get("sat.cmp",null);if(t0){const base=V[t0];const same=APP.valeurs.filter(v=>v.ticker!==t0&&v.secteur===base.secteur).map(v=>v.ticker);const f=favs().filter(x=>x!==t0);sel=[t0,...[...same,...f,...APP.valeurs.map(v=>v.ticker)].filter((x,i,a)=>x!==t0&&a.indexOf(x)===i)].slice(0,3)}
+ if(!sel||sel.length!==3||sel.some(x=>!V[x]))sel=(favs().concat(["REY","AUB","ATE"],APP.valeurs.map(v=>v.ticker))).filter((x,i,a)=>V[x]&&a.indexOf(x)===i).slice(0,3);
+ store.set("sat.cmp",sel);const vs=sel.map(t=>V[t]);const COL=["#e9a23b","#9fb7d9","#c7a9e0"];
+ const rows=[["Marge op.",v=>lastReal(v)?.margeOp,x=>nf(x,1)+" %",1,v=>lastReal(v)?.annee],["CA par an",cagr,x=>pct(x),1],["PER 2026",v=>v.per26,x=>nf(x,1),-1],["Note",v=>v.analyse?.fonda?.score,x=>x+"/10",1],["Sur 3 mois",v=>perf(v,"m3"),x=>pct(x),1],["Sur 1 an",v=>perf(v,"m12"),x=>pct(x),1]];
+ const body=rows.map(([l,f,fm,dir,sub])=>{const xs=vs.map(f);const ok=xs.filter(x=>x!=null);const best=ok.length>1?(dir>0?Math.max(...ok):Math.min(...ok)):null;return `<tr><td>${esc(l)}${sub&&sub(vs[0])?` <span style="font-size:10px">${esc(sub(vs[0]))}</span>`:""}</td>${xs.map(x=>`<td class="${x!=null&&x===best?"best":""}">${x==null?"–":fm(x)}</td>`).join("")}</tr>`}).join("")+`<tr><td>Thèse</td>${vs.map(v=>{const n=suivi(v).n;return `<td style="font-size:12px"><span class="ok">✓${n.ok}</span> <span class="watch">⚠${n.watch}</span>${n.ko?` <span class="ko">✗${n.ko}</span>`:""}</td>`}).join("")}</tr>`;
+ const m=vs.map(lastReal).map(x=>x?.margeOp);const bi=m.indexOf(Math.max(...m.filter(x=>x!=null)));const p3=vs.map(v=>perf(v,"m3"));const pi=p3.indexOf(Math.max(...p3.filter(x=>x!=null)));
+ const lead=bi>=0&&pi>=0?(bi===pi?`${vs[bi].nom} est à la fois la plus rentable et celle qui a le plus monté sur 3 mois.`:`${vs[bi].nom} est la plus rentable, ${vs[pi].nom} celle qui a le plus monté sur 3 mois.`):"";
+ const hs=vs.map(v=>histo(v).slice(-63));const N=Math.min(...hs.map(h=>h.length));
+ return head("Comparer")+`<div class="form" style="grid-template-columns:repeat(3,minmax(0,1fr));margin-top:14px">${sel.map((t,i)=>`<label class="field"><span style="color:${COL[i]}">Valeur ${i+1}</span><select data-i="${i}">${APP.valeurs.map(v=>`<option value="${esc(v.ticker)}" ${v.ticker===t?"selected":""}>${esc(v.nom)}</option>`).join("")}</select></label>`).join("")}</div>
+ <h2 style="margin-top:20px">${esc(lead)}</h2>
+ <table class="cmp" style="margin-top:14px"><thead><tr><th></th>${vs.map((v,i)=>`<th style="color:${COL[i]}">${esc(v.ticker)}</th>`).join("")}</tr></thead><tbody>${body}</tbody></table>
+ <p class="mut" style="font-size:11px;margin-top:6px">En vert, la meilleure des trois sur la ligne. Marge : dernière année publiée. CA par an : croissance moyenne sur les années publiées.</p>
+ ${N>1?`<div class="sec"><div class="k">Cours depuis le ${esc(hs[0][hs[0].length-N][0])}, base 100</div><div class="chart" id="cc">${chartSVG(hs.map((h,i)=>{const x=h.slice(-N);return {pts:x.map(p=>[p[0],p[1]/x[0][1]*100]),color:COL[i]}}),{base:100,h:150,noDot:false})}</div><div class="read" id="ccr">${vs.map((v,i)=>`<span style="color:${COL[i]}">${esc(v.ticker)} ${pct(hs[i][hs[i].length-1][1]/hs[i][hs[i].length-N][1]*100-100)}</span>`).join(" · ")}</div></div>`:""}
+ ${foot()}`}
+function afterComparer(){document.querySelectorAll("select[data-i]").forEach(s=>s.onchange=()=>{const sel=store.get("sat.cmp",[]);sel[+s.dataset.i]=s.value;store.set("sat.cmp",sel);location.hash="#/comparer";render()});
+ const box=$("#cc");if(box){const vs=store.get("sat.cmp",[]).map(t=>V[t]);const hs=vs.map(v=>histo(v).slice(-63));const N=Math.min(...hs.map(h=>h.length));const COL=["#e9a23b","#9fb7d9","#c7a9e0"];wireScrub(box,null,i=>`${esc(hs[0][hs[0].length-N+i][0])} · `+vs.map((v,k)=>{const x=hs[k].slice(-N);return `<span style="color:${COL[k]}">${esc(v.ticker)} ${nf(x[i][1]/x[0][1]*100,1)}</span>`}).join(" · "))}}
+function vCarnet(t0){
+ const P=store.get("sat.port",[]),J=store.get("sat.journal",[]);let tv=0,tc=0;
+ const rows=P.map((p,i)=>{const v=V[p.t];const px=v?price(v):null;const val=px!=null?px*p.q:null,cost=p.pru*p.q;if(val!=null){tv+=val;tc+=cost}const pl=val!=null?(val/cost-1)*100:null;return `<div class="vrow"><a class="nm" href="#/v/${esc(p.t)}">${esc(v?.nom||p.t)}</a><span class="px">${val!=null?nf(val,0)+" "+esc(dev(v)):"–"}</span><span class="sub">${nf(p.q,p.q%1?2:0)} × ${nf(p.pru)} · ${esc(p.c||"")}</span><span class="vj"><span class="${cls(pl)}">${pct(pl)}</span> <button class="x" data-del="${i}" aria-label="Supprimer la ligne">×</button></span></div>`}).join("");
+ const opts=APP.valeurs.map(v=>`<option value="${esc(v.ticker)}" ${v.ticker===t0?"selected":""}>${esc(v.nom)}</option>`).join("");
+ return head("Mon carnet")+`<p class="mut" style="margin-top:10px;font-size:13px">Tout ce que tu notes ici reste sur ce téléphone. Rien n'est envoyé en ligne, personne d'autre ne le voit.</p>
+ <div class="sec"><div class="k">Mon portefeuille</div>${P.length?`<div style="display:flex;align-items:baseline;gap:10px;margin-top:10px"><span class="mono" style="font-size:28px">${nf(tv,0)} €</span><span class="mono ${cls(tv-tc)}">${tc?pct((tv/tc-1)*100):""}</span></div><p class="mut" style="font-size:12px">soit ${tv-tc>=0?"+":"−"}${nf(Math.abs(tv-tc),0)} € sur ${nf(tc,0)} € investis, aux derniers cours (hors ETF monde, frais et dividendes).</p><div class="list" style="margin-top:12px">${rows}</div>`:`<div class="empty">Ajoute une ligne quand tu achètes. L'app ne passe aucun ordre : c'est toi qui le fais chez ton courtier.</div>`}
+ <form class="form" id="fp"><label class="field">Valeur<select name="t">${opts}</select></label><div class="two"><label class="field">Quantité<input name="q" inputmode="decimal" required></label><label class="field">Prix d'achat (PRU)<input name="pru" inputmode="decimal" required></label></div><label class="field">Compte<select name="c"><option>PEA</option><option>CTO</option></select></label><button class="btn pri">Ajouter au portefeuille</button></form></div>
+ <div class="sec"><div class="k">Mon journal</div><form class="form" id="fj"><label class="field">Valeur (optionnel)<select name="t"><option value="">Général</option>${opts}</select></label><label class="field">Ce que je pense, ce que je fais, pourquoi<textarea name="x" required></textarea></label><button class="btn pri">Noter</button></form>
+ <div class="list" style="margin-top:14px">${J.slice().reverse().map((j,ri)=>{const i=J.length-1-ri;return `<div><div style="display:flex;align-items:center;gap:8px"><span class="mono mut" style="font-size:11px">${esc(j.d)}</span>${j.t?`<a href="#/v/${esc(j.t)}" class="mono" style="font-size:11px;color:var(--amber)">${esc(j.t)}</a>`:""}<button class="x" style="margin-left:auto" data-dj="${i}" aria-label="Supprimer la note">×</button></div><p style="font-size:14px;white-space:pre-wrap;margin-top:2px">${esc(j.x)}</p></div>`}).join("")}</div></div>
+ <div class="sec"><details><summary class="btn" style="width:100%">Sauvegarder ou changer de téléphone</summary><p class="mut" style="font-size:13px;margin-top:10px">Copie ce texte et garde-le (dans tes notes par exemple). Sur un autre téléphone, colle-le ici et touche Restaurer.</p><label class="field" style="margin-top:8px"><textarea id="bk">${esc(JSON.stringify({favs:favs(),port:P,journal:J}))}</textarea></label><div style="display:flex;gap:8px;margin-top:8px"><button class="btn" id="bkc" type="button">Copier</button><button class="btn" id="bkr" type="button">Restaurer</button></div></details></div>
+ ${foot()}`}
+function afterCarnet(){
+ const num=s=>parseFloat(String(s).replace(/\s/g,"").replace(",","."));
+ $("#fp").onsubmit=e=>{e.preventDefault();const f=new FormData(e.target);const q=num(f.get("q")),pru=num(f.get("pru"));if(!(q>0)||!(pru>0))return;const P=store.get("sat.port",[]);P.push({t:f.get("t"),q,pru,c:f.get("c"),d:new Date().toISOString().slice(0,10)});store.set("sat.port",P);render()};
+ $("#fj").onsubmit=e=>{e.preventDefault();const f=new FormData(e.target);const x=String(f.get("x")).trim();if(!x)return;const J=store.get("sat.journal",[]);J.push({d:new Date().toLocaleDateString("fr-FR"),t:f.get("t")||"",x});store.set("sat.journal",J);render()};
+ document.querySelectorAll("[data-del]").forEach(b=>b.onclick=()=>{const P=store.get("sat.port",[]);P.splice(+b.dataset.del,1);store.set("sat.port",P);render()});
+ document.querySelectorAll("[data-dj]").forEach(b=>b.onclick=()=>{const J=store.get("sat.journal",[]);J.splice(+b.dataset.dj,1);store.set("sat.journal",J);render()});
+ $("#bkc").onclick=async()=>{const t=$("#bk");try{await navigator.clipboard.writeText(t.value);$("#bkc").textContent="Copié"}catch(e){t.select()}};
+ $("#bkr").onclick=()=>{try{const o=JSON.parse($("#bk").value);if(Array.isArray(o.favs))store.set("sat.favs",o.favs);if(Array.isArray(o.port))store.set("sat.port",o.port);if(Array.isArray(o.journal))store.set("sat.journal",o.journal);render()}catch(e){$("#bkr").textContent="Texte invalide"}}}
+function foot(){return `<p class="foot">Des analyses, pas des conseils : c'est toi qui décides et qui passes les ordres. Analyses du ${esc(dFR(APP.geo?.majLe||APP.snapshot?.asOf||""))}, cours du ${esc(dFR(PX?.genere?.slice(0,10)||""))}.</p>`}
+
+/* ---------- Routeur ---------- */
+const TABS=[["#/","jour","Aujourd'hui"],["#/valeurs","val","Valeurs"],["#/monde","monde","Monde"],["#/comparer","cmp","Comparer"],["#/carnet","carnet","Carnet"]];
+function render(){
+ const h=location.hash||"#/";const [,r,arg]=h.split("/");let html,after,tab;
+ if(r==="v"&&arg){html=vFiche(arg);after=()=>afterFiche(arg);tab="#/valeurs"}
+ else if(r==="valeurs"){html=vListe();tab="#/valeurs"}
+ else if(r==="monde"){html=vMonde();tab="#/monde"}
+ else if(r==="comparer"){html=vComparer(arg);after=afterComparer;tab="#/comparer"}
+ else if(r==="carnet"){html=vCarnet(arg);after=afterCarnet;tab="#/carnet"}
+ else {html=vJour();tab="#/"}
+ $("#app").innerHTML=html;$("#tabs").innerHTML=TABS.map(([u,i,l])=>`<a href="${u}" class="${u===tab?"on":""}">${ICON[i]}${l}</a>`).join("");
+ after&&after()}
+let lastHash=location.hash;
+addEventListener("hashchange",()=>{const top=!/^#\/v\//.test(lastHash)||!/^#\/v\//.test(location.hash);lastHash=location.hash;render();scrollTo(0,0)});
+async function boot(){
+ try{const [a,p]=await Promise.all([fetch("data/app.json",{cache:"no-cache"}).then(r=>r.json()),fetch("data/prices.json",{cache:"no-cache"}).then(r=>r.json())]);APP=a;PX=p;APP.valeurs.forEach(v=>V[v.ticker]=v);render()}
+ catch(e){$("#app").innerHTML=`<div class="load">Impossible de charger les données. Vérifie ta connexion et rouvre l'app.</div>`}}
+boot();
+if("serviceWorker" in navigator)addEventListener("load",()=>navigator.serviceWorker.register("sw.js").catch(()=>{}));
+</script>
+</body>
+</html>
