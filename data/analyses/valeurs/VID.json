@@ -1,0 +1,1456 @@
+{
+ "analyse": {
+  "actu": [
+   {
+    "d": "23/07",
+    "fait": "Résultats du premier semestre 2026 : CA de 754 M€ (organique -3,8 %), EBITDA de 225,5 M€ (marge 29,9 %, +110 points de base), bénéfice net de 117,4 M€ (+8,9 %), BPA de 3,36 € (+9,9 %). Objectifs 2026 confirmés.",
+    "horizon": "moyen",
+    "impact": "positif",
+    "lecture": "Vidrala fait progresser ses profits même quand les volumes baissent : c'est la preuve de la qualité de gestion, point central de la thèse."
+   },
+   {
+    "d": "23/07",
+    "fait": "Rachat d'actions porté à 90 M€ (jusqu'à 3 % du capital) et dividende 2026 en hausse de 15 %.",
+    "horizon": "long",
+    "impact": "positif",
+    "lecture": "Le retour à l'actionnaire (dividende plus rachats, environ 5 % par an) soutient le rendement total même sans forte croissance."
+   },
+   {
+    "d": "en continu",
+    "fait": "Demande faible des consommateurs en Europe et hausse des coûts d'énergie liée au conflit au Moyen-Orient (Iran), citées par la société.",
+    "horizon": "court",
+    "impact": "negatif",
+    "lecture": "Le gaz est le premier coût d'un verrier : une flambée durable pèserait sur les marges, même si Vidrala a jusqu'ici su répercuter les hausses."
+   },
+   {
+    "d": "mai 2026",
+    "fait": "Finalisation de l'acquisition de Cristalerías Toro au Chili (plus ancien que trois mois, mais structurant).",
+    "horizon": "long",
+    "impact": "positif",
+    "lecture": "L'Amérique du Sud apporte une croissance à deux chiffres qui compense la maturité du marché européen."
+   }
+  ],
+  "cadres": [
+   "Buffett (qualité, avantage concurrentiel)",
+   "Fisher (qualité de gestion)",
+   "Lynch (croissance lente, PEG)",
+   "Graham (solidité du bilan)",
+   "Greenblatt (formule magique)",
+   "Piotroski (F-score calculé)",
+   "Théorie de Dow",
+   "Minervini (trend template)",
+   "Weinstein (stades)"
+  ],
+  "conviction": "moyenne",
+  "fonda": {
+   "bilan": "Très solide au sens de Graham : dette nette de 105 M€ fin 2025 (environ 0,25 fois l'EBITDA), remontée à 252 M€ fin juin 2026 (0,6 fois) après l'achat de Toro et le dividende. Couverture des intérêts d'environ 10 fois (EBIT 2025 de 291 M€ pour 29 M€ d'intérêts). Rachat d'actions de 90 M€ (jusqu'à 3 % du capital) et dividende en hausse de 15 %.",
+   "croissance": "CA : 1 559 M€ (2023), 1 588 M€ (2024), 1 467 M€ (2025), puis 1 519 M€ (2026), 1 560 M€ (2027), 1 600 M€ (2028) selon le consensus. BPA : 6,56 € (2023), 8,43 € (2024, année exceptionnelle), 5,95 € (2025), 6,47 € (2026), 6,90 € (2027), 7,37 € (2028), soit environ +7 %/an. Premier semestre 2026 : CA de 754 M€ (organique -3,8 %), EBITDA de 225,5 M€, BPA +9,9 %. Objectifs 2026 : EBITDA supérieur à 450 M€, BPA en hausse de plus de 5 %, cash-flow libre d'environ 200 M€. Au sens de Lynch, c'est une valeur de croissance lente mais régulière, avec un relais en Amérique du Sud (plus de 20 % des ventes, rachat de Cristalerías Toro au Chili).",
+   "greenblatt": "Rendement bénéficiaire (EBIT 2026 / valeur d'entreprise) d'environ 9,5 % pour un rendement du capital proche de 19 % : bon profil sur la formule magique.",
+   "justif": "Excellente exécution, marges au plus haut, bilan très sain et valorisation modérée, mais secteur mature à faible croissance et sensible au prix du gaz.",
+   "peg": 2,
+   "piotroski": 7,
+   "qualite": "Marge d'EBITDA en progression : 25,3 % (2023), 28,6 % (2024), 30,1 % (2025), 29,9 % au premier semestre 2026. Rentabilité des fonds propres calculée d'environ 15 % en 2025 (209 M€ de bénéfice pour 1,41 Md€ de fonds propres) et rendement du capital employé proche de 19 %. L'avantage concurrentiel (Buffett) tient à la nature du métier : le verre voyage mal, donc les usines proches des clients (vins, bières, alimentaire) sont protégées localement, et Vidrala est parmi les producteurs les plus efficaces d'Europe. Le pouvoir de fixer les prix est réel mais limité par une concurrence intense.",
+   "score": 7,
+   "valo": "PER 13,7 en 2026 et 12,8 en 2027, VE/EBITDA 7,1 en 2026 et 6,5 en 2027 (Zonebourse). Moyenne 2021 à 2025 calculée : PER environ 14,5 et VE/EBITDA environ 8,7. L'action est donc légèrement moins chère que son historique. Rendement du flux de trésorerie libre attendu de 6 % en 2026 et 7,4 % en 2027, rendement du dividende d'environ 2 %. Comparaison chiffrée avec Verallia et O-I non vérifiée ici."
+  },
+  "majLe": "2026-09-28",
+  "revisions": "Non trouvé. Dernier avis repéré : Citigroup, objectif 95 € (21/07).",
+  "scenarios": [
+   {
+    "bas": 83,
+    "central": 90,
+    "haut": 96,
+    "horizon": "2 mois",
+    "hypotheses": "Catalyseur : résultats T3 le 28/10. Central : range 86,8 à 92,8 € maintenu. Bas : hausse du gaz ou volumes décevants, retour vers la moyenne 200 jours (83 €). Haut : bonne publication et cassure du plus haut annuel.",
+    "unite": "€"
+   },
+   {
+    "bas": 76,
+    "central": 98,
+    "haut": 110,
+    "horizon": "12 mois",
+    "hypotheses": "Objectif moyen de 12 analystes : 103,8 € (86 à 124 €). Central : BPA 2027 de 6,90 € valorisé environ 14 fois. Bas : choc énergétique et PER vers 11. Haut : reprise des volumes européens et PER vers 16.",
+    "unite": "€"
+   },
+   {
+    "bas": -1,
+    "central": 9,
+    "haut": 14,
+    "horizon": "5 ans",
+    "hypotheses": "Central : BPA +6 %/an (rachats compris) + dividende 2 % + léger gain de PER (13,7 vers 14,5, environ +1 %/an) = environ 9 %/an. Bas : BPA +1 %/an, PER vers 11 (environ -4 %/an), dividende 2 % = environ -1 %/an. Haut : BPA +9 %/an, PER vers 16 (environ +3 %/an), dividende 2 % = environ 14 %/an.",
+    "unite": "%/an"
+   },
+   {
+    "bas": 3,
+    "central": 8,
+    "haut": 11,
+    "horizon": "10-15 ans",
+    "hypotheses": "Métier ancien et stable (le verre gagne du terrain sur le plastique pour des raisons environnementales). Central : BPA +6 %, dividende 2 %, PER stable = environ 8 %/an. Bas : pression de la concurrence et de l'énergie, BPA +1 %. Haut : croissance en Amérique du Sud et nouvelles acquisitions, BPA +9 %.",
+    "unite": "%/an"
+   }
+  ],
+  "sources": [
+   "https://www.zonebourse.com/cours/action/VIDRALA-S-A-75235/",
+   "https://www.zonebourse.com/cours/action/VIDRALA-S-A-75235/finances/",
+   "https://www.zonebourse.com/cours/action/VIDRALA-S-A-75235/valorisation/",
+   "https://www.zonebourse.com/cours/action/VIDRALA-S-A-75235/cotations/",
+   "https://www.zonebourse.com/cours/action/VIDRALA-S-A-75235/agenda/",
+   "https://www.marketscreener.com/quote/stock/VIDRALA-S-A-75235/consensus/",
+   "https://pcbolsa.com/analisistecnico/Vidrala",
+   "https://www.vidrala.com/en/press-room/news/vidrala-grows-earnings-despite-challenging-market-conditions-supported-by-internal-management-initiatives-and-south-americas-contribution.html",
+   "https://www.investing.com/news/company-news/vidrala-h1-2026-slides-margins-expand-as-volumes-stabilize-93CH-4807873",
+   "https://www.vidrala.com/en/press-room/news/vidrala-profits-rise-13-to-537-million-driven-by-south-america-and-cost-control.html"
+  ],
+  "tech": {
+   "bas52": 71.7,
+   "cours": 89.5,
+   "coursLe": "2026-09-28",
+   "haut52": 92.1,
+   "lecture": "Cours de 89,50 au-dessus de sa moyenne 50 jours (88,53) et au-dessus de sa moyenne 200 jours (83,83). RSI 56,4 : élan neutre. Il se situe à 87 % de sa fourchette sur un an (de 71,70 à 92,10), performance sur 12 mois de -0,9 %. Moyennes et RSI calculés sur les vraies clôtures (flux GitHub de 15h33).",
+   "mm200": 83.83,
+   "mm50": 88.53,
+   "resistance": 91.7,
+   "rsi14": 56.4,
+   "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json",
+   "stade": 2,
+   "support": 86.8,
+   "tendance": "haussiere"
+  },
+  "verdict": "Vidrala est un verrier très bien géré, avec des marges records (près de 30 % d'EBITDA) malgré une demande européenne faible, une dette très basse et un rachat d'actions en cours, pour un PER d'environ 13,7. La croissance reste modeste, donc le rendement futur viendra surtout de la régularité des profits, du dividende et des rachats, avec le coût de l'énergie comme risque principal.",
+  "zones": {
+   "catalyseurs": [
+    "28/10/2026 : résultats du T3 2026",
+    "Février 2027 (date non confirmée) : résultats annuels 2026",
+    "Évolution des prix du gaz en Europe cet hiver"
+   ],
+   "interet": "Zone de 80 à 85 € : support de 84,4 €, moyenne 200 jours vers 83 € et PER 2026 d'environ 12,5, sous la moyenne historique.",
+   "invalidation": "Clôture sous 76 €, ou marge d'EBITDA qui retombe sous 26 % : la supériorité de gestion, cœur de la thèse, serait remise en cause.",
+   "sortie": [
+    "Objectif d'EBITDA 2026 (plus de 450 M€) abaissé",
+    "Grosse acquisition portant la dette au-dessus de 2 fois l'EBITDA",
+    "PER au-dessus de 17 sans accélération de la croissance"
+   ]
+  }
+ },
+ "capi": "3,1 Md€",
+ "cours": 89.5,
+ "coursLe": "2026-09-28",
+ "devise": "€",
+ "faits": [
+  {
+   "d": "23/07",
+   "t": "S1 : CA 754 M€ (+0,5 %), EBITDA 225,5 M€ (marge 29,9 %), BPA +9,9 %, dette nette 0,6 fois l'EBITDA. Objectifs 2026 confirmés (EBITDA > 450 M€)."
+  }
+ ],
+ "histo": [
+  [
+   "22/09",
+   92.1
+  ],
+  [
+   "23/09",
+   92.8
+  ],
+  [
+   "24/09",
+   90.9
+  ],
+  [
+   "25/09",
+   90
+  ],
+  [
+   "26/09",
+   90
+  ],
+  [
+   "29/09",
+   89.7
+  ],
+  [
+   "30/09",
+   90
+  ],
+  [
+   "01/10",
+   89.8
+  ],
+  [
+   "02/10",
+   90.3
+  ],
+  [
+   "03/10",
+   90.4
+  ],
+  [
+   "06/10",
+   89.8
+  ],
+  [
+   "07/10",
+   90.1
+  ],
+  [
+   "08/10",
+   89.5
+  ],
+  [
+   "09/10",
+   88
+  ],
+  [
+   "10/10",
+   87.6
+  ],
+  [
+   "13/10",
+   87.4
+  ],
+  [
+   "14/10",
+   85.2
+  ],
+  [
+   "15/10",
+   85.4
+  ],
+  [
+   "16/10",
+   86
+  ],
+  [
+   "17/10",
+   85.9
+  ],
+  [
+   "20/10",
+   86.9
+  ],
+  [
+   "21/10",
+   84
+  ],
+  [
+   "22/10",
+   84.57
+  ],
+  [
+   "23/10",
+   83.81
+  ],
+  [
+   "24/10",
+   85.05
+  ],
+  [
+   "27/10",
+   84.09
+  ],
+  [
+   "28/10",
+   83.24
+  ],
+  [
+   "29/10",
+   83.52
+  ],
+  [
+   "30/10",
+   84.2
+  ],
+  [
+   "31/10",
+   82.6
+  ],
+  [
+   "03/11",
+   81.8
+  ],
+  [
+   "04/11",
+   81.5
+  ],
+  [
+   "05/11",
+   81.7
+  ],
+  [
+   "06/11",
+   81.9
+  ],
+  [
+   "07/11",
+   82
+  ],
+  [
+   "10/11",
+   81.4
+  ],
+  [
+   "11/11",
+   83.1
+  ],
+  [
+   "12/11",
+   82.7
+  ],
+  [
+   "13/11",
+   83.1
+  ],
+  [
+   "14/11",
+   81.6
+  ],
+  [
+   "17/11",
+   81.1
+  ],
+  [
+   "18/11",
+   80.3
+  ],
+  [
+   "19/11",
+   80.7
+  ],
+  [
+   "20/11",
+   80.5
+  ],
+  [
+   "21/11",
+   81.5
+  ],
+  [
+   "24/11",
+   82.4
+  ],
+  [
+   "25/11",
+   83.7
+  ],
+  [
+   "26/11",
+   83.4
+  ],
+  [
+   "27/11",
+   83.8
+  ],
+  [
+   "28/11",
+   83.8
+  ],
+  [
+   "01/12",
+   83.4
+  ],
+  [
+   "02/12",
+   82.4
+  ],
+  [
+   "03/12",
+   82.6
+  ],
+  [
+   "04/12",
+   83.2
+  ],
+  [
+   "05/12",
+   83.5
+  ],
+  [
+   "08/12",
+   83
+  ],
+  [
+   "09/12",
+   82.6
+  ],
+  [
+   "10/12",
+   82.5
+  ],
+  [
+   "11/12",
+   83.4
+  ],
+  [
+   "12/12",
+   86
+  ],
+  [
+   "15/12",
+   85.7
+  ],
+  [
+   "16/12",
+   85.8
+  ],
+  [
+   "17/12",
+   86.3
+  ],
+  [
+   "18/12",
+   88.2
+  ],
+  [
+   "19/12",
+   88.2
+  ],
+  [
+   "22/12",
+   89
+  ],
+  [
+   "23/12",
+   89.4
+  ],
+  [
+   "24/12",
+   89
+  ],
+  [
+   "29/12",
+   90
+  ],
+  [
+   "30/12",
+   90.3
+  ],
+  [
+   "31/12",
+   90.1
+  ],
+  [
+   "02/01",
+   90.6
+  ],
+  [
+   "05/01",
+   91.8
+  ],
+  [
+   "06/01",
+   91.3
+  ],
+  [
+   "07/01",
+   91.6
+  ],
+  [
+   "08/01",
+   91.4
+  ],
+  [
+   "09/01",
+   92.1
+  ],
+  [
+   "12/01",
+   92
+  ],
+  [
+   "13/01",
+   91.1
+  ],
+  [
+   "14/01",
+   91.1
+  ],
+  [
+   "15/01",
+   92
+  ],
+  [
+   "16/01",
+   91
+  ],
+  [
+   "19/01",
+   89.7
+  ],
+  [
+   "20/01",
+   89.1
+  ],
+  [
+   "21/01",
+   89
+  ],
+  [
+   "22/01",
+   90.1
+  ],
+  [
+   "23/01",
+   90.8
+  ],
+  [
+   "26/01",
+   91
+  ],
+  [
+   "27/01",
+   90.9
+  ],
+  [
+   "28/01",
+   90.5
+  ],
+  [
+   "29/01",
+   88.2
+  ],
+  [
+   "30/01",
+   88.3
+  ],
+  [
+   "02/02",
+   86.8
+  ],
+  [
+   "03/02",
+   87.2
+  ],
+  [
+   "04/02",
+   88.3
+  ],
+  [
+   "05/02",
+   87.3
+  ],
+  [
+   "06/02",
+   86.8
+  ],
+  [
+   "09/02",
+   87.1
+  ],
+  [
+   "10/02",
+   87.6
+  ],
+  [
+   "11/02",
+   86.7
+  ],
+  [
+   "12/02",
+   87
+  ],
+  [
+   "13/02",
+   86.7
+  ],
+  [
+   "16/02",
+   85.9
+  ],
+  [
+   "17/02",
+   86.7
+  ],
+  [
+   "18/02",
+   87
+  ],
+  [
+   "19/02",
+   85.5
+  ],
+  [
+   "20/02",
+   85.9
+  ],
+  [
+   "23/02",
+   85.7
+  ],
+  [
+   "24/02",
+   85.3
+  ],
+  [
+   "25/02",
+   80
+  ],
+  [
+   "26/02",
+   80.6
+  ],
+  [
+   "27/02",
+   82
+  ],
+  [
+   "02/03",
+   79.8
+  ],
+  [
+   "03/03",
+   76.8
+  ],
+  [
+   "04/03",
+   76.6
+  ],
+  [
+   "05/03",
+   75.3
+  ],
+  [
+   "06/03",
+   75.7
+  ],
+  [
+   "09/03",
+   74.4
+  ],
+  [
+   "10/03",
+   74.2
+  ],
+  [
+   "11/03",
+   74.3
+  ],
+  [
+   "12/03",
+   74.5
+  ],
+  [
+   "13/03",
+   74.1
+  ],
+  [
+   "16/03",
+   73.9
+  ],
+  [
+   "17/03",
+   73.6
+  ],
+  [
+   "18/03",
+   74.6
+  ],
+  [
+   "19/03",
+   72
+  ],
+  [
+   "20/03",
+   71.7
+  ],
+  [
+   "23/03",
+   74
+  ],
+  [
+   "24/03",
+   75.3
+  ],
+  [
+   "25/03",
+   77.9
+  ],
+  [
+   "26/03",
+   78.3
+  ],
+  [
+   "27/03",
+   77.9
+  ],
+  [
+   "30/03",
+   78
+  ],
+  [
+   "31/03",
+   76.7
+  ],
+  [
+   "01/04",
+   78.9
+  ],
+  [
+   "02/04",
+   78.1
+  ],
+  [
+   "07/04",
+   76.6
+  ],
+  [
+   "08/04",
+   80
+  ],
+  [
+   "09/04",
+   79.4
+  ],
+  [
+   "10/04",
+   79.1
+  ],
+  [
+   "13/04",
+   78.9
+  ],
+  [
+   "14/04",
+   79.7
+  ],
+  [
+   "15/04",
+   80.2
+  ],
+  [
+   "16/04",
+   79.7
+  ],
+  [
+   "17/04",
+   81.5
+  ],
+  [
+   "20/04",
+   79.9
+  ],
+  [
+   "21/04",
+   79.9
+  ],
+  [
+   "22/04",
+   78.6
+  ],
+  [
+   "23/04",
+   78.4
+  ],
+  [
+   "24/04",
+   78.2
+  ],
+  [
+   "27/04",
+   78.3
+  ],
+  [
+   "28/04",
+   78.7
+  ],
+  [
+   "29/04",
+   77
+  ],
+  [
+   "30/04",
+   76.9
+  ],
+  [
+   "04/05",
+   76.8
+  ],
+  [
+   "05/05",
+   77.1
+  ],
+  [
+   "06/05",
+   78.8
+  ],
+  [
+   "07/05",
+   77.8
+  ],
+  [
+   "08/05",
+   77.3
+  ],
+  [
+   "11/05",
+   76.8
+  ],
+  [
+   "12/05",
+   76.1
+  ],
+  [
+   "13/05",
+   75.9
+  ],
+  [
+   "14/05",
+   75.7
+  ],
+  [
+   "15/05",
+   75.1
+  ],
+  [
+   "18/05",
+   74.5
+  ],
+  [
+   "19/05",
+   75.4
+  ],
+  [
+   "20/05",
+   76.2
+  ],
+  [
+   "21/05",
+   76.4
+  ],
+  [
+   "22/05",
+   76.1
+  ],
+  [
+   "25/05",
+   76.9
+  ],
+  [
+   "26/05",
+   76.3
+  ],
+  [
+   "27/05",
+   77.3
+  ],
+  [
+   "28/05",
+   76.8
+  ],
+  [
+   "29/05",
+   76.9
+  ],
+  [
+   "01/06",
+   74.9
+  ],
+  [
+   "02/06",
+   74.4
+  ],
+  [
+   "03/06",
+   75.5
+  ],
+  [
+   "04/06",
+   76.3
+  ],
+  [
+   "05/06",
+   77.1
+  ],
+  [
+   "08/06",
+   75.6
+  ],
+  [
+   "09/06",
+   76.2
+  ],
+  [
+   "10/06",
+   77.4
+  ],
+  [
+   "11/06",
+   77.3
+  ],
+  [
+   "12/06",
+   79.3
+  ],
+  [
+   "15/06",
+   78.7
+  ],
+  [
+   "16/06",
+   79
+  ],
+  [
+   "17/06",
+   79.8
+  ],
+  [
+   "18/06",
+   80.2
+  ],
+  [
+   "19/06",
+   79.7
+  ],
+  [
+   "22/06",
+   80.5
+  ],
+  [
+   "23/06",
+   80.5
+  ],
+  [
+   "24/06",
+   80.3
+  ],
+  [
+   "25/06",
+   81.6
+  ],
+  [
+   "26/06",
+   83.1
+  ],
+  [
+   "29/06",
+   83.1
+  ],
+  [
+   "30/06",
+   83.9
+  ],
+  [
+   "01/07",
+   83.7
+  ],
+  [
+   "02/07",
+   86
+  ],
+  [
+   "03/07",
+   89.6
+  ],
+  [
+   "06/07",
+   88.7
+  ],
+  [
+   "07/07",
+   90.3
+  ],
+  [
+   "08/07",
+   88.2
+  ],
+  [
+   "09/07",
+   88.5
+  ],
+  [
+   "10/07",
+   89.1
+  ],
+  [
+   "13/07",
+   89.7
+  ],
+  [
+   "14/07",
+   90.4
+  ],
+  [
+   "15/07",
+   89.8
+  ],
+  [
+   "16/07",
+   90.4
+  ],
+  [
+   "17/07",
+   90.8
+  ],
+  [
+   "20/07",
+   90.7
+  ],
+  [
+   "21/07",
+   89.9
+  ],
+  [
+   "22/07",
+   90
+  ],
+  [
+   "23/07",
+   84.6
+  ],
+  [
+   "24/07",
+   86
+  ],
+  [
+   "27/07",
+   87.7
+  ],
+  [
+   "28/07",
+   89.6
+  ],
+  [
+   "29/07",
+   89.9
+  ],
+  [
+   "30/07",
+   89.7
+  ],
+  [
+   "31/07",
+   87.6
+  ],
+  [
+   "03/08",
+   88.5
+  ],
+  [
+   "04/08",
+   87.6
+  ],
+  [
+   "05/08",
+   88.1
+  ],
+  [
+   "06/08",
+   88.1
+  ],
+  [
+   "07/08",
+   88
+  ],
+  [
+   "10/08",
+   87.6
+  ],
+  [
+   "11/08",
+   87.5
+  ],
+  [
+   "12/08",
+   87
+  ],
+  [
+   "13/08",
+   87.2
+  ],
+  [
+   "14/08",
+   88.6
+  ],
+  [
+   "17/08",
+   88.1
+  ],
+  [
+   "18/08",
+   88.6
+  ],
+  [
+   "19/08",
+   88.1
+  ],
+  [
+   "20/08",
+   89.1
+  ],
+  [
+   "21/08",
+   90
+  ],
+  [
+   "24/08",
+   90.9
+  ],
+  [
+   "25/08",
+   90.9
+  ],
+  [
+   "26/08",
+   90.4
+  ],
+  [
+   "27/08",
+   89.5
+  ],
+  [
+   "28/08",
+   88.2
+  ],
+  [
+   "31/08",
+   90
+  ],
+  [
+   "01/09",
+   89
+  ],
+  [
+   "02/09",
+   88.7
+  ],
+  [
+   "03/09",
+   88.7
+  ],
+  [
+   "04/09",
+   89.2
+  ],
+  [
+   "07/09",
+   87.7
+  ],
+  [
+   "08/09",
+   88.1
+  ],
+  [
+   "09/09",
+   88.1
+  ],
+  [
+   "10/09",
+   87.5
+  ],
+  [
+   "11/09",
+   87.2
+  ],
+  [
+   "14/09",
+   87.2
+  ],
+  [
+   "15/09",
+   87.6
+  ],
+  [
+   "16/09",
+   88
+  ],
+  [
+   "17/09",
+   88.5
+  ],
+  [
+   "18/09",
+   89.2
+  ],
+  [
+   "21/09",
+   89.2
+  ],
+  [
+   "22/09",
+   89.5
+  ],
+  [
+   "23/09",
+   89.5
+  ],
+  [
+   "24/09",
+   88.6
+  ],
+  [
+   "25/09",
+   88.4
+  ],
+  [
+   "28/09",
+   89.5
+  ]
+ ],
+ "nom": "Vidrala",
+ "notes": "Clôture du 28/09 non confirmée sur le web : cours du flux GitHub relevé à 15h33 (89,50), à remplacer par la vraie clôture au prochain flux. Dernier cours web 89,40 € (+1,13 %) à 15h20. Aucune nouvelle depuis le 23/07. Date du T3 (28/10) non confirmée.",
+ "pays": "ES",
+ "per26": 13.7,
+ "per27": 12.8,
+ "perf": {
+  "m1": 1.5,
+  "m12": -0.9,
+  "m3": 6.9
+ },
+ "pub": "2026-10-28",
+ "pubLabel": "Résultats du T3",
+ "risque": "Ventes qui stagnent en Europe et coût de l'énergie qui peut rogner les marges.",
+ "secteur": "Emballage verre",
+ "societe": {
+  "aVerifier": "Vérifié le 29/09/2026 sur les rapports de résultats Vidrala 2022 (rapport annuel), 2024 et 2025, la page dividendes, le rapport de gouvernance 2024, la page du conseil, l'historique officiel et le rapport annuel 2025. Confirmés : CA, résultat net, EBIT (margeOp = EBIT / ventes) et dette nette hors IFRS 16 de 2021 à 2025 (avec IFRS 16 : 293,2 M€ en 2024, 517,5 M€ en 2023 ; loyers IFRS 16 de 49,3 M€ en 2025). Dividendes : montants de la page officielle, ajustés des attributions d'actions gratuites, rattachés à l'exercice précédant l'année de versement (acompte en février + complément en juillet) ; exercice 2025 = 1,7005 € versé en 2026 ; la prime d'assistance à l'assemblée (0,04 à 0,05 €) et le dividende exceptionnel de 4 € de 2024 ne sont pas inclus ; le rapport annuel 2022 donnait 1,2039 € non ajusté. 2023 inclut encore l'Italie (cédée au 1er mars 2024) ; résultat net 2024 gonflé par la plus-value de cession de l'Italie. Répartition géographique 2025 confirmée. Répartition par débouché (vin, bière...) : présentation officielle de mars 2024 sur les ventes 2023 pro forma, pas de donnée plus récente. Effectif : « plus de 5 000 » selon le rapport annuel 2025 (chiffre exact non publié). Actionnariat au 31/12/2024 (pas encore relu pour 2025). Restent non vérifiés : le prix d'environ 420 M€ pour The Park et Vidroporto (2023) et le vendeur O-I en 2005 (retiré) ; la liste des concurrents. Pas de consensus 2026 dans la fiche.",
+  "actionnariat": "Groupe à ancrage familial, sans actionnaire majoritaire. Participations significatives au 31/12/2024 (rapport de gouvernance 2024) : Carlos Delclaux Zulueta 7,82 % (indirectement via Mugarburu et Azpilu), Urdala 21 6,53 %, Bidaroa 6,48 %, Addvalia Capital 5,68 %, Fuensanta de la Sota Poveda 3,81 %, Victor Manuel de Noronha Santos Gallo 3,78 % (via Noronha Gallo S.à r.l.) ; le reste est coté.",
+  "avantage": "Des usines très efficaces placées près des clients (le verre est lourd et voyage mal) sur des marchés où quatre acteurs contrôlent plus de 80 % de l'offre européenne, avec un coût de production parmi les plus bas du secteur. Cet avantage peut s'éroder avec la baisse de la consommation d'alcool, le passage à la canette ou au plastique, une surcapacité dans le secteur ou une flambée durable de l'énergie et du coût du CO2.",
+  "chiffres": [
+   {
+    "annee": "2021",
+    "ca": 1084.2,
+    "detteNette": 97.1,
+    "dividende": 1.1639,
+    "margeOp": 16.5,
+    "rn": 145.2
+   },
+   {
+    "annee": "2022",
+    "ca": 1345.6,
+    "detteNette": 167.2,
+    "dividende": 1.2221,
+    "margeOp": 13.7,
+    "rn": 153.7
+   },
+   {
+    "annee": "2023",
+    "ca": 1558.8,
+    "detteNette": 472.2,
+    "dividende": 1.4054,
+    "margeOp": 18.6,
+    "rn": 233.4
+   },
+   {
+    "annee": "2024",
+    "ca": 1588.3,
+    "detteNette": 248.3,
+    "dividende": 1.5459,
+    "margeOp": 20.8,
+    "rn": 298.3
+   },
+   {
+    "annee": "2025",
+    "ca": 1465.2,
+    "detteNette": 105.3,
+    "dividende": 1.7005,
+    "margeOp": 20.9,
+    "rn": 219.6
+   }
+  ],
+  "clients": "Plus de 1 600 clients, surtout des producteurs de boissons ; la concentration est notable : les 10 premiers clients représentent environ 35 % des ventes et une vingtaine de clients environ la moitié.",
+  "concurrents": [
+   "Verallia",
+   "O-I (Owens-Illinois)",
+   "BA Glass"
+  ],
+  "corrections": [
+   "Dirigeants : Carlos Delclaux Zulueta administrateur depuis 1992 et président depuis 2002 (rapport de gouvernance 2024 et page du conseil) ; Raúl Gómez CEO effectif au 30/06/2024, ex-directeur financier, successeur de Gorka Schmitt (annonce du 27/03/2024).",
+   "Actionnariat : pourcentages ajoutés d'après le rapport de gouvernance 2024 ; mention « anciens propriétaires de Santos Barosa » pour la famille Noronha Gallo retirée (non confirmée).",
+   "Histoire 2005 : « auprès d'O-I » retiré (absent de l'historique officiel).",
+   "Histoire : ajout 2003 (Ricardo Gallo, historique officiel) et 2026 (rachat de Cristalerías Toro finalisé le 01/04/2026 pour 75 M$) ; 2025 précisé avec les chiffres officiels (-5,4 %, marge EBITDA 30,1 %, dette nette 105,3 M€).",
+   "Segments : précision que les parts portent sur les ventes 2023 pro forma (présentation corporate de mars 2024).",
+   "Chiffres 2021 à 2025 : aucun écart trouvé avec les documents Vidrala."
+  ],
+  "croire": [
+   "Que la demande de bouteilles en verre se stabilise malgré la baisse de consommation de vin et d'alcool en Europe.",
+   "Que Vidrala garde sa marge d'environ 30 % grâce à son efficacité, même si les prix de l'énergie ou la concurrence repartent.",
+   "Que la direction utilise son bilan presque sans dette de façon intelligente (acquisitions, rachats d'actions, dividende en hausse)."
+  ],
+  "devise": "€",
+  "dirigeants": [
+   {
+    "depuis": 2002,
+    "nom": "Carlos Delclaux Zulueta",
+    "role": "Président du conseil d'administration (administrateur depuis 1992, représentant d'actionnaires)"
+   },
+   {
+    "depuis": 2024,
+    "nom": "Raúl Gómez",
+    "role": "Directeur général (CEO), en poste depuis le 30/06/2024, auparavant directeur financier ; succède à Gorka Schmitt"
+   }
+  ],
+  "effectifs": 5000,
+  "fondee": 1965,
+  "geo": [
+   {
+    "part": 48.7,
+    "zone": "Péninsule ibérique et reste de l'Europe (713,5 M€ en 2025)"
+   },
+   {
+    "part": 39.2,
+    "zone": "Royaume-Uni et Irlande (573,9 M€ en 2025)"
+   },
+   {
+    "part": 12.1,
+    "zone": "Brésil (177,8 M€ en 2025)"
+   }
+  ],
+  "histoire": [
+   {
+    "annee": 1965,
+    "fait": "Fondation à Llodio (Álava) ; l'usine démarre en 1966 avec un four et 25 000 tonnes de capacité par an."
+   },
+   {
+    "annee": 1985,
+    "fait": "Introduction aux Bourses de Madrid et de Bilbao."
+   },
+   {
+    "annee": 2005,
+    "fait": "Rachats de BSN Glasspack (Barcelone) et d'Avir (Italie) : la capacité approche le million de tonnes."
+   },
+   {
+    "annee": 2003,
+    "fait": "Rachat du portugais Ricardo Gallo."
+   },
+   {
+    "annee": 2015,
+    "fait": "Rachat du britannique Encirc, qui ajoute le remplissage et la logistique : Vidrala devient le quatrième verrier européen."
+   },
+   {
+    "annee": 2017,
+    "fait": "Rachat du portugais Santos Barosa."
+   },
+   {
+    "annee": 2023,
+    "fait": "Rachat de The Park (Royaume-Uni) et du brésilien Vidroporto, pour environ 420 M€ au total."
+   },
+   {
+    "annee": 2024,
+    "fait": "Vente de l'activité italienne à Verallia pour 230 M€ (sortie du périmètre au 1er mars 2024), dividende exceptionnel de 4 € par action, et arrivée de Raúl Gómez comme directeur général le 30 juin."
+   },
+   {
+    "annee": 2025,
+    "fait": "Ventes en recul de 5,4 % à 1 465 M€, mais marge d'EBITDA record à 30,1 % et dette nette ramenée à 105 M€ (0,2 fois l'EBITDA) ; accord en décembre pour racheter le chilien Cristalerías Toro."
+   },
+   {
+    "annee": 2026,
+    "fait": "Finalisation le 1er avril du rachat de 100 % de Cristalerías Toro (Chili) pour 75 M$ dette comprise, rebaptisé Vidrala Chile : entrée sur le marché chilien."
+   }
+  ],
+  "modele": "Vidrala vend des emballages en verre à des producteurs de vin, de bière, de spiritueux, de sodas et d'aliments, souvent dans le cadre de contrats annuels et de relations de long terme. Les volumes sont assez stables car il s'agit de produits de consommation courante, et comme les usines de verre sont chères et le marché européen très concentré, les prix intègrent en grande partie les coûts de l'énergie, ce qui explique une marge d'EBITDA d'environ 30 %.",
+  "questions": [
+   "Les volumes vendus repartent-ils en Europe et au Royaume-Uni, ou la baisse de 2025 est-elle structurelle ?",
+   "Comment évoluent les prix de vente face au coût de l'énergie et des quotas de CO2 ?",
+   "Quelle sera la prochaine acquisition, et le Brésil tient-il ses promesses de croissance ?"
+  ],
+  "resume": "Vidrala fabrique des bouteilles et des bocaux en verre pour les marques de boissons et d'alimentation. La bouteille de votre vin de Rioja, de votre bière ou de votre whisky, ou un bocal de conserve en Espagne, au Portugal, au Royaume-Uni ou au Brésil, a de bonnes chances de sortir de l'un de ses fours ; au Royaume-Uni il remplit même des bouteilles pour ses clients.",
+  "segments": [
+   {
+    "detail": "Bouteilles pour les vins, premier débouché. Part des ventes 2023 pro forma (hors Italie, avec Vidroporto sur 12 mois).",
+    "nom": "Vin",
+    "part": 32
+   },
+   {
+    "detail": "Bouteilles pour les brasseurs. Part des ventes 2023 pro forma (hors Italie, avec Vidroporto sur 12 mois).",
+    "nom": "Bière",
+    "part": 29
+   },
+   {
+    "detail": "Bouteilles pour whisky, gin et autres alcools forts, notamment au Royaume-Uni. Part des ventes 2023 pro forma (hors Italie, avec Vidroporto sur 12 mois).",
+    "nom": "Spiritueux",
+    "part": 12
+   },
+   {
+    "detail": "Sodas, eaux, jus. Part des ventes 2023 pro forma (hors Italie, avec Vidroporto sur 12 mois).",
+    "nom": "Boissons sans alcool",
+    "part": 9
+   },
+   {
+    "detail": "Bocaux et pots pour conserves et sauces. Part des ventes 2023 pro forma (hors Italie, avec Vidroporto sur 12 mois).",
+    "nom": "Alimentation",
+    "part": 8
+   },
+   {
+    "detail": "Autres emballages et services (dont remplissage). Part des ventes 2023 pro forma (hors Italie, avec Vidroporto sur 12 mois).",
+    "nom": "Autres",
+    "part": 10
+   }
+  ],
+  "siege": "Llodio (Álava, Pays basque), Espagne",
+  "site": "https://www.vidrala.com",
+  "sources": [
+   "https://www.vidrala.com/default/documentos/2297_es-informe_resultados_fy_2025.pdf",
+   "https://www.vidrala.com/default/documentos/2104_es-informe_resultados_fy_2024.pdf",
+   "https://www.vidrala.com/default/documentos/1707_en-2022_annual_report.pdf",
+   "https://www.vidrala.com/en/investors/shareholder-centre/dividends/",
+   "https://www.vidrala.com/default/documentos/2112_es-informe_anual_de_gobierno_corporativo_2024.pdf",
+   "https://www.vidrala.com/en/investors/governance/board-of-directors/",
+   "https://www.vidrala.com/en/vidrala/about-us/history/",
+   "https://annualreport.vidrala.com/",
+   "https://www.vidrala.com/default/documentos/2031_es-presentacion_corporativa.pdf",
+   "https://www.estrategiasdeinversion.com/actualidad/noticias/bolsa-espana/vidrala-anuncia-un-plan-de-sucesion-del-ceo-raul-n-701401",
+   "https://www.df.cl/empresas/industria/espanola-vidrala-completa-adquisicion-de-cristalerias-toro-pago-us-75",
+   "https://www.emol.com/noticias/Economia/2025/12/12/1185711/cristalerias-toro-vidrieria-espana.html"
+  ],
+  "suivi": {
+   "bilan": "Sur 6 conditions, 3 tiennent (marge, usage du bilan, Amérique du Sud) et 3 sont à surveiller ; le plus fragile reste le volume au Royaume-Uni (-7 % au T2 2026) avec des prix qui reculent en Europe du Sud.",
+   "croire": [
+    {
+     "c": "Que la demande de bouteilles en verre se stabilise malgré la baisse de consommation de vin et d'alcool en Europe.",
+     "etat": "watch",
+     "preuve": "T2 2026 : volumes Vidrala +1,5 % en Europe, -7 % au Royaume-Uni ; Verallia S1 2026 : volumes en hausse dans tous les pays d'Europe du Sud et de l'Ouest (bière, bocaux, spiritueux), faiblesse en Allemagne.",
+     "prochain": "Résultats T3 le 28/10/2026",
+     "reponse": "Signes de stabilisation en Europe du Sud (Vidrala et Verallia voient leurs volumes remonter), mais pas encore au Royaume-Uni. La direction de Vidrala s'attend à une demande plate au S2.",
+     "source": "https://www.investing.com/news/transcripts/earnings-call-transcript-vidrala-posts-strong-h1-2026-margins-as-sales-stay-soft-93CH-4807860"
+    },
+    {
+     "c": "Que Vidrala garde sa marge d'environ 30 % grâce à son efficacité, même si les prix de l'énergie ou la concurrence repartent.",
+     "etat": "ok",
+     "preuve": "S1 2026 : EBITDA 225,5 M€ (+4,4 %), marge 29,9 % (+110 points de base) ; objectif 2026 : EBITDA supérieur à 450 M€ confirmé.",
+     "prochain": "Résultats T3 le 28/10/2026",
+     "reponse": "Oui jusqu'ici : malgré des prix en baisse en Europe du Sud et une énergie plus chère, la marge a encore progressé et l'objectif annuel est confirmé.",
+     "source": "https://www.vidrala.com/en/press-room/news/vidrala-grows-earnings-despite-challenging-market-conditions-supported-by-internal-management-initiatives-and-south-americas-contribution.html"
+    },
+    {
+     "c": "Que la direction utilise son bilan presque sans dette de façon intelligente (acquisitions, rachats d'actions, dividende en hausse).",
+     "etat": "ok",
+     "preuve": "S1 2026 : dette nette 252,3 M€ (0,6 fois l'EBITDA) ; dividende +15 % ; rachat d'actions porté à 3 % du capital (90 M€ maximum) ; plus de 150 M€ rendus aux actionnaires en 2026.",
+     "prochain": "Résultats T3 le 28/10/2026",
+     "reponse": "Oui : rachat ciblé au Chili, rachat d'actions élargi et dividende en forte hausse, tout en gardant une dette très faible.",
+     "source": "https://www.vidrala.com/en/press-room/news/vidrala-grows-earnings-despite-challenging-market-conditions-supported-by-internal-management-initiatives-and-south-americas-contribution.html"
+    }
+   ],
+   "le": "2026-09-29",
+   "questions": [
+    {
+     "etat": "watch",
+     "preuve": "T2 2026 : volumes +1,5 % en Europe, -7 % au Royaume-Uni et en Irlande, +4 % en Amérique du Sud ; CA organique du S1 2026 en baisse de 3,8 %.",
+     "prochain": "Résultats T3 le 28/10/2026",
+     "q": "Les volumes vendus repartent-ils en Europe et au Royaume-Uni, ou la baisse de 2025 est-elle structurelle ?",
+     "reponse": "Début de reprise en Europe continentale, mais le Royaume-Uni recule encore. La direction parle d'un creux passager et reprend des parts de marché, tout en prévoyant une demande à peu près plate d'ici la fin de l'année.",
+     "source": "https://www.investing.com/news/transcripts/earnings-call-transcript-vidrala-posts-strong-h1-2026-margins-as-sales-stay-soft-93CH-4807860"
+    },
+    {
+     "etat": "watch",
+     "preuve": "T2 2026 : prix -4,3 % en Europe du Sud, -0,4 % au Royaume-Uni, +3,5 % en Amérique du Sud ; environ 70 % de l'énergie 2026 et 60 % de celle de 2027 couverts ; marge d'EBITDA du S1 2026 à 29,9 % (+110 points de base).",
+     "prochain": "Résultats T3 le 28/10/2026",
+     "q": "Comment évoluent les prix de vente face au coût de l'énergie et des quotas de CO2 ?",
+     "reponse": "Les prix baissent un peu en Europe du Sud alors que l'énergie remonte avec le conflit en Iran, mais la marge progresse grâce aux économies de coûts, aux clauses d'indexation sur l'énergie et aux couvertures. La direction ne prévoit pas de nouvelle baisse de prix d'ici 2027 ; rien de chiffré trouvé sur le CO2.",
+     "source": "https://www.investing.com/news/transcripts/earnings-call-transcript-vidrala-posts-strong-h1-2026-margins-as-sales-stay-soft-93CH-4807860"
+    },
+    {
+     "etat": "ok",
+     "preuve": "S1 2026 : Amérique du Sud en croissance à deux chiffres (ventes et résultats) selon la société ; rachat de Cristalerías Toro (Chili) finalisé le 01/04/2026 pour 75 M$ dette comprise.",
+     "prochain": "Résultats T3 le 28/10/2026",
+     "q": "Quelle sera la prochaine acquisition, et le Brésil tient-il ses promesses de croissance ?",
+     "reponse": "L'Amérique du Sud reste le moteur, avec une croissance à deux chiffres des ventes et des profits au S1. Aucune nouvelle cible annoncée : la direction digère d'abord le rachat chilien et se dit prudente avant d'aller plus loin.",
+     "source": "https://www.vidrala.com/en/press-room/news/vidrala-grows-earnings-despite-challenging-market-conditions-supported-by-internal-management-initiatives-and-south-americas-contribution.html"
+    }
+   ]
+  },
+  "verifieLe": "2026-09-29"
+ },
+ "src": "https://financialfood.es/vidrala-aumenta-un-89-su-beneficio-en-el-primer-semestre/",
+ "statut": "intacte",
+ "these": "Bouteilles en verre avec une marge d'EBITDA proche de 30 %, peu de dette, croissance en Amérique du Sud.",
+ "ticker": "VID",
+ "yahoo": "VID.MC",
+ "zb": "https://www.zonebourse.com/cours/action/VIDRALA-S-A-75235/"
+}

@@ -1,0 +1,1453 @@
+{
+ "analyse": {
+  "actu": [
+   {
+    "d": "31/07",
+    "fait": "Résultats du premier semestre 2026 : CA de 1,31 Md€ (+7,4 %), EBIT stable à 189,7 M€, bénéfice net de 131,8 M€ (+5,7 %), marge d'EBITDA de 17,8 % contre 18,3 %.",
+    "horizon": "moyen",
+    "impact": "neutre",
+    "lecture": "La croissance reste solide mais la rentabilité ne progresse plus : il faut surveiller que les investissements dans l'IA ne rognent pas durablement les marges."
+   },
+   {
+    "d": "24/07",
+    "fait": "Alliance entre Comsysto Reply et Audi pour une plateforme de véhicules d'occasion B2B fondée sur des agents d'IA.",
+    "horizon": "long",
+    "impact": "positif",
+    "lecture": "Montre que Reply transforme l'IA en projets facturables chez de grands clients, ce qui répond à la crainte d'être dépassé par l'IA."
+   },
+   {
+    "d": "10/08",
+    "fait": "Finalisation de l'acquisition de Fedtec.",
+    "horizon": "moyen",
+    "impact": "neutre",
+    "lecture": "Acquisition ciblée dans la lignée du modèle habituel (petites sociétés spécialisées), sans risque pour le bilan."
+   },
+   {
+    "d": "févr. à sept.",
+    "fait": "Le titre était tombé vers 97 € en février 2026 (contre 160 € un an plus tôt) sur la crainte que l'IA menace les sociétés de services informatiques, puis a rebondi d'environ 50 % en six mois.",
+    "horizon": "long",
+    "impact": "neutre",
+    "lecture": "C'est le vrai débat du dossier : si l'IA réduit le nombre de jours facturés, la croissance ralentira ; si Reply vend l'IA à ses clients, elle en profitera."
+   }
+  ],
+  "cadres": [
+   "Buffett (qualité, avantage concurrentiel)",
+   "Fisher (direction, innovation)",
+   "Lynch (stalwart, PEG)",
+   "Graham (solidité du bilan)",
+   "Greenblatt (formule magique)",
+   "Piotroski (F-score calculé)",
+   "Théorie de Dow",
+   "Minervini (trend template)",
+   "Weinstein (stades)"
+  ],
+  "conviction": "moyenne",
+  "fonda": {
+   "bilan": "Excellent au sens de Graham : trésorerie nette de 467,6 M€ fin 2025 et 402 M€ fin juin 2026 (après dividende et acquisitions). Les charges d'intérêts sont négligeables (environ 2 M€), la couverture des intérêts est donc très large.",
+   "croissance": "CA : 2 118 M€ (2023), 2 296 M€ (2024), 2 450 M€ (2025), puis 2 709 M€ (2026), 2 925 M€ (2027) et 3 138 M€ (2028) selon le consensus. BPA : 5,01 € (2023), 5,65 € (2024), 6,73 € (2025), 7,59 € (2026), 8,27 € (2027), 8,97 € (2028), soit environ +8 à 9 %/an après 2026. Premier semestre 2026 : CA +7,4 % à 1,31 Md€, bénéfice net +5,7 %. Au sens de Lynch, c'est une valeur de croissance régulière (stalwart).",
+   "greenblatt": "Rendement bénéficiaire (EBIT 2026 / valeur d'entreprise) proche de 10,8 % et rendement du capital supérieur à 35 % : profil très favorable sur la formule magique.",
+   "justif": "Qualité élevée (rentabilité, trésorerie nette, croissance régulière depuis des années) et valorisation redevenue raisonnable, avec un risque de rupture technologique lié à l'IA.",
+   "peg": 1.8,
+   "piotroski": 8,
+   "qualite": "Rentabilité des fonds propres calculée d'environ 17 % en 2025 (251 M€ de bénéfice pour 1,49 Md€ de fonds propres) et rendement du capital employé très élevé (plus de 35 %, car le groupe a beaucoup de trésorerie). Marge EBIT stable : 13,8 % (2023), 14,4 % (2024), 16,0 % (2025), environ 15 % attendus en 2026. Au premier semestre 2026, la marge d'EBITDA a légèrement baissé (17,8 % contre 18,3 %). L'avantage concurrentiel (Buffett, Fisher) repose sur un modèle de petites sociétés spécialisées très réactives (cloud, données, IA, SAP) et une clientèle de grands groupes fidèles ; le pouvoir de fixer les prix reste celui d'un prestataire, pas d'un éditeur de logiciel.",
+   "score": 8,
+   "valo": "PER 15,5 en 2026 et 14,2 en 2027, VE/EBITDA 7,7 en 2026 et 6,7 en 2027 (Zonebourse). Moyenne 2021 à 2025 calculée : PER environ 27 et VE/EBITDA environ 14. L'action est donc nettement moins chère que son historique. Rendement du flux de trésorerie libre attendu de 6,3 % en 2026 et 7,7 % en 2027. Comparaison fine avec les pairs européens (Capgemini, Sopra Steria, Alten) non vérifiée chiffre par chiffre."
+  },
+  "majLe": "2026-09-28",
+  "revisions": "Sens non confirmé : MarketScreener évoque quelques baisses d'estimations après les publications, sans chiffre. Objectif moyen 153,36 € (11 analystes).",
+  "scenarios": [
+   {
+    "bas": 108,
+    "central": 120,
+    "haut": 130,
+    "horizon": "2 mois",
+    "hypotheses": "Catalyseur : résultats T3 le 12/11. Central : maintien dans la zone 115 à 125 €. Bas : déception sur la croissance ou nouvelle vague de craintes sur l'IA, retour vers la moyenne 100 jours (107 €). Haut : bonne publication et test du sommet de 129 €.",
+    "unite": "€"
+   },
+   {
+    "bas": 95,
+    "central": 135,
+    "haut": 155,
+    "horizon": "12 mois",
+    "hypotheses": "Objectif moyen des 11 analystes : 153 € (fourchette 121 à 195 €). Central : BPA 2027 de 8,27 € valorisé environ 16 fois. Bas : retour des craintes IA et PER vers 12. Haut : le marché revient vers l'objectif moyen des analystes.",
+    "unite": "€"
+   },
+   {
+    "bas": -1,
+    "central": 10,
+    "haut": 17,
+    "horizon": "5 ans",
+    "hypotheses": "Central : BPA +8,5 %/an + dividende 1,3 % + léger gain de PER (15,5 vers 16, environ +0,6 %/an) = environ 10 %/an. Bas : BPA +3 %/an (l'IA fait baisser les prix des services), PER vers 12 (environ -5 %/an), dividende 1,3 % = environ -1 %/an. Haut : BPA +11 %/an et PER vers 20 (environ +5 %/an) = environ 17 %/an.",
+    "unite": "%/an"
+   },
+   {
+    "bas": 3,
+    "central": 9,
+    "haut": 13,
+    "horizon": "10-15 ans",
+    "hypotheses": "Reply a su se réinventer à chaque vague technologique depuis 30 ans. Central : BPA +8 %/an, dividende 1,5 %, PER stable = environ 9 %/an. Bas : services informatiques durablement banalisés, BPA +3 %. Haut : Reply devient un intégrateur IA de référence en Europe, BPA +11 %.",
+    "unite": "%/an"
+   }
+  ],
+  "sources": [
+   "https://www.zonebourse.com/cours/action/REPLY-S-P-A-38135655/",
+   "https://www.zonebourse.com/cours/action/REPLY-S-P-A-38135655/finances/",
+   "https://www.zonebourse.com/cours/action/REPLY-S-P-A-38135655/valorisation/",
+   "https://www.zonebourse.com/cours/action/REPLY-S-P-A-38135655/cotations/",
+   "https://www.zonebourse.com/cours/action/REPLY-S-P-A-38135655/agenda/",
+   "https://www.marketscreener.com/quote/stock/REPLY-S-P-A-38135655/consensus/",
+   "https://www.teleborsa.it/azioni/reply-rey-it0005282865-SVQwMDA1MjgyODY1/analisi?tab=2",
+   "https://www.soldionline.it/notizie/azioni-italia/conti-reply-primo-semestre-2026",
+   "https://www.milanofinanza.it/news/reply-la-multinazionale-dell-it-in-cerca-di-riscatto-a-piazza-affari-202602062236585511"
+  ],
+  "tech": {
+   "bas52": 77.15,
+   "cours": 115.8,
+   "coursLe": "2026-09-28",
+   "haut52": 124.2,
+   "lecture": "Cours de 115,80 au-dessus de sa moyenne 50 jours (115,76) et au-dessus de sa moyenne 200 jours (102,48). RSI 44,2 : élan neutre. Il se situe à 82 % de sa fourchette sur un an (de 77,15 à 124,20), performance sur 12 mois de -5,5 %. Support 114,40 et résistance 118,60 (Teleborsa, 28/09). Moyennes et RSI calculés sur les vraies clôtures (flux GitHub de 15h33).",
+   "mm200": 102.48,
+   "mm50": 115.76,
+   "resistance": 118.6,
+   "rsi14": 44.2,
+   "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json",
+   "stade": 2,
+   "support": 114.4,
+   "tendance": "haussiere"
+  },
+  "verdict": "Reply est une société de services informatiques très rentable, sans dette et avec plus de 400 M€ de trésorerie nette, valorisée environ 15 fois ses bénéfices 2026, bien sous sa moyenne historique. Le principal risque est que l'intelligence artificielle réduise à terme la demande de services facturés au temps passé, ce que le marché a déjà sanctionné début 2026 avant un fort rebond.",
+  "zones": {
+   "catalyseurs": [
+    "12/11/2026 : résultats du T3 2026",
+    "Mars 2027 (date non confirmée) : résultats annuels 2026 et dividende",
+    "Annonces de contrats IA avec de grands clients européens"
+   ],
+   "interet": "Zone de 105 à 115 € : support de 114,9 €, moyenne 50 jours à 115 € et moyenne 100 jours à 107 € ; le PER 2026 y serait d'environ 14 à 15, très en dessous de la moyenne historique.",
+   "invalidation": "Croissance organique qui tombe sous 3 % pendant deux trimestres, ou clôture durable sous 100 € : ce serait le signe que l'IA commence à réduire la demande de services.",
+   "sortie": [
+    "Marge EBIT qui passe sous 14 % deux semestres de suite",
+    "Croissance du CA inférieure à 3 % sur un an",
+    "PER au-dessus de 25 sans accélération de la croissance"
+   ]
+  }
+ },
+ "capi": "4,4 Md€",
+ "cours": 115.8,
+ "coursLe": "2026-09-28",
+ "devise": "€",
+ "faits": [
+  {
+   "d": "30/07",
+   "t": "S1 : CA 1 311,9 M€ (+7,4 %), marge d'EBITDA 17,8 %, résultat avant impôt +8,2 %, trésorerie nette 402 M€."
+  },
+  {
+   "d": "10/08",
+   "t": "Rachat de FedTec (États-Unis, environ 100 M$ de CA, 400 salariés), prix non communiqué."
+  }
+ ],
+ "histo": [
+  [
+   "18/09",
+   123.2
+  ],
+  [
+   "19/09",
+   121.9
+  ],
+  [
+   "22/09",
+   121.8
+  ],
+  [
+   "23/09",
+   122.7
+  ],
+  [
+   "24/09",
+   122.6
+  ],
+  [
+   "25/09",
+   120.3
+  ],
+  [
+   "26/09",
+   118.3
+  ],
+  [
+   "29/09",
+   120.7
+  ],
+  [
+   "30/09",
+   121.2
+  ],
+  [
+   "01/10",
+   121.2
+  ],
+  [
+   "02/10",
+   124
+  ],
+  [
+   "03/10",
+   123
+  ],
+  [
+   "06/10",
+   123
+  ],
+  [
+   "07/10",
+   123.7
+  ],
+  [
+   "08/10",
+   123.5
+  ],
+  [
+   "09/10",
+   123.3
+  ],
+  [
+   "10/10",
+   121.8
+  ],
+  [
+   "13/10",
+   120.4
+  ],
+  [
+   "14/10",
+   118.3
+  ],
+  [
+   "15/10",
+   118.9
+  ],
+  [
+   "16/10",
+   118.3
+  ],
+  [
+   "17/10",
+   118.1
+  ],
+  [
+   "20/10",
+   118.5
+  ],
+  [
+   "21/10",
+   121.1
+  ],
+  [
+   "22/10",
+   120.2
+  ],
+  [
+   "23/10",
+   120.4
+  ],
+  [
+   "24/10",
+   121.3
+  ],
+  [
+   "27/10",
+   120.3
+  ],
+  [
+   "28/10",
+   123.1
+  ],
+  [
+   "29/10",
+   121
+  ],
+  [
+   "30/10",
+   121.3
+  ],
+  [
+   "31/10",
+   121.6
+  ],
+  [
+   "03/11",
+   118.8
+  ],
+  [
+   "04/11",
+   119.2
+  ],
+  [
+   "05/11",
+   119.3
+  ],
+  [
+   "06/11",
+   115.9
+  ],
+  [
+   "07/11",
+   114.6
+  ],
+  [
+   "10/11",
+   116.2
+  ],
+  [
+   "11/11",
+   118
+  ],
+  [
+   "12/11",
+   119.4
+  ],
+  [
+   "13/11",
+   124
+  ],
+  [
+   "14/11",
+   117.1
+  ],
+  [
+   "17/11",
+   116.2
+  ],
+  [
+   "18/11",
+   111.7
+  ],
+  [
+   "19/11",
+   115.1
+  ],
+  [
+   "20/11",
+   113.2
+  ],
+  [
+   "21/11",
+   114.1
+  ],
+  [
+   "24/11",
+   115.7
+  ],
+  [
+   "25/11",
+   115.3
+  ],
+  [
+   "26/11",
+   114.1
+  ],
+  [
+   "27/11",
+   115
+  ],
+  [
+   "28/11",
+   114.6
+  ],
+  [
+   "01/12",
+   115.2
+  ],
+  [
+   "02/12",
+   113.9
+  ],
+  [
+   "03/12",
+   113.9
+  ],
+  [
+   "04/12",
+   116.1
+  ],
+  [
+   "05/12",
+   117.7
+  ],
+  [
+   "08/12",
+   115.2
+  ],
+  [
+   "09/12",
+   119.1
+  ],
+  [
+   "10/12",
+   117.4
+  ],
+  [
+   "11/12",
+   116.2
+  ],
+  [
+   "12/12",
+   115.7
+  ],
+  [
+   "15/12",
+   116.3
+  ],
+  [
+   "16/12",
+   114.8
+  ],
+  [
+   "17/12",
+   114.2
+  ],
+  [
+   "18/12",
+   116.8
+  ],
+  [
+   "19/12",
+   114.5
+  ],
+  [
+   "22/12",
+   115.8
+  ],
+  [
+   "23/12",
+   115.3
+  ],
+  [
+   "29/12",
+   115.6
+  ],
+  [
+   "30/12",
+   114.7
+  ],
+  [
+   "02/01",
+   110.9
+  ],
+  [
+   "05/01",
+   115
+  ],
+  [
+   "06/01",
+   116.2
+  ],
+  [
+   "07/01",
+   118.4
+  ],
+  [
+   "08/01",
+   117.4
+  ],
+  [
+   "09/01",
+   120.2
+  ],
+  [
+   "12/01",
+   116.4
+  ],
+  [
+   "13/01",
+   115.7
+  ],
+  [
+   "14/01",
+   116.9
+  ],
+  [
+   "15/01",
+   112.6
+  ],
+  [
+   "16/01",
+   112.4
+  ],
+  [
+   "19/01",
+   111.3
+  ],
+  [
+   "20/01",
+   110.4
+  ],
+  [
+   "21/01",
+   112
+  ],
+  [
+   "22/01",
+   113.9
+  ],
+  [
+   "23/01",
+   114.1
+  ],
+  [
+   "26/01",
+   114.4
+  ],
+  [
+   "27/01",
+   111.4
+  ],
+  [
+   "28/01",
+   111.2
+  ],
+  [
+   "29/01",
+   108.8
+  ],
+  [
+   "30/01",
+   110.4
+  ],
+  [
+   "02/02",
+   112.5
+  ],
+  [
+   "03/02",
+   102.5
+  ],
+  [
+   "04/02",
+   100.6
+  ],
+  [
+   "05/02",
+   99.75
+  ],
+  [
+   "06/02",
+   98.1
+  ],
+  [
+   "09/02",
+   96.8
+  ],
+  [
+   "10/02",
+   98.65
+  ],
+  [
+   "11/02",
+   94.05
+  ],
+  [
+   "12/02",
+   90.5
+  ],
+  [
+   "13/02",
+   93.55
+  ],
+  [
+   "16/02",
+   90.75
+  ],
+  [
+   "17/02",
+   90.25
+  ],
+  [
+   "18/02",
+   91.4
+  ],
+  [
+   "19/02",
+   89.85
+  ],
+  [
+   "20/02",
+   89.55
+  ],
+  [
+   "23/02",
+   88.6
+  ],
+  [
+   "24/02",
+   88.1
+  ],
+  [
+   "25/02",
+   88.05
+  ],
+  [
+   "26/02",
+   91.8
+  ],
+  [
+   "27/02",
+   90.7
+  ],
+  [
+   "02/03",
+   90.15
+  ],
+  [
+   "03/03",
+   90.25
+  ],
+  [
+   "04/03",
+   90.3
+  ],
+  [
+   "05/03",
+   89.8
+  ],
+  [
+   "06/03",
+   94.45
+  ],
+  [
+   "09/03",
+   94.7
+  ],
+  [
+   "10/03",
+   94.9
+  ],
+  [
+   "11/03",
+   96.35
+  ],
+  [
+   "12/03",
+   82.1
+  ],
+  [
+   "13/03",
+   87.15
+  ],
+  [
+   "16/03",
+   85.05
+  ],
+  [
+   "17/03",
+   82.5
+  ],
+  [
+   "18/03",
+   80.05
+  ],
+  [
+   "19/03",
+   81.25
+  ],
+  [
+   "20/03",
+   78.75
+  ],
+  [
+   "23/03",
+   78.35
+  ],
+  [
+   "24/03",
+   77.15
+  ],
+  [
+   "25/03",
+   78.7
+  ],
+  [
+   "26/03",
+   78.15
+  ],
+  [
+   "27/03",
+   78.1
+  ],
+  [
+   "30/03",
+   78.6
+  ],
+  [
+   "31/03",
+   80.75
+  ],
+  [
+   "01/04",
+   81.9
+  ],
+  [
+   "02/04",
+   82.05
+  ],
+  [
+   "07/04",
+   80.9
+  ],
+  [
+   "08/04",
+   82.1
+  ],
+  [
+   "09/04",
+   79.3
+  ],
+  [
+   "10/04",
+   83.7
+  ],
+  [
+   "13/04",
+   84.4
+  ],
+  [
+   "14/04",
+   86.15
+  ],
+  [
+   "15/04",
+   87.65
+  ],
+  [
+   "16/04",
+   91.35
+  ],
+  [
+   "17/04",
+   96
+  ],
+  [
+   "20/04",
+   93.7
+  ],
+  [
+   "21/04",
+   95.9
+  ],
+  [
+   "22/04",
+   95.8
+  ],
+  [
+   "23/04",
+   91.9
+  ],
+  [
+   "24/04",
+   91.7
+  ],
+  [
+   "27/04",
+   91.45
+  ],
+  [
+   "28/04",
+   92.5
+  ],
+  [
+   "29/04",
+   93.9
+  ],
+  [
+   "30/04",
+   94.3
+  ],
+  [
+   "04/05",
+   97.5
+  ],
+  [
+   "05/05",
+   96.9
+  ],
+  [
+   "06/05",
+   99.65
+  ],
+  [
+   "07/05",
+   98.6
+  ],
+  [
+   "08/05",
+   97.95
+  ],
+  [
+   "11/05",
+   95.85
+  ],
+  [
+   "12/05",
+   93.65
+  ],
+  [
+   "13/05",
+   91.45
+  ],
+  [
+   "14/05",
+   92.95
+  ],
+  [
+   "15/05",
+   97.7
+  ],
+  [
+   "18/05",
+   98.95
+  ],
+  [
+   "19/05",
+   103.6
+  ],
+  [
+   "20/05",
+   103.5
+  ],
+  [
+   "21/05",
+   103.9
+  ],
+  [
+   "22/05",
+   104.9
+  ],
+  [
+   "25/05",
+   105.2
+  ],
+  [
+   "26/05",
+   105.6
+  ],
+  [
+   "27/05",
+   103.3
+  ],
+  [
+   "28/05",
+   101.5
+  ],
+  [
+   "29/05",
+   102.9
+  ],
+  [
+   "01/06",
+   108.3
+  ],
+  [
+   "02/06",
+   107.3
+  ],
+  [
+   "03/06",
+   104.5
+  ],
+  [
+   "04/06",
+   106.1
+  ],
+  [
+   "05/06",
+   104.6
+  ],
+  [
+   "08/06",
+   104.6
+  ],
+  [
+   "09/06",
+   102.3
+  ],
+  [
+   "10/06",
+   101.3
+  ],
+  [
+   "11/06",
+   99.25
+  ],
+  [
+   "12/06",
+   100.2
+  ],
+  [
+   "15/06",
+   99.6
+  ],
+  [
+   "16/06",
+   100.8
+  ],
+  [
+   "17/06",
+   100.4
+  ],
+  [
+   "18/06",
+   98.35
+  ],
+  [
+   "19/06",
+   92.4
+  ],
+  [
+   "22/06",
+   91.2
+  ],
+  [
+   "23/06",
+   91.95
+  ],
+  [
+   "24/06",
+   91.3
+  ],
+  [
+   "25/06",
+   88.35
+  ],
+  [
+   "26/06",
+   90
+  ],
+  [
+   "29/06",
+   92.05
+  ],
+  [
+   "30/06",
+   91.45
+  ],
+  [
+   "01/07",
+   96.85
+  ],
+  [
+   "02/07",
+   98
+  ],
+  [
+   "03/07",
+   97.95
+  ],
+  [
+   "06/07",
+   97.5
+  ],
+  [
+   "07/07",
+   96.8
+  ],
+  [
+   "08/07",
+   94.85
+  ],
+  [
+   "09/07",
+   95.85
+  ],
+  [
+   "10/07",
+   95.45
+  ],
+  [
+   "13/07",
+   96.75
+  ],
+  [
+   "14/07",
+   95.85
+  ],
+  [
+   "15/07",
+   96.9
+  ],
+  [
+   "16/07",
+   97
+  ],
+  [
+   "17/07",
+   97.8
+  ],
+  [
+   "20/07",
+   98.1
+  ],
+  [
+   "21/07",
+   94.65
+  ],
+  [
+   "22/07",
+   94.8
+  ],
+  [
+   "23/07",
+   94.2
+  ],
+  [
+   "24/07",
+   99.9
+  ],
+  [
+   "27/07",
+   104.7
+  ],
+  [
+   "28/07",
+   108.1
+  ],
+  [
+   "29/07",
+   111.5
+  ],
+  [
+   "30/07",
+   109.2
+  ],
+  [
+   "31/07",
+   109.8
+  ],
+  [
+   "03/08",
+   116.8
+  ],
+  [
+   "04/08",
+   116.4
+  ],
+  [
+   "05/08",
+   117.5
+  ],
+  [
+   "06/08",
+   116.2
+  ],
+  [
+   "07/08",
+   117.1
+  ],
+  [
+   "10/08",
+   116.7
+  ],
+  [
+   "11/08",
+   118.3
+  ],
+  [
+   "12/08",
+   117.5
+  ],
+  [
+   "13/08",
+   118
+  ],
+  [
+   "14/08",
+   120.6
+  ],
+  [
+   "17/08",
+   117.2
+  ],
+  [
+   "18/08",
+   119.4
+  ],
+  [
+   "19/08",
+   120.1
+  ],
+  [
+   "20/08",
+   119.4
+  ],
+  [
+   "21/08",
+   121.4
+  ],
+  [
+   "24/08",
+   122.8
+  ],
+  [
+   "25/08",
+   122.1
+  ],
+  [
+   "26/08",
+   120.2
+  ],
+  [
+   "27/08",
+   123
+  ],
+  [
+   "28/08",
+   124.2
+  ],
+  [
+   "31/08",
+   122.2
+  ],
+  [
+   "01/09",
+   122.6
+  ],
+  [
+   "02/09",
+   121.3
+  ],
+  [
+   "03/09",
+   122.9
+  ],
+  [
+   "04/09",
+   122
+  ],
+  [
+   "07/09",
+   119.2
+  ],
+  [
+   "08/09",
+   118.4
+  ],
+  [
+   "09/09",
+   113.1
+  ],
+  [
+   "10/09",
+   112.1
+  ],
+  [
+   "11/09",
+   114
+  ],
+  [
+   "14/09",
+   117.2
+  ],
+  [
+   "15/09",
+   116.1
+  ],
+  [
+   "16/09",
+   114.3
+  ],
+  [
+   "17/09",
+   116.2
+  ],
+  [
+   "18/09",
+   117.1
+  ],
+  [
+   "21/09",
+   119.1
+  ],
+  [
+   "22/09",
+   118.7
+  ],
+  [
+   "23/09",
+   120
+  ],
+  [
+   "24/09",
+   117.6
+  ],
+  [
+   "25/09",
+   117.6
+  ],
+  [
+   "28/09",
+   115.8
+  ]
+ ],
+ "nom": "Reply",
+ "notes": "Clôture du 28/09 à 115,80 (Teleborsa, clôture). Date du 12/11 confirmée par le calendrier officiel de Reply. Support 114,4 € et résistance 118,6 € (Teleborsa).",
+ "pays": "IT",
+ "per26": 16.2,
+ "per27": 14.8,
+ "perf": {
+  "m1": -7.8,
+  "m12": -5.5,
+  "m3": 18.2
+ },
+ "pub": "2026-11-12",
+ "pubLabel": "Résultats du T3",
+ "risque": "Coupes dans les budgets IT des grands clients ou automatisation d'une partie du conseil par l'IA.",
+ "secteur": "Services informatiques et conseil",
+ "societe": {
+  "aVerifier": "Vérifié le 29/09/2026 sur les communiqués Reply 2021 à 2025 : CA, résultat net, EBIT (donc margeOp = EBIT/CA), position financière nette et dividendes 2021-2025 confirmés ou corrigés. CA 2024 = 2 300,5 M€ (chiffre retraité dans le communiqué 2025 ; publié à l'origine 2 295,9 M€). Effectif 16 624 fin 2025 confirmé (rapport annuel 2025). Restent non vérifiés : répartition par métier (9 mois 2025, source secondaire) et répartition géographique (le rapport annuel ne donne que des graphiques) ; consensus 2026e Zonebourse ; date d'arrivée de Marco Cusinato ; liste des concurrents (non sourcée).",
+  "actionnariat": "La famille Rizzante contrôle le groupe via sa holding Alika (environ 37,1 % du capital et 54,1 % des droits de vote après la cession de 1 million d'actions en janvier 2025, grâce aux droits de vote renforcés), le reste est coté et détenu surtout par des fonds.",
+  "avantage": "Un modèle en réseau de plus de 130 petites sociétés très spécialisées, qui restent agiles et proches de la technologie, avec une réputation d'avance sur les sujets neufs (IA, cloud) et une gestion familiale très disciplinée. Ce qui pourrait l'éroder : l'IA générative qui automatise une partie du travail des consultants et pousse les clients à payer moins d'heures, et la faiblesse de l'Allemagne.",
+  "chiffres": [
+   {
+    "annee": "2021",
+    "ca": 1483.8,
+    "detteNette": -193.2,
+    "dividende": 0.8,
+    "margeOp": 14.1,
+    "rn": 150.7
+   },
+   {
+    "annee": "2022",
+    "ca": 1891,
+    "detteNette": -70.6,
+    "dividende": 1,
+    "margeOp": 15.1,
+    "rn": 192.2
+   },
+   {
+    "annee": "2023",
+    "ca": 2118,
+    "detteNette": -204.9,
+    "dividende": 1,
+    "margeOp": 13.8,
+    "rn": 186.7
+   },
+   {
+    "annee": "2024",
+    "ca": 2300.5,
+    "detteNette": -349.1,
+    "dividende": 1.15,
+    "margeOp": 14.4,
+    "rn": 211.1
+   },
+   {
+    "annee": "2025",
+    "ca": 2483.6,
+    "detteNette": -467.6,
+    "dividende": 1.35,
+    "margeOp": 15.8,
+    "rn": 250.9
+   },
+   {
+    "annee": "2026e",
+    "ca": 2709,
+    "detteNette": null,
+    "dividende": 1.52,
+    "margeOp": 15.1,
+    "rn": 281
+   }
+  ],
+  "clients": "De grandes entreprises européennes et américaines, surtout dans la finance (banques, assurances, environ 30 % des revenus), mais aussi télécoms, énergie, industrie, distribution et secteur public. Les 20 premiers clients pèsent environ 40 % du chiffre d'affaires, sans client écrasant.",
+  "concurrents": [
+   "Accenture",
+   "Capgemini",
+   "Sopra Steria",
+   "IBM Consulting",
+   "Deloitte",
+   "Engineering Ingegneria Informatica"
+  ],
+  "corrections": [
+   "2021 detteNette -193 -> -193.2 (communiqué Reply 2021 : position financière nette positive de 193,2 M€).",
+   "2022 detteNette -68.6 -> -70.6 (communiqués Reply 2022 et 2023 : 70,6 M€ positive).",
+   "2023 detteNette -203 -> -204.9 (communiqués Reply 2023 et 2024 : 204,9 M€ positive).",
+   "Mario Rizzante : rôle précisé (président ET administrateur délégué selon le rapport annuel 2025) ; « depuis 2000 » non confirmé, mis à null (il préside le groupe depuis sa création en 1996 selon les sources de presse, non vérifié).",
+   "Actionnariat : pourcentages précisés (37,1 % / 54,1 %, communiqué Reply du 10/01/2025)."
+  ],
+  "croire": [
+   "Que l'intelligence artificielle est une source de nouveaux projets pour Reply (aider les clients à l'adopter) plutôt qu'une menace qui réduit le nombre d'heures facturées.",
+   "Que la famille Rizzante continuera à allouer le capital avec la même discipline (acquisitions petites et bien intégrées, trésorerie nette abondante, aucune dilution).",
+   "Que la croissance autour de 8 % par an et la marge opérationnelle autour de 15-16 % peuvent se maintenir malgré le ralentissement en Allemagne."
+  ],
+  "devise": "€",
+  "dirigeants": [
+   {
+    "depuis": null,
+    "nom": "Mario Rizzante",
+    "role": "Fondateur, président du conseil d'administration et administrateur délégué"
+   },
+   {
+    "depuis": 2006,
+    "nom": "Tatiana Rizzante",
+    "role": "Administratrice déléguée (CEO)"
+   },
+   {
+    "depuis": null,
+    "nom": "Marco Cusinato",
+    "role": "Directeur financier"
+   }
+  ],
+  "effectifs": 16624,
+  "fondee": 1996,
+  "geo": [
+   {
+    "part": 62.3,
+    "zone": "Région 1 (Italie, États-Unis et autres)"
+   },
+   {
+    "part": 19.1,
+    "zone": "Région 3 (Royaume-Uni, France, Benelux)"
+   },
+   {
+    "part": 18.6,
+    "zone": "Région 2 (Allemagne et pays voisins)"
+   }
+  ],
+  "histoire": [
+   {
+    "annee": 1996,
+    "fait": "Création à Turin par un groupe de cadres de l'informatique mené par Mario Rizzante."
+   },
+   {
+    "annee": 2000,
+    "fait": "Entrée en Bourse à Milan en décembre (segment STAR de Borsa Italiana)."
+   },
+   {
+    "annee": 2006,
+    "fait": "Prise de contrôle de l'allemand syskoplan AG, porte d'entrée en Allemagne ; Tatiana Rizzante, fille du fondateur, devient directrice générale."
+   },
+   {
+    "annee": 2013,
+    "fait": "Fusion de Reply Deutschland dans la maison mère italienne pour simplifier le groupe."
+   },
+   {
+    "annee": 2023,
+    "fait": "Le chiffre d'affaires dépasse 2 milliards d'euros (environ 2,12 milliards)."
+   },
+   {
+    "annee": 2025,
+    "fait": "La holding familiale Alika cède 1 million d'actions en janvier mais garde environ 37 % du capital et 54 % des droits de vote ; acquisitions ciblées au Royaume-Uni et aux États-Unis."
+   },
+   {
+    "annee": 2026,
+    "fait": "Comptes 2025 : chiffre d'affaires de 2 483,6 millions d'euros (+8 %) et bénéfice net de 250,9 millions d'euros."
+   }
+  ],
+  "modele": "Reply vend du temps d'experts et des projets clés en main (environ 70 % de projets au forfait, 30 % en régie facturée au temps passé). Les revenus sont récurrents dans les faits car les grands clients reviennent chaque année, mais il n'y a pas d'abonnement : il faut sans cesse regagner des contrats. Le pouvoir de prix repose sur l'expertise pointue (IA, cloud, données) plutôt que sur un produit exclusif.",
+  "questions": [
+   "La croissance organique (hors acquisitions) tient-elle, et quelle part vient réellement de projets d'IA ?",
+   "Le revenu par salarié continue-t-il de progresser, signe que l'IA améliore la productivité au lieu de faire baisser les prix ?",
+   "Comment la succession et la gouvernance familiale évoluent-elles, notamment si Alika continue de vendre des actions ?"
+  ],
+  "resume": "Reply est une société italienne de services informatiques : elle conseille les grandes entreprises et construit pour elles des logiciels, des plateformes cloud, des outils d'intelligence artificielle ou de cybersécurité. Concrètement, quand une banque veut refaire son application mobile ou un constructeur auto connecter ses usines, c'est le genre de projet que Reply réalise.",
+  "segments": [
+   {
+    "detail": "Conseil et intégration sur les technologies (cloud, données, IA, cybersécurité, objets connectés). Donnée sur 9 mois 2025.",
+    "nom": "Technologies",
+    "part": 60.3
+   },
+   {
+    "detail": "Conception et développement d'applications métiers et de plateformes digitales. Donnée sur 9 mois 2025.",
+    "nom": "Applications",
+    "part": 29.8
+   },
+   {
+    "detail": "Conseil en organisation et en stratégie, en recul en 2025. Donnée sur 9 mois 2025.",
+    "nom": "Processus (conseil)",
+    "part": 9.9
+   }
+  ],
+  "siege": "Turin, Italie",
+  "site": "https://www.reply.com",
+  "sources": [
+   "https://www.reply.com/en/newsroom/financial-news/the-board-of-directors-approved-the-draft-financial-statements-for-the-year-2025",
+   "https://www.reply.com/en/investors/financial-reports/2025/introduction.html",
+   "https://www.reply.com/contents/Reply_Earnings_Call_2025_Q4_Transcript.pdf",
+   "https://www.reply.com/en/investors/extraordinary-transactions",
+   "https://www.reply.com/en/newsroom/financial-news/alika-srl-completes-the-sale-of-one-million-shares-of-reply-spa-through-an-accelerated-bookbuild-process-to-institutional-investors",
+   "https://en.wikipedia.org/wiki/Reply_(company)",
+   "https://equities123.substack.com/p/reply-spa-the-italian-digital-serial",
+   "https://www.zonebourse.com/cours/action/REPLY-S-P-A-38135655/finances/",
+   "https://www.zonebourse.com/cours/action/REPLY-S-P-A-38135655/valorisation-dividende/",
+   "https://www.zonebourse.com/cours/action/REPLY-S-P-A-38135655/finances-bilan/",
+   "https://www.zonebourse.com/cours/action/REPLY-S-P-A-38135655/finances-segments/",
+   "https://www.zonebourse.com/cours/action/REPLY-S-P-A-38135655/societe/",
+   "https://www.reply.com/en/newsroom/financial-news/the-board-of-directors-approved-the-draft-financial-statements-for-the-year-2024",
+   "https://www.reply.com/en/newsroom/financial-news/the-board-of-directors-approved-the-draft-financial-statements-for-the-year-2023",
+   "https://www.reply.com/en/newsroom/financial-news/the-board-of-directors-approved-the-draft-financial-statements-for-the-year-2022",
+   "https://markets.financialcontent.com/concordmonitor/article/bizwire-2022-3-15-reply-the-board-of-directors-approved-the-draft-financial-statements-for-the-year-2021",
+   "https://www.businesswire.com/news/home/20260515433869/en/REPLY-The-Board-of-Directors-Approves-the-Quarterly-Report-Dated-31-March-2026",
+   "https://www.reply.com/en/investors/financial-reports/2025/report-on-operations.html"
+  ],
+  "suivi": {
+   "bilan": "2 conditions sur 3 tiennent (IA porteuse, discipline financière) ; le plus fragile est la marge, qui recule légèrement pendant que Reply réinvestit ses gains de productivité.",
+   "croire": [
+    {
+     "c": "Que l'intelligence artificielle est une source de nouveaux projets pour Reply (aider les clients à l'adopter) plutôt qu'une menace qui réduit le nombre d'heures facturées.",
+     "etat": "ok",
+     "preuve": "S1 2026 : CA 1 311,9 M€ (+7,4 %) ; T2 : +8,7 % ; environ 40 nouvelles petites sociétés créées depuis le début de l'année, surtout sur l'IA.",
+     "prochain": "Résultats du T3 le 12/11/2026",
+     "reponse": "Pour l'instant oui : la croissance continue (+7,3 % à périmètre constant), la direction dit que les clients passent de l'essai à la mise en production de l'IA, et Reply a signé des projets d'agents IA (Audi).",
+     "source": "https://www.reply.com/contents/Reply_Earnings_Call_2026_Q2_transcript.pdf"
+    },
+    {
+     "c": "Que la famille Rizzante continuera à allouer le capital avec la même discipline (acquisitions petites et bien intégrées, trésorerie nette abondante, aucune dilution).",
+     "etat": "ok",
+     "preuve": "Trésorerie nette de 402 M€ au 30/06/2026 ; rachat de 139 000 actions propres en avril 2026 (12,7 M€) ; FedTec : au plus environ 2 % du CA 2026.",
+     "prochain": "Résultats du T3 le 12/11/2026",
+     "reponse": "Oui : la trésorerie nette reste très large même après le dividende, les rachats d'actions et l'achat de FedTec, payé à un prix de marché « normal » selon la direction. Aucune dilution n'a été annoncée.",
+     "source": "https://www.reply.com/en/newsroom/financial-news/the-board-of-directors-approves-the-half-year-financial-report-as-of-30-june-2026"
+    },
+    {
+     "c": "Que la croissance autour de 8 % par an et la marge opérationnelle autour de 15-16 % peuvent se maintenir malgré le ralentissement en Allemagne.",
+     "etat": "watch",
+     "preuve": "S1 2026 : marge d'EBITDA 17,8 % contre 18,3 %, marge EBIT 14,5 % (EBIT 189,7 M€ contre 188,4 M€) ; Région Allemagne : +5,5 % au T2 après un T1 faible.",
+     "prochain": "Résultats du T3 le 12/11/2026",
+     "reponse": "La croissance tient (environ 7 à 8 %) et l'Allemagne se reprend un peu, mais la rentabilité ne progresse plus : la marge baisse légèrement.",
+     "source": "https://www.reply.com/en/newsroom/financial-news/the-board-of-directors-approves-the-half-year-financial-report-as-of-30-june-2026"
+    }
+   ],
+   "le": "2026-09-29",
+   "questions": [
+    {
+     "etat": "ok",
+     "preuve": "S1 2026 : croissance à périmètre constant de 7,3 % (7,4 % publiée, effet acquisitions -1,1 point compensé par +1 point de change) ; T2 2026 : +8,7 %.",
+     "prochain": "Résultats du T3 le 12/11/2026",
+     "q": "La croissance organique (hors acquisitions) tient-elle, et quelle part vient réellement de projets d'IA ?",
+     "reponse": "Oui : la croissance hors acquisitions tient autour de 7 %, et la direction dit que l'IA et les données sont devenues le principal moteur. En revanche, Reply ne publie aucune part chiffrée du chiffre d'affaires liée à l'IA.",
+     "source": "https://www.reply.com/contents/Reply_Earnings_Call_2026_Q2_transcript.pdf"
+    },
+    {
+     "etat": "watch",
+     "preuve": "S1 2026 : « revenu moyen par salarié globalement en ligne avec la période précédente », 17 300 salariés (plus de 1 000 de plus qu'en juin 2025) pour un CA de 1 311,9 M€.",
+     "prochain": "Résultats annuels 2026 (mars 2027), avec l'effectif de fin d'année",
+     "q": "Le revenu par salarié continue-t-il de progresser, signe que l'IA améliore la productivité au lieu de faire baisser les prix ?",
+     "reponse": "Stable, pas en hausse : le revenu moyen par salarié est resté à peu près au même niveau, ce qui ne montre ni gain ni baisse de prix. La direction dit utiliser les gains de productivité de l'IA pour gagner des parts de marché plutôt que pour augmenter la marge.",
+     "source": "https://www.reply.com/contents/Reply_Earnings_Call_2026_Q2_transcript.pdf"
+    },
+    {
+     "etat": "watch",
+     "preuve": "Alika : 1 million d'actions cédées en janvier 2025, puis environ 37,1 % du capital et 54,1 % des droits de vote ; mandat du conseil 2024-2026 (nommé le 23/04/2024).",
+     "prochain": "Assemblée générale du printemps 2027 (nouveau conseil pour 2027-2029)",
+     "q": "Comment la succession et la gouvernance familiale évoluent-elles, notamment si Alika continue de vendre des actions ?",
+     "reponse": "Aucune nouvelle vente d'Alika n'a été trouvée depuis celle de janvier 2025 ; la famille garde le contrôle (Mario président, Tatiana directrice générale). Le point à suivre est le renouvellement du conseil, dont le mandat se termine avec l'approbation des comptes 2026.",
+     "source": "https://www.reply.com/en/newsroom/financial-news/the-board-of-directors-appointed-the-company-officers-for-the-financial-years-2024-2026"
+    }
+   ]
+  },
+  "verifieLe": "2026-09-29"
+ },
+ "src": "https://www.teleborsa.it/News/2026/07/30/reply-fatturato-primo-semestre-sale-a-1-31-miliardi-di-euro-141.html",
+ "statut": "intacte",
+ "these": "Gagne des parts de marché sur les projets d'IA en entreprise, croissance rentable, pas de dette.",
+ "ticker": "REY",
+ "yahoo": "REY.MI",
+ "zb": "https://www.zonebourse.com/cours/action/REPLY-S-P-A-38135655/"
+}

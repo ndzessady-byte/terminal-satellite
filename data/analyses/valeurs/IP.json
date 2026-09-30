@@ -1,0 +1,1449 @@
+{
+ "analyse": {
+  "actu": [
+   {
+    "d": "05/08",
+    "fait": "Résultats T2 2026 : CA de 561,4 M€ (+1,1 %, organique -0,7 %), EBITDA de 128,4 M€ (-2,8 %, marge 22,9 %), bénéfice net +6,6 %, dette nette de 305,7 M€. Objectifs 2026 confirmés. Le titre a gagné environ 4 % le jour même.",
+    "horizon": "moyen",
+    "impact": "neutre",
+    "lecture": "Pas encore de reprise, mais pas de nouvelle dégradation : le point bas du cycle semble proche, ce qui est la condition pour que la valorisation remonte."
+   },
+   {
+    "d": "06/08",
+    "fait": "Banca Akros relève sa recommandation sur le titre ; consensus de 8 analystes positif avec un objectif moyen de 46,81 €.",
+    "horizon": "court",
+    "impact": "positif",
+    "lecture": "Les analystes voient un potentiel d'environ 30 %, mais ils avaient aussi été pris de court en février."
+   },
+   {
+    "d": "13/02",
+    "fait": "Chute de 18,7 % en une séance après les comptes 2025 et des prévisions 2026 prudentes (plus ancien que trois mois, mais explique la situation actuelle).",
+    "horizon": "moyen",
+    "impact": "negatif",
+    "lecture": "Le marché a cessé de payer Interpump comme une valeur de croissance ; il faut maintenant que la croissance organique revienne pour justifier un PER plus élevé."
+   },
+   {
+    "d": "en continu",
+    "fait": "Cycle industriel européen et américain faible (machines agricoles, construction, hydraulique) et incertitudes sur les droits de douane.",
+    "horizon": "moyen",
+    "impact": "negatif",
+    "lecture": "Interpump fait environ 25 % de son CA en Amérique du Nord : une reprise du cycle ou un apaisement commercial serait le principal moteur de hausse."
+   }
+  ],
+  "cadres": [
+   "Buffett (qualité, avantage concurrentiel)",
+   "Fisher (direction, acquisitions)",
+   "Lynch (valeur cyclique, PEG)",
+   "Graham (solidité du bilan)",
+   "Greenblatt (formule magique)",
+   "Piotroski (F-score estimé)",
+   "Théorie de Dow",
+   "Minervini (trend template)",
+   "Weinstein (stades)"
+  ],
+  "conviction": "faible",
+  "fonda": {
+   "bilan": "Solide au sens de Graham : dette nette de 291 M€ fin 2025, soit environ 0,6 fois l'EBITDA, et 305,7 M€ fin juin 2026. Couverture des intérêts d'environ 10 fois (EBIT 2025 de 335 M€ pour 33 M€ d'intérêts). Le consensus prévoit une trésorerie nette dès 2027 si aucune grosse acquisition n'est faite.",
+   "croissance": "CA : 2 240 M€ (2023), 2 078 M€ (2024), 2 071 M€ (2025), puis 2 155 M€ (2026), 2 260 M€ (2027), 2 357 M€ (2028) selon le consensus. BPA : 2,56 € (2023), 2,12 € (2024), 1,95 € (2025), 2,15 € (2026), 2,40 € (2027), 2,62 € (2028), soit environ +10 à 11 %/an attendus. Au T2 2026 : CA +1,1 % (organique -0,7 %), EBITDA -2,8 %, bénéfice net +6,6 %. Objectif 2026 confirmé : CA organique entre -2 % et +3 %, plutôt en haut de fourchette. Au sens de Lynch, c'est une valeur cyclique qui cherche son point bas.",
+   "greenblatt": "Rendement bénéficiaire (EBIT 2026 / valeur d'entreprise) d'environ 9 % pour un rendement du capital d'environ 14 % : profil correct, redevenu intéressant grâce à la baisse du cours.",
+   "justif": "Marges élevées et bilan solide, mais activité en stagnation, rentabilité des fonds propres autour de 10 % seulement et reprise du cycle industriel encore incertaine.",
+   "peg": 1.6,
+   "piotroski": 6,
+   "qualite": "Marge d'EBITDA élevée et assez stable : 24,0 % (2023), 22,0 % (2024), 22,3 % (2025), 22,9 % au T2 2026 et objectif 2026 de 22 à 22,5 %. Rentabilité des fonds propres calculée d'environ 10 % en 2025 (208 M€ de bénéfice pour 2,11 Md€ de fonds propres) et rendement du capital employé d'environ 14 %. Zonebourse note que la création de valeur est positive mais à peine supérieure au coût du capital. L'avantage concurrentiel (Buffett, Fisher) vient de la position de leader mondial dans les pompes à piston haute pression et d'un savoir-faire d'intégration d'acquisitions (21 rachats entre 2015 et 2025, payés environ 7 à 8 fois l'EBITDA).",
+   "score": 6,
+   "valo": "PER 16,5 en 2026 et 14,8 en 2027, VE/EBITDA 8,1 en 2026 et 7,2 en 2027 (Zonebourse). Moyenne 2021 à 2025 calculée : PER environ 23 et VE/EBITDA environ 12. Zonebourse relève un plancher historique de valorisation vers 8 fois l'EBITDA, touché seulement lors du Covid et des craintes de droits de douane de 2025 : on y est. Rendement du flux de trésorerie libre attendu de 6,4 % en 2026. Le titre se paie moins cher que ses pairs américains cités par Zonebourse (IDEX, Graco), sans chiffres de pairs vérifiés ici."
+  },
+  "majLe": "2026-09-28",
+  "revisions": "Non chiffré (graphique MarketScreener seulement). Objectif moyen 46,81 € (8 analystes) ; Sadif passe à Conserver en septembre.",
+  "scenarios": [
+   {
+    "bas": 32,
+    "central": 36.5,
+    "haut": 40,
+    "horizon": "2 mois",
+    "hypotheses": "Catalyseur : résultats T3 le 13/11. Central : le range 33,7 à 38 € se prolonge. Bas : croissance organique négative au T3, retour vers 32 €. Haut : premiers signes de reprise et sortie du range par le haut vers 39 à 40 €.",
+    "unite": "€"
+   },
+   {
+    "bas": 29,
+    "central": 42,
+    "haut": 50,
+    "horizon": "12 mois",
+    "hypotheses": "Objectif moyen de 8 analystes : 46,81 € (39,5 à 53 €). Central : BPA 2027 de 2,40 € valorisé environ 17,5 fois. Bas : récession industrielle, BPA en baisse et PER à 14. Haut : reprise du cycle et retour vers le haut annuel de 51 €.",
+    "unite": "€"
+   },
+   {
+    "bas": 0,
+    "central": 11,
+    "haut": 18,
+    "horizon": "5 ans",
+    "hypotheses": "Central : BPA +9 %/an + dividende 1 % + remontée du PER de 16,5 vers 18 (environ +1,8 %/an) = environ 11 %/an. Bas : BPA +3 %/an, PER vers 13 (environ -4,7 %/an), dividende 1 % = environ 0 %/an. Haut : BPA +11 %/an, PER vers 22 (environ +6 %/an), dividende 1 % = environ 18 %/an.",
+    "unite": "%/an"
+   },
+   {
+    "bas": 3,
+    "central": 9,
+    "haut": 13,
+    "horizon": "10-15 ans",
+    "hypotheses": "Sur longue période, Interpump a doublé ses ventes en 10 ans grâce aux acquisitions. Central : BPA +8 %/an, dividende 1 %, PER stable = environ 9 %/an. Bas : acquisitions moins créatrices de valeur, BPA +3 %. Haut : retour à une croissance de 10 à 12 %/an.",
+    "unite": "%/an"
+   }
+  ],
+  "sources": [
+   "https://www.zonebourse.com/cours/action/INTERPUMP-GROUP-S-P-A-408413/",
+   "https://www.zonebourse.com/cours/action/INTERPUMP-GROUP-S-P-A-408413/finances/",
+   "https://www.zonebourse.com/cours/action/INTERPUMP-GROUP-S-P-A-408413/valorisation/",
+   "https://www.zonebourse.com/cours/action/INTERPUMP-GROUP-S-P-A-408413/consensus/",
+   "https://www.zonebourse.com/cours/action/INTERPUMP-GROUP-S-P-A-408413/cotations/",
+   "https://www.zonebourse.com/cours/action/INTERPUMP-GROUP-S-P-A-408413/agenda/",
+   "https://www.investing.com/equities/interpump-group-technical",
+   "https://laborsadeipiccoli.com/azioni/interpump",
+   "https://www.teleborsa.it/News/2026/08/05/interpump-ricavi-1-1percent-ed-ebitda-2-8percent-nel-secondo-trimestre-159.html",
+   "https://www.borsaitaliana.it/borsa/notizie/radiocor/prima-pagina/dettaglio/borsa-interpump-187-crolla-dopo-conti-2025-e-stime-prudenti-nRC_13022026_1637_469338833.html",
+   "https://www.zonebourse.com/actualite-bourse/croissance-sans-gloire-pour-interpump-qui-acheve-un-cycle-charge-en-acquisitions-ce7e5dd8d188f226"
+  ],
+  "tech": {
+   "bas52": 30.98,
+   "cours": 35.9,
+   "coursLe": "2026-09-28",
+   "haut52": 51,
+   "lecture": "Cours de 35,90 en dessous de sa moyenne 50 jours (36,08) et en dessous de sa moyenne 200 jours (38,08). RSI 50,7 : élan neutre. Il se situe à 25 % de sa fourchette sur un an (de 30,98 à 51,00), performance sur 12 mois de -7,9 %. Moyennes et RSI calculés sur les vraies clôtures (flux GitHub de 15h33).",
+   "mm200": 38.08,
+   "mm50": 36.08,
+   "resistance": 36.7,
+   "rsi14": 50.7,
+   "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json",
+   "stade": 4,
+   "support": 33.7,
+   "tendance": "baissiere"
+  },
+  "verdict": "Interpump reste un bel acteur industriel (pompes haute pression et hydraulique), bien géré et peu endetté, mais sa croissance est à l'arrêt depuis 2023 et le titre a perdu environ 23 % depuis janvier après des prévisions 2026 jugées prudentes. La valorisation est redevenue basse par rapport à son histoire ; il manque encore le signal de reprise de l'activité et une tendance boursière qui se retourne.",
+  "zones": {
+   "catalyseurs": [
+    "13/11/2026 : résultats du T3 2026",
+    "Février 2027 (date non confirmée) : résultats annuels 2026 et objectifs 2027",
+    "Évolution des droits de douane entre l'Europe et les États-Unis et du cycle industriel"
+   ],
+   "interet": "Zone de 31 à 34 € : support de 33,7 €, plus bas annuel de 30,1 € au-dessous, et une valeur d'entreprise proche de 7,5 fois l'EBITDA 2026, sous le plancher historique de 8 fois relevé par Zonebourse.",
+   "invalidation": "Clôture sous 30 € (nouveau plus bas annuel) ou croissance organique 2026 sous le bas de la fourchette (-2 %) : le cycle serait plus long et plus profond que prévu.",
+   "sortie": [
+    "Marge d'EBITDA qui passe sous 21 %",
+    "Grosse acquisition qui porte la dette nette au-dessus de 2 fois l'EBITDA",
+    "PER au-dessus de 24 sans retour de la croissance organique"
+   ]
+  }
+ },
+ "capi": "3,7 Md€",
+ "cours": 35.9,
+ "coursLe": "2026-09-28",
+ "devise": "€",
+ "faits": [
+  {
+   "d": "05/08",
+   "t": "S1 : CA 1,09 Md€ (+0,9 %), marge d'EBITDA 22,4 % contre 23,2 %, bénéfice net +3,8 %. Prévision 2026 : organique -2 % à +3 %."
+  },
+  {
+   "d": "21/09",
+   "t": "Sortie de l'indice FTSE All-World. Titre en baisse d'environ 24 % depuis janvier."
+  }
+ ],
+ "histo": [
+  [
+   "18/09",
+   40.18
+  ],
+  [
+   "19/09",
+   39.56
+  ],
+  [
+   "22/09",
+   39.72
+  ],
+  [
+   "23/09",
+   40.4
+  ],
+  [
+   "24/09",
+   39.5
+  ],
+  [
+   "25/09",
+   38.58
+  ],
+  [
+   "26/09",
+   38.6
+  ],
+  [
+   "29/09",
+   38.92
+  ],
+  [
+   "30/09",
+   38.98
+  ],
+  [
+   "01/10",
+   39.4
+  ],
+  [
+   "02/10",
+   40.08
+  ],
+  [
+   "03/10",
+   40.4
+  ],
+  [
+   "06/10",
+   39.98
+  ],
+  [
+   "07/10",
+   39.74
+  ],
+  [
+   "08/10",
+   40
+  ],
+  [
+   "09/10",
+   39.98
+  ],
+  [
+   "10/10",
+   38.56
+  ],
+  [
+   "13/10",
+   39.58
+  ],
+  [
+   "14/10",
+   39.06
+  ],
+  [
+   "15/10",
+   40.22
+  ],
+  [
+   "16/10",
+   41.44
+  ],
+  [
+   "17/10",
+   41
+  ],
+  [
+   "20/10",
+   41.74
+  ],
+  [
+   "21/10",
+   41.9
+  ],
+  [
+   "22/10",
+   41.9
+  ],
+  [
+   "23/10",
+   42.24
+  ],
+  [
+   "24/10",
+   42.94
+  ],
+  [
+   "27/10",
+   43.06
+  ],
+  [
+   "28/10",
+   42.26
+  ],
+  [
+   "29/10",
+   42.44
+  ],
+  [
+   "30/10",
+   42.86
+  ],
+  [
+   "31/10",
+   44.7
+  ],
+  [
+   "03/11",
+   44.14
+  ],
+  [
+   "04/11",
+   44.1
+  ],
+  [
+   "05/11",
+   44.6
+  ],
+  [
+   "06/11",
+   43.82
+  ],
+  [
+   "07/11",
+   42.34
+  ],
+  [
+   "10/11",
+   43.22
+  ],
+  [
+   "11/11",
+   43.74
+  ],
+  [
+   "12/11",
+   43.84
+  ],
+  [
+   "13/11",
+   43.4
+  ],
+  [
+   "14/11",
+   42.86
+  ],
+  [
+   "17/11",
+   42.12
+  ],
+  [
+   "18/11",
+   42.02
+  ],
+  [
+   "19/11",
+   42.06
+  ],
+  [
+   "20/11",
+   41.84
+  ],
+  [
+   "21/11",
+   41.74
+  ],
+  [
+   "24/11",
+   43.18
+  ],
+  [
+   "25/11",
+   43.58
+  ],
+  [
+   "26/11",
+   43.44
+  ],
+  [
+   "27/11",
+   43.46
+  ],
+  [
+   "28/11",
+   43.8
+  ],
+  [
+   "01/12",
+   44.04
+  ],
+  [
+   "02/12",
+   43.56
+  ],
+  [
+   "03/12",
+   43.46
+  ],
+  [
+   "04/12",
+   45.16
+  ],
+  [
+   "05/12",
+   45.1
+  ],
+  [
+   "08/12",
+   44.46
+  ],
+  [
+   "09/12",
+   45
+  ],
+  [
+   "10/12",
+   44.3
+  ],
+  [
+   "11/12",
+   45.5
+  ],
+  [
+   "12/12",
+   46.04
+  ],
+  [
+   "15/12",
+   46.82
+  ],
+  [
+   "16/12",
+   46.82
+  ],
+  [
+   "17/12",
+   45.78
+  ],
+  [
+   "18/12",
+   46.36
+  ],
+  [
+   "19/12",
+   46.62
+  ],
+  [
+   "22/12",
+   46.42
+  ],
+  [
+   "23/12",
+   45.96
+  ],
+  [
+   "29/12",
+   46.74
+  ],
+  [
+   "30/12",
+   46.78
+  ],
+  [
+   "02/01",
+   46.18
+  ],
+  [
+   "05/01",
+   46.68
+  ],
+  [
+   "06/01",
+   47.12
+  ],
+  [
+   "07/01",
+   47.1
+  ],
+  [
+   "08/01",
+   47.5
+  ],
+  [
+   "09/01",
+   47.54
+  ],
+  [
+   "12/01",
+   46.6
+  ],
+  [
+   "13/01",
+   46.3
+  ],
+  [
+   "14/01",
+   47.1
+  ],
+  [
+   "15/01",
+   48.2
+  ],
+  [
+   "16/01",
+   48.26
+  ],
+  [
+   "19/01",
+   46.86
+  ],
+  [
+   "20/01",
+   46.28
+  ],
+  [
+   "21/01",
+   46.6
+  ],
+  [
+   "22/01",
+   47.56
+  ],
+  [
+   "23/01",
+   47
+  ],
+  [
+   "26/01",
+   46.82
+  ],
+  [
+   "27/01",
+   45.9
+  ],
+  [
+   "28/01",
+   48.52
+  ],
+  [
+   "29/01",
+   48.54
+  ],
+  [
+   "30/01",
+   48.88
+  ],
+  [
+   "02/02",
+   49.24
+  ],
+  [
+   "03/02",
+   47.74
+  ],
+  [
+   "04/02",
+   48.8
+  ],
+  [
+   "05/02",
+   48.88
+  ],
+  [
+   "06/02",
+   49.4
+  ],
+  [
+   "09/02",
+   50.05
+  ],
+  [
+   "10/02",
+   50.5
+  ],
+  [
+   "11/02",
+   51
+  ],
+  [
+   "12/02",
+   50.8
+  ],
+  [
+   "13/02",
+   41.5
+  ],
+  [
+   "16/02",
+   39.5
+  ],
+  [
+   "17/02",
+   39.18
+  ],
+  [
+   "18/02",
+   40.48
+  ],
+  [
+   "19/02",
+   39.6
+  ],
+  [
+   "20/02",
+   40.16
+  ],
+  [
+   "23/02",
+   40.28
+  ],
+  [
+   "24/02",
+   40.06
+  ],
+  [
+   "25/02",
+   39.74
+  ],
+  [
+   "26/02",
+   39.4
+  ],
+  [
+   "27/02",
+   39.1
+  ],
+  [
+   "02/03",
+   38.18
+  ],
+  [
+   "03/03",
+   36.52
+  ],
+  [
+   "04/03",
+   36.54
+  ],
+  [
+   "05/03",
+   36
+  ],
+  [
+   "06/03",
+   35.7
+  ],
+  [
+   "09/03",
+   34.92
+  ],
+  [
+   "10/03",
+   35.56
+  ],
+  [
+   "11/03",
+   35.3
+  ],
+  [
+   "12/03",
+   33.72
+  ],
+  [
+   "13/03",
+   32.7
+  ],
+  [
+   "16/03",
+   32.32
+  ],
+  [
+   "17/03",
+   32.26
+  ],
+  [
+   "18/03",
+   33.8
+  ],
+  [
+   "19/03",
+   31.6
+  ],
+  [
+   "20/03",
+   30.98
+  ],
+  [
+   "23/03",
+   32.02
+  ],
+  [
+   "24/03",
+   32
+  ],
+  [
+   "25/03",
+   33.4
+  ],
+  [
+   "26/03",
+   33
+  ],
+  [
+   "27/03",
+   32.62
+  ],
+  [
+   "30/03",
+   32.62
+  ],
+  [
+   "31/03",
+   32.4
+  ],
+  [
+   "01/04",
+   34.44
+  ],
+  [
+   "02/04",
+   34.54
+  ],
+  [
+   "07/04",
+   34.38
+  ],
+  [
+   "08/04",
+   36.5
+  ],
+  [
+   "09/04",
+   36.4
+  ],
+  [
+   "10/04",
+   37.6
+  ],
+  [
+   "13/04",
+   37.38
+  ],
+  [
+   "14/04",
+   37.62
+  ],
+  [
+   "15/04",
+   37.1
+  ],
+  [
+   "16/04",
+   37.36
+  ],
+  [
+   "17/04",
+   38.68
+  ],
+  [
+   "20/04",
+   38.1
+  ],
+  [
+   "21/04",
+   36.9
+  ],
+  [
+   "22/04",
+   35.92
+  ],
+  [
+   "23/04",
+   36.3
+  ],
+  [
+   "24/04",
+   36.14
+  ],
+  [
+   "27/04",
+   36.64
+  ],
+  [
+   "28/04",
+   35.94
+  ],
+  [
+   "29/04",
+   35.9
+  ],
+  [
+   "30/04",
+   35.78
+  ],
+  [
+   "04/05",
+   35.38
+  ],
+  [
+   "05/05",
+   35.38
+  ],
+  [
+   "06/05",
+   36.56
+  ],
+  [
+   "07/05",
+   36.12
+  ],
+  [
+   "08/05",
+   36.16
+  ],
+  [
+   "11/05",
+   36.14
+  ],
+  [
+   "12/05",
+   35.32
+  ],
+  [
+   "13/05",
+   35.82
+  ],
+  [
+   "14/05",
+   37.08
+  ],
+  [
+   "15/05",
+   33.72
+  ],
+  [
+   "18/05",
+   35.2
+  ],
+  [
+   "19/05",
+   34.2
+  ],
+  [
+   "20/05",
+   34.64
+  ],
+  [
+   "21/05",
+   34.6
+  ],
+  [
+   "22/05",
+   34.86
+  ],
+  [
+   "25/05",
+   36.46
+  ],
+  [
+   "26/05",
+   35.9
+  ],
+  [
+   "27/05",
+   36.4
+  ],
+  [
+   "28/05",
+   35.62
+  ],
+  [
+   "29/05",
+   35.88
+  ],
+  [
+   "01/06",
+   34.5
+  ],
+  [
+   "02/06",
+   35.1
+  ],
+  [
+   "03/06",
+   34.5
+  ],
+  [
+   "04/06",
+   35.04
+  ],
+  [
+   "05/06",
+   34.34
+  ],
+  [
+   "08/06",
+   34.38
+  ],
+  [
+   "09/06",
+   33.86
+  ],
+  [
+   "10/06",
+   33.38
+  ],
+  [
+   "11/06",
+   33.52
+  ],
+  [
+   "12/06",
+   35
+  ],
+  [
+   "15/06",
+   35.74
+  ],
+  [
+   "16/06",
+   35.88
+  ],
+  [
+   "17/06",
+   35.82
+  ],
+  [
+   "18/06",
+   35.24
+  ],
+  [
+   "19/06",
+   35.46
+  ],
+  [
+   "22/06",
+   35.26
+  ],
+  [
+   "23/06",
+   34.14
+  ],
+  [
+   "24/06",
+   34.24
+  ],
+  [
+   "25/06",
+   34.5
+  ],
+  [
+   "26/06",
+   34.12
+  ],
+  [
+   "29/06",
+   33.6
+  ],
+  [
+   "30/06",
+   33.82
+  ],
+  [
+   "01/07",
+   33.86
+  ],
+  [
+   "02/07",
+   34.1
+  ],
+  [
+   "03/07",
+   34.82
+  ],
+  [
+   "06/07",
+   34.2
+  ],
+  [
+   "07/07",
+   33.68
+  ],
+  [
+   "08/07",
+   32.82
+  ],
+  [
+   "09/07",
+   32.54
+  ],
+  [
+   "10/07",
+   32.72
+  ],
+  [
+   "13/07",
+   33.56
+  ],
+  [
+   "14/07",
+   35.14
+  ],
+  [
+   "15/07",
+   35.16
+  ],
+  [
+   "16/07",
+   35.92
+  ],
+  [
+   "17/07",
+   35.9
+  ],
+  [
+   "20/07",
+   34.88
+  ],
+  [
+   "21/07",
+   34.68
+  ],
+  [
+   "22/07",
+   35
+  ],
+  [
+   "23/07",
+   34.02
+  ],
+  [
+   "24/07",
+   34.32
+  ],
+  [
+   "27/07",
+   34.2
+  ],
+  [
+   "28/07",
+   34.42
+  ],
+  [
+   "29/07",
+   34.46
+  ],
+  [
+   "30/07",
+   35.04
+  ],
+  [
+   "31/07",
+   34.74
+  ],
+  [
+   "03/08",
+   35.5
+  ],
+  [
+   "04/08",
+   36.04
+  ],
+  [
+   "05/08",
+   37.5
+  ],
+  [
+   "06/08",
+   38.72
+  ],
+  [
+   "07/08",
+   38.18
+  ],
+  [
+   "10/08",
+   37.68
+  ],
+  [
+   "11/08",
+   37.52
+  ],
+  [
+   "12/08",
+   36.82
+  ],
+  [
+   "13/08",
+   36.6
+  ],
+  [
+   "14/08",
+   36.84
+  ],
+  [
+   "17/08",
+   36.58
+  ],
+  [
+   "18/08",
+   36.14
+  ],
+  [
+   "19/08",
+   36.04
+  ],
+  [
+   "20/08",
+   36.44
+  ],
+  [
+   "21/08",
+   37
+  ],
+  [
+   "24/08",
+   37.3
+  ],
+  [
+   "25/08",
+   37.84
+  ],
+  [
+   "26/08",
+   37.72
+  ],
+  [
+   "27/08",
+   37.62
+  ],
+  [
+   "28/08",
+   37.58
+  ],
+  [
+   "31/08",
+   37.52
+  ],
+  [
+   "01/09",
+   36.5
+  ],
+  [
+   "02/09",
+   36
+  ],
+  [
+   "03/09",
+   36.68
+  ],
+  [
+   "04/09",
+   36.28
+  ],
+  [
+   "07/09",
+   36.82
+  ],
+  [
+   "08/09",
+   37.06
+  ],
+  [
+   "09/09",
+   36.72
+  ],
+  [
+   "10/09",
+   35.3
+  ],
+  [
+   "11/09",
+   35.16
+  ],
+  [
+   "14/09",
+   33.92
+  ],
+  [
+   "15/09",
+   34.64
+  ],
+  [
+   "16/09",
+   34.66
+  ],
+  [
+   "17/09",
+   34.88
+  ],
+  [
+   "18/09",
+   35.26
+  ],
+  [
+   "21/09",
+   35.72
+  ],
+  [
+   "22/09",
+   36.02
+  ],
+  [
+   "23/09",
+   35.58
+  ],
+  [
+   "24/09",
+   35.42
+  ],
+  [
+   "25/09",
+   35.5
+  ],
+  [
+   "28/09",
+   35.9
+  ]
+ ],
+ "nom": "Interpump Group",
+ "notes": "Clôture du 28/09 non confirmée sur le web : cours du flux GitHub relevé à 15h33 (35,90), à remplacer par la vraie clôture au prochain flux. Clôture du 25/09 : 35,42 € selon MarketScreener, 35,50 € dans le flux. Date du T3 tranchée : 13/11 selon le calendrier rectifié de la société.",
+ "pays": "IT",
+ "per26": 16.5,
+ "per27": 14.8,
+ "perf": {
+  "m1": -4.5,
+  "m12": -7.9,
+  "m3": 6
+ },
+ "pub": "2026-11-13",
+ "pubLabel": "Résultats du T3",
+ "risque": "Croissance interne quasi nulle et marge en recul : si le cycle industriel ne repart pas, le titre peut encore baisser.",
+ "secteur": "Équipements industriels (pompes, hydraulique)",
+ "societe": {
+  "aVerifier": "Vérifié le 29/09/2026 sur le rapport annuel 2021, le rapport annuel 2023, les communiqués annuels 2024 et 2025, la page Highlights du groupe et le communiqué T1 2026. Confirmés : CA, EBIT (margeOp = EBIT / CA : 18,4 ; 18,5 ; 19,1 ; 16,3 ; 16,3 %), dividendes 2021 à 2025 (0,28 à 0,35 €) et segments 2025 (hydraulique 1 355,0 M€, water-jetting 715,7 M€) ; répartition géographique 2025 confirmée (Italie 322,6 ; reste de l'Europe 728,4 ; Amérique du Nord 519,4 ; Extrême-Orient et Pacifique 271,0 ; reste du monde 229,4 M€). rn corrigé en part du groupe. Dette nette = « position financière nette » publiée, HORS engagements de rachat de minoritaires (77,8 ; 62,8 ; 81,2 ; 67,1 ; 85,0 M€ environ de 2021 à 2025) ; la version incluant ces engagements (« net financial indebtedness ») est de 572,7 ; 604,6 ; 567,7 ; 476,1 et 376,1 M€. Traitement des dettes locatives IFRS 16 non précisé dans les documents lus, à confirmer. Effectif : moyenne de 7 721 en 2021, 8 721 en 2022, 9 338 en 2023 (rapports annuels) ; la valeur de 9 300 (moyenne 2024 d'environ 9 310) n'a pas été recoupée pour 2025. Restent non vérifiés : actionnariat (Gruppo IPG Holding environ 23,4 %, Capital Research, Fidelity : source secondaire), dates de prise de fonction de Fulvio Montipò comme président, faits d'histoire 1977 à 2007 (Wikipédia), acquisitions MVV et Teknoice et dette nette d'environ 306 M€ fin juin 2026 (lues dans la transcription de la conférence semestrielle, pas dans un communiqué), concurrents (analyse indépendante). Pas de ligne de consensus 2026e.",
+  "actionnariat": "Contrôle familial : Gruppo IPG Holding, détenue majoritairement par la famille Montipò, possède environ 23,4 % du capital ; viennent ensuite des fonds comme Capital Research (environ 8,7 %) et Fidelity (environ 4,6 %), le reste est coté.",
+  "avantage": "Leader mondial des pompes à piston haute pression (une analyse l'estime à environ 40 % de sa niche) et des prises de force, avec une taille et un catalogue que les petits concurrents ne peuvent égaler, plus une machine à acquisitions rodée. Cet avantage peut s'éroder avec un ralentissement durable des camions, de l'agriculture et de la construction, des droits de douane américains, ou une succession mal préparée du fondateur.",
+  "chiffres": [
+   {
+    "annee": "2021",
+    "ca": 1604.3,
+    "detteNette": 494.9,
+    "dividende": 0.28,
+    "margeOp": 18.4,
+    "rn": 195.9
+   },
+   {
+    "annee": "2022",
+    "ca": 2078,
+    "detteNette": 541.8,
+    "dividende": 0.3,
+    "margeOp": 18.5,
+    "rn": 266.5
+   },
+   {
+    "annee": "2023",
+    "ca": 2240,
+    "detteNette": 486.5,
+    "dividende": 0.32,
+    "margeOp": 19.1,
+    "rn": 274.3
+   },
+   {
+    "annee": "2024",
+    "ca": 2078.4,
+    "detteNette": 409,
+    "dividende": 0.33,
+    "margeOp": 16.3,
+    "rn": 227.1
+   },
+   {
+    "annee": "2025",
+    "ca": 2070.7,
+    "detteNette": 291.1,
+    "dividende": 0.35,
+    "margeOp": 16.3,
+    "rn": 208.1
+   }
+  ],
+  "clients": "Surtout des constructeurs (OEM) de camions, d'engins de construction, de machines agricoles et d'équipements industriels, ainsi que des industriels de l'agroalimentaire, de la chimie et de la pharmacie ; la société ne publie pas de concentration client.",
+  "concurrents": [
+   "Parker-Hannifin",
+   "Eaton",
+   "Danfoss",
+   "Bosch Rexroth",
+   "Bucher Industries",
+   "GEA",
+   "Alfa Laval"
+  ],
+  "corrections": [
+   "rn = résultat net PART DU GROUPE (les valeurs actuelles étaient le bénéfice consolidé, minoritaires compris) : 2021 198.6 -> 195.9, 2022 269.7 -> 266.5, 2023 277.5 -> 274.3, 2024 228.5 -> 227.1, 2025 209.7 -> 208.1 (rapport annuel 2021 et 2023, communiqués annuels 2024 et 2025).",
+   "Fabio Marasi depuis null -> 2023 (nommé CEO à l'assemblée du 28/04/2023, communiqué Walvoil, reconduit le 30/04/2026 selon le communiqué d'assemblée Interpump).",
+   "Giovanni Tamburi : rôle précisé en vice-président du conseil (page gouvernance Interpump).",
+   "Histoire 2026 : ajout de l'assemblée d'avril 2026 (conseil renouvelé, dirigeants reconduits), du rachat d'actions et de la dette nette fin mars 2026 (294,6 M€, communiqué T1 2026)."
+  ],
+  "croire": [
+   "Que l'hydraulique (camions, construction, agriculture) sorte de son creux de 2024-2025 et que la croissance organique redevienne positive.",
+   "Que la stratégie d'acquisitions continue de créer de la valeur, avec un bilan désormais peu endetté pour racheter au bon prix.",
+   "Que la transition après Fulvio Montipò préserve la culture de marges élevées et de discipline de prix."
+  ],
+  "devise": "€",
+  "dirigeants": [
+   {
+    "depuis": null,
+    "nom": "Fulvio Montipò",
+    "role": "Fondateur et président exécutif (président avec pouvoirs délégués), reconduit en avril 2026"
+   },
+   {
+    "depuis": 2023,
+    "nom": "Fabio Marasi",
+    "role": "Directeur général (CEO) depuis avril 2023, ancien président et directeur général de la filiale Walvoil ; reconduit en avril 2026"
+   },
+   {
+    "depuis": null,
+    "nom": "Giovanni Tamburi",
+    "role": "Vice-président du conseil d'administration"
+   }
+  ],
+  "effectifs": 9300,
+  "fondee": 1977,
+  "geo": [
+   {
+    "part": 15.6,
+    "zone": "Italie"
+   },
+   {
+    "part": 35.2,
+    "zone": "Reste de l'Europe"
+   },
+   {
+    "part": 25.1,
+    "zone": "Amérique du Nord"
+   },
+   {
+    "part": 13.1,
+    "zone": "Extrême-Orient et Pacifique"
+   },
+   {
+    "part": 11.1,
+    "zone": "Reste du monde"
+   }
+  ],
+  "histoire": [
+   {
+    "annee": 1977,
+    "fait": "Fulvio Montipò fonde Interpump, spécialisé dans les pompes à piston haute pression."
+   },
+   {
+    "annee": 1996,
+    "fait": "Introduction à la Bourse de Milan."
+   },
+   {
+    "annee": 1997,
+    "fait": "Fin des années 1990 : entrée dans l'hydraulique ; en deux ans, le groupe devient le premier fabricant mondial de prises de force pour camions."
+   },
+   {
+    "annee": 1998,
+    "fait": "Rachat de General Pump pour distribuer ses pompes aux États-Unis."
+   },
+   {
+    "annee": 2005,
+    "fait": "Rachat de l'allemand Hammelmann, spécialiste des systèmes à ultra-haute pression."
+   },
+   {
+    "annee": 2007,
+    "fait": "Rachat de l'américain NLB Corporation (équipements de jet d'eau)."
+   },
+   {
+    "annee": 2021,
+    "fait": "Plus gros investissement en acquisitions de son histoire récente (321 M€), dont White Drive Products (moteurs hydrauliques) et Berma."
+   },
+   {
+    "annee": 2026,
+    "fait": "Assemblée du 30 avril : nouveau conseil de neuf membres pour trois ans, Fulvio Montipò reconduit président exécutif et Fabio Marasi directeur général ; dividende de 0,35 €. Programme de rachat de 500 000 actions propres (février à mai). Dette nette de 294,6 M€ fin mars ; poursuite des petites acquisitions (MVV, pompes doseuses, et Teknoice, machines à glace) et dette nette d'environ 306 M€ fin juin selon la conférence semestrielle."
+   }
+  ],
+  "modele": "Interpump vend des composants et des machines aux constructeurs de camions, d'engins et d'équipements industriels, qui les intègrent dans leurs produits, ainsi que des pièces de rechange. C'est de la vente à l'unité mais très répétée, avec une marge d'EBITDA élevée pour un industriel (environ 22 %) grâce à des positions de leader dans des niches et à une discipline de prix qui lui permet de répercuter les hausses de coûts. Le groupe grandit aussi en rachetant régulièrement des PME familiales.",
+  "questions": [
+   "La croissance organique revient-elle dans le haut de la fourchette annoncée pour 2026 (-2 % à +3 %) ?",
+   "Les droits de douane américains restent-ils entièrement répercutés aux clients sans perte de volumes en Amérique du Nord ?",
+   "Quelles acquisitions sont faites, à quel prix, et comment se prépare la succession du fondateur ?"
+  ],
+  "resume": "Interpump fabrique des pompes à très haute pression et des composants hydrauliques. Concrètement, la pompe d'un nettoyeur haute pression professionnel, le vérin qui lève la benne d'un camion ou la prise de force qui actionne la grue d'un camion peuvent venir de chez lui, tout comme des machines de transformation pour l'agroalimentaire.",
+  "segments": [
+   {
+    "detail": "Prises de force, vérins, pompes, distributeurs, flexibles et raccords pour camions, engins de chantier et machines agricoles, 1 355 M€ en 2025.",
+    "nom": "Hydraulique",
+    "part": 65.4
+   },
+   {
+    "detail": "Pompes et systèmes à haute et très haute pression, homogénéisateurs et machines pour l'agroalimentaire, la chimie et la pharmacie, 716 M€ en 2025.",
+    "nom": "Water-Jetting (eau haute pression)",
+    "part": 34.6
+   }
+  ],
+  "siege": "Sant'Ilario d'Enza (province de Reggio d'Émilie), Italie",
+  "site": "https://www.interpumpgroup.it",
+  "sources": [
+   "https://www.interpumpgroup.it/sites/default/files/documents/ip_2025_financial_results_20_march_2026.pdf",
+   "https://www.interpumpgroup.it/sites/default/files/documents/ip_2024_financial_results_21_march_2025.pdf",
+   "https://www.interpumpgroup.it/sites/default/files/documents/ip_annual_report_2024_9_may_2025.pdf",
+   "https://www.interpumpgroup.it/sites/default/files/documents/ip_annual_report_2023_04-29-2024_courtesy_version.pdf",
+   "https://www.interpumpgroup.it/sites/default/files/documents/IP%20-%202021%20Annual%20Report.pdf",
+   "https://www.interpumpgroup.it/en/investor/highlights",
+   "https://www.interpumpgroup.it/sites/default/files/documents/ip_1q2026_results_15_may_2026.pdf",
+   "https://www.interpumpgroup.it/sites/default/files/documents/agm_2026_30_april_2026.pdf",
+   "https://www.interpumpgroup.it/en/governance/board-directors-and-committees",
+   "https://www.walvoil.com/walvoils-president-and-ceo-appointed-chief-executive-officer-of-interpump-group",
+   "https://en.wikipedia.org/wiki/Interpump_Group",
+   "https://www.investing.com/news/transcripts/earnings-call-transcript-interpump-group-q2-2026-profit-resilience-lifts-shares-93CH-4838510",
+   "https://thesilentinvestor.substack.com/p/interpump-4q2024"
+  ],
+  "suivi": {
+   "bilan": "Sur 6 points, 2 tiennent (hydraulique qui repart, bilan peu endetté) et 4 sont à surveiller ; le plus fragile est le retour de la croissance organique du groupe, encore négative au T2.",
+   "croire": [
+    {
+     "c": "Que l'hydraulique (camions, construction, agriculture) sorte de son creux de 2024-2025 et que la croissance organique redevienne positive.",
+     "etat": "ok",
+     "preuve": "T2 2026 : Hydraulique +6,2 % organique, 4e trimestre de croissance de suite ; Water Jetting -12,5 %.",
+     "prochain": "Résultats du T3 2026 le 13/11/2026",
+     "reponse": "L'hydraulique est bien sortie du creux, mais le Water Jetting compense encore à la baisse, d'où une croissance du groupe proche de zéro.",
+     "source": "https://www.investing.com/news/company-news/interpump-q2-2026-slides-hydraulics-strength-offsets-water-jetting-dip-93CH-4838555"
+    },
+    {
+     "c": "Que la stratégie d'acquisitions continue de créer de la valeur, avec un bilan désormais peu endetté pour racheter au bon prix.",
+     "etat": "ok",
+     "preuve": "Dette nette 305,7 M€ fin juin 2026, en baisse de 91,2 M€ sur un an ; flux de trésorerie libre T2 de 62 M€ (+35 %).",
+     "prochain": "Résultats du T3 2026 le 13/11/2026",
+     "reponse": "La stratégie continue avec des rachats de petite taille, et la dette baisse quand même : le bilan laisse de la marge pour acheter.",
+     "source": "https://www.investing.com/news/company-news/interpump-q2-2026-slides-hydraulics-strength-offsets-water-jetting-dip-93CH-4838555"
+    },
+    {
+     "c": "Que la transition après Fulvio Montipò préserve la culture de marges élevées et de discipline de prix.",
+     "etat": "watch",
+     "preuve": "Marge d'EBITDA T2 2026 de 22,9 % contre 23,8 % ; objectif 2026 de 22 à 22,5 %.",
+     "prochain": "Résultats du T3 2026 le 13/11/2026",
+     "reponse": "La transition n'a pas encore eu lieu. La marge reste élevée mais s'effrite un peu, et aucun calendrier de succession n'est public.",
+     "source": "https://www.investing.com/news/company-news/interpump-q2-2026-slides-hydraulics-strength-offsets-water-jetting-dip-93CH-4838555"
+    }
+   ],
+   "le": "2026-09-29",
+   "questions": [
+    {
+     "etat": "watch",
+     "preuve": "T2 2026 : organique -0,7 % (Hydraulique +6,2 %, Water Jetting -12,5 %) ; prévision 2026 maintenue à -2 % à +3 %.",
+     "prochain": "Résultats du T3 2026 le 13/11/2026",
+     "q": "La croissance organique revient-elle dans le haut de la fourchette annoncée pour 2026 (-2 % à +3 %) ?",
+     "reponse": "Pas encore : la croissance organique du groupe reste légèrement négative au T2, même si la direction se dit plus confiante pour finir dans la partie positive de la fourchette.",
+     "source": "https://www.investing.com/news/company-news/interpump-q2-2026-slides-hydraulics-strength-offsets-water-jetting-dip-93CH-4838555"
+    },
+    {
+     "etat": "watch",
+     "preuve": "T2 2026 : environ 6 M€ de coûts de droits de douane entièrement transférés aux clients selon la direction.",
+     "prochain": "Résultats du T3 2026 le 13/11/2026",
+     "q": "Les droits de douane américains restent-ils entièrement répercutés aux clients sans perte de volumes en Amérique du Nord ?",
+     "reponse": "Les droits de douane sont bien répercutés aux clients, mais la société ne chiffre pas l'évolution des volumes en Amérique du Nord.",
+     "source": "https://www.investing.com/news/transcripts/earnings-call-transcript-interpump-group-q2-2026-profit-resilience-lifts-shares-93CH-4838510"
+    },
+    {
+     "etat": "watch",
+     "preuve": "T2 2026 : rachats de Padoan, Tutto Hidraulicos, Borghi Assali et F.A.R.M.A. (+2,4 % sur le CA), puis MVV et Teknoice fin juillet ; conseil renouvelé le 30/04/2026 jusqu'aux comptes 2028.",
+     "prochain": "Résultats du T3 2026 le 13/11/2026",
+     "q": "Quelles acquisitions sont faites, à quel prix, et comment se prépare la succession du fondateur ?",
+     "reponse": "Beaucoup de petites acquisitions, sans prix publiés. Pas de plan de succession annoncé : Fulvio Montipò a été reconduit président exécutif et Fabio Marasi directeur général pour trois ans.",
+     "source": "https://www.investing.com/news/company-news/interpump-q2-2026-slides-hydraulics-strength-offsets-water-jetting-dip-93CH-4838555"
+    }
+   ]
+  },
+  "verifieLe": "2026-09-29"
+ },
+ "src": "https://www.soldionline.it/notizie/azioni-italia/conti-interpump-primo-semestre-2026",
+ "statut": "surveiller",
+ "these": "Leader mondial des pompes haute pression, marges parmi les meilleures du secteur, croissance par acquisitions autofinancées.",
+ "ticker": "IP",
+ "yahoo": "IP.MI",
+ "zb": "https://www.zonebourse.com/cours/action/INTERPUMP-GROUP-S-P-A-408413/"
+}

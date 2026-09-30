@@ -1,0 +1,1459 @@
+{
+ "analyse": {
+  "aVerifier": "Montant du CA S1 2026 contradictoire selon les sources (273,2 M€ ou 287,95 M€), seule la croissance a été retenue. Date de publication du CA du T3 non trouvée dans le calendrier lu. Nom et taille des sociétés acquises qui expliquent la croissance externe non trouvés. ROE calculé à partir des ratios Zonebourse. Couverture des intérêts, PER moyen sur 5 ans complet, comparaison avec les pairs et Piotroski non trouvés.",
+  "actu": [
+   {
+    "d": "13/07",
+    "fait": "CA du S1 2026 en hausse de 11,3 %, dont 5,6 % à périmètre constant.",
+    "horizon": "moyen",
+    "impact": "positif",
+    "lecture": "Retour de la croissance organique malgré un marché du bâtiment difficile, signe de gains de parts de marché."
+   },
+   {
+    "d": "29/07",
+    "fait": "Résultats S1 : résultat opérationnel +17,3 % (marge 12,2 %), résultat net +17,6 %, trésorerie nette 104,2 M€. Direction prudente pour la suite (base de comparaison défavorable au T3 et incertitude géopolitique).",
+    "horizon": "moyen",
+    "impact": "positif",
+    "lecture": "La marge remonte et le bilan se renforce, ce qui donne des moyens pour de nouvelles acquisitions."
+   },
+   {
+    "d": "31/07",
+    "fait": "Contrat de rachat d'actions signé avec CIC Market Solutions, jusqu'à 30 000 titres (0,33 % du capital).",
+    "horizon": "court",
+    "impact": "neutre",
+    "lecture": "Montant modeste, surtout un signal de confiance de la direction."
+   },
+   {
+    "d": "10/09",
+    "fait": "La BCE relève ses taux pour la deuxième fois de l'année.",
+    "horizon": "moyen",
+    "impact": "negatif",
+    "lecture": "Le crédit immobilier plus cher freine la construction et la rénovation, principaux débouchés de Thermador."
+   }
+  ],
+  "cadres": [
+   "Buffett (rentabilité)",
+   "Fisher (culture et gestion)",
+   "Lynch (PEG)",
+   "Graham (bilan et valeur)",
+   "Greenblatt (formule magique)",
+   "Théorie de Dow",
+   "Stades de Weinstein",
+   "Minervini (gabarit de tendance)"
+  ],
+  "conviction": "moyenne",
+  "fonda": {
+   "bilan": "Trésorerie nette de 104,2 M€ hors découverts au 30/06/2026, pour 39,5 M€ de dettes bancaires et 414 M€ de capitaux propres. Stocks en baisse de 5,6 %, besoin en fonds de roulement ramené à 38,1 % du CA sur 12 mois contre 43,6 %. Bilan très solide au sens de Graham. Couverture des intérêts non trouvée mais sans enjeu vu la trésorerie nette.",
+   "croissance": "CA S1 2026 +11,3 %, dont +5,6 % à périmètre constant. Résultat opérationnel +17,3 % à 35,09 M€, résultat net part du groupe +17,6 % à 26,17 M€. BPA : 4,56 € en 2025, 5,385 € attendu en 2026 (+18 %), 5,695 € en 2027 (+6 %) selon Zonebourse. PEG d'environ 2,2 sur 2027, donc la croissance future seule ne justifie pas un rattrapage rapide (angle Lynch).",
+   "greenblatt": "Rendement bénéficiaire d'environ 7,7 % (1/PER 2026) et rentabilité des capitaux vers 11 % : profil correct plutôt que remarquable dans une logique de formule magique.",
+   "justif": "Bilan très solide, marges en hausse et multiples bas, mais rentabilité des capitaux moyenne et marché de la rénovation encore mou.",
+   "peg": 2.2,
+   "piotroski": null,
+   "qualite": "Rentabilité des capitaux propres d'environ 11 % (calcul : BPA 2026 attendu de 5,385 € et ratio cours/actif net de 1,48 fois selon Zonebourse), en retrait des niveaux passés. Marge opérationnelle de 12,2 % au S1 2026 contre 11,6 % un an plus tôt. Modèle de distribution spécialisée (chauffage, plomberie, sanitaire) avec forte culture d'entreprise et gestion prudente. Pouvoir de prix limité : effet prix de -0,9 % au S1.",
+   "score": 7,
+   "valo": "PER 13 fois 2026 et 12,3 fois 2027, VE/EBITDA 7,35 fois 2026, rendement 3,4 %, rendement du cash-flow libre 8,4 % (Zonebourse, cours 70 € le 25/09). Moyenne 2023-2025 de Zonebourse : PER 14,1 à 17 fois et VE/EBITDA 8,6 à 9,4 fois, donc le titre est sous ses multiples récents. Moyenne sur 5 ans complète et comparaison avec les pairs non trouvées. Consensus : 3 analystes, objectif moyen 92,67 € (91 à 94 €)."
+  },
+  "majLe": "2026-09-28",
+  "revisions": "Stables : BPA 2026 attendu à 5,46 €, identique il y a 1 et 3 mois (3 analystes, Boursorama, page peut-être datée du 23/09).",
+  "scenarios": [
+   {
+    "bas": 65,
+    "central": 71,
+    "haut": 76,
+    "horizon": "2 mois",
+    "hypotheses": "Catalyseur : CA du T3 attendu mi-octobre. Bas : base de comparaison défavorable du T3 et cassure du support de 66,76 €. Haut : T3 meilleur que craint, rebond depuis la zone de survente vers le milieu du rectangle.",
+    "unite": "€"
+   },
+   {
+    "bas": 62,
+    "central": 80,
+    "haut": 92,
+    "horizon": "12 mois",
+    "hypotheses": "Central : BPA 2027 proche de 5,7 € et PER vers 14 fois. Haut : reprise de la rénovation et objectif moyen des analystes (92,67 €). Bas : bâtiment qui rechute avec la hausse des taux, PER vers 11,5 fois.",
+    "unite": "€"
+   },
+   {
+    "bas": 3,
+    "central": 9,
+    "haut": 13,
+    "horizon": "5 ans",
+    "hypotheses": "Central : BPA +5 %/an (organique plus acquisitions), dividende 3,4 %, PER qui remonte de 13 vers 15 fois (environ +3 %/an) : environ 9 %/an. Haut : BPA +8 %/an et PER vers 17 fois. Bas : BPA +1 %/an, PER stable, dividende seul.",
+    "unite": "%/an"
+   },
+   {
+    "bas": 3,
+    "central": 8,
+    "haut": 11,
+    "horizon": "10-15 ans",
+    "hypotheses": "Historique de croissance régulière par acquisitions et marché du remplacement (rénovation, transition énergétique) : BPA +5 %/an plus 3 % de dividende, multiple stable.",
+    "unite": "%/an"
+   }
+  ],
+  "sources": [
+   "https://www.webdisclosure.fr/press-release/thermador-groupe-epa-thep-thermador-groupe-resultats-semestriels-2026-WX5JFZaKsx6",
+   "https://www.boursorama.com/bourse/actualites/thermador-groupe-publication-des-resultats-semestriels-2026-df3a66b15db6cff8a5416c1fd98cac89",
+   "https://www.tradingsat.com/thermador-groupe-FR0013333432/actualites/thermador-groupe-thermador-groupe-confirme-sa-dynamique-au-premier-semestre-1166637.html",
+   "https://www.boursorama.com/bourse/actualites/thermador-groupe-signature-d-un-contrat-de-rachat-d-actions-eaf765438c069a02a0b96d93212548a6",
+   "https://www.zonebourse.com/cours/action/THERMADOR-GROUPE-43328026/valorisation/",
+   "https://www.zonebourse.com/cours/action/THERMADOR-GROUPE-43328026/consensus/",
+   "https://in.investing.com/equities/thermador-groupe-technical",
+   "https://www.investtech.com/main/market.php?CompanyID=33504436",
+   "https://www.boursorama.com/bourse/actualites/la-bce-releve-ses-taux-pour-la-deuxieme-fois-cette-annee-8646994bbc091afc77809cc582993d85"
+  ],
+  "tech": {
+   "bas52": 67.5,
+   "cours": 69.2,
+   "coursLe": "2026-09-28",
+   "haut52": 81.8,
+   "lecture": "Cours de 69,20 en dessous de sa moyenne 50 jours (74,82) et en dessous de sa moyenne 200 jours (74,08). RSI 37,1 : élan neutre. Il se situe à 12 % de sa fourchette sur un an (de 67,50 à 81,80), performance sur 12 mois de -4,1 %. Moyennes et RSI calculés sur les vraies clôtures (flux GitHub de 15h33).",
+   "mm200": 74.08,
+   "mm50": 74.82,
+   "resistance": 71.7,
+   "rsi14": 37.1,
+   "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json",
+   "stade": 3,
+   "support": 66.76,
+   "tendance": "neutre"
+  },
+  "verdict": "Thermador est un distributeur familial rentable, avec une trésorerie nette et une valorisation basse (13 fois les bénéfices 2026, rendement du cash-flow libre vers 8 %), qui a renoué avec la croissance au S1 (résultat opérationnel +17 %). Le cours reste pourtant bloqué dans une zone de 67 à 81 € tant que le marché du bâtiment et les taux ne se détendent pas.",
+  "zones": {
+   "catalyseurs": [
+    "Mi-octobre 2026 : CA du T3 (date du 15/10 non confirmée par une source lue).",
+    "Mi-janvier 2027 : CA annuel 2026 (date non confirmée).",
+    "Début 2027 : résultats annuels et dividende (date non confirmée)."
+   ],
+   "interet": "Entre 63 et 67 € : bas du rectangle technique et PER 2026 proche de 12 fois, avec un rendement du dividende supérieur à 3,5 %.",
+   "invalidation": "Clôture durable sous 62 € (sortie par le bas du rectangle) ou retour à une croissance organique négative sur deux trimestres.",
+   "sortie": [
+    "Marge opérationnelle qui repasse sous 10 % sur un exercice.",
+    "Acquisition importante financée par une dette nette supérieure à 2 fois l'EBITDA.",
+    "PER au-dessus de 20 fois sans reprise nette du marché du bâtiment."
+   ]
+  }
+ },
+ "capi": "642 M€",
+ "cours": 69.2,
+ "coursLe": "2026-09-28",
+ "devise": "€",
+ "faits": [
+  {
+   "d": "29/07",
+   "t": "Résultats S1 publiés. Aucun fait marquant trouvé en septembre."
+  }
+ ],
+ "histo": [
+  [
+   "22/09",
+   74.7
+  ],
+  [
+   "23/09",
+   74.5
+  ],
+  [
+   "24/09",
+   72.6
+  ],
+  [
+   "25/09",
+   73.8
+  ],
+  [
+   "26/09",
+   72.5
+  ],
+  [
+   "29/09",
+   73.1
+  ],
+  [
+   "30/09",
+   74.4
+  ],
+  [
+   "01/10",
+   72.9
+  ],
+  [
+   "02/10",
+   72.9
+  ],
+  [
+   "03/10",
+   73.9
+  ],
+  [
+   "06/10",
+   72.2
+  ],
+  [
+   "07/10",
+   72.3
+  ],
+  [
+   "08/10",
+   71.8
+  ],
+  [
+   "09/10",
+   71.4
+  ],
+  [
+   "10/10",
+   71
+  ],
+  [
+   "13/10",
+   71.1
+  ],
+  [
+   "14/10",
+   70.6
+  ],
+  [
+   "15/10",
+   69.4
+  ],
+  [
+   "16/10",
+   71.8
+  ],
+  [
+   "17/10",
+   74.9
+  ],
+  [
+   "20/10",
+   73.4
+  ],
+  [
+   "21/10",
+   71.6
+  ],
+  [
+   "22/10",
+   72.1
+  ],
+  [
+   "23/10",
+   72.9
+  ],
+  [
+   "24/10",
+   73
+  ],
+  [
+   "27/10",
+   74.1
+  ],
+  [
+   "28/10",
+   75.1
+  ],
+  [
+   "29/10",
+   76.2
+  ],
+  [
+   "30/10",
+   76.8
+  ],
+  [
+   "31/10",
+   76.4
+  ],
+  [
+   "03/11",
+   75.5
+  ],
+  [
+   "04/11",
+   74.6
+  ],
+  [
+   "05/11",
+   74.5
+  ],
+  [
+   "06/11",
+   72.7
+  ],
+  [
+   "07/11",
+   72.8
+  ],
+  [
+   "10/11",
+   74
+  ],
+  [
+   "11/11",
+   74.4
+  ],
+  [
+   "12/11",
+   74.2
+  ],
+  [
+   "13/11",
+   73.5
+  ],
+  [
+   "14/11",
+   73.5
+  ],
+  [
+   "17/11",
+   71.8
+  ],
+  [
+   "18/11",
+   72.1
+  ],
+  [
+   "19/11",
+   72
+  ],
+  [
+   "20/11",
+   72.7
+  ],
+  [
+   "21/11",
+   73
+  ],
+  [
+   "24/11",
+   72.4
+  ],
+  [
+   "25/11",
+   72.9
+  ],
+  [
+   "26/11",
+   72.8
+  ],
+  [
+   "27/11",
+   73.8
+  ],
+  [
+   "28/11",
+   75.4
+  ],
+  [
+   "01/12",
+   75.8
+  ],
+  [
+   "02/12",
+   76.7
+  ],
+  [
+   "03/12",
+   75.7
+  ],
+  [
+   "04/12",
+   77.6
+  ],
+  [
+   "05/12",
+   74.1
+  ],
+  [
+   "08/12",
+   75
+  ],
+  [
+   "09/12",
+   75.2
+  ],
+  [
+   "10/12",
+   74.7
+  ],
+  [
+   "11/12",
+   74.5
+  ],
+  [
+   "12/12",
+   76.2
+  ],
+  [
+   "15/12",
+   77.8
+  ],
+  [
+   "16/12",
+   75.3
+  ],
+  [
+   "17/12",
+   77
+  ],
+  [
+   "18/12",
+   74.9
+  ],
+  [
+   "19/12",
+   76.2
+  ],
+  [
+   "22/12",
+   75
+  ],
+  [
+   "23/12",
+   76.4
+  ],
+  [
+   "24/12",
+   77
+  ],
+  [
+   "29/12",
+   76.9
+  ],
+  [
+   "30/12",
+   77
+  ],
+  [
+   "31/12",
+   77.5
+  ],
+  [
+   "02/01",
+   78.8
+  ],
+  [
+   "05/01",
+   76
+  ],
+  [
+   "06/01",
+   78.5
+  ],
+  [
+   "07/01",
+   78.7
+  ],
+  [
+   "08/01",
+   79.4
+  ],
+  [
+   "09/01",
+   77.8
+  ],
+  [
+   "12/01",
+   77.1
+  ],
+  [
+   "13/01",
+   77.1
+  ],
+  [
+   "14/01",
+   77
+  ],
+  [
+   "15/01",
+   79.4
+  ],
+  [
+   "16/01",
+   75.3
+  ],
+  [
+   "19/01",
+   73.2
+  ],
+  [
+   "20/01",
+   72.1
+  ],
+  [
+   "21/01",
+   72.4
+  ],
+  [
+   "22/01",
+   73.5
+  ],
+  [
+   "23/01",
+   73.6
+  ],
+  [
+   "26/01",
+   78.4
+  ],
+  [
+   "27/01",
+   78.7
+  ],
+  [
+   "28/01",
+   78.3
+  ],
+  [
+   "29/01",
+   79.1
+  ],
+  [
+   "30/01",
+   78.7
+  ],
+  [
+   "02/02",
+   78.9
+  ],
+  [
+   "03/02",
+   78.5
+  ],
+  [
+   "04/02",
+   79.9
+  ],
+  [
+   "05/02",
+   79.5
+  ],
+  [
+   "06/02",
+   79.4
+  ],
+  [
+   "09/02",
+   79.4
+  ],
+  [
+   "10/02",
+   79.6
+  ],
+  [
+   "11/02",
+   79
+  ],
+  [
+   "12/02",
+   78.5
+  ],
+  [
+   "13/02",
+   78.6
+  ],
+  [
+   "16/02",
+   77.7
+  ],
+  [
+   "17/02",
+   77.6
+  ],
+  [
+   "18/02",
+   78.2
+  ],
+  [
+   "19/02",
+   77.7
+  ],
+  [
+   "20/02",
+   78
+  ],
+  [
+   "23/02",
+   77.9
+  ],
+  [
+   "24/02",
+   77.7
+  ],
+  [
+   "25/02",
+   78
+  ],
+  [
+   "26/02",
+   78.6
+  ],
+  [
+   "27/02",
+   78
+  ],
+  [
+   "02/03",
+   77.5
+  ],
+  [
+   "03/03",
+   74.7
+  ],
+  [
+   "04/03",
+   75
+  ],
+  [
+   "05/03",
+   75.2
+  ],
+  [
+   "06/03",
+   75.3
+  ],
+  [
+   "09/03",
+   74.7
+  ],
+  [
+   "10/03",
+   74.6
+  ],
+  [
+   "11/03",
+   73.1
+  ],
+  [
+   "12/03",
+   72.4
+  ],
+  [
+   "13/03",
+   71.7
+  ],
+  [
+   "16/03",
+   71.7
+  ],
+  [
+   "17/03",
+   71.5
+  ],
+  [
+   "18/03",
+   70.8
+  ],
+  [
+   "19/03",
+   69.3
+  ],
+  [
+   "20/03",
+   68.8
+  ],
+  [
+   "23/03",
+   70.1
+  ],
+  [
+   "24/03",
+   72
+  ],
+  [
+   "25/03",
+   71
+  ],
+  [
+   "26/03",
+   70.7
+  ],
+  [
+   "27/03",
+   70.4
+  ],
+  [
+   "30/03",
+   70.4
+  ],
+  [
+   "31/03",
+   70.8
+  ],
+  [
+   "01/04",
+   71.1
+  ],
+  [
+   "02/04",
+   69.7
+  ],
+  [
+   "07/04",
+   69.3
+  ],
+  [
+   "08/04",
+   71.2
+  ],
+  [
+   "09/04",
+   72.3
+  ],
+  [
+   "10/04",
+   73
+  ],
+  [
+   "13/04",
+   72
+  ],
+  [
+   "14/04",
+   73.6
+  ],
+  [
+   "15/04",
+   71.1
+  ],
+  [
+   "16/04",
+   71.6
+  ],
+  [
+   "17/04",
+   74
+  ],
+  [
+   "20/04",
+   72.2
+  ],
+  [
+   "21/04",
+   72.1
+  ],
+  [
+   "22/04",
+   72.1
+  ],
+  [
+   "23/04",
+   71.7
+  ],
+  [
+   "24/04",
+   70.2
+  ],
+  [
+   "27/04",
+   69.9
+  ],
+  [
+   "28/04",
+   70
+  ],
+  [
+   "29/04",
+   69.2
+  ],
+  [
+   "30/04",
+   69.2
+  ],
+  [
+   "04/05",
+   70
+  ],
+  [
+   "05/05",
+   69.8
+  ],
+  [
+   "06/05",
+   70.9
+  ],
+  [
+   "07/05",
+   69.6
+  ],
+  [
+   "08/05",
+   68.7
+  ],
+  [
+   "11/05",
+   68.6
+  ],
+  [
+   "12/05",
+   68.3
+  ],
+  [
+   "13/05",
+   68.3
+  ],
+  [
+   "14/05",
+   68.6
+  ],
+  [
+   "15/05",
+   68.4
+  ],
+  [
+   "18/05",
+   68.8
+  ],
+  [
+   "19/05",
+   69
+  ],
+  [
+   "20/05",
+   69.2
+  ],
+  [
+   "21/05",
+   68.6
+  ],
+  [
+   "22/05",
+   68.4
+  ],
+  [
+   "25/05",
+   68.9
+  ],
+  [
+   "26/05",
+   69.2
+  ],
+  [
+   "27/05",
+   69.2
+  ],
+  [
+   "28/05",
+   69.7
+  ],
+  [
+   "29/05",
+   70
+  ],
+  [
+   "01/06",
+   70
+  ],
+  [
+   "02/06",
+   69.3
+  ],
+  [
+   "03/06",
+   68.2
+  ],
+  [
+   "04/06",
+   68.3
+  ],
+  [
+   "05/06",
+   68.4
+  ],
+  [
+   "08/06",
+   69.9
+  ],
+  [
+   "09/06",
+   68.6
+  ],
+  [
+   "10/06",
+   69.5
+  ],
+  [
+   "11/06",
+   68.2
+  ],
+  [
+   "12/06",
+   68.5
+  ],
+  [
+   "15/06",
+   69.4
+  ],
+  [
+   "16/06",
+   69.8
+  ],
+  [
+   "17/06",
+   69.8
+  ],
+  [
+   "18/06",
+   69.3
+  ],
+  [
+   "19/06",
+   69.2
+  ],
+  [
+   "22/06",
+   69
+  ],
+  [
+   "23/06",
+   67.6
+  ],
+  [
+   "24/06",
+   67.5
+  ],
+  [
+   "25/06",
+   70.5
+  ],
+  [
+   "26/06",
+   74.2
+  ],
+  [
+   "29/06",
+   75.6
+  ],
+  [
+   "30/06",
+   78.6
+  ],
+  [
+   "01/07",
+   79.2
+  ],
+  [
+   "02/07",
+   79.7
+  ],
+  [
+   "03/07",
+   79.1
+  ],
+  [
+   "06/07",
+   79.3
+  ],
+  [
+   "07/07",
+   79
+  ],
+  [
+   "08/07",
+   78
+  ],
+  [
+   "09/07",
+   78.1
+  ],
+  [
+   "10/07",
+   77.9
+  ],
+  [
+   "13/07",
+   78
+  ],
+  [
+   "14/07",
+   80.1
+  ],
+  [
+   "15/07",
+   81.8
+  ],
+  [
+   "16/07",
+   81.6
+  ],
+  [
+   "17/07",
+   80.2
+  ],
+  [
+   "20/07",
+   78.9
+  ],
+  [
+   "21/07",
+   79.1
+  ],
+  [
+   "22/07",
+   78.3
+  ],
+  [
+   "23/07",
+   76
+  ],
+  [
+   "24/07",
+   76.1
+  ],
+  [
+   "27/07",
+   77.4
+  ],
+  [
+   "28/07",
+   76.4
+  ],
+  [
+   "29/07",
+   75.4
+  ],
+  [
+   "30/07",
+   75.2
+  ],
+  [
+   "31/07",
+   75.7
+  ],
+  [
+   "03/08",
+   76.2
+  ],
+  [
+   "04/08",
+   78
+  ],
+  [
+   "05/08",
+   78.4
+  ],
+  [
+   "06/08",
+   78.6
+  ],
+  [
+   "07/08",
+   78.4
+  ],
+  [
+   "10/08",
+   78.7
+  ],
+  [
+   "11/08",
+   78.8
+  ],
+  [
+   "12/08",
+   78.8
+  ],
+  [
+   "13/08",
+   78.6
+  ],
+  [
+   "14/08",
+   77.6
+  ],
+  [
+   "17/08",
+   76
+  ],
+  [
+   "18/08",
+   77.1
+  ],
+  [
+   "19/08",
+   77.1
+  ],
+  [
+   "20/08",
+   77.8
+  ],
+  [
+   "21/08",
+   77.5
+  ],
+  [
+   "24/08",
+   76.4
+  ],
+  [
+   "25/08",
+   76
+  ],
+  [
+   "26/08",
+   77
+  ],
+  [
+   "27/08",
+   74.7
+  ],
+  [
+   "28/08",
+   74.2
+  ],
+  [
+   "31/08",
+   73
+  ],
+  [
+   "01/09",
+   72.4
+  ],
+  [
+   "02/09",
+   71.8
+  ],
+  [
+   "03/09",
+   72.7
+  ],
+  [
+   "04/09",
+   72.2
+  ],
+  [
+   "07/09",
+   72
+  ],
+  [
+   "08/09",
+   74
+  ],
+  [
+   "09/09",
+   72.1
+  ],
+  [
+   "10/09",
+   71.7
+  ],
+  [
+   "11/09",
+   71.3
+  ],
+  [
+   "14/09",
+   70.6
+  ],
+  [
+   "15/09",
+   71.4
+  ],
+  [
+   "16/09",
+   70.8
+  ],
+  [
+   "17/09",
+   71.1
+  ],
+  [
+   "18/09",
+   70.2
+  ],
+  [
+   "21/09",
+   72.2
+  ],
+  [
+   "22/09",
+   72.6
+  ],
+  [
+   "23/09",
+   72.1
+  ],
+  [
+   "24/09",
+   71.5
+  ],
+  [
+   "25/09",
+   70
+  ],
+  [
+   "28/09",
+   69.2
+  ]
+ ],
+ "nom": "Thermador Groupe",
+ "notes": "Clôture du 28/09 à 69,20 (Fortuneo, 17h35). Rien de nouveau depuis le 29/07 hors rachats d'actions hebdomadaires. Date du CA T3 non confirmée (15/10 ou 19/10).",
+ "pays": "FR",
+ "per26": 13,
+ "per27": 12.3,
+ "perf": {
+  "m1": -5.8,
+  "m12": -4.1,
+  "m3": -11.7
+ },
+ "pub": "2026-10-15",
+ "pubLabel": "CA du T3",
+ "risque": "Marché du bâtiment encore mou.",
+ "secteur": "Distribution plomberie / chauffage",
+ "societe": {
+  "aVerifier": "Vérifié le 29/09/2026 sur les communiqués et lettres aux actionnaires Thermador Groupe (résultats annuels 2021 à 2025, semestriels 2026) et les pages du site du groupe. Confirmés par la société : CA 2021-2025, résultat net part du groupe (52,9 ; 58,9 ; 58,3 ; 44,7 ; 44,1 M€), résultat opérationnel (73,2 ; 79,6 ; 80,8 ; 60,2 ; 59,4 M€, d'où margeOp = résultat opérationnel publié / CA ; le groupe n'isole pas de résultat opérationnel courant), dividendes 2,00 € (2021), 2,08 € (2022, 2023 et 2024) et 2,10 € (2025), part de l'international 17,3 % en 2025, effectif de 903 personnes, siège, gouvernance 2026. detteNette = dettes bancaires moins trésorerie, hors dettes locatives IFRS 16 (calculée à partir des deux montants publiés) ; la page de présentation du groupe indique 45,6 M€ de trésorerie nette pour 2025 sans définition. Restent non vérifiés : actionnariat (la page officielle n'affiche la répartition qu'en graphique, pourcentages Zonebourse conservés), répartition par activité (Zonebourse, année non précisée), consensus 2026e (Zonebourse), faits d'histoire antérieurs à 2025, concurrents non sourcés.",
+  "actionnariat": "Capital très dispersé : actionnaires individuels environ 45 %, investisseurs institutionnels environ 44 % (dont TGV environ 9 % et Crédit Mutuel Equity environ 7 %), salariés et retraités environ 7 %, et des fondateurs historiques encore présents (Guy Vincent environ 5 %).",
+  "avantage": "Un stock très large et immédiatement disponible, une logistique efficace et des marques de filiales bien connues des professionnels, le tout géré avec une culture frugale et décentralisée qui donne des marges et un bilan solides. Ce qui pourrait l'éroder : un marché du bâtiment neuf et de la rénovation durablement faible en France, la baisse des prix, et les fabricants ou les plateformes en ligne qui vendent en direct aux installateurs.",
+  "chiffres": [
+   {
+    "annee": "2021",
+    "ca": 486.5,
+    "detteNette": 0.8,
+    "dividende": 2,
+    "margeOp": 15,
+    "rn": 52.9
+   },
+   {
+    "annee": "2022",
+    "ca": 553.9,
+    "detteNette": 30.6,
+    "dividende": 2.08,
+    "margeOp": 14.4,
+    "rn": 58.9
+   },
+   {
+    "annee": "2023",
+    "ca": 581,
+    "detteNette": 3.5,
+    "dividende": 2.08,
+    "margeOp": 13.9,
+    "rn": 58.3
+   },
+   {
+    "annee": "2024",
+    "ca": 503.9,
+    "detteNette": -32.8,
+    "dividende": 2.08,
+    "margeOp": 11.9,
+    "rn": 44.7
+   },
+   {
+    "annee": "2025",
+    "ca": 501.7,
+    "detteNette": -55.9,
+    "dividende": 2.1,
+    "margeOp": 11.9,
+    "rn": 44.1
+   },
+   {
+    "annee": "2026e",
+    "ca": 523.8,
+    "detteNette": -78.5,
+    "dividende": null,
+    "margeOp": 12.7,
+    "rn": 50
+   }
+  ],
+  "clients": "Des grossistes en sanitaire-chauffage et matériel industriel, des grandes surfaces de bricolage, des installateurs et des industriels, surtout en France ; la clientèle est très dispersée, mais la part grand public (16 % des ventes) est concentrée sur quelques enseignes de bricolage.",
+  "concurrents": [
+   "Grundfos",
+   "Wilo",
+   "Watts",
+   "Würth",
+   "Descours & Cabaud"
+  ],
+  "corrections": [
+   "2021 detteNette 5.4 -> 0.8 (lettre aux actionnaires résultats 2021 : dette bancaire 28,2 M€ moins trésorerie 27,4 M€).",
+   "2021 margeOp 15.1 -> 15.0 (résultat opérationnel 73,2 M€ pour 486,5 M€ de CA).",
+   "2022 detteNette 37.1 -> 30.6 (communiqué résultats 2022 : dette bancaire 46,6 M€ moins trésorerie 16 M€).",
+   "2022 dividende 2 -> 2.08 (communiqué résultats 2022 : 2,08 € proposé, +4 %).",
+   "2023 detteNette 11.6 -> 3.5 (communiqué résultats 2023 : dette bancaire 38,7 M€ moins trésorerie 35,2 M€).",
+   "2024 detteNette -29.2 -> -32.8 (communiqué résultats 2024 : trésorerie 63,3 M€ moins dette bancaire 30,5 M€).",
+   "2025 detteNette -45.3 -> -55.9 (communiqué résultats 2025 : trésorerie 97 M€ moins dette bancaire 41,1 M€ ; la page de présentation du groupe affiche une trésorerie nette de 45,6 M€, définition non précisée).",
+   "Guillaume Robin : depuis 2010 -> 2011 et rôle précisé (page Comité exécutif et présentation du groupe).",
+   "Patricia Mavigner : « Directrice financière depuis 2020 » -> directrice générale déléguée depuis le 1er mai 2016 (page Comité exécutif Thermador ; aucun directeur financier n'y est listé).",
+   "Histoire 2026 complétée avec la date de la séparation des fonctions et le premier semestre 2026."
+  ],
+  "croire": [
+   "Que le bâtiment et la rénovation énergétique en France vont repartir (aides, pompes à chaleur, objectifs de construction) après trois années difficiles.",
+   "Que la baisse des prix est terminée et que l'effet prix redevient positif en 2026, comme l'annonce la direction.",
+   "Que les acquisitions régulières, notamment en Europe, continueront d'ajouter de la croissance sans dégrader la rentabilité."
+  ],
+  "devise": "€",
+  "dirigeants": [
+   {
+    "depuis": 2011,
+    "nom": "Guillaume Robin",
+    "role": "Directeur général (président-directeur général de 2011 au 8 avril 2026, directeur général seul depuis)"
+   },
+   {
+    "depuis": 2026,
+    "nom": "Olivier Villemonte de la Clergerie",
+    "role": "Président non exécutif du conseil d'administration (depuis le 8 avril 2026)"
+   },
+   {
+    "depuis": 2016,
+    "nom": "Patricia Mavigner",
+    "role": "Directrice générale déléguée (depuis le 1er mai 2016), secrétaire du conseil"
+   }
+  ],
+  "effectifs": 903,
+  "fondee": 1968,
+  "geo": [
+   {
+    "part": 82.7,
+    "zone": "France"
+   },
+   {
+    "part": 17.3,
+    "zone": "International"
+   }
+  ],
+  "histoire": [
+   {
+    "annee": 1968,
+    "fait": "Création par cinq associés (dont Guy Vincent et Marc de Sereys) pour importer et distribuer des accessoires de chauffage central."
+   },
+   {
+    "annee": 1977,
+    "fait": "Création de Jetly (pompes domestiques), puis de Sferaco (robinetterie) en 1978."
+   },
+   {
+    "annee": 1987,
+    "fait": "Introduction en Bourse, un an après la création de la holding Thermador Groupe."
+   },
+   {
+    "annee": 2015,
+    "fait": "Rachat de Mecafer (outillage) et création d'Aello."
+   },
+   {
+    "annee": 2017,
+    "fait": "Rachats de FGinox et Sodeco Valves, et de Domac par Mecafer."
+   },
+   {
+    "annee": 2022,
+    "fait": "Rachat de DPI ; fusion de Dipra et Édouard Rousseau sous le nom Odrea."
+   },
+   {
+    "annee": 2025,
+    "fait": "Rachats de Quilinox et C2AI dans un marché du bâtiment déprimé ; chiffre d'affaires stable à 501,7 millions d'euros."
+   },
+   {
+    "annee": 2026,
+    "fait": "Séparation des fonctions au lendemain de l'assemblée générale du 7 avril : Olivier Villemonte de la Clergerie devient président non exécutif, Guillaume Robin reste directeur général. Premier semestre 2026 : chiffre d'affaires de 288 millions d'euros (+11,3 %, +5,6 % à périmètre constant) et résultat net de 26,2 millions (+17,6 %)."
+   }
+  ],
+  "modele": "Thermador gagne une marge de distributeur : il achète en grande quantité auprès de fabricants (souvent en Europe et en Asie), stocke énormément (plus de 200 jours de stock) et livre très vite les professionnels, qui paient pour la disponibilité immédiate et le conseil technique. Les ventes sont récurrentes mais liées au cycle du bâtiment ; le modèle très économe en frais fixes (environ 900 salariés pour 500 millions d'euros de ventes) donne des marges élevées pour un distributeur.",
+  "questions": [
+   "Les ventes à nombre de sociétés constant repartent-elles, et la marge opérationnelle remonte-t-elle vers ses niveaux passés de 14-15 % ?",
+   "Le niveau de stock (plus de 200 jours) reste-t-il maîtrisé, ou pèse-t-il sur la trésorerie ?",
+   "Quelles acquisitions européennes sont envisagées et à quel prix ?"
+  ],
+  "resume": "Thermador Groupe, près de Lyon, est un distributeur spécialisé : il achète, stocke et revend tout ce qui sert à faire circuler l'eau, l'air et les fluides dans un bâtiment ou une usine (vannes, raccords, pompes, tubes, accessoires de chauffage, ventilation, outillage). Concrètement, la pompe de relevage d'une maison ou la vanne d'un circuit de chauffage vendue par un grossiste en plomberie ou en magasin de bricolage vient souvent d'une de ses filiales comme Jetly ou Sferaco.",
+  "segments": [
+   {
+    "detail": "Accessoires de chauffage, robinetterie, raccords, ventilation pour plombiers et chauffagistes.",
+    "nom": "Circuits de fluides du bâtiment",
+    "part": 41.5
+   },
+   {
+    "detail": "Vannes et équipements industriels (Syveco, Sodeco Valves, FGinox...).",
+    "nom": "Circuits de fluides de l'industrie",
+    "part": 27.2
+   },
+   {
+    "detail": "Pompes pour l'eau de la maison, du jardin et de la piscine (Jetly, Aello).",
+    "nom": "Pompes domestiques",
+    "part": 15.6
+   },
+   {
+    "detail": "Machines et outillage pour ateliers (Mecafer, Domac).",
+    "nom": "Outillage électroportatif et machines",
+    "part": 8.7
+   },
+   {
+    "detail": "Canalisations plastiques pour réseaux d'eau (PBtub).",
+    "nom": "Tubes pour travaux publics",
+    "part": 7
+   }
+  ],
+  "siege": "Saint-Quentin-Fallavier (Isère), France",
+  "site": "https://www.thermador-groupe.fr",
+  "sources": [
+   "https://www.webdisclosure.com/press-release/thermador-groupe-epa-thep-thermador-groupe-resultats-annuels-2025-noYTj3UUOU3",
+   "https://www.thermador-groupe.fr/en/press-release/publication-of-2025-annual-results/",
+   "https://www.webdisclosure.fr/press-release/thermador-groupe-epa-thep-thermador-groupe-publication-des-resultats-annuels-2024-4r3zBvu4uYg",
+   "https://www.webdisclosure.fr/press-release/thermador-groupe-epa-thep-thermador-groupe-publication-des-resultats-annuels-2023-Js52Y73qCvp",
+   "https://www.thermador-groupe.fr/app/uploads/resultats-annuels-2022-21-02-2023-18h-1.pdf",
+   "https://www.thermador-groupe.fr/app/uploads/lettre-actionnaires-105-fr-1.pdf",
+   "https://www.thermador-groupe.fr/communique-de-presse/publication-des-resultats-semestriels-2026/",
+   "https://www.thermador-groupe.fr/en/group/a-brief-introduction/",
+   "https://www.thermador-groupe.fr/en/group/governance/executive-committee/",
+   "https://www.thermador-groupe.fr/en/shareholders/thermador-groupe-share/",
+   "https://www.thermador-groupe.fr/en/group/our-history/",
+   "https://www.zonebourse.com/cours/action/THERMADOR-GROUPE-43328026/finances/",
+   "https://www.zonebourse.com/cours/action/THERMADOR-GROUPE-43328026/finances-segments/",
+   "https://www.zonebourse.com/cours/action/THERMADOR-GROUPE-43328026/societe/"
+  ],
+  "suivi": {
+   "bilan": "2 conditions sur 3 ne sont pas encore acquises : les acquisitions tiennent, mais le marché de la rénovation (aides en baisse) et le retour d'un effet prix positif, toujours à -0,9 % au S1, restent les points fragiles.",
+   "croire": [
+    {
+     "c": "Que le bâtiment et la rénovation énergétique en France vont repartir (aides, pompes à chaleur, objectifs de construction) après trois années difficiles.",
+     "etat": "watch",
+     "preuve": "S1 2026 : la direction note que la rénovation ralentit ; au 01/09/2026, six types de travaux seuls (ventilation, chauffe-eau thermodynamique, etc.) perdent l'aide MaPrimeRénov'.",
+     "prochain": "CA du T3 le 15/10/2026 (webconférence le 19/10)",
+     "reponse": "Pas encore : la rénovation énergétique ralentit avec la baisse des aides publiques, les pompes à chaleur air-eau ne progressent que modérément et le neuf ne s'améliore pas. MaPrimeRénov' se resserre encore au 1er septembre 2026.",
+     "source": "https://www.les-energies-renouvelables.eu/article/actualites/reglementations/ces-travaux-de-renovation-perdent-leur-aide-maprimerenov-dans-un-mois-1454/"
+    },
+    {
+     "c": "Que la baisse des prix est terminée et que l'effet prix redevient positif en 2026, comme l'annonce la direction.",
+     "etat": "watch",
+     "preuve": "Effet prix : -1,4 % au T1 2026, -0,9 % au S1 2026.",
+     "prochain": "CA du T3 le 15/10/2026 (webconférence le 19/10)",
+     "reponse": "L'effet prix reste négatif à mi-année, même s'il s'améliore. La direction annonçait des hausses de prix de plus de 2 % en 2026, elles ne se voient pas encore.",
+     "source": "https://www.thermador-groupe.fr/en/press-release/publication-of-2026-1st-quarter-turnover/"
+    },
+    {
+     "c": "Que les acquisitions régulières, notamment en Europe, continueront d'ajouter de la croissance sans dégrader la rentabilité.",
+     "etat": "ok",
+     "preuve": "S1 2026 : CA +11,3 % dont +5,6 % à périmètre constant, donc environ 5,7 points venant des acquisitions ; résultat opérationnel +17,3 %.",
+     "prochain": "CA du T3 le 15/10/2026 (webconférence le 19/10)",
+     "reponse": "Oui pour l'instant : les rachats de 2025 ajoutent de la croissance et la marge remonte en même temps.",
+     "source": "https://www.thermador-groupe.fr/communique-de-presse/publication-des-resultats-semestriels-2026/"
+    }
+   ],
+   "le": "2026-09-29",
+   "questions": [
+    {
+     "etat": "watch",
+     "preuve": "S1 2026 : CA +5,6 % à périmètre constant ; marge opérationnelle 12,2 % contre 11,6 % au S1 2025 (15,0 % en 2021, 14,4 % en 2022).",
+     "prochain": "CA du T3 le 15/10/2026 (webconférence le 19/10)",
+     "q": "Les ventes à nombre de sociétés constant repartent-elles, et la marge opérationnelle remonte-t-elle vers ses niveaux passés de 14-15 % ?",
+     "reponse": "Les ventes à périmètre constant repartent et la marge remonte, mais elle reste nettement sous les 14 à 15 % d'avant 2023. La direction prévient que le T3 aura une base de comparaison moins favorable.",
+     "source": "https://www.thermador-groupe.fr/communique-de-presse/publication-des-resultats-semestriels-2026/"
+    },
+    {
+     "etat": "ok",
+     "preuve": "30/06/2026 : stocks -5,6 % en valeur, 181 jours d'achats contre 209 un an plus tôt ; BFR 38,1 % du CA contre 43,6 % ; trésorerie nette 104,2 M€.",
+     "prochain": "CA du T3 le 15/10/2026 (webconférence le 19/10)",
+     "q": "Le niveau de stock (plus de 200 jours) reste-t-il maîtrisé, ou pèse-t-il sur la trésorerie ?",
+     "reponse": "Oui : le stock a baissé et passe sous les 200 jours, ce qui libère de la trésorerie.",
+     "source": "https://www.thermador-groupe.fr/communique-de-presse/publication-des-resultats-semestriels-2026/"
+    },
+    {
+     "etat": "nc",
+     "preuve": "Dernières opérations : C2AI (France) et Quilinox (Espagne et Portugal, 14,6 M€ de CA), rachetées en 2025, prix non communiqué dans les pages lues.",
+     "prochain": "Pas de date : annonce au fil de l'eau, prochain point au CA T3 du 15/10/2026",
+     "q": "Quelles acquisitions européennes sont envisagées et à quel prix ?",
+     "reponse": "Aucune acquisition nouvelle annoncée en 2026 et aucun prix publié. Le groupe dit chercher des distributeurs à l'international dans l'industrie et le cycle de l'eau, souvent des PME familiales.",
+     "source": "https://finance.inextenso.fr/actualites/panorama-2026-regard-dentrepreneur-thermador-groupe/"
+    }
+   ]
+  },
+  "verifieLe": "2026-09-29"
+ },
+ "src": "https://www.boursorama.com/cours/actualites/1rPTHEP/",
+ "statut": "intacte",
+ "these": "Gestion familiale, bilan solide, qualité à prix raisonnable.",
+ "ticker": "THEP",
+ "yahoo": "THEP.PA",
+ "zb": "https://www.zonebourse.com/cours/action/THERMADOR-GROUPE-43328026/"
+}

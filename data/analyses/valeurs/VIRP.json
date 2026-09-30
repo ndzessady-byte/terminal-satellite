@@ -1,0 +1,1457 @@
+{
+ "analyse": {
+  "aVerifier": "Cours du 28/09 non lu (dernier cours confirmé 303,5 € le 25/09, la fiche d'origine indique environ 309 €). MM50, MM200 et RSI non disponibles à jour (page Investing.com figée au 05/08), mis à null. Haut et bas sur 52 semaines lus sur Investing.com au 05/08. ROE et dette nette/EBITDA calculés à partir des ratios Zonebourse. Couverture des intérêts, comparaison avec les pairs et Piotroski non trouvés.",
+  "actu": [
+   {
+    "d": "20/07",
+    "fait": "CA du S1 2026 de 768 M€, +7,4 % à changes constants. Virbac vise désormais le haut de sa fourchette 2026 (+5,5 à +7,5 %).",
+    "horizon": "moyen",
+    "impact": "positif",
+    "lecture": "La croissance tient mieux que chez le leader Zoetis, signe de gains de parts de marché."
+   },
+   {
+    "d": "17/09",
+    "fait": "Résultats S1 : marge opérationnelle ajustée de 18,8 % contre 18,3 %, résultat net 87,4 M€ (+6 %), options d'achat sur de nouveaux produits (Porus-One, Vetcare) pour des lancements en 2027. Titre +2,5 %.",
+    "horizon": "long",
+    "impact": "positif",
+    "lecture": "La marge progresse malgré l'inflation et la gamme se renforce pour les années suivantes."
+   },
+   {
+    "d": "18/09",
+    "fait": "Zonebourse souligne un retour à des niveaux de valorisation attractifs (15 fois les bénéfices 2026) après une baisse d'environ 15 % depuis janvier.",
+    "horizon": "moyen",
+    "impact": "neutre",
+    "lecture": "La valorisation n'est plus un frein, mais le marché reste méfiant sur la santé animale après l'avertissement de Zoetis en mai (baisse des visites vétérinaires)."
+   }
+  ],
+  "cadres": [
+   "Buffett (qualité, rentabilité)",
+   "Fisher (position concurrentielle)",
+   "Lynch (PEG)",
+   "Graham (bilan)",
+   "Greenblatt (formule magique)",
+   "Théorie de Dow",
+   "Stades de Weinstein"
+  ],
+  "conviction": "moyenne",
+  "fonda": {
+   "bilan": "Dette nette de 195,9 M€ au 30/06/2026 (172,8 M€ fin 2025), hausse saisonnière. Rapportée à l'EBITDA 2026 d'environ 316 M€ (calcul à partir du VE/EBITDA de 8,73 fois), cela fait environ 0,6 fois : bilan sain (Graham). Génération de trésorerie attendue d'environ 80 M€ en 2026 après 125 M€ d'investissements. Couverture des intérêts non trouvée.",
+   "croissance": "CA S1 2026 de 768 M€, +7,4 % à changes constants (+4 % publié) : animaux de compagnie +10 %, animaux de production +6,7 %. Résultat net part du groupe 87,4 M€ (+6 %). Objectif 2026 : haut de la fourchette +5,5 % à +7,5 %. BPA selon Zonebourse : 18,00 € en 2025, 20,43 € en 2026 (+13,5 %), 22,60 € en 2027 (+10,6 %). PEG d'environ 1,4.",
+   "greenblatt": "Rendement bénéficiaire d'environ 6,5 % (1/PER 2026) et rentabilité des capitaux vers 13 %, avec une marge opérationnelle proche de 17 % : combinaison attractive pour un laboratoire de qualité.",
+   "justif": "Croissance régulière, marges en hausse, dette faible et multiples au plus bas depuis plusieurs années, freinés par une rentabilité des capitaux correcte mais pas exceptionnelle et un secteur sous pression.",
+   "peg": 1.4,
+   "piotroski": null,
+   "qualite": "Rentabilité des capitaux propres d'environ 13 % (calcul : BPA 2026 attendu de 20,43 € et cours/actif net de 2,06 fois selon Zonebourse). Marge opérationnelle ajustée de 18,8 % au S1 2026 contre 18,3 % (objectif annuel environ 17 %, le S2 étant moins rentable). Laboratoire indépendant spécialisé en santé animale (61 % du CA dans les animaux de compagnie), face à Zoetis, Elanco et Boehringer : marché porteur et barrières réglementaires élevées (critère Fisher).",
+   "score": 7.5,
+   "valo": "PER 15,4 fois 2026 et 13,9 fois 2027, VE/EBITDA 8,7 fois 2026, rendement du cash-flow libre 2,9 % en 2026 puis 4,4 % en 2027 (Zonebourse, cours 314,5 € le 18/09). Sur 2023-2025, le PER était de 18 à 25 fois et le VE/EBITDA de 10 à 12,8 fois : le titre est nettement sous ses multiples récents. Zonebourse note moins de 9 fois l'EBITDA, sous les prix des rachats dans le secteur. Consensus : 8 analystes, objectif moyen 412,75 € (360 à 440 €)."
+  },
+  "majLe": "2026-09-28",
+  "revisions": "Stables : BPA 2026 attendu à 20,74 € (comme il y a 1 mois, niveau proche il y a 3 mois), 22,92 € en 2027 (Boursorama).",
+  "scenarios": [
+   {
+    "bas": 280,
+    "central": 310,
+    "haut": 335,
+    "horizon": "2 mois",
+    "hypotheses": "Catalyseur : CA du T3 le 19/10. Bas : ralentissement de la croissance et cassure du plus bas annuel (296 €). Haut : croissance maintenue au-dessus de 7 % et retour au-dessus de la résistance de 317 €.",
+    "unite": "€"
+   },
+   {
+    "bas": 265,
+    "central": 350,
+    "haut": 410,
+    "horizon": "12 mois",
+    "hypotheses": "Central : BPA 2027 proche de 22,60 € et PER qui remonte vers 15,5 fois. Haut : objectif moyen des analystes (412,75 €). Bas : secteur toujours déprimé, PER vers 12 fois.",
+    "unite": "€"
+   },
+   {
+    "bas": 2,
+    "central": 10,
+    "haut": 14,
+    "horizon": "5 ans",
+    "hypotheses": "Central : BPA +9 %/an, dividende 0,6 %, PER qui remonte de 15 vers 17 fois (environ +2,5 %/an) : environ 10 %/an. Haut : BPA +11 %/an et PER vers 20 fois. Bas : BPA +5 %/an et PER qui baisse vers 12 fois.",
+    "unite": "%/an"
+   },
+   {
+    "bas": 4,
+    "central": 9,
+    "haut": 12,
+    "horizon": "10-15 ans",
+    "hypotheses": "La santé animale croît structurellement (humanisation des animaux, marchés émergents). Central : BPA +8 %/an, dividende 1 %, multiple stable. Bas : acquisition ratée ou pression durable sur les prix.",
+    "unite": "%/an"
+   }
+  ],
+  "sources": [
+   "https://www.globenewswire.com/news-release/2026/09/17/3364214/0/fr/virbac-une-marge-op%C3%A9rationnelle2-solide-de-18-8-port%C3%A9e-par-une-croissance-soutenue-du-chiffre-d-affaires-de-7-4.html",
+   "https://www.abcbourse.com/marches/newsContent/702740",
+   "https://www.zonebourse.com/actualite-bourse/virbac-solide-vise-le-haut-de-la-fourchette-de-ses-objectifs-annuels-ce7f51dbdd89f526",
+   "https://www.zonebourse.com/actualite-bourse/virbac-de-retour-sur-des-niveaux-de-valorisation-attractifs-ce785adad880f227",
+   "https://www.zonebourse.com/cours/action/VIRBAC-4001485/valorisation/",
+   "https://www.zonebourse.com/cours/action/VIRBAC-5234/consensus/",
+   "https://www.investtech.com/main/market.php?CompanyID=33304735",
+   "https://www.investing.com/equities/virbac-technical",
+   "https://www.zonebourse.com/actualite-bourse/zoetis-revise-ses-previsions-de-benefice-annuel-face-a-la-baisse-des-visites-veterinaires-ce7f58d3df88ff22",
+   "https://www.abcbourse.com/marches/events/VIRPp"
+  ],
+  "tech": {
+   "bas52": 302,
+   "cours": 307.5,
+   "coursLe": "2026-09-28",
+   "haut52": 384,
+   "lecture": "Cours de 307,50 en dessous de sa moyenne 50 jours (325,82) et en dessous de sa moyenne 200 jours (345,41). RSI 45,4 : élan neutre. Il se situe à 7 % de sa fourchette sur un an (de 302,00 à 384,00), performance sur 12 mois de -3,3 %. Moyennes et RSI calculés sur les vraies clôtures (flux GitHub de 15h33).",
+   "mm200": 345.41,
+   "mm50": 325.82,
+   "resistance": 317,
+   "rsi14": 45.4,
+   "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json",
+   "stade": 4,
+   "support": 296,
+   "tendance": "baissiere"
+  },
+  "verdict": "Virbac livre une croissance organique régulière (+7,4 % au S1) avec une marge en hausse et vise le haut de sa fourchette 2026, alors que le titre se paie environ 15 fois les bénéfices 2026, près de ses plus bas de valorisation depuis plusieurs années. La tendance boursière reste baissière, freinée par la prudence sur la santé animale (Zoetis) et par le doute sur les acquisitions, donc la patience est de mise.",
+  "zones": {
+   "catalyseurs": [
+    "19/10/2026 : CA du T3.",
+    "19/01/2027 : CA du T4.",
+    "Mars 2027 : résultats annuels et objectifs 2027 (date exacte non confirmée)."
+   ],
+   "interet": "Entre 280 et 300 € : autour du plus bas sur 52 semaines, soit environ 12,5 à 13 fois les bénéfices 2027 attendus.",
+   "invalidation": "Objectif de croissance 2026 abaissé sous +5,5 %, ou clôture durable nettement sous 280 € sans explication liée au marché.",
+   "sortie": [
+    "Croissance organique sous 4 % sur deux trimestres de suite.",
+    "Marge opérationnelle ajustée annuelle sous 15 %.",
+    "Acquisition importante qui fait passer la dette nette au-dessus de 2,5 fois l'EBITDA."
+   ]
+  }
+ },
+ "capi": "2,54 Md€",
+ "cours": 307.5,
+ "coursLe": "2026-09-28",
+ "devise": "€",
+ "faits": [
+  {
+   "d": "21/09",
+   "t": "Bernstein passe à Surperformance, objectif 426 € (contre 419 €)."
+  },
+  {
+   "d": "17/09",
+   "t": "S1 : CA +7,4 % à périmètre constant, marge opérationnelle 18,8 %, résultat net 87,1 M€. Vise le haut de la fourchette 2026 (+5,5 à +7,5 %)."
+  }
+ ],
+ "histo": [
+  [
+   "22/09",
+   315
+  ],
+  [
+   "23/09",
+   313.5
+  ],
+  [
+   "24/09",
+   312
+  ],
+  [
+   "25/09",
+   310.5
+  ],
+  [
+   "26/09",
+   313.5
+  ],
+  [
+   "29/09",
+   314
+  ],
+  [
+   "30/09",
+   314.5
+  ],
+  [
+   "01/10",
+   318.5
+  ],
+  [
+   "02/10",
+   321.5
+  ],
+  [
+   "03/10",
+   323
+  ],
+  [
+   "06/10",
+   318
+  ],
+  [
+   "07/10",
+   313.5
+  ],
+  [
+   "08/10",
+   318
+  ],
+  [
+   "09/10",
+   318
+  ],
+  [
+   "10/10",
+   310
+  ],
+  [
+   "13/10",
+   314.5
+  ],
+  [
+   "14/10",
+   307.5
+  ],
+  [
+   "15/10",
+   308
+  ],
+  [
+   "16/10",
+   311
+  ],
+  [
+   "17/10",
+   333.5
+  ],
+  [
+   "20/10",
+   341.5
+  ],
+  [
+   "21/10",
+   355.5
+  ],
+  [
+   "22/10",
+   357.5
+  ],
+  [
+   "23/10",
+   358
+  ],
+  [
+   "24/10",
+   363
+  ],
+  [
+   "27/10",
+   362
+  ],
+  [
+   "28/10",
+   358
+  ],
+  [
+   "29/10",
+   354.5
+  ],
+  [
+   "30/10",
+   351
+  ],
+  [
+   "31/10",
+   354.5
+  ],
+  [
+   "03/11",
+   351
+  ],
+  [
+   "04/11",
+   346
+  ],
+  [
+   "05/11",
+   345.5
+  ],
+  [
+   "06/11",
+   338
+  ],
+  [
+   "07/11",
+   345
+  ],
+  [
+   "10/11",
+   345.5
+  ],
+  [
+   "11/11",
+   354.5
+  ],
+  [
+   "12/11",
+   357.5
+  ],
+  [
+   "13/11",
+   357
+  ],
+  [
+   "14/11",
+   352.5
+  ],
+  [
+   "17/11",
+   356.5
+  ],
+  [
+   "18/11",
+   353.5
+  ],
+  [
+   "19/11",
+   355
+  ],
+  [
+   "20/11",
+   347
+  ],
+  [
+   "21/11",
+   356.5
+  ],
+  [
+   "24/11",
+   358
+  ],
+  [
+   "25/11",
+   361.5
+  ],
+  [
+   "26/11",
+   362.5
+  ],
+  [
+   "27/11",
+   369
+  ],
+  [
+   "28/11",
+   368
+  ],
+  [
+   "01/12",
+   361.5
+  ],
+  [
+   "02/12",
+   357
+  ],
+  [
+   "03/12",
+   356.5
+  ],
+  [
+   "04/12",
+   356
+  ],
+  [
+   "05/12",
+   356.5
+  ],
+  [
+   "08/12",
+   348.5
+  ],
+  [
+   "09/12",
+   341
+  ],
+  [
+   "10/12",
+   339
+  ],
+  [
+   "11/12",
+   340.5
+  ],
+  [
+   "12/12",
+   339
+  ],
+  [
+   "15/12",
+   338
+  ],
+  [
+   "16/12",
+   345
+  ],
+  [
+   "17/12",
+   346.5
+  ],
+  [
+   "18/12",
+   346
+  ],
+  [
+   "19/12",
+   349.5
+  ],
+  [
+   "22/12",
+   350.5
+  ],
+  [
+   "23/12",
+   354.5
+  ],
+  [
+   "24/12",
+   352
+  ],
+  [
+   "29/12",
+   358
+  ],
+  [
+   "30/12",
+   356.5
+  ],
+  [
+   "31/12",
+   357.5
+  ],
+  [
+   "02/01",
+   353.5
+  ],
+  [
+   "05/01",
+   359
+  ],
+  [
+   "06/01",
+   355.5
+  ],
+  [
+   "07/01",
+   359
+  ],
+  [
+   "08/01",
+   361.5
+  ],
+  [
+   "09/01",
+   364
+  ],
+  [
+   "12/01",
+   358.5
+  ],
+  [
+   "13/01",
+   361.5
+  ],
+  [
+   "14/01",
+   360.5
+  ],
+  [
+   "15/01",
+   360
+  ],
+  [
+   "16/01",
+   357
+  ],
+  [
+   "19/01",
+   349.5
+  ],
+  [
+   "20/01",
+   367
+  ],
+  [
+   "21/01",
+   358.5
+  ],
+  [
+   "22/01",
+   366.5
+  ],
+  [
+   "23/01",
+   363.5
+  ],
+  [
+   "26/01",
+   364.5
+  ],
+  [
+   "27/01",
+   368.5
+  ],
+  [
+   "28/01",
+   365
+  ],
+  [
+   "29/01",
+   358
+  ],
+  [
+   "30/01",
+   351.5
+  ],
+  [
+   "02/02",
+   351.5
+  ],
+  [
+   "03/02",
+   349.5
+  ],
+  [
+   "04/02",
+   352.5
+  ],
+  [
+   "05/02",
+   353
+  ],
+  [
+   "06/02",
+   350.5
+  ],
+  [
+   "09/02",
+   348
+  ],
+  [
+   "10/02",
+   357.5
+  ],
+  [
+   "11/02",
+   356
+  ],
+  [
+   "12/02",
+   358
+  ],
+  [
+   "13/02",
+   359.5
+  ],
+  [
+   "16/02",
+   359.5
+  ],
+  [
+   "17/02",
+   365.5
+  ],
+  [
+   "18/02",
+   367
+  ],
+  [
+   "19/02",
+   367
+  ],
+  [
+   "20/02",
+   368.5
+  ],
+  [
+   "23/02",
+   365
+  ],
+  [
+   "24/02",
+   369
+  ],
+  [
+   "25/02",
+   364
+  ],
+  [
+   "26/02",
+   364
+  ],
+  [
+   "27/02",
+   370
+  ],
+  [
+   "02/03",
+   360.5
+  ],
+  [
+   "03/03",
+   349.5
+  ],
+  [
+   "04/03",
+   349.5
+  ],
+  [
+   "05/03",
+   346.5
+  ],
+  [
+   "06/03",
+   346.5
+  ],
+  [
+   "09/03",
+   344
+  ],
+  [
+   "10/03",
+   343.5
+  ],
+  [
+   "11/03",
+   339
+  ],
+  [
+   "12/03",
+   334.5
+  ],
+  [
+   "13/03",
+   331
+  ],
+  [
+   "16/03",
+   328.5
+  ],
+  [
+   "17/03",
+   334.5
+  ],
+  [
+   "18/03",
+   353
+  ],
+  [
+   "19/03",
+   354.5
+  ],
+  [
+   "20/03",
+   352
+  ],
+  [
+   "23/03",
+   351
+  ],
+  [
+   "24/03",
+   349
+  ],
+  [
+   "25/03",
+   354.5
+  ],
+  [
+   "26/03",
+   355.5
+  ],
+  [
+   "27/03",
+   349
+  ],
+  [
+   "30/03",
+   352.5
+  ],
+  [
+   "31/03",
+   354.5
+  ],
+  [
+   "01/04",
+   354
+  ],
+  [
+   "02/04",
+   351
+  ],
+  [
+   "07/04",
+   347.5
+  ],
+  [
+   "08/04",
+   355.5
+  ],
+  [
+   "09/04",
+   355
+  ],
+  [
+   "10/04",
+   360
+  ],
+  [
+   "13/04",
+   359.5
+  ],
+  [
+   "14/04",
+   365.5
+  ],
+  [
+   "15/04",
+   360.5
+  ],
+  [
+   "16/04",
+   362
+  ],
+  [
+   "17/04",
+   383.5
+  ],
+  [
+   "20/04",
+   380
+  ],
+  [
+   "21/04",
+   384
+  ],
+  [
+   "22/04",
+   379.5
+  ],
+  [
+   "23/04",
+   378.5
+  ],
+  [
+   "24/04",
+   378.5
+  ],
+  [
+   "27/04",
+   373
+  ],
+  [
+   "28/04",
+   366
+  ],
+  [
+   "29/04",
+   363
+  ],
+  [
+   "30/04",
+   371.5
+  ],
+  [
+   "04/05",
+   362.5
+  ],
+  [
+   "05/05",
+   364
+  ],
+  [
+   "06/05",
+   371.5
+  ],
+  [
+   "07/05",
+   370
+  ],
+  [
+   "08/05",
+   364.5
+  ],
+  [
+   "11/05",
+   352
+  ],
+  [
+   "12/05",
+   345.5
+  ],
+  [
+   "13/05",
+   341
+  ],
+  [
+   "14/05",
+   342
+  ],
+  [
+   "15/05",
+   350
+  ],
+  [
+   "18/05",
+   345.5
+  ],
+  [
+   "19/05",
+   355.5
+  ],
+  [
+   "20/05",
+   360
+  ],
+  [
+   "21/05",
+   362
+  ],
+  [
+   "22/05",
+   360
+  ],
+  [
+   "25/05",
+   362.5
+  ],
+  [
+   "26/05",
+   363.5
+  ],
+  [
+   "27/05",
+   363.5
+  ],
+  [
+   "28/05",
+   360
+  ],
+  [
+   "29/05",
+   358.5
+  ],
+  [
+   "01/06",
+   352.5
+  ],
+  [
+   "02/06",
+   345
+  ],
+  [
+   "03/06",
+   341
+  ],
+  [
+   "04/06",
+   351
+  ],
+  [
+   "05/06",
+   350
+  ],
+  [
+   "08/06",
+   347.5
+  ],
+  [
+   "09/06",
+   344.5
+  ],
+  [
+   "10/06",
+   342.5
+  ],
+  [
+   "11/06",
+   342.5
+  ],
+  [
+   "12/06",
+   348
+  ],
+  [
+   "15/06",
+   340.5
+  ],
+  [
+   "16/06",
+   337
+  ],
+  [
+   "17/06",
+   332
+  ],
+  [
+   "18/06",
+   329.5
+  ],
+  [
+   "19/06",
+   340.5
+  ],
+  [
+   "22/06",
+   338
+  ],
+  [
+   "23/06",
+   335.5
+  ],
+  [
+   "24/06",
+   340.5
+  ],
+  [
+   "25/06",
+   342.5
+  ],
+  [
+   "26/06",
+   342
+  ],
+  [
+   "29/06",
+   339
+  ],
+  [
+   "30/06",
+   332.5
+  ],
+  [
+   "01/07",
+   330
+  ],
+  [
+   "02/07",
+   331.5
+  ],
+  [
+   "03/07",
+   332
+  ],
+  [
+   "06/07",
+   325
+  ],
+  [
+   "07/07",
+   326.5
+  ],
+  [
+   "08/07",
+   323
+  ],
+  [
+   "09/07",
+   317
+  ],
+  [
+   "10/07",
+   320.5
+  ],
+  [
+   "13/07",
+   324.5
+  ],
+  [
+   "14/07",
+   322
+  ],
+  [
+   "15/07",
+   320
+  ],
+  [
+   "16/07",
+   326.5
+  ],
+  [
+   "17/07",
+   326
+  ],
+  [
+   "20/07",
+   325.5
+  ],
+  [
+   "21/07",
+   342
+  ],
+  [
+   "22/07",
+   350
+  ],
+  [
+   "23/07",
+   334.5
+  ],
+  [
+   "24/07",
+   332
+  ],
+  [
+   "27/07",
+   337
+  ],
+  [
+   "28/07",
+   345.5
+  ],
+  [
+   "29/07",
+   347.5
+  ],
+  [
+   "30/07",
+   341.5
+  ],
+  [
+   "31/07",
+   337.5
+  ],
+  [
+   "03/08",
+   337.5
+  ],
+  [
+   "04/08",
+   338
+  ],
+  [
+   "05/08",
+   338.5
+  ],
+  [
+   "06/08",
+   343.5
+  ],
+  [
+   "07/08",
+   345
+  ],
+  [
+   "10/08",
+   334
+  ],
+  [
+   "11/08",
+   340
+  ],
+  [
+   "12/08",
+   333.5
+  ],
+  [
+   "13/08",
+   331.5
+  ],
+  [
+   "14/08",
+   332.5
+  ],
+  [
+   "17/08",
+   329
+  ],
+  [
+   "18/08",
+   330
+  ],
+  [
+   "19/08",
+   330.5
+  ],
+  [
+   "20/08",
+   330
+  ],
+  [
+   "21/08",
+   332
+  ],
+  [
+   "24/08",
+   329
+  ],
+  [
+   "25/08",
+   329
+  ],
+  [
+   "26/08",
+   332
+  ],
+  [
+   "27/08",
+   323
+  ],
+  [
+   "28/08",
+   323.5
+  ],
+  [
+   "31/08",
+   322.5
+  ],
+  [
+   "01/09",
+   322.5
+  ],
+  [
+   "02/09",
+   322.5
+  ],
+  [
+   "03/09",
+   321
+  ],
+  [
+   "04/09",
+   319
+  ],
+  [
+   "07/09",
+   314
+  ],
+  [
+   "08/09",
+   316
+  ],
+  [
+   "09/09",
+   308
+  ],
+  [
+   "10/09",
+   302
+  ],
+  [
+   "11/09",
+   311.5
+  ],
+  [
+   "14/09",
+   314.5
+  ],
+  [
+   "15/09",
+   315
+  ],
+  [
+   "16/09",
+   312
+  ],
+  [
+   "17/09",
+   314.5
+  ],
+  [
+   "18/09",
+   310.5
+  ],
+  [
+   "21/09",
+   307.5
+  ],
+  [
+   "22/09",
+   307.5
+  ],
+  [
+   "23/09",
+   304.5
+  ],
+  [
+   "24/09",
+   302
+  ],
+  [
+   "25/09",
+   303.5
+  ],
+  [
+   "28/09",
+   307.5
+  ]
+ ],
+ "nom": "Virbac",
+ "notes": "Clôture du 28/09 à 307,50 (Boursorama, 17h35). Aucune nouvelle depuis le 21/09. CA T3 le 19/10.",
+ "pays": "FR",
+ "per26": 14.7,
+ "per27": 13.2,
+ "perf": {
+  "m1": -3.9,
+  "m12": -3.3,
+  "m3": -5.8
+ },
+ "pub": "2026-10-19",
+ "pubLabel": "CA du T3",
+ "risque": "Peu de marge d'erreur sur l'exécution.",
+ "secteur": "Santé animale",
+ "societe": {
+  "aVerifier": "Vérifié le 29/09/2026 sur les communiqués de résultats annuels Virbac 2022 à 2025, le communiqué semestriel 2026, le communiqué de nomination du directeur général et l'espace actionnaires. Confirmés par la société : CA 2021-2025, résultat net part du groupe (113,2 ; 122,0 ; 121,3 ; 145,3 ; 150,9 M€), résultat opérationnel courant ajusté avant amortissement des actifs d'acquisition (d'où margeOp = ce résultat / CA publié ; Virbac cite aussi des marges à taux constants, par exemple 16,3 % en 2025), trésorerie nette 2021-2023 puis dette nette 2024-2025 (168,5 et 172,8 M€, dettes locatives IFRS 16 comprises, environ 38 à 39 M€ ; inclusion d'IFRS 16 supposée identique pour 2021-2023, non précisée), dividendes 1,25 € (2021), 1,32 € (2022 et 2023), 1,45 € (2024 et 2025), 66,21 % des droits de vote à la famille Dick, directeur général. Restent non vérifiés : effectif (6 442), part du capital détenue par la famille (environ 50 %, Zonebourse), date d'arrivée de Marie-Hélène Dick-Madelpuech à la présidence (2006), répartitions par espèce et par zone (Zonebourse), consensus 2026e (Zonebourse), faits d'histoire antérieurs à 2024, concurrents non sourcés.",
+  "actionnariat": "Groupe à contrôle familial : la famille du fondateur Pierre-Richard Dick détient 66,21 % des droits de vote (environ 50 % du capital selon Zonebourse) ; le reste est coté sur Euronext Paris depuis 1985 et détenu par des fonds et des particuliers. 8 390 660 actions au 31/12/2024.",
+  "avantage": "Un pur acteur de la santé animale, un marché en croissance régulière porté par l'humanisation des animaux de compagnie, avec une gamme large, une présence mondiale et un contrôle familial qui pense à long terme. Ce qui pourrait l'éroder : sa petite taille face aux géants (Zoetis, Boehringer) qui dépensent bien plus en recherche, l'arrivée de génériques, et les aléas des marchés d'élevage et des devises émergentes.",
+  "chiffres": [
+   {
+    "annee": "2021",
+    "ca": 1063.8,
+    "detteNette": -73.8,
+    "dividende": 1.25,
+    "margeOp": 16.3,
+    "rn": 113.2
+   },
+   {
+    "annee": "2022",
+    "ca": 1216.2,
+    "detteNette": -79.4,
+    "dividende": 1.32,
+    "margeOp": 15.3,
+    "rn": 122
+   },
+   {
+    "annee": "2023",
+    "ca": 1246.9,
+    "detteNette": -52.4,
+    "dividende": 1.32,
+    "margeOp": 15.1,
+    "rn": 121.3
+   },
+   {
+    "annee": "2024",
+    "ca": 1397.4,
+    "detteNette": 168.5,
+    "dividende": 1.45,
+    "margeOp": 16.6,
+    "rn": 145.3
+   },
+   {
+    "annee": "2025",
+    "ca": 1465,
+    "detteNette": 172.8,
+    "dividende": 1.45,
+    "margeOp": 16,
+    "rn": 150.9
+   },
+   {
+    "annee": "2026e",
+    "ca": 1547,
+    "detteNette": null,
+    "dividende": 1.72,
+    "margeOp": 16.6,
+    "rn": 173.9
+   }
+  ],
+  "clients": "Les vétérinaires, cliniques et distributeurs de produits vétérinaires, ainsi que les éleveurs via leurs vétérinaires, dans plus de 100 pays ; clientèle très dispersée, aucun client dominant publié.",
+  "concurrents": [
+   "Zoetis",
+   "Boehringer Ingelheim",
+   "MSD Santé Animale (Merck)",
+   "Elanco",
+   "Ceva Santé Animale",
+   "Dechra"
+  ],
+  "corrections": [
+   "2021 detteNette -76.5 -> -73.8 (communiqué résultats 2022 : trésorerie nette de 73,8 M€ fin 2021).",
+   "2022 detteNette -83 -> -79.4 et 2023 detteNette -56.1 -> -52.4 (communiqués résultats 2022 et 2023 : trésorerie nette de 79,4 et 52,4 M€).",
+   "margeOp recalculée sur le résultat opérationnel courant ajusté publié (avant amortissement des actifs issus d'acquisitions) : 2021 15.9 -> 16.3 (173,2 M€), 2022 15 -> 15.3 (186,6 M€), 2023 14.8 -> 15.1 (188,1 M€), 2024 16.3 -> 16.6 (231,8 M€), 2025 15.7 -> 16.0 (234,4 M€).",
+   "CA précisés au dixième : 2021 1064 -> 1063.8, 2022 1216 -> 1216.2, 2023 1247 -> 1246.9, 2024 1397 -> 1397.4 (communiqués Virbac).",
+   "Directeur général : intérim de Habib Ramdani et date exacte (01/09/2025) ajoutés (communiqué Virbac du 19/06/2025).",
+   "Actionnariat : 66,21 % des droits de vote confirmé par l'espace actionnaires Virbac ; « 50 % du capital » ramené à sa source (Zonebourse).",
+   "Histoire : événement 2026 ajouté (premier semestre 2026, objectifs annuels)."
+  ],
+  "croire": [
+   "Que la santé animale, en particulier pour les chiens et chats, continuera de croître plus vite que l'économie, et que Virbac gagnera des parts de marché (objectif 2026 : +5,5 % à +7,5 % à taux et périmètre constants).",
+   "Que le nouveau directeur général Paul Martingell saura faire monter la marge vers environ 17 % comme annoncé pour 2026.",
+   "Que les acquisitions (Sasaeah au Japon, Mopsan en Turquie, Thyronorm) seront bien intégrées et rentabilisées."
+  ],
+  "devise": "€",
+  "dirigeants": [
+   {
+    "depuis": 2025,
+    "nom": "Paul Martingell",
+    "role": "Directeur général (depuis le 1er septembre 2025, après l'intérim assuré par Habib Ramdani)"
+   },
+   {
+    "depuis": 2006,
+    "nom": "Marie-Hélène Dick-Madelpuech",
+    "role": "Présidente du conseil d'administration"
+   }
+  ],
+  "effectifs": 6442,
+  "fondee": 1968,
+  "geo": [
+   {
+    "part": 41.6,
+    "zone": "Europe"
+   },
+   {
+    "part": 15.2,
+    "zone": "Amérique latine"
+   },
+   {
+    "part": 13.7,
+    "zone": "Amérique du Nord"
+   },
+   {
+    "part": 12.2,
+    "zone": "Inde, Afrique, Moyen-Orient"
+   },
+   {
+    "part": 10.5,
+    "zone": "Asie du Pacifique (Extrême-Orient)"
+   },
+   {
+    "part": 6.9,
+    "zone": "Pacifique (Australie, Nouvelle-Zélande)"
+   }
+  ],
+  "histoire": [
+   {
+    "annee": 1968,
+    "fait": "Le vétérinaire Pierre-Richard Dick fonde Virbac (contraction de virologie et bactériologie)."
+   },
+   {
+    "annee": 1985,
+    "fait": "Introduction en Bourse à Paris, alors deuxième laboratoire de santé animale français."
+   },
+   {
+    "annee": 1987,
+    "fait": "Rachat de l'américain Allerderm : entrée aux États-Unis et leadership en dermatologie vétérinaire."
+   },
+   {
+    "annee": 1992,
+    "fait": "Décès du fondateur ; la famille garde le contrôle du groupe."
+   },
+   {
+    "annee": 2006,
+    "fait": "Marie-Hélène Dick-Madelpuech, fille du fondateur, devient présidente du conseil."
+   },
+   {
+    "annee": 2012,
+    "fait": "Prise de contrôle de Centrovet au Chili, spécialiste des vaccins pour saumons."
+   },
+   {
+    "annee": 2024,
+    "fait": "Rachat du japonais Sasaeah (santé des animaux d'élevage), qui fait repasser le groupe en endettement net."
+   },
+   {
+    "annee": 2025,
+    "fait": "Paul Martingell, devient directeur général le 1er septembre après un intérim assuré par Habib Ramdani ; rachat de la marque Thyronorm (hyperthyroïdie féline) en décembre ; chiffre d'affaires de 1 465 millions d'euros (+7,9 % en organique)."
+   },
+   {
+    "annee": 2026,
+    "fait": "Premier semestre 2026 : chiffre d'affaires de 768 millions d'euros (+7,4 % à taux et périmètre constants), marge opérationnelle ajustée de 18,8 % ; le groupe vise le haut de sa fourchette de croissance annuelle (5,5 à 7,5 %) pour une marge d'environ 17 %."
+   }
+  ],
+  "modele": "Virbac vend ses produits aux vétérinaires et aux distributeurs vétérinaires dans plus de 100 pays. Les achats se répètent tout au long de la vie des animaux (antiparasitaires, alimentation, traitements chroniques), ce qui rend les revenus très récurrents, et les produits de marque prescrits par le vétérinaire donnent un bon pouvoir de prix, avec une marge opérationnelle autour de 16 %.",
+  "questions": [
+   "La croissance organique reste-t-elle supérieure à celle du marché, notamment aux États-Unis ?",
+   "La marge opérationnelle ajustée progresse-t-elle vraiment vers 17 % malgré les effets de change ?",
+   "Quelles sont les nouvelles molécules en développement, et le groupe investit-il assez en recherche face aux géants ?"
+  ],
+  "resume": "Virbac, installé à Carros près de Nice, est un laboratoire pharmaceutique 100 % vétérinaire : il fabrique des médicaments, vaccins, antiparasitaires, produits dentaires et aliments diététiques pour les chiens, les chats et les animaux d'élevage. Concrètement, la pipette antipuces ou la croquette spéciale prescrite par votre vétérinaire, ou le vaccin d'un troupeau de bovins ou d'un élevage de saumons au Chili, peuvent venir de chez Virbac.",
+  "segments": [
+   {
+    "detail": "Antiparasitaires, vaccins, dermatologie, dentaire, alimentation vétérinaire pour chiens et chats.",
+    "nom": "Animaux de compagnie",
+    "part": 59.3
+   },
+   {
+    "detail": "Produits pour bovins, porcs, volailles et poissons d'élevage (vaccins, antibiotiques, antiparasitaires).",
+    "nom": "Animaux d'élevage",
+    "part": 39.3
+   },
+   {
+    "detail": "Activités annexes.",
+    "nom": "Autres activités",
+    "part": 1.4
+   }
+  ],
+  "siege": "Carros (Alpes-Maritimes), France",
+  "site": "https://corporate.virbac.com",
+  "sources": [
+   "https://corporate.virbac.com/home/news-media/financial-public-releases/pagecontent/tous-les-communiques-financiers/2025-annual-results.html",
+   "https://www.globenewswire.com/news-release/2025/03/13/3042434/0/fr/VIRBAC-R%C3%A9sultats-2024.html",
+   "https://corporate.virbac.com/home/news-media/financial-public-releases/pagecontent/tous-les-communiques-financiers/2023-annual-results.html",
+   "https://corporate.virbac.com/home/news-media/financial-public-releases/pagecontent/tous-les-communiques-financiers/2022-annual-results.html",
+   "https://www.lesoleil.com/communiques-de-presse/2026/09/17/virbac-une-marge-operationnelle2-solide-de-188-portee-par-une-croissance-soutenue-du-chiffre-daffaires-de-74-IV54Z2FJZNADFOVEYDBTXSVLXE/",
+   "https://www.globenewswire.com/fr/news-release/2025/06/19/3102022/0/fr/VIRBAC-Paul-Martingell-nomm%C3%A9-directeur-g%C3%A9n%C3%A9ral-du-groupe-Virbac-au-1er-septembre-2025.html",
+   "https://corporate.virbac.com/home/investors/shareholders-area.html",
+   "https://corporate.virbac.com/fr/home/discover-virbac/history.html",
+   "https://en.wikipedia.org/wiki/Virbac",
+   "https://www.zonebourse.com/cours/action/VIRBAC-5234/finances/",
+   "https://www.zonebourse.com/cours/action/VIRBAC-5234/finances-segments/",
+   "https://www.zonebourse.com/cours/action/VIRBAC-5234/societe/"
+  ],
+  "suivi": {
+   "bilan": "2 conditions sur 3 tiennent nettement (croissance et marge) ; le plus fragile est le manque de visibilité sur la rentabilité de Sasaeah et Mopsan, et une R&D dont le poids recule au S1.",
+   "croire": [
+    {
+     "c": "Que la santé animale, en particulier pour les chiens et chats, continuera de croître plus vite que l'économie, et que Virbac gagnera des parts de marché (objectif 2026 : +5,5 % à +7,5 % à taux et périmètre constants).",
+     "etat": "ok",
+     "preuve": "S1 2026 : +7,4 % à taux et périmètre constants, animaux de compagnie +10,0 %, élevage +6,7 % ; objectif : haut de la fourchette +5,5 % à +7,5 %.",
+     "prochain": "CA T3 le 19/10/2026",
+     "reponse": "Oui : la croissance tient et le groupe vise désormais le haut de sa fourchette, tirée par les chiens et chats.",
+     "source": "https://www.globenewswire.com/news-release/2026/09/17/3364214/0/fr/virbac-une-marge-op%C3%A9rationnelle2-solide-de-18-8-port%C3%A9e-par-une-croissance-soutenue-du-chiffre-d-affaires-de-7-4.html"
+    },
+    {
+     "c": "Que le nouveau directeur général Paul Martingell saura faire monter la marge vers environ 17 % comme annoncé pour 2026.",
+     "etat": "ok",
+     "preuve": "Marge opérationnelle ajustée 18,8 % au S1 2026, objectif annuel confirmé à environ 17 % à taux et périmètre constants.",
+     "prochain": "CA T3 le 19/10/2026",
+     "reponse": "Oui pour l'instant : un an après son arrivée, Paul Martingell confirme l'objectif d'environ 17 % et dit privilégier le moyen et long terme.",
+     "source": "https://fr.investing.com/news/transcripts/transcript-dappel-aux-resultats--virbac-affiche-74-au-s1-2026-93CH-3601561"
+    },
+    {
+     "c": "Que les acquisitions (Sasaeah au Japon, Mopsan en Turquie, Thyronorm) seront bien intégrées et rentabilisées.",
+     "etat": "watch",
+     "preuve": "Thyronorm (racheté 107,8 M€ en décembre 2025) : environ +1 point de croissance attendu en 2026 et +3,7 points sur les plateformes Supercharge au S1.",
+     "prochain": "CA T3 le 19/10/2026",
+     "reponse": "Thyronorm s'intègre plus vite que prévu. Pour Sasaeah (Japon) et Mopsan (Turquie), aucun chiffre récent n'a été publié dans les documents lus, donc on ne peut pas juger leur rentabilité.",
+     "source": "https://www.lesoleil.com/communiques-de-presse/2026/03/17/virbac-resultats-annuels-2025-KB2AFMVCKFB7JMM45BKJ5UD4KU/"
+    }
+   ],
+   "le": "2026-09-29",
+   "questions": [
+    {
+     "etat": "ok",
+     "preuve": "S1 2026 : +7,4 % à taux et périmètre constants, dont Amérique du Nord +10,1 %.",
+     "prochain": "CA T3 le 19/10/2026",
+     "q": "La croissance organique reste-t-elle supérieure à celle du marché, notamment aux États-Unis ?",
+     "reponse": "Oui : selon la direction, Virbac fait mieux que son marché pour le troisième trimestre d'affilée, avec une croissance à deux chiffres aux États-Unis malgré un marché américain des animaux de compagnie qui ralentit.",
+     "source": "https://fr.investing.com/news/transcripts/transcript-dappel-aux-resultats--virbac-affiche-74-au-s1-2026-93CH-3601561"
+    },
+    {
+     "etat": "ok",
+     "preuve": "Marge opérationnelle ajustée : 18,8 % au S1 2026 contre 18,3 % ; 16,3 % en 2025 ; croissance publiée +4,0 % contre +7,4 % à changes constants.",
+     "prochain": "CA T3 le 19/10/2026",
+     "q": "La marge opérationnelle ajustée progresse-t-elle vraiment vers 17 % malgré les effets de change ?",
+     "reponse": "Oui : la marge dépasse déjà l'objectif au S1, le change a pesé mais son effet s'atténue depuis août. L'objectif annuel d'environ 17 % intègre un second semestre toujours moins rentable.",
+     "source": "https://www.globenewswire.com/news-release/2026/09/17/3364214/0/fr/virbac-une-marge-op%C3%A9rationnelle2-solide-de-18-8-port%C3%A9e-par-une-croissance-soutenue-du-chiffre-d-affaires-de-7-4.html"
+    },
+    {
+     "etat": "watch",
+     "preuve": "S1 2026 : frais de R&D en baisse de 0,8 point en pourcentage du CA ; montant exact non lu.",
+     "prochain": "Présentation des résultats annuels 2026 (mars 2027) pour le montant de R&D",
+     "q": "Quelles sont les nouvelles molécules en développement, et le groupe investit-il assez en recherche face aux géants ?",
+     "reponse": "Les nouveautés viennent surtout de partenariats : deux accords de distribution avec option d'achat (Porus-One pour les reins, Vetcare contre les coups de chaleur du chien), lancés en 2027. La R&D a été record en 2025 mais son poids dans le CA a baissé au S1 2026.",
+     "source": "https://www.globenewswire.com/news-release/2026/09/17/3364214/0/fr/virbac-une-marge-op%C3%A9rationnelle2-solide-de-18-8-port%C3%A9e-par-une-croissance-soutenue-du-chiffre-d-affaires-de-7-4.html"
+    }
+   ]
+  },
+  "verifieLe": "2026-09-29"
+ },
+ "src": "https://www.optionfinance.fr/info-financiere-en-continu/d/2026-09-17-virbac-vise-le-haut-de-la-fourchette-de-ses-objectifs.html",
+ "statut": "intacte",
+ "these": "Croissance régulière, vise le haut de sa fourchette 2026.",
+ "ticker": "VIRP",
+ "yahoo": "VIRP.PA",
+ "zb": "https://www.zonebourse.com/cours/action/VIRBAC-5234/"
+}

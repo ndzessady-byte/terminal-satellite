@@ -1,0 +1,1470 @@
+{
+ "analyse": {
+  "aVerifier": "Moyenne mobile 200 jours non confirmée (la page technique Investing lue n'était pas datée et affichait un cours ancien de 56,60 €). RSI 14 calculé par nous en moyenne simple sur les clôtures Investing. Support et résistance issus d'Investtech (analyse partielle, abonnement requis). ROE estimée par calcul. Taux d'intercontrat et effectifs non trouvés. Dates du chiffre d'affaires du 3e trimestre et annuel à confirmer.",
+  "actu": [
+   {
+    "d": "16/09",
+    "fait": "Résultats du 1er semestre 2026 : chiffre d'affaires 351,9 M€ (+30,8 %, +11,4 % en organique), marge opérationnelle 7,5 % (7,2 % un an plus tôt), résultat net 17,2 M€ (+22,9 %). Objectifs 2026 relevés : chiffre d'affaires 695 à 705 M€ (contre 676 à 690 M€) et marge de 9 à 10 % (contre 9 à 9,5 %).",
+    "horizon": "moyen",
+    "impact": "positif",
+    "lecture": "Une croissance organique à deux chiffres dans un secteur qui stagne prouve qu'Aubay gagne des parts de marché ; c'est le cœur de la thèse de long terme."
+   },
+   {
+    "d": "16/09",
+    "fait": "Acompte sur dividende de 0,70 € par action, payable le 10/11/2026.",
+    "horizon": "court",
+    "impact": "positif",
+    "lecture": "Le versement d'un acompte montre la confiance de la direction dans la trésorerie de l'année."
+   },
+   {
+    "d": "18/09",
+    "fait": "Le gouvernement annonce 54 Md€ d'économies pour le budget 2027, l'objectif de déficit à 5 % est repoussé et le taux français à 10 ans monte à 4,55 %.",
+    "horizon": "moyen",
+    "impact": "negatif",
+    "lecture": "La France représente environ 62 % du chiffre d'affaires semestriel (217,2 M€ sur 351,9 M€) : un climat budgétaire tendu peut freiner les projets informatiques des clients français et pèse sur la valorisation des valeurs moyennes."
+   },
+   {
+    "d": "25/09",
+    "fait": "Investtech relève une figure de double sommet et une cassure sous 52,30 €, avec un objectif technique autour de 46,47 €.",
+    "horizon": "court",
+    "impact": "negatif",
+    "lecture": "Le signal est purement boursier : il ne remet pas en cause les résultats, mais peut offrir un meilleur point d'entrée."
+   }
+  ],
+  "cadres": [
+   "Buffett / Fisher (qualité, gestion)",
+   "Lynch (croissance régulière, PEG)",
+   "Graham (solidité du bilan)",
+   "Greenblatt (formule magique)",
+   "Théorie de Dow",
+   "Stades de Weinstein",
+   "Modèle de tendance de Minervini"
+  ],
+  "conviction": "forte",
+  "fonda": {
+   "bilan": "Trésorerie nette de 44,3 M€ fin juin 2026 (hors dette de loyers), après le rachat de Solutec. Le consensus prévoit 70,7 M€ fin 2026. Pas de dette nette : critère de Graham respecté.",
+   "croissance": "Chiffre d'affaires 2025 de 601,6 M€ (+11,4 %) ; 1er semestre 2026 de 351,9 M€ (+30,8 %, dont +11,4 % en organique, le reste venant de l'acquisition de Solutec). Résultat net semestriel 17,2 M€ (+22,9 %) et bénéfice par action 1,36 € (+23,6 %). Objectif 2026 relevé à 695 à 705 M€. Consensus Zonebourse : bénéfice par action de 2,95 € en 2025, 3,73 € en 2026 et 4,10 € en 2027. Au sens de Lynch : une valeur de croissance régulière (stalwart rapide).",
+   "greenblatt": "Rendement des bénéfices d'environ 11 % (résultat opérationnel attendu de 67,4 M€ pour une valeur d'entreprise d'environ 600 M€) et rentabilité des capitaux d'environ 15 % : bon équilibre entre prix et qualité selon la formule magique.",
+   "justif": "Croissance forte et rentable, bilan sain, valorisation raisonnable ; la note est limitée par une marge modeste (autour de 9 à 10 %) et une forte exposition à la France.",
+   "peg": 0.78,
+   "piotroski": null,
+   "qualite": "Marge d'EBITDA stable entre 10 et 12 % depuis 2021 (Zonebourse) et objectif de marge opérationnelle relevé à 9 à 10 % pour 2026. Rentabilité des fonds propres d'environ 15 % (calcul : ratio cours/actif net de 2,0 divisé par un PER de 13,6, données Zonebourse). Aubay gagne des parts de marché dans la banque, l'assurance et l'industrie : au sens de Fisher, une équipe dirigeante disciplinée ; au sens de Buffett, un avantage concurrentiel réel mais étroit, lié à la relation client plus qu'à une technologie propre.",
+   "score": 7,
+   "valo": "Au cours de 51,9 € : PER d'environ 13,9 fois pour 2026 et 12,7 fois pour 2027, valeur d'entreprise sur EBITDA d'environ 7,7 fois pour 2026, rendement du dividende d'environ 2,9 % et rendement du flux de trésorerie disponible de 7,6 % (Zonebourse). Le PER moyen des cinq années 2021 à 2025 est d'environ 18,7 fois (24,2 ; 18,3 ; 16,4 ; 15,4 ; 19,4) : le titre se paie donc nettement moins cher que d'habitude malgré une croissance supérieure."
+  },
+  "majLe": "2026-09-28",
+  "revisions": "Non trouvé ce soir : aucune page de révisions lisible. Objectif moyen des analystes 68,08 € (Boursorama).",
+  "scenarios": [
+   {
+    "bas": 46,
+    "central": 53,
+    "haut": 58,
+    "horizon": "2 mois",
+    "hypotheses": "Catalyseur : chiffre d'affaires du 3e trimestre (fin octobre 2026, date à confirmer). Bas : objectif technique de 46,47 € atteint dans un marché français sous pression. Haut : croissance organique confirmée au-dessus de 10 % et retour au-dessus des moyennes mobiles.",
+    "unite": "€"
+   },
+   {
+    "bas": 44,
+    "central": 60,
+    "haut": 69,
+    "horizon": "12 mois",
+    "hypotheses": "Objectif moyen des 3 analystes suivis par Zonebourse : 68,67 € (fourchette 68 à 70 €). Central : bénéfice par action 2027 d'environ 4,10 € valorisé 14 à 15 fois. Bas : ralentissement en France et PER ramené à 11 fois. Haut : objectifs 2026 atteints en haut de fourchette et PER de 16 à 17 fois.",
+    "unite": "€"
+   },
+   {
+    "bas": 4,
+    "central": 11,
+    "haut": 16,
+    "horizon": "5 ans",
+    "hypotheses": "Central : bénéfice par action +8 %/an (croissance organique de 5 à 7 % plus petites acquisitions), dividende d'environ 3 %, PER stable autour de 13 à 14 fois : 8 + 3 + 0 = environ 11 %. Bas : croissance ramenée à 3 %/an et PER vers 11 fois. Haut : croissance de 10 %/an et PER qui revient vers 16 fois (+3 %/an).",
+    "unite": "%/an"
+   },
+   {
+    "bas": 5,
+    "central": 9,
+    "haut": 12,
+    "horizon": "10-15 ans",
+    "hypotheses": "Sur longue période : croissance des bénéfices de 5 à 8 %/an plus un dividende de 2,5 à 3 %, sans effet de multiple. Bas : l'IA réduit fortement les besoins en prestation informatique. Haut : Aubay continue de gagner des parts de marché en Europe (Italie, Espagne, Benelux).",
+    "unite": "%/an"
+   }
+  ],
+  "sources": [
+   "https://www.abcbourse.com/marches/newsContent/702648",
+   "https://www.finanzwire.fr/article/aubay-epa-aub-les-resultats-semestriels-2026-daubay-affichent-une-croissance-significative-kv2doonfq76",
+   "https://www.zonebourse.com/cours/action/AUBAY-4706/",
+   "https://www.zonebourse.com/cours/action/AUBAY-4706/consensus/",
+   "https://www.zonebourse.com/cours/action/AUBAY-4706/finances/",
+   "https://www.zonebourse.com/cours/action/AUBAY-4706/valorisation/",
+   "https://www.zonebourse.com/cours/action/AUBAY-4706/cotations/",
+   "https://www.investing.com/equities/aubay-historical-data",
+   "https://www.investtech.com/fr/market.php?CompanyID=33504479",
+   "https://www.boursorama.com/bourse/actualites/aubay-porte-par-des-semestriels-solides-2dc54ce553c40394f09ca700aa6e7ccf",
+   "https://www.xtb.com/fr/analyses-marches/dette-francaise-le-spread-oat-bund-franchit-100-points"
+  ],
+  "tech": {
+   "bas52": 40.5,
+   "cours": 51.5,
+   "coursLe": "2026-09-28",
+   "haut52": 61.3,
+   "lecture": "Cours de 51,50 en dessous de sa moyenne 50 jours (54,70) et en dessous de sa moyenne 200 jours (52,38). RSI 43,6 : élan neutre. Il se situe à 53 % de sa fourchette sur un an (de 40,50 à 61,30), performance sur 12 mois de +4,7 %. Moyennes et RSI calculés sur les vraies clôtures (flux GitHub de 15h33).",
+   "mm200": 52.38,
+   "mm50": 54.7,
+   "resistance": 52.3,
+   "rsi14": 43.6,
+   "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json",
+   "stade": 3,
+   "support": 46.47,
+   "tendance": "neutre"
+  },
+  "verdict": "Aubay est l'une des rares sociétés de services informatiques françaises en forte croissance (+11,4 % en organique au 1er semestre 2026), avec des objectifs relevés deux fois, une trésorerie nette et un PER d'environ 14 fois, nettement sous sa moyenne historique. Le principal frein est à court terme : le cours a formé un double sommet et reste sous ses moyennes mobiles, dans un contexte français (budget, taux) qui pèse sur les valeurs moyennes.",
+  "zones": {
+   "catalyseurs": [
+    "Fin octobre 2026 (date à confirmer) : chiffre d'affaires du 3e trimestre.",
+    "10/11/2026 : paiement de l'acompte de 0,70 €.",
+    "Fin janvier 2027 (date à confirmer) : chiffre d'affaires annuel 2026."
+   ],
+   "interet": "Entre 46 et 50 € : environ 12 à 13 fois les bénéfices 2026, zone de l'objectif technique d'Investtech (46,47 €) et du plus bas récent (50,40 €). C'est là que le prix compense le mieux le risque de ralentissement.",
+   "invalidation": "Croissance organique qui repasse sous 3 % sur un trimestre ou objectif annuel revu à la baisse, signe que les gains de parts de marché s'arrêtent.",
+   "sortie": [
+    "Baisse des objectifs annuels ou marge opérationnelle annuelle sous 8,5 %.",
+    "Croissance organique négative deux trimestres de suite.",
+    "PER au-dessus de 20 fois sans accélération de la croissance."
+   ]
+  }
+ },
+ "capi": "647 M€",
+ "cours": 51.5,
+ "coursLe": "2026-09-28",
+ "devise": "€",
+ "faits": [
+  {
+   "d": "16/09",
+   "t": "S1 : CA 351,9 M€ (+30,8 %, dont +11,4 % organique), résultat opérationnel +37,9 %. Objectif 2026 : 695 à 705 M€."
+  }
+ ],
+ "histo": [
+  [
+   "22/09",
+   48.05
+  ],
+  [
+   "23/09",
+   48.2
+  ],
+  [
+   "24/09",
+   48.75
+  ],
+  [
+   "25/09",
+   48.95
+  ],
+  [
+   "26/09",
+   47.85
+  ],
+  [
+   "29/09",
+   47.9
+  ],
+  [
+   "30/09",
+   47.95
+  ],
+  [
+   "01/10",
+   47.2
+  ],
+  [
+   "02/10",
+   49.2
+  ],
+  [
+   "03/10",
+   48.4
+  ],
+  [
+   "06/10",
+   47.75
+  ],
+  [
+   "07/10",
+   47.3
+  ],
+  [
+   "08/10",
+   47
+  ],
+  [
+   "09/10",
+   47.4
+  ],
+  [
+   "10/10",
+   46.2
+  ],
+  [
+   "13/10",
+   46.5
+  ],
+  [
+   "14/10",
+   46
+  ],
+  [
+   "15/10",
+   45.25
+  ],
+  [
+   "16/10",
+   45.1
+  ],
+  [
+   "17/10",
+   45.15
+  ],
+  [
+   "20/10",
+   45.45
+  ],
+  [
+   "21/10",
+   45.4
+  ],
+  [
+   "22/10",
+   45.55
+  ],
+  [
+   "23/10",
+   45.85
+  ],
+  [
+   "24/10",
+   45.95
+  ],
+  [
+   "27/10",
+   45.5
+  ],
+  [
+   "28/10",
+   46.2
+  ],
+  [
+   "29/10",
+   45.3
+  ],
+  [
+   "30/10",
+   49.5
+  ],
+  [
+   "31/10",
+   50
+  ],
+  [
+   "03/11",
+   50.2
+  ],
+  [
+   "04/11",
+   49.8
+  ],
+  [
+   "05/11",
+   48.05
+  ],
+  [
+   "06/11",
+   48.05
+  ],
+  [
+   "07/11",
+   47.7
+  ],
+  [
+   "10/11",
+   48.45
+  ],
+  [
+   "11/11",
+   49.3
+  ],
+  [
+   "12/11",
+   49.65
+  ],
+  [
+   "13/11",
+   50.1
+  ],
+  [
+   "14/11",
+   49.25
+  ],
+  [
+   "17/11",
+   49.4
+  ],
+  [
+   "18/11",
+   48.2
+  ],
+  [
+   "19/11",
+   48.85
+  ],
+  [
+   "20/11",
+   48.55
+  ],
+  [
+   "21/11",
+   49.6
+  ],
+  [
+   "24/11",
+   50.1
+  ],
+  [
+   "25/11",
+   50.1
+  ],
+  [
+   "26/11",
+   50.1
+  ],
+  [
+   "27/11",
+   50.4
+  ],
+  [
+   "28/11",
+   50.9
+  ],
+  [
+   "01/12",
+   51.5
+  ],
+  [
+   "02/12",
+   51.4
+  ],
+  [
+   "03/12",
+   52
+  ],
+  [
+   "04/12",
+   52.6
+  ],
+  [
+   "05/12",
+   52.7
+  ],
+  [
+   "08/12",
+   52.6
+  ],
+  [
+   "09/12",
+   52.9
+  ],
+  [
+   "10/12",
+   53
+  ],
+  [
+   "11/12",
+   54
+  ],
+  [
+   "12/12",
+   54.5
+  ],
+  [
+   "15/12",
+   55.4
+  ],
+  [
+   "16/12",
+   56.3
+  ],
+  [
+   "17/12",
+   55
+  ],
+  [
+   "18/12",
+   54.3
+  ],
+  [
+   "19/12",
+   54.5
+  ],
+  [
+   "22/12",
+   54.9
+  ],
+  [
+   "23/12",
+   55.2
+  ],
+  [
+   "24/12",
+   55.8
+  ],
+  [
+   "29/12",
+   56
+  ],
+  [
+   "30/12",
+   56.5
+  ],
+  [
+   "31/12",
+   57.1
+  ],
+  [
+   "02/01",
+   56
+  ],
+  [
+   "05/01",
+   56.2
+  ],
+  [
+   "06/01",
+   56
+  ],
+  [
+   "07/01",
+   56.3
+  ],
+  [
+   "08/01",
+   56
+  ],
+  [
+   "09/01",
+   58
+  ],
+  [
+   "12/01",
+   58.8
+  ],
+  [
+   "13/01",
+   58.9
+  ],
+  [
+   "14/01",
+   59
+  ],
+  [
+   "15/01",
+   59.2
+  ],
+  [
+   "16/01",
+   58.9
+  ],
+  [
+   "19/01",
+   58.5
+  ],
+  [
+   "20/01",
+   56
+  ],
+  [
+   "21/01",
+   56.7
+  ],
+  [
+   "22/01",
+   58.5
+  ],
+  [
+   "23/01",
+   58.5
+  ],
+  [
+   "26/01",
+   57.8
+  ],
+  [
+   "27/01",
+   57.6
+  ],
+  [
+   "28/01",
+   57.7
+  ],
+  [
+   "29/01",
+   59.9
+  ],
+  [
+   "30/01",
+   59.9
+  ],
+  [
+   "02/02",
+   61.3
+  ],
+  [
+   "03/02",
+   59.1
+  ],
+  [
+   "04/02",
+   55.6
+  ],
+  [
+   "05/02",
+   54.5
+  ],
+  [
+   "06/02",
+   53.8
+  ],
+  [
+   "09/02",
+   53.8
+  ],
+  [
+   "10/02",
+   53.9
+  ],
+  [
+   "11/02",
+   50.4
+  ],
+  [
+   "12/02",
+   49.5
+  ],
+  [
+   "13/02",
+   49.15
+  ],
+  [
+   "16/02",
+   48.1
+  ],
+  [
+   "17/02",
+   47.7
+  ],
+  [
+   "18/02",
+   47.5
+  ],
+  [
+   "19/02",
+   46.85
+  ],
+  [
+   "20/02",
+   46.8
+  ],
+  [
+   "23/02",
+   44.5
+  ],
+  [
+   "24/02",
+   43.5
+  ],
+  [
+   "25/02",
+   44.25
+  ],
+  [
+   "26/02",
+   45.75
+  ],
+  [
+   "27/02",
+   45.5
+  ],
+  [
+   "02/03",
+   44.55
+  ],
+  [
+   "03/03",
+   44.4
+  ],
+  [
+   "04/03",
+   45.05
+  ],
+  [
+   "05/03",
+   45.7
+  ],
+  [
+   "06/03",
+   46.2
+  ],
+  [
+   "09/03",
+   44.7
+  ],
+  [
+   "10/03",
+   43.95
+  ],
+  [
+   "11/03",
+   43.65
+  ],
+  [
+   "12/03",
+   43.3
+  ],
+  [
+   "13/03",
+   42.55
+  ],
+  [
+   "16/03",
+   41.5
+  ],
+  [
+   "17/03",
+   41.15
+  ],
+  [
+   "18/03",
+   42
+  ],
+  [
+   "19/03",
+   43.3
+  ],
+  [
+   "20/03",
+   41.6
+  ],
+  [
+   "23/03",
+   42.3
+  ],
+  [
+   "24/03",
+   41
+  ],
+  [
+   "25/03",
+   40.85
+  ],
+  [
+   "26/03",
+   40.9
+  ],
+  [
+   "27/03",
+   41.2
+  ],
+  [
+   "30/03",
+   40.5
+  ],
+  [
+   "31/03",
+   41.5
+  ],
+  [
+   "01/04",
+   44.15
+  ],
+  [
+   "02/04",
+   43.95
+  ],
+  [
+   "07/04",
+   44.3
+  ],
+  [
+   "08/04",
+   45.55
+  ],
+  [
+   "09/04",
+   43.3
+  ],
+  [
+   "10/04",
+   43.95
+  ],
+  [
+   "13/04",
+   44.55
+  ],
+  [
+   "14/04",
+   45.7
+  ],
+  [
+   "15/04",
+   46.35
+  ],
+  [
+   "16/04",
+   46.8
+  ],
+  [
+   "17/04",
+   48.1
+  ],
+  [
+   "20/04",
+   48.2
+  ],
+  [
+   "21/04",
+   48.6
+  ],
+  [
+   "22/04",
+   48.3
+  ],
+  [
+   "23/04",
+   47.3
+  ],
+  [
+   "24/04",
+   46.75
+  ],
+  [
+   "27/04",
+   46.85
+  ],
+  [
+   "28/04",
+   46.9
+  ],
+  [
+   "29/04",
+   48.25
+  ],
+  [
+   "30/04",
+   49.8
+  ],
+  [
+   "04/05",
+   50.3
+  ],
+  [
+   "05/05",
+   51.4
+  ],
+  [
+   "06/05",
+   51.9
+  ],
+  [
+   "07/05",
+   52.5
+  ],
+  [
+   "08/05",
+   52.3
+  ],
+  [
+   "11/05",
+   52
+  ],
+  [
+   "12/05",
+   51.7
+  ],
+  [
+   "13/05",
+   51.9
+  ],
+  [
+   "14/05",
+   52
+  ],
+  [
+   "15/05",
+   51.2
+  ],
+  [
+   "18/05",
+   51.1
+  ],
+  [
+   "19/05",
+   52.3
+  ],
+  [
+   "20/05",
+   52.8
+  ],
+  [
+   "21/05",
+   52.7
+  ],
+  [
+   "22/05",
+   53.5
+  ],
+  [
+   "25/05",
+   53.4
+  ],
+  [
+   "26/05",
+   53
+  ],
+  [
+   "27/05",
+   52.4
+  ],
+  [
+   "28/05",
+   52.5
+  ],
+  [
+   "29/05",
+   54.2
+  ],
+  [
+   "01/06",
+   55.3
+  ],
+  [
+   "02/06",
+   55.1
+  ],
+  [
+   "03/06",
+   55.1
+  ],
+  [
+   "04/06",
+   56.7
+  ],
+  [
+   "05/06",
+   55.9
+  ],
+  [
+   "08/06",
+   56.8
+  ],
+  [
+   "09/06",
+   57
+  ],
+  [
+   "10/06",
+   55.7
+  ],
+  [
+   "11/06",
+   56.2
+  ],
+  [
+   "12/06",
+   56.8
+  ],
+  [
+   "15/06",
+   57.2
+  ],
+  [
+   "16/06",
+   58.4
+  ],
+  [
+   "17/06",
+   58.2
+  ],
+  [
+   "18/06",
+   56.7
+  ],
+  [
+   "19/06",
+   57.4
+  ],
+  [
+   "22/06",
+   55.7
+  ],
+  [
+   "23/06",
+   55.4
+  ],
+  [
+   "24/06",
+   55.6
+  ],
+  [
+   "25/06",
+   55.2
+  ],
+  [
+   "26/06",
+   54.8
+  ],
+  [
+   "29/06",
+   55.5
+  ],
+  [
+   "30/06",
+   54.9
+  ],
+  [
+   "01/07",
+   55.8
+  ],
+  [
+   "02/07",
+   55.2
+  ],
+  [
+   "03/07",
+   55.8
+  ],
+  [
+   "06/07",
+   55.6
+  ],
+  [
+   "07/07",
+   55.5
+  ],
+  [
+   "08/07",
+   53.9
+  ],
+  [
+   "09/07",
+   54.8
+  ],
+  [
+   "10/07",
+   53.6
+  ],
+  [
+   "13/07",
+   53.8
+  ],
+  [
+   "14/07",
+   54.5
+  ],
+  [
+   "15/07",
+   54.9
+  ],
+  [
+   "16/07",
+   53.8
+  ],
+  [
+   "17/07",
+   53.4
+  ],
+  [
+   "20/07",
+   54.1
+  ],
+  [
+   "21/07",
+   53
+  ],
+  [
+   "22/07",
+   53.2
+  ],
+  [
+   "23/07",
+   52.3
+  ],
+  [
+   "24/07",
+   54.9
+  ],
+  [
+   "27/07",
+   55.8
+  ],
+  [
+   "28/07",
+   57.5
+  ],
+  [
+   "29/07",
+   59
+  ],
+  [
+   "30/07",
+   56.6
+  ],
+  [
+   "31/07",
+   55.2
+  ],
+  [
+   "03/08",
+   55.6
+  ],
+  [
+   "04/08",
+   55.9
+  ],
+  [
+   "05/08",
+   56.8
+  ],
+  [
+   "06/08",
+   56.8
+  ],
+  [
+   "07/08",
+   56.8
+  ],
+  [
+   "10/08",
+   56.8
+  ],
+  [
+   "11/08",
+   57.2
+  ],
+  [
+   "12/08",
+   56.5
+  ],
+  [
+   "13/08",
+   57.2
+  ],
+  [
+   "14/08",
+   57.4
+  ],
+  [
+   "17/08",
+   57
+  ],
+  [
+   "18/08",
+   55.7
+  ],
+  [
+   "19/08",
+   56.8
+  ],
+  [
+   "20/08",
+   56.9
+  ],
+  [
+   "21/08",
+   56.8
+  ],
+  [
+   "24/08",
+   56.6
+  ],
+  [
+   "25/08",
+   56.6
+  ],
+  [
+   "26/08",
+   54.5
+  ],
+  [
+   "27/08",
+   56.5
+  ],
+  [
+   "28/08",
+   56.1
+  ],
+  [
+   "31/08",
+   54.9
+  ],
+  [
+   "01/09",
+   54.9
+  ],
+  [
+   "02/09",
+   54.1
+  ],
+  [
+   "03/09",
+   55.7
+  ],
+  [
+   "04/09",
+   54
+  ],
+  [
+   "07/09",
+   54.2
+  ],
+  [
+   "08/09",
+   53.5
+  ],
+  [
+   "09/09",
+   52.4
+  ],
+  [
+   "10/09",
+   52.4
+  ],
+  [
+   "11/09",
+   52.7
+  ],
+  [
+   "14/09",
+   52.3
+  ],
+  [
+   "15/09",
+   53.4
+  ],
+  [
+   "16/09",
+   53.5
+  ],
+  [
+   "17/09",
+   49.35
+  ],
+  [
+   "18/09",
+   51.2
+  ],
+  [
+   "21/09",
+   52.5
+  ],
+  [
+   "22/09",
+   51.9
+  ],
+  [
+   "23/09",
+   51.3
+  ],
+  [
+   "24/09",
+   50.4
+  ],
+  [
+   "25/09",
+   50.8
+  ],
+  [
+   "28/09",
+   51.5
+  ]
+ ],
+ "nom": "Aubay",
+ "notes": "Clôture du 28/09 non confirmée sur le web : cours du flux GitHub relevé à 15h33 (51,50), à remplacer par la vraie clôture au prochain flux. Dernier cours web 51,70 € (+1,77 %) à 12h49. Aucune nouvelle depuis le 16/09. CA T3 le 28/10.",
+ "pays": "FR",
+ "per26": 13.6,
+ "per27": 12.4,
+ "perf": {
+  "m1": -8.2,
+  "m12": 4.7,
+  "m3": -7.7
+ },
+ "pub": "2026-10-28",
+ "pubLabel": "CA du T3",
+ "risque": "Ralentissement des budgets IT des banques.",
+ "secteur": "ESN (services informatiques)",
+ "societe": {
+  "aVerifier": "Vérifié le 29/09/2026 : CA, marge opérationnelle d'activité, résultat net part du groupe, trésorerie nette (hors dettes de loyers) et dividendes 2021-2025 confirmés par les communiqués annuels (2021 : 1,10 €, 2022 et 2023 : 1,20 €, 2024 : 1,30 €, 2025 : 1,40 €). Solutec : 66,7 M€ décaissés. Effectif 9 049 fin 2025 (9 406 au 30/06/2026). 2026e = milieux des objectifs relevés en septembre 2026, pas un consensus ; dividende 2026e 1,50 € = estimation Zonebourse ; acompte de 0,70 € le 10/11/2026. Répartition sectorielle non recoupée pour 2025 (la présentation 2024 d'Aubay donne : banque 39 %, assurance 19 %, télécoms 14 %, services/utilities 13 %, industrie/transport 7 %, public 6 %, distribution 2 %). Répartition géographique 2025 non recoupée (France 48 % en 2024, puis +23,9 % en 2025 avec Solutec). Concurrents non sourcés.",
+  "actionnariat": "Les fondateurs et dirigeants détiennent environ 44 % du capital (Philippe Rabasse 14,5 %, Christophe Andrieux 7,8 %, puis plusieurs dirigeants et familles entre 2 et 4 % chacun) ; environ 56 % est en bourse (situation au 31/12/2025), avec notamment Amiral Gestion.",
+  "avantage": "Une spécialisation forte dans la banque et l'assurance, des relations de long terme avec de grands clients et une gestion très disciplinée avec une trésorerie nette positive. Ce qui pourrait l'éroder : l'IA générative qui réduit le besoin de développeurs, la pression sur les prix des acheteurs et un ralentissement des budgets bancaires.",
+  "chiffres": [
+   {
+    "annee": "2021",
+    "ca": 470.6,
+    "detteNette": -74.8,
+    "dividende": 1.1,
+    "margeOp": 10.6,
+    "rn": 34.4
+   },
+   {
+    "annee": "2022",
+    "ca": 513.5,
+    "detteNette": -83.4,
+    "dividende": 1.2,
+    "margeOp": 10.4,
+    "rn": 35.6
+   },
+   {
+    "annee": "2023",
+    "ca": 534.1,
+    "detteNette": -93,
+    "dividende": 1.2,
+    "margeOp": 8.9,
+    "rn": 33.4
+   },
+   {
+    "annee": "2024",
+    "ca": 540.3,
+    "detteNette": -112,
+    "dividende": 1.3,
+    "margeOp": 9.2,
+    "rn": 37.6
+   },
+   {
+    "annee": "2025",
+    "ca": 601.6,
+    "detteNette": -56.2,
+    "dividende": 1.4,
+    "margeOp": 9.1,
+    "rn": 38.1
+   },
+   {
+    "annee": "2026e",
+    "ca": 700,
+    "detteNette": null,
+    "dividende": 1.5,
+    "margeOp": 9.5,
+    "rn": null
+   }
+  ],
+  "clients": "De grands comptes, surtout banques et assureurs européens (plus de la moitié de l'activité), ce qui crée une dépendance sectorielle à la finance.",
+  "concurrents": [
+   "Sopra Steria",
+   "Capgemini",
+   "Accenture",
+   "Inetum",
+   "Devoteam",
+   "SII",
+   "Neurones"
+  ],
+  "corrections": [
+   "2026e : objectifs relevés au S1 2026 (CA 695-705 M€, marge 9-10 %, au lieu de 676-690 M€ et 9-9,5 %) -> ca 683 -> 700, margeOp 9.25 -> 9.5 (milieux de fourchette).",
+   "Dirigeants : ERREUR MAJEURE corrigée. Depuis l'AG du 12/05/2026, Philippe Rabasse devient président (à la place de Christian Aubert, resté administrateur) et la direction générale passe à David Fuks (DG) et Vincent Gauthier (DG délégué).",
+   "Actionnariat : Rabasse 14,53 % et Andrieux 7,77 % et flottant 56,30 % confirmés (page actionnariat Aubay au 31/12/2025) ; détail Aubert/Cornette et Amiral Gestion 7,5 % non reconfirmés, retirés des chiffres."
+  ],
+  "croire": [
+   "Que les banques et assureurs européens continuent d'investir dans leurs systèmes informatiques malgré l'IA.",
+   "Que Solutec et les futures acquisitions apportent de la croissance sans dégrader la marge d'environ 9 %.",
+   "Que l'équipe dirigeante actionnaire garde sa discipline financière (trésorerie nette, dividende croissant)."
+  ],
+  "devise": "€",
+  "dirigeants": [
+   {
+    "depuis": "2026",
+    "nom": "David Fuks",
+    "role": "Directeur général"
+   },
+   {
+    "depuis": "2026",
+    "nom": "Vincent Gauthier",
+    "role": "Directeur général délégué et administrateur (cofondateur)"
+   },
+   {
+    "depuis": "2026",
+    "nom": "Philippe Rabasse",
+    "role": "Président du conseil d'administration (ex-directeur général, premier actionnaire)"
+   },
+   {
+    "depuis": "1997",
+    "nom": "Christian Aubert",
+    "role": "Fondateur, administrateur (ex-président)"
+   }
+  ],
+  "effectifs": 9049,
+  "fondee": 1997,
+  "geo": [
+   {
+    "part": 58.3,
+    "zone": "France et Royaume-Uni"
+   },
+   {
+    "part": 21,
+    "zone": "Espagne et Portugal"
+   },
+   {
+    "part": 17.6,
+    "zone": "Italie"
+   },
+   {
+    "part": 3.1,
+    "zone": "Benelux et autres"
+   }
+  ],
+  "histoire": [
+   {
+    "annee": 1997,
+    "fait": "Christian Aubert crée Aubay Technology et rachète MGL en France, puis des sociétés en Belgique et en Espagne."
+   },
+   {
+    "annee": 1998,
+    "fait": "Introduction en bourse sur le marché hors cote, puis passage au Second Marché de Paris en 1999."
+   },
+   {
+    "annee": 2000,
+    "fait": "Le groupe prend le nom Aubay et s'implante en Italie et au Benelux par rachats."
+   },
+   {
+    "annee": 2013,
+    "fait": "Rachat d'Aedian en France et de Blue Soft Consulting en Italie."
+   },
+   {
+    "annee": 2015,
+    "fait": "Rachat de CastInfo en Espagne après Norma4, renforcement dans la péninsule ibérique."
+   },
+   {
+    "annee": 2019,
+    "fait": "Rachat de Quantic en France."
+   },
+   {
+    "annee": 2025,
+    "fait": "Rachat de Solutec (environ 67 M€ investis) ; le chiffre d'affaires dépasse 600 M€ avec un résultat net record."
+   },
+   {
+    "annee": 2026,
+    "fait": "Passage de relais à l'assemblée générale de mai : Philippe Rabasse devient président, David Fuks directeur général et Vincent Gauthier directeur général délégué ; objectifs annuels relevés en septembre (CA 695 à 705 M€)."
+   }
+  ],
+  "modele": "Aubay facture principalement le temps de ses ingénieurs (régie au jour ou forfaits par projet). Les clients sont fidèles et les contrats se renouvellent souvent, ce qui rend le chiffre d'affaires assez récurrent, mais il dépend du taux d'occupation des équipes et des budgets informatiques des banques et assureurs. Le pouvoir de prix est limité car le secteur est très concurrentiel ; la rentabilité vient surtout d'une gestion rigoureuse.",
+  "questions": [
+   "La croissance organique (seulement +1,2 % en 2025) repart-elle, notamment à l'international ?",
+   "L'IA générative réduit-elle le nombre de jours facturés par projet, ou Aubay arrive-t-il à la vendre comme nouveau service ?",
+   "Quelle est la dépendance aux cinq ou dix premiers clients bancaires ?"
+  ],
+  "resume": "Aubay est une entreprise de services du numérique (ESN) : elle met à disposition des ingénieurs et consultants informatiques qui développent, testent et maintiennent les logiciels de grandes entreprises. Par exemple, quand votre banque fait évoluer son application ou que votre assureur modernise son système de gestion des contrats, des équipes d'Aubay peuvent travailler sur le projet. Le groupe est présent dans sept pays européens.",
+  "segments": [
+   {
+    "detail": "Projets informatiques des banques, premier client du groupe.",
+    "nom": "Banque",
+    "part": 39.6
+   },
+   {
+    "detail": "Systèmes de gestion des assureurs et mutuelles.",
+    "nom": "Assurance",
+    "part": 18.1
+   },
+   {
+    "detail": "Entreprises de services et acteurs de la santé.",
+    "nom": "Services et santé",
+    "part": 13.8
+   },
+   {
+    "detail": "Opérateurs télécoms et groupes de médias.",
+    "nom": "Télécoms et médias",
+    "part": 12.1
+   },
+   {
+    "detail": "Reste du portefeuille, non détaillé dans la source lue.",
+    "nom": "Autres secteurs (industrie, énergie, public...)",
+    "part": 16.4
+   }
+  ],
+  "siege": "Boulogne-Billancourt, France",
+  "site": "https://aubay.com",
+  "sources": [
+   "https://www.abcbourse.com/marches/aubay-depasse-ses-objectifs-en-2025-avec-un-resultat-net-record_692479",
+   "https://www.zonebourse.com/cours/action/AUBAY-4706/actualite/Aubay-Resultats-annuels-2022-Objectifs-pleinement-realises-Marge-Operationnelle-d-Ac-43313021/",
+   "https://www.boursorama.com/bourse/actualites/aubay-resultats-annuels-2023-marge-operationnelle-d-activite-8-9-resultat-net-part-du-groupe-33-4-m-eur-tresorerie-nette-record-93-m-eur-dividende-maintenu-a-1-20-eur-par-action-8919ed7dcb2208363d2f88e3a9296048",
+   "https://www.boursorama.com/bourse/actualites/aubay-resultats-annuels-2024-marge-operationnelle-d-activite-9-2-resultat-net-part-du-groupe-record-37-6-m-eur-12-7-tresorerie-nette-record-112-m-eur-dividende-en-hausse-a-1-30-eur-par-action-c549af2d279b661c76fc6008ad6eb700",
+   "https://www.boursorama.com/bourse/actualites/aubay-resultats-annuels-2021-croissance-rentabilite-et-generation-de-tresorerie-en-forte-hausse-marge-operationnelle-d-activite-10-6-resultat-net-part-du-groupe-34-4-m-eur-tresorerie-nette-74-8-m-eur-3873b8533fd98b2b3e08efb417fc83cc",
+   "https://www.zonebourse.com/cours/action/AUBAY-4706/societe/",
+   "https://www.zonebourse.com/cours/action/AUBAY-4706/valorisation-dividende/",
+   "https://aubay.com/en/investors/1-shareholding/",
+   "https://fr.wikipedia.org/wiki/Aubay",
+   "https://www.boursorama.com/cours/societe/chiffres-cles/1rPAUB/",
+   "https://www.webdisclosure.fr/press-release/aubay-epa-aub-resultats-annuels-2025-annee-record-et-depassement-de-lensemble-des-objectifs-R8tqfEPLPGR",
+   "https://www.webdisclosure.fr/press-release/aubay-epa-aub-resultats-du-1er-semestre-2026-croissance-308-114-en-organique-amelioration-des-marges-operationnelles-relevement-confirme-des-objectifs-2026-Ol7hu90HdZu",
+   "https://www.abcbourse.com/marches/aubay-valide-un-dividende-de-1-40-et-acte-un-changement-de-gouvernance_696746",
+   "https://aubay.com/en/investors/3-governance/",
+   "https://www.zonebourse.com/cours/action/AUBAY-4706/actualite/Aubay-Resultats-annuels-2021-Croissance-rentabilite-et-generation-de-tresorerie-en-forte-ha-39844337/",
+   "https://aubay.com/wp-content/uploads/2025/03/Presentation-SFAF-2024-VDEF-1.pdf"
+  ],
+  "suivi": {
+   "bilan": "Les 3 conditions tiennent ; le plus fragile est l'inconnue sur l'effet de l'IA sur les jours facturés, jamais chiffré, et la concentration sur quelques grands clients bancaires.",
+   "croire": [
+    {
+     "c": "Que les banques et assureurs européens continuent d'investir dans leurs systèmes informatiques malgré l'IA.",
+     "etat": "ok",
+     "preuve": "S1 2026 : CA 351,9 M€ (+11,4 % en organique) ; objectif 2026 relevé à 695 à 705 M€.",
+     "prochain": "CA du T3 le 28/10/2026",
+     "reponse": "Oui pour l'instant : l'activité commerciale est soutenue et Aubay gagne des parts chez des clients qui réduisent leur nombre de prestataires, notamment dans les services financiers.",
+     "source": "https://www.abcbourse.com/marches/newsContent/700252"
+    },
+    {
+     "c": "Que Solutec et les futures acquisitions apportent de la croissance sans dégrader la marge d'environ 9 %.",
+     "etat": "ok",
+     "preuve": "S1 2026 : marge opérationnelle d'activité 7,5 % contre 7,2 % (France 6,9 %, international 8,6 %) ; objectif 2026 relevé à 9 à 10 % (contre 9 à 9,5 %).",
+     "prochain": "Résultats annuels 2026 (mars 2027)",
+     "reponse": "Oui : avec Solutec, la marge progresse au lieu de baisser, et l'objectif annuel de marge a été relevé. La France, où Solutec est intégré, reste un peu sous la moyenne du groupe.",
+     "source": "https://www.webdisclosure.fr/press-release/aubay-epa-aub-resultats-du-1er-semestre-2026-croissance-308-114-en-organique-amelioration-des-marges-operationnelles-relevement-confirme-des-objectifs-2026-Ol7hu90HdZu"
+    },
+    {
+     "c": "Que l'équipe dirigeante actionnaire garde sa discipline financière (trésorerie nette, dividende croissant).",
+     "etat": "ok",
+     "preuve": "30/06/2026 : trésorerie nette de 44,3 M€ (hors loyers) ; acompte de 0,70 € par action le 10/11/2026 ; dividende 2025 de 1,40 € (1,30 € en 2024).",
+     "prochain": "Versement de l'acompte le 10/11/2026",
+     "reponse": "Oui : la trésorerie reste nette positive après le rachat de Solutec, et un acompte sur dividende est versé. La nouvelle direction (David Fuks directeur général depuis mai 2026, Philippe Rabasse président) garde les mêmes principes.",
+     "source": "https://www.webdisclosure.fr/press-release/aubay-epa-aub-resultats-du-1er-semestre-2026-croissance-308-114-en-organique-amelioration-des-marges-operationnelles-relevement-confirme-des-objectifs-2026-Ol7hu90HdZu"
+    }
+   ],
+   "le": "2026-09-29",
+   "questions": [
+    {
+     "etat": "ok",
+     "preuve": "S1 2026 : +11,4 % en organique (France +12,8 %, international +9,7 %) ; T2 : international +12,0 % en organique.",
+     "prochain": "CA du T3 le 28/10/2026",
+     "q": "La croissance organique (seulement +1,2 % en 2025) repart-elle, notamment à l'international ?",
+     "reponse": "Oui, nettement : la croissance hors acquisitions est passée de +1,2 % en 2025 à plus de 11 %, et l'international accélère (Italie et péninsule ibérique).",
+     "source": "https://www.abcbourse.com/marches/newsContent/700252"
+    },
+    {
+     "etat": "nc",
+     "preuve": "T2 2026 : taux d'occupation stable à 93,1 % ; aucune donnée publiée sur l'IA dans les résultats du S1 2026.",
+     "prochain": "Résultats annuels 2026 (mars 2027)",
+     "q": "L'IA générative réduit-elle le nombre de jours facturés par projet, ou Aubay arrive-t-il à la vendre comme nouveau service ?",
+     "reponse": "Pas de réponse chiffrée : Aubay décrit une offre d'accompagnement à l'IA (conseil, prototypes, chatbots) mais ne publie ni le poids de cette offre ni son effet sur les jours facturés. Indice indirect favorable : le taux d'occupation reste élevé et les prix sont « bien orientés ».",
+     "source": "https://www.abcbourse.com/marches/newsContent/700252"
+    },
+    {
+     "etat": "watch",
+     "preuve": "Document d'enregistrement universel 2025 : les 15 premiers clients représentent 55 % du chiffre d'affaires.",
+     "prochain": "Document d'enregistrement universel 2026 (avril 2027)",
+     "q": "Quelle est la dépendance aux cinq ou dix premiers clients bancaires ?",
+     "reponse": "La dépendance est réelle : les 15 premiers clients font plus de la moitié du chiffre d'affaires, et le poids des 5 ou 10 premiers n'est pas publié. Ce sont des clients historiques, souvent depuis plus de 25 ans.",
+     "source": "https://aubay.com/wp-content/uploads/2026/04/URD_Aubay_2025_Assemblage_OPTI.pdf"
+    }
+   ]
+  },
+  "verifieLe": "2026-09-29"
+ },
+ "src": "https://www.boursorama.com/bourse/actualites/aubay-resultats-du-1er-semestre-2026-croissance-30-8-11-4-en-organique-amelioration-des-marges-operationnelles-relevement-confirme-des-objectifs-2026-f512a8114ca83765268c01f7e759255d",
+ "statut": "intacte",
+ "these": "Croissance organique de +11,4 % au S1, objectifs relevés.",
+ "ticker": "AUB",
+ "yahoo": "AUB.PA",
+ "zb": "https://www.zonebourse.com/cours/action/AUBAY-4706/"
+}

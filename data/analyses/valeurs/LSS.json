@@ -1,0 +1,1460 @@
+{
+ "analyse": {
+  "aVerifier": "Capitalisation : 782 M€ selon Zonebourse (cours 21 €) contre 903 M€ dans la fiche d'origine. Plus bas sur 52 semaines de 15,02 € lu sur Investing.com et Zonebourse sans date précise. ROE calculé à partir des chiffres publiés, non donné par une source. Couverture des intérêts, PER moyen sur 5 ans, comparaison avec les pairs et Piotroski non trouvés. Détail de la sortie d'Apogy lu uniquement dans les titres Zonebourse.",
+  "actu": [
+   {
+    "d": "30/07",
+    "fait": "S1 2026 : CA 239,6 M€ (-6 % comparable), mais T2 stable et marge d'EBITDA du T2 à 17,1 %. SaaS +14 %. Objectifs 2026-2028 confirmés.",
+    "horizon": "moyen",
+    "impact": "neutre",
+    "lecture": "Le creux des ventes d'équipements semble passé, mais la preuve d'une vraie reprise reste à apporter."
+   },
+   {
+    "d": "01/09",
+    "fait": "Le mandat de rachat d'actions confié à Natixis passe de 20 à 25 M€.",
+    "horizon": "court",
+    "impact": "positif",
+    "lecture": "La direction juge son action peu chère et réduit le nombre d'actions, ce qui soutient le BPA."
+   },
+   {
+    "d": "15/09",
+    "fait": "Lancement d'Apogy, première offre de Lectra basée sur l'IA agentique pour le développement de produits de mode.",
+    "horizon": "long",
+    "impact": "positif",
+    "lecture": "L'IA peut renforcer l'offre logicielle, mais c'est aussi un terrain où les concurrents avancent vite."
+   },
+   {
+    "d": "10/09",
+    "fait": "La BCE relève ses taux pour la deuxième fois de l'année.",
+    "horizon": "moyen",
+    "impact": "negatif",
+    "lecture": "Des taux plus hauts pèsent sur les investissements industriels des clients et sur les multiples élevés comme celui de Lectra."
+   }
+  ],
+  "cadres": [
+   "Buffett (rentabilité)",
+   "Fisher (qualité du modèle récurrent)",
+   "Lynch (PEG)",
+   "Graham (bilan)",
+   "Greenblatt (formule magique)",
+   "Théorie de Dow",
+   "Stades de Weinstein",
+   "Minervini (gabarit de tendance)"
+  ],
+  "conviction": "faible",
+  "fonda": {
+   "bilan": "Dette nette de 64,3 M€ au 30/06/2026, soit moins d'une fois l'EBITDA 2026 attendu (76 M€ selon Zonebourse) : bilan sain au sens de Graham. Cash-flow libre du S1 de 24,5 M€, qui a financé 13,3 M€ de dividende, 13,6 M€ de rachats d'actions et 8 M€ de remboursement de dette. Couverture des intérêts non trouvée.",
+   "croissance": "CA 2025 de 506,7 M€ après 526,7 M€ en 2024. CA S1 2026 de 239,6 M€, -6 % à données comparables (T1 -11 %, T2 +1 %). ARR SaaS de 102,6 M€ (+5 % depuis fin 2025). Objectifs 2026-2028 confirmés : ARR SaaS environ +15 %/an, revenus récurrents +5 à +8 %/an, marge d'EBITDA +120 à +180 points de base par an. Consensus Boursorama : BPA 0,70 € en 2025, 0,75 € en 2026 (+7 %), 0,95 € en 2027 (+26 %). PEG d'environ 1,1 sur le rebond 2027, beaucoup plus élevé si la croissance reste à un chiffre.",
+   "greenblatt": "Rendement bénéficiaire faible d'environ 3,3 % (1/PER 2026) et rentabilité des capitaux proche de 8 % : Lectra ne ressort pas dans une logique de formule magique aujourd'hui.",
+   "justif": "Modèle de plus en plus récurrent et dette maîtrisée, mais rentabilité des capitaux faible, croissance en panne en 2026 et valorisation élevée.",
+   "peg": 1.1,
+   "piotroski": null,
+   "qualite": "Rentabilité des capitaux propres d'environ 8 % (calcul : bénéfice net 2025 d'environ 26 M€ rapporté à 340 M€ de capitaux propres au 30/06/2026), donc sous le seuil de 15 % recherché par Buffett. Marge d'EBITDA courante de 14 % au S1 2026 (17,1 % au T2 contre 15,2 % un an plus tôt). Revenus récurrents : 79 % du total. Position solide de leader dans les logiciels et machines de découpe pour la mode, l'auto et l'ameublement, mais activité équipements très cyclique.",
+   "score": 5,
+   "valo": "PER 30 fois 2026 et 23,1 fois 2027, VE/CA 1,69 fois 2026, rendement 1,7 % (Zonebourse, 24/09). VE/EBITDA 2026 d'environ 11 fois (calcul : VE 838 M€ / EBITDA 76 M€). PER moyen sur 5 ans et comparaison chiffrée avec les pairs non trouvés. Consensus Boursorama : 5 analystes, objectif médian 23,90 €, soit environ 12 % au-dessus du cours."
+  },
+  "majLe": "2026-09-28",
+  "revisions": "Stables sur 1 et 3 mois : BPA attendu 0,75 € en 2026 et 0,95 € en 2027 (Boursorama, lecture à confirmer).",
+  "scenarios": [
+   {
+    "bas": 19.5,
+    "central": 21.5,
+    "haut": 23.5,
+    "horizon": "2 mois",
+    "hypotheses": "Catalyseur principal : résultats du T3 le 28/10. Bas : nouvelle baisse des équipements, cassure de 20,5 €. Haut : confirmation de la reprise et test de la résistance de 23,4 €.",
+    "unite": "€"
+   },
+   {
+    "bas": 17,
+    "central": 23,
+    "haut": 26.5,
+    "horizon": "12 mois",
+    "hypotheses": "Central : BPA 2027 proche de 0,95 € et PER vers 24 fois, en ligne avec l'objectif médian de 23,90 €. Haut : marge d'EBITDA en forte hausse, retour au plus haut annuel. Bas : croissance du SaaS qui ralentit sous 10 %, PER qui se contracte vers 20 fois.",
+    "unite": "€"
+   },
+   {
+    "bas": 0,
+    "central": 6,
+    "haut": 11,
+    "horizon": "5 ans",
+    "hypotheses": "Central : BPA +11 %/an grâce à la hausse des marges et aux rachats, dividende 1,7 %, mais PER qui baisse de 30 vers 22 fois (environ -6 %/an) : total vers 6 %/an. Haut : PER maintenu vers 26 fois. Bas : BPA +6 %/an et PER vers 18 fois.",
+    "unite": "%/an"
+   },
+   {
+    "bas": 2,
+    "central": 6,
+    "haut": 10,
+    "horizon": "10-15 ans",
+    "hypotheses": "Sur longue période, le rendement suit surtout la croissance du BPA (6 à 9 %/an si le virage SaaS réussit) plus environ 2 % de dividende, moins une normalisation du multiple.",
+    "unite": "%/an"
+   }
+  ],
+  "sources": [
+   "https://www.globenewswire.com/news-release/2026/07/30/3336282/0/fr/LECTRA-Premier-semestre-2026-am%C3%A9lioration-de-la-performance-au-deuxi%C3%A8me-trimestre-ambitions-2026-2028-confirm%C3%A9es.html",
+   "https://www.optionfinance.fr/info-financiere-en-continu/d/2026-07-30-lectra-confirme-ses-objectifs-a-horizon-2028.html",
+   "https://www.zonebourse.com/actualite-bourse/resultats-t1-2026-ralentissement-conjoncturel-amelioration-structurelle-ce7f59d2dc8df12c",
+   "https://www.zonebourse.com/cours/action/LECTRA-4769/",
+   "https://www.zonebourse.com/cours/action/LECTRA-4769/finances/",
+   "https://www.boursorama.com/cours/consensus/1rPLSS/",
+   "https://www.boursorama.com/bourse/actualites/lectra-augmente-son-enveloppe-pour-des-rachats-d-actions-93794fd73e0c3b23e53221ce4ece876f",
+   "https://www.investing.com/equities/lectra-technical",
+   "https://www.investtech.com/fr/market.php?CompanyID=33404514",
+   "https://www.abcbourse.com/marches/events/LSSp"
+  ],
+  "tech": {
+   "bas52": 15.2,
+   "cours": 21.05,
+   "coursLe": "2026-09-28",
+   "haut52": 25.5,
+   "lecture": "Cours de 21,05 en dessous de sa moyenne 50 jours (21,43) et au-dessus de sa moyenne 200 jours (19,49). RSI 46,5 : élan neutre. Il se situe à 57 % de sa fourchette sur un an (de 15,20 à 25,50), performance sur 12 mois de -14,6 %. Moyennes et RSI calculés sur les vraies clôtures (flux GitHub de 15h33).",
+   "mm200": 19.49,
+   "mm50": 21.43,
+   "resistance": 23.4,
+   "rsi14": 46.5,
+   "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json",
+   "stade": 3,
+   "support": 20.5,
+   "tendance": "neutre"
+  },
+  "verdict": "Lectra transforme son modèle vers le logiciel par abonnement (79 % de revenus récurrents, SaaS +14 %) et procède à des rachats d'actions, mais sa rentabilité reste faible et la croissance totale est négative sur le semestre. À environ 30 fois les bénéfices 2026, le cours intègre déjà une bonne partie du redressement promis.",
+  "zones": {
+   "catalyseurs": [
+    "28/10/2026 : résultats du T3.",
+    "10/02/2027 : résultats annuels 2026.",
+    "28/04/2027 : résultats du T1 2027."
+   ],
+   "interet": "Entre 17 et 19 € : PER 2027 vers 18 à 20 fois, plus cohérent avec une croissance de 10 %, et zone intermédiaire au-dessus du support majeur de 15,2 €.",
+   "invalidation": "Objectifs 2026-2028 abandonnés, ou ARR SaaS qui croît nettement moins de 10 % sur un an.",
+   "sortie": [
+    "Marge d'EBITDA qui ne progresse pas en 2026 puis en 2027, contrairement à l'objectif.",
+    "PER au-dessus de 35 fois sans accélération de la croissance.",
+    "Dette nette qui dépasse 1,5 fois l'EBITDA à la suite d'une acquisition."
+   ]
+  }
+ },
+ "capi": "903 M€",
+ "cours": 21.05,
+ "coursLe": "2026-09-28",
+ "devise": "€",
+ "faits": [
+  {
+   "d": "01/09",
+   "t": "Mandat de rachat d'actions relevé de 20 à 25 M€."
+  },
+  {
+   "d": "16/09",
+   "t": "Lancement d'Apogy, logiciel en ligne de développement produit pour la mode."
+  }
+ ],
+ "histo": [
+  [
+   "22/09",
+   24.45
+  ],
+  [
+   "23/09",
+   24.35
+  ],
+  [
+   "24/09",
+   23.45
+  ],
+  [
+   "25/09",
+   23.2
+  ],
+  [
+   "26/09",
+   23.1
+  ],
+  [
+   "29/09",
+   23.65
+  ],
+  [
+   "30/09",
+   23.65
+  ],
+  [
+   "01/10",
+   24.15
+  ],
+  [
+   "02/10",
+   24.65
+  ],
+  [
+   "03/10",
+   24.4
+  ],
+  [
+   "06/10",
+   24.15
+  ],
+  [
+   "07/10",
+   24.1
+  ],
+  [
+   "08/10",
+   23.65
+  ],
+  [
+   "09/10",
+   23.75
+  ],
+  [
+   "10/10",
+   23.35
+  ],
+  [
+   "13/10",
+   23.4
+  ],
+  [
+   "14/10",
+   23.35
+  ],
+  [
+   "15/10",
+   23.4
+  ],
+  [
+   "16/10",
+   23
+  ],
+  [
+   "17/10",
+   23.15
+  ],
+  [
+   "20/10",
+   23.4
+  ],
+  [
+   "21/10",
+   23.6
+  ],
+  [
+   "22/10",
+   23.2
+  ],
+  [
+   "23/10",
+   23.2
+  ],
+  [
+   "24/10",
+   23.2
+  ],
+  [
+   "27/10",
+   23.3
+  ],
+  [
+   "28/10",
+   23.55
+  ],
+  [
+   "29/10",
+   23.85
+  ],
+  [
+   "30/10",
+   23.8
+  ],
+  [
+   "31/10",
+   23
+  ],
+  [
+   "03/11",
+   22.75
+  ],
+  [
+   "04/11",
+   23
+  ],
+  [
+   "05/11",
+   23
+  ],
+  [
+   "06/11",
+   23
+  ],
+  [
+   "07/11",
+   22.6
+  ],
+  [
+   "10/11",
+   22.6
+  ],
+  [
+   "11/11",
+   22.3
+  ],
+  [
+   "12/11",
+   22.75
+  ],
+  [
+   "13/11",
+   23.15
+  ],
+  [
+   "14/11",
+   22.55
+  ],
+  [
+   "17/11",
+   22.25
+  ],
+  [
+   "18/11",
+   21.75
+  ],
+  [
+   "19/11",
+   22
+  ],
+  [
+   "20/11",
+   22.3
+  ],
+  [
+   "21/11",
+   22.15
+  ],
+  [
+   "24/11",
+   23.25
+  ],
+  [
+   "25/11",
+   23.15
+  ],
+  [
+   "26/11",
+   23
+  ],
+  [
+   "27/11",
+   23.5
+  ],
+  [
+   "28/11",
+   24.3
+  ],
+  [
+   "01/12",
+   24.25
+  ],
+  [
+   "02/12",
+   24.75
+  ],
+  [
+   "03/12",
+   23.7
+  ],
+  [
+   "04/12",
+   23.8
+  ],
+  [
+   "05/12",
+   23.7
+  ],
+  [
+   "08/12",
+   23.3
+  ],
+  [
+   "09/12",
+   22.9
+  ],
+  [
+   "10/12",
+   22.8
+  ],
+  [
+   "11/12",
+   22.7
+  ],
+  [
+   "12/12",
+   22.85
+  ],
+  [
+   "15/12",
+   22.9
+  ],
+  [
+   "16/12",
+   22.7
+  ],
+  [
+   "17/12",
+   22.85
+  ],
+  [
+   "18/12",
+   22.8
+  ],
+  [
+   "19/12",
+   22.7
+  ],
+  [
+   "22/12",
+   23.4
+  ],
+  [
+   "23/12",
+   23.05
+  ],
+  [
+   "24/12",
+   23.45
+  ],
+  [
+   "29/12",
+   24
+  ],
+  [
+   "30/12",
+   25
+  ],
+  [
+   "31/12",
+   25.5
+  ],
+  [
+   "02/01",
+   25
+  ],
+  [
+   "05/01",
+   23.8
+  ],
+  [
+   "06/01",
+   24.8
+  ],
+  [
+   "07/01",
+   25
+  ],
+  [
+   "08/01",
+   24.5
+  ],
+  [
+   "09/01",
+   24.6
+  ],
+  [
+   "12/01",
+   25
+  ],
+  [
+   "13/01",
+   25.15
+  ],
+  [
+   "14/01",
+   24.6
+  ],
+  [
+   "15/01",
+   24.2
+  ],
+  [
+   "16/01",
+   24.05
+  ],
+  [
+   "19/01",
+   23.7
+  ],
+  [
+   "20/01",
+   23.4
+  ],
+  [
+   "21/01",
+   23
+  ],
+  [
+   "22/01",
+   22.9
+  ],
+  [
+   "23/01",
+   23
+  ],
+  [
+   "26/01",
+   23.1
+  ],
+  [
+   "27/01",
+   23
+  ],
+  [
+   "28/01",
+   23
+  ],
+  [
+   "29/01",
+   22.7
+  ],
+  [
+   "30/01",
+   22.6
+  ],
+  [
+   "02/02",
+   22.8
+  ],
+  [
+   "03/02",
+   23
+  ],
+  [
+   "04/02",
+   22.25
+  ],
+  [
+   "05/02",
+   22.9
+  ],
+  [
+   "06/02",
+   22.45
+  ],
+  [
+   "09/02",
+   22.6
+  ],
+  [
+   "10/02",
+   23.1
+  ],
+  [
+   "11/02",
+   22.1
+  ],
+  [
+   "12/02",
+   21.05
+  ],
+  [
+   "13/02",
+   20.05
+  ],
+  [
+   "16/02",
+   19.7
+  ],
+  [
+   "17/02",
+   19.7
+  ],
+  [
+   "18/02",
+   19.48
+  ],
+  [
+   "19/02",
+   19.24
+  ],
+  [
+   "20/02",
+   19.2
+  ],
+  [
+   "23/02",
+   19.06
+  ],
+  [
+   "24/02",
+   18.72
+  ],
+  [
+   "25/02",
+   19.02
+  ],
+  [
+   "26/02",
+   19.42
+  ],
+  [
+   "27/02",
+   19.34
+  ],
+  [
+   "02/03",
+   19.3
+  ],
+  [
+   "03/03",
+   19.08
+  ],
+  [
+   "04/03",
+   18.98
+  ],
+  [
+   "05/03",
+   18.56
+  ],
+  [
+   "06/03",
+   18.5
+  ],
+  [
+   "09/03",
+   17.9
+  ],
+  [
+   "10/03",
+   17.88
+  ],
+  [
+   "11/03",
+   17.64
+  ],
+  [
+   "12/03",
+   17.5
+  ],
+  [
+   "13/03",
+   17.2
+  ],
+  [
+   "16/03",
+   17.18
+  ],
+  [
+   "17/03",
+   17.72
+  ],
+  [
+   "18/03",
+   17.34
+  ],
+  [
+   "19/03",
+   16.88
+  ],
+  [
+   "20/03",
+   15.62
+  ],
+  [
+   "23/03",
+   15.74
+  ],
+  [
+   "24/03",
+   15.86
+  ],
+  [
+   "25/03",
+   16.08
+  ],
+  [
+   "26/03",
+   15.56
+  ],
+  [
+   "27/03",
+   16
+  ],
+  [
+   "30/03",
+   16.08
+  ],
+  [
+   "31/03",
+   16.7
+  ],
+  [
+   "01/04",
+   16.46
+  ],
+  [
+   "02/04",
+   16.08
+  ],
+  [
+   "07/04",
+   15.64
+  ],
+  [
+   "08/04",
+   16.18
+  ],
+  [
+   "09/04",
+   15.48
+  ],
+  [
+   "10/04",
+   15.86
+  ],
+  [
+   "13/04",
+   15.86
+  ],
+  [
+   "14/04",
+   15.96
+  ],
+  [
+   "15/04",
+   16.74
+  ],
+  [
+   "16/04",
+   16.74
+  ],
+  [
+   "17/04",
+   17.2
+  ],
+  [
+   "20/04",
+   17.16
+  ],
+  [
+   "21/04",
+   17.18
+  ],
+  [
+   "22/04",
+   17.22
+  ],
+  [
+   "23/04",
+   17.44
+  ],
+  [
+   "24/04",
+   17.74
+  ],
+  [
+   "27/04",
+   17.3
+  ],
+  [
+   "28/04",
+   17.08
+  ],
+  [
+   "29/04",
+   16.1
+  ],
+  [
+   "30/04",
+   16.1
+  ],
+  [
+   "04/05",
+   15.66
+  ],
+  [
+   "05/05",
+   15.2
+  ],
+  [
+   "06/05",
+   16
+  ],
+  [
+   "07/05",
+   15.86
+  ],
+  [
+   "08/05",
+   15.86
+  ],
+  [
+   "11/05",
+   16
+  ],
+  [
+   "12/05",
+   15.9
+  ],
+  [
+   "13/05",
+   15.74
+  ],
+  [
+   "14/05",
+   16.14
+  ],
+  [
+   "15/05",
+   16
+  ],
+  [
+   "18/05",
+   16
+  ],
+  [
+   "19/05",
+   16.06
+  ],
+  [
+   "20/05",
+   16.28
+  ],
+  [
+   "21/05",
+   16.26
+  ],
+  [
+   "22/05",
+   16.76
+  ],
+  [
+   "25/05",
+   16.7
+  ],
+  [
+   "26/05",
+   16.7
+  ],
+  [
+   "27/05",
+   16.56
+  ],
+  [
+   "28/05",
+   16.76
+  ],
+  [
+   "29/05",
+   17.38
+  ],
+  [
+   "01/06",
+   17.5
+  ],
+  [
+   "02/06",
+   17.66
+  ],
+  [
+   "03/06",
+   17.2
+  ],
+  [
+   "04/06",
+   16.8
+  ],
+  [
+   "05/06",
+   16.8
+  ],
+  [
+   "08/06",
+   16.6
+  ],
+  [
+   "09/06",
+   16.64
+  ],
+  [
+   "10/06",
+   16.3
+  ],
+  [
+   "11/06",
+   16.3
+  ],
+  [
+   "12/06",
+   16.24
+  ],
+  [
+   "15/06",
+   16.58
+  ],
+  [
+   "16/06",
+   16.72
+  ],
+  [
+   "17/06",
+   16.54
+  ],
+  [
+   "18/06",
+   16.66
+  ],
+  [
+   "19/06",
+   16.58
+  ],
+  [
+   "22/06",
+   16.5
+  ],
+  [
+   "23/06",
+   16.5
+  ],
+  [
+   "24/06",
+   16.18
+  ],
+  [
+   "25/06",
+   16.68
+  ],
+  [
+   "26/06",
+   17.32
+  ],
+  [
+   "29/06",
+   17.1
+  ],
+  [
+   "30/06",
+   17.16
+  ],
+  [
+   "01/07",
+   18.02
+  ],
+  [
+   "02/07",
+   18.3
+  ],
+  [
+   "03/07",
+   18.22
+  ],
+  [
+   "06/07",
+   18.14
+  ],
+  [
+   "07/07",
+   18.12
+  ],
+  [
+   "08/07",
+   17.44
+  ],
+  [
+   "09/07",
+   17.76
+  ],
+  [
+   "10/07",
+   17.32
+  ],
+  [
+   "13/07",
+   16.9
+  ],
+  [
+   "14/07",
+   16.82
+  ],
+  [
+   "15/07",
+   17.74
+  ],
+  [
+   "16/07",
+   18
+  ],
+  [
+   "17/07",
+   17.92
+  ],
+  [
+   "20/07",
+   18.4
+  ],
+  [
+   "21/07",
+   18.28
+  ],
+  [
+   "22/07",
+   18.34
+  ],
+  [
+   "23/07",
+   17.48
+  ],
+  [
+   "24/07",
+   18.4
+  ],
+  [
+   "27/07",
+   18.54
+  ],
+  [
+   "28/07",
+   18.44
+  ],
+  [
+   "29/07",
+   18.3
+  ],
+  [
+   "30/07",
+   18.82
+  ],
+  [
+   "31/07",
+   20.5
+  ],
+  [
+   "03/08",
+   21.45
+  ],
+  [
+   "04/08",
+   21.95
+  ],
+  [
+   "05/08",
+   22.25
+  ],
+  [
+   "06/08",
+   22.6
+  ],
+  [
+   "07/08",
+   22.85
+  ],
+  [
+   "10/08",
+   23
+  ],
+  [
+   "11/08",
+   23.3
+  ],
+  [
+   "12/08",
+   23.55
+  ],
+  [
+   "13/08",
+   23.35
+  ],
+  [
+   "14/08",
+   23.65
+  ],
+  [
+   "17/08",
+   23.35
+  ],
+  [
+   "18/08",
+   22.45
+  ],
+  [
+   "19/08",
+   22.6
+  ],
+  [
+   "20/08",
+   22.6
+  ],
+  [
+   "21/08",
+   22.65
+  ],
+  [
+   "24/08",
+   22.5
+  ],
+  [
+   "25/08",
+   22.45
+  ],
+  [
+   "26/08",
+   22.35
+  ],
+  [
+   "27/08",
+   22.15
+  ],
+  [
+   "28/08",
+   23.1
+  ],
+  [
+   "31/08",
+   23.1
+  ],
+  [
+   "01/09",
+   22.1
+  ],
+  [
+   "02/09",
+   21.8
+  ],
+  [
+   "03/09",
+   22.1
+  ],
+  [
+   "04/09",
+   21.8
+  ],
+  [
+   "07/09",
+   21.6
+  ],
+  [
+   "08/09",
+   21.9
+  ],
+  [
+   "09/09",
+   21.55
+  ],
+  [
+   "10/09",
+   21.3
+  ],
+  [
+   "11/09",
+   20.95
+  ],
+  [
+   "14/09",
+   21.6
+  ],
+  [
+   "15/09",
+   21.3
+  ],
+  [
+   "16/09",
+   20.85
+  ],
+  [
+   "17/09",
+   20.75
+  ],
+  [
+   "18/09",
+   20.5
+  ],
+  [
+   "21/09",
+   21.05
+  ],
+  [
+   "22/09",
+   21.05
+  ],
+  [
+   "23/09",
+   21.4
+  ],
+  [
+   "24/09",
+   21
+  ],
+  [
+   "25/09",
+   21.3
+  ],
+  [
+   "28/09",
+   21.05
+  ]
+ ],
+ "nom": "Lectra",
+ "notes": "Clôture du 28/09 non confirmée sur le web : cours du flux GitHub relevé à 15h33 (21,05), à remplacer par la vraie clôture au prochain flux. Zonebourse 21,00 € (-1,41 %) à 16h47. Aucune nouvelle depuis le 16/09. CA T3 le 28/10.",
+ "pays": "FR",
+ "per26": 30.4,
+ "per27": 23.4,
+ "perf": {
+  "m1": -8.9,
+  "m12": -14.6,
+  "m3": 16.8
+ },
+ "pub": "2026-10-28",
+ "pubLabel": "CA du T3",
+ "risque": "Valorisation élevée pour une croissance organique de +1 %.",
+ "secteur": "Logiciels et équipements mode / auto",
+ "societe": {
+  "aVerifier": "Vérifié le 29/09/2026 sur les communiqués de résultats annuels Lectra 2022 à 2025, le rapport financier annuel 2022, le communiqué semestriel 2026 et les pages investisseurs. Confirmés par la société : CA 2021-2025, résultat net 2021-2025 (28,2 ; 43,8 ; 32,6 ; 29,6 ; 25,6 M€), résultat opérationnel courant (44,4 ; 68,5 ; 49,1 ; 49,3 ; 38,2 M€, d'où margeOp = résultat opérationnel courant / CA), position financière nette (dette financière moins trésorerie, hors dettes locatives IFRS 16), dividendes 0,36 € (2021), 0,48 € (2022), 0,36 € (2023), 0,40 € (2024) et 0,35 € (2025), effectif d'environ 2 800 personnes, dirigeants, actionnaires au-dessus de 5 %, répartition du CA 2025 par nature (SaaS 89,3 M€, non récurrent 126,6 M€, récurrent hors SaaS par différence). Remarque : le communiqué 2025 compare le résultat opérationnel courant 2025 à un 2024 à données comparables (environ 44,5 M€), le chiffre publié en 2024 (49,3 M€) a été retenu. Restent non vérifiés : répartition géographique (non lue dans une source officielle), répartition par marché, consensus 2026e (Zonebourse), adresse exacte du siège (Paris) et faits d'histoire antérieurs à 2017 (1987, 1991, 2004), concurrents non sourcés.",
+  "actionnariat": "Flottant supérieur à 85 %, détenu surtout par des investisseurs institutionnels ; au 31/12/2025, Alantra EQMC détient entre 10 et 15 % du capital, Brown Capital, Kempen Oranje, Amiral Gestion et Fivespan chacun entre 5 et 10 %. Les options de souscription (498 bénéficiaires) représentent 4,4 % du capital dilué. Daniel Harari n'apparaît pas parmi les actionnaires de plus de 5 % sur la page officielle.",
+  "avantage": "Depuis le rachat de Gerber, Lectra est de loin le leader mondial de la découpe automatique pour ses marchés, avec un immense parc installé qui génère des revenus récurrents et une offre logicielle intégrée difficile à remplacer. Ce qui pourrait l'éroder : le cycle d'investissement des clients (mode et automobile en crise), la concurrence de machines asiatiques moins chères et le risque que ses logiciels restent moins adoptés que ceux de purs éditeurs.",
+  "chiffres": [
+   {
+    "annee": "2021",
+    "ca": 387.6,
+    "detteNette": 8.8,
+    "dividende": 0.36,
+    "margeOp": 11.5,
+    "rn": 28.2
+   },
+   {
+    "annee": "2022",
+    "ca": 521.9,
+    "detteNette": -11.4,
+    "dividende": 0.48,
+    "margeOp": 13.1,
+    "rn": 43.8
+   },
+   {
+    "annee": "2023",
+    "ca": 477.6,
+    "detteNette": -17,
+    "dividende": 0.36,
+    "margeOp": 10.3,
+    "rn": 32.6
+   },
+   {
+    "annee": "2024",
+    "ca": 526.7,
+    "detteNette": 20.6,
+    "dividende": 0.4,
+    "margeOp": 9.4,
+    "rn": 29.6
+   },
+   {
+    "annee": "2025",
+    "ca": 506.7,
+    "detteNette": 21.3,
+    "dividende": 0.35,
+    "margeOp": 7.5,
+    "rn": 25.6
+   },
+   {
+    "annee": "2026e",
+    "ca": 495.7,
+    "detteNette": null,
+    "dividende": 0.35,
+    "margeOp": 7.6,
+    "rn": 27.2
+   }
+  ],
+  "clients": "Des marques et sous-traitants de la mode (environ la moitié des revenus), des équipementiers automobiles qui fabriquent sièges et airbags (environ un tiers) et des fabricants de meubles (environ 9 %), dans plus de 100 pays ; clientèle diversifiée sans client dominant publié.",
+  "concurrents": [
+   "Zünd",
+   "Bullmer",
+   "Centric Software",
+   "Browzwear",
+   "CLO Virtual Fashion",
+   "Dassault Systèmes"
+  ],
+  "corrections": [
+   "2021 detteNette 43.2 -> 8.8 (communiqué Lectra résultats 2022 : endettement net de 8,8 M€ fin 2021).",
+   "2022 detteNette 23 -> -11.4 (communiqué et rapport financier 2022 : trésorerie nette positive de 11,4 M€, hors dettes locatives IFRS 16).",
+   "2023 detteNette 14.3 -> -17.0 (communiqué résultats 2023 : trésorerie nette positive de 17,0 M€).",
+   "2024 margeOp 10.2 -> 9.4 (communiqué résultats 2024 : résultat opérationnel courant 49,3 M€ pour 526,7 M€ de CA).",
+   "Dirigeants : dates précisées pour Daniel Harari (DG depuis 2002, PDG depuis le 27/07/2017, page officielle Lectra).",
+   "Actionnariat : participation de Daniel Harari (12,75 % selon Zonebourse) retirée car non confirmée ; seuils officiels au 31/12/2025 ajoutés.",
+   "Histoire 2026 complétée avec le premier semestre 2026 (communiqué du 30/07/2026)."
+  ],
+  "croire": [
+   "Que le creux actuel des commandes d'équipements est conjoncturel et que la mode et l'automobile recommenceront à investir.",
+   "Que la montée des abonnements SaaS (objectif d'environ 15 % de croissance par an) fera de Lectra un groupe plus logiciel, plus prévisible et mieux valorisé.",
+   "Que les acquisitions récentes (Gerber, TextileGenesis, Launchmetrics) finiront par relever la marge opérationnelle, tombée à 7,5 % en 2025."
+  ],
+  "devise": "€",
+  "dirigeants": [
+   {
+    "depuis": 2017,
+    "nom": "Daniel Harari",
+    "role": "Président-directeur général (directeur général depuis le 3 mai 2002, président et directeur général depuis le 27 juillet 2017)"
+   },
+   {
+    "depuis": 2017,
+    "nom": "Olivier du Chesnay",
+    "role": "Directeur financier"
+   }
+  ],
+  "effectifs": 2800,
+  "fondee": 1973,
+  "geo": [
+   {
+    "part": 32.4,
+    "zone": "Amériques"
+   },
+   {
+    "part": 28.8,
+    "zone": "Europe hors France"
+   },
+   {
+    "part": 23.5,
+    "zone": "Asie-Pacifique"
+   },
+   {
+    "part": 8,
+    "zone": "Autres pays"
+   },
+   {
+    "part": 7.1,
+    "zone": "France"
+   }
+  ],
+  "histoire": [
+   {
+    "annee": 1973,
+    "fait": "Création de Lectra à Bordeaux, pionnier de la conception assistée par ordinateur pour l'habillement."
+   },
+   {
+    "annee": 1987,
+    "fait": "Introduction en Bourse."
+   },
+   {
+    "annee": 1991,
+    "fait": "Après une grave crise financière, la Compagnie Financière du Scribe des frères Harari recapitalise l'entreprise ; Daniel Harari en prend la tête."
+   },
+   {
+    "annee": 2004,
+    "fait": "Rachats d'Investronica, Lacent et Humantec pour renforcer l'offre."
+   },
+   {
+    "annee": 2017,
+    "fait": "Lancement de la stratégie Lectra 4.0 (industrie connectée, cloud) ; Daniel Harari, directeur général depuis 2002, redevient président-directeur général."
+   },
+   {
+    "annee": 2021,
+    "fait": "Rachat de l'américain Gerber Technology, son grand rival historique, qui fait bondir la taille du groupe."
+   },
+   {
+    "annee": 2024,
+    "fait": "Prise de contrôle de Launchmetrics (logiciels de marketing pour la mode), après TextileGenesis en 2023."
+   },
+   {
+    "annee": 2026,
+    "fait": "Chiffre d'affaires 2025 en baisse à 506,7 millions d'euros dans un marché dégradé, mais 75 % de revenus récurrents. Premier semestre 2026 : 239,6 millions d'euros de CA (-6 % à données comparables), rachat des minoritaires de TextileGenesis et Launchmetrics et rachat d'actions, endettement net porté à 64,3 millions d'euros au 30 juin ; ambitions 2026-2028 confirmées."
+   }
+  ],
+  "modele": "Lectra vend des machines et des licences (revenu ponctuel, 25 % du total en 2025) puis encaisse pendant des années des revenus récurrents : abonnements logiciels SaaS, contrats de maintenance, consommables et pièces détachées pour les machines installées (75 % du total). Chaque machine vendue crée donc une rente, et les abonnements SaaS progressent d'environ 14 % par an.",
+  "questions": [
+   "Les commandes de machines repartent-elles, en particulier chez les équipementiers automobiles et en Chine ?",
+   "Le revenu récurrent annuel SaaS (ARR) tient-il son rythme de +15 % et Launchmetrics devient-il rentable ?",
+   "Comment se prépare la succession de Daniel Harari, à la tête du groupe depuis 1991 ?"
+  ],
+  "resume": "Lectra, basée près de Bordeaux, vend aux industriels de la mode, de l'automobile et de l'ameublement des machines de découpe automatique du tissu et du cuir, et surtout les logiciels qui vont avec : dessin des patrons, planification, gestion des collections, marketing. Concrètement, le tissu d'un jean de grande marque ou le cuir d'un siège de voiture a de bonnes chances d'avoir été découpé par une machine Lectra pilotée par ses logiciels.",
+  "segments": [
+   {
+    "detail": "Maintenance des logiciels et machines, lames, papier, pièces détachées pour le parc installé.",
+    "nom": "Contrats récurrents hors SaaS, consommables et pièces",
+    "part": 57.4
+   },
+   {
+    "detail": "Ventes de machines de découpe, licences perpétuelles, formation et installation.",
+    "nom": "Revenus non récurrents (équipements, licences, services)",
+    "part": 25
+   },
+   {
+    "detail": "Logiciels en ligne par abonnement (89,3 millions d'euros en 2025, +14 %).",
+    "nom": "Abonnements SaaS",
+    "part": 17.6
+   }
+  ],
+  "siege": "Paris (siège social) et Cestas près de Bordeaux (site industriel), France",
+  "site": "https://www.lectra.com",
+  "sources": [
+   "https://www.lectra.com/sites/default/files/investors_files/Lectra_Communiqu%C3%A9%20T4_FY2025.pdf",
+   "https://www.lectra.com/sites/default/files/investors_files/Lectra_Press%20release%20Q4_FY2025_EN_0.pdf",
+   "https://www.globenewswire.com/news-release/2026/02/11/3236607/0/fr/LECTRA-R%C3%A9sultats-2025-croissance-du-r%C3%A9current-et-r%C3%A9silience-op%C3%A9rationnelle.html",
+   "https://www.lectra.com/sites/default/files/investors_files/Lectra_Communique%CC%81_T4_FY%202024.pdf",
+   "https://www.lectra.com/sites/default/files/investors_files/Lectra_Communique%CC%81_T4%20FY2023.pdf",
+   "https://www.globenewswire.com/en/news-release/2023/02/08/2604285/0/fr/LECTRA-2022-Chiffre-d-affaires-et-r%C3%A9sultats-en-forte-hausse.html",
+   "https://www.lectra.com/sites/default/files/investors_files/Lectra-Rapport-Financier-2022-FR.pdf",
+   "https://www.globenewswire.com/news-release/2026/07/30/3336282/0/fr/LECTRA-Premier-semestre-2026-am%C3%A9lioration-de-la-performance-au-deuxi%C3%A8me-trimestre-ambitions-2026-2028-confirm%C3%A9es.html",
+   "https://www.lectra.com/sites/default/files/2026-04/Lectra_Communiqu%C3%A9%20T1%202026.pdf",
+   "https://www.lectra.com/en/investors/shareholder-information/capital-ownership",
+   "https://www.lectra.com/en/investors/corporate-governance/executive-committee/daniel-harari",
+   "https://www.globenewswire.com/news-release/2017/09/19/1124785/0/en/LECTRA-Lectra-appoints-Olivier-du-Chesnay-as-Chief-Financial-Officer.html",
+   "https://www.lectra.com/sites/default/files/2025-09/Lectra_Company%20background%20Strategy_EN_020925_def%20(1).pdf",
+   "https://www.zonebourse.com/cours/action/LECTRA-4769/finances/",
+   "https://www.zonebourse.com/cours/action/LECTRA-4769/finances-segments/"
+  ],
+  "suivi": {
+   "bilan": "Aucune condition n'est encore confirmée (3 mitigées) ; le plus fragile est l'ARR SaaS, qui avance au rythme d'environ 10 % par an au lieu des 15 % visés.",
+   "croire": [
+    {
+     "c": "Que le creux actuel des commandes d'équipements est conjoncturel et que la mode et l'automobile recommenceront à investir.",
+     "etat": "watch",
+     "preuve": "T2 2026 : CA 126,5 M€, +1 % à données comparables ; S1 : revenus non récurrents -26 %.",
+     "prochain": "CA et résultats du T3 le 28/10/2026",
+     "reponse": "Le point bas semble passé (T2 stable), mais Lectra dit elle-même que le calendrier et l'ampleur du rebond des équipements restent incertains.",
+     "source": "https://www.globenewswire.com/news-release/2026/07/30/3336282/0/fr/LECTRA-Premier-semestre-2026-am%C3%A9lioration-de-la-performance-au-deuxi%C3%A8me-trimestre-ambitions-2026-2028-confirm%C3%A9es.html"
+    },
+    {
+     "c": "Que la montée des abonnements SaaS (objectif d'environ 15 % de croissance par an) fera de Lectra un groupe plus logiciel, plus prévisible et mieux valorisé.",
+     "etat": "watch",
+     "preuve": "S1 2026 : revenus récurrents 79 % du CA ; revenus SaaS +14 % ; ARR +5 % sur six mois.",
+     "prochain": "CA et résultats du T3 le 28/10/2026",
+     "reponse": "La part récurrente grandit et les revenus SaaS croissent à deux chiffres, mais l'ARR avance sous le rythme visé de 15 %.",
+     "source": "https://www.globenewswire.com/news-release/2026/07/30/3336282/0/fr/LECTRA-Premier-semestre-2026-am%C3%A9lioration-de-la-performance-au-deuxi%C3%A8me-trimestre-ambitions-2026-2028-confirm%C3%A9es.html"
+    },
+    {
+     "c": "Que les acquisitions récentes (Gerber, TextileGenesis, Launchmetrics) finiront par relever la marge opérationnelle, tombée à 7,5 % en 2025.",
+     "etat": "watch",
+     "preuve": "T2 2026 : marge d'EBITDA courant 17,1 % (+1,9 point), résultat opérationnel courant 11,8 M€ (+37 % à données comparables) ; S1 : marge d'EBITDA 14,0 %, EBITDA -9 %.",
+     "prochain": "CA et résultats du T3 le 28/10/2026",
+     "reponse": "Signal encourageant au T2, où la rentabilité remonte nettement, mais sur le semestre elle reste en baisse et la marge 2025 était très basse.",
+     "source": "https://www.globenewswire.com/news-release/2026/07/30/3336282/0/fr/LECTRA-Premier-semestre-2026-am%C3%A9lioration-de-la-performance-au-deuxi%C3%A8me-trimestre-ambitions-2026-2028-confirm%C3%A9es.html"
+    }
+   ],
+   "le": "2026-09-29",
+   "questions": [
+    {
+     "etat": "watch",
+     "preuve": "T1 2026 : commandes d'équipements -21 % à données comparables ; S1 2026 : revenus non récurrents -26 % ; T2 : « amélioration des commandes d'équipements » et CA +1 % à données comparables.",
+     "prochain": "CA et résultats du T3 le 28/10/2026",
+     "q": "Les commandes de machines repartent-elles, en particulier chez les équipementiers automobiles et en Chine ?",
+     "reponse": "Un début de mieux au deuxième trimestre, après un premier trimestre très faible, mais pas encore de vraie reprise. Lectra cite l'automobile en Asie-Pacifique comme point d'amélioration ; aucun chiffre n'est publié sur la Chine.",
+     "source": "https://www.globenewswire.com/news-release/2026/07/30/3336282/0/fr/LECTRA-Premier-semestre-2026-am%C3%A9lioration-de-la-performance-au-deuxi%C3%A8me-trimestre-ambitions-2026-2028-confirm%C3%A9es.html"
+    },
+    {
+     "etat": "watch",
+     "preuve": "30/06/2026 : ARR SaaS de 102,6 M€, +5 % depuis fin 2025 (environ 10 % en rythme annuel, calcul) ; revenus SaaS du S1 +14 % à 48,5 M€.",
+     "prochain": "CA et résultats du T3 le 28/10/2026",
+     "q": "Le revenu récurrent annuel SaaS (ARR) tient-il son rythme de +15 % et Launchmetrics devient-il rentable ?",
+     "reponse": "Les revenus SaaS montent bien, mais l'ARR progresse moins vite que l'objectif de 15 % par an. La rentabilité de Launchmetrics n'est pas publiée séparément.",
+     "source": "https://www.globenewswire.com/news-release/2026/07/30/3336282/0/fr/LECTRA-Premier-semestre-2026-am%C3%A9lioration-de-la-performance-au-deuxi%C3%A8me-trimestre-ambitions-2026-2028-confirm%C3%A9es.html"
+    },
+    {
+     "etat": "nc",
+     "preuve": "Communiqué du 30/07/2026 : conseil « réuni sous la présidence de Daniel Harari » ; aucune nomination de directeur général délégué annoncée.",
+     "prochain": "Assemblée générale 2027",
+     "q": "Comment se prépare la succession de Daniel Harari, à la tête du groupe depuis 1991 ?",
+     "reponse": "Aucune information publique trouvée sur un plan de succession ou un successeur désigné : Daniel Harari reste président-directeur général et préside toujours le conseil.",
+     "source": "https://www.globenewswire.com/news-release/2026/07/30/3336282/0/fr/LECTRA-Premier-semestre-2026-am%C3%A9lioration-de-la-performance-au-deuxi%C3%A8me-trimestre-ambitions-2026-2028-confirm%C3%A9es.html"
+    }
+   ]
+  },
+  "verifieLe": "2026-09-29"
+ },
+ "src": "https://www.boursorama.com/cours/actualites/1rPLSS/",
+ "statut": "intacte",
+ "these": "Bascule vers le logiciel par abonnement, rachat d'actions relevé.",
+ "ticker": "LSS",
+ "yahoo": "LSS.PA",
+ "zb": "https://www.zonebourse.com/cours/action/LECTRA-4769/"
+}

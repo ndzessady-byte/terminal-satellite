@@ -1,0 +1,1453 @@
+{
+ "analyse": {
+  "aVerifier": "Croissance organique du S1 (+2,8 %) reprise de la fiche d'origine, non relue dans une source (les articles lus donnent -0,5 % en publié). Date du CA du T3 et des annuels 2027 non trouvée. Résistance fixée sur la moyenne 200 jours faute de niveau Investtech lu. ROE calculé à partir des ratios Zonebourse. Couverture des intérêts, comparaison avec les pairs et Piotroski non trouvés.",
+  "actu": [
+   {
+    "d": "17/09",
+    "fait": "S1 2026 : CA 444,3 M€ (-0,5 %), EBITDA 93,6 M€ (marge 21,1 % contre 22,5 %), résultat net 54,15 M€ (-7,4 %). Objectif de croissance organique 2026 abaissé à +3 à +5 %, en raison d'un marché plus modéré.",
+    "horizon": "moyen",
+    "impact": "negatif",
+    "lecture": "Premier accroc sur la trajectoire du plan 2030, qui suppose +5 à +7 % par an."
+   },
+   {
+    "d": "18/09",
+    "fait": "Le titre perd environ 5 à 6 % vers 718 €. Jefferies (930 €) et TP ICAP Midcap (896 €) restent positifs, soulignant la résistance de la rentabilité.",
+    "horizon": "court",
+    "impact": "neutre",
+    "lecture": "Les analystes voient un ralentissement passager, pas une rupture du modèle."
+   },
+   {
+    "d": "10/09",
+    "fait": "La BCE relève ses taux pour la deuxième fois de l'année, l'inflation persiste.",
+    "horizon": "moyen",
+    "impact": "negatif",
+    "lecture": "L'inflation pèse sur les coûts des matières premières naturelles et sur la consommation de parfums et d'arômes."
+   }
+  ],
+  "cadres": [
+   "Buffett (qualité, rentabilité)",
+   "Fisher (position de niche)",
+   "Lynch (PEG)",
+   "Graham (bilan)",
+   "Greenblatt (formule magique)",
+   "Théorie de Dow",
+   "Stades de Weinstein"
+  ],
+  "conviction": "moyenne",
+  "fonda": {
+   "bilan": "Dette nette attendue quasi nulle fin 2026 (2,7 M€ selon Zonebourse, après 32,4 M€ fin 2025), puis trésorerie nette en 2027. Critère Graham largement satisfait. Couverture des intérêts non trouvée mais sans enjeu vu l'endettement très faible.",
+   "croissance": "CA S1 2026 de 444,3 M€ (-0,5 % publié, +2,8 % organique selon la fiche d'origine). EBITDA 93,6 M€ (-6,6 %), résultat opérationnel 75,4 M€ (-11,4 %), résultat net 54,15 M€ (-7,4 %). Objectif de croissance organique 2026 ramené d'environ +5 % à +3 à +5 %. Plan 2030 : CA de 1,1 à 1,2 Md€ (+5 à +7 %/an). BPA selon Zonebourse : 47,29 € en 2025, 44,85 € en 2026 (-5 %), 49,92 € en 2027 (+11 %). PEG d'environ 1,5 sur 2027.",
+   "greenblatt": "Rendement bénéficiaire d'environ 6 % (1/PER 2026) et rentabilité des capitaux proche de 15 % : profil de qualité à prix raisonnable, sans décote extrême.",
+   "justif": "Qualité et bilan solides, valorisation raisonnable, mais croissance en ralentissement et marge en baisse au S1.",
+   "peg": 1.5,
+   "piotroski": null,
+   "qualite": "Rentabilité des capitaux propres d'environ 15 % (calcul : BPA 2026 attendu de 44,85 € et cours/actif net de 2,41 fois selon Zonebourse), avec un objectif de rentabilité des capitaux employés vers 16 % d'ici 2030. Marge d'EBITDA de 21,1 % au S1 2026 contre 22,5 %, marge opérationnelle 17 %. Numéro un mondial des matières premières naturelles pour la parfumerie, métier de niche difficile à copier (critère Fisher), mais pouvoir de prix mis à l'épreuve par des clients plus prudents.",
+   "score": 6.5,
+   "valo": "PER 16,6 fois 2026 et 14,9 fois 2027, VE/EBITDA 9,85 fois 2026, rendement 1,6 %, rendement du cash-flow libre 4,9 % (Zonebourse, cours 743 € le 28/09). Sur 2023-2025, le PER était de 18,6 à 23,2 fois et le VE/EBITDA de 10 à 14,3 fois : le titre est sous ses multiples récents. Consensus Zonebourse : 8 analystes, objectif moyen 935 € (870 à 1 100 €). Jefferies vise 930 € et TP ICAP Midcap 896 €."
+  },
+  "majLe": "2026-09-28",
+  "revisions": "Non chiffré. Probablement en baisse depuis la prévision 2026 plus prudente du 18/09, non vérifié.",
+  "scenarios": [
+   {
+    "bas": 700,
+    "central": 755,
+    "haut": 800,
+    "horizon": "2 mois",
+    "hypotheses": "Pas de publication majeure confirmée d'ici fin novembre (CA du T3 à dater). Bas : retour sur le plus bas de 710 €. Haut : rebond technique vers la moyenne 200 jours et au-delà.",
+    "unite": "€"
+   },
+   {
+    "bas": 660,
+    "central": 830,
+    "haut": 930,
+    "horizon": "12 mois",
+    "hypotheses": "Central : retour à une croissance de 4 à 5 % en 2027 et BPA proche de 50 €, PER vers 16,5 fois. Haut : proche de l'objectif moyen des analystes (935 €). Bas : nouvelle baisse d'objectif et PER vers 14 fois.",
+    "unite": "€"
+   },
+   {
+    "bas": 2,
+    "central": 9,
+    "haut": 13,
+    "horizon": "5 ans",
+    "hypotheses": "Central : BPA +7 %/an (plan 2030), dividende 1,6 %, PER qui remonte un peu de 16,6 vers 18 fois (environ +1,5 %/an) : environ 9 %/an. Haut : BPA +9 %/an et PER vers 21 fois. Bas : BPA +3 %/an et PER vers 14 fois.",
+    "unite": "%/an"
+   },
+   {
+    "bas": 4,
+    "central": 8,
+    "haut": 11,
+    "horizon": "10-15 ans",
+    "hypotheses": "Demande de fond pour le naturel en parfumerie, arômes et santé-beauté. Central : BPA +6 à 7 %/an plus 1,5 % de dividende, multiple stable.",
+    "unite": "%/an"
+   }
+  ],
+  "sources": [
+   "https://www.abcbourse.com/marches/newsContent/702768",
+   "https://www.tradingsat.com/robertet-FR0000039091/actualites/robertet-robertet-ajuste-a-la-baisse-un-objectif-le-titre-flanche-1170389.html",
+   "https://www.zonebourse.com/cours/action/ROBERTET-5240238/valorisation/",
+   "https://www.zonebourse.com/cours/action/ROBERTET-5034/consensus/",
+   "https://www.zonebourse.com/cours/action/ROBERTET-5034/actualite/La-valeur-du-jour-a-Paris-Robertet-ses-nouveaux-objectifs-a-horizon-2030-enchantent-les-march-50035640/",
+   "https://www.investing.com/equities/robertet-technical",
+   "https://www.abcbourse.com/marches/events/RBTp",
+   "https://www.boursorama.com/bourse/actualites/la-bce-releve-a-nouveau-ses-taux-d-interet-l-inflation-persiste-8841d48c14e9e8cdc3d71ba0d2ab40cb"
+  ],
+  "tech": {
+   "bas52": 727,
+   "cours": 751,
+   "coursLe": "2026-09-28",
+   "haut52": 910,
+   "lecture": "Cours de 751,00 en dessous de sa moyenne 50 jours (786,74) et en dessous de sa moyenne 200 jours (822,10). RSI 42,1 : élan neutre. Il se situe à 13 % de sa fourchette sur un an (de 727,00 à 910,00), performance sur 12 mois de -5,8 %. Moyennes et RSI calculés sur les vraies clôtures (flux GitHub de 15h33).",
+   "mm200": 822.1,
+   "mm50": 786.74,
+   "resistance": 775,
+   "rsi14": 42.1,
+   "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json",
+   "stade": 4,
+   "support": 710,
+   "tendance": "baissiere"
+  },
+  "verdict": "Robertet reste un leader rentable des ingrédients naturels, avec une dette quasi nulle et une valorisation redescendue vers 16,5 fois les bénéfices 2026, mais il vient de réduire son objectif de croissance 2026 et sa marge recule. Le titre est en tendance baissière sous sa moyenne 200 jours, et la thèse doit être revalidée par un retour de la croissance.",
+  "zones": {
+   "catalyseurs": [
+    "Fin octobre 2026 : CA du T3 (date non confirmée par une source lue).",
+    "Début 2027 : CA et résultats annuels 2026 (date non confirmée).",
+    "Juin 2027 : assemblée générale et dividende."
+   ],
+   "interet": "Entre 680 et 710 € : autour du plus bas annuel, soit environ 14 fois les bénéfices 2027 attendus, un plus bas de valorisation sur plusieurs années.",
+   "invalidation": "Nouvelle baisse de l'objectif 2026, ou marge d'EBITDA annuelle sous 20 % (seuil du plan 2030).",
+   "sortie": [
+    "Croissance organique sous 3 % en 2026 puis en 2027.",
+    "Abandon ou report du plan 2030.",
+    "PER au-dessus de 25 fois sans reprise de la croissance."
+   ]
+  }
+ },
+ "capi": "1,64 Md€",
+ "cours": 751,
+ "coursLe": "2026-09-28",
+ "devise": "€",
+ "faits": [
+  {
+   "d": "28/09",
+   "t": "Note technique Boursorama : sous les résistances, une consolidation est probable (MACD négatif)."
+  },
+  {
+   "d": "24/09",
+   "t": "Comptes semestriels consolidés publiés, sans élément nouveau."
+  },
+  {
+   "d": "17/09",
+   "t": "S1 : CA 444,3 M€ (+2,8 % organique), marge d'EBITDA 21,1 % contre 22,5 %. Objectif 2026 ramené à +3 à +5 %. Titre en baisse."
+  }
+ ],
+ "histo": [
+  [
+   "22/09",
+   808
+  ],
+  [
+   "23/09",
+   790
+  ],
+  [
+   "24/09",
+   795
+  ],
+  [
+   "25/09",
+   793
+  ],
+  [
+   "26/09",
+   799
+  ],
+  [
+   "29/09",
+   800
+  ],
+  [
+   "30/09",
+   794
+  ],
+  [
+   "01/10",
+   807
+  ],
+  [
+   "02/10",
+   797
+  ],
+  [
+   "03/10",
+   804
+  ],
+  [
+   "06/10",
+   799
+  ],
+  [
+   "07/10",
+   803
+  ],
+  [
+   "08/10",
+   814
+  ],
+  [
+   "09/10",
+   817
+  ],
+  [
+   "10/10",
+   804
+  ],
+  [
+   "13/10",
+   810
+  ],
+  [
+   "14/10",
+   805
+  ],
+  [
+   "15/10",
+   818
+  ],
+  [
+   "16/10",
+   819
+  ],
+  [
+   "17/10",
+   818
+  ],
+  [
+   "20/10",
+   825
+  ],
+  [
+   "21/10",
+   829
+  ],
+  [
+   "22/10",
+   831
+  ],
+  [
+   "23/10",
+   842
+  ],
+  [
+   "24/10",
+   859
+  ],
+  [
+   "27/10",
+   859
+  ],
+  [
+   "28/10",
+   847
+  ],
+  [
+   "29/10",
+   830
+  ],
+  [
+   "30/10",
+   833
+  ],
+  [
+   "31/10",
+   833
+  ],
+  [
+   "03/11",
+   820
+  ],
+  [
+   "04/11",
+   815
+  ],
+  [
+   "05/11",
+   815
+  ],
+  [
+   "06/11",
+   825
+  ],
+  [
+   "07/11",
+   827
+  ],
+  [
+   "10/11",
+   848
+  ],
+  [
+   "11/11",
+   866
+  ],
+  [
+   "12/11",
+   888
+  ],
+  [
+   "13/11",
+   890
+  ],
+  [
+   "14/11",
+   874
+  ],
+  [
+   "17/11",
+   859
+  ],
+  [
+   "18/11",
+   858
+  ],
+  [
+   "19/11",
+   877
+  ],
+  [
+   "20/11",
+   869
+  ],
+  [
+   "21/11",
+   908
+  ],
+  [
+   "24/11",
+   893
+  ],
+  [
+   "25/11",
+   874
+  ],
+  [
+   "26/11",
+   877
+  ],
+  [
+   "27/11",
+   875
+  ],
+  [
+   "28/11",
+   880
+  ],
+  [
+   "01/12",
+   887
+  ],
+  [
+   "02/12",
+   886
+  ],
+  [
+   "03/12",
+   883
+  ],
+  [
+   "04/12",
+   892
+  ],
+  [
+   "05/12",
+   903
+  ],
+  [
+   "08/12",
+   893
+  ],
+  [
+   "09/12",
+   904
+  ],
+  [
+   "10/12",
+   909
+  ],
+  [
+   "11/12",
+   910
+  ],
+  [
+   "12/12",
+   905
+  ],
+  [
+   "15/12",
+   894
+  ],
+  [
+   "16/12",
+   896
+  ],
+  [
+   "17/12",
+   887
+  ],
+  [
+   "18/12",
+   885
+  ],
+  [
+   "19/12",
+   878
+  ],
+  [
+   "22/12",
+   882
+  ],
+  [
+   "23/12",
+   876
+  ],
+  [
+   "24/12",
+   872
+  ],
+  [
+   "29/12",
+   885
+  ],
+  [
+   "30/12",
+   879
+  ],
+  [
+   "31/12",
+   878
+  ],
+  [
+   "02/01",
+   879
+  ],
+  [
+   "05/01",
+   876
+  ],
+  [
+   "06/01",
+   870
+  ],
+  [
+   "07/01",
+   870
+  ],
+  [
+   "08/01",
+   874
+  ],
+  [
+   "09/01",
+   878
+  ],
+  [
+   "12/01",
+   875
+  ],
+  [
+   "13/01",
+   895
+  ],
+  [
+   "14/01",
+   899
+  ],
+  [
+   "15/01",
+   903
+  ],
+  [
+   "16/01",
+   900
+  ],
+  [
+   "19/01",
+   881
+  ],
+  [
+   "20/01",
+   895
+  ],
+  [
+   "21/01",
+   900
+  ],
+  [
+   "22/01",
+   901
+  ],
+  [
+   "23/01",
+   898
+  ],
+  [
+   "26/01",
+   890
+  ],
+  [
+   "27/01",
+   888
+  ],
+  [
+   "28/01",
+   877
+  ],
+  [
+   "29/01",
+   860
+  ],
+  [
+   "30/01",
+   846
+  ],
+  [
+   "02/02",
+   840
+  ],
+  [
+   "03/02",
+   840
+  ],
+  [
+   "04/02",
+   848
+  ],
+  [
+   "05/02",
+   845
+  ],
+  [
+   "06/02",
+   837
+  ],
+  [
+   "09/02",
+   833
+  ],
+  [
+   "10/02",
+   855
+  ],
+  [
+   "11/02",
+   846
+  ],
+  [
+   "12/02",
+   833
+  ],
+  [
+   "13/02",
+   854
+  ],
+  [
+   "16/02",
+   854
+  ],
+  [
+   "17/02",
+   860
+  ],
+  [
+   "18/02",
+   874
+  ],
+  [
+   "19/02",
+   878
+  ],
+  [
+   "20/02",
+   873
+  ],
+  [
+   "23/02",
+   864
+  ],
+  [
+   "24/02",
+   875
+  ],
+  [
+   "25/02",
+   875
+  ],
+  [
+   "26/02",
+   872
+  ],
+  [
+   "27/02",
+   876
+  ],
+  [
+   "02/03",
+   866
+  ],
+  [
+   "03/03",
+   830
+  ],
+  [
+   "04/03",
+   825
+  ],
+  [
+   "05/03",
+   827
+  ],
+  [
+   "06/03",
+   825
+  ],
+  [
+   "09/03",
+   810
+  ],
+  [
+   "10/03",
+   819
+  ],
+  [
+   "11/03",
+   803
+  ],
+  [
+   "12/03",
+   813
+  ],
+  [
+   "13/03",
+   801
+  ],
+  [
+   "16/03",
+   807
+  ],
+  [
+   "17/03",
+   797
+  ],
+  [
+   "18/03",
+   802
+  ],
+  [
+   "19/03",
+   790
+  ],
+  [
+   "20/03",
+   783
+  ],
+  [
+   "23/03",
+   792
+  ],
+  [
+   "24/03",
+   791
+  ],
+  [
+   "25/03",
+   819
+  ],
+  [
+   "26/03",
+   815
+  ],
+  [
+   "27/03",
+   824
+  ],
+  [
+   "30/03",
+   829
+  ],
+  [
+   "31/03",
+   805
+  ],
+  [
+   "01/04",
+   813
+  ],
+  [
+   "02/04",
+   815
+  ],
+  [
+   "07/04",
+   808
+  ],
+  [
+   "08/04",
+   828
+  ],
+  [
+   "09/04",
+   822
+  ],
+  [
+   "10/04",
+   905
+  ],
+  [
+   "13/04",
+   865
+  ],
+  [
+   "14/04",
+   817
+  ],
+  [
+   "15/04",
+   806
+  ],
+  [
+   "16/04",
+   814
+  ],
+  [
+   "17/04",
+   837
+  ],
+  [
+   "20/04",
+   827
+  ],
+  [
+   "21/04",
+   820
+  ],
+  [
+   "22/04",
+   814
+  ],
+  [
+   "23/04",
+   814
+  ],
+  [
+   "24/04",
+   813
+  ],
+  [
+   "27/04",
+   803
+  ],
+  [
+   "28/04",
+   812
+  ],
+  [
+   "29/04",
+   794
+  ],
+  [
+   "30/04",
+   800
+  ],
+  [
+   "04/05",
+   795
+  ],
+  [
+   "05/05",
+   792
+  ],
+  [
+   "06/05",
+   797
+  ],
+  [
+   "07/05",
+   797
+  ],
+  [
+   "08/05",
+   787
+  ],
+  [
+   "11/05",
+   790
+  ],
+  [
+   "12/05",
+   783
+  ],
+  [
+   "13/05",
+   794
+  ],
+  [
+   "14/05",
+   800
+  ],
+  [
+   "15/05",
+   795
+  ],
+  [
+   "18/05",
+   794
+  ],
+  [
+   "19/05",
+   814
+  ],
+  [
+   "20/05",
+   811
+  ],
+  [
+   "21/05",
+   816
+  ],
+  [
+   "22/05",
+   817
+  ],
+  [
+   "25/05",
+   815
+  ],
+  [
+   "26/05",
+   820
+  ],
+  [
+   "27/05",
+   826
+  ],
+  [
+   "28/05",
+   833
+  ],
+  [
+   "29/05",
+   830
+  ],
+  [
+   "01/06",
+   812
+  ],
+  [
+   "02/06",
+   810
+  ],
+  [
+   "03/06",
+   800
+  ],
+  [
+   "04/06",
+   798
+  ],
+  [
+   "05/06",
+   797
+  ],
+  [
+   "08/06",
+   797
+  ],
+  [
+   "09/06",
+   815
+  ],
+  [
+   "10/06",
+   821
+  ],
+  [
+   "11/06",
+   816
+  ],
+  [
+   "12/06",
+   827
+  ],
+  [
+   "15/06",
+   828
+  ],
+  [
+   "16/06",
+   824
+  ],
+  [
+   "17/06",
+   812
+  ],
+  [
+   "18/06",
+   808
+  ],
+  [
+   "19/06",
+   805
+  ],
+  [
+   "22/06",
+   803
+  ],
+  [
+   "23/06",
+   813
+  ],
+  [
+   "24/06",
+   819
+  ],
+  [
+   "25/06",
+   809
+  ],
+  [
+   "26/06",
+   816
+  ],
+  [
+   "29/06",
+   816
+  ],
+  [
+   "30/06",
+   806
+  ],
+  [
+   "01/07",
+   813
+  ],
+  [
+   "02/07",
+   818
+  ],
+  [
+   "03/07",
+   820
+  ],
+  [
+   "06/07",
+   802
+  ],
+  [
+   "07/07",
+   818
+  ],
+  [
+   "08/07",
+   804
+  ],
+  [
+   "09/07",
+   806
+  ],
+  [
+   "10/07",
+   813
+  ],
+  [
+   "13/07",
+   827
+  ],
+  [
+   "14/07",
+   827
+  ],
+  [
+   "15/07",
+   821
+  ],
+  [
+   "16/07",
+   823
+  ],
+  [
+   "17/07",
+   817
+  ],
+  [
+   "20/07",
+   817
+  ],
+  [
+   "21/07",
+   806
+  ],
+  [
+   "22/07",
+   806
+  ],
+  [
+   "23/07",
+   795
+  ],
+  [
+   "24/07",
+   772
+  ],
+  [
+   "27/07",
+   795
+  ],
+  [
+   "28/07",
+   822
+  ],
+  [
+   "29/07",
+   814
+  ],
+  [
+   "30/07",
+   814
+  ],
+  [
+   "31/07",
+   796
+  ],
+  [
+   "03/08",
+   802
+  ],
+  [
+   "04/08",
+   804
+  ],
+  [
+   "05/08",
+   798
+  ],
+  [
+   "06/08",
+   808
+  ],
+  [
+   "07/08",
+   810
+  ],
+  [
+   "10/08",
+   792
+  ],
+  [
+   "11/08",
+   793
+  ],
+  [
+   "12/08",
+   795
+  ],
+  [
+   "13/08",
+   800
+  ],
+  [
+   "14/08",
+   806
+  ],
+  [
+   "17/08",
+   790
+  ],
+  [
+   "18/08",
+   792
+  ],
+  [
+   "19/08",
+   786
+  ],
+  [
+   "20/08",
+   790
+  ],
+  [
+   "21/08",
+   790
+  ],
+  [
+   "24/08",
+   799
+  ],
+  [
+   "25/08",
+   798
+  ],
+  [
+   "26/08",
+   808
+  ],
+  [
+   "27/08",
+   801
+  ],
+  [
+   "28/08",
+   805
+  ],
+  [
+   "31/08",
+   809
+  ],
+  [
+   "01/09",
+   777
+  ],
+  [
+   "02/09",
+   786
+  ],
+  [
+   "03/09",
+   788
+  ],
+  [
+   "04/09",
+   797
+  ],
+  [
+   "07/09",
+   791
+  ],
+  [
+   "08/09",
+   781
+  ],
+  [
+   "09/09",
+   777
+  ],
+  [
+   "10/09",
+   764
+  ],
+  [
+   "11/09",
+   769
+  ],
+  [
+   "14/09",
+   772
+  ],
+  [
+   "15/09",
+   771
+  ],
+  [
+   "16/09",
+   765
+  ],
+  [
+   "17/09",
+   765
+  ],
+  [
+   "18/09",
+   727
+  ],
+  [
+   "21/09",
+   756
+  ],
+  [
+   "22/09",
+   764
+  ],
+  [
+   "23/09",
+   755
+  ],
+  [
+   "24/09",
+   742
+  ],
+  [
+   "25/09",
+   743
+  ],
+  [
+   "28/09",
+   751
+  ]
+ ],
+ "nom": "Robertet",
+ "notes": "Clôture du 28/09 non confirmée sur le web : cours du flux GitHub relevé à 15h33 (751,00), à remplacer par la vraie clôture au prochain flux. Titre très peu échangé (748 € à 11h57). Objectifs d'analystes contradictoires : 563 € (ABC Bourse) contre 933,67 € (Boursorama). Date du CA T3 non trouvée.",
+ "pays": "FR",
+ "per26": 16.6,
+ "per27": 14.9,
+ "perf": {
+  "m1": -6.7,
+  "m12": -5.8,
+  "m3": -7.6
+ },
+ "pub": "2027-02-11",
+ "pubLabel": "Résultats annuels",
+ "risque": "Objectif 2026 abaissé, marge en recul : à surveiller, pas à acheter.",
+ "secteur": "Arômes et parfums naturels",
+ "societe": {
+  "aVerifier": "Vérifié le 29/09/2026 sur les communiqués de résultats annuels Robertet 2021, 2023 et 2025 et le rapport financier annuel 2025 : CA, résultat net part du groupe, résultat opérationnel courant (margeOp = ROC / CA), dette nette et dividendes 2021 à 2025 confirmés ou corrigés. Dette nette : la société publie une « trésorerie nette » définie dettes IFRS 16 incluses ; elle est négative (donc dette nette) depuis 2022 (169,8 ; 153,0 ; 97,7 ; 72,7 M€) et positive en 2021 (77,3 M€). Dividende 2024 de 10 € déduit du communiqué 2025 (12 €, +20 %). Actionnariat au 31/12/2025, effectifs (plus de 2 700) et fondation en 1850 confirmés par le rapport 2025 ; Philippe Maubert président et Jérôme Bruhat directeur général confirmés. Restent non vérifiés : répartition géographique (Zonebourse ; la société ne publie que des taux de croissance par zone), dates d'entrée en fonction des dirigeants, faits historiques antérieurs à 2022 hors fondation, consensus 2026e (Boursorama, source secondaire), liste des concurrents.",
+  "actionnariat": "La famille Maubert contrôle le groupe : Maubert SA 34,7 % du capital (54,5 % des droits de vote) et membres de la famille 5,5 % en direct ; le Fonds Stratégique de Participations et Peugeot Invest détiennent 7,6 % chacun (concert de 53,3 % du capital déclaré en février 2025) ; autodétention 3,4 %, autres actionnaires 41,3 % (au 31/12/2025).",
+  "avantage": "Un savoir-faire unique dans le naturel, de la plantation à l'extraction, avec des filières d'approvisionnement contrôlées et une réputation historique auprès des grandes maisons de parfum. Ce qui pourrait l'éroder : des géants bien plus gros (Givaudan, Symrise) qui investissent aussi dans le naturel, et la volatilité des récoltes qui peut peser sur les marges.",
+  "chiffres": [
+   {
+    "annee": "2021",
+    "ca": 606.1,
+    "detteNette": -77.3,
+    "dividende": 8,
+    "margeOp": 15.4,
+    "rn": 71.8
+   },
+   {
+    "annee": "2022",
+    "ca": 703,
+    "detteNette": 169.8,
+    "dividende": 8.5,
+    "margeOp": 14.5,
+    "rn": 76
+   },
+   {
+    "annee": "2023",
+    "ca": 721.1,
+    "detteNette": 153,
+    "dividende": 8.5,
+    "margeOp": 15.5,
+    "rn": 74.6
+   },
+   {
+    "annee": "2024",
+    "ca": 807.6,
+    "detteNette": 97.7,
+    "dividende": 10,
+    "margeOp": 15.5,
+    "rn": 90.1
+   },
+   {
+    "annee": "2025",
+    "ca": 843.9,
+    "detteNette": 72.7,
+    "dividende": 12,
+    "margeOp": 17.1,
+    "rn": 103.4
+   },
+   {
+    "annee": "2026e",
+    "ca": 866,
+    "detteNette": null,
+    "dividende": 11.7,
+    "margeOp": null,
+    "rn": null
+   }
+  ],
+  "clients": "Des grands groupes et des marques de parfum, cosmétique, agroalimentaire et boissons dans le monde entier ; le groupe ne publie pas le poids de ses premiers clients dans les sources consultées.",
+  "concurrents": [
+   "Givaudan",
+   "DSM-Firmenich",
+   "IFF",
+   "Symrise",
+   "Mane",
+   "Takasago"
+  ],
+  "corrections": [
+   "2021 margeOp 15.5 -> 15.4 (communiqué Robertet du 21/04/2022 : résultat opérationnel courant 93,6 M€, 15,4 % du CA).",
+   "2021 detteNette null -> -77.3 (même communiqué : trésorerie nette positive de 77,3 M€, dettes IFRS 16 incluses).",
+   "2021 dividende null -> 8 (même communiqué : dividende proposé de 8,00 € par action).",
+   "Actionnariat précisé avec les droits de vote, l'autodétention et le concert FSP / Peugeot Invest (rapport financier annuel 2025, communiqué de franchissement de seuils de février 2025).",
+   "Histoire : ajout de la prise de la division Parfumerie par Julien Maubert en janvier 2026 (rapport financier annuel 2025)."
+  ],
+  "croire": [
+   "Que la demande mondiale pour des ingrédients naturels (clean label, parfums plus naturels) continue de croître plus vite que le marché des arômes et parfums.",
+   "Que la nouvelle direction non familiale, appuyée par des actionnaires stables, atteigne l'ambition 2030 de 1,1 à 1,2 milliard d'euros de chiffre d'affaires avec une marge d'EBITDA supérieure à 20 %.",
+   "Que Robertet reste un partenaire indispensable des grands, même face à la concentration du secteur."
+  ],
+  "devise": "€",
+  "dirigeants": [
+   {
+    "depuis": "2022",
+    "nom": "Jérôme Bruhat",
+    "role": "Directeur général"
+   },
+   {
+    "depuis": "1993",
+    "nom": "Philippe Maubert",
+    "role": "Président du conseil (non exécutif depuis 2022)"
+   }
+  ],
+  "effectifs": 2700,
+  "fondee": 1850,
+  "geo": [
+   {
+    "part": 32,
+    "zone": "Amérique du Nord"
+   },
+   {
+    "part": 29,
+    "zone": "Reste du monde"
+   },
+   {
+    "part": 21,
+    "zone": "Europe hors France"
+   },
+   {
+    "part": 18,
+    "zone": "France"
+   }
+  ],
+  "histoire": [
+   {
+    "annee": 1850,
+    "fait": "Naissance à Grasse de l'activité de traitement des fleurs et plantes de Provence qui deviendra Robertet."
+   },
+   {
+    "annee": 1923,
+    "fait": "Maurice Maubert prend la direction : la famille Maubert pilote l'entreprise depuis, sur quatre à cinq générations."
+   },
+   {
+    "annee": 1961,
+    "fait": "Diversification vers les compositions de parfums et les arômes alimentaires, avec des implantations en Europe, en Amérique et en Asie."
+   },
+   {
+    "annee": 1984,
+    "fait": "Introduction à la Bourse de Paris."
+   },
+   {
+    "annee": 1986,
+    "fait": "Rachat de Jay Flavors aux États-Unis, début d'une forte présence américaine."
+   },
+   {
+    "annee": 2007,
+    "fait": "Rachat de Charabot (Grasse) et de SAPAD (huiles essentielles bio)."
+   },
+   {
+    "annee": 2022,
+    "fait": "Jérôme Bruhat devient directeur général, premier dirigeant exécutif hors famille ; Philippe Maubert reste président non exécutif. Rachat d'Omega Ingredients (Royaume-Uni)."
+   },
+   {
+    "annee": 2024,
+    "fait": "Le Fonds Stratégique de Participations et Peugeot Invest entrent au capital aux côtés de la famille Maubert."
+   },
+   {
+    "annee": 2026,
+    "fait": "Changement de génération annoncé dans le rapport 2025 : Julien Maubert prend la direction de la division Parfumerie en janvier 2026."
+   }
+  ],
+  "modele": "Robertet vend des ingrédients et des formules sur mesure à des industriels de l'alimentation, des boissons, du parfum et de la cosmétique. Les ventes se répètent d'année en année car une fois qu'un arôme ou un parfum est intégré dans un produit à succès, le client le recommande tant que le produit existe (changer coûte cher et risque de modifier le goût ou l'odeur). La maîtrise des matières premières naturelles rares lui donne un vrai pouvoir de prix, mais l'expose aussi aux variations des récoltes (vanille, agrumes...).",
+  "questions": [
+   "La croissance vient-elle des volumes ou surtout des hausses de prix des matières premières (vanille, agrumes) ?",
+   "La division Parfumerie, qui a peu progressé en 2025 (+2,1 % organique), retrouve-t-elle du dynamisme ?",
+   "Les acquisitions (Inde, Royaume-Uni, start-ups) créent-elles de la valeur sans alourdir la dette ?"
+  ],
+  "resume": "Robertet transforme des plantes (rose, vanille, agrumes, épices...) en extraits naturels et crée des arômes et des parfums pour d'autres marques. Quand vous mangez un yaourt aromatisé, buvez un soda ou portez un parfum de grande maison, il y a des chances qu'un ingrédient ou une formule vienne d'un fournisseur comme Robertet, installé à Grasse. Sa spécialité reconnue : le naturel.",
+  "segments": [
+   {
+    "detail": "Création de parfums pour la parfumerie fine, les cosmétiques et les produits d'entretien.",
+    "nom": "Parfumerie",
+    "part": 37.4
+   },
+   {
+    "detail": "Arômes pour l'alimentation et les boissons (goûts sucrés, salés, boissons).",
+    "nom": "Arômes",
+    "part": 34.6
+   },
+   {
+    "detail": "Extraits naturels et huiles essentielles vendus à d'autres fabricants, y compris des concurrents.",
+    "nom": "Matières premières",
+    "part": 25.3
+   },
+   {
+    "detail": "Actifs naturels pour compléments alimentaires et cosmétiques.",
+    "nom": "Santé et beauté",
+    "part": 2.7
+   }
+  ],
+  "siege": "Grasse, France",
+  "site": "https://www.robertet.com",
+  "sources": [
+   "https://www.globenewswire.com/news-release/2026/04/09/3271264/0/fr/robertet-groupe-forte-croissance-organique-et-am%C3%A9lioration-de-la-rentabilit%C3%A9-2025.html",
+   "https://www.robertet.com/wp-content/uploads/2026/04/Robertet-RFA-2025-FR.pdf",
+   "https://www.robertet.com/wp-content/uploads/2026/02/RESULTATS-2025.pdf",
+   "https://www.webdisclosure.com/press-release/robertet-epa-rbt-resultats-2023-bonne-performance-dans-un-contexte-conjoncturel-difficile-sv6dNZh4QZB",
+   "https://www.robertet.com/wp-content/uploads/2024/05/ROBERTET-2023-Proposition-CA-du-10-04-2024_-FR.pdf",
+   "https://www.actusnews.com/fr/robertet/cp/2022/04/21/robertet-2021-forte-progression-des-resultats",
+   "https://www.robertet.com/en/blog/2024/11/19/robertet-announces-the-arrival-of-fonds-strategique-de-participation-fsp-and-peugeot-invest-pi-as-new-investors-alongside-the-maubert-family/",
+   "https://www.robertet.com/en/group/our-history/",
+   "https://www.tradingsat.com/robertet-FR0000039091/actualites/robertet-robertet-un-concert-d-actionnaires-franchit-les-50-1134200.html",
+   "https://www.zonebourse.com/cours/action/ROBERTET-5034/societe/",
+   "https://www.boursorama.com/cours/consensus/1rPRBT/"
+  ],
+  "suivi": {
+   "bilan": "Sur 6 points, 2 vont dans le sens de la thèse (Parfumerie relancée, dette faible) et 4 sont à surveiller ; le plus fragile est l'ambition 2030, car l'objectif 2026 est déjà sous le rythme prévu.",
+   "croire": [
+    {
+     "c": "Que la demande mondiale pour des ingrédients naturels (clean label, parfums plus naturels) continue de croître plus vite que le marché des arômes et parfums.",
+     "etat": "watch",
+     "preuve": "S1 2026 : Robertet +2,8 % organique contre +3,6 % à données comparables pour Givaudan (dont +6,5 % en parfums et beauté).",
+     "prochain": "CA annuel 2026 le 11/02/2027",
+     "reponse": "Au premier semestre, Robertet a grandi un peu moins vite que le leader du secteur Givaudan : pas de preuve que le naturel tire le marché en ce moment, même si la parfumerie de niche va très bien.",
+     "source": "https://www.givaudan.com/media/media-releases/2026/2026-half-year-results"
+    },
+    {
+     "c": "Que la nouvelle direction non familiale, appuyée par des actionnaires stables, atteigne l'ambition 2030 de 1,1 à 1,2 milliard d'euros de chiffre d'affaires avec une marge d'EBITDA supérieure à 20 %.",
+     "etat": "watch",
+     "preuve": "Objectif de croissance organique 2026 ramené à +3 à +5 % (le plan 2030 suppose +5 à +7 % par an) ; marge d'EBITDA S1 2026 de 21,1 % contre 22,5 %.",
+     "prochain": "CA annuel 2026 le 11/02/2027",
+     "reponse": "La direction confirme le plan « Seed to success 2030 » et la marge reste au dessus de 20 %, mais l'objectif 2026 a été abaissé sous le rythme annuel que suppose le plan.",
+     "source": "https://www.tradingsat.com/robertet-FR0000039091/actualites/robertet-robertet-le-numero-1-mondial-francais-des-ingredients-naturels-pour-parfums-modere-ses-ambitions-de-croissance-pour-2026-l-action-recule-a-la-bourse-de-paris-1170379.html"
+    },
+    {
+     "c": "Que Robertet reste un partenaire indispensable des grands, même face à la concentration du secteur.",
+     "etat": "watch",
+     "preuve": "S1 2026 : Matières premières -5,5 % organique (bases de comparaison élevées selon la direction), Parfumerie +12,6 %.",
+     "prochain": "CA annuel 2026 le 11/02/2027",
+     "reponse": "Pas d'information publique sur les grands clients. Signal mitigé : la division qui vend des matières premières aux autres industriels (y compris les grands concurrents) recule, alors que la Parfumerie gagne.",
+     "source": "https://www.abcbourse.com/marches/newsContent/702738"
+    }
+   ],
+   "le": "2026-09-29",
+   "questions": [
+    {
+     "etat": "watch",
+     "preuve": "S1 2026 : croissance organique +2,8 % (T1 +4,9 %, T2 +0,7 %), Parfumerie +12,6 %, Matières premières -5,5 %, Arômes -1,7 %. Les dérivés pétroliers (près de la moitié des achats) renchérissent et doivent être compensés par des hausses de prix négociées.",
+     "prochain": "CA annuel 2026 le 11/02/2027",
+     "q": "La croissance vient-elle des volumes ou surtout des hausses de prix des matières premières (vanille, agrumes) ?",
+     "reponse": "Robertet ne publie pas la part prix et la part volumes. La croissance du semestre vient surtout de la Parfumerie, pas de la division Matières premières (celle qui profite le plus des prix de la vanille ou des agrumes), qui recule.",
+     "source": "https://www.globenewswire.com/news-release/2026/09/17/3364229/0/fr/robertet-un-premier-semestre-2026-solide.html"
+    },
+    {
+     "etat": "ok",
+     "preuve": "S1 2026 : Parfumerie 175,7 M€, +12,6 % en organique (contre +2,1 % sur 2025).",
+     "prochain": "CA annuel 2026 le 11/02/2027",
+     "q": "La division Parfumerie, qui a peu progressé en 2025 (+2,1 % organique), retrouve-t-elle du dynamisme ?",
+     "reponse": "Oui, nettement : la Parfumerie est redevenue le moteur du groupe au premier semestre, portée par les marques de niche et l'Amérique latine et le Moyen-Orient.",
+     "source": "https://www.globenewswire.com/news-release/2026/09/17/3364229/0/fr/robertet-un-premier-semestre-2026-solide.html"
+    },
+    {
+     "etat": "ok",
+     "preuve": "S1 2026 : effet de périmètre de -0,3 % sur le CA ; dette nette de 79,7 M€ au 30/06/2026 (72,7 M€ fin 2025) pour 647,1 M€ de capitaux propres.",
+     "prochain": "CA annuel 2026 le 11/02/2027",
+     "q": "Les acquisitions (Inde, Royaume-Uni, start-ups) créent-elles de la valeur sans alourdir la dette ?",
+     "reponse": "Pas de nouvelle acquisition notable ce semestre, donc rien de neuf à juger sur la valeur créée ; la dette reste très faible. Le plan 2030 prévoit 50 à 80 M€ de chiffre d'affaires apporté par de petites acquisitions.",
+     "source": "https://www.globenewswire.com/news-release/2026/09/17/3364229/0/fr/robertet-un-premier-semestre-2026-solide.html"
+    }
+   ]
+  },
+  "verifieLe": "2026-09-29"
+ },
+ "src": "https://www.optionfinance.fr/info-financiere-en-continu/d/2026-09-18-robertet-ajuste-a-la-baisse-un-objectif-le-titre-flanche.html",
+ "statut": "surveiller",
+ "these": "Leader de niche des ingrédients naturels.",
+ "ticker": "RBT",
+ "yahoo": "RBT.PA",
+ "zb": "https://www.zonebourse.com/cours/action/ROBERTET-5034/"
+}

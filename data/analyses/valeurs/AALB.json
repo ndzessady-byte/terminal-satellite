@@ -1,0 +1,1445 @@
+{
+ "analyse": {
+  "aVerifier": "Moyenne 200 jours non lue. Couverture des interets, F-score de Piotroski et multiples des concurrents non trouves. PER 2026 : 18,7 chez Zonebourse contre 15,2 chez Boursorama (definitions de BPA differentes). Date de fin du rachat d'actions (9/10) lue sur un site secondaire, a confirmer. Objectif moyen des analystes (45,36 €) date du 18/08.",
+  "actu": [
+   {
+    "d": "09/06",
+    "fait": "Aalberts integre l'indice AEX d'Amsterdam.",
+    "horizon": "court",
+    "impact": "positif",
+    "lecture": "Apporte des achats de fonds indiciels et plus de visibilite, sans changer la valeur de l'entreprise."
+   },
+   {
+    "d": "23/07",
+    "fait": "Resultats du premier semestre 2026 : croissance organique de +5 %, marge EBITA de 14,4 %, activite Semicon a +9,2 % avec un carnet de commandes tres solide lie aux investissements dans l'IA ; prudence sur l'industrie americaine en raison des politiques commerciales.",
+    "horizon": "moyen",
+    "impact": "positif",
+    "lecture": "Valide le redressement des marges et le levier IA, coeur de la these, tout en rappelant le risque des droits de douane aux Etats-Unis."
+   },
+   {
+    "d": "04/08",
+    "fait": "Le bureau d'analyse AlphaValue/Baader reste negatif sur le titre (opinion passee de vente a allegement la veille).",
+    "horizon": "court",
+    "impact": "negatif",
+    "lecture": "Signale qu'une partie des analystes juge le rebond deja largement integre dans le cours."
+   },
+   {
+    "d": "22/09",
+    "fait": "Rachat d'actions de 75 M€ en cours : achats hebdomadaires autour de 40,50 € mi septembre, actions destinees a etre annulees.",
+    "horizon": "court",
+    "impact": "positif",
+    "lecture": "Soutient le BPA par action et le cours a court terme, mais reste modeste face a une capitalisation d'environ 4,5 Md€."
+   }
+  ],
+  "cadres": [
+   "Buffett / Fisher (qualite, rentabilite, marges)",
+   "Lynch (croissance, PEG)",
+   "Graham (solidite du bilan)",
+   "Greenblatt (formule magique)",
+   "Theorie de Dow",
+   "Weinstein (stades)",
+   "Minervini (partiel, MM200 manquante ou datee)"
+  ],
+  "conviction": "moyenne",
+  "fonda": {
+   "bilan": "Dette nette de 1 068 M€ fin juin 2026, ratio de levier de 1,9 fois (1,6 fois un an plus tot, hausse liee aux rachats de Paulo et GVT), sous le plafond de 2,5 fois que se fixe le groupe. Flux de tresorerie libre avant exceptionnels de 88,6 M€ au semestre (taux de conversion faible de 29 %). Couverture des interets non trouvee.",
+   "croissance": "Ventes quasi stables : 3 324 M€ en 2023, 3 091 M€ en 2025, 3 064 M€ attendus en 2026 (effet des cessions) puis 3 373 M€ en 2028. BPA publie : 2,85 € en 2023, 1,36 € en 2025, puis 2,26 € attendus en 2026, 2,67 € en 2027 et 2,96 € en 2028, soit environ +14,5 % par an de 2026 a 2028. Au premier semestre 2026 : croissance organique de +5 %, BPA avant exceptionnels de 1,47 € contre 1,38 €.",
+   "greenblatt": "Rendement beneficiaire d'environ 6,8 % (EBIT 2026 de 370 M€ sur une valeur d'entreprise d'environ 5,4 Md€) et ROCE de 12,5 % : profil correct mais pas exceptionnel.",
+   "justif": "Bonne franchise industrielle et bilan maitrise, mais rentabilite du capital encore moyenne (ROCE 12,5 %) et valorisation deja remontee apres le rebond boursier.",
+   "peg": 1.29,
+   "piotroski": null,
+   "qualite": "ROCE avant elements exceptionnels de 12,5 % au premier semestre 2026 (13,3 % un an plus tot), loin de l'objectif de plus de 18 % vise pour 2030. Marge EBITA de 14,4 % au premier semestre (Batiment 13,5 %, Industrie 18,6 %, Semicon 14,2 %). La marge operationnelle publiee a baisse de 13,9 % en 2023 a 8,4 % en 2025 (elements exceptionnels inclus) puis devrait remonter a 12,1 % en 2026. Positions fortes de niche et hausse de prix obtenue (\"pricing excellence\"), ce qui signale un vrai pouvoir de prix.",
+   "score": 6,
+   "valo": "PER 18,7 en 2026 et 15,8 en 2027 ; VE/EBITDA 8,9 puis 8,0 ; rendement du flux de tresorerie libre d'environ 4 % ; dividende 2,8 %. Moyenne 2021-2025 : PER d'environ 17 et VE/EBITDA d'environ 8,2. L'action est donc un peu au dessus de sa moyenne historique. Multiples des concurrents non verifies."
+  },
+  "majLe": "2026-09-28",
+  "revisions": "Non trouvé. Objectif moyen des analystes 45,36 € (Boursorama).",
+  "scenarios": [
+   {
+    "bas": 38.5,
+    "central": 42.5,
+    "haut": 46.5,
+    "horizon": "2 mois",
+    "hypotheses": "Le point d'activite du T3 le 22/10 decide de la sortie de la zone 38,78 a 45,50 €. Le central reste proche de l'objectif moyen des analystes (45,36 €), le haut suppose une cassure de la resistance.",
+    "unite": "€"
+   },
+   {
+    "bas": 35,
+    "central": 45,
+    "haut": 51,
+    "horizon": "12 mois",
+    "hypotheses": "BPA 2027 attendu de 2,67 € multiplie par un PER de 13 (bas, ralentissement industriel et semi-conducteurs), 16,5 (central, proche de la moyenne) ou 19 (haut, marges en route vers 18 %).",
+    "unite": "€"
+   },
+   {
+    "bas": -3,
+    "central": 9,
+    "haut": 15,
+    "horizon": "5 ans",
+    "hypotheses": "Central : BPA +9 %/an grace a la remontee des marges, dividende 2,8 %, PER de 18,7 a 16 (-3 %/an), soit environ 9 %/an. Bas : BPA +3 %, dividende 2,5 %, PER vers 12 (-8,5 %/an). Haut : BPA +13 %, dividende 3 %, PER stable vers 18.",
+    "unite": "%/an"
+   },
+   {
+    "bas": 1,
+    "central": 8.5,
+    "haut": 12.5,
+    "horizon": "10-15 ans",
+    "hypotheses": "Sur 12 ans : central BPA +7 %/an, dividende 2,8 %, PER de 18,7 a 16 (-1,3 %/an). Bas : BPA +2 %, dividende 2,5 %, PER vers 12 (-3,6 %/an). Haut : BPA +10 %, dividende 3 %, PER quasi stable.",
+    "unite": "%/an"
+   }
+  ],
+  "sources": [
+   "https://ml-eu.globenewswire.com/Resource/Download/f4dfb894-080f-4a11-a7af-1c2c585a91a9",
+   "https://www.aalberts.com/progress/publication-first-half-year-2026-results",
+   "https://aalberts.com/investor",
+   "https://www.zonebourse.com/cours/action/AALBERTS-NV-6371/valorisation/",
+   "https://www.zonebourse.com/cours/action/AALBERTS-NV-6371/finances/",
+   "https://www.zonebourse.com/cours/action/AALBERTS-NV-6371/actualite/",
+   "https://www.boursorama.com/cours/1rAAALB/",
+   "https://theasset.nl/kansen/aalberts-blijft-technisch-op-koers-voor-verdere-stijging/",
+   "https://www.ad-hoc-news.de/boerse/news/corporate-news/aalberts-stock-heads-into-the-open-after-a-0-34-percent-gain/70163450"
+  ],
+  "tech": {
+   "bas52": 26.04,
+   "cours": 42.32,
+   "coursLe": "2026-09-28",
+   "haut52": 45.08,
+   "lecture": "Cours de 42,32 en dessous de sa moyenne 50 jours (42,61) et au-dessus de sa moyenne 200 jours (36,25). RSI 54,6 : élan neutre. Il se situe à 86 % de sa fourchette sur un an (de 26,04 à 45,08), performance sur 12 mois de +48,1 %. Moyennes et RSI calculés sur les vraies clôtures (flux GitHub de 15h33).",
+   "mm200": 36.25,
+   "mm50": 42.61,
+   "resistance": 45.5,
+   "rsi14": 54.6,
+   "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json",
+   "stade": 2,
+   "support": 38.78,
+   "tendance": "neutre"
+  },
+  "verdict": "Aalberts est un industriel diversifie (batiment, industrie, semi-conducteurs) qui retrouve de la croissance organique (+5 %) et des marges en hausse, porte par ses equipements pour les usines de puces liees a l'IA et par un rachat d'actions. Apres +49 % depuis janvier, l'action se paie environ 18,7 fois le benefice 2026, un prix correct seulement si les marges continuent de monter vers l'objectif de 18 % en 2030.",
+  "zones": {
+   "catalyseurs": [
+    "22/10/2026 : publication du T3 2026",
+    "Octobre 2026 : fin prevue du rachat d'actions de 75 M€ (date a confirmer)",
+    "Fevrier 2027 : resultats annuels 2026 (date a confirmer)"
+   ],
+   "interet": "Entre 35 et 38,80 € : zone du support technique (38,78 €) et de l'ancienne cassure (34,80 €), soit un PER 2027 d'environ 13 a 14,5, sous la moyenne historique.",
+   "invalidation": "Cloture sous 34,80 € ou retour a une croissance organique negative avec une marge EBITA qui repasse sous 13 %.",
+   "sortie": [
+    "Marge EBITA qui ne progresse plus (sous 13 % deux semestres de suite)",
+    "Ratio de levier au dessus de 2,5 fois",
+    "PER 2027 au dessus de 22 sans acceleration de la croissance",
+    "Retournement du carnet de commandes Semicon"
+   ]
+  }
+ },
+ "capi": "4,5 Md€",
+ "cours": 42.32,
+ "coursLe": "2026-09-28",
+ "devise": "€",
+ "faits": [
+  {
+   "d": "22/09",
+   "t": "Rachat d'actions : 64,5 M€ sur 75 M€ réalisés au 18/09 (prix moyen de la semaine 40,52 €), fin au plus tard le 09/10."
+  },
+  {
+   "d": "23/07",
+   "t": "S1 : CA 1 560 M€, croissance organique +5,0 %, marge EBITA 14,4 %. Vise mieux que 2025 sur l'année."
+  }
+ ],
+ "histo": [
+  [
+   "22/09",
+   28.76
+  ],
+  [
+   "23/09",
+   28.94
+  ],
+  [
+   "24/09",
+   28.82
+  ],
+  [
+   "25/09",
+   28.06
+  ],
+  [
+   "26/09",
+   27.84
+  ],
+  [
+   "29/09",
+   27.78
+  ],
+  [
+   "30/09",
+   28
+  ],
+  [
+   "01/10",
+   28.36
+  ],
+  [
+   "02/10",
+   28.8
+  ],
+  [
+   "03/10",
+   28.88
+  ],
+  [
+   "06/10",
+   28.38
+  ],
+  [
+   "07/10",
+   28.4
+  ],
+  [
+   "08/10",
+   27.92
+  ],
+  [
+   "09/10",
+   27.92
+  ],
+  [
+   "10/10",
+   27.16
+  ],
+  [
+   "13/10",
+   27.7
+  ],
+  [
+   "14/10",
+   27.26
+  ],
+  [
+   "15/10",
+   27.26
+  ],
+  [
+   "16/10",
+   27.26
+  ],
+  [
+   "17/10",
+   27.06
+  ],
+  [
+   "20/10",
+   27.46
+  ],
+  [
+   "21/10",
+   27.62
+  ],
+  [
+   "22/10",
+   27.66
+  ],
+  [
+   "23/10",
+   27.76
+  ],
+  [
+   "24/10",
+   28.34
+  ],
+  [
+   "27/10",
+   28.6
+  ],
+  [
+   "28/10",
+   28.56
+  ],
+  [
+   "29/10",
+   28.48
+  ],
+  [
+   "30/10",
+   27.94
+  ],
+  [
+   "31/10",
+   27.58
+  ],
+  [
+   "03/11",
+   27.32
+  ],
+  [
+   "04/11",
+   26.54
+  ],
+  [
+   "05/11",
+   26.7
+  ],
+  [
+   "06/11",
+   26.16
+  ],
+  [
+   "07/11",
+   26.04
+  ],
+  [
+   "10/11",
+   26.6
+  ],
+  [
+   "11/11",
+   26.98
+  ],
+  [
+   "12/11",
+   27.28
+  ],
+  [
+   "13/11",
+   27.94
+  ],
+  [
+   "14/11",
+   27.18
+  ],
+  [
+   "17/11",
+   26.62
+  ],
+  [
+   "18/11",
+   26.2
+  ],
+  [
+   "19/11",
+   26.4
+  ],
+  [
+   "20/11",
+   26.24
+  ],
+  [
+   "21/11",
+   26.32
+  ],
+  [
+   "24/11",
+   26.9
+  ],
+  [
+   "25/11",
+   27.54
+  ],
+  [
+   "26/11",
+   27.66
+  ],
+  [
+   "27/11",
+   27.76
+  ],
+  [
+   "28/11",
+   27.7
+  ],
+  [
+   "01/12",
+   27.82
+  ],
+  [
+   "02/12",
+   27.3
+  ],
+  [
+   "03/12",
+   27.32
+  ],
+  [
+   "04/12",
+   28.28
+  ],
+  [
+   "05/12",
+   28.64
+  ],
+  [
+   "08/12",
+   28.66
+  ],
+  [
+   "09/12",
+   28.5
+  ],
+  [
+   "10/12",
+   28.04
+  ],
+  [
+   "11/12",
+   28.64
+  ],
+  [
+   "12/12",
+   28.66
+  ],
+  [
+   "15/12",
+   28.4
+  ],
+  [
+   "16/12",
+   28.28
+  ],
+  [
+   "17/12",
+   27.98
+  ],
+  [
+   "18/12",
+   28.26
+  ],
+  [
+   "19/12",
+   27.84
+  ],
+  [
+   "22/12",
+   27.96
+  ],
+  [
+   "23/12",
+   27.82
+  ],
+  [
+   "24/12",
+   27.72
+  ],
+  [
+   "29/12",
+   28.04
+  ],
+  [
+   "30/12",
+   28.28
+  ],
+  [
+   "31/12",
+   28.06
+  ],
+  [
+   "02/01",
+   28.52
+  ],
+  [
+   "05/01",
+   29.26
+  ],
+  [
+   "06/01",
+   29.24
+  ],
+  [
+   "07/01",
+   29.68
+  ],
+  [
+   "08/01",
+   29.1
+  ],
+  [
+   "09/01",
+   29.02
+  ],
+  [
+   "12/01",
+   28.8
+  ],
+  [
+   "13/01",
+   28.46
+  ],
+  [
+   "14/01",
+   28.36
+  ],
+  [
+   "15/01",
+   30.18
+  ],
+  [
+   "16/01",
+   30
+  ],
+  [
+   "19/01",
+   29.56
+  ],
+  [
+   "20/01",
+   28.82
+  ],
+  [
+   "21/01",
+   29.64
+  ],
+  [
+   "22/01",
+   30.6
+  ],
+  [
+   "23/01",
+   30.5
+  ],
+  [
+   "26/01",
+   30.68
+  ],
+  [
+   "27/01",
+   30.84
+  ],
+  [
+   "28/01",
+   32.78
+  ],
+  [
+   "29/01",
+   32.32
+  ],
+  [
+   "30/01",
+   32.46
+  ],
+  [
+   "02/02",
+   32.92
+  ],
+  [
+   "03/02",
+   33.64
+  ],
+  [
+   "04/02",
+   35
+  ],
+  [
+   "05/02",
+   34.52
+  ],
+  [
+   "06/02",
+   34.48
+  ],
+  [
+   "09/02",
+   34.8
+  ],
+  [
+   "10/02",
+   35.6
+  ],
+  [
+   "11/02",
+   35.2
+  ],
+  [
+   "12/02",
+   34.56
+  ],
+  [
+   "13/02",
+   34.92
+  ],
+  [
+   "16/02",
+   34.78
+  ],
+  [
+   "17/02",
+   34.88
+  ],
+  [
+   "18/02",
+   34.96
+  ],
+  [
+   "19/02",
+   34.64
+  ],
+  [
+   "20/02",
+   34.94
+  ],
+  [
+   "23/02",
+   34.18
+  ],
+  [
+   "24/02",
+   33.86
+  ],
+  [
+   "25/02",
+   33.36
+  ],
+  [
+   "26/02",
+   36
+  ],
+  [
+   "27/02",
+   35.22
+  ],
+  [
+   "02/03",
+   34.96
+  ],
+  [
+   "03/03",
+   33.26
+  ],
+  [
+   "04/03",
+   33.72
+  ],
+  [
+   "05/03",
+   33.6
+  ],
+  [
+   "06/03",
+   33.24
+  ],
+  [
+   "09/03",
+   31.88
+  ],
+  [
+   "10/03",
+   32.64
+  ],
+  [
+   "11/03",
+   32.58
+  ],
+  [
+   "12/03",
+   32.78
+  ],
+  [
+   "13/03",
+   31.76
+  ],
+  [
+   "16/03",
+   31.42
+  ],
+  [
+   "17/03",
+   31.3
+  ],
+  [
+   "18/03",
+   31.58
+  ],
+  [
+   "19/03",
+   30.42
+  ],
+  [
+   "20/03",
+   30.02
+  ],
+  [
+   "23/03",
+   30.5
+  ],
+  [
+   "24/03",
+   30.36
+  ],
+  [
+   "25/03",
+   31
+  ],
+  [
+   "26/03",
+   30.2
+  ],
+  [
+   "27/03",
+   29.92
+  ],
+  [
+   "30/03",
+   29.6
+  ],
+  [
+   "31/03",
+   29.68
+  ],
+  [
+   "01/04",
+   30.66
+  ],
+  [
+   "02/04",
+   30.02
+  ],
+  [
+   "07/04",
+   29.84
+  ],
+  [
+   "08/04",
+   31.78
+  ],
+  [
+   "09/04",
+   31.92
+  ],
+  [
+   "10/04",
+   32.26
+  ],
+  [
+   "13/04",
+   30.88
+  ],
+  [
+   "14/04",
+   31.18
+  ],
+  [
+   "15/04",
+   30.96
+  ],
+  [
+   "16/04",
+   31.44
+  ],
+  [
+   "17/04",
+   31.98
+  ],
+  [
+   "20/04",
+   31.66
+  ],
+  [
+   "21/04",
+   31.44
+  ],
+  [
+   "22/04",
+   31.34
+  ],
+  [
+   "23/04",
+   31.24
+  ],
+  [
+   "24/04",
+   31.64
+  ],
+  [
+   "27/04",
+   31.42
+  ],
+  [
+   "28/04",
+   31.28
+  ],
+  [
+   "29/04",
+   31.56
+  ],
+  [
+   "30/04",
+   32.28
+  ],
+  [
+   "04/05",
+   35
+  ],
+  [
+   "05/05",
+   35.72
+  ],
+  [
+   "06/05",
+   36.86
+  ],
+  [
+   "07/05",
+   37.58
+  ],
+  [
+   "08/05",
+   37.06
+  ],
+  [
+   "11/05",
+   37
+  ],
+  [
+   "12/05",
+   36.88
+  ],
+  [
+   "13/05",
+   37.22
+  ],
+  [
+   "14/05",
+   37.92
+  ],
+  [
+   "15/05",
+   36.5
+  ],
+  [
+   "18/05",
+   36.16
+  ],
+  [
+   "19/05",
+   35.42
+  ],
+  [
+   "20/05",
+   36.34
+  ],
+  [
+   "21/05",
+   37.36
+  ],
+  [
+   "22/05",
+   38.76
+  ],
+  [
+   "25/05",
+   39.32
+  ],
+  [
+   "26/05",
+   39.44
+  ],
+  [
+   "27/05",
+   39.72
+  ],
+  [
+   "28/05",
+   39.34
+  ],
+  [
+   "29/05",
+   39.24
+  ],
+  [
+   "01/06",
+   38.1
+  ],
+  [
+   "02/06",
+   39.08
+  ],
+  [
+   "03/06",
+   38.6
+  ],
+  [
+   "04/06",
+   38.52
+  ],
+  [
+   "05/06",
+   38.18
+  ],
+  [
+   "08/06",
+   37.82
+  ],
+  [
+   "09/06",
+   38.3
+  ],
+  [
+   "10/06",
+   38.06
+  ],
+  [
+   "11/06",
+   38.66
+  ],
+  [
+   "12/06",
+   40.1
+  ],
+  [
+   "15/06",
+   40.44
+  ],
+  [
+   "16/06",
+   39.58
+  ],
+  [
+   "17/06",
+   40
+  ],
+  [
+   "18/06",
+   40.4
+  ],
+  [
+   "19/06",
+   39.96
+  ],
+  [
+   "22/06",
+   41.14
+  ],
+  [
+   "23/06",
+   39.72
+  ],
+  [
+   "24/06",
+   39.04
+  ],
+  [
+   "25/06",
+   39.64
+  ],
+  [
+   "26/06",
+   38.98
+  ],
+  [
+   "29/06",
+   38.48
+  ],
+  [
+   "30/06",
+   38.98
+  ],
+  [
+   "01/07",
+   39.02
+  ],
+  [
+   "02/07",
+   38.74
+  ],
+  [
+   "03/07",
+   40.86
+  ],
+  [
+   "06/07",
+   40.52
+  ],
+  [
+   "07/07",
+   39.32
+  ],
+  [
+   "08/07",
+   38.84
+  ],
+  [
+   "09/07",
+   39.46
+  ],
+  [
+   "10/07",
+   39.3
+  ],
+  [
+   "13/07",
+   39.6
+  ],
+  [
+   "14/07",
+   40
+  ],
+  [
+   "15/07",
+   40.4
+  ],
+  [
+   "16/07",
+   40.78
+  ],
+  [
+   "17/07",
+   40.32
+  ],
+  [
+   "20/07",
+   39.62
+  ],
+  [
+   "21/07",
+   40.44
+  ],
+  [
+   "22/07",
+   41.64
+  ],
+  [
+   "23/07",
+   41.48
+  ],
+  [
+   "24/07",
+   41.66
+  ],
+  [
+   "27/07",
+   41
+  ],
+  [
+   "28/07",
+   42.3
+  ],
+  [
+   "29/07",
+   41.94
+  ],
+  [
+   "30/07",
+   42.86
+  ],
+  [
+   "31/07",
+   42.56
+  ],
+  [
+   "03/08",
+   43.5
+  ],
+  [
+   "04/08",
+   44.22
+  ],
+  [
+   "05/08",
+   44.56
+  ],
+  [
+   "06/08",
+   44.84
+  ],
+  [
+   "07/08",
+   45.08
+  ],
+  [
+   "10/08",
+   44.5
+  ],
+  [
+   "11/08",
+   44.34
+  ],
+  [
+   "12/08",
+   44.58
+  ],
+  [
+   "13/08",
+   44.44
+  ],
+  [
+   "14/08",
+   43.84
+  ],
+  [
+   "17/08",
+   43.52
+  ],
+  [
+   "18/08",
+   42.4
+  ],
+  [
+   "19/08",
+   42.52
+  ],
+  [
+   "20/08",
+   42.08
+  ],
+  [
+   "21/08",
+   42.8
+  ],
+  [
+   "24/08",
+   42.34
+  ],
+  [
+   "25/08",
+   43
+  ],
+  [
+   "26/08",
+   43.62
+  ],
+  [
+   "27/08",
+   43.54
+  ],
+  [
+   "28/08",
+   43.56
+  ],
+  [
+   "31/08",
+   43.84
+  ],
+  [
+   "01/09",
+   42.88
+  ],
+  [
+   "02/09",
+   42.22
+  ],
+  [
+   "03/09",
+   42.16
+  ],
+  [
+   "04/09",
+   42.36
+  ],
+  [
+   "07/09",
+   43.14
+  ],
+  [
+   "08/09",
+   43.58
+  ],
+  [
+   "09/09",
+   42.96
+  ],
+  [
+   "10/09",
+   41.86
+  ],
+  [
+   "11/09",
+   41.76
+  ],
+  [
+   "14/09",
+   40.24
+  ],
+  [
+   "15/09",
+   40.1
+  ],
+  [
+   "16/09",
+   40.48
+  ],
+  [
+   "17/09",
+   40.78
+  ],
+  [
+   "18/09",
+   40.66
+  ],
+  [
+   "21/09",
+   41.5
+  ],
+  [
+   "22/09",
+   42.4
+  ],
+  [
+   "23/09",
+   41.96
+  ],
+  [
+   "24/09",
+   41.5
+  ],
+  [
+   "25/09",
+   42.14
+  ],
+  [
+   "28/09",
+   42.32
+  ]
+ ],
+ "nom": "Aalberts",
+ "notes": "Clôture du 28/09 à 42,32 (ABC Bourse, 17h35). Aucune nouvelle depuis le 22/09 ; rachat d'actions exécuté à 86 %, fin au plus tard le 09/10. T3 le 22/10.",
+ "pays": "NL",
+ "per26": 18.7,
+ "per27": 15.8,
+ "perf": {
+  "m1": -2.1,
+  "m12": 48.1,
+  "m3": 9.3
+ },
+ "pub": "2026-10-22",
+ "pubLabel": "Point d'activité du T3",
+ "risque": "Bâtiment cyclique et exposition au cycle des semi-conducteurs ; certains analystes restent négatifs.",
+ "secteur": "Équipements industriels",
+ "societe": {
+  "aVerifier": "Vérifié le 29/09/2026 sur les communiqués de résultats annuels Aalberts 2022, 2023 et 2025, la page gouvernance et les décisions de l'assemblée 2026. margeOp = résultat opérationnel publié (EBIT après éléments exceptionnels) / CA : 17,0 % ; 13,8 % ; 13,9 % ; 9,3 % ; 8,4 % de 2021 à 2025. La société met plutôt en avant l'EBITA avant exceptionnels : 15,2 % ; 15,5 % ; 15,7 % ; 15,0 % ; 13,2 %. rn = résultat net part des actionnaires publié (le bénéfice net avant amortissements et exceptionnels est de 284 M€ en 2025). detteNette = dette nette publiée, qui inclut les dettes locatives IFRS 16 (183 M€ fin 2025) ; même méthode supposée pour les années antérieures, non relue en détail. Dividende 2025 de 1,15 € voté le 9/04/2026. Effectif 12 943 ETP fin 2025, segments et zones 2025 confirmés par le communiqué 2025. Restent non vérifiés : consensus 2026e (MarketScreener, source secondaire ; sa marge de 12,1 % semble calculée sur une base EBITA, donc non comparable aux années publiées), date d'entrée de Peter van Bommel à la présidence du conseil de surveillance (membre depuis le 30/09/2021), faits historiques 1975 à 2019 (Wikipédia, Grokipedia), liste des concurrents. À suivre en 2026 : l'opération sur BROEN (Danemark, environ 82 M€ de CA), présentée comme une cession en cours dans le communiqué 2025 et attendue au premier semestre 2026, clôture non vérifiée.",
+  "actionnariat": "Capital dispersé en Bourse (108 millions d'actions). Principaux actionnaires déclarés : Aalberts Beheer, holding de la famille du fondateur Jan Aalberts (11,9 %), FMR / Fidelity (9,99 %), Norges Bank (5,55 %), BNP Paribas Asset Management (4,98 %), Impax Asset Management (4,88 %), puis BlackRock, UBS et M&G (environ 3 % chacun).",
+  "avantage": "Aalberts occupe des niches techniques où il est souvent l'un des rares spécialistes, avec un savoir-faire difficile à copier et des clients qui ne veulent pas prendre de risque sur une pièce critique. Cet avantage peut s'éroder avec un marché de la construction durablement faible en Europe, les à-coups du cycle des semi-conducteurs et une dette qui a nettement augmenté en 2025.",
+  "chiffres": [
+   {
+    "annee": "2021",
+    "ca": 2979,
+    "detteNette": 492,
+    "dividende": 1.01,
+    "margeOp": 17,
+    "rn": 360.1
+   },
+   {
+    "annee": "2022",
+    "ca": 3230,
+    "detteNette": 794,
+    "dividende": 1.11,
+    "margeOp": 13.8,
+    "rn": 317.3
+   },
+   {
+    "annee": "2023",
+    "ca": 3324,
+    "detteNette": 583,
+    "dividende": 1.13,
+    "margeOp": 13.9,
+    "rn": 315.8
+   },
+   {
+    "annee": "2024",
+    "ca": 3149,
+    "detteNette": 597,
+    "dividende": 1.13,
+    "margeOp": 9.3,
+    "rn": 179.1
+   },
+   {
+    "annee": "2025",
+    "ca": 3091,
+    "detteNette": 981,
+    "dividende": 1.15,
+    "margeOp": 8.4,
+    "rn": 149
+   },
+   {
+    "annee": "2026e",
+    "ca": 3064,
+    "detteNette": 904,
+    "dividende": 1.17,
+    "margeOp": 12.1,
+    "rn": 242.2
+   }
+  ],
+  "clients": "Les clients sont des installateurs et distributeurs du bâtiment, des industriels (aéronautique, automobile, énergie) et quelques grands fabricants de machines pour semi-conducteurs. La clientèle est très dispersée dans le bâtiment et l'industrie, mais plus concentrée dans les semi-conducteurs, où un petit nombre de fabricants d'équipements domine le marché.",
+  "concurrents": [
+   "Geberit",
+   "Viega",
+   "IMI",
+   "Watts Water Technologies",
+   "Bodycote",
+   "Oerlikon"
+  ],
+  "corrections": [
+   "Actionnariat : Aalberts Beheer environ 7,7 % -> 11,9 % ; ajout de FMR (9,99 %) et BNP Paribas AM (4,98 %) ; Norges Bank 5,1 % -> 5,55 % (registre des participations sur le site Aalberts, déclarations 2025 et 2026).",
+   "Chiffres 2021 à 2025 (CA, résultat net part des actionnaires, résultat opérationnel après exceptionnels, dette nette, dividende) confirmés par les communiqués annuels Aalberts : aucune valeur modifiée ; le résultat net 2025 de 149,0 M€ est bien le chiffre publié, pas une estimation.",
+   "Dirigeants : dates de nomination précisées (Simonetta, assemblée extraordinaire du 7/09/2023 ; den Houter, assemblée du 10/04/2025)."
+  ],
+  "croire": [
+   "Que la construction européenne et le cycle des semi-conducteurs repartent, pour retrouver une croissance organique après deux années de baisse.",
+   "Que le recentrage (rachats ciblés, cessions d'activités moins rentables) permet d'approcher les objectifs 2030 affichés : plus de 4,5 Md€ de chiffre d'affaires et une marge EBITA supérieure à 18 %.",
+   "Que les nouveaux débouchés (centres de données, aéronautique, défense, énergie) compensent la faiblesse du bâtiment et de l'automobile."
+  ],
+  "devise": "€",
+  "dirigeants": [
+   {
+    "depuis": 2023,
+    "nom": "Stéphane Simonetta",
+    "role": "Directeur général (CEO), nommé par l'assemblée du 7/09/2023"
+   },
+   {
+    "depuis": 2025,
+    "nom": "Frans den Houter",
+    "role": "Directeur financier (CFO), nommé à l'assemblée du 10/04/2025"
+   },
+   {
+    "depuis": null,
+    "nom": "Peter van Bommel",
+    "role": "Président du conseil de surveillance"
+   }
+  ],
+  "effectifs": 12943,
+  "fondee": 1975,
+  "geo": [
+   {
+    "part": 69,
+    "zone": "Europe"
+   },
+   {
+    "part": 24,
+    "zone": "Amériques"
+   },
+   {
+    "part": 7,
+    "zone": "Asie-Pacifique, Moyen-Orient, Afrique"
+   }
+  ],
+  "histoire": [
+   {
+    "annee": 1975,
+    "fait": "Jan Aalberts fonde l'entreprise aux Pays-Bas, au départ dans l'extrusion d'aluminium de précision."
+   },
+   {
+    "annee": 1987,
+    "fait": "Introduction en Bourse à Amsterdam."
+   },
+   {
+    "annee": 2000,
+    "fait": "Début d'une grande vague de rachats en Europe (Stork TPP en 2000, AHC en 2001, puis de nombreux autres), qui transforme le groupe en fédération de PME industrielles spécialisées."
+   },
+   {
+    "annee": 2019,
+    "fait": "Le groupe change de nom : Aalberts Industries devient Aalberts N.V."
+   },
+   {
+    "annee": 2023,
+    "fait": "Stéphane Simonetta devient directeur général."
+   },
+   {
+    "annee": 2024,
+    "fait": "Année difficile : chiffre d'affaires en baisse à 3 149 M€ et charges exceptionnelles qui font chuter le bénéfice net."
+   },
+   {
+    "annee": 2025,
+    "fait": "Nouvelle baisse organique de 2,5 %, environ 230 M€ de rachats (dont GVT à Singapour pour les semi-conducteurs) et cessions d'activités pesant environ 400 M€ de chiffre d'affaires (dont Metalis en France)."
+   }
+  ],
+  "modele": "Aalberts vend des composants et des services techniques à d'autres entreprises : produits pour le bâtiment (tuyauterie, vannes, chauffage), traitements de surface et thermiques facturés à la pièce pour l'industrie, et sous-ensembles de précision pour les fabricants de machines à puces. Les revenus sont surtout liés aux volumes de construction et de production industrielle, donc cycliques, mais une partie (services de traitement, rénovation des bâtiments) revient régulièrement. Le pouvoir sur les prix vient de produits de niche où le coût du composant est faible par rapport au coût d'une panne.",
+  "questions": [
+   "La dette nette, passée d'environ 600 à 981 M€ en un an, redescend-elle grâce au flux de trésorerie ?",
+   "Les charges exceptionnelles de 2024-2025 sont-elles vraiment terminées, ou le bénéfice publié restera-t-il loin du bénéfice « avant éléments exceptionnels » ?",
+   "Les rachats récents, comme GVT à Singapour, créent-ils de la valeur au prix payé ?"
+  ],
+  "resume": "Aalberts est un groupe industriel néerlandais qui fabrique des pièces et des technologies « critiques », c'est-à-dire des éléments discrets dont la panne arrêterait tout un système. Exemples concrets : les raccords et vannes des circuits de chauffage et d'eau d'un immeuble, les traitements de surface qui rendent une pièce d'avion ou de voiture plus résistante, et des modules ultra-précis pour les machines qui fabriquent les puces électroniques.",
+  "segments": [
+   {
+    "detail": "Systèmes de tuyauterie, vannes et régulation du chauffage et de la climatisation pour logements, bureaux et centres de données.",
+    "nom": "Bâtiment (Building)",
+    "part": 50
+   },
+   {
+    "detail": "Traitements de surface et thermiques, composants pour l'aéronautique, l'automobile, l'énergie et la défense.",
+    "nom": "Industrie (Industry)",
+    "part": 35
+   },
+   {
+    "detail": "Modules mécaniques ultra-précis et sans vibrations pour les machines de fabrication de puces.",
+    "nom": "Semi-conducteurs (Semicon)",
+    "part": 15
+   }
+  ],
+  "siege": "Utrecht, Pays-Bas",
+  "site": "https://www.aalberts.com",
+  "sources": [
+   "https://s3.eu-west-1.amazonaws.com/aalberts-website/media/App/Models/Download/000/000/574/attachment/original/FY2025%20(3).pdf",
+   "https://ml-eu.globenewswire.com/Resource/Download/7106a7fc-7c40-48cb-9628-6eb8962480d1",
+   "https://aalberts-website.s3.eu-west-1.amazonaws.com/media/App/Models/Download/000/000/463/attachment/original/FY2023.pdf",
+   "https://ml-eu.globenewswire.com/Resource/Download/9812b4f0-6ab1-451c-8f2b-7554a804ab33",
+   "https://www.aalberts.com/en/investor-relations/corporate-governance/",
+   "https://aalberts.com/progress/decisions-general-meeting-2026",
+   "https://aalberts.com/progress/Aalberts-announces-new-Chief-Executive-Officer",
+   "https://www.aalberts.com/progress/frans-den-houter-appointed-as-chief-financial-officer",
+   "https://aalberts.com/progress/aalberts-extraordinary-general-meeting-of-shareholders",
+   "https://www.marketscreener.com/quote/stock/AALBERTS-NV-6371/finances/",
+   "https://en.wikipedia.org/wiki/Aalberts",
+   "https://grokipedia.com/page/Aalberts"
+  ],
+  "suivi": {
+   "bilan": "Sur 6 points, 3 tiennent (reprise organique, fin des charges exceptionnelles, nouveaux débouchés) et 3 sont à surveiller ; le plus fragile est l'écart avec les objectifs 2030 et un levier encore à 1,9 fois.",
+   "croire": [
+    {
+     "c": "Que la construction européenne et le cycle des semi-conducteurs repartent, pour retrouver une croissance organique après deux années de baisse.",
+     "etat": "ok",
+     "preuve": "S1 2026 : croissance organique +5,0 % (T2 +7,1 %) ; Bâtiment +2,9 %, Industrie +6,4 %, Semicon +9,2 %.",
+     "prochain": "Point d'activité du T3 2026 le 22/10/2026",
+     "reponse": "Oui, la croissance organique est revenue, surtout grâce au Semicon, le bâtiment progressant plus lentement.",
+     "source": "https://www.investing.com/news/stock-market-news/aalberts-reports-7-ebita-growth-in-first-half-of-2026-93CH-4807601"
+    },
+    {
+     "c": "Que le recentrage (rachats ciblés, cessions d'activités moins rentables) permet d'approcher les objectifs 2030 affichés : plus de 4,5 Md€ de chiffre d'affaires et une marge EBITA supérieure à 18 %.",
+     "etat": "watch",
+     "preuve": "S1 2026 : marge EBITA 14,4 % (+0,9 point) pour un objectif de plus de 18 % ; rachats +8,7 % et cessions -11,4 % sur le CA ; CA S1 de 1 560 M€.",
+     "prochain": "Point d'activité du T3 2026 le 22/10/2026",
+     "reponse": "Le recentrage avance (rachats et cessions) et la marge progresse, mais le groupe reste loin des objectifs 2030 en taille comme en marge.",
+     "source": "https://www.investing.com/news/stock-market-news/aalberts-reports-7-ebita-growth-in-first-half-of-2026-93CH-4807601"
+    },
+    {
+     "c": "Que les nouveaux débouchés (centres de données, aéronautique, défense, énergie) compensent la faiblesse du bâtiment et de l'automobile.",
+     "etat": "ok",
+     "preuve": "S1 2026 : Industrie +6,4 % organique, marge EBITA de l'Industrie 18,6 % ; carnet de commandes Semicon élevé.",
+     "prochain": "Point d'activité du T3 2026 le 22/10/2026",
+     "reponse": "Oui : la direction cite une forte demande dans les centres de données, l'aéronautique, la production d'énergie et la défense, tandis que l'automobile et le résidentiel sont stables.",
+     "source": "https://www.investing.com/news/stock-market-news/aalberts-reports-7-ebita-growth-in-first-half-of-2026-93CH-4807601"
+    }
+   ],
+   "le": "2026-09-29",
+   "questions": [
+    {
+     "etat": "watch",
+     "preuve": "Dette nette 1 068 M€ au 30/06/2026 contre 1 100 M€ au 31/12/2025 ; levier 1,9 fois contre 1,6 fois un an plus tôt ; flux de trésorerie libre S1 2026 de 88,6 M€ (+57 %).",
+     "prochain": "Point d'activité du T3 2026 le 22/10/2026",
+     "q": "La dette nette, passée d'environ 600 à 981 M€ en un an, redescend-elle grâce au flux de trésorerie ?",
+     "reponse": "Elle baisse un peu grâce à un flux de trésorerie en nette amélioration, mais le levier reste plus élevé qu'il y a un an à cause des rachats.",
+     "source": "https://ml-eu.globenewswire.com/Resource/Download/f4dfb894-080f-4a11-a7af-1c2c585a91a9"
+    },
+    {
+     "etat": "ok",
+     "preuve": "S1 2026 : éléments exceptionnels de 3,1 M€ ; bénéfice net publié 122,0 M€ contre 158,0 M€ avant exceptionnels et amortissements ; BPA publié 1,14 € contre 1,10 €.",
+     "prochain": "Point d'activité du T3 2026 le 22/10/2026",
+     "q": "Les charges exceptionnelles de 2024-2025 sont-elles vraiment terminées, ou le bénéfice publié restera-t-il loin du bénéfice « avant éléments exceptionnels » ?",
+     "reponse": "Oui, les éléments exceptionnels sont devenus marginaux ; l'écart restant entre bénéfice publié et bénéfice ajusté vient surtout de l'amortissement des acquisitions.",
+     "source": "https://ml-eu.globenewswire.com/Resource/Download/f4dfb894-080f-4a11-a7af-1c2c585a91a9"
+    },
+    {
+     "etat": "watch",
+     "preuve": "S1 2026 : EBITA du Semicon +88 %, croissance organique Semicon +9,2 % ; ROCE avant exceptionnels 12,5 % contre 13,3 % un an plus tôt.",
+     "prochain": "Point d'activité du T3 2026 le 22/10/2026",
+     "q": "Les rachats récents, comme GVT à Singapour, créent-ils de la valeur au prix payé ?",
+     "reponse": "GVT contribue positivement et le Semicon accélère, mais la rentabilité du capital du groupe a baissé depuis ces rachats : trop tôt pour dire que le prix payé est rentabilisé.",
+     "source": "https://ml-eu.globenewswire.com/Resource/Download/f4dfb894-080f-4a11-a7af-1c2c585a91a9"
+    }
+   ]
+  },
+  "verifieLe": "2026-09-29"
+ },
+ "src": "https://www.globenewswire.com/news-release/2026/07/23/3331873/0/en/Aalberts-N-V-Aalberts-reports-first-half-year-results-2026.html",
+ "statut": "intacte",
+ "these": "Se recentre sur des technologies critiques (semi-conducteurs, data centers, aéronautique, défense), marges en hausse, rachat d'actions.",
+ "ticker": "AALB",
+ "yahoo": "AALB.AS",
+ "zb": "https://www.zonebourse.com/cours/action/AALBERTS-NV-6371/"
+}

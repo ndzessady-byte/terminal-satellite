@@ -1,0 +1,1448 @@
+{
+ "analyse": {
+  "actu": [
+   {
+    "d": "29/07",
+    "fait": "Résultats du premier semestre 2026 : CA de 629,8 M€ (+1,8 %, +4,8 % hors devises), EBITDA de 134,5 M€ (-7,4 %), bénéfice net de 71,3 M€ (+2,2 %), dette nette de 283 M€. L'EBITDA a dépassé de 3 % le consensus selon Renta 4.",
+    "horizon": "moyen",
+    "impact": "neutre",
+    "lecture": "Les volumes et les prix tiennent bien, preuve de la solidité du métier, mais les devises et les coûts rognent les marges cette année."
+   },
+   {
+    "d": "15/07",
+    "fait": "CaixaBank abaisse sa recommandation à neutre ; le consensus de 10 à 11 analystes reste positif avec un objectif moyen d'environ 69 à 70 €.",
+    "horizon": "court",
+    "impact": "negatif",
+    "lecture": "Le titre manque de catalyseur à court terme, mais l'écart avec l'objectif moyen (environ +27 %) montre que les analystes jugent la baisse exagérée."
+   },
+   {
+    "d": "en continu",
+    "fait": "Hausse des coûts d'énergie (gaz naturel) et des matières premières (peaux pour le collagène, plastiques), et effet devises négatif d'environ 10 points au premier semestre.",
+    "horizon": "court",
+    "impact": "negatif",
+    "lecture": "Ces pressions sont en partie temporaires ; si l'énergie se détend, les marges peuvent remonter vers 23 à 24 % comme l'ont connu 2024 et 2025."
+   },
+   {
+    "d": "26/02",
+    "fait": "Bénéfice 2025 record (159,9 M€), dividende record de 3,25 € et nouveau plan Beat'30 : 1 800 M€ de CA et 450 M€ d'EBITDA en 2030 (plus ancien que trois mois, mais structurant).",
+    "horizon": "long",
+    "impact": "positif",
+    "lecture": "Le plan fixe un cap de croissance d'environ 9 %/an de l'EBITDA : c'est la référence pour juger la direction dans les années à venir."
+   }
+  ],
+  "cadres": [
+   "Buffett (qualité, avantage concurrentiel)",
+   "Fisher (croissance long terme, plan stratégique)",
+   "Lynch (croissance régulière, PEG)",
+   "Graham (solidité du bilan, dividende)",
+   "Greenblatt (formule magique)",
+   "Piotroski (F-score estimé)",
+   "Théorie de Dow",
+   "Minervini (trend template)",
+   "Weinstein (stades)"
+  ],
+  "conviction": "moyenne",
+  "fonda": {
+   "bilan": "Sain au sens de Graham : dette nette de 206 M€ fin 2025 selon la société (253,5 M€ selon Zonebourse, probablement avec les loyers), 283 M€ fin juin 2026, soit environ 1 fois l'EBITDA après 82 M€ de rachats d'actions au premier semestre. Couverture des intérêts d'environ 22 fois (EBIT 2025 de 203 M€ pour 9,1 M€ d'intérêts). Les investissements lourds du plan (plus de 600 M€ d'ici 2030) limiteront la baisse de la dette.",
+   "croissance": "CA : 1 226 M€ (2023), 1 204 M€ (2024), 1 252 M€ (2025), puis 1 325 M€ (2026), 1 406 M€ (2027), 1 494 M€ (2028) selon le consensus. Bénéfice net : 141 M€ (2023), 157 M€ (2024), 159,9 M€ (2025, record), 159,8 M€ (2026), 176,7 M€ (2027), 194 M€ (2028), soit environ +10 %/an après une année 2026 plate. Premier semestre 2026 : CA +1,8 % (+4,8 % hors devises), EBITDA -7,4 %, bénéfice net +2,2 %. Le plan Beat'30 vise 1 800 M€ de CA et 450 M€ d'EBITDA en 2030 (contre 290 M€ en 2025), avec les relais santé (collagène médical, +28 % au T2) et friandises pour animaux (+60 %). Au sens de Lynch : valeur de croissance régulière.",
+   "greenblatt": "Rendement bénéficiaire (EBIT 2026 / valeur d'entreprise) d'environ 7,8 % pour un rendement du capital proche de 17 % : profil moyen à correct sur la formule magique.",
+   "justif": "Position de leader mondial et bonne rentabilité, bilan sain, mais baisse de l'EBITDA au premier semestre 2026 et F-score calculé faible.",
+   "peg": 1.5,
+   "piotroski": 4,
+   "qualite": "Marge d'EBITDA : 21,9 % (2023), 23,7 % (2024), 23,2 % (2025), 21,4 % publiée au premier semestre 2026 (23,1 % à changes constants). Rentabilité des fonds propres calculée d'environ 17 % en 2025 (160 M€ de bénéfice pour 933 M€ de fonds propres) et rendement du capital employé proche de 17 %. L'avantage concurrentiel (Buffett, Fisher) est fort : numéro un mondial des enveloppes de collagène, cellulose et plastique, technologie difficile à copier, clients très fidèles. Le pouvoir de fixer les prix se vérifie : le groupe a en partie compensé environ 300 points de base de hausse des coûts par des hausses de prix.",
+   "score": 6.5,
+   "valo": "PER 15,6 en 2026 et 14,2 en 2027, VE/EBITDA 9,0 en 2026 et 8,4 en 2027 (Zonebourse). Moyenne 2021 à 2025 calculée : PER environ 18 et VE/EBITDA environ 10,3. L'action est donc moins chère que son historique. Dividende 2025 de 3,25 € (2,25 € ordinaire et 1 € exceptionnel), soit environ 6 % au cours actuel, dont environ 4,1 % pour la part ordinaire. Rendement du flux de trésorerie libre attendu de 5,5 % en 2026."
+  },
+  "majLe": "2026-09-28",
+  "revisions": "Non trouvé. Dernier avis repéré : JB Capital Achat, objectif 70 € (27/07).",
+  "scenarios": [
+   {
+    "bas": 50,
+    "central": 55.5,
+    "haut": 59,
+    "horizon": "2 mois",
+    "hypotheses": "Catalyseur : résultats du T3 fin octobre (date non confirmée). Central : stabilisation entre 53 et 58 €. Bas : cassure de 53 € et glissement vers le support de 50,5 €. Haut : T3 rassurant sur les marges et retour au-dessus des moyennes mobiles vers 58 à 59 €.",
+    "unite": "€"
+   },
+   {
+    "bas": 47,
+    "central": 62,
+    "haut": 70,
+    "horizon": "12 mois",
+    "hypotheses": "Objectif moyen d'environ 69 à 70 € (fourchette 58,7 à 75 €). Central : bénéfice 2027 en hausse d'environ 10 % et PER vers 16. Bas : nouvelle baisse des marges, PER vers 13. Haut : détente de l'énergie et retour vers l'objectif des analystes.",
+    "unite": "€"
+   },
+   {
+    "bas": 1,
+    "central": 10,
+    "haut": 16,
+    "horizon": "5 ans",
+    "hypotheses": "Central : BPA +6 %/an + dividende ordinaire environ 4 % + PER stable autour de 15 à 16 = environ 10 %/an. Bas : BPA +2 %/an, PER vers 12 (environ -5 %/an), dividende 4 % = environ 1 %/an. Haut : plan Beat'30 tenu (BPA +9 %/an), PER vers 18 (environ +3 %/an), dividende 4 % = environ 16 %/an.",
+    "unite": "%/an"
+   },
+   {
+    "bas": 4,
+    "central": 9,
+    "haut": 12,
+    "horizon": "10-15 ans",
+    "hypotheses": "Métier défensif lié à la consommation de protéines animales dans le monde. Central : BPA +5 à 6 %/an, dividende 4 %, PER stable = environ 9 %/an. Bas : recul de la consommation de viande transformée, BPA +1 %. Haut : succès des relais santé et animaux, BPA +8 %.",
+    "unite": "%/an"
+   }
+  ],
+  "sources": [
+   "https://www.zonebourse.com/cours/action/VISCOFAN-S-A-75245/",
+   "https://www.zonebourse.com/cours/action/VISCOFAN-S-A-75245/finances/",
+   "https://www.zonebourse.com/cours/action/VISCOFAN-S-A-75245/valorisation/",
+   "https://www.zonebourse.com/cours/action/VISCOFAN-S-A-75245/consensus/",
+   "https://www.zonebourse.com/cours/action/VISCOFAN-S-A-75245/cotations/",
+   "https://www.marketscreener.com/quote/stock/VISCOFAN-S-A-75245/",
+   "https://www.marketscreener.com/quote/stock/VISCOFAN-S-A-75245/consensus/",
+   "https://pcbolsa.com/analisistecnico/Viscofan",
+   "https://www.pressdigital.es/articulo/economia/2026-07-29/5969541-viscofan-gana-713-millones-hasta-junio-22",
+   "https://www.r4.com/articulos-y-analisis/valores/viscofan-2t26-solidos-volumenes-y-precios-con-impactos-esperados-por-divisas-e-inflacion-de-costes",
+   "https://www.estrategiasdeinversion.com/actualidad/noticias/bolsa-espana/viscofan-espera-alcanzar-1800-millones-de-euros-n-894213"
+  ],
+  "tech": {
+   "bas52": 51.1,
+   "cours": 54.2,
+   "coursLe": "2026-09-28",
+   "haut52": 62.1,
+   "lecture": "Cours de 54,20 en dessous de sa moyenne 50 jours (56,18) et en dessous de sa moyenne 200 jours (57,21). RSI 39,5 : élan neutre. Il se situe à 28 % de sa fourchette sur un an (de 51,10 à 62,10), performance sur 12 mois de -6,6 %. Moyennes et RSI calculés sur les vraies clôtures (flux GitHub de 15h33).",
+   "mm200": 57.21,
+   "mm50": 56.18,
+   "resistance": 57.8,
+   "rsi14": 39.5,
+   "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json",
+   "stade": 4,
+   "support": 53.11,
+   "tendance": "baissiere"
+  },
+  "verdict": "Viscofan, leader mondial des boyaux pour charcuterie, offre un rendement élevé (environ 6 % en comptant le dividende exceptionnel) et un plan ambitieux à 2030, pour un PER d'environ 15,6, sous sa moyenne. Mais les marges souffrent de l'énergie, des matières premières et des devises en 2026, et le cours est au plus bas de l'année sous ses moyennes mobiles : la thèse est intacte, la tendance ne l'est pas encore.",
+  "zones": {
+   "catalyseurs": [
+    "Fin octobre 2026 (date non confirmée) : résultats du T3 2026",
+    "Fin février 2027 (date non confirmée) : résultats annuels 2026 et dividende",
+    "Évolution des prix du gaz et du collagène cet hiver"
+   ],
+   "interet": "Zone de 48 à 53 € : supports de 53,1 et 50,5 €, plus bas sur un an de 48,35 € ; le PER 2026 y serait d'environ 14 et le rendement total du dividende supérieur à 6 %.",
+   "invalidation": "Clôture durable sous 48 €, ou abaissement des objectifs 2026 et du plan Beat'30 : ce serait le signe que la pression sur les marges n'est pas passagère.",
+   "sortie": [
+    "Marge d'EBITDA publiée qui reste sous 21 % sur une année complète",
+    "Baisse du dividende ordinaire (2,25 €)",
+    "Révision à la baisse des objectifs 2030 du plan Beat'30"
+   ]
+  }
+ },
+ "capi": "2,5 Md€",
+ "cours": 54.2,
+ "coursLe": "2026-09-28",
+ "devise": "€",
+ "faits": [
+  {
+   "d": "29/07",
+   "t": "S1 : CA 629,8 M€ (+4,8 % en comparable), EBITDA -7,4 % (+3,1 % en comparable), volumes +5,5 %. Bas de fourchette d'EBITDA 2026 jugé plus probable."
+  }
+ ],
+ "histo": [
+  [
+   "22/09",
+   59.1
+  ],
+  [
+   "23/09",
+   58.6
+  ],
+  [
+   "24/09",
+   58.2
+  ],
+  [
+   "25/09",
+   58
+  ],
+  [
+   "26/09",
+   58.5
+  ],
+  [
+   "29/09",
+   58.5
+  ],
+  [
+   "30/09",
+   58.1
+  ],
+  [
+   "01/10",
+   58
+  ],
+  [
+   "02/10",
+   58
+  ],
+  [
+   "03/10",
+   57.6
+  ],
+  [
+   "06/10",
+   57.5
+  ],
+  [
+   "07/10",
+   57.4
+  ],
+  [
+   "08/10",
+   58.3
+  ],
+  [
+   "09/10",
+   58.4
+  ],
+  [
+   "10/10",
+   58.5
+  ],
+  [
+   "13/10",
+   58.9
+  ],
+  [
+   "14/10",
+   51.1
+  ],
+  [
+   "15/10",
+   53.6
+  ],
+  [
+   "16/10",
+   53.5
+  ],
+  [
+   "17/10",
+   53.6
+  ],
+  [
+   "20/10",
+   53.3
+  ],
+  [
+   "21/10",
+   53.8
+  ],
+  [
+   "22/10",
+   53.7
+  ],
+  [
+   "23/10",
+   53.9
+  ],
+  [
+   "24/10",
+   53.5
+  ],
+  [
+   "27/10",
+   53.6
+  ],
+  [
+   "28/10",
+   54.4
+  ],
+  [
+   "29/10",
+   54
+  ],
+  [
+   "30/10",
+   54.1
+  ],
+  [
+   "31/10",
+   53.9
+  ],
+  [
+   "03/11",
+   53.7
+  ],
+  [
+   "04/11",
+   53.6
+  ],
+  [
+   "05/11",
+   53.3
+  ],
+  [
+   "06/11",
+   53.4
+  ],
+  [
+   "07/11",
+   53.3
+  ],
+  [
+   "10/11",
+   53.2
+  ],
+  [
+   "11/11",
+   53.4
+  ],
+  [
+   "12/11",
+   53.6
+  ],
+  [
+   "13/11",
+   53.8
+  ],
+  [
+   "14/11",
+   52.9
+  ],
+  [
+   "17/11",
+   52.8
+  ],
+  [
+   "18/11",
+   53
+  ],
+  [
+   "19/11",
+   53
+  ],
+  [
+   "20/11",
+   51.8
+  ],
+  [
+   "21/11",
+   52.3
+  ],
+  [
+   "24/11",
+   51.6
+  ],
+  [
+   "25/11",
+   53
+  ],
+  [
+   "26/11",
+   53.4
+  ],
+  [
+   "27/11",
+   53.4
+  ],
+  [
+   "28/11",
+   53.6
+  ],
+  [
+   "01/12",
+   53.4
+  ],
+  [
+   "02/12",
+   53
+  ],
+  [
+   "03/12",
+   53
+  ],
+  [
+   "04/12",
+   52.5
+  ],
+  [
+   "05/12",
+   52.8
+  ],
+  [
+   "08/12",
+   52.5
+  ],
+  [
+   "09/12",
+   52.4
+  ],
+  [
+   "10/12",
+   52.2
+  ],
+  [
+   "11/12",
+   52.4
+  ],
+  [
+   "12/12",
+   52.4
+  ],
+  [
+   "15/12",
+   52.6
+  ],
+  [
+   "16/12",
+   53
+  ],
+  [
+   "17/12",
+   53.1
+  ],
+  [
+   "18/12",
+   53.5
+  ],
+  [
+   "19/12",
+   53.4
+  ],
+  [
+   "22/12",
+   53.5
+  ],
+  [
+   "23/12",
+   53.2
+  ],
+  [
+   "24/12",
+   53.3
+  ],
+  [
+   "29/12",
+   53.4
+  ],
+  [
+   "30/12",
+   53.5
+  ],
+  [
+   "31/12",
+   53.4
+  ],
+  [
+   "02/01",
+   53.8
+  ],
+  [
+   "05/01",
+   53.9
+  ],
+  [
+   "06/01",
+   53.9
+  ],
+  [
+   "07/01",
+   53.9
+  ],
+  [
+   "08/01",
+   54.4
+  ],
+  [
+   "09/01",
+   54.9
+  ],
+  [
+   "12/01",
+   54.6
+  ],
+  [
+   "13/01",
+   54.8
+  ],
+  [
+   "14/01",
+   55.3
+  ],
+  [
+   "15/01",
+   55.6
+  ],
+  [
+   "16/01",
+   55.5
+  ],
+  [
+   "19/01",
+   55.7
+  ],
+  [
+   "20/01",
+   55.3
+  ],
+  [
+   "21/01",
+   55.4
+  ],
+  [
+   "22/01",
+   56.1
+  ],
+  [
+   "23/01",
+   56
+  ],
+  [
+   "26/01",
+   56.7
+  ],
+  [
+   "27/01",
+   56.5
+  ],
+  [
+   "28/01",
+   56
+  ],
+  [
+   "29/01",
+   56.1
+  ],
+  [
+   "30/01",
+   56.4
+  ],
+  [
+   "02/02",
+   55.5
+  ],
+  [
+   "03/02",
+   55.7
+  ],
+  [
+   "04/02",
+   56.3
+  ],
+  [
+   "05/02",
+   55.9
+  ],
+  [
+   "06/02",
+   55.7
+  ],
+  [
+   "09/02",
+   56.2
+  ],
+  [
+   "10/02",
+   56.7
+  ],
+  [
+   "11/02",
+   56.3
+  ],
+  [
+   "12/02",
+   56.9
+  ],
+  [
+   "13/02",
+   57.3
+  ],
+  [
+   "16/02",
+   57.6
+  ],
+  [
+   "17/02",
+   58.2
+  ],
+  [
+   "18/02",
+   58.2
+  ],
+  [
+   "19/02",
+   57.9
+  ],
+  [
+   "20/02",
+   58.1
+  ],
+  [
+   "23/02",
+   58.4
+  ],
+  [
+   "24/02",
+   58.9
+  ],
+  [
+   "25/02",
+   58.6
+  ],
+  [
+   "26/02",
+   58.7
+  ],
+  [
+   "27/02",
+   59.3
+  ],
+  [
+   "02/03",
+   58.6
+  ],
+  [
+   "03/03",
+   56.6
+  ],
+  [
+   "04/03",
+   59.6
+  ],
+  [
+   "05/03",
+   59.6
+  ],
+  [
+   "06/03",
+   59.5
+  ],
+  [
+   "09/03",
+   59.1
+  ],
+  [
+   "10/03",
+   58.9
+  ],
+  [
+   "11/03",
+   58.5
+  ],
+  [
+   "12/03",
+   58.8
+  ],
+  [
+   "13/03",
+   58.5
+  ],
+  [
+   "16/03",
+   59.1
+  ],
+  [
+   "17/03",
+   59.1
+  ],
+  [
+   "18/03",
+   58.8
+  ],
+  [
+   "19/03",
+   58
+  ],
+  [
+   "20/03",
+   57.4
+  ],
+  [
+   "23/03",
+   56.8
+  ],
+  [
+   "24/03",
+   57.1
+  ],
+  [
+   "25/03",
+   57.7
+  ],
+  [
+   "26/03",
+   58.2
+  ],
+  [
+   "27/03",
+   58.3
+  ],
+  [
+   "30/03",
+   59.8
+  ],
+  [
+   "31/03",
+   60.2
+  ],
+  [
+   "01/04",
+   60.3
+  ],
+  [
+   "02/04",
+   60.7
+  ],
+  [
+   "07/04",
+   61.1
+  ],
+  [
+   "08/04",
+   62
+  ],
+  [
+   "09/04",
+   61.9
+  ],
+  [
+   "10/04",
+   62.1
+  ],
+  [
+   "13/04",
+   60.5
+  ],
+  [
+   "14/04",
+   60.4
+  ],
+  [
+   "15/04",
+   58.8
+  ],
+  [
+   "16/04",
+   58
+  ],
+  [
+   "17/04",
+   58.1
+  ],
+  [
+   "20/04",
+   58.9
+  ],
+  [
+   "21/04",
+   58.7
+  ],
+  [
+   "22/04",
+   58.8
+  ],
+  [
+   "23/04",
+   59
+  ],
+  [
+   "24/04",
+   58.8
+  ],
+  [
+   "27/04",
+   59.1
+  ],
+  [
+   "28/04",
+   59.7
+  ],
+  [
+   "29/04",
+   60
+  ],
+  [
+   "30/04",
+   60
+  ],
+  [
+   "04/05",
+   59.9
+  ],
+  [
+   "05/05",
+   60.1
+  ],
+  [
+   "06/05",
+   60.7
+  ],
+  [
+   "07/05",
+   59.7
+  ],
+  [
+   "08/05",
+   59.6
+  ],
+  [
+   "11/05",
+   58.4
+  ],
+  [
+   "12/05",
+   58.2
+  ],
+  [
+   "13/05",
+   57.8
+  ],
+  [
+   "14/05",
+   58.6
+  ],
+  [
+   "15/05",
+   58.1
+  ],
+  [
+   "18/05",
+   58.6
+  ],
+  [
+   "19/05",
+   58.9
+  ],
+  [
+   "20/05",
+   58.7
+  ],
+  [
+   "21/05",
+   58.8
+  ],
+  [
+   "22/05",
+   59.2
+  ],
+  [
+   "25/05",
+   59.7
+  ],
+  [
+   "26/05",
+   58.7
+  ],
+  [
+   "27/05",
+   59.6
+  ],
+  [
+   "28/05",
+   59
+  ],
+  [
+   "29/05",
+   59.4
+  ],
+  [
+   "01/06",
+   58.7
+  ],
+  [
+   "02/06",
+   58.2
+  ],
+  [
+   "03/06",
+   57.2
+  ],
+  [
+   "04/06",
+   57.1
+  ],
+  [
+   "05/06",
+   57.5
+  ],
+  [
+   "08/06",
+   57.9
+  ],
+  [
+   "09/06",
+   58
+  ],
+  [
+   "10/06",
+   59.1
+  ],
+  [
+   "11/06",
+   58.8
+  ],
+  [
+   "12/06",
+   59
+  ],
+  [
+   "15/06",
+   58.6
+  ],
+  [
+   "16/06",
+   58.3
+  ],
+  [
+   "17/06",
+   57.4
+  ],
+  [
+   "18/06",
+   57.4
+  ],
+  [
+   "19/06",
+   57.4
+  ],
+  [
+   "22/06",
+   57.9
+  ],
+  [
+   "23/06",
+   58
+  ],
+  [
+   "24/06",
+   58.8
+  ],
+  [
+   "25/06",
+   58.1
+  ],
+  [
+   "26/06",
+   58.6
+  ],
+  [
+   "29/06",
+   58.5
+  ],
+  [
+   "30/06",
+   58.4
+  ],
+  [
+   "01/07",
+   58.4
+  ],
+  [
+   "02/07",
+   58.9
+  ],
+  [
+   "03/07",
+   58.7
+  ],
+  [
+   "06/07",
+   57.5
+  ],
+  [
+   "07/07",
+   57.7
+  ],
+  [
+   "08/07",
+   57.2
+  ],
+  [
+   "09/07",
+   57
+  ],
+  [
+   "10/07",
+   55.1
+  ],
+  [
+   "13/07",
+   55.2
+  ],
+  [
+   "14/07",
+   55
+  ],
+  [
+   "15/07",
+   55
+  ],
+  [
+   "16/07",
+   56.1
+  ],
+  [
+   "17/07",
+   56.2
+  ],
+  [
+   "20/07",
+   55.7
+  ],
+  [
+   "21/07",
+   55.9
+  ],
+  [
+   "22/07",
+   56.3
+  ],
+  [
+   "23/07",
+   55.9
+  ],
+  [
+   "24/07",
+   55.7
+  ],
+  [
+   "27/07",
+   55.6
+  ],
+  [
+   "28/07",
+   56.2
+  ],
+  [
+   "29/07",
+   56.3
+  ],
+  [
+   "30/07",
+   57.7
+  ],
+  [
+   "31/07",
+   57.4
+  ],
+  [
+   "03/08",
+   57.3
+  ],
+  [
+   "04/08",
+   56.8
+  ],
+  [
+   "05/08",
+   56.6
+  ],
+  [
+   "06/08",
+   56.7
+  ],
+  [
+   "07/08",
+   57.4
+  ],
+  [
+   "10/08",
+   57.2
+  ],
+  [
+   "11/08",
+   56.9
+  ],
+  [
+   "12/08",
+   56.9
+  ],
+  [
+   "13/08",
+   56.6
+  ],
+  [
+   "14/08",
+   56.7
+  ],
+  [
+   "17/08",
+   56
+  ],
+  [
+   "18/08",
+   56.5
+  ],
+  [
+   "19/08",
+   56.6
+  ],
+  [
+   "20/08",
+   56.9
+  ],
+  [
+   "21/08",
+   57.1
+  ],
+  [
+   "24/08",
+   57.5
+  ],
+  [
+   "25/08",
+   57.2
+  ],
+  [
+   "26/08",
+   57.2
+  ],
+  [
+   "27/08",
+   57.1
+  ],
+  [
+   "28/08",
+   57.1
+  ],
+  [
+   "31/08",
+   57.3
+  ],
+  [
+   "01/09",
+   57.6
+  ],
+  [
+   "02/09",
+   57.3
+  ],
+  [
+   "03/09",
+   56.7
+  ],
+  [
+   "04/09",
+   56.9
+  ],
+  [
+   "07/09",
+   56.4
+  ],
+  [
+   "08/09",
+   56.7
+  ],
+  [
+   "09/09",
+   56.2
+  ],
+  [
+   "10/09",
+   55.4
+  ],
+  [
+   "11/09",
+   54
+  ],
+  [
+   "14/09",
+   54.7
+  ],
+  [
+   "15/09",
+   54.9
+  ],
+  [
+   "16/09",
+   54.5
+  ],
+  [
+   "17/09",
+   54.7
+  ],
+  [
+   "18/09",
+   54.2
+  ],
+  [
+   "21/09",
+   54.7
+  ],
+  [
+   "22/09",
+   55
+  ],
+  [
+   "23/09",
+   54.2
+  ],
+  [
+   "24/09",
+   54.2
+  ],
+  [
+   "25/09",
+   53.7
+  ],
+  [
+   "28/09",
+   54.2
+  ]
+ ],
+ "nom": "Viscofan",
+ "notes": "Clôture du 28/09 non confirmée sur le web : cours du flux GitHub relevé à 15h33 (54,20), à remplacer par la vraie clôture au prochain flux. Une page donnait 53,70 € (-0,92 %) à 17h35, mais ces chiffres correspondent à la séance du 25/09 : non retenus. Titre sur son support de 53 € ; support suivant vers 45,6 €. Date du T3 non publiée.",
+ "pays": "ES",
+ "per26": 15.6,
+ "per27": 14.2,
+ "perf": {
+  "m1": -5.1,
+  "m12": -6.6,
+  "m3": -7.2
+ },
+ "pub": null,
+ "pubLabel": "Résultats du T3",
+ "risque": "Devises et coûts (énergie, matières, transport) : la direction vise désormais le bas de sa fourchette d'EBITDA 2026.",
+ "secteur": "Boyaux alimentaires",
+ "societe": {
+  "aVerifier": "Vérifié le 29/09/2026 sur les rapports annuels Viscofan 2023, 2024 et 2025 (sections résultats et gouvernance), la note de résultats S1 2024 (CNMV) et la convocation d'assemblée au BORME. Confirmés : CA, résultat net, EBIT (margeOp = EBIT / CA : 189,0 M€ en 2022, 184,7 en 2023, 201,5 en 2024, 204,8 en 2025) et dette bancaire nette hors loyers IFRS 16 de 2022 à 2025 (avec IFRS 16 : 141,6 / 180,7 / 193,8 / 252,6 M€). Dividende = rémunération totale par action (ordinaire + 1 € exceptionnel depuis 2023), hors prime d'assistance à l'assemblée de 0,01 € ; 2025 = 2,25 + 1,00 €. Effectif : 5 721 salariés en moyenne en 2025 (effectif de fin d'année non lu). Siège social confirmé à Tajonar, C/ Berroa 15 (BORME) ; Cáseda est un site industriel. Répartitions par activité et par zone de 2025. 2021 : CA, résultat net, dette bancaire nette et dividende de 1,84 € lus dans la reprise du communiqué par Bolsamania (les PDF Viscofan ne s'ouvrent pas) ; EBIT 2021 non trouvé (margeOp reste null). Date de prise de la présidence par M. de Ampuero non trouvée (administrateur depuis 2009). Restent non vérifiés : année 1990 pour Naturin, parts de marché (Wikipédia, analyses), liste des concurrents. Pas de consensus 2026 chiffré ; objectifs Beat'30 d'après la presse.",
+  "actionnariat": "Pas d'actionnaire de contrôle. Au 31/12/2025 (rapport annuel 2025) : Corporación Financiera Alba (groupe March) 14,25 %, Angustias y Sol S.L. 5,03 %, administrateurs 0,43 %, autocontrôle 1,09 %, flottant 79,20 %.",
+  "avantage": "Seul fabricant au monde présent sur les quatre technologies de boyaux (cellulose, collagène, fibreux, plastique), avec une taille plus de deux fois supérieure au suivant, des usines sur tous les continents et des milliers de références sur mesure qui rendent le changement de fournisseur risqué pour le client. Cet avantage peut s'éroder avec une baisse de la consommation de charcuterie, le retour des boyaux naturels quand leur prix baisse, la concurrence chinoise ou la hausse du dollar et de l'énergie.",
+  "chiffres": [
+   {
+    "annee": "2021",
+    "ca": 969.2,
+    "detteNette": 1.8,
+    "dividende": 1.84,
+    "margeOp": null,
+    "rn": 133
+   },
+   {
+    "annee": "2022",
+    "ca": 1201,
+    "detteNette": 101.3,
+    "dividende": 1.95,
+    "margeOp": 15.7,
+    "rn": 139.4
+   },
+   {
+    "annee": "2023",
+    "ca": 1225.8,
+    "detteNette": 138,
+    "dividende": 3,
+    "margeOp": 15.1,
+    "rn": 141
+   },
+   {
+    "annee": "2024",
+    "ca": 1204,
+    "detteNette": 146.9,
+    "dividende": 3.1,
+    "margeOp": 16.7,
+    "rn": 157
+   },
+   {
+    "annee": "2025",
+    "ca": 1252,
+    "detteNette": 206.1,
+    "dividende": 3.25,
+    "margeOp": 16.4,
+    "rn": 159.9
+   }
+  ],
+  "clients": "Plus de 1 700 industriels de la viande dans plus de 100 pays ; aucun client ne dépasserait 10 % des ventes selon une analyse ancienne (2017), donc une concentration faible.",
+  "concurrents": [
+   "Viskase",
+   "Devro",
+   "Kalle",
+   "Shenguan",
+   "ViskoTeepak"
+  ],
+  "corrections": [
+   "2025 margeOp null -> 16.4 (EBIT 204,8 M€ / CA 1 252,0 M€, rapport annuel 2025).",
+   "effectifs 5900 -> 5721 (effectif moyen 2025, rapport annuel 2025 ; 5 900 venait de la presse).",
+   "Siège : Tajonar confirmé (siège social C/ Berroa 15, 31192 Tajonar, convocation BORME 2025).",
+   "Segments : parts null remplacées par la répartition officielle 2025 (boyaux 82,5 %, nouveaux métiers 12,8 %, énergie 4,7 %).",
+   "Géographie 2024 -> 2025 : EMEA 42.3 -> 41.0, Amérique du Nord 31.0 inchangé, Amérique du Sud 13.2 -> 14.5, Asie-Pacifique 13.5 -> 13.6 (rapport annuel 2025).",
+   "Dirigeants : José Antonio Canales CEO (consejero delegado) depuis le 01/01/2024 ; M. de Ampuero président non exécutif depuis la même date.",
+   "Actionnariat : Alba 13 % (analyse non datée) -> 14,25 % au 31/12/2025, plus Angustias y Sol 5,03 % (rapport annuel 2025).",
+   "Histoire : ajout du changement de gouvernance de 2024."
+  ],
+  "croire": [
+   "Que la consommation mondiale de saucisses et de charcuterie industrielle continue de croître, surtout dans les pays émergents.",
+   "Que le plan Beat'30 et ses 600 M€ d'investissements (collagène, santé, alimentation animale) débouchent vraiment sur 1,8 milliard d'euros de ventes en 2030.",
+   "Que Viscofan garde son avance technologique et son pouvoir de prix face aux concurrents chinois et au boyau naturel."
+  ],
+  "devise": "€",
+  "dirigeants": [
+   {
+    "depuis": 2024,
+    "nom": "José Antonio Canales García",
+    "role": "Administrateur délégué (consejero delegado, CEO) depuis le 01/01/2024 ; administrateur exécutif depuis 2014"
+   },
+   {
+    "depuis": null,
+    "nom": "José Domingo de Ampuero y Osma",
+    "role": "Président du conseil d'administration, non exécutif depuis le 01/01/2024 (administrateur depuis 2009)"
+   }
+  ],
+  "effectifs": 5721,
+  "fondee": 1975,
+  "geo": [
+   {
+    "part": 41,
+    "zone": "Europe, Moyen-Orient et Afrique (512,7 M€ en 2025)"
+   },
+   {
+    "part": 31,
+    "zone": "Amérique du Nord (387,4 M€)"
+   },
+   {
+    "part": 14.5,
+    "zone": "Amérique du Sud (181,4 M€)"
+   },
+   {
+    "part": 13.6,
+    "zone": "Asie-Pacifique (170,5 M€)"
+   }
+  ],
+  "histoire": [
+   {
+    "annee": 1975,
+    "fait": "Création de Viscofan en Navarre pour fabriquer des boyaux artificiels en cellulose."
+   },
+   {
+    "annee": 1986,
+    "fait": "Introduction à la Bourse de Madrid en décembre."
+   },
+   {
+    "annee": 1990,
+    "fait": "Rachat de l'allemand Naturin, spécialiste des boyaux en collagène."
+   },
+   {
+    "annee": 1995,
+    "fait": "Rachats de Gamex (République tchèque) et de Trificel (Brésil) : le groupe s'internationalise."
+   },
+   {
+    "annee": 2006,
+    "fait": "Rachat des activités américaines et mexicaines de Teepak, qui renforce sa position en Amérique du Nord."
+   },
+   {
+    "annee": 2015,
+    "fait": "Vente de sa filiale de conserves IAN pour se recentrer sur les boyaux ; rachat de Nanopack Technology."
+   },
+   {
+    "annee": 2023,
+    "fait": "Premier recul du marché mondial des boyaux en 24 ans, mais résultats records et dividende porté à 3 € par action (dont 1 € exceptionnel)."
+   },
+   {
+    "annee": 2024,
+    "fait": "José Antonio Canales devient administrateur délégué (CEO) au 1er janvier ; le président José Domingo de Ampuero y Osma devient non exécutif."
+   },
+   {
+    "annee": 2026,
+    "fait": "Lancement du plan Beat'30 : objectif de 1,8 milliard d'euros de chiffre d'affaires en 2030, plus de 600 M€ d'investissements, nouvelles activités santé (collagène) et friandises pour animaux."
+   }
+  ],
+  "modele": "Viscofan vend ses boyaux aux industriels de la charcuterie, qui en rachètent en continu puisque chaque saucisse en consomme un : c'est une vente très récurrente, liée à la consommation de viande transformée. Le boyau pèse peu dans le prix de la saucisse mais il est crucial pour la cadence des machines, ce qui donne un bon pouvoir de prix ; une petite partie du chiffre d'affaires vient aussi de la vente d'électricité produite par ses centrales de cogénération.",
+  "questions": [
+   "Les volumes de boyaux progressent-ils, ou la croissance vient-elle surtout des hausses de prix et des acquisitions ?",
+   "Quel est l'impact du dollar et du coût de l'énergie sur la marge, alors qu'environ un tiers des ventes est en Amérique du Nord ?",
+   "Les nouveaux métiers (collagène santé, friandises pour animaux) deviennent-ils assez gros et rentables pour compter ?"
+  ],
+  "resume": "Viscofan fabrique des boyaux artificiels pour la charcuterie, c'est-à-dire la fine enveloppe qui donne sa forme à la saucisse, au hot-dog, au saucisson ou au jambon cuit. Quand un industriel de la viande produit des saucisses de Francfort ou des chipolatas, il utilise très souvent un boyau en cellulose ou en collagène de Viscofan, qui en est le leader mondial.",
+  "segments": [
+   {
+    "detail": "Métier historique des boyaux artificiels : collagène (saucisses fraîches, snacks), cellulose (saucisses cuites type hot-dog), fibreux et plastiques (gros calibres, jambons, emballages). 1 033,7 M€ en 2025.",
+    "nom": "Boyaux (métier traditionnel)",
+    "part": 82.5
+   },
+   {
+    "detail": "Nouvelles activités selon la classification de la société (dont collagène pour la santé et friandises pour animaux). 159,7 M€ en 2025.",
+    "nom": "Nouveaux métiers",
+    "part": 12.8
+   },
+   {
+    "detail": "Vente d'électricité produite par les centrales de cogénération. 58,6 M€ en 2025.",
+    "nom": "Ventes d'énergie",
+    "part": 4.7
+   }
+  ],
+  "siege": "Tajonar (Navarre), Espagne",
+  "site": "https://www.viscofan.com",
+  "sources": [
+   "https://www.informeanual2025.viscofan.com/resultados-economicos-y-de-gestion.html",
+   "https://www.informeanual2025.viscofan.com/gobernanza.html",
+   "https://www.informeanual2024.viscofan.com/resultados-economicos-y-de-gestion.html",
+   "https://www.informeanual2023.viscofan.com/informe-de-gestion/2-5-2-resultados-economicos-y-de-gestion.html",
+   "https://public.viscofan.com/investor-relations/financialinformation/en/Nota%20de%20resultados.%20Enero-Diciembre%202025_EN.pdf",
+   "https://www.cnmv.es/webservices/verdocumento/ver?e=qz0Gvkw71pAmjCAGiq0G4Kd%2FDaD+VySlIAdIJyAWs731xVx9TYwe6nqlQTLZolJy",
+   "https://www.boe.es/diario_borme/txt.php?id=BORME-C-2025-840",
+   "https://www.viscofan.com/corporate-governance/board-of-directors",
+   "https://www.bolsamania.com/noticias/resultados-anuncios/viscofan-gana-1599-millones-18-2025-registra-cuentas-record--21857058.html",
+   "https://www.bolsamania.com/noticias/resultados-anuncios/viscofan-gana-133-millones-2021-86-mas--9285367.html",
+   "https://www.bolsamania.com/noticias/empresas/viscofan-domingo-ampuero-osma-presidente-no-ejecutivo-jose-antonio-canales-garcia-ceo--15662174.html",
+   "https://forbes.es/economia/881317/viscofan-espera-alcanzar-1-800-millones-de-euros-en-ingresos-y-450-millones-en-ebitda-en-2030/",
+   "https://en.wikipedia.org/wiki/Viscofan",
+   "https://krokerequityresearch.substack.com/p/102-viscofan-a-stock-analysis"
+  ],
+  "suivi": {
+   "bilan": "Sur 6 conditions, 2 tiennent (volumes, demande dans les pays émergents) et 4 sont à surveiller ; le plus fragile est la marge, rognée par le dollar et les coûts, qui retarde le démarrage du plan Beat'30.",
+   "croire": [
+    {
+     "c": "Que la consommation mondiale de saucisses et de charcuterie industrielle continue de croître, surtout dans les pays émergents.",
+     "etat": "ok",
+     "preuve": "S1 2026, à changes constants : Amérique du Sud +14,7 %, Asie-Pacifique +7,3 %, Amérique du Nord +5,8 % ; volumes de boyaux +5,5 %.",
+     "prochain": "Résultats T3 : date non publiée par Viscofan (le T3 2025 était sorti le 23/10/2025)",
+     "reponse": "Les volumes de Viscofan croissent dans toutes les régions, plus vite dans les pays émergents. Ce sont les ventes du groupe, pas une mesure directe de la consommation mondiale, mais le signal va dans le bon sens.",
+     "source": "https://www.marketscreener.com/news/viscofan-s-a-financial-report-january-june-2026-ce7f51d3db88f02d"
+    },
+    {
+     "c": "Que le plan Beat'30 et ses 600 M€ d'investissements (collagène, santé, alimentation animale) débouchent vraiment sur 1,8 milliard d'euros de ventes en 2030.",
+     "etat": "watch",
+     "preuve": "S1 2026 : EBITDA -7,4 % publié ; investissements de 34,5 M€ au S1 pour environ 100 M€ prévus sur l'année ; EBITDA 2026 attendu en bas de fourchette.",
+     "prochain": "Résultats T3 : date non publiée par Viscofan (le T3 2025 était sorti le 23/10/2025)",
+     "reponse": "Début hésitant : l'EBITDA recule en 2026 et la direction vise le bas de sa fourchette annuelle, alors que le plan suppose environ 9 % de croissance par an. Les chantiers de capacité (collagène au New Jersey, cellulose au Mexique, usine tchèque en 2028) sont lancés.",
+     "source": "https://www.bolsamania.com/noticias/mercados/hechos-relevantes-viscofan-sa-presentacion-explicativa-resultados-primer-semestre-2026--23150951.html"
+    },
+    {
+     "c": "Que Viscofan garde son avance technologique et son pouvoir de prix face aux concurrents chinois et au boyau naturel.",
+     "etat": "watch",
+     "preuve": "S1 2026 : hausses de prix appliquées à la clientèle, effet plus fort attendu au S2 ; marge brute 68,0 % (-1,6 point).",
+     "prochain": "Résultats T3 : date non publiée par Viscofan (le T3 2025 était sorti le 23/10/2025)",
+     "reponse": "Le boyau en collagène continue de remplacer le boyau naturel chez des clients, et le groupe a passé des hausses de prix. Mais ces hausses ne compensent pas encore les coûts (marge brute en baisse) et aucune donnée récente sur la concurrence chinoise n'a été trouvée.",
+     "source": "https://www.bolsamania.com/noticias/resultados-anuncios/viscofan-gano-713-millones-hasta-julio-22-y-crece-gracias-al-negocio-de-las-envolturas--23145764.html"
+    }
+   ],
+   "le": "2026-09-29",
+   "questions": [
+    {
+     "etat": "ok",
+     "preuve": "S1 2026 : volumes de boyaux +5,5 %, CA +4,8 % à périmètre et changes comparables (+1,8 % publié, 629,8 M€).",
+     "prochain": "Résultats T3 : date non publiée par Viscofan (le T3 2025 était sorti le 23/10/2025)",
+     "q": "Les volumes de boyaux progressent-ils, ou la croissance vient-elle surtout des hausses de prix et des acquisitions ?",
+     "reponse": "La croissance vient d'abord des volumes, qui progressent plus vite que la moyenne historique du marché, surtout en cellulose. Les hausses de prix s'ajoutent mais restent secondaires, et aucune acquisition ne pèse sur le semestre.",
+     "source": "https://www.bolsamania.com/noticias/resultados-anuncios/viscofan-gano-713-millones-hasta-julio-22-y-crece-gracias-al-negocio-de-las-envolturas--23145764.html"
+    },
+    {
+     "etat": "watch",
+     "preuve": "S1 2026 : marge d'EBITDA 21,4 % contre 23,5 % (23,1 % à changes constants) ; EBITDA 134,5 M€ (-7,4 % publié, +3,1 % comparable) ; effet devises de -3,3 points sur le CA ; Amérique du Nord 194,3 M€ (-0,2 % publié, +5,8 % comparable).",
+     "prochain": "Résultats T3 : date non publiée par Viscofan (le T3 2025 était sorti le 23/10/2025)",
+     "q": "Quel est l'impact du dollar et du coût de l'énergie sur la marge, alors qu'environ un tiers des ventes est en Amérique du Nord ?",
+     "reponse": "L'impact est net : la baisse du dollar et la hausse du gaz et des matières premières font reculer la marge d'environ 2 points. Sans les devises, la marge serait restée proche de celle de 2025.",
+     "source": "https://www.marketscreener.com/news/viscofan-s-a-financial-report-january-june-2026-ce7f51d3db88f02d"
+    },
+    {
+     "etat": "watch",
+     "preuve": "S1 2026 : santé 3,8 M€ (+57,3 %), friandises pour animaux 8,3 M€ (+87,8 %), soit environ 1,9 % du CA.",
+     "prochain": "Résultats T3 : date non publiée par Viscofan (le T3 2025 était sorti le 23/10/2025)",
+     "q": "Les nouveaux métiers (collagène santé, friandises pour animaux) deviennent-ils assez gros et rentables pour compter ?",
+     "reponse": "Ils croissent très vite mais restent minuscules, moins de 2 % des ventes, et leur rentabilité n'est pas publiée à part. Il faudra plusieurs années avant qu'ils changent le profil du groupe.",
+     "source": "https://www.marketscreener.com/news/viscofan-s-a-financial-report-january-june-2026-ce7f51d3db88f02d"
+    }
+   ]
+  },
+  "verifieLe": "2026-09-29"
+ },
+ "src": "https://www.foodretail.es/industria-auxiliar/viscofan-factura-6298-millones-en-el-primer-semestre-un-18-mas.html",
+ "statut": "surveiller",
+ "these": "Leader mondial d'une niche (boyaux pour charcuterie), volumes en hausse, bilan solide, bon dividende.",
+ "ticker": "VIS",
+ "yahoo": "VIS.MC",
+ "zb": "https://www.zonebourse.com/cours/action/VISCOFAN-S-A-75245/"
+}

@@ -1,0 +1,1502 @@
+{
+ "analyse": {
+  "aVerifier": "Moyenne mobile 200 jours non confirmée (Investing affichait 33,51 € le 09/09, chiffre incohérent avec une moyenne 100 jours de 37,92 € chez Zonebourse, donc écarté). RSI 14 calculé par nous en moyenne simple sur les clôtures Investing, pas lu sur un site. ROE estimée par calcul. Prix exact de Sand Cherry et taille totale du programme de rachat d'actions non confirmés. Date des résultats semestriels à confirmer. Piotroski non calculable faute de bilan détaillé.",
+  "actu": [
+   {
+    "d": "29/07",
+    "fait": "Chiffre d'affaires du 1er trimestre 2026/27 en recul de 2 % (227 M€) et objectifs annuels abaissés : croissance organique entre -1 % et légère hausse, marge ramenée à 11 à 13 % contre environ 13 %. Le titre a chuté d'environ 24 % le 30/07 et plusieurs analystes ont abaissé leur opinion et leur objectif (TP ICAP 49 €, Marex 40 €, Portzamparc 46,6 €).",
+    "horizon": "moyen",
+    "impact": "negatif",
+    "lecture": "C'est la deuxième déception : elle montre que la demande de conseil ralentit (Allemagne, Suisse, Autriche, États-Unis, Royaume-Uni en baisse) et fragilise l'objectif 2030."
+   },
+   {
+    "d": "29/07",
+    "fait": "Acquisition d'AI Builders, cabinet français d'IA et de données (environ 50 consultants, 10,3 M€ de chiffre d'affaires visé en 2026, marge d'EBITDA de 15 %) pour 19,3 M€, payée en trésorerie. Les projets liés à l'IA représentent 22 % du chiffre d'affaires contre 17 % un an plus tôt.",
+    "horizon": "long",
+    "impact": "positif",
+    "lecture": "La principale crainte sur le titre est que l'IA remplace une partie du conseil : Wavestone essaie au contraire d'en faire un relais de croissance."
+   },
+   {
+    "d": "14/09",
+    "fait": "Acquisition du cabinet américain Sand Cherry (Denver, environ 130 salariés, clients dans les télécoms, les médias et l'énergie), pour environ 35 M$ selon Zonebourse et jusqu'à 47 M$ selon Dealroom.",
+    "horizon": "long",
+    "impact": "neutre",
+    "lecture": "Cela renforce la présence aux États-Unis, zone clé du plan 2030, mais c'est justement une région où l'activité recule : l'intégration devra être prouvée."
+   },
+   {
+    "d": "18/09",
+    "fait": "Le rendement de l'emprunt d'État français à 10 ans monte à 4,55 % et l'écart avec l'Allemagne dépasse 100 points de base pour la première fois depuis 2012, sur fond de dérapage budgétaire.",
+    "horizon": "moyen",
+    "impact": "negatif",
+    "lecture": "Des taux plus élevés et l'incertitude politique pèsent sur les petites et moyennes valeurs françaises et peuvent freiner les budgets de conseil des grandes entreprises."
+   }
+  ],
+  "cadres": [
+   "Buffett / Fisher (qualité, pouvoir de fixation des prix)",
+   "Lynch (catégorie retournement, PEG)",
+   "Graham (solidité du bilan)",
+   "Greenblatt (formule magique)",
+   "Théorie de Dow",
+   "Stades de Weinstein",
+   "Modèle de tendance de Minervini"
+  ],
+  "conviction": "faible",
+  "fonda": {
+   "bilan": "Trésorerie nette de 121,4 M€ fin mars 2026 (contre 25,6 M€ un an plus tôt) et flux de trésorerie disponible de 118,9 M€. Pas de dette nette, donc pas de risque financier au sens de Graham. Cette trésorerie est en partie utilisée en 2026 : AI Builders (19,3 M€), Sand Cherry (environ 35 M$ selon Zonebourse), rachats d'actions et dividende de 0,50 €. Le consensus prévoit encore 143 M€ de trésorerie nette fin mars 2027.",
+   "croissance": "Chiffre d'affaires 2025/26 de 954,3 M€ (+1 %, +1 % organique), bénéfice par action 3,34 € (+8 %). Premier trimestre 2026/27 : 227 M€, -2 %. Objectif annuel ramené à une évolution organique entre -1 % et une légère hausse. Le consensus Zonebourse attend un bénéfice par action de 3,17 € en 2026/27 (-5 %) puis 3,68 € en 2027/28 et 3,88 € en 2028/29. Plan 2030 : 1,4 Md€ de chiffre d'affaires et 14 à 16 % de marge, ce qui suppose des acquisitions (AI Builders, Sand Cherry). Selon la grille de Lynch, c'est aujourd'hui une valeur en phase de retournement, pas une valeur de croissance.",
+   "greenblatt": "Rendement des bénéfices très élevé (résultat opérationnel attendu de 113,8 M€ pour une valeur d'entreprise d'environ 650 M€, soit environ 17 %) et rentabilité des capitaux correcte (environ 11 à 12 %) : la formule magique de Greenblatt classe bien le titre, à condition que les bénéfices ne continuent pas à baisser.",
+   "justif": "Bilan solide et forte génération de trésorerie, valorisation au plus bas historique, mais croissance à l'arrêt et objectifs révisés à la baisse : la qualité est là, la dynamique ne l'est plus.",
+   "peg": 0.9,
+   "piotroski": null,
+   "qualite": "Marge opérationnelle courante de 12,6 % en 2025/26, stable sur un an et proche de 12 à 13 % depuis plusieurs années (Zonebourse). Rentabilité des fonds propres d'environ 11 à 12 % (calcul : bénéfice net 82,1 M€ rapporté à des capitaux propres estimés à partir du ratio cours/actif net de Zonebourse, non confirmé par la société). Au sens de Buffett et Fisher, c'est une bonne entreprise de conseil, mais sans barrière à l'entrée très forte : le taux d'occupation des consultants (71 %) et le prix journalier moyen (926 €, en baisse de 1,3 %) montrent que le pouvoir de fixer les prix s'est affaibli.",
+   "score": 6,
+   "valo": "Au cours de 29,8 € : PER d'environ 9,4 fois pour 2026/27 et 8,1 fois pour 2027/28 (bénéfices par action de 3,17 € et 3,68 € selon Zonebourse), contre une moyenne d'environ 17 fois sur les cinq exercices 2021/22 à 2025/26 (18 ; 17,7 ; 20,7 ; 15,7 ; 13,7). Valeur d'entreprise sur EBITDA d'environ 4,7 fois pour 2026/27 et rendement du flux de trésorerie disponible proche de 13 % (Zonebourse). C'est l'une des valorisations les plus basses du secteur des services informatiques en France."
+  },
+  "majLe": "2026-09-28",
+  "revisions": "Stables : BPA 2026 attendu à 3,35 €, identique il y a 1 et 3 mois ; 3,28 € en 2027 (Boursorama).",
+  "scenarios": [
+   {
+    "bas": 26,
+    "central": 30.5,
+    "haut": 34,
+    "horizon": "2 mois",
+    "hypotheses": "Catalyseur principal : chiffre d'affaires du 2e trimestre le 29/10/2026. Bas : nouvelle baisse d'activité et cassure du support de 28,65 €. Haut : stabilisation de l'activité et retour vers la moyenne 50 jours (environ 34 €).",
+    "unite": "€"
+   },
+   {
+    "bas": 24,
+    "central": 36,
+    "haut": 46,
+    "horizon": "12 mois",
+    "hypotheses": "Objectif moyen des 4 analystes suivis par Zonebourse : 44,10 € (fourchette 33 à 54 €). Central : activité stable et léger regain de valorisation vers 10 à 11 fois les bénéfices. Haut : reprise de la croissance et retour vers l'objectif moyen. Bas : nouvelle baisse des objectifs et PER qui reste autour de 8 fois sur des bénéfices en recul.",
+    "unite": "€"
+   },
+   {
+    "bas": 2,
+    "central": 10,
+    "haut": 17,
+    "horizon": "5 ans",
+    "hypotheses": "Central : bénéfice par action en hausse d'environ 6 %/an (acquisitions et retour d'une croissance modeste), dividende d'environ 1,7 %, et PER qui remonte de 9 à environ 11 fois (environ +2 à 3 %/an) : 6 + 1,7 + 2,5 = environ 10 %. Bas : bénéfices stables, PER inchangé, seul le dividende rapporte. Haut : plan 2030 tenu (bénéfice +10 %/an) et PER qui revient vers 14 fois.",
+    "unite": "%/an"
+   },
+   {
+    "bas": 3,
+    "central": 8,
+    "haut": 12,
+    "horizon": "10-15 ans",
+    "hypotheses": "Sur longue période l'effet de revalorisation s'estompe : croissance des bénéfices de 5 à 8 %/an plus un dividende de 1,5 à 2 %. Bas : l'IA réduit durablement la taille du marché du conseil. Haut : Wavestone devient un acteur européen de référence du conseil en transformation et en IA.",
+    "unite": "%/an"
+   }
+  ],
+  "sources": [
+   "https://www.wavestone.com/en/regul-information/q1-2026-27-revenue-down-2-annual-targets-adjusted-ai-builders-targeted-acquisition-of-a-french-ai-and-data-player/",
+   "https://www.wavestone.com/fr/regul-information/resultats-2025-26-resultat-net-en-progression-de-8-lead-the-shift-le-plan-strategique-de-wavestone-a-lhorizon-2030-2/",
+   "https://www.zonebourse.com/actualite-bourse/le-marche-punit-wavestone-apres-une-nouvelle-deception-ce7f50dad98bf726",
+   "https://www.zonebourse.com/cours/action/WAVESTONE-45568714/consensus/",
+   "https://www.zonebourse.com/cours/action/WAVESTONE-45568714/finances/",
+   "https://www.zonebourse.com/cours/action/WAVESTONE-45568714/valorisation/",
+   "https://www.zonebourse.com/cours/action/WAVESTONE-45568714/cotations/",
+   "https://www.investing.com/equities/solucom-historical-data",
+   "https://www.boursorama.com/cours/analyses/1rPWAVE/",
+   "https://www.abcbourse.com/marches/wavestone-rachete-sand-cherry-pour-accelerer-aux-etats-unis_702446",
+   "https://dealroom.co/news/150513-wavestone-buys-denvers-sand-cherry-for-up-to-47m-in-us-push/",
+   "https://www.xtb.com/fr/analyses-marches/dette-francaise-le-spread-oat-bund-franchit-100-points"
+  ],
+  "tech": {
+   "bas52": 28.95,
+   "cours": 29.5,
+   "coursLe": "2026-09-28",
+   "haut52": 61.8,
+   "lecture": "Cours de 29,50 en dessous de sa moyenne 50 jours (33,45) et en dessous de sa moyenne 200 jours (44,30). RSI 36,7 : élan neutre. Il se situe à 2 % de sa fourchette sur un an (de 28,95 à 61,80), performance sur 12 mois de -40,0 %. Moyennes et RSI calculés sur les vraies clôtures (flux GitHub de 15h33).",
+   "mm200": 44.3,
+   "mm50": 33.45,
+   "resistance": 31.65,
+   "rsi14": 36.7,
+   "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json",
+   "stade": 4,
+   "support": 28.65,
+   "tendance": "baissiere"
+  },
+  "verdict": "Wavestone est une société de conseil rentable, sans dette et très peu chère (environ 9 fois les bénéfices attendus), mais son activité recule, ses objectifs ont été abaissés en juillet et le marché craint que l'IA réduise le besoin de conseil classique. Le prix intègre déjà beaucoup de pessimisme, mais tant que le chiffre d'affaires ne se stabilise pas et que le cours reste en tendance baissière, le dossier reste un pari sur un redressement plutôt qu'une thèse confirmée.",
+  "zones": {
+   "catalyseurs": [
+    "29/10/2026 : chiffre d'affaires du 2e trimestre 2026/27.",
+    "Début décembre 2026 (date à confirmer) : résultats semestriels.",
+    "Suite du programme de rachat d'actions et intégration de Sand Cherry et AI Builders."
+   ],
+   "interet": "Entre 26 et 29 € : moins de 9 fois les bénéfices attendus, trésorerie nette, et zone du plus bas annuel (28,90 €) et du support (28,65 €). Le rapport entre risque et potentiel devient attractif surtout si le chiffre d'affaires du 29/10 montre une stabilisation.",
+   "invalidation": "Clôture durable sous 26 € ou nouvelle révision à la baisse des objectifs annuels (marge sous 11 %), qui prouverait que la baisse d'activité n'est pas passagère.",
+   "sortie": [
+    "Deuxième baisse des objectifs sur l'exercice 2026/27 ou marge opérationnelle sous 11 %.",
+    "Recul du taux d'occupation des consultants sous 70 % pendant deux trimestres.",
+    "Retour du PER au-dessus de 15 fois sans reprise de la croissance organique."
+   ]
+  }
+ },
+ "capi": "730 M€",
+ "cours": 29.5,
+ "coursLe": "2026-09-28",
+ "devise": "€",
+ "faits": [
+  {
+   "d": "28/09",
+   "t": "Déclaration des rachats d'actions du 21 au 25/09 publiée."
+  },
+  {
+   "d": "14/09",
+   "t": "Rachat de Sand Cherry Associates (conseil, États-Unis) pour 35 M$."
+  },
+  {
+   "d": "23/09",
+   "t": "Nominations de nouveaux dirigeants."
+  }
+ ],
+ "histo": [
+  [
+   "22/09",
+   47.65
+  ],
+  [
+   "23/09",
+   49.75
+  ],
+  [
+   "24/09",
+   49.65
+  ],
+  [
+   "25/09",
+   48.4
+  ],
+  [
+   "26/09",
+   47.2
+  ],
+  [
+   "29/09",
+   48.25
+  ],
+  [
+   "30/09",
+   48.25
+  ],
+  [
+   "01/10",
+   48.15
+  ],
+  [
+   "02/10",
+   48.8
+  ],
+  [
+   "03/10",
+   48
+  ],
+  [
+   "06/10",
+   47.65
+  ],
+  [
+   "07/10",
+   47.5
+  ],
+  [
+   "08/10",
+   47.15
+  ],
+  [
+   "09/10",
+   46.75
+  ],
+  [
+   "10/10",
+   46
+  ],
+  [
+   "13/10",
+   47.5
+  ],
+  [
+   "14/10",
+   46.75
+  ],
+  [
+   "15/10",
+   47.85
+  ],
+  [
+   "16/10",
+   47.85
+  ],
+  [
+   "17/10",
+   47.9
+  ],
+  [
+   "20/10",
+   48.45
+  ],
+  [
+   "21/10",
+   49.3
+  ],
+  [
+   "22/10",
+   50.1
+  ],
+  [
+   "23/10",
+   50.8
+  ],
+  [
+   "24/10",
+   50.7
+  ],
+  [
+   "27/10",
+   50.2
+  ],
+  [
+   "28/10",
+   49.3
+  ],
+  [
+   "29/10",
+   49
+  ],
+  [
+   "30/10",
+   48.95
+  ],
+  [
+   "31/10",
+   51.6
+  ],
+  [
+   "03/11",
+   51.3
+  ],
+  [
+   "04/11",
+   51.3
+  ],
+  [
+   "05/11",
+   50.1
+  ],
+  [
+   "06/11",
+   49.25
+  ],
+  [
+   "07/11",
+   49.05
+  ],
+  [
+   "10/11",
+   50
+  ],
+  [
+   "11/11",
+   50.3
+  ],
+  [
+   "12/11",
+   51.1
+  ],
+  [
+   "13/11",
+   51.3
+  ],
+  [
+   "14/11",
+   50
+  ],
+  [
+   "17/11",
+   48.6
+  ],
+  [
+   "18/11",
+   48.2
+  ],
+  [
+   "19/11",
+   48.3
+  ],
+  [
+   "20/11",
+   48.05
+  ],
+  [
+   "21/11",
+   48.05
+  ],
+  [
+   "24/11",
+   48.55
+  ],
+  [
+   "25/11",
+   48.5
+  ],
+  [
+   "26/11",
+   48.8
+  ],
+  [
+   "27/11",
+   49.6
+  ],
+  [
+   "28/11",
+   49.95
+  ],
+  [
+   "01/12",
+   50
+  ],
+  [
+   "02/12",
+   49.4
+  ],
+  [
+   "03/12",
+   56.3
+  ],
+  [
+   "04/12",
+   57.4
+  ],
+  [
+   "05/12",
+   56.5
+  ],
+  [
+   "08/12",
+   56.7
+  ],
+  [
+   "09/12",
+   57.5
+  ],
+  [
+   "10/12",
+   56.8
+  ],
+  [
+   "11/12",
+   57.3
+  ],
+  [
+   "12/12",
+   58
+  ],
+  [
+   "15/12",
+   57.1
+  ],
+  [
+   "16/12",
+   56.3
+  ],
+  [
+   "17/12",
+   56
+  ],
+  [
+   "18/12",
+   55.5
+  ],
+  [
+   "19/12",
+   54.6
+  ],
+  [
+   "22/12",
+   55.4
+  ],
+  [
+   "23/12",
+   54.7
+  ],
+  [
+   "24/12",
+   54.9
+  ],
+  [
+   "29/12",
+   55.8
+  ],
+  [
+   "30/12",
+   55.8
+  ],
+  [
+   "31/12",
+   55.6
+  ],
+  [
+   "02/01",
+   55
+  ],
+  [
+   "05/01",
+   53.4
+  ],
+  [
+   "06/01",
+   54.4
+  ],
+  [
+   "07/01",
+   56.7
+  ],
+  [
+   "08/01",
+   56.1
+  ],
+  [
+   "09/01",
+   57.9
+  ],
+  [
+   "12/01",
+   59
+  ],
+  [
+   "13/01",
+   59.8
+  ],
+  [
+   "14/01",
+   60.6
+  ],
+  [
+   "15/01",
+   61.2
+  ],
+  [
+   "16/01",
+   60.8
+  ],
+  [
+   "19/01",
+   59.8
+  ],
+  [
+   "20/01",
+   58.4
+  ],
+  [
+   "21/01",
+   59.1
+  ],
+  [
+   "22/01",
+   60.1
+  ],
+  [
+   "23/01",
+   61.3
+  ],
+  [
+   "26/01",
+   60.5
+  ],
+  [
+   "27/01",
+   61.8
+  ],
+  [
+   "28/01",
+   61.8
+  ],
+  [
+   "29/01",
+   59
+  ],
+  [
+   "30/01",
+   60.3
+  ],
+  [
+   "02/02",
+   60.4
+  ],
+  [
+   "03/02",
+   57.5
+  ],
+  [
+   "04/02",
+   53.5
+  ],
+  [
+   "05/02",
+   53.4
+  ],
+  [
+   "06/02",
+   52.8
+  ],
+  [
+   "09/02",
+   51.8
+  ],
+  [
+   "10/02",
+   51.3
+  ],
+  [
+   "11/02",
+   49.3
+  ],
+  [
+   "12/02",
+   46.95
+  ],
+  [
+   "13/02",
+   47.3
+  ],
+  [
+   "16/02",
+   46.2
+  ],
+  [
+   "17/02",
+   45.45
+  ],
+  [
+   "18/02",
+   46.9
+  ],
+  [
+   "19/02",
+   46.6
+  ],
+  [
+   "20/02",
+   47.4
+  ],
+  [
+   "23/02",
+   46.2
+  ],
+  [
+   "24/02",
+   45.35
+  ],
+  [
+   "25/02",
+   46.9
+  ],
+  [
+   "26/02",
+   48.8
+  ],
+  [
+   "27/02",
+   48.35
+  ],
+  [
+   "02/03",
+   47.5
+  ],
+  [
+   "03/03",
+   47.2
+  ],
+  [
+   "04/03",
+   48.25
+  ],
+  [
+   "05/03",
+   48.95
+  ],
+  [
+   "06/03",
+   49.85
+  ],
+  [
+   "09/03",
+   49
+  ],
+  [
+   "10/03",
+   49.7
+  ],
+  [
+   "11/03",
+   50.1
+  ],
+  [
+   "12/03",
+   49.35
+  ],
+  [
+   "13/03",
+   48.1
+  ],
+  [
+   "16/03",
+   46.95
+  ],
+  [
+   "17/03",
+   46.75
+  ],
+  [
+   "18/03",
+   46.6
+  ],
+  [
+   "19/03",
+   46.55
+  ],
+  [
+   "20/03",
+   44.85
+  ],
+  [
+   "23/03",
+   45.6
+  ],
+  [
+   "24/03",
+   44.2
+  ],
+  [
+   "25/03",
+   45.25
+  ],
+  [
+   "26/03",
+   44.75
+  ],
+  [
+   "27/03",
+   44.65
+  ],
+  [
+   "30/03",
+   44.8
+  ],
+  [
+   "31/03",
+   45.9
+  ],
+  [
+   "01/04",
+   47.75
+  ],
+  [
+   "02/04",
+   47.1
+  ],
+  [
+   "07/04",
+   46.2
+  ],
+  [
+   "08/04",
+   47.6
+  ],
+  [
+   "09/04",
+   45.2
+  ],
+  [
+   "10/04",
+   46.55
+  ],
+  [
+   "13/04",
+   47
+  ],
+  [
+   "14/04",
+   47.75
+  ],
+  [
+   "15/04",
+   48
+  ],
+  [
+   "16/04",
+   48.65
+  ],
+  [
+   "17/04",
+   50.3
+  ],
+  [
+   "20/04",
+   48.6
+  ],
+  [
+   "21/04",
+   48.55
+  ],
+  [
+   "22/04",
+   48.15
+  ],
+  [
+   "23/04",
+   46.45
+  ],
+  [
+   "24/04",
+   45.45
+  ],
+  [
+   "27/04",
+   45.55
+  ],
+  [
+   "28/04",
+   44.9
+  ],
+  [
+   "29/04",
+   45.75
+  ],
+  [
+   "30/04",
+   45.8
+  ],
+  [
+   "04/05",
+   45.1
+  ],
+  [
+   "05/05",
+   44
+  ],
+  [
+   "06/05",
+   44.45
+  ],
+  [
+   "07/05",
+   44.65
+  ],
+  [
+   "08/05",
+   43.8
+  ],
+  [
+   "11/05",
+   45.4
+  ],
+  [
+   "12/05",
+   44.4
+  ],
+  [
+   "13/05",
+   42.55
+  ],
+  [
+   "14/05",
+   43.25
+  ],
+  [
+   "15/05",
+   44
+  ],
+  [
+   "18/05",
+   44
+  ],
+  [
+   "19/05",
+   45.15
+  ],
+  [
+   "20/05",
+   44.95
+  ],
+  [
+   "21/05",
+   44.25
+  ],
+  [
+   "22/05",
+   45.2
+  ],
+  [
+   "25/05",
+   45.6
+  ],
+  [
+   "26/05",
+   45.05
+  ],
+  [
+   "27/05",
+   46
+  ],
+  [
+   "28/05",
+   46.25
+  ],
+  [
+   "29/05",
+   47.4
+  ],
+  [
+   "01/06",
+   47.2
+  ],
+  [
+   "02/06",
+   47.15
+  ],
+  [
+   "03/06",
+   46.25
+  ],
+  [
+   "04/06",
+   47
+  ],
+  [
+   "05/06",
+   43.1
+  ],
+  [
+   "08/06",
+   45.35
+  ],
+  [
+   "09/06",
+   43.85
+  ],
+  [
+   "10/06",
+   42.45
+  ],
+  [
+   "11/06",
+   40.95
+  ],
+  [
+   "12/06",
+   40.95
+  ],
+  [
+   "15/06",
+   41.95
+  ],
+  [
+   "16/06",
+   41.75
+  ],
+  [
+   "17/06",
+   41.55
+  ],
+  [
+   "18/06",
+   40.05
+  ],
+  [
+   "19/06",
+   39.75
+  ],
+  [
+   "22/06",
+   40.9
+  ],
+  [
+   "23/06",
+   41
+  ],
+  [
+   "24/06",
+   39.9
+  ],
+  [
+   "25/06",
+   38.5
+  ],
+  [
+   "26/06",
+   37.4
+  ],
+  [
+   "29/06",
+   39.4
+  ],
+  [
+   "30/06",
+   39.05
+  ],
+  [
+   "01/07",
+   40.75
+  ],
+  [
+   "02/07",
+   40.6
+  ],
+  [
+   "03/07",
+   40.6
+  ],
+  [
+   "06/07",
+   41.3
+  ],
+  [
+   "07/07",
+   40.65
+  ],
+  [
+   "08/07",
+   38.3
+  ],
+  [
+   "09/07",
+   38.45
+  ],
+  [
+   "10/07",
+   38.4
+  ],
+  [
+   "13/07",
+   38.45
+  ],
+  [
+   "14/07",
+   38.15
+  ],
+  [
+   "15/07",
+   38.8
+  ],
+  [
+   "16/07",
+   39.35
+  ],
+  [
+   "17/07",
+   38
+  ],
+  [
+   "20/07",
+   38
+  ],
+  [
+   "21/07",
+   38.75
+  ],
+  [
+   "22/07",
+   39.35
+  ],
+  [
+   "23/07",
+   38.15
+  ],
+  [
+   "24/07",
+   38.9
+  ],
+  [
+   "27/07",
+   40.45
+  ],
+  [
+   "28/07",
+   42.65
+  ],
+  [
+   "29/07",
+   44.7
+  ],
+  [
+   "30/07",
+   30
+  ],
+  [
+   "31/07",
+   32.4
+  ],
+  [
+   "03/08",
+   33.15
+  ],
+  [
+   "04/08",
+   35.85
+  ],
+  [
+   "05/08",
+   34
+  ],
+  [
+   "06/08",
+   34
+  ],
+  [
+   "07/08",
+   34.4
+  ],
+  [
+   "10/08",
+   34.7
+  ],
+  [
+   "11/08",
+   34.55
+  ],
+  [
+   "12/08",
+   34.05
+  ],
+  [
+   "13/08",
+   34.15
+  ],
+  [
+   "14/08",
+   34.6
+  ],
+  [
+   "17/08",
+   34.3
+  ],
+  [
+   "18/08",
+   33.9
+  ],
+  [
+   "19/08",
+   34.2
+  ],
+  [
+   "20/08",
+   33.75
+  ],
+  [
+   "21/08",
+   34
+  ],
+  [
+   "24/08",
+   33.85
+  ],
+  [
+   "25/08",
+   33.75
+  ],
+  [
+   "26/08",
+   33.7
+  ],
+  [
+   "27/08",
+   34.4
+  ],
+  [
+   "28/08",
+   34.1
+  ],
+  [
+   "31/08",
+   33.55
+  ],
+  [
+   "01/09",
+   33.75
+  ],
+  [
+   "02/09",
+   32.2
+  ],
+  [
+   "03/09",
+   33.05
+  ],
+  [
+   "04/09",
+   32.2
+  ],
+  [
+   "07/09",
+   31.8
+  ],
+  [
+   "08/09",
+   31.1
+  ],
+  [
+   "09/09",
+   30.05
+  ],
+  [
+   "10/09",
+   29.5
+  ],
+  [
+   "11/09",
+   30.15
+  ],
+  [
+   "14/09",
+   30.5
+  ],
+  [
+   "15/09",
+   30.3
+  ],
+  [
+   "16/09",
+   29.95
+  ],
+  [
+   "17/09",
+   29.2
+  ],
+  [
+   "18/09",
+   28.95
+  ],
+  [
+   "21/09",
+   29.6
+  ],
+  [
+   "22/09",
+   29.5
+  ],
+  [
+   "23/09",
+   29.85
+  ],
+  [
+   "24/09",
+   29.35
+  ],
+  [
+   "25/09",
+   29.75
+  ],
+  [
+   "28/09",
+   29.5
+  ]
+ ],
+ "nom": "Wavestone",
+ "notes": "Clôture du 28/09 à 29,50 (Fortuneo, 17h35). CA T2 le 29/10, semestriels le 02/12.",
+ "pays": "FR",
+ "per26": 9.38,
+ "per27": 8.09,
+ "perf": {
+  "m1": -14.1,
+  "m12": -40,
+  "m3": -28.1
+ },
+ "pub": "2026-10-29",
+ "pubLabel": "CA du T2",
+ "risque": "Conseil cyclique, -46 % depuis janvier, nouvelle direction.",
+ "secteur": "Conseil",
+ "societe": {
+  "aVerifier": "Vérifié le 29/09/2026 sur les communiqués Wavestone : CA, marge opérationnelle récurrente/courante, résultat net part du groupe, trésorerie nette et dividendes 2021/22 à 2025/26 confirmés (trésorerie nette : 60,3 / 27,1 / 19,3 / 25,6 / 121,4 M€ ; dividende 0,38 € trois ans puis 0,46 € et 0,50 €). Exercice clos fin mars. 2026/27e : seule la guidance (croissance organique faible, marge récurrente environ 13 %) est retenue. Sand Cherry (Denver, environ 130 salariés) annoncé le 14/09/2026, prix non publié par Wavestone (jusqu'à 47 M$ selon Dealroom, non recoupé). Répartition sectorielle lue par un outil sur le DEU 2025/26 avec deux lectures divergentes pour le secteur public (8 % ou 4 %) : à confirmer. Actionnariat : DEU 2025/26 (au 31/03/2026) et Zonebourse. Concurrents non sourcés.",
+  "actionnariat": "Les fondateurs et leurs familles restent les premiers actionnaires (famille Pascal Imbert environ 23 %, famille Michel Dancoisne environ 21 % dont Michel Dancoisne lui-même environ 16 %), d'anciens associés de Q_PERIOR (environ 16 %) forment avec eux un groupe de contrôle d'environ 60 % via un pacte ; les salariés détiennent environ 8,5 % et le flottant environ 30 % (au 31/03/2026).",
+  "avantage": "Un positionnement rare entre conseil en stratégie et informatique, une réputation forte en cybersécurité et une connaissance intime des systèmes de ses clients. Ce qui pourrait l'éroder : l'IA qui automatise une partie du travail des consultants (le groupe prévoit d'abandonner environ 15 % de ses offres actuelles en quatre ans) et des budgets clients sous pression.",
+  "chiffres": [
+   {
+    "annee": "2021/22",
+    "ca": 470.1,
+    "detteNette": -60.3,
+    "dividende": 0.38,
+    "margeOp": 15.9,
+    "rn": 51
+   },
+   {
+    "annee": "2022/23",
+    "ca": 532.3,
+    "detteNette": -27.1,
+    "dividende": 0.38,
+    "margeOp": 14.5,
+    "rn": 50.1
+   },
+   {
+    "annee": "2023/24",
+    "ca": 701.1,
+    "detteNette": -19.3,
+    "dividende": 0.38,
+    "margeOp": 14.5,
+    "rn": 58.2
+   },
+   {
+    "annee": "2024/25",
+    "ca": 943.7,
+    "detteNette": -25.6,
+    "dividende": 0.46,
+    "margeOp": 12.6,
+    "rn": 75.6
+   },
+   {
+    "annee": "2025/26",
+    "ca": 954.3,
+    "detteNette": -121.4,
+    "dividende": 0.5,
+    "margeOp": 12.6,
+    "rn": 82
+   },
+   {
+    "annee": "2026/27e",
+    "ca": null,
+    "detteNette": null,
+    "dividende": null,
+    "margeOp": 13,
+    "rn": null
+   }
+  ],
+  "clients": "De très grandes entreprises et organismes publics en Europe et en Amérique du Nord (par exemple Deutsche Bahn, EDF, AXA, Crédit Agricole cités parmi les premiers clients) ; les 20 premiers clients pèsent une part importante du chiffre d'affaires.",
+  "concurrents": [
+   "Capgemini Invent",
+   "Accenture",
+   "Artefact",
+   "OnePoint",
+   "Adesso",
+   "b.telligent",
+   "Sia Partners"
+  ],
+  "corrections": [
+   "2021/22 : rn 51.1 -> 51.0 et detteNette null -> -60.3 (communiqué Wavestone résultats 2021/22 : trésorerie nette 60,3 M€ au 31/03/2022).",
+   "Siège confirmé : Tour Franklin, 92042 Paris La Défense (mentions légales Wavestone).",
+   "Segments : remplacés par la répartition 2025/26 du document d'enregistrement universel (énergie 18 %, assurance 15 %, banque 15 %, auto/industrie 13 %, transport 10 %, conso/luxe 8 %, sciences de la vie 4 %) ; l'ancienne version (conso 18 %, transport 17 %, assurance 8 %...) venait d'une présentation 2024/25 mal lue. Secteur public (8 % ou 4 %) et « autres » incertains.",
+   "Dirigeants : Höppner DG délégué depuis le 1er août 2026 (et non « 2026 » flou) ; Imbert PDG depuis juillet 2022 (structure moniste), seul dirigeant depuis 2002.",
+   "Actionnariat corrigé : famille Dancoisne environ 21 % (Michel 16,15 % + Delphine Chavelas 4,77 %), associés Q_PERIOR environ 16 %, concert environ 60 %, salariés environ 8,5 % (et non 6,5 %, qui n'est que le FCPE), flottant environ 30 %."
+  ],
+  "croire": [
+   "Que la vague de l'IA crée plus de missions de conseil (le groupe vise 25 % d'activité nouvelle) qu'elle n'en détruit.",
+   "Que Wavestone réussisse sa percée aux États-Unis et au Royaume-Uni par acquisitions (400 à 500 M€ prévus d'ici 2030) sans surpayer.",
+   "Que la marge remonte de 12,6 % vers 14 à 16 % en 2030 malgré une croissance organique faible."
+  ],
+  "devise": "€",
+  "dirigeants": [
+   {
+    "depuis": "2002",
+    "nom": "Pascal Imbert",
+    "role": "Président-directeur général (cofondateur) ; seul dirigeant depuis 2002, PDG depuis juillet 2022 (passage au conseil d'administration)"
+   },
+   {
+    "depuis": "août 2026",
+    "nom": "Karsten Höppner",
+    "role": "Directeur général délégué (ex-dirigeant de Q_PERIOR), successeur désigné dans environ deux ans"
+   },
+   {
+    "depuis": "août 2026",
+    "nom": "Benoît Darde",
+    "role": "Directeur général délégué"
+   }
+  ],
+  "effectifs": 6100,
+  "fondee": 1990,
+  "geo": [
+   {
+    "part": 54,
+    "zone": "France"
+   },
+   {
+    "part": 23,
+    "zone": "Allemagne"
+   },
+   {
+    "part": 9,
+    "zone": "Suisse"
+   },
+   {
+    "part": 8,
+    "zone": "États-Unis et Canada"
+   },
+   {
+    "part": 4,
+    "zone": "Royaume-Uni"
+   },
+   {
+    "part": 2,
+    "zone": "Autres"
+   }
+  ],
+  "histoire": [
+   {
+    "annee": 1990,
+    "fait": "Pascal Imbert et Michel Dancoisne fondent Solucom, cabinet de conseil en réseaux et télécoms."
+   },
+   {
+    "annee": 2000,
+    "fait": "Introduction en bourse, rare pour un cabinet de conseil, pour financer la croissance."
+   },
+   {
+    "annee": 2002,
+    "fait": "Pascal Imbert devient seul dirigeant."
+   },
+   {
+    "annee": 2016,
+    "fait": "Après le rachat des activités européennes de Kurt Salmon (annoncé fin 2015), Solucom devient Wavestone pour viser l'international."
+   },
+   {
+    "annee": 2023,
+    "fait": "Rapprochement avec le cabinet allemand Q_PERIOR : le groupe double presque de taille et devient fort dans les pays germanophones."
+   },
+   {
+    "annee": 2025,
+    "fait": "Environ 944 M€ de chiffre d'affaires sur l'exercice clos en mars 2025, avec plus de 6 000 collaborateurs."
+   },
+   {
+    "annee": 2026,
+    "fait": "Plan stratégique « Lead the shift » (objectif 1,4 Md€ de CA en 2030), succession de Pascal Imbert repoussée de deux ans, et rachat de l'américain Sand Cherry en septembre."
+   }
+  ],
+  "modele": "Wavestone vend du temps de consultants, facturé au jour ou au forfait par projet : son chiffre d'affaires dépend du nombre de consultants, de leur taux d'occupation et du prix journalier. Les clients reviennent souvent (relation de long terme avec de grands comptes) mais chaque mission a une fin, donc l'activité suit la conjoncture et les budgets des entreprises. Le pouvoir de prix vient de l'expertise pointue (cybersécurité, IA) plus que de la taille.",
+  "questions": [
+   "Le taux d'occupation des consultants et les prix journaliers remontent-ils, ou la croissance organique reste-t-elle proche de zéro ?",
+   "La transition de direction (Imbert vers Höppner) se passe-t-elle sans départs de talents ni de clients ?",
+   "Les acquisitions américaines comme Sand Cherry sont-elles rentables et bien intégrées ?"
+  ],
+  "resume": "Wavestone est un cabinet de conseil qui aide les grandes entreprises à se transformer, surtout grâce au numérique : moderniser leurs systèmes informatiques, se protéger des cyberattaques, déployer l'intelligence artificielle, réorganiser leurs métiers. Par exemple, une banque qui refond son application mobile ou une compagnie ferroviaire qui modernise ses outils peut faire appel à des consultants Wavestone pendant plusieurs mois.",
+  "segments": [
+   {
+    "detail": "Énergéticiens et services publics (EDF, TotalEnergies, Engie parmi les premiers clients).",
+    "nom": "Énergie",
+    "part": 18
+   },
+   {
+    "detail": "Assureurs et mutuelles (AXA parmi les premiers clients).",
+    "nom": "Assurance",
+    "part": 15
+   },
+   {
+    "detail": "Banques de détail et d'investissement (Crédit Agricole, BNP Paribas).",
+    "nom": "Banque",
+    "part": 15
+   },
+   {
+    "detail": "Constructeurs et industriels.",
+    "nom": "Automobile et industrie",
+    "part": 13
+   },
+   {
+    "detail": "Ferroviaire, aérien, logistique (Deutsche Bahn, premier client avec environ 5 %).",
+    "nom": "Transport, voyage, logistique",
+    "part": 10
+   },
+   {
+    "detail": "Grandes marques et enseignes.",
+    "nom": "Biens de consommation, luxe, distribution",
+    "part": 8
+   },
+   {
+    "detail": "Administrations et organismes publics (4 % ou 8 % selon la lecture du document, à confirmer).",
+    "nom": "Secteur public et institutions",
+    "part": 8
+   },
+   {
+    "detail": "Pharmacie et santé.",
+    "nom": "Sciences de la vie",
+    "part": 4
+   },
+   {
+    "detail": "Reste, calculé par différence.",
+    "nom": "Autres",
+    "part": 9
+   }
+  ],
+  "siege": "Paris La Défense (Tour Franklin, Puteaux), France",
+  "site": "https://www.wavestone.com",
+  "sources": [
+   "https://www.wavestone.com/fr/regul-information/resultats-2025-26-resultat-net-en-progression-de-8-lead-the-shift-le-plan-strategique-de-wavestone-a-lhorizon-2030/",
+   "https://fr.investing.com/news/global-filings/wavestone-affiche-un-resultat-net-en-hausse-de-8-et-vise-14-milliard-deuros-en-2030-93CH-3447858",
+   "https://www.wavestone.com/en/regul-information/annual-profitability-target-overachieved-in-2023-24-15-4-recurring-operating-margin-excluding-acquisitions/",
+   "https://www.wavestone.com/fr/regul-information/marge-operationnelle-courante-2022-23-de-145-croissance-du-chiffre-daffaires-de-9-visee-en-2023-24/",
+   "https://www.wavestone.com/wp-content/uploads/2025/06/2025-03-504-sfaf-slideshow-resultats-annuels-2024-25-fr-pour-site-web.pdf",
+   "https://www.zonebourse.com/cours/action/WAVESTONE-45568714/societe/",
+   "https://www.zonebourse.com/cours/action/WAVESTONE-45568714/valorisation-dividende/",
+   "https://www.zonebourse.com/actualite-bourse/l-ia-game-changer-de-la-prochaine-decennie-pour-wavestone-pascal-imbert-et-karsten-hoppner-ce7f5cdbd88cf121",
+   "https://www.consultor.fr/articles/wavestone-success-story-du-conseil-francais-pascal-imbert-la-joie-de-lambition",
+   "https://www.wavestone.com/en/investors/corporate-governance/",
+   "https://www.ideal-investisseur.fr/actions/wavestone-FR0013357621-comptes.html",
+   "https://www.wavestone.com/en/regul-information/wavestone-continues-its-expansion-in-the-united-states-with-the-acquisition-of-sand-cherry/",
+   "https://www.wavestone.com/en/regul-information/solid-2021-22-annual-results-ebit-margin-of-15-9-and-doubling-of-net-income/",
+   "https://www.wavestone.com/wp-content/uploads/2026/07/wavestone-deu-202526-fr-rapide-3.pdf",
+   "https://www.wavestone.com/en/investors/shareholders-handbook/",
+   "https://www.wavestone.com/en/legal-notices/",
+   "https://www.wavestone.com/en/news/sandcherry-wavestone-join-forces/",
+   "https://www.zonebourse.com/cours/action/WAVESTONE-111962627/societe-actionnaires/"
+  ],
+  "suivi": {
+   "bilan": "Aucune condition ne tient pleinement (2 mitigées, 1 contredite) ; le plus fragile est la marge, dont l'objectif a été abaissé alors que le taux d'activité et les prix reculent.",
+   "croire": [
+    {
+     "c": "Que la vague de l'IA crée plus de missions de conseil (le groupe vise 25 % d'activité nouvelle) qu'elle n'en détruit.",
+     "etat": "watch",
+     "preuve": "T1 2026/27 : projets liés à l'IA à 22 % du CA (17 % un an plus tôt), mais CA total -2 %.",
+     "prochain": "CA du T2 le 29/10/2026",
+     "reponse": "L'IA progresse vite dans le mix mais ne compense pas encore les pertes ailleurs : le CA total recule.",
+     "source": "https://www.wavestone.com/en/regul-information/q1-2026-27-revenue-down-2-annual-targets-adjusted-ai-builders-targeted-acquisition-of-a-french-ai-and-data-player/"
+    },
+    {
+     "c": "Que Wavestone réussisse sa percée aux États-Unis et au Royaume-Uni par acquisitions (400 à 500 M€ prévus d'ici 2030) sans surpayer.",
+     "etat": "watch",
+     "preuve": "Sand Cherry payée 35 M$ pour environ 31,5 M$ de CA visé (environ 7,4 fois l'EBITDA, calcul fait à partir de la marge de 15 %) ; objectif 2030 de 350 M€ de CA aux États-Unis et au Royaume-Uni ; CA américain combiné d'environ 103 M€.",
+     "prochain": "CA du T2 le 29/10/2026",
+     "reponse": "Les rachats se font à des prix raisonnables, mais la percée aux États-Unis et au Royaume-Uni n'est pas encore visible dans les chiffres, qui reculent.",
+     "source": "https://www.wavestone.com/en/regul-information/wavestone-continues-its-expansion-in-the-united-states-with-the-acquisition-of-sand-cherry/"
+    },
+    {
+     "c": "Que la marge remonte de 12,6 % vers 14 à 16 % en 2030 malgré une croissance organique faible.",
+     "etat": "ko",
+     "preuve": "Objectif de marge 2026/27 ramené à 11 à 13 % (contre environ 13 %), après 12,6 % en 2025/26 ; objectif 2030 maintenu à 14 à 16 %.",
+     "prochain": "Résultats semestriels le 02/12/2026",
+     "reponse": "Pour l'instant la marge va dans le mauvais sens : l'objectif de l'exercice a été abaissé, sous le niveau de l'an dernier en milieu de fourchette.",
+     "source": "https://www.wavestone.com/en/regul-information/q1-2026-27-revenue-down-2-annual-targets-adjusted-ai-builders-targeted-acquisition-of-a-french-ai-and-data-player/"
+    }
+   ],
+   "le": "2026-09-29",
+   "questions": [
+    {
+     "etat": "ko",
+     "preuve": "T1 2026/27 : taux d'activité 71 % (72 % sur 2025/26), prix journalier moyen 926 € (-1,3 %), CA -2 % à périmètre et change constants.",
+     "prochain": "CA du T2 le 29/10/2026",
+     "q": "Le taux d'occupation des consultants et les prix journaliers remontent-ils, ou la croissance organique reste-t-elle proche de zéro ?",
+     "reponse": "Non : les deux indicateurs baissent encore et l'activité recule hors acquisitions.",
+     "source": "https://www.wavestone.com/en/regul-information/q1-2026-27-revenue-down-2-annual-targets-adjusted-ai-builders-targeted-acquisition-of-a-french-ai-and-data-player/"
+    },
+    {
+     "etat": "watch",
+     "preuve": "T1 2026/27 : départs volontaires de 12 % sur 12 mois glissants, 6 122 salariés ; CA États-Unis et Royaume-Uni « en net recul ».",
+     "prochain": "Résultats semestriels le 02/12/2026",
+     "q": "La transition de direction (Imbert vers Höppner) se passe-t-elle sans départs de talents ni de clients ?",
+     "reponse": "Pas de départ important annoncé, mais la transition a été allongée : Pascal Imbert reste PDG deux ans de plus, Karsten Höppner est directeur général délégué depuis le 1er août 2026. Des nouveaux dirigeants ont été promus en septembre. Côté clients, les États-Unis et le Royaume-Uni reculent fortement.",
+     "source": "https://www.wavestone.com/en/regul-information/q1-2026-27-revenue-down-2-annual-targets-adjusted-ai-builders-targeted-acquisition-of-a-french-ai-and-data-player/"
+    },
+    {
+     "etat": "watch",
+     "preuve": "Sand Cherry : environ 31,5 M$ de CA visé en 2026, marge d'EBITDA ajustée de 15 %, prix de 35 M$ plus jusqu'à 12 M$ de complément selon les résultats ; environ 370 salariés en Amérique du Nord après l'opération.",
+     "prochain": "Résultats semestriels le 02/12/2026",
+     "q": "Les acquisitions américaines comme Sand Cherry sont-elles rentables et bien intégrées ?",
+     "reponse": "Trop tôt pour juger : Sand Cherry est consolidée depuis le 01/09/2026 et affiche une rentabilité correcte, mais une partie du prix dépend de ses résultats 2026 et 2027, et l'activité américaine du groupe recule.",
+     "source": "https://www.wavestone.com/en/regul-information/wavestone-continues-its-expansion-in-the-united-states-with-the-acquisition-of-sand-cherry/"
+    }
+   ]
+  },
+  "verifieLe": "2026-09-29"
+ },
+ "src": "https://www.zonebourse.com/cours/action/WAVESTONE-45568714/actualite/",
+ "statut": "surveiller",
+ "these": "Valorisation très basse, rachats d'actions chaque semaine, acquisition aux États-Unis.",
+ "ticker": "WAVE",
+ "yahoo": "WAVE.PA",
+ "zb": "https://www.zonebourse.com/cours/action/WAVESTONE-45568714/"
+}

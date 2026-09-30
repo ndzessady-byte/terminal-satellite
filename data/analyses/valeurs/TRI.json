@@ -1,0 +1,1490 @@
+{
+ "analyse": {
+  "aVerifier": "Moyenne mobile 200 jours et RSI 14 non confirmés (la page technique Investing lue affichait un cours ancien de 154,90 €, donc écartée ; Boursorama indique seulement une survente). Résultat opérationnel et bénéfice exacts de 2025/26 non encore publiés (attendus le 24/11). ROE estimée par calcul. Comparaison chiffrée avec les concurrents non confirmée. Date du chiffre d'affaires du 1er trimestre à confirmer.",
+  "actu": [
+   {
+    "d": "23/09",
+    "fait": "Chiffre d'affaires annuel 2025/26 de 3,8 Md€ (+3,8 %), porté par les camping-cars (+4,2 %) et les caravanes (+14,7 %). Marge visée proche de 10 %, trésorerie nette d'environ 500 M€, poursuite des rachats d'actions et deuxième acompte de 2,40 € (détaché le 29/09). Les immatriculations de camping-cars neufs reculent de 6 % en France.",
+    "horizon": "moyen",
+    "impact": "positif",
+    "lecture": "L'exercice confirme la capacité à gagner de l'argent et à rendre du cash même dans un marché européen stable, ce qui soutient la thèse d'une valeur de rendement."
+   },
+   {
+    "d": "24/09",
+    "fait": "UBS maintient une opinion positive mais baisse son objectif de 187 à 179 € : croissance organique 2027 revue de 3,4 % à 1,6 %, volumes de camping-cars attendus stables au 1er semestre 2027, hausse des taux qui freine les achats des professionnels.",
+    "horizon": "court",
+    "impact": "negatif",
+    "lecture": "Le marché anticipe un plateau des ventes : tant que les prévisions baissent, la valorisation basse peut rester basse."
+   },
+   {
+    "d": "25/09",
+    "fait": "La flambée des rendements des emprunts d'État pèse de nouveau sur les actions ; le taux à 10 ans français a atteint 4,55 % le 18/09 et le taux américain à 10 ans dépasse 5 %.",
+    "horizon": "moyen",
+    "impact": "negatif",
+    "lecture": "Les camping-cars sont souvent achetés à crédit et les concessionnaires financent leurs stocks : des taux plus hauts réduisent la demande et poussent les distributeurs à la prudence."
+   },
+   {
+    "d": "23/09",
+    "fait": "Portzamparc confirme une opinion positive avec un objectif de 180 €, rassuré par les résultats européens du concurrent américain Thor Industries.",
+    "horizon": "court",
+    "impact": "positif",
+    "lecture": "Les signaux venant des concurrents suggèrent que le marché européen se stabilise plutôt qu'il ne s'effondre."
+   }
+  ],
+  "cadres": [
+   "Buffett / Fisher (qualité, position concurrentielle)",
+   "Lynch (catégorie cyclique, PEG)",
+   "Graham (solidité du bilan)",
+   "Greenblatt (formule magique)",
+   "Théorie de Dow",
+   "Stades de Weinstein",
+   "Modèle de tendance de Minervini"
+  ],
+  "conviction": "moyenne",
+  "fonda": {
+   "bilan": "Trésorerie nette d'environ 500 M€ en fin d'exercice (562 M€ fin février 2026), prêt d'acquisition de 181,6 M€ entièrement remboursé. Aucune dette nette : critère de Graham largement respecté. La société procède à des rachats d'actions (60 M€ sur l'exercice) et verse deux acomptes sur dividende.",
+   "croissance": "Chiffre d'affaires 2025/26 (clos fin août) de 3,8 Md€, +3,8 % (camping-cars 2,877 Md€ +4,2 %, caravanes +14,7 %). Bénéfice par action attendu à 14,60 € pour 2025/26 (+18 % après 12,41 €), puis 16,22 € et 17,25 € (consensus Zonebourse). UBS a abaissé sa croissance organique 2027 attendue de 3,4 % à 1,6 %. Au sens de Lynch : une valeur cyclique, que la méthode conseille d'étudier en bas de cycle plutôt qu'en haut.",
+   "greenblatt": "Rendement des bénéfices d'environ 18 % (résultat opérationnel attendu de 371 M€ pour une valeur d'entreprise de 2,04 Md€) et rentabilité des capitaux d'environ 12 % : très bon classement dans la formule magique, typique d'une valeur cyclique décotée.",
+   "justif": "Entreprise bien gérée, sans dette, rentable et peu chère, pénalisée par le caractère cyclique de son marché et une croissance attendue faible pour 2027.",
+   "peg": 1.05,
+   "piotroski": null,
+   "qualite": "Marge opérationnelle courante de 9,0 % au 1er semestre 2025/26 (8,6 % un an plus tôt) et objectif proche de 10 % sur l'année. La marge a varié entre environ 9 et 13 % sur les cinq derniers exercices (EBIT/CA calculés à partir de Zonebourse), ce qui montre un métier cyclique. Rentabilité des fonds propres d'environ 12 % (calcul à partir du ratio cours/actif net Zonebourse). Position concurrentielle forte en Europe (marques nombreuses, taille industrielle), mais le pouvoir de fixation des prix dépend de la conjoncture : c'est une bonne entreprise au sens de Fisher, avec un avantage d'échelle plus que de marque.",
+   "score": 7,
+   "valo": "Au cours de 132,8 € : PER d'environ 9,1 fois pour 2025/26 et 8,2 fois pour 2026/27 (bénéfices par action de 14,60 € et 16,22 €), valeur d'entreprise sur EBITDA d'environ 4,6 fois, rendement du dividende d'environ 3 % et rendement du flux de trésorerie disponible de 12 à 14 % selon Zonebourse. Le PER moyen des cinq exercices 2020/21 à 2024/25 est d'environ 9,4 fois (15,2 ; 5,9 ; 8,2 ; 5,5 ; 12,2) : le titre est donc dans sa moyenne historique, mais bien sous des concurrents cotés aux États-Unis comme Thor ou Winnebago selon la page Zonebourse (écarts non chiffrés ici)."
+  },
+  "majLe": "2026-09-28",
+  "revisions": "Légère baisse : UBS a réduit ses BPA d'environ 1 % le 24/09. Tendance du consensus sur 3 mois non trouvée.",
+  "scenarios": [
+   {
+    "bas": 118,
+    "central": 135,
+    "haut": 150,
+    "horizon": "2 mois",
+    "hypotheses": "Tient compte du détachement de 2,40 € le 29/09. Catalyseur : résultats annuels le 24/11/2026 et premiers commentaires sur l'exercice 2026/27. Bas : cassure de 126 € dans un marché inquiet des taux. Haut : marge de 10 % confirmée et retour vers les moyennes mobiles autour de 150 €.",
+    "unite": "€"
+   },
+   {
+    "bas": 110,
+    "central": 155,
+    "haut": 180,
+    "horizon": "12 mois",
+    "hypotheses": "Objectif moyen des 8 analystes suivis par Zonebourse : 179,88 € (fourchette 160 à 200 €). Central : bénéfices stables à légèrement en hausse et PER qui revient vers 10 fois. Bas : baisse des volumes en 2027 et bénéfice par action ramené vers 13 €. Haut : reprise européenne et retour vers l'objectif moyen.",
+    "unite": "€"
+   },
+   {
+    "bas": 3,
+    "central": 12,
+    "haut": 17,
+    "horizon": "5 ans",
+    "hypotheses": "Central : bénéfice par action +6 %/an (volumes modestes, rachats d'actions), dividende d'environ 3 %, et PER qui passe de 9 à environ 11 fois (+4 %/an) : 6 + 3 + 4 = environ 13 %, arrondi à 12 % par prudence. Bas : cycle baissier, bénéfices stables et PER qui reste vers 8 fois. Haut : acquisitions utilisant la trésorerie et PER vers 12 fois.",
+    "unite": "%/an"
+   },
+   {
+    "bas": 4,
+    "central": 9,
+    "haut": 12,
+    "horizon": "10-15 ans",
+    "hypotheses": "Sur un cycle complet : croissance des bénéfices de 4 à 7 %/an, dividende et rachats de 3 à 4 %/an, multiple stable. Bas : désintérêt durable pour le camping-car et marges plus faibles. Haut : consolidation réussie du marché européen.",
+    "unite": "%/an"
+   }
+  ],
+  "sources": [
+   "https://www.abcbourse.com/marches/trigano-publie-un-chiffre-d-affaires-en-hausse-en-2025-2026-et-va-poursuivre-ses_703019",
+   "https://www.boursorama.com/bourse/actualites/trigano-ca-2025-2026-en-hausse-porte-par-les-ventes-de-camping-cars-et-de-caravanes-5a635c1b20fc20a9ea36e4fe3fd1b790",
+   "https://www.zonebourse.com/actualite-bourse/trigano-accelere-au-1er-semestre-et-ameliore-sa-rentabilite-ce7f58d2da8cf722",
+   "https://www.zonebourse.com/actualite-bourse/trigano-recule-de-1-ubs-abaisse-sa-cible-ce785aded180f220",
+   "https://www.zonebourse.com/cours/action/TRIGANO-4718/",
+   "https://www.zonebourse.com/cours/action/TRIGANO-4718/consensus/",
+   "https://www.zonebourse.com/cours/action/TRIGANO-4718/finances/",
+   "https://ch.zonebourse.com/cours/action/TRIGANO-4718/valorisation/?iSubCodezb=39429307",
+   "https://www.zonebourse.com/cours/action/TRIGANO-4718/cotations/",
+   "https://www.zonebourse.com/cours/action/TRIGANO-4718/agenda/",
+   "https://www.boursorama.com/cours/analyses/1rPTRI/",
+   "https://www.xtb.com/fr/analyses-marches/dette-francaise-le-spread-oat-bund-franchit-100-points"
+  ],
+  "tech": {
+   "bas52": 131,
+   "cours": 132.5,
+   "coursLe": "2026-09-28",
+   "haut52": 178.2,
+   "lecture": "Cours de 132,50 en dessous de sa moyenne 50 jours (149,24) et en dessous de sa moyenne 200 jours (155,41). RSI 27,4 : élan faible, le titre a beaucoup baissé récemment. Il se situe à 3 % de sa fourchette sur un an (de 131,00 à 178,20), performance sur 12 mois de -11,3 %. Moyennes et RSI calculés sur les vraies clôtures (flux GitHub de 15h33).",
+   "mm200": 155.41,
+   "mm50": 149.24,
+   "resistance": 139.2,
+   "rsi14": 27.4,
+   "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json",
+   "stade": 4,
+   "support": 126,
+   "tendance": "baissiere"
+  },
+  "verdict": "Trigano est le leader européen du camping-car, avec une trésorerie nette d'environ 500 M€, une marge proche de 10 % et un prix bas (environ 9 fois les bénéfices de l'exercice clos), mais le marché s'inquiète d'un plateau des ventes en 2027 et de la hausse des taux qui pèse sur les achats de loisirs. Les fondamentaux sont solides et la valorisation déjà prudente, mais la tendance boursière reste baissière à court terme.",
+  "zones": {
+   "catalyseurs": [
+    "29/09/2026 : détachement du 2e acompte de 2,40 € (paiement le 01/10).",
+    "24/11/2026 : résultats annuels 2025/26.",
+    "Début janvier 2027 (date à confirmer) : chiffre d'affaires du 1er trimestre 2026/27."
+   ],
+   "interet": "Entre 115 et 128 € (après détachement du dividende) : environ 8 fois les bénéfices attendus, trésorerie nette représentant environ 20 % de la capitalisation, et zone sous le plus bas annuel où le risque de baisse devient limité par la valorisation.",
+   "invalidation": "Marge opérationnelle annuelle sous 8 % ou baisse des volumes de camping-cars de plus de 10 % sur un exercice, signe que le cycle se retourne nettement.",
+   "sortie": [
+    "Deux baisses successives des perspectives ou du consensus de bénéfice par action.",
+    "Marge opérationnelle courante sous 8 % sur un semestre.",
+    "PER au-dessus de 14 fois sans hausse des volumes."
+   ]
+  }
+ },
+ "capi": "2,53 Md€",
+ "cours": 132.5,
+ "coursLe": "2026-09-28",
+ "devise": "€",
+ "faits": [
+  {
+   "d": "29/09",
+   "t": "Détachement du 2e acompte de 2,40 € (confirmé), paiement le 01/10."
+  },
+  {
+   "d": "24/09",
+   "t": "UBS abaisse son objectif de 187 à 179 €, opinion positive maintenue."
+  },
+  {
+   "d": "23/09",
+   "t": "CA annuel 2025/26 : 3,8 Md€ (+3,8 %), marge opérationnelle attendue proche de 10 %."
+  }
+ ],
+ "histo": [
+  [
+   "22/09",
+   145.7
+  ],
+  [
+   "23/09",
+   140.3
+  ],
+  [
+   "24/09",
+   142.3
+  ],
+  [
+   "25/09",
+   150.6
+  ],
+  [
+   "26/09",
+   147.6
+  ],
+  [
+   "29/09",
+   150.3
+  ],
+  [
+   "30/09",
+   148.3
+  ],
+  [
+   "01/10",
+   147.6
+  ],
+  [
+   "02/10",
+   149.3
+  ],
+  [
+   "03/10",
+   152.9
+  ],
+  [
+   "06/10",
+   148.2
+  ],
+  [
+   "07/10",
+   147.9
+  ],
+  [
+   "08/10",
+   146.3
+  ],
+  [
+   "09/10",
+   144.5
+  ],
+  [
+   "10/10",
+   144.5
+  ],
+  [
+   "13/10",
+   144.3
+  ],
+  [
+   "14/10",
+   145.7
+  ],
+  [
+   "15/10",
+   145
+  ],
+  [
+   "16/10",
+   146.5
+  ],
+  [
+   "17/10",
+   146
+  ],
+  [
+   "20/10",
+   148.6
+  ],
+  [
+   "21/10",
+   149.8
+  ],
+  [
+   "22/10",
+   150.6
+  ],
+  [
+   "23/10",
+   152.2
+  ],
+  [
+   "24/10",
+   153.1
+  ],
+  [
+   "27/10",
+   151
+  ],
+  [
+   "28/10",
+   150.9
+  ],
+  [
+   "29/10",
+   147.6
+  ],
+  [
+   "30/10",
+   146.8
+  ],
+  [
+   "31/10",
+   144.5
+  ],
+  [
+   "03/11",
+   143.5
+  ],
+  [
+   "04/11",
+   144.7
+  ],
+  [
+   "05/11",
+   148.4
+  ],
+  [
+   "06/11",
+   148.5
+  ],
+  [
+   "07/11",
+   147.9
+  ],
+  [
+   "10/11",
+   147.4
+  ],
+  [
+   "11/11",
+   148.3
+  ],
+  [
+   "12/11",
+   147.9
+  ],
+  [
+   "13/11",
+   146.2
+  ],
+  [
+   "14/11",
+   145
+  ],
+  [
+   "17/11",
+   144.2
+  ],
+  [
+   "18/11",
+   142.4
+  ],
+  [
+   "19/11",
+   142.5
+  ],
+  [
+   "20/11",
+   141.5
+  ],
+  [
+   "21/11",
+   144.3
+  ],
+  [
+   "24/11",
+   146.5
+  ],
+  [
+   "25/11",
+   147.3
+  ],
+  [
+   "26/11",
+   147.8
+  ],
+  [
+   "27/11",
+   171.4
+  ],
+  [
+   "28/11",
+   172
+  ],
+  [
+   "01/12",
+   175.4
+  ],
+  [
+   "02/12",
+   174
+  ],
+  [
+   "03/12",
+   173
+  ],
+  [
+   "04/12",
+   171.7
+  ],
+  [
+   "05/12",
+   172.7
+  ],
+  [
+   "08/12",
+   175
+  ],
+  [
+   "09/12",
+   169.5
+  ],
+  [
+   "10/12",
+   168.7
+  ],
+  [
+   "11/12",
+   170
+  ],
+  [
+   "12/12",
+   171.8
+  ],
+  [
+   "15/12",
+   170.9
+  ],
+  [
+   "16/12",
+   173.2
+  ],
+  [
+   "17/12",
+   172.1
+  ],
+  [
+   "18/12",
+   169.9
+  ],
+  [
+   "19/12",
+   172.3
+  ],
+  [
+   "22/12",
+   173.5
+  ],
+  [
+   "23/12",
+   173.9
+  ],
+  [
+   "24/12",
+   172.9
+  ],
+  [
+   "29/12",
+   173.6
+  ],
+  [
+   "30/12",
+   174.6
+  ],
+  [
+   "31/12",
+   175.3
+  ],
+  [
+   "02/01",
+   173.5
+  ],
+  [
+   "05/01",
+   174.3
+  ],
+  [
+   "06/01",
+   171.7
+  ],
+  [
+   "07/01",
+   169.3
+  ],
+  [
+   "08/01",
+   171.3
+  ],
+  [
+   "09/01",
+   174.4
+  ],
+  [
+   "12/01",
+   171.8
+  ],
+  [
+   "13/01",
+   171.7
+  ],
+  [
+   "14/01",
+   174.9
+  ],
+  [
+   "15/01",
+   178.2
+  ],
+  [
+   "16/01",
+   176
+  ],
+  [
+   "19/01",
+   171.8
+  ],
+  [
+   "20/01",
+   170.3
+  ],
+  [
+   "21/01",
+   168.5
+  ],
+  [
+   "22/01",
+   173.2
+  ],
+  [
+   "23/01",
+   174.2
+  ],
+  [
+   "26/01",
+   175.4
+  ],
+  [
+   "27/01",
+   173.5
+  ],
+  [
+   "28/01",
+   172.5
+  ],
+  [
+   "29/01",
+   169.6
+  ],
+  [
+   "30/01",
+   168.2
+  ],
+  [
+   "02/02",
+   168.8
+  ],
+  [
+   "03/02",
+   168.6
+  ],
+  [
+   "04/02",
+   171
+  ],
+  [
+   "05/02",
+   169
+  ],
+  [
+   "06/02",
+   170
+  ],
+  [
+   "09/02",
+   168.7
+  ],
+  [
+   "10/02",
+   172.9
+  ],
+  [
+   "11/02",
+   169.2
+  ],
+  [
+   "12/02",
+   168.4
+  ],
+  [
+   "13/02",
+   170.7
+  ],
+  [
+   "16/02",
+   168.1
+  ],
+  [
+   "17/02",
+   168.3
+  ],
+  [
+   "18/02",
+   170.4
+  ],
+  [
+   "19/02",
+   169
+  ],
+  [
+   "20/02",
+   169.2
+  ],
+  [
+   "23/02",
+   168
+  ],
+  [
+   "24/02",
+   168.2
+  ],
+  [
+   "25/02",
+   166.9
+  ],
+  [
+   "26/02",
+   168
+  ],
+  [
+   "27/02",
+   168
+  ],
+  [
+   "02/03",
+   164
+  ],
+  [
+   "03/03",
+   157.6
+  ],
+  [
+   "04/03",
+   158.3
+  ],
+  [
+   "05/03",
+   159.1
+  ],
+  [
+   "06/03",
+   158.8
+  ],
+  [
+   "09/03",
+   152
+  ],
+  [
+   "10/03",
+   158.5
+  ],
+  [
+   "11/03",
+   154.7
+  ],
+  [
+   "12/03",
+   148.9
+  ],
+  [
+   "13/03",
+   150.2
+  ],
+  [
+   "16/03",
+   148.5
+  ],
+  [
+   "17/03",
+   149.3
+  ],
+  [
+   "18/03",
+   148.7
+  ],
+  [
+   "19/03",
+   144.5
+  ],
+  [
+   "20/03",
+   143.6
+  ],
+  [
+   "23/03",
+   147.7
+  ],
+  [
+   "24/03",
+   148.8
+  ],
+  [
+   "25/03",
+   148.3
+  ],
+  [
+   "26/03",
+   146
+  ],
+  [
+   "27/03",
+   141
+  ],
+  [
+   "30/03",
+   140.5
+  ],
+  [
+   "31/03",
+   140.5
+  ],
+  [
+   "01/04",
+   145.1
+  ],
+  [
+   "02/04",
+   141.5
+  ],
+  [
+   "07/04",
+   138.1
+  ],
+  [
+   "08/04",
+   152.5
+  ],
+  [
+   "09/04",
+   150.3
+  ],
+  [
+   "10/04",
+   152.4
+  ],
+  [
+   "13/04",
+   151.6
+  ],
+  [
+   "14/04",
+   155.4
+  ],
+  [
+   "15/04",
+   154.9
+  ],
+  [
+   "16/04",
+   154.3
+  ],
+  [
+   "17/04",
+   159.7
+  ],
+  [
+   "20/04",
+   158.6
+  ],
+  [
+   "21/04",
+   157.6
+  ],
+  [
+   "22/04",
+   155.4
+  ],
+  [
+   "23/04",
+   156.2
+  ],
+  [
+   "24/04",
+   155.6
+  ],
+  [
+   "27/04",
+   154.8
+  ],
+  [
+   "28/04",
+   154.8
+  ],
+  [
+   "29/04",
+   153.8
+  ],
+  [
+   "30/04",
+   156.3
+  ],
+  [
+   "04/05",
+   145.7
+  ],
+  [
+   "05/05",
+   147.1
+  ],
+  [
+   "06/05",
+   152.7
+  ],
+  [
+   "07/05",
+   155.7
+  ],
+  [
+   "08/05",
+   157.6
+  ],
+  [
+   "11/05",
+   157.6
+  ],
+  [
+   "12/05",
+   155.3
+  ],
+  [
+   "13/05",
+   158.4
+  ],
+  [
+   "14/05",
+   161
+  ],
+  [
+   "15/05",
+   158.3
+  ],
+  [
+   "18/05",
+   156.5
+  ],
+  [
+   "19/05",
+   154.5
+  ],
+  [
+   "20/05",
+   154.1
+  ],
+  [
+   "21/05",
+   153.7
+  ],
+  [
+   "22/05",
+   153.6
+  ],
+  [
+   "25/05",
+   157.3
+  ],
+  [
+   "26/05",
+   157.4
+  ],
+  [
+   "27/05",
+   160.1
+  ],
+  [
+   "28/05",
+   159.6
+  ],
+  [
+   "29/05",
+   162.1
+  ],
+  [
+   "01/06",
+   158.3
+  ],
+  [
+   "02/06",
+   159.1
+  ],
+  [
+   "03/06",
+   157.2
+  ],
+  [
+   "04/06",
+   155.6
+  ],
+  [
+   "05/06",
+   153.3
+  ],
+  [
+   "08/06",
+   153.5
+  ],
+  [
+   "09/06",
+   146.1
+  ],
+  [
+   "10/06",
+   144.8
+  ],
+  [
+   "11/06",
+   143.6
+  ],
+  [
+   "12/06",
+   147.8
+  ],
+  [
+   "15/06",
+   149
+  ],
+  [
+   "16/06",
+   142.3
+  ],
+  [
+   "17/06",
+   140
+  ],
+  [
+   "18/06",
+   136.2
+  ],
+  [
+   "19/06",
+   134.9
+  ],
+  [
+   "22/06",
+   134.1
+  ],
+  [
+   "23/06",
+   133.6
+  ],
+  [
+   "24/06",
+   133.6
+  ],
+  [
+   "25/06",
+   139
+  ],
+  [
+   "26/06",
+   140.8
+  ],
+  [
+   "29/06",
+   141.1
+  ],
+  [
+   "30/06",
+   140.5
+  ],
+  [
+   "01/07",
+   139.5
+  ],
+  [
+   "02/07",
+   141.2
+  ],
+  [
+   "03/07",
+   143.4
+  ],
+  [
+   "06/07",
+   145
+  ],
+  [
+   "07/07",
+   145.3
+  ],
+  [
+   "08/07",
+   142.3
+  ],
+  [
+   "09/07",
+   144.4
+  ],
+  [
+   "10/07",
+   145.9
+  ],
+  [
+   "13/07",
+   147.2
+  ],
+  [
+   "14/07",
+   147.9
+  ],
+  [
+   "15/07",
+   150.7
+  ],
+  [
+   "16/07",
+   149.8
+  ],
+  [
+   "17/07",
+   149.6
+  ],
+  [
+   "20/07",
+   148.3
+  ],
+  [
+   "21/07",
+   148.9
+  ],
+  [
+   "22/07",
+   150.9
+  ],
+  [
+   "23/07",
+   145
+  ],
+  [
+   "24/07",
+   147.4
+  ],
+  [
+   "27/07",
+   149
+  ],
+  [
+   "28/07",
+   151.4
+  ],
+  [
+   "29/07",
+   151.7
+  ],
+  [
+   "30/07",
+   154.1
+  ],
+  [
+   "31/07",
+   150.9
+  ],
+  [
+   "03/08",
+   153.5
+  ],
+  [
+   "04/08",
+   152.1
+  ],
+  [
+   "05/08",
+   152.8
+  ],
+  [
+   "06/08",
+   151.2
+  ],
+  [
+   "07/08",
+   152.9
+  ],
+  [
+   "10/08",
+   154
+  ],
+  [
+   "11/08",
+   155.1
+  ],
+  [
+   "12/08",
+   155.5
+  ],
+  [
+   "13/08",
+   156.8
+  ],
+  [
+   "14/08",
+   158.8
+  ],
+  [
+   "17/08",
+   155.5
+  ],
+  [
+   "18/08",
+   152.9
+  ],
+  [
+   "19/08",
+   153.8
+  ],
+  [
+   "20/08",
+   153.1
+  ],
+  [
+   "21/08",
+   152.9
+  ],
+  [
+   "24/08",
+   153.3
+  ],
+  [
+   "25/08",
+   151.8
+  ],
+  [
+   "26/08",
+   152.4
+  ],
+  [
+   "27/08",
+   152.1
+  ],
+  [
+   "28/08",
+   154
+  ],
+  [
+   "31/08",
+   155
+  ],
+  [
+   "01/09",
+   155.2
+  ],
+  [
+   "02/09",
+   151.1
+  ],
+  [
+   "03/09",
+   153.7
+  ],
+  [
+   "04/09",
+   152.2
+  ],
+  [
+   "07/09",
+   151.5
+  ],
+  [
+   "08/09",
+   152.4
+  ],
+  [
+   "09/09",
+   151
+  ],
+  [
+   "10/09",
+   150
+  ],
+  [
+   "11/09",
+   146.2
+  ],
+  [
+   "14/09",
+   149.5
+  ],
+  [
+   "15/09",
+   148.1
+  ],
+  [
+   "16/09",
+   143.4
+  ],
+  [
+   "17/09",
+   143.8
+  ],
+  [
+   "18/09",
+   137.7
+  ],
+  [
+   "21/09",
+   136.4
+  ],
+  [
+   "22/09",
+   132.9
+  ],
+  [
+   "23/09",
+   133.2
+  ],
+  [
+   "24/09",
+   131
+  ],
+  [
+   "25/09",
+   131.2
+  ],
+  [
+   "28/09",
+   132.5
+  ]
+ ],
+ "nom": "Trigano",
+ "notes": "Clôture du 28/09 non confirmée sur le web : cours du flux GitHub relevé à 15h33 (132,50), à remplacer par la vraie clôture au prochain flux. Le cours baissera mécaniquement d'environ 2,40 € le 29/09 (détachement de l'acompte). Annuels le 24/11 (indicatif).",
+ "pays": "FR",
+ "per26": 9.09,
+ "per27": 8.3,
+ "perf": {
+  "m1": -14,
+  "m12": -11.3,
+  "m3": -5
+ },
+ "pub": "2026-11-24",
+ "pubLabel": "Résultats annuels (indicatif)",
+ "risque": "Cyclique, sensible aux taux du crédit.",
+ "secteur": "Camping-cars / loisirs",
+ "societe": {
+  "aVerifier": "Vérifié le 29/09/2026 sur les communiqués de résultats annuels Trigano 2020/21 à 2024/25 (repris sur Zonebourse et Webdisclosure pour les plus anciens) et le rapport annuel 2024/25. Exercice clos le 31 août. margeOp = résultat opérationnel courant / CA tel que publié ; rn = résultat net part du groupe ; detteNette négative = trésorerie nette publiée (la société ne précise pas le traitement des dettes locatives IFRS 16). CA, ROC, résultat net, trésorerie nette et dividendes 2020/21 à 2024/25 confirmés ou corrigés ; répartition par pays 2024/25, actionnariat familial (57,9 %), effectif (11 000), fondation (1935) et dirigeants confirmés par le rapport annuel. Segments : camping-cars, caravanes, résidences mobiles et équipement des loisirs recoupés avec le communiqué 2024/25 ; la part des accessoires (9,5 %) n'a pas pu être recoupée exactement (lecture du tableau incohérente), à vérifier. Date de prise de fonction de François Feuillet à la présidence du conseil de surveillance (2022 lu dans le rapport, entrée au conseil en 2021) à confirmer. Ligne 2025/26e : CA d'environ 3,8 Md€ (+3,8 %) publié le 23/09/2026, montant exact non lu ; marge « proche de 10 % » et trésorerie nette « environ 500 M€ » selon la société ; dividende 3,70 € = consensus Boursorama (source secondaire) ; résultat net non disponible (résultats annuels attendus en novembre). Faits historiques antérieurs à 2020 et liste des concurrents non vérifiés sur une source officielle.",
+  "actionnariat": "La famille Feuillet détient 57,9 % du capital au 31/08/2025 (François et Marie-Hélène Feuillet 9 253 137 actions, soit environ 48 %, Alice Cavalier Feuillet 966 816 actions, soit environ 5 %) ; le flottant représente 42,1 %.",
+  "avantage": "La taille (environ la moitié du marché français et un tiers du marché européen des camping-cars selon Wikipedia) donne des coûts d'achat et de production imbattables, plus une gestion très économe et un bilan sans dette. Ce qui pourrait l'éroder : un retournement durable de la demande, la dépendance aux châssis de Stellantis, et l'arrivée de motorisations électriques qui changent la conception des véhicules.",
+  "chiffres": [
+   {
+    "annee": "2020/21",
+    "ca": 2933.6,
+    "detteNette": -348.4,
+    "dividende": 3.2,
+    "margeOp": 12.2,
+    "rn": 222.9
+   },
+   {
+    "annee": "2021/22",
+    "ca": 3177.2,
+    "detteNette": -125.7,
+    "dividende": 3.5,
+    "margeOp": 10.8,
+    "rn": 278.5
+   },
+   {
+    "annee": "2022/23",
+    "ca": 3480.2,
+    "detteNette": -194.7,
+    "dividende": 3.5,
+    "margeOp": 12.2,
+    "rn": 308.1
+   },
+   {
+    "annee": "2023/24",
+    "ca": 3926.3,
+    "detteNette": -44.6,
+    "dividende": 3.5,
+    "margeOp": 12.7,
+    "rn": 374.4
+   },
+   {
+    "annee": "2024/25",
+    "ca": 3660.2,
+    "detteNette": -279.2,
+    "dividende": 3.6,
+    "margeOp": 9.2,
+    "rn": 239.3
+   },
+   {
+    "annee": "2025/26e",
+    "ca": 3800,
+    "detteNette": -500,
+    "dividende": 3.7,
+    "margeOp": 10,
+    "rn": null
+   }
+  ],
+  "clients": "Les clients directs sont des concessionnaires et loueurs (environ 1 300 distributeurs agréés, dont la chaîne maison Libertium) ; derrière eux, des particuliers souvent jeunes retraités. Aucun client ne domine.",
+  "concurrents": [
+   "Erwin Hymer Group (Thor Industries)",
+   "Knaus Tabbert",
+   "Hobby",
+   "Groupe Rapido",
+   "Pilote"
+  ],
+  "corrections": [
+   "2020/21 detteNette null -> -348.4 (communiqué annuel 2020/21 : trésorerie nette de 348,4 M€ au 31/08/2021).",
+   "2022/23 rn 308.3 -> 308.1 (communiqués 2022/23 et 2023/24 : 308,1 M€ part du groupe ; 308,3 M€ est le résultat net total).",
+   "2023/24 margeOp 12.8 -> 12.7 (communiqué 2024/25 : ROC 500,7 M€, 12,7 %).",
+   "2023/24 rn 374.5 -> 374.4 (communiqués 2023/24 et 2024/25).",
+   "2024/25 rn 239.4 -> 239.3 (communiqué Trigano 2024/25 : 239,3 M€ part du groupe).",
+   "Présidence du conseil de surveillance : Alice Cavalier Feuillet -> François Feuillet, Alice Cavalier Feuillet étant vice-présidente (rapport annuel 2024/25) ; ajout de Michel Freiche, directeur général (page gouvernance).",
+   "Géographie : « Autres » 12.2 -> 12.1 (rapport annuel 2024/25 : pays nordiques 3,8 % + autres 8,3 %).",
+   "Actionnariat précisé : 57,9 % famille / 42,1 % flottant au 31/08/2025 (rapport annuel 2024/25)."
+  ],
+  "croire": [
+   "Que le camping-car reste un mode de vacances en croissance en Europe, porté par les jeunes retraités et le tourisme de proximité.",
+   "Que Trigano garde sa discipline de coûts et remonte sa marge vers 10 à 12 % quand les volumes repartent.",
+   "Que la famille Feuillet continue de gérer le groupe dans l'intérêt des minoritaires (rachats d'actions, dividendes, acquisitions ciblées)."
+  ],
+  "devise": "€",
+  "dirigeants": [
+   {
+    "depuis": "2020",
+    "nom": "Stéphane Gigou",
+    "role": "Président du directoire"
+   },
+   {
+    "depuis": null,
+    "nom": "Michel Freiche",
+    "role": "Directeur général, membre du directoire"
+   },
+   {
+    "depuis": "2022",
+    "nom": "François Feuillet",
+    "role": "Président du conseil de surveillance (dirigeant de Trigano de 1981 à 2020)"
+   },
+   {
+    "depuis": "2016",
+    "nom": "Alice Cavalier Feuillet",
+    "role": "Vice-présidente du conseil de surveillance (membre depuis 2016)"
+   }
+  ],
+  "effectifs": 11000,
+  "fondee": 1935,
+  "geo": [
+   {
+    "part": 34.5,
+    "zone": "France"
+   },
+   {
+    "part": 20.4,
+    "zone": "Allemagne"
+   },
+   {
+    "part": 12.1,
+    "zone": "Royaume-Uni"
+   },
+   {
+    "part": 8.1,
+    "zone": "Benelux"
+   },
+   {
+    "part": 7.1,
+    "zone": "Italie"
+   },
+   {
+    "part": 5.6,
+    "zone": "Espagne"
+   },
+   {
+    "part": 12.1,
+    "zone": "Autres (dont pays nordiques 3,8 %)"
+   }
+  ],
+  "histoire": [
+   {
+    "annee": 1935,
+    "fait": "Création par Edgard Trigano, commerçant en textile, comme distributeur de matériel de camping ; la tente « canadienne » profite des premiers congés payés en 1936."
+   },
+   {
+    "annee": 1974,
+    "fait": "Après le choc pétrolier qui ruine le marché des caravanes, le Crédit Lyonnais prend le contrôle de l'entreprise en difficulté."
+   },
+   {
+    "annee": 1981,
+    "fait": "Arrivée de François Feuillet, qui redresse l'entreprise et la rachète ensuite (privatisation en 1987)."
+   },
+   {
+    "annee": 1984,
+    "fait": "Début de la fabrication de camping-cars (marque Chausson)."
+   },
+   {
+    "annee": 1998,
+    "fait": "Introduction en bourse et début d'une longue série de rachats (Autostar, puis Auto-Trail, Benimar, Eura Mobil...)."
+   },
+   {
+    "annee": 2017,
+    "fait": "Rachat du slovène Adria, grand nom du camping-car et de la caravane, et d'Auto-Sleepers (Royaume-Uni)."
+   },
+   {
+    "annee": 2020,
+    "fait": "François Feuillet passe la main à Stéphane Gigou à la tête du directoire."
+   },
+   {
+    "annee": 2024,
+    "fait": "Record de chiffre d'affaires (3,9 Md€) puis rachat de quatre marques de mobil-homes (O'Hara, IRM, Coco, BHI) ; l'exercice suivant voit un net repli du marché."
+   }
+  ],
+  "modele": "Trigano gagne de l'argent en fabriquant en série des véhicules de loisirs vendus à un réseau d'environ 1 300 concessionnaires (dont sa propre chaîne Libertium d'environ 70 points de vente), qui les revendent aux particuliers et aux loueurs. Ce sont des ventes ponctuelles et très sensibles au moral des ménages, aux taux d'intérêt et à la disponibilité des châssis (Fiat Ducato surtout). La taille et l'achat groupé lui donnent des coûts plus bas que ses concurrents, et donc une meilleure marge.",
+  "questions": [
+   "Les stocks chez les concessionnaires sont-ils revenus à un niveau sain, ou faudra-t-il encore faire des remises ?",
+   "Comment évolue la demande en France, qui a reculé en 2025/26, face à la croissance en Espagne, Italie ou Suède ?",
+   "Les mobil-homes rachetés en 2024 sont-ils aussi rentables que les camping-cars ?"
+  ],
+  "resume": "Trigano est le premier fabricant européen de camping-cars : il conçoit et assemble des camping-cars, fourgons aménagés, caravanes et mobil-homes vendus sous une trentaine de marques (Chausson, Challenger, Adria, Benimar, Auto-Trail...). Si vous croisez un camping-car sur une aire d'autoroute en France, il y a une bonne chance qu'il sorte d'une usine Trigano. Le groupe fabrique aussi des remorques et du matériel de camping.",
+  "segments": [
+   {
+    "detail": "Camping-cars et fourgons aménagés, cœur du groupe.",
+    "nom": "Camping-cars",
+    "part": 75.4
+   },
+   {
+    "detail": "Pièces, équipements et accessoires vendus aux fabricants et aux distributeurs.",
+    "nom": "Accessoires pour véhicules de loisirs",
+    "part": 9.5
+   },
+   {
+    "detail": "Mobil-homes pour campings, dopés par les rachats de 2024.",
+    "nom": "Résidences mobiles",
+    "part": 7
+   },
+   {
+    "detail": "Caravanes tractées, en fort recul.",
+    "nom": "Caravanes",
+    "part": 3.3
+   },
+   {
+    "detail": "Remorques, matériel de jardin et de camping.",
+    "nom": "Équipement des loisirs (remorques, jardin, camping)",
+    "part": 4.8
+   }
+  ],
+  "siege": "Paris, France",
+  "site": "https://www.trigano.com",
+  "sources": [
+   "https://trigano-finance.com/download/15494/8cd6fc0d36b98dc2c42baf8923105a5b/",
+   "https://trigano-finance.com/wp-content/uploads/2025/12/RA-25-CSRD.pdf",
+   "https://www.webdisclosure.com/press-release/trigano-epa-tri-resultats-annuels-202425-QWFovajMt6I",
+   "https://www.zonebourse.com/cours/action/TRIGANO-4718/actualite/Trigano-Resultats-annuels-2024-48457164/",
+   "https://www.webdisclosure.com/press-release/resultats-annuels-2023-A1iATvNTkkQ",
+   "https://www.zonebourse.com/cours/action/TRIGANO-4718/actualite/Trigano-Resultats-annuels-2022-42430131/",
+   "https://www.zonebourse.com/cours/action/TRIGANO-4718/actualite/Resultat-operationnel-courant-357-9-M-12-2-du-chiffre-d-affaires-37104279/",
+   "https://trigano-finance.com/en/the-group/governance/",
+   "https://trigano.com/en/the-group/history/",
+   "https://www.abcbourse.com/marches/trigano-publie-un-chiffre-d-affaires-en-hausse-en-2025-2026-et-va-poursuivre-ses_703019",
+   "https://www.boursorama.com/cours/consensus/1rPTRI/",
+   "https://fr.wikipedia.org/wiki/Trigano_(entreprise)"
+  ],
+  "suivi": {
+   "bilan": "Sur 6 points, 2 tiennent (marge et gestion familiale), 3 sont à surveiller et 1 sans donnée publique ; le plus fragile est la demande, avec un marché européen plat et une France en recul.",
+   "croire": [
+    {
+     "c": "Que le camping-car reste un mode de vacances en croissance en Europe, porté par les jeunes retraités et le tourisme de proximité.",
+     "etat": "watch",
+     "preuve": "Immatriculations européennes de camping-cars stables à 159 824 unités à fin août 2026 ; production prévue stable au S1 2026/27.",
+     "prochain": "Résultats annuels 2025/26 le 24/11/2026",
+     "reponse": "Le marché européen du camping-car est à l'arrêt en 2026 et la direction parle d'attentisme des particuliers, même si l'intérêt pour ce mode de vacances reste fort.",
+     "source": "https://www.webdisclosure.com/press-release/trigano-epa-tri-chiffre-daffaires-20252026-pIb17XYgO5x"
+    },
+    {
+     "c": "Que Trigano garde sa discipline de coûts et remonte sa marge vers 10 à 12 % quand les volumes repartent.",
+     "etat": "ok",
+     "preuve": "Marge opérationnelle courante 2025/26 annoncée proche de 10 % (9,2 % en 2024/25) ; 9,0 % au S1 contre 8,6 %.",
+     "prochain": "Résultats annuels 2025/26 le 24/11/2026",
+     "reponse": "La marge remonte vers 10 % malgré un marché plat, ce qui montre la discipline de coûts ; le haut de la fourchette (12 %) demandera une reprise des volumes.",
+     "source": "https://www.webdisclosure.com/press-release/trigano-epa-tri-chiffre-daffaires-20252026-pIb17XYgO5x"
+    },
+    {
+     "c": "Que la famille Feuillet continue de gérer le groupe dans l'intérêt des minoritaires (rachats d'actions, dividendes, acquisitions ciblées).",
+     "etat": "ok",
+     "preuve": "Exercice 2025/26 : 60 M€ de rachats d'actions et 76 M€ de dividendes, trésorerie nette d'environ 500 M€, 2e acompte de 2,40 € payé le 01/10/2026.",
+     "prochain": "Résultats annuels 2025/26 le 24/11/2026",
+     "reponse": "Oui : le groupe rend beaucoup de cash aux actionnaires tout en gardant une forte trésorerie nette.",
+     "source": "https://www.webdisclosure.com/press-release/trigano-epa-tri-chiffre-daffaires-20252026-pIb17XYgO5x"
+    }
+   ],
+   "le": "2026-09-29",
+   "questions": [
+    {
+     "etat": "watch",
+     "preuve": "Exercice 2025/26 : livraisons de camping-cars aux réseaux +7 % en volume, immatriculations européennes stables (159 824 unités à fin août), stocks du groupe +2 %.",
+     "prochain": "Résultats annuels 2025/26 le 24/11/2026",
+     "q": "Les stocks chez les concessionnaires sont-ils revenus à un niveau sain, ou faudra-t-il encore faire des remises ?",
+     "reponse": "Les stocks de Trigano restent maîtrisés, mais les livraisons aux concessionnaires progressent plus vite que les immatriculations en Europe, ce qui laisse penser que les stocks chez les distributeurs remontent (notre lecture, non chiffrée par la société).",
+     "source": "https://www.webdisclosure.com/press-release/trigano-epa-tri-chiffre-daffaires-20252026-pIb17XYgO5x"
+    },
+    {
+     "etat": "watch",
+     "preuve": "Immatriculations de camping-cars à fin août 2026 : France -6,0 %, Espagne +22,2 %, Italie +5,6 %, Suède +47,7 % ; réseaux de distribution intégrés en France -5 %.",
+     "prochain": "Résultats annuels 2025/26 le 24/11/2026",
+     "q": "Comment évolue la demande en France, qui a reculé en 2025/26, face à la croissance en Espagne, Italie ou Suède ?",
+     "reponse": "La France continue de reculer alors que l'Espagne, l'Italie et la Suède progressent fortement ; la France pèse encore environ un tiers des ventes.",
+     "source": "https://www.webdisclosure.com/press-release/trigano-epa-tri-chiffre-daffaires-20252026-pIb17XYgO5x"
+    },
+    {
+     "etat": "nc",
+     "preuve": "Exercice 2025/26 : résidences mobiles 290,6 M€ (+2,9 %, +1,9 % en volume à périmètre constant).",
+     "prochain": "Résultats annuels 2025/26 le 24/11/2026",
+     "q": "Les mobil-homes rachetés en 2024 sont-ils aussi rentables que les camping-cars ?",
+     "reponse": "Trigano ne publie pas la marge des mobil-homes à part (ils sont regroupés avec les camping-cars). On sait seulement que les volumes progressent un peu et que la direction voit ce marché en bas de cycle, avec une reprise attendue en 2027.",
+     "source": "https://www.webdisclosure.com/press-release/trigano-epa-tri-chiffre-daffaires-20252026-pIb17XYgO5x"
+    }
+   ]
+  },
+  "verifieLe": "2026-09-29"
+ },
+ "src": "https://www.abcbourse.com/marches/trigano-publie-un-chiffre-d-affaires-en-hausse-en-2025-2026-et-va-poursuivre-ses_703019",
+ "statut": "intacte",
+ "these": "Leader européen, trésorerie nette vers 500 M€, rachats d'actions.",
+ "ticker": "TRI",
+ "yahoo": "TRI.PA",
+ "zb": "https://www.zonebourse.com/cours/action/TRIGANO-4718/"
+}

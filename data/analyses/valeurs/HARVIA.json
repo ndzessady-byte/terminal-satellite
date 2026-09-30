@@ -1,0 +1,1474 @@
+{
+ "analyse": {
+  "aVerifier": "Moyenne 200 jours non lue. Moyennes 50 jours et RSI lus sur la cotation Tradegate (meme action en euros). Support et resistance deduits (moyenne 100 jours et plus haut annuel), pas publies par une source. Objectif moyen des analystes deduit de l'ecart de +12,63 % affiche par Zonebourse (environ 49 €). Couverture des interets, F-score de Piotroski et multiples des concurrents non trouves. Date du T3 (29/10) issue du calendrier publie en 2025.",
+  "actu": [
+   {
+    "d": "06/08",
+    "fait": "Resultats du premier semestre 2026 : ventes de 111,4 M€ (+12,2 %), Amerique du Nord +38,6 %, mais marge ajustee du T2 a 16,2 % car un chantier informatique a l'usine de Muurame a decale environ 4 M€ de livraisons vers le T3.",
+    "horizon": "moyen",
+    "impact": "positif",
+    "lecture": "La croissance americaine valide la these du sauna comme produit de bien etre grand public ; la baisse de marge semble temporaire mais doit etre confirmee au T3."
+   },
+   {
+    "d": "07/08",
+    "fait": "Avis partages des analystes : OP Corporate Bank passe a allegement avec un objectif de 43 €, Nordea releve son objectif a 51 € et reste positif.",
+    "horizon": "court",
+    "impact": "neutre",
+    "lecture": "Le debat porte surtout sur le prix : la qualite n'est pas contestee, mais le titre est juge deja bien valorise par une partie des analystes."
+   },
+   {
+    "d": "06/08",
+    "fait": "Zone Asie-Pacifique et Moyen-Orient en baisse de 4,9 %, projets de hammams dans le Golfe reportes a cause du conflit regional ; la direction se dit pas pleinement satisfaite de ThermaSol aux Etats-Unis.",
+    "horizon": "court",
+    "impact": "negatif",
+    "lecture": "Rappelle que la croissance repose beaucoup sur un seul marche, l'Amerique du Nord, et que les acquisitions ne rapportent pas toujours vite."
+   },
+   {
+    "d": "10/09",
+    "fait": "Le directeur general evoque l'ambition de faire changer le groupe de taille (\"Mission a Billion\").",
+    "horizon": "long",
+    "impact": "positif",
+    "lecture": "Signale une strategie offensive (acquisitions possibles dans le sauna infrarouge) qui peut accelerer la croissance mais aussi augmenter la dette."
+   }
+  ],
+  "cadres": [
+   "Buffett / Fisher (qualite, rentabilite, marges)",
+   "Lynch (croissance, PEG)",
+   "Graham (solidite du bilan)",
+   "Greenblatt (formule magique)",
+   "Theorie de Dow",
+   "Weinstein (stades)",
+   "Minervini (partiel, MM200 manquante ou datee)"
+  ],
+  "conviction": "moyenne",
+  "fonda": {
+   "bilan": "Dette nette de 1,2 fois l'EBITDA ajuste fin juin 2026, ratio de fonds propres de 47,4 %, flux de tresorerie operationnel libre de 15,1 M€ au semestre. Plafond fixe par le groupe : 2,5 fois. Couverture des interets non trouvee.",
+   "croissance": "Ventes de 150,5 M€ en 2023, 198,9 M€ en 2025, puis 228,7 M€ attendus en 2026 (+15 %), 257 M€ en 2027 et 283,6 M€ en 2028. BPA : 1,41 € en 2025, 1,78 € en 2026, 2,19 € en 2027, 2,50 € en 2028, soit environ +18 % par an de 2026 a 2028. Premier semestre 2026 : ventes +12,2 % (+15,7 % a changes constants), 100 % organique, BPA +16,5 %. Objectif du groupe : +10 % de croissance moyenne par an.",
+   "greenblatt": "Rendement beneficiaire d'environ 5,3 % (EBIT 2026 de 46,6 M€ sur une valeur d'entreprise d'environ 870 M€) avec une rentabilite des fonds propres d'environ 22 % : qualite elevee, prix un peu cher.",
+   "justif": "Tres bonne qualite (marge operationnelle proche de 20 %, rentabilite des fonds propres d'environ 22 %) et croissance a deux chiffres, freinees par une valorisation elevee.",
+   "peg": 1.34,
+   "piotroski": null,
+   "qualite": "Marge operationnelle de 22,4 % en 2023, 21,2 % en 2024, 19,7 % en 2025, 20,4 % attendue en 2026 ; marge operationnelle ajustee de 19,3 % au premier semestre 2026 mais 16,2 % au T2. Rentabilite des fonds propres estimee a environ 22 % (P/B 2026 de 5,54 divise par PER 2026 de 24,7). Marque de reference et position de leader, objectif long terme d'une marge au dessus de 20 %.",
+   "score": 7,
+   "valo": "PER 24,7 en 2026 et 20,1 en 2027 ; VE/EBITDA 16 puis 13,3 ; rendement du flux de tresorerie libre de 2,6 % ; dividende 1,9 %. Moyenne 2021-2025 : PER d'environ 26 et VE/EBITDA d'environ 16,4. L'action est donc a peu pres dans sa moyenne historique, qui est elle meme elevee. Multiples des concurrents non verifies."
+  },
+  "majLe": "2026-09-28",
+  "revisions": "Non trouvé. Consensus Achat, 4 analystes, objectif moyen 49,50 € (MarketScreener).",
+  "scenarios": [
+   {
+    "bas": 39.5,
+    "central": 44.5,
+    "haut": 48.5,
+    "horizon": "2 mois",
+    "hypotheses": "Le T3 du 29/10 doit montrer le rattrapage des 4 M€ de livraisons decalees et le retour de la marge vers 19 a 20 %. Le central est proche du cours actuel, le haut approche l'objectif moyen implicite des analystes (environ 49 €).",
+    "unite": "€"
+   },
+   {
+    "bas": 37,
+    "central": 48,
+    "haut": 55,
+    "horizon": "12 mois",
+    "hypotheses": "BPA 2027 attendu de 2,19 € multiplie par un PER de 17 (bas, ralentissement americain), 22 (central) ou 25 (haut, croissance a deux chiffres qui se prolonge).",
+    "unite": "€"
+   },
+   {
+    "bas": -4,
+    "central": 10,
+    "haut": 17.5,
+    "horizon": "5 ans",
+    "hypotheses": "Central : BPA +12 %/an, dividende 2 %, PER de 24,7 a 20 (-4 %/an), soit environ 10 %/an. Bas : BPA +5 %, dividende 2 %, PER vers 14 (-10,7 %/an). Haut : BPA +16 %, dividende 2,2 %, PER stable vers 24.",
+    "unite": "%/an"
+   },
+   {
+    "bas": 1.5,
+    "central": 9.5,
+    "haut": 14,
+    "horizon": "10-15 ans",
+    "hypotheses": "Sur 12 ans : central BPA +9 %/an, dividende 2 %, PER de 24,7 a 20 (-1,7 %/an). Bas : BPA +4 %, dividende 2 %, PER vers 14 (-4,6 %/an). Haut : BPA +12 %, dividende 2,2 %, PER quasi stable.",
+    "unite": "%/an"
+   }
+  ],
+  "sources": [
+   "https://harviagroup.com/harvias-half-year-financial-review-1-january-30-june-2026/",
+   "https://www.saunanews.com/article/harvia-q2-2026-north-america-cabins-steam",
+   "https://www.zonebourse.com/cours/action/HARVIA-OYJ-42470799/",
+   "https://www.zonebourse.com/cours/action/HARVIA-OYJ-42470799/valorisation/",
+   "https://www.zonebourse.com/cours/action/HARVIA-OYJ-42470799/finances/",
+   "https://www.zonebourse.com/cours/action/HARVIA-OYJ-42470799/consensus/",
+   "https://www.zonebourse.com/cours/action/HARVIA-OYJ-42470799/actualite/",
+   "https://www.boursorama.com/cours/1mTG1U/",
+   "https://www.abcbourse.com/cotation/HARVIAh",
+   "https://www.inderes.fi/en/companies/Harvia",
+   "https://www.inderes.se/en/releases/harvia-plcs-financial-information-and-annual-general-meeting-in-2026"
+  ],
+  "tech": {
+   "bas52": 31.8,
+   "cours": 43.45,
+   "coursLe": "2026-09-28",
+   "haut52": 45.7,
+   "lecture": "Cours de 43,45 en dessous de sa moyenne 50 jours (43,45) et au-dessus de sa moyenne 200 jours (40,05). RSI 48,8 : élan neutre. Il se situe à 84 % de sa fourchette sur un an (de 31,80 à 45,70), performance sur 12 mois de +25,2 %. Moyennes et RSI calculés sur les vraies clôtures (flux GitHub de 15h33).",
+   "mm200": 40.05,
+   "mm50": 43.45,
+   "resistance": 47.65,
+   "rsi14": 48.8,
+   "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json",
+   "stade": 3,
+   "support": 39.9,
+   "tendance": "neutre"
+  },
+  "verdict": "Harvia est le leader mondial des saunas, tres rentable et peu endette, avec une croissance forte tiree par l'Amerique du Nord (+38,6 % au T2, 44 % des ventes). Le prix (PER 2026 de 24,7) paie deja cette croissance et le trimestre a montre une marge plus faible (16,2 %) a cause d'un chantier informatique en usine et d'un produit mix moins favorable.",
+  "zones": {
+   "catalyseurs": [
+    "29/10/2026 : rapport du T3 2026 (rattrapage des livraisons decalees)",
+    "Hiver 2026-2027 : saison forte des ventes de saunas",
+    "Fevrier 2027 : resultats annuels 2026 (date a confirmer)"
+   ],
+   "interet": "Entre 38 et 40 € : zone de la moyenne 100 jours, soit un PER 2027 d'environ 17,5 a 18, sous la moyenne historique du titre.",
+   "invalidation": "Cloture sous 36 € ou croissance nord americaine qui devient negative, avec une marge ajustee annuelle sous 17 %.",
+   "sortie": [
+    "Croissance en Amerique du Nord sous 5 % deux trimestres de suite",
+    "Marge operationnelle ajustee durablement sous 17 %",
+    "PER 2027 au dessus de 30 sans acceleration",
+    "Dette nette au dessus de 2,5 fois l'EBITDA apres une grosse acquisition"
+   ]
+  }
+ },
+ "capi": "0,8 Md€",
+ "cours": 43.45,
+ "coursLe": "2026-09-28",
+ "devise": "€",
+ "faits": [
+  {
+   "d": "06/08",
+   "t": "S1 : CA 111,4 M€ (+12,2 %), marge ajustée 19,3 %, BPA +16,5 %. T2 : marge ajustée 16,2 %."
+  },
+  {
+   "d": "07/08",
+   "t": "Analystes partagés : OP passe à Alléger (43 €), Nordea relève à 51 € (Achat)."
+  }
+ ],
+ "histo": [
+  [
+   "15/09",
+   38.05
+  ],
+  [
+   "16/09",
+   38.05
+  ],
+  [
+   "17/09",
+   37.35
+  ],
+  [
+   "18/09",
+   38.15
+  ],
+  [
+   "19/09",
+   37.4
+  ],
+  [
+   "22/09",
+   37.55
+  ],
+  [
+   "23/09",
+   37.35
+  ],
+  [
+   "24/09",
+   35.6
+  ],
+  [
+   "25/09",
+   34.7
+  ],
+  [
+   "26/09",
+   33.95
+  ],
+  [
+   "29/09",
+   34.5
+  ],
+  [
+   "30/09",
+   34.45
+  ],
+  [
+   "01/10",
+   34.55
+  ],
+  [
+   "02/10",
+   35.2
+  ],
+  [
+   "03/10",
+   35.45
+  ],
+  [
+   "06/10",
+   35.15
+  ],
+  [
+   "07/10",
+   35.15
+  ],
+  [
+   "08/10",
+   37.15
+  ],
+  [
+   "09/10",
+   35.85
+  ],
+  [
+   "10/10",
+   35.05
+  ],
+  [
+   "13/10",
+   35.4
+  ],
+  [
+   "14/10",
+   34.95
+  ],
+  [
+   "15/10",
+   35.15
+  ],
+  [
+   "16/10",
+   35.1
+  ],
+  [
+   "17/10",
+   35.1
+  ],
+  [
+   "20/10",
+   35.45
+  ],
+  [
+   "21/10",
+   35.55
+  ],
+  [
+   "22/10",
+   36.1
+  ],
+  [
+   "23/10",
+   36.6
+  ],
+  [
+   "24/10",
+   36.3
+  ],
+  [
+   "27/10",
+   36.25
+  ],
+  [
+   "28/10",
+   35.9
+  ],
+  [
+   "29/10",
+   35.5
+  ],
+  [
+   "30/10",
+   35.65
+  ],
+  [
+   "31/10",
+   36.25
+  ],
+  [
+   "03/11",
+   36.95
+  ],
+  [
+   "04/11",
+   35.8
+  ],
+  [
+   "05/11",
+   35.05
+  ],
+  [
+   "06/11",
+   42.95
+  ],
+  [
+   "07/11",
+   41.35
+  ],
+  [
+   "10/11",
+   41.6
+  ],
+  [
+   "11/11",
+   42.65
+  ],
+  [
+   "12/11",
+   42.65
+  ],
+  [
+   "13/11",
+   42.4
+  ],
+  [
+   "14/11",
+   41.8
+  ],
+  [
+   "17/11",
+   40.65
+  ],
+  [
+   "18/11",
+   39.85
+  ],
+  [
+   "19/11",
+   40.4
+  ],
+  [
+   "20/11",
+   40.2
+  ],
+  [
+   "21/11",
+   40.1
+  ],
+  [
+   "24/11",
+   40.4
+  ],
+  [
+   "25/11",
+   41.2
+  ],
+  [
+   "26/11",
+   40.85
+  ],
+  [
+   "27/11",
+   41.35
+  ],
+  [
+   "28/11",
+   41.5
+  ],
+  [
+   "01/12",
+   41.1
+  ],
+  [
+   "02/12",
+   41
+  ],
+  [
+   "03/12",
+   41.6
+  ],
+  [
+   "04/12",
+   41.8
+  ],
+  [
+   "05/12",
+   41.65
+  ],
+  [
+   "08/12",
+   41.15
+  ],
+  [
+   "09/12",
+   41.3
+  ],
+  [
+   "10/12",
+   41.25
+  ],
+  [
+   "11/12",
+   42.45
+  ],
+  [
+   "12/12",
+   42.4
+  ],
+  [
+   "15/12",
+   42.25
+  ],
+  [
+   "16/12",
+   42.4
+  ],
+  [
+   "17/12",
+   41.75
+  ],
+  [
+   "18/12",
+   42.9
+  ],
+  [
+   "19/12",
+   42.6
+  ],
+  [
+   "22/12",
+   41.6
+  ],
+  [
+   "23/12",
+   41.85
+  ],
+  [
+   "29/12",
+   42.7
+  ],
+  [
+   "30/12",
+   42.9
+  ],
+  [
+   "02/01",
+   42.8
+  ],
+  [
+   "05/01",
+   42.45
+  ],
+  [
+   "07/01",
+   43.3
+  ],
+  [
+   "08/01",
+   42.8
+  ],
+  [
+   "09/01",
+   43.4
+  ],
+  [
+   "12/01",
+   43.25
+  ],
+  [
+   "13/01",
+   41.9
+  ],
+  [
+   "14/01",
+   41.9
+  ],
+  [
+   "15/01",
+   43.35
+  ],
+  [
+   "16/01",
+   43.2
+  ],
+  [
+   "19/01",
+   41.35
+  ],
+  [
+   "20/01",
+   41.25
+  ],
+  [
+   "21/01",
+   41.95
+  ],
+  [
+   "22/01",
+   43.3
+  ],
+  [
+   "23/01",
+   43.05
+  ],
+  [
+   "26/01",
+   42
+  ],
+  [
+   "27/01",
+   41.95
+  ],
+  [
+   "28/01",
+   42.1
+  ],
+  [
+   "29/01",
+   41.4
+  ],
+  [
+   "30/01",
+   41
+  ],
+  [
+   "02/02",
+   40.5
+  ],
+  [
+   "03/02",
+   40.45
+  ],
+  [
+   "04/02",
+   40.8
+  ],
+  [
+   "05/02",
+   40.6
+  ],
+  [
+   "06/02",
+   40.95
+  ],
+  [
+   "09/02",
+   41.35
+  ],
+  [
+   "10/02",
+   41.55
+  ],
+  [
+   "11/02",
+   39.7
+  ],
+  [
+   "12/02",
+   35.5
+  ],
+  [
+   "13/02",
+   37.3
+  ],
+  [
+   "16/02",
+   37.25
+  ],
+  [
+   "17/02",
+   38.05
+  ],
+  [
+   "18/02",
+   38.45
+  ],
+  [
+   "19/02",
+   38.9
+  ],
+  [
+   "20/02",
+   38.9
+  ],
+  [
+   "23/02",
+   38.1
+  ],
+  [
+   "24/02",
+   37.9
+  ],
+  [
+   "25/02",
+   37.05
+  ],
+  [
+   "26/02",
+   37
+  ],
+  [
+   "27/02",
+   37
+  ],
+  [
+   "02/03",
+   36.35
+  ],
+  [
+   "03/03",
+   35.1
+  ],
+  [
+   "04/03",
+   35.8
+  ],
+  [
+   "05/03",
+   36.9
+  ],
+  [
+   "06/03",
+   36.45
+  ],
+  [
+   "09/03",
+   36.1
+  ],
+  [
+   "10/03",
+   36.5
+  ],
+  [
+   "11/03",
+   36.4
+  ],
+  [
+   "12/03",
+   35.9
+  ],
+  [
+   "13/03",
+   35.25
+  ],
+  [
+   "16/03",
+   35.3
+  ],
+  [
+   "17/03",
+   35.65
+  ],
+  [
+   "18/03",
+   35.7
+  ],
+  [
+   "19/03",
+   35.3
+  ],
+  [
+   "20/03",
+   32.1
+  ],
+  [
+   "23/03",
+   33.3
+  ],
+  [
+   "24/03",
+   32.25
+  ],
+  [
+   "25/03",
+   32.8
+  ],
+  [
+   "26/03",
+   32.85
+  ],
+  [
+   "27/03",
+   31.8
+  ],
+  [
+   "30/03",
+   32.3
+  ],
+  [
+   "31/03",
+   33.05
+  ],
+  [
+   "01/04",
+   33.85
+  ],
+  [
+   "02/04",
+   33.65
+  ],
+  [
+   "07/04",
+   32.7
+  ],
+  [
+   "08/04",
+   34.7
+  ],
+  [
+   "09/04",
+   34.15
+  ],
+  [
+   "10/04",
+   35.05
+  ],
+  [
+   "13/04",
+   34.95
+  ],
+  [
+   "14/04",
+   35.55
+  ],
+  [
+   "15/04",
+   35.7
+  ],
+  [
+   "16/04",
+   35.85
+  ],
+  [
+   "17/04",
+   37.15
+  ],
+  [
+   "20/04",
+   36.5
+  ],
+  [
+   "21/04",
+   36.55
+  ],
+  [
+   "22/04",
+   35.8
+  ],
+  [
+   "23/04",
+   36.9
+  ],
+  [
+   "24/04",
+   36.15
+  ],
+  [
+   "27/04",
+   36.05
+  ],
+  [
+   "28/04",
+   35.5
+  ],
+  [
+   "29/04",
+   35.55
+  ],
+  [
+   "30/04",
+   35.5
+  ],
+  [
+   "04/05",
+   36.15
+  ],
+  [
+   "05/05",
+   36.15
+  ],
+  [
+   "06/05",
+   35.8
+  ],
+  [
+   "07/05",
+   41.05
+  ],
+  [
+   "08/05",
+   38.55
+  ],
+  [
+   "11/05",
+   38.35
+  ],
+  [
+   "12/05",
+   38.35
+  ],
+  [
+   "13/05",
+   39
+  ],
+  [
+   "15/05",
+   38.4
+  ],
+  [
+   "18/05",
+   38.45
+  ],
+  [
+   "19/05",
+   39.4
+  ],
+  [
+   "20/05",
+   39.4
+  ],
+  [
+   "21/05",
+   39.25
+  ],
+  [
+   "22/05",
+   39.35
+  ],
+  [
+   "25/05",
+   39.95
+  ],
+  [
+   "26/05",
+   39.35
+  ],
+  [
+   "27/05",
+   40.5
+  ],
+  [
+   "28/05",
+   40.35
+  ],
+  [
+   "29/05",
+   40.9
+  ],
+  [
+   "01/06",
+   39.55
+  ],
+  [
+   "02/06",
+   40.1
+  ],
+  [
+   "03/06",
+   40.1
+  ],
+  [
+   "04/06",
+   40.15
+  ],
+  [
+   "05/06",
+   39.9
+  ],
+  [
+   "08/06",
+   39.8
+  ],
+  [
+   "09/06",
+   39.75
+  ],
+  [
+   "10/06",
+   39.9
+  ],
+  [
+   "11/06",
+   39.95
+  ],
+  [
+   "12/06",
+   40.45
+  ],
+  [
+   "15/06",
+   40.3
+  ],
+  [
+   "16/06",
+   39.8
+  ],
+  [
+   "17/06",
+   40.2
+  ],
+  [
+   "18/06",
+   40.65
+  ],
+  [
+   "22/06",
+   40.5
+  ],
+  [
+   "23/06",
+   40.15
+  ],
+  [
+   "24/06",
+   40.7
+  ],
+  [
+   "25/06",
+   41.35
+  ],
+  [
+   "26/06",
+   41.35
+  ],
+  [
+   "29/06",
+   40.75
+  ],
+  [
+   "30/06",
+   41.6
+  ],
+  [
+   "01/07",
+   41.05
+  ],
+  [
+   "02/07",
+   41.3
+  ],
+  [
+   "03/07",
+   41.1
+  ],
+  [
+   "06/07",
+   40.2
+  ],
+  [
+   "07/07",
+   39.45
+  ],
+  [
+   "08/07",
+   38.65
+  ],
+  [
+   "09/07",
+   39.5
+  ],
+  [
+   "10/07",
+   39.55
+  ],
+  [
+   "13/07",
+   40.05
+  ],
+  [
+   "14/07",
+   39.7
+  ],
+  [
+   "15/07",
+   40.8
+  ],
+  [
+   "16/07",
+   41.3
+  ],
+  [
+   "17/07",
+   41.4
+  ],
+  [
+   "20/07",
+   41.25
+  ],
+  [
+   "21/07",
+   41.45
+  ],
+  [
+   "22/07",
+   42.5
+  ],
+  [
+   "23/07",
+   41.55
+  ],
+  [
+   "24/07",
+   42
+  ],
+  [
+   "27/07",
+   42.2
+  ],
+  [
+   "28/07",
+   42.15
+  ],
+  [
+   "29/07",
+   41.95
+  ],
+  [
+   "30/07",
+   41.75
+  ],
+  [
+   "31/07",
+   41.25
+  ],
+  [
+   "03/08",
+   41.1
+  ],
+  [
+   "04/08",
+   41.35
+  ],
+  [
+   "05/08",
+   42.15
+  ],
+  [
+   "06/08",
+   44.35
+  ],
+  [
+   "07/08",
+   44.2
+  ],
+  [
+   "10/08",
+   44.7
+  ],
+  [
+   "11/08",
+   44.25
+  ],
+  [
+   "12/08",
+   44.65
+  ],
+  [
+   "13/08",
+   44.55
+  ],
+  [
+   "14/08",
+   43.8
+  ],
+  [
+   "17/08",
+   43.4
+  ],
+  [
+   "18/08",
+   42.95
+  ],
+  [
+   "19/08",
+   43.05
+  ],
+  [
+   "20/08",
+   42.95
+  ],
+  [
+   "21/08",
+   43.95
+  ],
+  [
+   "24/08",
+   44.15
+  ],
+  [
+   "25/08",
+   45.1
+  ],
+  [
+   "26/08",
+   45.7
+  ],
+  [
+   "27/08",
+   45.7
+  ],
+  [
+   "28/08",
+   45.25
+  ],
+  [
+   "31/08",
+   44.7
+  ],
+  [
+   "01/09",
+   43.85
+  ],
+  [
+   "02/09",
+   43.5
+  ],
+  [
+   "03/09",
+   43.4
+  ],
+  [
+   "04/09",
+   45.2
+  ],
+  [
+   "07/09",
+   44.85
+  ],
+  [
+   "08/09",
+   44.65
+  ],
+  [
+   "09/09",
+   43.8
+  ],
+  [
+   "10/09",
+   43.45
+  ],
+  [
+   "11/09",
+   44.15
+  ],
+  [
+   "14/09",
+   42.55
+  ],
+  [
+   "15/09",
+   42.5
+  ],
+  [
+   "16/09",
+   43.05
+  ],
+  [
+   "17/09",
+   43.35
+  ],
+  [
+   "18/09",
+   42.65
+  ],
+  [
+   "21/09",
+   42.8
+  ],
+  [
+   "22/09",
+   44.6
+  ],
+  [
+   "23/09",
+   44.2
+  ],
+  [
+   "24/09",
+   43.8
+  ],
+  [
+   "25/09",
+   43.95
+  ],
+  [
+   "28/09",
+   43.45
+  ]
+ ],
+ "nom": "Harvia",
+ "notes": "Clôture du 28/09 non confirmée sur le web : cours du flux GitHub relevé à 15h33 (43,45), à remplacer par la vraie clôture au prochain flux. MarketScreener affiche 44,25 € (-1,01 %), incohérent avec la veille (43,95 €) : non retenu. Zonebourse 43,50 € sur Tradegate. Résultats 9 mois le 29/10.",
+ "pays": "FI",
+ "per26": 23.8,
+ "per27": 19.4,
+ "perf": {
+  "m1": -4,
+  "m12": 25.2,
+  "m3": 5.8
+ },
+ "pub": "2026-10-29",
+ "pubLabel": "Résultats 9 mois",
+ "risque": "Valorisation exigeante pour un produit de consommation discrétionnaire, marge du T2 retombée à 16,2 %.",
+ "secteur": "Saunas et bien-être",
+ "societe": {
+  "aVerifier": "Vérifié le 29/09/2026 sur les communiqués annuels Harvia 2021 à 2025, le rapport financier 2023 et le rapport semestriel 2026. Confirmés : chiffre d'affaires, résultat net part du groupe (2022 à 2025, en milliers d'euros dans les comptes), dette nette et dividendes 2022 à 2025 ; dividende 2021 corrigé à 0,60 €. margeOp = marge opérationnelle AJUSTÉE publiée (résultat opérationnel hors éléments exceptionnels / CA) ; la marge publiée non ajustée est plus basse (26,0 % en 2021, 20,1 % en 2022, 21,9 % en 2023, 20,3 % en 2024, 19,3 % en 2025). Dette nette publiée Y COMPRIS les dettes locatives IFRS 16 (7,5 M€ fin 2025). Résultat net 2021 (33,7 M€) non retrouvé ligne à ligne : cohérent avec le BPA publié de 1,80 €, mais non confirmé au million près. Répartitions 2025 par zone (Amérique du Nord 75,8 M€, Europe continentale 55,6, Europe du Nord 46,6, APAC et MEA 21,0) et par produit (poêles et chauffage 107,9 M€, saunas et bains 47,5, vapeur 17,2, accessoires et pierres 13,1, pièces et services 13,1) confirmées par le rapport T4 2025. Effectif 735 fin 2025 confirmé (dont 158 aux États-Unis, où Harvia agrandit son usine de Lewisburg). Dirigeants confirmés par le site de la société. Restent non vérifiés : actionnariat (page des principaux actionnaires non lisible, chiffres MarketScreener), faits d'histoire 2014 (CapMan), 2016, 2020 et 2021 (acquisitions, repris de Wikipédia), date exacte d'installation à Muurame, liste des concurrents (non sourcée), consensus 2026e (MarketScreener, source secondaire).",
+  "actionnariat": "Le capital est dispersé entre investisseurs institutionnels : les premiers actionnaires sont Onvest (environ 4,4 %), les fonds SEB (environ 4,3 %) et Nordea (environ 4,1 %), sans actionnaire de contrôle.",
+  "avantage": "Harvia est le numéro un mondial des poêles de sauna, avec une marque connue, une gamme complète et des usines en Finlande, en Europe centrale, en Chine et aux États-Unis, ce qui lui donne des coûts bas et une présence chez de nombreux revendeurs. Cet avantage peut s'éroder si l'engouement pour le sauna (bien-être, récupération sportive) retombe, si des marques plus « design » ou moins chères gagnent du terrain, ou avec des droits de douane aux États-Unis.",
+  "chiffres": [
+   {
+    "annee": "2021",
+    "ca": 179.1,
+    "detteNette": 43.8,
+    "dividende": 0.6,
+    "margeOp": 26.4,
+    "rn": 33.7
+   },
+   {
+    "annee": "2022",
+    "ca": 172.4,
+    "detteNette": 54.5,
+    "dividende": 0.64,
+    "margeOp": 21.1,
+    "rn": 27.1
+   },
+   {
+    "annee": "2023",
+    "ca": 150.5,
+    "detteNette": 37.6,
+    "dividende": 0.68,
+    "margeOp": 22.4,
+    "rn": 23.3
+   },
+   {
+    "annee": "2024",
+    "ca": 175.2,
+    "detteNette": 57.2,
+    "dividende": 0.75,
+    "margeOp": 21.2,
+    "rn": 24.2
+   },
+   {
+    "annee": "2025",
+    "ca": 198.9,
+    "detteNette": 57.7,
+    "dividende": 0.77,
+    "margeOp": 19.6,
+    "rn": 26.4
+   },
+   {
+    "annee": "2026e",
+    "ca": 228.7,
+    "detteNette": 50.6,
+    "dividende": 0.85,
+    "margeOp": 20.4,
+    "rn": 33.4
+   }
+  ],
+  "clients": "Harvia vend principalement à des revendeurs, distributeurs, grossistes et fabricants de cabines, qui livrent ensuite des particuliers, des hôtels, des spas et des salles de sport. Aucun client dominant n'est signalé dans les sources lues.",
+  "concurrents": [
+   "TylöHelo",
+   "Klafs",
+   "HUUM",
+   "Narvi",
+   "Tulikivi"
+  ],
+  "corrections": [
+   "2021 dividende 0.79 -> 0.6 (communiqué annuel 2021 et rapport annuel 2021 : 0,60 € par action versé en deux fois 0,30 €).",
+   "Présidente du conseil : nom corrigé en « Catharina Stackelberg-Hammarén » (graphie de la société), présidente depuis le 17/11/2025 à la place de Heiner Olbrich (communiqué Harvia du 17/11/2025, confirmé au conseil du 15/04/2026).",
+   "Ari Vesterinen depuis null -> 2014 (page Direction de Harvia : directeur financier et membre du comité de direction depuis 2014).",
+   "Matias Järnefelt : date précise ajoutée, CEO depuis le 1er juin 2023 (page Direction de Harvia).",
+   "Histoire 1972 : reformulée en « début des années 1970 » (la société ne donne pas l'année exacte).",
+   "Histoire 2026 : précisée (CA S1 111,4 M€, +12,2 %, environ 4 M€ de livraisons décalées par l'ERP de Muurame) ; ajout d'un fait 2025."
+  ],
+  "croire": [
+   "Que la mode du sauna aux États-Unis est une tendance durable et non un effet de mode, avec une croissance forte pendant des années.",
+   "Que Harvia peut atteindre son objectif de 10 % de croissance annuelle moyenne tout en gardant une marge ajustée supérieure à 20 %.",
+   "Que les ratés de 2026 (chantier informatique, Moyen-Orient) sont passagers."
+  ],
+  "devise": "€",
+  "dirigeants": [
+   {
+    "depuis": 2023,
+    "nom": "Matias Järnefelt",
+    "role": "Directeur général (CEO) depuis le 1er juin 2023"
+   },
+   {
+    "depuis": 2025,
+    "nom": "Catharina Stackelberg-Hammarén",
+    "role": "Présidente du conseil d'administration (depuis le 17/11/2025, administratrice depuis 2023)"
+   },
+   {
+    "depuis": 2014,
+    "nom": "Ari Vesterinen",
+    "role": "Directeur financier (CFO)"
+   }
+  ],
+  "effectifs": 735,
+  "fondee": 1950,
+  "geo": [
+   {
+    "part": 38.1,
+    "zone": "Amérique du Nord"
+   },
+   {
+    "part": 28,
+    "zone": "Europe continentale"
+   },
+   {
+    "part": 23.4,
+    "zone": "Europe du Nord"
+   },
+   {
+    "part": 10.6,
+    "zone": "Asie-Pacifique, Moyen-Orient, Afrique"
+   }
+  ],
+  "histoire": [
+   {
+    "annee": 1950,
+    "fait": "Tapani Harvia crée un atelier de ferronnerie d'art à Jyväskylä, qui se met vite à fabriquer des poêles de sauna à bois."
+   },
+   {
+    "annee": 1972,
+    "fait": "Début des années 1970 : installation à Muurame avec une nouvelle usine ; lancement des poêles électriques dans les années 1980 et place de premier fabricant mondial de poêles de sauna au début des années 2000."
+   },
+   {
+    "annee": 2014,
+    "fait": "La famille Harvia vend 80 % de l'entreprise au fonds d'investissement CapMan."
+   },
+   {
+    "annee": 2016,
+    "fait": "Rachat de l'autrichien Sentiotec (cabines de sauna, infrarouge, vapeur)."
+   },
+   {
+    "annee": 2018,
+    "fait": "Entrée en Bourse à Helsinki en mars et rachat de l'américain Almost Heaven Saunas, porte d'entrée sur le marché nord-américain."
+   },
+   {
+    "annee": 2020,
+    "fait": "Rachat d'environ 80 % du groupe allemand EOS, spécialiste des saunas haut de gamme pour spas et hôtels."
+   },
+   {
+    "annee": 2021,
+    "fait": "Rachat de Kirami (chauffe-eau pour bains nordiques) et de Sauna-Eurox (pierres de sauna) ; année record de marge pendant l'engouement du Covid."
+   },
+   {
+    "annee": 2025,
+    "fait": "Chiffre d'affaires record de 198,9 M€ (+13,5 %) ; en novembre, Catharina Stackelberg-Hammarén remplace Heiner Olbrich à la présidence du conseil ; extension de l'usine de Lewisburg (Virginie-Occidentale, États-Unis)."
+   },
+   {
+    "annee": 2026,
+    "fait": "Premier semestre : chiffre d'affaires de 111,4 M€ (+12,2 %), tiré par l'Amérique du Nord (+38,6 %) ; la mise en place d'un nouveau progiciel de gestion (ERP) à l'usine de Muurame a repoussé environ 4 M€ de livraisons du deuxième au troisième trimestre."
+   }
+  ],
+  "modele": "Harvia vend surtout des équipements (poêles, cabines, bains nordiques) à des revendeurs, grossistes et fabricants de saunas, ce qui en fait des ventes ponctuelles plutôt que des abonnements. Une petite part récurrente vient des pièces détachées, pierres et accessoires. La marque et la position de numéro un lui donnent un bon pouvoir sur les prix, avec une marge opérationnelle autour de 20 %.",
+  "questions": [
+   "Les droits de douane américains et la concurrence locale menacent-ils la croissance en Amérique du Nord, premier marché du groupe ?",
+   "Pourquoi la marge recule-t-elle légèrement alors que les ventes progressent (mix produits, coûts, prix) ?",
+   "Les rachats futurs resteront-ils petits et bien intégrés, sans alourdir la dette ?"
+  ],
+  "resume": "Harvia est le leader mondial des poêles de sauna : l'entreprise finlandaise fabrique les appareils qui chauffent les pierres d'un sauna, mais aussi des cabines de sauna complètes, des bains nordiques en bois (hot tubs), des générateurs de vapeur pour hammams et leurs commandes électroniques. Exemple concret : le sauna d'un spa d'hôtel, d'une salle de sport ou le sauna tonneau installé dans le jardin d'un particulier américain.",
+  "segments": [
+   {
+    "detail": "Poêles de sauna électriques et à bois, et leurs commandes.",
+    "nom": "Poêles et équipements de chauffage",
+    "part": 54.3
+   },
+   {
+    "detail": "Cabines de sauna complètes, saunas d'extérieur et bains nordiques en bois.",
+    "nom": "Saunas et bains nordiques",
+    "part": 23.9
+   },
+   {
+    "detail": "Générateurs de vapeur pour hammams.",
+    "nom": "Vapeur",
+    "part": 8.7
+   },
+   {
+    "detail": "Pierres de sauna, seaux, louches et petits équipements.",
+    "nom": "Accessoires et pierres",
+    "part": 6.6
+   },
+   {
+    "detail": "Pièces de rechange et service après-vente, la partie la plus récurrente.",
+    "nom": "Pièces détachées et services",
+    "part": 6.6
+   }
+  ],
+  "siege": "Muurame, Finlande",
+  "site": "https://harviagroup.com",
+  "sources": [
+   "https://www.globenewswire.com/news-release/2026/02/12/3236888/0/en/Harvia-Q4-2025-Growth-in-all-sales-regions-continued.html",
+   "https://ml-eu.globenewswire.com/Resource/Download/497e7412-bb21-4eff-91bf-5946d8df46a5",
+   "https://harviagroup.com/harvia-q4-2023-revenue-back-to-growth-with-strong-profitability-and-cash-flow-8864/",
+   "https://harviagroup.com/wp-content/uploads/2024/03/Harvia_Plc_Board_of_Directors_Report_and_Financial_Statements_2023.pdf",
+   "https://www.globenewswire.com/news-release/2023/02/09/2604627/0/en/Harvia-s-Financial-statements-bulletin-2022-Solid-performance-in-challenging-market-environment.html",
+   "https://harviagroup.com/harvias-financial-statements-bulletin-2021-strong-growth-and-profitability-continued-7011/",
+   "https://harviagroup.com/wp-content/uploads/2022/03/Harvia_EN_AnnualReport_2021_web.pdf",
+   "https://harviagroup.com/harvias-half-year-financial-review-1-january-30-june-2026/",
+   "https://harviagroup.com/ceo-and-management-team/",
+   "https://harviagroup.com/harvias-chair-of-the-board-of-directors-changes-catharina-stackelberg-hammaren-elected-as-the-new-chair/",
+   "https://www.globenewswire.com/news-release/2026/04/15/3274353/0/en/decisions-of-the-organisational-meeting-of-harvia-plc-s-board-of-directors-on-15-april-2026.html",
+   "https://harviagroup.com/about-us/our-story/",
+   "https://en.wikipedia.org/wiki/Harvia",
+   "https://www.marketscreener.com/quote/stock/HARVIA-OYJ-42470799/finances/",
+   "https://www.marketscreener.com/quote/stock/HARVIA-OYJ-42470799/company/"
+  ],
+  "suivi": {
+   "bilan": "Sur 6 conditions, 2 tiennent (croissance américaine, résistance aux droits de douane) et 4 sont à surveiller ; le plus fragile est la marge, passée sous l'objectif de 20 %, avec en arrière-plan un gros rachat possible dans l'infrarouge.",
+   "croire": [
+    {
+     "c": "Que la mode du sauna aux États-Unis est une tendance durable et non un effet de mode, avec une croissance forte pendant des années.",
+     "etat": "ok",
+     "preuve": "Amérique du Nord : +58,8 % au T1 2025, +12,0 % au T1 2026, +38,6 % au T2 2026 ; environ 90 M$ de ventes en 2025. Vapeur -13,8 % au T2 2026.",
+     "prochain": "Résultats 9 mois le 29/10/2026",
+     "reponse": "Les chiffres récents vont dans ce sens : la croissance américaine continue malgré une base de comparaison déjà élevée, et la direction vise plus de 100 M$ de ventes nord-américaines en 2026. La durabilité sur plusieurs années reste à prouver, d'autant que la vapeur (hammam) recule.",
+     "source": "https://www.saunanews.com/article/harvia-q2-2026-north-america-cabins-steam"
+    },
+    {
+     "c": "Que Harvia peut atteindre son objectif de 10 % de croissance annuelle moyenne tout en gardant une marge ajustée supérieure à 20 %.",
+     "etat": "watch",
+     "preuve": "S1 2026 : ventes 111,4 M€ (+12,2 %, 100 % organique), marge ajustée 19,3 % ; T1 2026 : 22,0 % ; T2 2026 : 16,2 %.",
+     "prochain": "Résultats 9 mois le 29/10/2026",
+     "reponse": "La croissance dépasse l'objectif, mais la marge est passée sous les 20 % : 19,6 % en 2025 et 19,3 % au S1 2026. Le rattrapage des livraisons au T3 doit montrer si la barre des 20 % peut être retrouvée.",
+     "source": "https://harviagroup.com/harvias-half-year-financial-review-1-january-30-june-2026/"
+    },
+    {
+     "c": "Que les ratés de 2026 (chantier informatique, Moyen-Orient) sont passagers.",
+     "etat": "watch",
+     "preuve": "S1 2026 : zone Asie-Pacifique, Moyen-Orient, Afrique -4,9 % ; Golfe environ 4 M€ de ventes par an dont jusqu'à la moitié à risque, soit environ 1 point de croissance du groupe.",
+     "prochain": "Résultats 9 mois le 29/10/2026",
+     "reponse": "Le chantier informatique semble passager : la direction attend la majorité des 4 M€ de livraisons décalées au T3, avec un possible reliquat au T4. Le Moyen-Orient reste perturbé mais pèse peu (environ 2 % des ventes).",
+     "source": "https://ng.investing.com/news/transcripts/earnings-call-transcript-harvia-q2-2026-revenue-rises-as-stock-jumps-11-93CH-2642251"
+    }
+   ],
+   "le": "2026-09-29",
+   "questions": [
+    {
+     "etat": "ok",
+     "preuve": "T2 2026 : ventes Amérique du Nord de 23,0 M€ (+38,6 %, environ +42 % en dollars), après +12,0 % au T1 2026 (+21,1 % en dollars) ; cabines et bains nordiques +44 %.",
+     "prochain": "Résultats 9 mois le 29/10/2026",
+     "q": "Les droits de douane américains et la concurrence locale menacent-ils la croissance en Amérique du Nord, premier marché du groupe ?",
+     "reponse": "Pas pour l'instant : l'Amérique du Nord accélère et pèse désormais 44 % des ventes. La direction dit avoir répercuté les droits de douane et la baisse du dollar par des hausses de prix, et fabrique une partie des cabines sur place à Lewisburg.",
+     "source": "https://www.saunanews.com/article/harvia-q2-2026-north-america-cabins-steam"
+    },
+    {
+     "etat": "watch",
+     "preuve": "Marge opérationnelle ajustée de 16,2 % au T2 2026 (contre 17,3 % un an plus tôt) et 19,3 % au S1 2026 (-90 points de base) ; environ 4 M€ de livraisons repoussées au S2.",
+     "prochain": "Résultats 9 mois le 29/10/2026",
+     "q": "Pourquoi la marge recule-t-elle légèrement alors que les ventes progressent (mix produits, coûts, prix) ?",
+     "reponse": "Surtout à cause de l'arrêt de trois semaines de l'usine de Muurame pour le nouveau logiciel de gestion, qui a décalé des poêles très rentables, et d'un mix moins favorable : les cabines, qui tirent la croissance américaine, ont une marge brute un peu plus faible que les poêles. Le premier effet est passager, le second peut durer.",
+     "source": "https://harviagroup.com/harvias-half-year-financial-review-1-january-30-june-2026/"
+    },
+    {
+     "etat": "watch",
+     "preuve": "Dette nette de 1,2 fois l'EBITDA ajusté fin juin 2026 (plafond de long terme : 2,5 fois) ; aucun rachat réalisé au S1 2026, « plusieurs discussions en cours » selon la direction.",
+     "prochain": "Annonce éventuelle d'un rachat à tout moment ; point sur la dette au 29/10/2026",
+     "q": "Les rachats futurs resteront-ils petits et bien intégrés, sans alourdir la dette ?",
+     "reponse": "La dette est basse, mais la direction cherche désormais un acteur « significatif » de l'infrarouge en Amérique du Nord et accepte de dépasser temporairement son plafond de 2,5 fois l'EBITDA. Elle reconnaît aussi ne pas être pleinement satisfaite de ThermaSol, son dernier rachat américain.",
+     "source": "https://ng.investing.com/news/transcripts/earnings-call-transcript-harvia-q2-2026-revenue-rises-as-stock-jumps-11-93CH-2642251"
+    }
+   ]
+  },
+  "verifieLe": "2026-09-29"
+ },
+ "src": "https://harviagroup.com/harvias-half-year-financial-review-1-january-30-june-2026/",
+ "statut": "surveiller",
+ "these": "Leader mondial du sauna, croissance à deux chiffres et marge proche de 20 %, porté par le bien-être aux États-Unis.",
+ "ticker": "HARVIA",
+ "yahoo": "HARVIA.HE",
+ "zb": "https://www.zonebourse.com/cours/action/HARVIA-OYJ-42470799/"
+}

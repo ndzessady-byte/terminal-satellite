@@ -1,0 +1,1441 @@
+{
+ "analyse": {
+  "aVerifier": "Moyenne 200 jours non lue. RSI divergent selon les sources (39,4 chez Boursorama le 25/09, 54,6 chez Zonebourse le 23/09). Objectif moyen des analystes : 74,62 € chez Boursorama (18/08), un autre site cite 83,60 € et un objectif Bernstein a 97 € non verifies. ROE calcule (P/B / PER) et non publie. Couverture des interets, F-score de Piotroski et multiples des concurrents non trouves.",
+  "actu": [
+   {
+    "d": "10/07",
+    "fait": "Deutsche Bank abaisse sa recommandation de positive a neutre (objectif releve de 65 a 75 €) en citant des risques sur tout le secteur des semi-conducteurs ; le titre perd 7 % sur la seance.",
+    "horizon": "court",
+    "impact": "negatif",
+    "lecture": "Montre que le titre reste sensible au sentiment sur les semi-conducteurs, meme si les raisons citees (IA, memoire) touchent peu le coeur automobile de Melexis."
+   },
+   {
+    "d": "29/07",
+    "fait": "Resultats T2 2026 : ventes de 217,1 M€ (+3 % sur un an, +7 % sur un trimestre), marge operationnelle de 17,8 %, objectif de 445 a 455 M€ de ventes au second semestre avec environ 18 % de marge operationnelle ; acompte sur dividende de 1,30 €.",
+    "horizon": "moyen",
+    "impact": "positif",
+    "lecture": "Confirme la sortie du creux de cycle et la remontee des marges, condition centrale du scenario de rebond du benefice en 2027."
+   },
+   {
+    "d": "31/08",
+    "fait": "Point d'etape sur le programme de rachat d'actions en cours (achats reguliers autour de 64 € mi septembre).",
+    "horizon": "court",
+    "impact": "positif",
+    "lecture": "Le rachat soutient le cours et montre que la direction juge l'action peu chere, mais il s'ajoute a un dividende deja superieur au benefice."
+   }
+  ],
+  "cadres": [
+   "Buffett / Fisher (qualite, rentabilite, marges)",
+   "Lynch (croissance, PEG)",
+   "Graham (solidite du bilan)",
+   "Greenblatt (formule magique)",
+   "Theorie de Dow",
+   "Weinstein (stades)",
+   "Minervini (partiel, MM200 manquante ou datee)"
+  ],
+  "conviction": "moyenne",
+  "fonda": {
+   "bilan": "Dette nette estimee a 287 M€ fin 2025 pour un EBITDA de 187 M€, soit environ 1,5 fois l'EBITDA, et 1,15 fois attendu fin 2026 (238 M€ pour 207 M€ d'EBITDA, Zonebourse). Endettement modere. Couverture des interets non trouvee dans les sources lues. Point de vigilance : le dividende (3,70 € par action) est superieur au BPA 2026 attendu (3,04 €), il est donc en partie finance par la dette ou la tresorerie.",
+   "croissance": "Ventes en baisse en 2025 (839,6 M€ contre 932,8 M€ en 2024) puis reprise attendue : 868,6 M€ en 2026, 952,7 M€ en 2027, 1 042 M€ en 2028 (consensus Zonebourse). BPA : 2,78 € en 2025, 3,04 € en 2026, 3,96 € en 2027, 4,75 € en 2028, soit environ +25 % par an entre 2026 et 2028. Au premier semestre 2026, ventes +2 % et benefice net -14 %. Objectif de ventes du second semestre : 445 a 455 M€.",
+   "greenblatt": "Rendement beneficiaire d'environ 5,3 % (EBIT 2026 de 157 M€ sur une valeur d'entreprise d'environ 2,9 Md€) pour une rentabilite des capitaux d'environ 28 % : tres bonne qualite, prix moyen.",
+   "justif": "Entreprise de grande qualite (rentabilite des fonds propres proche de 28 %) mais en bas de cycle automobile, avec un leger endettement et une valorisation qui n'est pas bon marche sur 2026.",
+   "peg": 0.88,
+   "piotroski": null,
+   "qualite": "Rentabilite des capitaux propres estimee a environ 28 % (calcul : P/B 2026 de 6,14 divise par PER 2026 de 22, donnees Zonebourse). Marge brute de 40,5 % et marge operationnelle de 17,8 % au T2 2026, contre 23,6 % en 2024 et 16 % en 2025 : la marge est elevee mais varie avec le cycle automobile. Position forte de niche (capteurs de position, de courant, pilotes de moteurs), 89 % des ventes dans l'automobile ; la robotique est un relais de croissance naissant.",
+   "score": 6,
+   "valo": "PER 22 en 2026 et 16,9 en 2027 ; VE/EBITDA 14,2 puis 11,7 ; rendement du flux de tresorerie libre attendu a 7,3 % en 2026 ; rendement du dividende 5,5 %. Moyenne 2021-2025 : PER d'environ 20 et VE/EBITDA d'environ 13,8. L'action est donc un peu plus chere que sa moyenne sur 2026 mais moins chere sur 2027 si le rebond du benefice se confirme. Comparaison chiffree avec les concurrents (Infineon, STMicro, NXP) non verifiee."
+  },
+  "majLe": "2026-09-28",
+  "revisions": "Non trouvé ce soir.",
+  "scenarios": [
+   {
+    "bas": 60,
+    "central": 67,
+    "haut": 75,
+    "horizon": "2 mois",
+    "hypotheses": "Le detachement de l'acompte de 1,30 € le 13/10 baisse mecaniquement le cours. Le chiffre du T3 le 28/10 (objectif 220 a 225 M€) decide de la sortie de la zone 62,80 a 70,80 € ; le haut correspond a l'objectif moyen des analystes (74,62 €).",
+    "unite": "€"
+   },
+   {
+    "bas": 52,
+    "central": 75,
+    "haut": 90,
+    "horizon": "12 mois",
+    "hypotheses": "BPA 2027 attendu de 3,96 € multiplie par un PER de 13 (bas, reprise automobile ratee), 19 (central, proche de la moyenne historique) ou 22,5 (haut, robotique et marges retrouvees vers 20 %).",
+    "unite": "€"
+   },
+   {
+    "bas": -3,
+    "central": 6,
+    "haut": 15,
+    "horizon": "5 ans",
+    "hypotheses": "Central : BPA +8 %/an, dividende 4,5 %, PER qui revient de 22 a 16 (environ -6 %/an), soit environ 6 %/an. Bas : BPA +3 %, dividende 4 %, PER vers 13 (-10 %/an). Haut : BPA +12 %, dividende 5 %, PER stable vers 20 (-2 %/an).",
+    "unite": "%/an"
+   },
+   {
+    "bas": 1,
+    "central": 8,
+    "haut": 12.5,
+    "horizon": "10-15 ans",
+    "hypotheses": "Sur 12 ans l'effet du PER est dilue. Central : BPA +6 %/an, dividende 4 %, PER de 22 a 17 (-2 %/an). Bas : BPA +2 %, dividende 3,5 %, PER vers 13 (-4 %/an). Haut : BPA +9 %, dividende 4,5 %, PER vers 20 (-1 %/an).",
+    "unite": "%/an"
+   }
+  ],
+  "sources": [
+   "https://www.melexis.com/en/news/2026/financial/melexis-q2-2026-results",
+   "https://www.zonebourse.com/cours/action/MELEXIS-N-V-5980/",
+   "https://www.zonebourse.com/cours/action/MELEXIS-N-V-5980/valorisation/",
+   "https://www.zonebourse.com/cours/action/MELEXIS-N-V-5980/finances/",
+   "https://www.boursorama.com/cours/FF11-MELE/",
+   "https://www.zonebourse.com/cours/action/MELEXIS-N-V-5980/cotations/",
+   "https://www.investtech.com/fr/market.php?CompanyID=32100404",
+   "https://www.investing.com/news/analyst-ratings/melexis-stock-tumbles-after-deutsche-bank-downgrade-4785501",
+   "https://www.melexis.com/en/investors/financial-calendar"
+  ],
+  "tech": {
+   "bas52": 49.86,
+   "cours": 67,
+   "coursLe": "2026-09-28",
+   "haut52": 85.8,
+   "lecture": "Cours de 67,00 en dessous de sa moyenne 50 jours (67,89) et au-dessus de sa moyenne 200 jours (66,48). RSI 50,5 : élan neutre. Il se situe à 48 % de sa fourchette sur un an (de 49,86 à 85,80), performance sur 12 mois de -1,8 %. Moyennes et RSI calculés sur les vraies clôtures (flux GitHub de 15h33).",
+   "mm200": 66.48,
+   "mm50": 67.89,
+   "resistance": 70.8,
+   "rsi14": 50.5,
+   "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json",
+   "stade": 3,
+   "support": 62.8,
+   "tendance": "neutre"
+  },
+  "verdict": "Melexis est un specialiste tres rentable des capteurs et puces pour l'automobile qui sort d'un creux de cycle : les marges remontent (17,8 % de marge operationnelle au T2) et le consensus attend un fort rebond du benefice en 2027. Le prix actuel (PER 2026 de 22) integre deja une partie de ce rebond, le graphique reste fragile sous ses moyennes, et le dividende eleve depasse aujourd'hui le benefice, ce qui limite la marge d'erreur.",
+  "zones": {
+   "catalyseurs": [
+    "13/10/2026 : detachement de l'acompte sur dividende de 1,30 €",
+    "28/10/2026 : resultats du T3 2026 (objectif 220 a 225 M€)",
+    "03/02/2027 : resultats annuels 2026 et objectifs 2027"
+   ],
+   "interet": "Entre 55 et 60 €, soit un PER 2027 d'environ 14 a 15, au niveau des multiples bas de 2024, et au dessus du plus bas annuel de 48,60 €.",
+   "invalidation": "Cloture sous 48,60 € (plus bas sur 52 semaines) ou baisse de l'objectif de ventes du second semestre sous 445 M€ avec une marge operationnelle qui repasse sous 15 %.",
+   "sortie": [
+    "Objectifs de ventes abaisses deux trimestres de suite",
+    "Marge operationnelle sous 15 % pendant deux trimestres",
+    "PER 2027 au dessus de 25 sans acceleration de la croissance",
+    "Baisse du dividende non expliquee par un investissement de croissance"
+   ]
+  }
+ },
+ "capi": "2,7 Md€",
+ "cours": 67,
+ "coursLe": "2026-09-28",
+ "devise": "€",
+ "faits": [
+  {
+   "d": "29/07",
+   "t": "T2 : CA 217,1 M€ (+3 % sur un an), marge opérationnelle 17,8 %. Prévision T3 : 220 à 225 M€, marge vers 18 %."
+  },
+  {
+   "d": "29/07",
+   "t": "Acompte sur dividende de 1,30 €, détachement le 13/10."
+  }
+ ],
+ "histo": [
+  [
+   "22/09",
+   66.7
+  ],
+  [
+   "23/09",
+   68.45
+  ],
+  [
+   "24/09",
+   68.65
+  ],
+  [
+   "25/09",
+   68.55
+  ],
+  [
+   "26/09",
+   67.6
+  ],
+  [
+   "29/09",
+   67.7
+  ],
+  [
+   "30/09",
+   67.45
+  ],
+  [
+   "01/10",
+   67.15
+  ],
+  [
+   "02/10",
+   68.4
+  ],
+  [
+   "03/10",
+   68.55
+  ],
+  [
+   "06/10",
+   68.55
+  ],
+  [
+   "07/10",
+   67.45
+  ],
+  [
+   "08/10",
+   66.35
+  ],
+  [
+   "09/10",
+   65.95
+  ],
+  [
+   "10/10",
+   64.4
+  ],
+  [
+   "13/10",
+   65.5
+  ],
+  [
+   "14/10",
+   63.45
+  ],
+  [
+   "15/10",
+   64.55
+  ],
+  [
+   "16/10",
+   64.5
+  ],
+  [
+   "17/10",
+   62.45
+  ],
+  [
+   "20/10",
+   63.6
+  ],
+  [
+   "21/10",
+   64.85
+  ],
+  [
+   "22/10",
+   62.65
+  ],
+  [
+   "23/10",
+   62.05
+  ],
+  [
+   "24/10",
+   62.05
+  ],
+  [
+   "27/10",
+   62.45
+  ],
+  [
+   "28/10",
+   62.15
+  ],
+  [
+   "29/10",
+   65
+  ],
+  [
+   "30/10",
+   65.2
+  ],
+  [
+   "31/10",
+   62.5
+  ],
+  [
+   "03/11",
+   61.3
+  ],
+  [
+   "04/11",
+   60.6
+  ],
+  [
+   "05/11",
+   57.85
+  ],
+  [
+   "06/11",
+   57.15
+  ],
+  [
+   "07/11",
+   57.15
+  ],
+  [
+   "10/11",
+   57.7
+  ],
+  [
+   "11/11",
+   57.3
+  ],
+  [
+   "12/11",
+   55.8
+  ],
+  [
+   "13/11",
+   56.3
+  ],
+  [
+   "14/11",
+   55.65
+  ],
+  [
+   "17/11",
+   54.6
+  ],
+  [
+   "18/11",
+   53.25
+  ],
+  [
+   "19/11",
+   53.35
+  ],
+  [
+   "20/11",
+   50.85
+  ],
+  [
+   "21/11",
+   50.45
+  ],
+  [
+   "24/11",
+   49.86
+  ],
+  [
+   "25/11",
+   49.9
+  ],
+  [
+   "26/11",
+   51.2
+  ],
+  [
+   "27/11",
+   52.25
+  ],
+  [
+   "28/11",
+   53
+  ],
+  [
+   "01/12",
+   53.5
+  ],
+  [
+   "02/12",
+   53.45
+  ],
+  [
+   "03/12",
+   56
+  ],
+  [
+   "04/12",
+   60.5
+  ],
+  [
+   "05/12",
+   61.45
+  ],
+  [
+   "08/12",
+   59.15
+  ],
+  [
+   "09/12",
+   59.05
+  ],
+  [
+   "10/12",
+   58.55
+  ],
+  [
+   "11/12",
+   58.25
+  ],
+  [
+   "12/12",
+   57.45
+  ],
+  [
+   "15/12",
+   57.05
+  ],
+  [
+   "16/12",
+   56.8
+  ],
+  [
+   "17/12",
+   56.05
+  ],
+  [
+   "18/12",
+   55.9
+  ],
+  [
+   "19/12",
+   56.85
+  ],
+  [
+   "22/12",
+   56.4
+  ],
+  [
+   "23/12",
+   56.7
+  ],
+  [
+   "24/12",
+   56.7
+  ],
+  [
+   "29/12",
+   56.85
+  ],
+  [
+   "30/12",
+   57.3
+  ],
+  [
+   "31/12",
+   57.5
+  ],
+  [
+   "02/01",
+   58.75
+  ],
+  [
+   "05/01",
+   60.55
+  ],
+  [
+   "06/01",
+   62
+  ],
+  [
+   "07/01",
+   61.95
+  ],
+  [
+   "08/01",
+   61.2
+  ],
+  [
+   "09/01",
+   62.85
+  ],
+  [
+   "12/01",
+   62.45
+  ],
+  [
+   "13/01",
+   63
+  ],
+  [
+   "14/01",
+   63.95
+  ],
+  [
+   "15/01",
+   66.45
+  ],
+  [
+   "16/01",
+   65.9
+  ],
+  [
+   "19/01",
+   63.5
+  ],
+  [
+   "20/01",
+   62.65
+  ],
+  [
+   "21/01",
+   63.7
+  ],
+  [
+   "22/01",
+   64.85
+  ],
+  [
+   "23/01",
+   63.5
+  ],
+  [
+   "26/01",
+   62.55
+  ],
+  [
+   "27/01",
+   63.7
+  ],
+  [
+   "28/01",
+   64.75
+  ],
+  [
+   "29/01",
+   62.95
+  ],
+  [
+   "30/01",
+   63.75
+  ],
+  [
+   "02/02",
+   63.45
+  ],
+  [
+   "03/02",
+   61.05
+  ],
+  [
+   "04/02",
+   57.75
+  ],
+  [
+   "05/02",
+   52.85
+  ],
+  [
+   "06/02",
+   53.25
+  ],
+  [
+   "09/02",
+   55.7
+  ],
+  [
+   "10/02",
+   57.4
+  ],
+  [
+   "11/02",
+   56.5
+  ],
+  [
+   "12/02",
+   55.65
+  ],
+  [
+   "13/02",
+   56.05
+  ],
+  [
+   "16/02",
+   56.15
+  ],
+  [
+   "17/02",
+   56.3
+  ],
+  [
+   "18/02",
+   58.8
+  ],
+  [
+   "19/02",
+   57.7
+  ],
+  [
+   "20/02",
+   57.55
+  ],
+  [
+   "23/02",
+   56.8
+  ],
+  [
+   "24/02",
+   58.4
+  ],
+  [
+   "25/02",
+   57.15
+  ],
+  [
+   "26/02",
+   57.2
+  ],
+  [
+   "27/02",
+   56.85
+  ],
+  [
+   "02/03",
+   56.2
+  ],
+  [
+   "03/03",
+   54.6
+  ],
+  [
+   "04/03",
+   55.6
+  ],
+  [
+   "05/03",
+   53.25
+  ],
+  [
+   "06/03",
+   53.25
+  ],
+  [
+   "09/03",
+   52.7
+  ],
+  [
+   "10/03",
+   54.3
+  ],
+  [
+   "11/03",
+   54.3
+  ],
+  [
+   "12/03",
+   53.9
+  ],
+  [
+   "13/03",
+   53.2
+  ],
+  [
+   "16/03",
+   53.5
+  ],
+  [
+   "17/03",
+   53.05
+  ],
+  [
+   "18/03",
+   52.95
+  ],
+  [
+   "19/03",
+   50.5
+  ],
+  [
+   "20/03",
+   50.6
+  ],
+  [
+   "23/03",
+   50.9
+  ],
+  [
+   "24/03",
+   50.9
+  ],
+  [
+   "25/03",
+   53.4
+  ],
+  [
+   "26/03",
+   53
+  ],
+  [
+   "27/03",
+   50.95
+  ],
+  [
+   "30/03",
+   51.6
+  ],
+  [
+   "31/03",
+   52.55
+  ],
+  [
+   "01/04",
+   54.85
+  ],
+  [
+   "02/04",
+   54.05
+  ],
+  [
+   "07/04",
+   53.5
+  ],
+  [
+   "08/04",
+   56.3
+  ],
+  [
+   "09/04",
+   55.35
+  ],
+  [
+   "10/04",
+   57.05
+  ],
+  [
+   "13/04",
+   56.95
+  ],
+  [
+   "14/04",
+   58.2
+  ],
+  [
+   "15/04",
+   58.75
+  ],
+  [
+   "16/04",
+   60.8
+  ],
+  [
+   "17/04",
+   63.7
+  ],
+  [
+   "20/04",
+   63.55
+  ],
+  [
+   "21/04",
+   65.3
+  ],
+  [
+   "22/04",
+   65.85
+  ],
+  [
+   "23/04",
+   68.65
+  ],
+  [
+   "24/04",
+   70.2
+  ],
+  [
+   "27/04",
+   71.1
+  ],
+  [
+   "28/04",
+   69.85
+  ],
+  [
+   "29/04",
+   67.5
+  ],
+  [
+   "30/04",
+   71.35
+  ],
+  [
+   "04/05",
+   72.05
+  ],
+  [
+   "05/05",
+   74.6
+  ],
+  [
+   "06/05",
+   76.7
+  ],
+  [
+   "07/05",
+   77
+  ],
+  [
+   "08/05",
+   78.45
+  ],
+  [
+   "11/05",
+   79.65
+  ],
+  [
+   "12/05",
+   76.35
+  ],
+  [
+   "13/05",
+   79.8
+  ],
+  [
+   "14/05",
+   80.7
+  ],
+  [
+   "15/05",
+   79.5
+  ],
+  [
+   "18/05",
+   78.25
+  ],
+  [
+   "19/05",
+   74.45
+  ],
+  [
+   "20/05",
+   77.85
+  ],
+  [
+   "21/05",
+   76.75
+  ],
+  [
+   "22/05",
+   81.45
+  ],
+  [
+   "25/05",
+   82.95
+  ],
+  [
+   "26/05",
+   81.05
+  ],
+  [
+   "27/05",
+   81.65
+  ],
+  [
+   "28/05",
+   83.35
+  ],
+  [
+   "29/05",
+   81.1
+  ],
+  [
+   "01/06",
+   81.35
+  ],
+  [
+   "02/06",
+   85.75
+  ],
+  [
+   "03/06",
+   85.8
+  ],
+  [
+   "04/06",
+   84.4
+  ],
+  [
+   "05/06",
+   80.5
+  ],
+  [
+   "08/06",
+   81.9
+  ],
+  [
+   "09/06",
+   79.2
+  ],
+  [
+   "10/06",
+   78.8
+  ],
+  [
+   "11/06",
+   81.15
+  ],
+  [
+   "12/06",
+   80.6
+  ],
+  [
+   "15/06",
+   82.35
+  ],
+  [
+   "16/06",
+   80.15
+  ],
+  [
+   "17/06",
+   80.75
+  ],
+  [
+   "18/06",
+   83
+  ],
+  [
+   "19/06",
+   82
+  ],
+  [
+   "22/06",
+   85
+  ],
+  [
+   "23/06",
+   81.25
+  ],
+  [
+   "24/06",
+   79.35
+  ],
+  [
+   "25/06",
+   79.1
+  ],
+  [
+   "26/06",
+   76.4
+  ],
+  [
+   "29/06",
+   76.55
+  ],
+  [
+   "30/06",
+   78.1
+  ],
+  [
+   "01/07",
+   78.35
+  ],
+  [
+   "02/07",
+   77.75
+  ],
+  [
+   "03/07",
+   78.55
+  ],
+  [
+   "06/07",
+   79.4
+  ],
+  [
+   "07/07",
+   72.7
+  ],
+  [
+   "08/07",
+   74
+  ],
+  [
+   "09/07",
+   77.85
+  ],
+  [
+   "10/07",
+   72.3
+  ],
+  [
+   "13/07",
+   75.55
+  ],
+  [
+   "14/07",
+   74.35
+  ],
+  [
+   "15/07",
+   73.2
+  ],
+  [
+   "16/07",
+   71.4
+  ],
+  [
+   "17/07",
+   69.95
+  ],
+  [
+   "20/07",
+   69.05
+  ],
+  [
+   "21/07",
+   72
+  ],
+  [
+   "22/07",
+   74.1
+  ],
+  [
+   "23/07",
+   72.35
+  ],
+  [
+   "24/07",
+   70.65
+  ],
+  [
+   "27/07",
+   68.65
+  ],
+  [
+   "28/07",
+   68.7
+  ],
+  [
+   "29/07",
+   67
+  ],
+  [
+   "30/07",
+   68.7
+  ],
+  [
+   "31/07",
+   68.3
+  ],
+  [
+   "03/08",
+   68.9
+  ],
+  [
+   "04/08",
+   70.85
+  ],
+  [
+   "05/08",
+   71.55
+  ],
+  [
+   "06/08",
+   71.35
+  ],
+  [
+   "07/08",
+   72
+  ],
+  [
+   "10/08",
+   71.8
+  ],
+  [
+   "11/08",
+   72.25
+  ],
+  [
+   "12/08",
+   72.5
+  ],
+  [
+   "13/08",
+   71.55
+  ],
+  [
+   "14/08",
+   70.75
+  ],
+  [
+   "17/08",
+   72
+  ],
+  [
+   "18/08",
+   67.3
+  ],
+  [
+   "19/08",
+   65.8
+  ],
+  [
+   "20/08",
+   65
+  ],
+  [
+   "21/08",
+   65
+  ],
+  [
+   "24/08",
+   63.8
+  ],
+  [
+   "25/08",
+   65.05
+  ],
+  [
+   "26/08",
+   65.2
+  ],
+  [
+   "27/08",
+   66
+  ],
+  [
+   "28/08",
+   66.2
+  ],
+  [
+   "31/08",
+   66
+  ],
+  [
+   "01/09",
+   64.4
+  ],
+  [
+   "02/09",
+   65
+  ],
+  [
+   "03/09",
+   65.1
+  ],
+  [
+   "04/09",
+   65.85
+  ],
+  [
+   "07/09",
+   67.85
+  ],
+  [
+   "08/09",
+   66.5
+  ],
+  [
+   "09/09",
+   65.9
+  ],
+  [
+   "10/09",
+   64.5
+  ],
+  [
+   "11/09",
+   66.45
+  ],
+  [
+   "14/09",
+   63.8
+  ],
+  [
+   "15/09",
+   64
+  ],
+  [
+   "16/09",
+   64.95
+  ],
+  [
+   "17/09",
+   65.45
+  ],
+  [
+   "18/09",
+   66.4
+  ],
+  [
+   "21/09",
+   68
+  ],
+  [
+   "22/09",
+   69.85
+  ],
+  [
+   "23/09",
+   68.65
+  ],
+  [
+   "24/09",
+   66.7
+  ],
+  [
+   "25/09",
+   66.8
+  ],
+  [
+   "28/09",
+   67
+  ]
+ ],
+ "nom": "Melexis",
+ "notes": "Clôture du 28/09 à 67,00 (ABC Bourse). Aucune nouvelle depuis le point sur le rachat d'actions du 14/09. Résultats T3 le 28/10.",
+ "pays": "BE",
+ "per26": 22,
+ "per27": 16.9,
+ "perf": {
+  "m1": 1.4,
+  "m12": -1.8,
+  "m3": -14.3
+ },
+ "pub": "2026-10-28",
+ "pubLabel": "Résultats du T3",
+ "risque": "Demande automobile fragile, effet euro/dollar, et un PER 2026 de 22x qui laisse peu de marge d'erreur.",
+ "secteur": "Semi-conducteurs automobiles",
+ "societe": {
+  "aVerifier": "Vérifié le 29/09/2026 sur les communiqués annuels Melexis 2021 à 2025 et les pages investisseurs (conseil d'administration, structure de l'actionnariat au 27/03/2026). Confirmés : ventes, résultat net, dividendes (2,60 ; 3,50 ; 3,70 ; 3,70 ; 3,70 €) et marge opérationnelle 2021 à 2025 ; margeOp = résultat opérationnel (EBIT) publié en % des ventes (148,4 ; 226,5 ; 261,3 ; 219,9 ; 134,0 M€). Part de l'automobile de 88 % en 2025 confirmée. Restent non vérifiés : dette nette 2021 à 2025 (les communiqués HTML ne la donnent pas, le rapport annuel et le PDF du communiqué n'ont pas pu être lus ; valeurs MarketScreener conservées, signe et périmètre IFRS 16 à confirmer) ; répartition géographique (MarketScreener, total d'environ 96 %) ; effectif (environ 2 000, non confirmé) ; date de fondation 1988 et faits 1988 à 2004 (sources non officielles) ; date d'arrivée de Karen Van Griensven comme CFO et de Françoise Chombar à la présidence ; qui se trouve derrière Sensinnovat BV ; concurrents (non sourcés) ; consensus 2026e (MarketScreener, source secondaire). Aucun changement de dirigeant ni grosse acquisition en 2026 repéré.",
+  "actionnariat": "Deux blocs de 25 % chacun contrôlent la moitié du capital : Elex BV (holding de Roland Duchâtelet) et Sensinnovat BV ; Invesco détient environ 5,2 %, la société environ 2,6 % d'actions autodétenues et le public environ 42,3 % (structure publiée par Melexis au 27/03/2026).",
+  "avantage": "Son atout est la qualité automobile : une puce doit fonctionner quinze ans sans faille entre -40 et +150 degrés, et une fois choisie pour un modèle elle est rarement remplacée, ce qui crée une barrière pour les nouveaux venus. Cet avantage peut s'éroder avec la montée de fournisseurs chinois moins chers, une baisse durable de la production automobile ou des géants qui proposent des puces plus intégrées.",
+  "chiffres": [
+   {
+    "annee": "2021",
+    "ca": 643.8,
+    "detteNette": -45.3,
+    "dividende": 2.6,
+    "margeOp": 23.1,
+    "rn": 131.1
+   },
+   {
+    "annee": "2022",
+    "ca": 836.2,
+    "detteNette": -85.1,
+    "dividende": 3.5,
+    "margeOp": 27.1,
+    "rn": 197.2
+   },
+   {
+    "annee": "2023",
+    "ca": 964.3,
+    "detteNette": 146,
+    "dividende": 3.7,
+    "margeOp": 27.1,
+    "rn": 209.5
+   },
+   {
+    "annee": "2024",
+    "ca": 932.8,
+    "detteNette": 184,
+    "dividende": 3.7,
+    "margeOp": 23.6,
+    "rn": 171.4
+   },
+   {
+    "annee": "2025",
+    "ca": 839.6,
+    "detteNette": 287,
+    "dividende": 3.7,
+    "margeOp": 16,
+    "rn": 112.5
+   },
+   {
+    "annee": "2026e",
+    "ca": 868.6,
+    "detteNette": 238,
+    "dividende": 3.7,
+    "margeOp": 18.1,
+    "rn": 121.9
+   }
+  ],
+  "clients": "Les clients sont surtout les grands équipementiers automobiles (ceux qui fabriquent les sous-ensembles vendus aux constructeurs) et leurs sous-traitants en électronique, dont une large part est facturée en Asie où ces pièces sont assemblées. La dépendance à un seul secteur, l'automobile, est très forte.",
+  "concurrents": [
+   "Infineon",
+   "STMicroelectronics",
+   "Allegro MicroSystems",
+   "NXP Semiconductors",
+   "TDK-Micronas"
+  ],
+  "corrections": [
+   "Président du conseil : Roland Duchâtelet -> Françoise Chombar (page Conseil d'administration de Melexis : « Chairwoman and co-founder », directrice générale de 2003 à 2021) ; Roland Duchâtelet reste administrateur depuis avril 1994.",
+   "Marc Biron : rôle précisé (CEO depuis 2021, chez Melexis depuis 1997, page du conseil).",
+   "Actionnariat : « Roland Duchâtelet environ 25 % et Sensinnovat environ 25 % » -> Elex BV 25,00 % et Sensinnovat BV 25,00 %, Invesco 5,15 %, autodétention 2,59 %, public 42,25 % (structure de l'actionnariat publiée par Melexis au 27/03/2026).",
+   "Histoire 2021, 2023 et 2025 précisées avec les chiffres des communiqués (EBIT 2023 261,3 M€, 27,1 %, dividende 2025 3,70 €)."
+  ],
+  "croire": [
+   "Que la baisse de 2024-2025 n'était qu'un déstockage passager et que les ventes repartent avec la production automobile et l'électrification.",
+   "Que la marge opérationnelle peut remonter vers 20 % ou plus malgré la concurrence chinoise sur les prix.",
+   "Que le dividende de 3,70 € par action reste tenable alors que le bénéfice par action est tombé à 2,78 € en 2025."
+  ],
+  "devise": "€",
+  "dirigeants": [
+   {
+    "depuis": 2021,
+    "nom": "Marc Biron",
+    "role": "Directeur général (CEO), chez Melexis depuis 1997"
+   },
+   {
+    "depuis": null,
+    "nom": "Françoise Chombar",
+    "role": "Présidente du conseil d'administration, cofondatrice, ancienne directrice générale (2003 à 2021)"
+   },
+   {
+    "depuis": 1994,
+    "nom": "Roland Duchâtelet",
+    "role": "Administrateur et actionnaire (via Elex BV), au conseil depuis avril 1994"
+   },
+   {
+    "depuis": 2010,
+    "nom": "Karen Van Griensven",
+    "role": "Directrice financière (CFO)"
+   }
+  ],
+  "effectifs": 2000,
+  "fondee": 1988,
+  "geo": [
+   {
+    "part": 63.7,
+    "zone": "Asie (Asie-Pacifique, Hong Kong, Chine)"
+   },
+   {
+    "part": 28.5,
+    "zone": "Europe, Moyen-Orient, Afrique (dont Allemagne 10 %, France 3 %, Suisse 2,4 %)"
+   },
+   {
+    "part": 3.9,
+    "zone": "Amériques"
+   }
+  ],
+  "histoire": [
+   {
+    "annee": 1988,
+    "fait": "Origine de l'entreprise sous le nom de Bulcke Hybrid, fondée par Fred Bulcke en Belgique."
+   },
+   {
+    "annee": 1994,
+    "fait": "Rachat par le groupe Elex de Roland Duchâtelet et Rudi De Winter, qui en font Melexis."
+   },
+   {
+    "annee": 1997,
+    "fait": "Entrée en Bourse sur l'Easdaq (marché européen de valeurs technologiques) et rachat de l'américain MikroChips, devenu Melexis Inc. La cotation a ensuite été transférée à Euronext Bruxelles."
+   },
+   {
+    "annee": 1999,
+    "fait": "Rachat de l'allemand Thesys Mikroelektronik (devenu Melexis GmbH)."
+   },
+   {
+    "annee": 2004,
+    "fait": "Rachat du suisse Sentron, spécialiste des capteurs magnétiques."
+   },
+   {
+    "annee": 2021,
+    "fait": "Marc Biron, chez Melexis depuis 1997, devient directeur général et succède à Françoise Chombar (directrice générale de 2003 à 2021), qui prend la présidence du conseil ; ventes de 643,8 M€ (+27 %)."
+   },
+   {
+    "annee": 2023,
+    "fait": "Sommet historique : 964,3 M€ de ventes et un résultat opérationnel de 261,3 M€ (27,1 % des ventes), portés par l'électrification des voitures."
+   },
+   {
+    "annee": 2025,
+    "fait": "Ventes en recul de 10 % à 839,6 M€ et marge opérationnelle ramenée à 16,0 %, les constructeurs et équipementiers ayant réduit leurs stocks de puces ; dividende maintenu à 3,70 €."
+   }
+  ],
+  "modele": "Melexis est une société dite « fabless » : elle invente et teste ses puces mais confie la fabrication des plaquettes de silicium à des fondeurs, principalement X-Fab. Elle vend des composants à l'unité (quelques euros chacun) mais en énorme volume, sur des modèles de voitures qui restent en production plusieurs années, ce qui rend les revenus assez récurrents une fois la puce choisie. Son pouvoir de fixer les prix vient de la difficulté pour un client de changer de fournisseur une fois la puce homologuée, mais il reste limité face à de très grands clients.",
+  "questions": [
+   "Le dividende est-il encore couvert par le bénéfice et le flux de trésorerie, ou faut-il s'attendre à une baisse ?",
+   "Quelle part des ventes est exposée aux constructeurs chinois et aux concurrents chinois qui cassent les prix ?",
+   "Les nouveaux produits (voiture électrique, robots, hors automobile) arrivent-ils assez vite pour réduire la dépendance à l'automobile classique ?"
+  ],
+  "resume": "Melexis conçoit des puces électroniques (semi-conducteurs) qui servent de « sens » et de « muscles » aux voitures : des capteurs qui mesurent une position, un courant, une pression ou une température, et des puces qui pilotent de petits moteurs. Quand vous réglez votre rétroviseur électrique, que la climatisation ajuste un volet d'air ou que la voiture surveille la pression de vos pneus, il y a de bonnes chances qu'une puce Melexis travaille en coulisse. Environ neuf ventes sur dix vont à l'industrie automobile.",
+  "segments": [
+   {
+    "detail": "Capteurs (position, courant, pression, température, pneus) et puces de pilotage de moteurs pour voitures, dont les voitures électriques.",
+    "nom": "Automobile",
+    "part": 88
+   },
+   {
+    "detail": "Industrie, maison connectée, électroménager, médical et autres usages hors voiture.",
+    "nom": "Autres marchés",
+    "part": 12
+   }
+  ],
+  "siege": "Ypres (Ieper), Belgique",
+  "site": "https://www.melexis.com",
+  "sources": [
+   "https://www.melexis.com/en/news/2026/financial/melexis-q4-2025-results",
+   "https://www.melexis.com/en/news/2025/financial/melexis-q4-2024-results",
+   "https://www.melexis.com/en/news/2024/financial/melexis-q4-and-fy-2023-results",
+   "https://www.melexis.com/en/news/2023/financial/melexis-q4-and-fy-2022-results",
+   "https://www.melexis.com/en/news/2022/financial/melexis-q4-and-fy-2021-results",
+   "https://www.melexis.com/en/investors/share-information/shareholders-structure",
+   "https://www.melexis.com/en/investors/corporate-governance/board-of-directors",
+   "https://www.melexis.com/en/investors/results-and-presentations/financial-reports/annual-report-detail-2025",
+   "https://www.marketscreener.com/quote/stock/MELEXIS-N-V-5980/finances/",
+   "https://www.marketscreener.com/quote/stock/MELEXIS-N-V-5980/company/",
+   "https://en-academic.com/dic.nsf/enwiki/7649896"
+  ],
+  "suivi": {
+   "bilan": "1 condition sur 3 tient (la sortie du déstockage) ; le plus fragile est le dividende de 3,70 €, pas couvert par le bénéfice 2026, avec une marge encore vers 18 % et une dépendance croissante aux clients chinois.",
+   "croire": [
+    {
+     "c": "Que la baisse de 2024-2025 n'était qu'un déstockage passager et que les ventes repartent avec la production automobile et l'électrification.",
+     "etat": "ok",
+     "preuve": "T2 2026 : ventes 217,1 M€ (+3 % sur un an, +7 % sur un trimestre) ; objectif S2 2026 : 445 à 455 M€ contre 419,2 M€ au S1.",
+     "prochain": "Résultats T3 le 28/10/2026",
+     "reponse": "Oui, la reprise se confirme : les ventes remontent trimestre après trimestre et la direction attend un second semestre plus fort, porté par la Chine.",
+     "source": "https://www.melexis.com/en/news/2026/financial/melexis-q2-2026-results"
+    },
+    {
+     "c": "Que la marge opérationnelle peut remonter vers 20 % ou plus malgré la concurrence chinoise sur les prix.",
+     "etat": "watch",
+     "preuve": "Marge opérationnelle : 16,0 % en 2025, 17,8 % au T2 2026, environ 18 % visé au S2 2026 ; marge brute 40,5 % au T2.",
+     "prochain": "Résultats T3 le 28/10/2026",
+     "reponse": "La marge remonte mais reste loin de 20 % : la direction vise environ 18 % au S2 et ne donne pas de date pour 20 %. Elle vise à long terme une marge brute d'environ 45 %.",
+     "source": "https://www.melexis.com/en/news/2026/financial/melexis-q2-2026-results"
+    },
+    {
+     "c": "Que le dividende de 3,70 € par action reste tenable alors que le bénéfice par action est tombé à 2,78 € en 2025.",
+     "etat": "watch",
+     "preuve": "Consensus BPA 3,04 € en 2026 et 3,96 € en 2027 pour un dividende de 3,70 € ; dette nette 287 M€ fin 2025, soit environ 1,5 fois l'EBITDA (Zonebourse).",
+     "prochain": "Résultats annuels 2026 et proposition de dividende (début février 2027)",
+     "reponse": "Tenable à court terme grâce au flux de trésorerie et à une dette modérée, mais le bénéfice ne le couvre pas encore : il faut le rebond attendu de 2027.",
+     "source": "https://www.melexis.com/en/news/2026/financial/melexis-q2-2026-results"
+    }
+   ],
+   "le": "2026-09-29",
+   "questions": [
+    {
+     "etat": "watch",
+     "preuve": "BPA S1 2026 : 1,33 € ; consensus 2026 : 3,04 € contre 3,70 € de dividende ; rendement du flux de trésorerie libre attendu 7,3 % contre 5,5 % pour le dividende (Zonebourse).",
+     "prochain": "Détachement de l'acompte le 13/10/2026, résultats T3 le 28/10/2026",
+     "q": "Le dividende est-il encore couvert par le bénéfice et le flux de trésorerie, ou faut-il s'attendre à une baisse ?",
+     "reponse": "Pas par le bénéfice : le bénéfice par action attendu en 2026 reste inférieur au dividende. Le flux de trésorerie libre attendu le couvre en revanche, et l'acompte a été maintenu à 1,30 €.",
+     "source": "https://www.melexis.com/en/news/2026/financial/melexis-q2-2026-results"
+    },
+    {
+     "etat": "watch",
+     "preuve": "2025 : Chine 13,6 % et Hong Kong 15,3 % des ventes ; T2 2026 : croissance « mainly, if not only » chez les clients chinois.",
+     "prochain": "Résultats T3 le 28/10/2026",
+     "q": "Quelle part des ventes est exposée aux constructeurs chinois et aux concurrents chinois qui cassent les prix ?",
+     "reponse": "Environ 29 % des ventes 2025 sont facturées en Chine et à Hong Kong. La croissance récente vient presque seulement des clients chinois, et la direction reconnaît que la principale concurrence nouvelle est chinoise.",
+     "source": "https://www.investing.com/news/transcripts/earnings-call-transcript-melexis-posts-stronger-q2-2026-margins-shares-slip-93CH-4819054"
+    },
+    {
+     "etat": "watch",
+     "preuve": "T2 2026 : automobile 89 % des ventes (88 % en 2025) ; 10 M€ de ventes robotique en 2027 jugé « un peu tôt » à confirmer par le PDG.",
+     "prochain": "Résultats T3 le 28/10/2026",
+     "q": "Les nouveaux produits (voiture électrique, robots, hors automobile) arrivent-ils assez vite pour réduire la dépendance à l'automobile classique ?",
+     "reponse": "Pas encore assez vite : la robotique décolle (quatre contrats gagnés au T2) mais reste petite, et les centres de données ne sont pas encore significatifs. L'automobile pèse toujours autant.",
+     "source": "https://www.investing.com/news/transcripts/earnings-call-transcript-melexis-posts-stronger-q2-2026-margins-shares-slip-93CH-4819054"
+    }
+   ]
+  },
+  "verifieLe": "2026-09-29"
+ },
+ "src": "https://www.melexis.com/en/news/2026/financial/melexis-q2-2026-results",
+ "statut": "surveiller",
+ "these": "Leader des capteurs et puces pour l'auto, doit profiter de la reprise et de l'électrification, marges qui remontent.",
+ "ticker": "MELE",
+ "yahoo": "MELE.BR",
+ "zb": "https://www.zonebourse.com/cours/action/MELEXIS-N-V-5980/"
+}

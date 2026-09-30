@@ -1,0 +1,1461 @@
+{
+ "analyse": {
+  "aVerifier": "Cours lu en seance le 28/09 a 11h29 (cloture du 25/09 non lue). Moyenne 200 jours datee du 14/09. RSI de 60 affiche par Boursorama peu coherent avec la baisse recente, a verifier. Plus haut et plus bas annuels differents selon la place (109,20/55,10 € Xetra, 108,40/55,65 € Tradegate). PEG calcule sur la croissance 2025-2028 (environ 9 %/an) car le BPA est quasi plat apres 2026. Couverture des interets sans objet (tresorerie nette), F-score de Piotroski et multiples des concurrents non trouves. Montant du rachat de Meter-Q non verifie.",
+  "actu": [
+   {
+    "d": "05/06",
+    "fait": "Le gouvernement allemand oriente l'extension du reseau electrique vers des lignes aeriennes moins couteuses plutot que des cables enterres, metier cle de Vorwerk ; le titre perd plus de 30 % en un mois.",
+    "horizon": "long",
+    "impact": "negatif",
+    "lecture": "C'est le principal risque de la these : si les grands corridors passent en aerien, la croissance des commandes apres les projets en cours ralentit fortement."
+   },
+   {
+    "d": "22/07",
+    "fait": "Resultats du premier semestre : EBITDA +70 % a 92,6 M€, ventes +11 %, carnet de commandes d'environ 1 Md€, tresorerie nette de 212 M€ ; objectif d'EBITDA 2026 releve de 160-180 M€ a 180-200 M€.",
+    "horizon": "moyen",
+    "impact": "positif",
+    "lecture": "Montre que les projets deja signes sont tres rentables et donnent de la visibilite sur 2026 et 2027."
+   },
+   {
+    "d": "12/08",
+    "fait": "Une filiale rachete Meter-Q Solutions.",
+    "horizon": "moyen",
+    "impact": "neutre",
+    "lecture": "Petite acquisition qui peut diversifier l'activite, montant non verifie."
+   },
+   {
+    "d": "24/09",
+    "fait": "Berenberg reste positif avec un objectif de 110 € en citant le plan de relance budgetaire allemand, alors que Jefferies (26/08) reste neutre a 72 € en jugeant l'avenir incertain.",
+    "horizon": "court",
+    "impact": "neutre",
+    "lecture": "Ecart tres large entre analystes : le marche attend des signaux concrets (nouvelles commandes, texte de loi) pour trancher."
+   }
+  ],
+  "cadres": [
+   "Buffett / Fisher (qualite, rentabilite, marges)",
+   "Lynch (croissance, PEG)",
+   "Graham (solidite du bilan)",
+   "Greenblatt (formule magique)",
+   "Theorie de Dow",
+   "Weinstein (stades)",
+   "Minervini (partiel, MM200 manquante ou datee)"
+  ],
+  "conviction": "moyenne",
+  "fonda": {
+   "bilan": "Tresorerie nette de 212 M€ fin juin 2026, et 288 M€ attendus fin 2026 selon le consensus Zonebourse, soit environ 20 % de la capitalisation. Pas de dette nette, donc aucun risque financier a court terme.",
+   "croissance": "Ventes de 373 M€ en 2023, 704 M€ en 2025, 772 M€ attendus en 2026, 867 M€ en 2027 et 947 M€ en 2028. BPA : 4,33 € en 2025, 5,53 € en 2026, puis 5,66 € en 2027 et 5,59 € en 2028, soit un benefice quasi plat apres 2026. Premier semestre 2026 : ventes +11 % a 337,3 M€, EBITDA +70 % a 92,6 M€. Prises de commandes du semestre (321 M€) un peu inferieures au chiffre d'affaires.",
+   "greenblatt": "Rendement beneficiaire tres eleve d'environ 17 % (EBIT 2026 de 167,5 M€ sur une valeur d'entreprise d'environ 1 Md€ apres deduction de la tresorerie) et rentabilite d'environ 29 % : la formule magique classe le titre tres haut, sous reserve que ces benefices durent.",
+   "justif": "Bilan tres solide et valorisation faible pour une rentabilite actuelle excellente, mais activite par projets tres cyclique et forte incertitude politique sur les commandes futures.",
+   "peg": 1.3,
+   "piotroski": null,
+   "qualite": "Marge operationnelle passee de 3,8 % en 2023 a 11,9 % en 2024, 19,4 % en 2025 et 21,7 % attendue en 2026 : le niveau actuel est excellent mais l'historique montre qu'il peut chuter vite. Rentabilite des fonds propres estimee a environ 29 % (P/B 2026 de 3,42 divise par PER 2026 de 11,6). Position forte dans les reseaux de gaz, d'hydrogene et d'electricite enterres en Allemagne, carnet de commandes d'environ 1 Md€.",
+   "score": 7,
+   "valo": "PER 11,6 en 2026 et 11,3 en 2027 ; VE/EBITDA 5,0 puis 4,4 ; rendement du flux de tresorerie libre de 8,8 % ; dividende 2 %. Moyenne 2021-2025 : PER d'environ 22 et VE/EBITDA d'environ 7,7. L'action est donc nettement moins chere que son historique, ce qui reflete le doute sur les commandes futures. Multiples des concurrents non verifies."
+  },
+  "majLe": "2026-09-28",
+  "revisions": "Non trouvé. BPA 2026 attendu vers 5,25 € (onvista), objectif moyen 90 € (wallstreet-online).",
+  "scenarios": [
+   {
+    "bas": 54,
+    "central": 64,
+    "haut": 74,
+    "horizon": "2 mois",
+    "hypotheses": "Le T3 du 12/11 (prises de commandes, confirmation de l'objectif) et l'avancee du projet de loi sur le reseau electrique sont les juges de paix. Bas : test du bas de canal vers 54 €. Haut : retour vers la moyenne 200 jours.",
+    "unite": "€"
+   },
+   {
+    "bas": 50,
+    "central": 72,
+    "haut": 90,
+    "horizon": "12 mois",
+    "hypotheses": "BPA 2027 attendu de 5,66 € multiplie par un PER de 9 (bas, commandes en baisse), 12,5 (central) ou 16 (haut, commandes relancees par le plan d'investissement allemand). L'objectif moyen des analystes (97,83 €) est plus eleve que notre haut.",
+    "unite": "€"
+   },
+   {
+    "bas": -7,
+    "central": 6,
+    "haut": 17,
+    "horizon": "5 ans",
+    "hypotheses": "Central : BPA +3 %/an, dividende 2 %, PER stable vers 12 (+0,7 %/an), soit environ 6 %/an. Bas : marges qui retombent vers 12 %, BPA -6 %/an, dividende 1,5 %, PER vers 10 (-3 %/an). Haut : BPA +8 %, dividende 2,5 %, PER vers 16 (+6,6 %/an).",
+    "unite": "%/an"
+   },
+   {
+    "bas": -2.5,
+    "central": 5.5,
+    "haut": 12,
+    "horizon": "10-15 ans",
+    "hypotheses": "Sur 12 ans : central BPA +3 %/an, dividende 2 %, PER quasi stable. Bas : BPA -3 %, dividende 1,5 %, PER vers 10 (-1,2 %/an). Haut : BPA +7 %, dividende 2,5 %, PER vers 16 (+2,7 %/an). La tresorerie accumulee peut ajouter du rendement si elle est bien utilisee.",
+    "unite": "%/an"
+   }
+  ],
+  "sources": [
+   "https://www.webdisclosure.com/article/friedrich-vorwerk-group-se-epa-friedrich-vorwerk-reports-70-ebitda-growth-in-h1-2026-raises-full-year-forecast-SFVdRSynTAo",
+   "https://www.zonebourse.com/cours/action/FRIEDRICH-VORWERK-GROUP-S-120380247/",
+   "https://www.zonebourse.com/cours/action/FRIEDRICH-VORWERK-GROUP-S-120380247/valorisation/",
+   "https://www.zonebourse.com/cours/action/FRIEDRICH-VORWERK-GROUP-S-120380247/finances/",
+   "https://www.boursorama.com/cours/1zVH2/",
+   "https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/friedrich-vorwerk-aktie-kurs-faellt-unter-200-tage-linie/70098661",
+   "https://www.finanzen.net/nachricht/aktien/friedrich-vorwerk-die-schmerzen-sind-wohl-noch-nicht-vorbei-15934814",
+   "https://www.wallstreet-online.de/nachricht/21141890-gesetz-bremst-vorwerk-aktie-faellt-20-berenberg-kursziel-110",
+   "https://www.wallstreet-online.de/nachricht/21432561-berenberg-stuft-friedrich-vorwerk-buy",
+   "https://www.boerse-express.com/news/articles/friedrich-vorwerk-aktie-3036-minus-in-30-tagen-913819",
+   "https://www.friedrich-vorwerk-group.de/en/investor-relations/financial-calendar/"
+  ],
+  "tech": {
+   "bas52": 56.75,
+   "cours": 62.95,
+   "coursLe": "2026-09-28",
+   "haut52": 104.6,
+   "lecture": "Cours de 62,95 en dessous de sa moyenne 50 jours (68,42) et en dessous de sa moyenne 200 jours (73,98). RSI 39,0 : élan neutre. Il se situe à 13 % de sa fourchette sur un an (de 56,75 à 104,60), performance sur 12 mois de -23,0 %. Moyennes et RSI calculés sur les vraies clôtures (flux GitHub de 15h33).",
+   "mm200": 73.98,
+   "mm50": 68.42,
+   "resistance": 68.4,
+   "rsi14": 39,
+   "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json",
+   "stade": 4,
+   "support": 61,
+   "tendance": "baissiere"
+  },
+  "verdict": "Friedrich Vorwerk affiche des resultats records (EBITDA semestriel +70 %, objectif annuel releve a 180 a 200 M€), une tresorerie nette de 212 M€ et une valorisation basse (PER 2026 de 11,6, VE/EBITDA de 5). Mais le cours est en tendance baissiere depuis que l'Allemagne envisage de privilegier les lignes aeriennes aux cables enterres, ce qui menace la croissance future, et le consensus ne voit presque plus de hausse du benefice apres 2026.",
+  "zones": {
+   "catalyseurs": [
+    "12/11/2026 : resultats du T3 2026 (prises de commandes)",
+    "23-25/11/2026 : German Equity Forum a Francfort",
+    "Avancee du projet de loi allemand sur les lignes aeriennes contre cables enterres (date non connue)"
+   ],
+   "interet": "Entre 55 et 58 € : zone du plus bas annuel (55,10 €) et proche du bas de canal (54 €), soit un PER 2027 d'environ 10 avec environ 14 € de tresorerie nette par action attendue fin 2026.",
+   "invalidation": "Cloture sous 54 € ou baisse de l'objectif d'EBITDA 2026, ou carnet de commandes qui passe sous 800 M€.",
+   "sortie": [
+    "Carnet de commandes en baisse deux semestres de suite",
+    "Marge d'EBITDA sous 15 %",
+    "Confirmation du passage en aerien des grands corridors avec annulation de projets deja attribues"
+   ]
+  }
+ },
+ "capi": "1,3 Md€",
+ "cours": 62.95,
+ "coursLe": "2026-09-28",
+ "devise": "€",
+ "faits": [
+  {
+   "d": "25/09",
+   "t": "Berenberg maintient Achat, objectif 110 € : la relance allemande l'emporte sur le bruit politique."
+  },
+  {
+   "d": "22/07",
+   "t": "S1 : CA 337,3 M€ (+11 %), EBITDA 92,6 M€ (+70 %). Prévision d'EBITDA 2026 relevée à 180-200 M€. Carnet 1 005 M€."
+  }
+ ],
+ "histo": [
+  [
+   "18/09",
+   78.1
+  ],
+  [
+   "19/09",
+   76.5
+  ],
+  [
+   "22/09",
+   78
+  ],
+  [
+   "23/09",
+   79
+  ],
+  [
+   "24/09",
+   81.1
+  ],
+  [
+   "25/09",
+   82
+  ],
+  [
+   "26/09",
+   81.9
+  ],
+  [
+   "29/09",
+   81.4
+  ],
+  [
+   "30/09",
+   81.9
+  ],
+  [
+   "01/10",
+   80.7
+  ],
+  [
+   "02/10",
+   82.4
+  ],
+  [
+   "03/10",
+   84.6
+  ],
+  [
+   "06/10",
+   87
+  ],
+  [
+   "07/10",
+   87
+  ],
+  [
+   "08/10",
+   92
+  ],
+  [
+   "09/10",
+   95.2
+  ],
+  [
+   "10/10",
+   93
+  ],
+  [
+   "13/10",
+   90.7
+  ],
+  [
+   "14/10",
+   88.6
+  ],
+  [
+   "15/10",
+   82.1
+  ],
+  [
+   "16/10",
+   82.6
+  ],
+  [
+   "17/10",
+   79.8
+  ],
+  [
+   "20/10",
+   84.4
+  ],
+  [
+   "21/10",
+   100.4
+  ],
+  [
+   "22/10",
+   103.2
+  ],
+  [
+   "23/10",
+   102.8
+  ],
+  [
+   "24/10",
+   103.4
+  ],
+  [
+   "27/10",
+   104.6
+  ],
+  [
+   "28/10",
+   100.6
+  ],
+  [
+   "29/10",
+   98.8
+  ],
+  [
+   "30/10",
+   96.7
+  ],
+  [
+   "31/10",
+   93.1
+  ],
+  [
+   "03/11",
+   91.7
+  ],
+  [
+   "04/11",
+   91.8
+  ],
+  [
+   "05/11",
+   92.1
+  ],
+  [
+   "06/11",
+   90.3
+  ],
+  [
+   "07/11",
+   85.9
+  ],
+  [
+   "10/11",
+   90.6
+  ],
+  [
+   "11/11",
+   87.5
+  ],
+  [
+   "12/11",
+   86.3
+  ],
+  [
+   "13/11",
+   87.5
+  ],
+  [
+   "14/11",
+   83.3
+  ],
+  [
+   "17/11",
+   85.2
+  ],
+  [
+   "18/11",
+   84.2
+  ],
+  [
+   "19/11",
+   87.1
+  ],
+  [
+   "20/11",
+   88.6
+  ],
+  [
+   "21/11",
+   85.5
+  ],
+  [
+   "24/11",
+   86.3
+  ],
+  [
+   "25/11",
+   82.6
+  ],
+  [
+   "26/11",
+   83.7
+  ],
+  [
+   "27/11",
+   80.7
+  ],
+  [
+   "28/11",
+   80.3
+  ],
+  [
+   "01/12",
+   76.7
+  ],
+  [
+   "02/12",
+   76.7
+  ],
+  [
+   "03/12",
+   79.1
+  ],
+  [
+   "04/12",
+   84.3
+  ],
+  [
+   "05/12",
+   84.7
+  ],
+  [
+   "08/12",
+   87
+  ],
+  [
+   "09/12",
+   86.8
+  ],
+  [
+   "10/12",
+   85.7
+  ],
+  [
+   "11/12",
+   83.2
+  ],
+  [
+   "12/12",
+   80.4
+  ],
+  [
+   "15/12",
+   81.6
+  ],
+  [
+   "16/12",
+   80
+  ],
+  [
+   "17/12",
+   78.1
+  ],
+  [
+   "18/12",
+   82.1
+  ],
+  [
+   "19/12",
+   83
+  ],
+  [
+   "22/12",
+   81.3
+  ],
+  [
+   "23/12",
+   81
+  ],
+  [
+   "29/12",
+   81.2
+  ],
+  [
+   "30/12",
+   81.6
+  ],
+  [
+   "02/01",
+   84.7
+  ],
+  [
+   "05/01",
+   87.3
+  ],
+  [
+   "06/01",
+   86.9
+  ],
+  [
+   "07/01",
+   88.3
+  ],
+  [
+   "08/01",
+   85.3
+  ],
+  [
+   "09/01",
+   85.2
+  ],
+  [
+   "12/01",
+   84.9
+  ],
+  [
+   "13/01",
+   85.2
+  ],
+  [
+   "14/01",
+   81.3
+  ],
+  [
+   "15/01",
+   80.7
+  ],
+  [
+   "16/01",
+   82.7
+  ],
+  [
+   "19/01",
+   80.4
+  ],
+  [
+   "20/01",
+   78.2
+  ],
+  [
+   "21/01",
+   84.8
+  ],
+  [
+   "22/01",
+   87.9
+  ],
+  [
+   "23/01",
+   88.7
+  ],
+  [
+   "26/01",
+   95.2
+  ],
+  [
+   "27/01",
+   95.3
+  ],
+  [
+   "28/01",
+   90.5
+  ],
+  [
+   "29/01",
+   91.5
+  ],
+  [
+   "30/01",
+   90.4
+  ],
+  [
+   "02/02",
+   92.5
+  ],
+  [
+   "03/02",
+   90.7
+  ],
+  [
+   "04/02",
+   84.5
+  ],
+  [
+   "05/02",
+   82.9
+  ],
+  [
+   "06/02",
+   82.5
+  ],
+  [
+   "09/02",
+   87.5
+  ],
+  [
+   "10/02",
+   86.3
+  ],
+  [
+   "11/02",
+   87.6
+  ],
+  [
+   "12/02",
+   83.2
+  ],
+  [
+   "13/02",
+   87.2
+  ],
+  [
+   "16/02",
+   88.1
+  ],
+  [
+   "17/02",
+   86.4
+  ],
+  [
+   "18/02",
+   86.1
+  ],
+  [
+   "19/02",
+   84
+  ],
+  [
+   "20/02",
+   80.4
+  ],
+  [
+   "23/02",
+   79.4
+  ],
+  [
+   "24/02",
+   80
+  ],
+  [
+   "25/02",
+   81.3
+  ],
+  [
+   "26/02",
+   81.5
+  ],
+  [
+   "27/02",
+   80.4
+  ],
+  [
+   "02/03",
+   80.8
+  ],
+  [
+   "03/03",
+   81
+  ],
+  [
+   "04/03",
+   81.9
+  ],
+  [
+   "05/03",
+   82
+  ],
+  [
+   "06/03",
+   82.3
+  ],
+  [
+   "09/03",
+   81.5
+  ],
+  [
+   "10/03",
+   82.3
+  ],
+  [
+   "11/03",
+   81.1
+  ],
+  [
+   "12/03",
+   81
+  ],
+  [
+   "13/03",
+   76.7
+  ],
+  [
+   "16/03",
+   75.9
+  ],
+  [
+   "17/03",
+   76.3
+  ],
+  [
+   "18/03",
+   75.6
+  ],
+  [
+   "19/03",
+   75.8
+  ],
+  [
+   "20/03",
+   75.2
+  ],
+  [
+   "23/03",
+   76.9
+  ],
+  [
+   "24/03",
+   74.9
+  ],
+  [
+   "25/03",
+   73.9
+  ],
+  [
+   "26/03",
+   74
+  ],
+  [
+   "27/03",
+   72.5
+  ],
+  [
+   "30/03",
+   70.2
+  ],
+  [
+   "31/03",
+   70
+  ],
+  [
+   "01/04",
+   67
+  ],
+  [
+   "02/04",
+   65.7
+  ],
+  [
+   "07/04",
+   67.8
+  ],
+  [
+   "08/04",
+   75.75
+  ],
+  [
+   "09/04",
+   73.4
+  ],
+  [
+   "10/04",
+   75.25
+  ],
+  [
+   "13/04",
+   76
+  ],
+  [
+   "14/04",
+   76.3
+  ],
+  [
+   "15/04",
+   76.65
+  ],
+  [
+   "16/04",
+   79.7
+  ],
+  [
+   "17/04",
+   81.65
+  ],
+  [
+   "20/04",
+   82.2
+  ],
+  [
+   "21/04",
+   75
+  ],
+  [
+   "22/04",
+   75.7
+  ],
+  [
+   "23/04",
+   73
+  ],
+  [
+   "24/04",
+   72.55
+  ],
+  [
+   "27/04",
+   74.1
+  ],
+  [
+   "28/04",
+   73.05
+  ],
+  [
+   "29/04",
+   71.5
+  ],
+  [
+   "30/04",
+   72.95
+  ],
+  [
+   "04/05",
+   77.65
+  ],
+  [
+   "05/05",
+   80.9
+  ],
+  [
+   "06/05",
+   79.75
+  ],
+  [
+   "07/05",
+   82.85
+  ],
+  [
+   "08/05",
+   79.35
+  ],
+  [
+   "11/05",
+   78.65
+  ],
+  [
+   "12/05",
+   69.65
+  ],
+  [
+   "13/05",
+   73.7
+  ],
+  [
+   "14/05",
+   70.9
+  ],
+  [
+   "15/05",
+   68.2
+  ],
+  [
+   "18/05",
+   65.7
+  ],
+  [
+   "19/05",
+   67.1
+  ],
+  [
+   "20/05",
+   69.5
+  ],
+  [
+   "21/05",
+   67.15
+  ],
+  [
+   "22/05",
+   68.8
+  ],
+  [
+   "25/05",
+   69.4
+  ],
+  [
+   "26/05",
+   69.65
+  ],
+  [
+   "27/05",
+   67.35
+  ],
+  [
+   "28/05",
+   67
+  ],
+  [
+   "29/05",
+   65.75
+  ],
+  [
+   "01/06",
+   65.25
+  ],
+  [
+   "02/06",
+   60
+  ],
+  [
+   "03/06",
+   57.15
+  ],
+  [
+   "04/06",
+   58.2
+  ],
+  [
+   "05/06",
+   56.75
+  ],
+  [
+   "08/06",
+   58.7
+  ],
+  [
+   "09/06",
+   59.4
+  ],
+  [
+   "10/06",
+   59.5
+  ],
+  [
+   "11/06",
+   61.05
+  ],
+  [
+   "12/06",
+   64.8
+  ],
+  [
+   "15/06",
+   65.15
+  ],
+  [
+   "16/06",
+   64.6
+  ],
+  [
+   "17/06",
+   68.35
+  ],
+  [
+   "18/06",
+   70
+  ],
+  [
+   "19/06",
+   70.15
+  ],
+  [
+   "22/06",
+   69.5
+  ],
+  [
+   "23/06",
+   70.7
+  ],
+  [
+   "24/06",
+   70.8
+  ],
+  [
+   "25/06",
+   70.8
+  ],
+  [
+   "26/06",
+   70.5
+  ],
+  [
+   "29/06",
+   68.05
+  ],
+  [
+   "30/06",
+   67.4
+  ],
+  [
+   "01/07",
+   67.5
+  ],
+  [
+   "02/07",
+   68.4
+  ],
+  [
+   "03/07",
+   70.45
+  ],
+  [
+   "06/07",
+   70.1
+  ],
+  [
+   "07/07",
+   67.05
+  ],
+  [
+   "08/07",
+   66.3
+  ],
+  [
+   "09/07",
+   66.3
+  ],
+  [
+   "10/07",
+   65.1
+  ],
+  [
+   "13/07",
+   63.2
+  ],
+  [
+   "14/07",
+   62.95
+  ],
+  [
+   "15/07",
+   64
+  ],
+  [
+   "16/07",
+   61.9
+  ],
+  [
+   "17/07",
+   60.85
+  ],
+  [
+   "20/07",
+   66.9
+  ],
+  [
+   "21/07",
+   69.1
+  ],
+  [
+   "22/07",
+   73.35
+  ],
+  [
+   "23/07",
+   71.15
+  ],
+  [
+   "24/07",
+   70.9
+  ],
+  [
+   "27/07",
+   69.9
+  ],
+  [
+   "28/07",
+   68.15
+  ],
+  [
+   "29/07",
+   66.45
+  ],
+  [
+   "30/07",
+   66.35
+  ],
+  [
+   "31/07",
+   65.6
+  ],
+  [
+   "03/08",
+   65.35
+  ],
+  [
+   "04/08",
+   67.8
+  ],
+  [
+   "05/08",
+   66.75
+  ],
+  [
+   "06/08",
+   67.05
+  ],
+  [
+   "07/08",
+   68.6
+  ],
+  [
+   "10/08",
+   68.9
+  ],
+  [
+   "11/08",
+   68.05
+  ],
+  [
+   "12/08",
+   66.9
+  ],
+  [
+   "13/08",
+   66.05
+  ],
+  [
+   "14/08",
+   67.05
+  ],
+  [
+   "17/08",
+   65.5
+  ],
+  [
+   "18/08",
+   67.25
+  ],
+  [
+   "19/08",
+   67.5
+  ],
+  [
+   "20/08",
+   69.05
+  ],
+  [
+   "21/08",
+   68.75
+  ],
+  [
+   "24/08",
+   69
+  ],
+  [
+   "25/08",
+   69.3
+  ],
+  [
+   "26/08",
+   71.55
+  ],
+  [
+   "27/08",
+   72.7
+  ],
+  [
+   "28/08",
+   75.5
+  ],
+  [
+   "31/08",
+   77.9
+  ],
+  [
+   "01/09",
+   72.05
+  ],
+  [
+   "02/09",
+   69.45
+  ],
+  [
+   "03/09",
+   70.45
+  ],
+  [
+   "04/09",
+   71.35
+  ],
+  [
+   "07/09",
+   72.2
+  ],
+  [
+   "08/09",
+   71.3
+  ],
+  [
+   "09/09",
+   69.9
+  ],
+  [
+   "10/09",
+   69.7
+  ],
+  [
+   "11/09",
+   69.25
+  ],
+  [
+   "14/09",
+   64.8
+  ],
+  [
+   "15/09",
+   64.7
+  ],
+  [
+   "16/09",
+   68
+  ],
+  [
+   "17/09",
+   66.05
+  ],
+  [
+   "18/09",
+   66
+  ],
+  [
+   "21/09",
+   64.8
+  ],
+  [
+   "22/09",
+   67.1
+  ],
+  [
+   "23/09",
+   65.85
+  ],
+  [
+   "24/09",
+   63.5
+  ],
+  [
+   "25/09",
+   63.95
+  ],
+  [
+   "28/09",
+   62.95
+  ]
+ ],
+ "nom": "Friedrich Vorwerk",
+ "notes": "Clôture du 28/09 à 62,95 (Xetra 17h35, finanznachrichten et onvista). Variation du jour environ -1,6 % par rapport au 25/09 (63,95 €). Aucune nouvelle depuis la note Berenberg du 25/09.",
+ "pays": "DE",
+ "per26": 12.5,
+ "per27": 12.2,
+ "perf": {
+  "m1": -16.4,
+  "m12": -23,
+  "m3": -6.5
+ },
+ "pub": "2026-11-12",
+ "pubLabel": "Point trimestriel T3",
+ "risque": "Dépend de grands projets publics dont le calendrier peut glisser ; croissance des bénéfices qui pourrait plafonner après 2026.",
+ "secteur": "Infrastructures énergétiques",
+ "societe": {
+  "aVerifier": "Vérifié le 29/09/2026 sur les rapports annuels Friedrich Vorwerk 2021, 2022, 2024 et 2025, le communiqué des comptes 2025 et le rapport semestriel 2026. Confirmés : CA, résultat net part du groupe, EBIT et trésorerie nette de 2021 à 2025, dividendes 2021 à 2025, répartition par segment 2025. margeOp = EBIT ajusté publié / CA (ajustements : frais d'introduction en Bourse en 2021, amortissements d'actifs acquis) ; EBIT IFRS non ajusté : 41,4 M€ en 2021 (14,8 %), 33,4 M€ en 2022 (9,1 %). Résultat net part du groupe : 2021 = 23,4 M€ (résultat consolidé total 26,8 M€ dont 3,4 M€ de minoritaires ; 29,9 M€ en ajusté) ; 2022 = 17,1 M€ (résultat consolidé ; la répartition exacte avec les minoritaires n'a pas pu être lue, BPA IFRS 0,86 €) ; 2024 = 35,8 M€ (35,9 M€ au total). Trésorerie nette = liquidités et titres moins dettes financières, hors dettes de loyers IFRS 16 (définition du rapport 2024). Effectif : 2 402 au 30/06/2026 (2 243 fin 2025, hors apprentis). Actionnariat : 40,48 % pour MBB (site MBB) ; part de Torben Kleinfeldt non confirmée. Restent non vérifiés : répartition géographique (non publiée, MarketScreener), dates d'entrée en fonction du CEO, du CFO et du président du conseil de surveillance, faits de 1972, 2008 et la part de 60 % reprise par MBB en 2019 (Wikipédia), liste des concurrents. 2026e : consensus MarketScreener/Zonebourse, source secondaire ; guide société relevé le 22/07/2026 à 180-200 M€ d'EBITDA pour 730-780 M€ de CA.",
+  "actionnariat": "MBB SE est l'actionnaire de référence avec 40,48 % du capital au 31/12/2025 (MBB). Le CEO Torben Kleinfeldt est actionnaire important (il détient aussi 10 % de la société en commandite Friedrich Vorwerk SE & Co. KG, d'où des intérêts minoritaires) ; sa part du capital coté (environ 18 %) n'est pas confirmée. Le reste est en Bourse.",
+  "avantage": "Vorwerk fait partie des rares entreprises capables de réaliser clé en main de très grands chantiers énergétiques en Allemagne, avec des certifications, des équipes qualifiées, ses propres technologies et des décennies de relations avec les gestionnaires de réseaux. Cet avantage peut s'éroder si l'Allemagne revient aux lignes aériennes au lieu des câbles enterrés (un projet de loi en discussion), si la main-d'oeuvre qualifiée manque, ou si les marges exceptionnelles actuelles se normalisent.",
+  "chiffres": [
+   {
+    "annee": "2021",
+    "ca": 279.1,
+    "detteNette": -83.6,
+    "dividende": 0.2,
+    "margeOp": 16,
+    "rn": 23.4
+   },
+   {
+    "annee": "2022",
+    "ca": 368.2,
+    "detteNette": -27.2,
+    "dividende": 0.12,
+    "margeOp": 9.2,
+    "rn": 17.1
+   },
+   {
+    "annee": "2023",
+    "ca": 373.4,
+    "detteNette": -42.1,
+    "dividende": 0.12,
+    "margeOp": 3.8,
+    "rn": 10.2
+   },
+   {
+    "annee": "2024",
+    "ca": 498.4,
+    "detteNette": -154.3,
+    "dividende": 0.3,
+    "margeOp": 11.9,
+    "rn": 35.8
+   },
+   {
+    "annee": "2025",
+    "ca": 704.3,
+    "detteNette": -261.9,
+    "dividende": 1.1,
+    "margeOp": 19.4,
+    "rn": 86.5
+   },
+   {
+    "annee": "2026e",
+    "ca": 772.4,
+    "detteNette": -288,
+    "dividende": 1.3,
+    "margeOp": 21.7,
+    "rn": 110.8
+   }
+  ],
+  "clients": "Les clients sont les grands gestionnaires de réseaux électriques et gaziers allemands (Amprion, TenneT, TransnetBW, Gasunie, EWE Netz, terranets bw), des régies municipales et quelques industriels. La concentration est forte : quelques méga-chantiers, presque tous en Allemagne, pèsent lourd dans le chiffre d'affaires.",
+  "concurrents": [
+   "Bilfinger",
+   "Max Streicher",
+   "Leonhard Weiss",
+   "Hochtief",
+   "Strabag"
+  ],
+  "corrections": [
+   "2021 detteNette -70.1 -> -83.6 (rapport annuel 2021 : trésorerie nette de 83,6 M€, confirmée dans le rapport 2022).",
+   "2021 rn 26.8 -> 23.4 (26,8 M€ = résultat consolidé total ; part du groupe 23,4 M€, rapport annuel 2021).",
+   "effectifs 2400 -> 2402 (30/06/2026, rapport semestriel 2026 ; 2 243 fin 2025).",
+   "Segment Gaz naturel 26.3 -> 26.2 et parts arrondies à 18.0 et 4.0 (184,8 M€, 126,6 M€, 28,1 M€ sur 704,3 M€, rapport annuel 2025).",
+   "Dirigeants : « depuis 2020 » du CEO non confirmé, mis à null ; Christof Nesemeier est président du conseil de surveillance (pas d'un conseil d'administration).",
+   "Actionnariat : MBB 40,48 % au 31/12/2025 (site MBB) au lieu de « 40 à 44 % » ; part de 18 % du CEO signalée non confirmée.",
+   "Histoire : 2021 complété (Korupp, 75 % de Puhlmann) ; ajout 2026 (objectifs relevés, MeterQ).",
+   "Autres chiffres 2021 à 2025 (CA, EBIT, dividendes, trésorerie nette 2022 à 2025, rn 2022 à 2025) confirmés."
+  ],
+  "croire": [
+   "Que l'Allemagne va continuer d'investir massivement dans ses réseaux électriques enterrés, gaziers et hydrogène pendant plus de dix ans.",
+   "Que les marges très élevées de 2025 et 2026 ne sont pas un sommet passager et que la société ne retombera pas dans le creux de 2022-2023.",
+   "Que la loi sur la priorité aux câbles enterrés ne sera pas vidée de sa substance."
+  ],
+  "devise": "€",
+  "dirigeants": [
+   {
+    "depuis": null,
+    "nom": "Torben Kleinfeldt",
+    "role": "Président du directoire (CEO), actionnaire important"
+   },
+   {
+    "depuis": null,
+    "nom": "Dr Christof Nesemeier",
+    "role": "Président du conseil de surveillance (également dirigeant de MBB SE)"
+   },
+   {
+    "depuis": null,
+    "nom": "Tim Hameister",
+    "role": "Directeur financier (CFO), membre du directoire"
+   }
+  ],
+  "effectifs": 2402,
+  "fondee": 1962,
+  "geo": [
+   {
+    "part": 99,
+    "zone": "Allemagne"
+   },
+   {
+    "part": 0.6,
+    "zone": "Reste de l'Europe"
+   },
+   {
+    "part": 0.5,
+    "zone": "Autres"
+   }
+  ],
+  "histoire": [
+   {
+    "annee": 1962,
+    "fait": "Friedrich Vorwerk et Wilhelm Kleesch créent une entreprise de terrassement à Tostedt, en Basse-Saxe."
+   },
+   {
+    "annee": 1972,
+    "fait": "L'entreprise prend le nom de Friedrich Vorwerk KG et se spécialise dans la pose de canalisations."
+   },
+   {
+    "annee": 2008,
+    "fait": "Réalisation du premier électrolyseur d'hydrogène vert en Allemagne, début de la stratégie hydrogène."
+   },
+   {
+    "annee": 2019,
+    "fait": "La holding MBB rachète 60 % du capital ; plus gros rachat de l'histoire du groupe avec Bohlen & Doyen."
+   },
+   {
+    "annee": 2021,
+    "fait": "Rachat de Korupp (protection cathodique) en février, entrée en Bourse à Francfort (Prime Standard) le 25 mars et rachat de 75 % du groupe Gottfried Puhlmann en novembre."
+   },
+   {
+    "annee": 2023,
+    "fait": "Creux : marge opérationnelle tombée à environ 3,8 % pour un chiffre d'affaires de 373 M€."
+   },
+   {
+    "annee": 2025,
+    "fait": "Année record : 704,3 M€ de chiffre d'affaires (+41 %), marge EBITDA de 23,2 %, EBIT de 136,8 M€, entrée dans l'indice SDAX et dividende total de 1,10 € dont 0,40 € exceptionnel."
+   },
+   {
+    "annee": 2026,
+    "fait": "Objectif d'EBITDA 2026 relevé le 22 juillet à 180 à 200 M€ (au lieu de 160 à 180 M€), chiffre d'affaires visé maintenu à 730 à 780 M€ ; reprise des actifs de MeterQ Solutions (mesure du gaz) au 1er août."
+   }
+  ],
+  "modele": "Vorwerk gagne de l'argent chantier par chantier : il remporte des contrats de construction (de quelques dizaines à plusieurs centaines de millions d'euros) auprès des gestionnaires de réseaux et facture au fur et à mesure de l'avancement. Les revenus ne sont donc pas des abonnements, mais un carnet de commandes d'environ 1 Md€ donne de la visibilité sur un à deux ans. Sa rentabilité très élevée pour un groupe de BTP vient de la rareté des entreprises capables de mener ces chantiers et de ses propres technologies (robots de soudage, par exemple).",
+  "questions": [
+   "Le carnet de commandes (environ 1 Md€ fin 2025, en baisse sur un an) se reconstitue-t-il assez vite pour soutenir la croissance ?",
+   "Que s'est-il passé en 2022-2023 pour que la marge s'effondre, et ce risque est-il désormais maîtrisé dans les contrats ?",
+   "Que fera la société de sa trésorerie nette de plus de 250 M€ : dividendes exceptionnels, rachats d'entreprises, expansion hors d'Allemagne ?"
+  ],
+  "resume": "Friedrich Vorwerk est une entreprise allemande de travaux et d'ingénierie qui construit les « autoroutes souterraines » de l'énergie : gazoducs, câbles électriques enterrés à très haute tension, réseaux d'hydrogène et de chauffage urbain, ainsi que les stations techniques qui vont avec. Exemple concret : elle pose une partie du SuedLink, le grand câble enterré qui doit amener l'électricité des éoliennes du nord de l'Allemagne vers les usines du sud.",
+  "segments": [
+   {
+    "detail": "Pose de câbles électriques enterrés à haute tension, dont les grands corridors nord-sud comme le SuedLink. 364,8 M€ en 2025.",
+    "nom": "Électricité",
+    "part": 51.8
+   },
+   {
+    "detail": "Construction et modernisation de gazoducs et de stations de régulation de pression. 184,8 M€ en 2025.",
+    "nom": "Gaz naturel",
+    "part": 26.2
+   },
+   {
+    "detail": "Réseaux de chaleur urbains, travaux de voirie et d'infrastructures en ville, autres chantiers. 126,6 M€ en 2025.",
+    "nom": "Opportunités adjacentes",
+    "part": 18
+   },
+   {
+    "detail": "Canalisations et installations pour l'hydrogène, dont électrolyseurs. 28,1 M€ en 2025.",
+    "nom": "Hydrogène propre",
+    "part": 4
+   }
+  ],
+  "siege": "Tostedt, Allemagne",
+  "site": "https://www.friedrich-vorwerk-group.de",
+  "sources": [
+   "https://www.friedrich-vorwerk-group.de/media/friedrich_vorwerk_group_se_-_annual_report_2025.pdf",
+   "https://www.friedrich-vorwerk-group.de/media/260331-vor-fy_2025-de.pdf",
+   "https://www.friedrich-vorwerk-group.de/media/friedrich_vorwerk_group_se_-_geschaeftsbericht_2024.pdf",
+   "https://www.friedrich-vorwerk-group.de/media/friedrich_vorwerk_group_se_-_annual_report_2022_2.pdf",
+   "https://www.friedrich-vorwerk-group.de/media/friedrich_vorwerk_group_se_-_annual_report_2021.pdf",
+   "https://www.friedrich-vorwerk-group.de/media/260813-tha-fvg-q2_half-year_financial_report_2026_en.pdf",
+   "https://www.friedrich-vorwerk-group.de/en/investor-relations/financial-reports/",
+   "https://www.friedrich-vorwerk-group.de/en/company/about-us/",
+   "https://www.eqs-news.com/news/corporate-news/friedrich-vorwerk-confirms-financial-figures-for-the-2025-financial-year-proposes-a-dividend-of-1-10-per-share-and-plans-to-continue-its-growth-trajectory-in-2026/305afaf6-06a9-4c33-9947-03eae80fb2f2_en",
+   "https://www.mbb.com/en/our-subsidiaries/friedrich-vorwerk.html",
+   "https://www.marketscreener.com/quote/stock/FRIEDRICH-VORWERK-GROUP-S-120380247/finances/",
+   "https://www.marketscreener.com/quote/stock/FRIEDRICH-VORWERK-GROUP-S-120379948/finances-segments/",
+   "https://de.wikipedia.org/wiki/Friedrich_Vorwerk_Group",
+   "https://moatsandmarkets.com/friedrich-vorwerk-group/"
+  ],
+  "suivi": {
+   "bilan": "Sur 6 conditions, 1 tient (contrats mieux protégés), 4 sont à surveiller et 1 est contredite : le plus fragile est la fin annoncée de la priorité aux câbles enterrés, qui menace les futures commandes électriques.",
+   "croire": [
+    {
+     "c": "Que l'Allemagne va continuer d'investir massivement dans ses réseaux électriques enterrés, gaziers et hydrogène pendant plus de dix ans.",
+     "etat": "watch",
+     "preuve": "Réseau central d'hydrogène estimé à 25 Md€ (contre 20 Md€), environ 10 GW de centrales à gaz prévues ; plan fédéral de réseau : 45 nouveaux projets, lignes aériennes prioritaires (audition du Bundestag du 22/06/2026).",
+     "prochain": "Vote du Bundesbedarfsplangesetz au Bundestag (pas encore adopté au 18/09/2026) ; Point trimestriel T3 le 12/11/2026",
+     "reponse": "Oui pour le gaz et l'hydrogène, où les besoins sont revus en hausse. Non pour la partie « enterrée » de l'électricité : les nouveaux grands projets passeront en priorité en lignes aériennes à partir des années 2030.",
+     "source": "https://www.bundestag.de/dokumente/textarchiv/2026/kw26-pa-wirtschaft-bedarfsplan-1184750"
+    },
+    {
+     "c": "Que les marges très élevées de 2025 et 2026 ne sont pas un sommet passager et que la société ne retombera pas dans le creux de 2022-2023.",
+     "etat": "watch",
+     "preuve": "Marge EBITDA 23,2 % en 2025 et 27,4 % au S1 2026 ; objectif EBITDA 2026 relevé à 180-200 M€ pour 730-780 M€ de CA.",
+     "prochain": "Point trimestriel T3 le 12/11/2026",
+     "reponse": "La direction elle-même juge le niveau actuel exceptionnel et vise une marge d'EBITDA normale de 21 à 22 %, contre 27,4 % au S1 2026. Une baisse vers ce niveau est donc attendue, mais pas un retour au creux de 2023.",
+     "source": "https://www.investing.com/news/transcripts/earnings-call-transcript-friedrich-vorwerk-group-ses-strong-q4-2025-results-93CH-4590105"
+    },
+    {
+     "c": "Que la loi sur la priorité aux câbles enterrés ne sera pas vidée de sa substance.",
+     "etat": "ko",
+     "preuve": "Au 18/09/2026, le Bundesbedarfsplangesetz, qui doit abolir la priorité aux câbles enterrés pour les nouveaux réseaux de transport, n'est pas encore adopté ; l'électricité pesait 51,8 % des ventes 2025.",
+     "prochain": "Vote au Bundestag puis au Bundesrat, date non connue",
+     "reponse": "C'est l'inverse qui se prépare : le projet de loi du gouvernement supprime la priorité aux câbles enterrés pour les nouvelles lignes de transport. Il n'est pas encore voté, et les projets déjà engagés comme SuedLink ne sont pas remis en cause dans les sources lues.",
+     "source": "https://www.zfk.de/politik/deutschland/energiegesetze-ticker-deutschland-reiche"
+    }
+   ],
+   "le": "2026-09-29",
+   "questions": [
+    {
+     "etat": "watch",
+     "preuve": "S1 2026 : prises de commandes 321,2 M€ (+45,8 %) pour un CA de 337,3 M€ ; carnet 1 005,3 M€ fin juin 2026 (-9,0 % sur un an).",
+     "prochain": "Point trimestriel T3 le 12/11/2026",
+     "q": "Le carnet de commandes (environ 1 Md€ fin 2025, en baisse sur un an) se reconstitue-t-il assez vite pour soutenir la croissance ?",
+     "reponse": "Pas encore tout à fait : les prises de commandes rebondissent nettement mais restent un peu sous le chiffre d'affaires, donc le carnet continue de baisser sur un an. Des commandes arrivent (ex. une conduite d'hydrogène de 24 km Emden-Leer en juillet) mais pas au rythme des grosses années.",
+     "source": "https://de.marketscreener.com/boerse-nachrichten/friedrich-vorwerk-13-08-2026-halbjahresfinanzbericht-2026-202-kb-ce7859d9d88cf12d"
+    },
+    {
+     "etat": "ok",
+     "preuve": "Marge EBIT de 2,6 % au T4 2022 et 3,8 % sur 2023 ; S1 2026 : marge EBITDA 27,4 % et marge EBIT 22,8 %.",
+     "prochain": "Point trimestriel T3 le 12/11/2026",
+     "q": "Que s'est-il passé en 2022-2023 pour que la marge s'effondre, et ce risque est-il désormais maîtrisé dans les contrats ?",
+     "reponse": "La marge s'est effondrée sous l'effet de la flambée des coûts de matériaux et de personnel, surtout sur un projet de construction d'installation où Vorwerk achetait lui-même beaucoup de matériel. Aujourd'hui, la plupart des gros contrats ont des clauses d'indexation et, sur les pipelines, le client fournit les tubes ; la protection reste imparfaite car les indices ne suivent pas exactement les coûts réels.",
+     "source": "https://www.investing.com/news/transcripts/earnings-call-transcript-friedrich-vorwerk-group-ses-strong-q4-2025-results-93CH-4590105"
+    },
+    {
+     "etat": "watch",
+     "preuve": "Trésorerie nette 212,0 M€ fin juin 2026 (261,9 M€ fin 2025) ; dividende 2025 de 1,10 € dont 0,40 € exceptionnel ; reprise des actifs de MeterQ Solutions au 01/08/2026.",
+     "prochain": "Point trimestriel T3 le 12/11/2026",
+     "q": "Que fera la société de sa trésorerie nette de plus de 250 M€ : dividendes exceptionnels, rachats d'entreprises, expansion hors d'Allemagne ?",
+     "reponse": "Pas de grand plan annoncé : un dividende en partie exceptionnel, environ 50 M€ d'équipements en 2026 et une petite reprise (MeterQ). La direction se dit ouverte à un rachat plus important « à un prix raisonnable » et ne parle pas d'expansion à l'étranger.",
+     "source": "https://www.investing.com/news/transcripts/earnings-call-transcript-friedrich-vorwerk-group-ses-strong-q4-2025-results-93CH-4590105"
+    }
+   ]
+  },
+  "verifieLe": "2026-09-29"
+ },
+ "src": "https://www.finanznachrichten.de/nachrichten-2026-07/69088389-eqs-adhoc-friedrich-vorwerk-group-se-friedrich-vorwerk-steigert-ebitda-um-70-auf-93-mio-euro-im-ersten-halbjahr-und-erhoeht-die-prognose-2026-auf-180-022.htm",
+ "statut": "intacte",
+ "these": "Profite des investissements publics allemands (réseaux électriques, gaz, hydrogène), carnet de commandes de plus d'1 Md€, prévision relevée.",
+ "ticker": "VH2",
+ "yahoo": "VH2.DE",
+ "zb": "https://www.zonebourse.com/cours/action/FRIEDRICH-VORWERK-GROUP-S-120380189/"
+}

@@ -1,0 +1,1448 @@
+{
+ "analyse": {
+  "actu": [
+   {
+    "d": "10/07",
+    "fait": "Résultats T2 record : CA de 295,7 M€ (+72 %), marge EBIT de 9,6 %, carnet de commandes de 794 M€ (+56 %). Le titre a pourtant reculé de 7,8 % le jour même.",
+    "horizon": "moyen",
+    "impact": "positif",
+    "lecture": "La croissance est tirée par la défense et touche tous les secteurs, ce qui confirme la thèse ; la baisse du titre montre que beaucoup d'optimisme était déjà dans le prix."
+   },
+   {
+    "d": "24/08",
+    "fait": "Relèvement des objectifs 2026 : CA de 1 050 à 1 150 M€ (contre 900 à 1 050 M€) et EBIT de 97 à 112 M€ (contre 84 à 108 M€), grâce à une meilleure visibilité sur les composants.",
+    "horizon": "court",
+    "impact": "positif",
+    "lecture": "Deuxième hausse des objectifs en 2026 : la direction tient ses promesses, ce qui renforce la crédibilité du plan à 1,5 Md€ de CA."
+   },
+   {
+    "d": "01/09",
+    "fait": "Annonce d'une nouvelle usine à Horsens (Danemark), après l'inauguration du site de Longum près d'Arendal (Norvège) le 25/08.",
+    "horizon": "long",
+    "impact": "positif",
+    "lecture": "Plus de capacité en Europe pour servir la défense, mais aussi plus d'investissements : il faudra que les commandes suivent pour que le rendement du capital reste élevé."
+   },
+   {
+    "d": "en continu",
+    "fait": "Hausse durable des budgets de défense en Europe, principal moteur de la croissance du groupe.",
+    "horizon": "long",
+    "impact": "positif",
+    "lecture": "Le cycle de réarmement peut durer des années, mais Kitron devient plus dépendant d'un seul moteur politique et budgétaire."
+   }
+  ],
+  "cadres": [
+   "Buffett (qualité, avantage concurrentiel)",
+   "Fisher (direction, croissance long terme)",
+   "Lynch (croissance rapide, PEG)",
+   "Graham (solidité du bilan)",
+   "Greenblatt (formule magique)",
+   "Piotroski (F-score calculé)",
+   "Théorie de Dow",
+   "Minervini (trend template)",
+   "Weinstein (stades)"
+  ],
+  "conviction": "moyenne",
+  "fonda": {
+   "bilan": "Graham serait satisfait : trésorerie nette de 31,6 M€ fin 2025 (après une dette nette de 113,5 M€ en 2024), trésorerie nette attendue sur 2026 à 2028 selon le consensus. Couverture des intérêts d'environ 6,6 fois (EBIT 2025 de 63 M€ pour 9,6 M€ de charges d'intérêts). Seul bémol : les nouvelles usines (Longum en Norvège, Horsens au Danemark) vont consommer du cash.",
+   "croissance": "Chiffre d'affaires : 775 M€ (2023), 647 M€ (2024), 738 M€ (2025), puis 1 119 M€ attendus en 2026, 1 313 M€ en 2027 et 1 527 M€ en 2028 (consensus Zonebourse). La société vise désormais 1 050 à 1 150 M€ de CA et 97 à 112 M€ d'EBIT en 2026 (relèvement du 24/08). BPA consensus : 0,22 € (2025), 0,38 € (2026), 0,46 € (2027), 0,55 € (2028), soit environ +20 % par an après 2026. Au sens de Lynch, c'est une valeur de croissance rapide, portée par un cycle (la défense).",
+   "greenblatt": "Rendement bénéficiaire (EBIT 2026 / valeur d'entreprise) d'environ 5,5 % pour un rendement du capital proche de 22 % : bonne qualité mais prix déjà élevé, profil moyen sur la formule magique.",
+   "justif": "Croissance exceptionnelle et bilan redevenu sain (trésorerie nette), mais métier de sous-traitant électronique à marges fines et valorisation supérieure à sa moyenne historique.",
+   "peg": 1.2,
+   "piotroski": 7,
+   "qualite": "Kitron est un sous-traitant électronique (EMS) : il fabrique des cartes et systèmes pour la défense, l'industrie, la santé et l'énergie. Marge opérationnelle (EBIT) autour de 9 % : 9,1 % en 2023, 7,4 % en 2024, 8,7 % en 2025, 9,6 % au T2 2026. C'est correct pour ce métier mais peu protégé : le pouvoir de fixer les prix reste limité face aux grands clients. Rentabilité des fonds propres calculée à partir des chiffres Zonebourse : environ 14 % en 2025 (43,8 M€ de bénéfice pour 314 M€ de fonds propres, gonflés par une augmentation de capital), rendement du capital employé autour de 22 %. L'avantage concurrentiel (Buffett) tient surtout aux certifications défense, aux usines en Europe du Nord et à la confiance des clients militaires, un atout réel mais pas une barrière infranchissable (Fisher : direction ambitieuse, objectif de 1,5 Md€ de CA et rendement du capital opérationnel supérieur à 25 %).",
+   "score": 7,
+   "valo": "PER 23,8 en 2026 et 19,7 en 2027, VE/EBITDA 14,6 en 2026 et 12,1 en 2027 (Zonebourse). Moyenne 2021 à 2025 calculée : PER environ 22 et VE/EBITDA environ 12,3. L'action est donc un peu plus chère que sa moyenne, ce qui se justifie par la croissance. Rendement du flux de trésorerie libre attendu faible en 2026 (1,7 %) à cause des investissements, puis 3,9 % en 2027. Comparaison avec les pairs nordiques (Scanfil, Incap) non vérifiée chiffre par chiffre."
+  },
+  "majLe": "2026-09-28",
+  "revisions": "Non chiffré. Signes récents plutôt positifs : Pareto à Achat (objectif 100 NOK, 25/08), Danske Bank à Conserver (96 NOK, 14/08).",
+  "scenarios": [
+   {
+    "bas": 85,
+    "central": 98,
+    "haut": 110,
+    "horizon": "2 mois",
+    "hypotheses": "Catalyseur principal : résultats T3 le 22/10. Central : confirmation des objectifs, cours autour du consensus bas (96 à 100 NOK des courtiers). Bas : déception sur les marges ou le carnet, retour vers la zone 85 à 89 NOK. Haut : nouvelle hausse des objectifs et cassure de 101 NOK.",
+    "unite": "NOK"
+   },
+   {
+    "bas": 75,
+    "central": 108,
+    "haut": 130,
+    "horizon": "12 mois",
+    "hypotheses": "Objectifs des courtiers relevés entre 96 et 130 NOK, moyenne proche de 105 à 110 NOK. Central : BPA 2027 d'environ 0,46 € valorisé autour de 21 à 22 fois. Bas : ralentissement des commandes défense et PER qui retombe vers 16. Haut : croissance au-dessus du consensus et retour vers le haut annuel puis au-delà (objectif Norne 130 NOK).",
+    "unite": "NOK"
+   },
+   {
+    "bas": -3,
+    "central": 8,
+    "haut": 18,
+    "horizon": "5 ans",
+    "hypotheses": "Central : BPA +12 %/an + dividende 1,5 % - baisse du PER de 24 vers 18 (environ -5,5 %/an) = environ 8 %/an. Bas : BPA +5 %/an, PER vers 14 (environ -10 %/an), dividende 1,5 % = environ -3 %/an. Haut : BPA +18 %/an, PER stable vers 22, dividende 1,5 % = environ 18 %/an.",
+    "unite": "%/an"
+   },
+   {
+    "bas": 2,
+    "central": 8,
+    "haut": 13,
+    "horizon": "10-15 ans",
+    "hypotheses": "Sur très long terme, la croissance devrait revenir vers celle du marché EMS (6 à 10 %/an) et le PER vers 15 à 18. Central : BPA +8 %, dividende 2 %, léger effet négatif du PER = environ 8 %/an. Bas : fin du cycle défense, BPA +3 %. Haut : Kitron devient un acteur européen majeur, BPA +11 %.",
+    "unite": "%/an"
+   }
+  ],
+  "sources": [
+   "https://www.zonebourse.com/cours/action/KITRON-ASA-1413186/",
+   "https://www.zonebourse.com/cours/action/KITRON-ASA-1413186/finances/",
+   "https://www.zonebourse.com/cours/action/KITRON-ASA-1413186/valorisation/",
+   "https://www.zonebourse.com/cours/action/KITRON-ASA-1413186/consensus/",
+   "https://www.zonebourse.com/cours/action/KITRON-ASA-1413186/cotations/",
+   "https://www.zonebourse.com/cours/action/KITRON-ASA-1413186/agenda/",
+   "https://www.investing.com/equities/kitron-technical",
+   "https://www.globenewswire.com/news-release/2026/07/10/3325306/0/en/Kitron-Record-Q2-results-and-broad-based-growth.html",
+   "https://www.globenewswire.com/news-release/2026/08/24/3349953/0/en/kitron-revises-full-year-2026-outlook-upwards.html",
+   "https://www.zonebourse.com/actualite-bourse/kitron-rehausse-ses-ambitions-de-croissance-apres-un-essor-accelere-du-secteur-de-la-defense-ce7d51d3dd81f024"
+  ],
+  "tech": {
+   "bas52": 56.7,
+   "cours": 97.2,
+   "coursLe": "2026-09-28",
+   "haut52": 114.3,
+   "lecture": "Cours de 97,20 au-dessus de sa moyenne 50 jours (91,78) et au-dessus de sa moyenne 200 jours (94,29). RSI 56,6 : élan neutre. Il se situe à 70 % de sa fourchette sur un an (de 56,70 à 114,30), performance sur 12 mois de +63,9 %. Moyennes et RSI calculés sur les vraies clôtures (flux GitHub de 15h33).",
+   "mm200": 94.29,
+   "mm50": 91.78,
+   "resistance": 101.2,
+   "rsi14": 56.6,
+   "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json",
+   "stade": 1,
+   "support": 89.3,
+   "tendance": "neutre"
+  },
+  "verdict": "Kitron profite à plein du réarmement européen : chiffre d'affaires en hausse de 72 % au deuxième trimestre, carnet de commandes record et objectifs 2026 relevés deux fois. Le dossier est solide mais déjà bien valorisé (PER 2026 proche de 24), donc le rendement futur dépendra surtout de la capacité à tenir la croissance après 2026.",
+  "zones": {
+   "catalyseurs": [
+    "22/10/2026 : résultats du T3 2026",
+    "11/02/2027 : résultats annuels 2026 et objectifs 2027",
+    "Décisions budgétaires défense en Europe (OTAN, budgets nationaux 2027)"
+   ],
+   "interet": "Zone de 80 à 89 NOK : elle correspond au plus bas du mois (89,3), à la moyenne 200 jours (environ 88) et ramènerait le PER 2027 vers 17 à 18, plus proche de la moyenne historique.",
+   "invalidation": "Clôture durable sous 80 NOK, ou un nouvel abaissement des objectifs combiné à un carnet de commandes en baisse : la thèse d'une croissance défense durable serait alors remise en cause.",
+   "sortie": [
+    "Marge EBIT qui repasse sous 8 % pendant deux trimestres de suite",
+    "Carnet de commandes en baisse deux trimestres de suite",
+    "PER 2027 au-dessus de 30 sans relèvement des prévisions de bénéfice"
+   ]
+  }
+ },
+ "capi": "1,98 Md€",
+ "cours": 97.2,
+ "coursLe": "2026-09-28",
+ "devise": "NOK",
+ "faits": [
+  {
+   "d": "15/09",
+   "t": "Petit rachat d'actions pour la rémunération des administrateurs."
+  }
+ ],
+ "histo": [
+  [
+   "15/09",
+   63.35
+  ],
+  [
+   "16/09",
+   62.6
+  ],
+  [
+   "17/09",
+   60.95
+  ],
+  [
+   "18/09",
+   61.7
+  ],
+  [
+   "19/09",
+   61.15
+  ],
+  [
+   "22/09",
+   62.25
+  ],
+  [
+   "23/09",
+   62
+  ],
+  [
+   "24/09",
+   60.35
+  ],
+  [
+   "25/09",
+   59.5
+  ],
+  [
+   "26/09",
+   59.15
+  ],
+  [
+   "29/09",
+   58
+  ],
+  [
+   "30/09",
+   58.3
+  ],
+  [
+   "01/10",
+   59
+  ],
+  [
+   "02/10",
+   59.35
+  ],
+  [
+   "03/10",
+   59.4
+  ],
+  [
+   "06/10",
+   59.85
+  ],
+  [
+   "07/10",
+   59.8
+  ],
+  [
+   "08/10",
+   59.35
+  ],
+  [
+   "09/10",
+   59.25
+  ],
+  [
+   "10/10",
+   58.65
+  ],
+  [
+   "13/10",
+   57.85
+  ],
+  [
+   "14/10",
+   58.35
+  ],
+  [
+   "15/10",
+   58.25
+  ],
+  [
+   "16/10",
+   57.6
+  ],
+  [
+   "17/10",
+   56.7
+  ],
+  [
+   "20/10",
+   61.15
+  ],
+  [
+   "21/10",
+   60.3
+  ],
+  [
+   "22/10",
+   61.7
+  ],
+  [
+   "23/10",
+   70.25
+  ],
+  [
+   "24/10",
+   72.05
+  ],
+  [
+   "27/10",
+   75.25
+  ],
+  [
+   "28/10",
+   75.3
+  ],
+  [
+   "29/10",
+   76.2
+  ],
+  [
+   "30/10",
+   74.1
+  ],
+  [
+   "31/10",
+   75.5
+  ],
+  [
+   "03/11",
+   75.25
+  ],
+  [
+   "04/11",
+   74.05
+  ],
+  [
+   "05/11",
+   72.5
+  ],
+  [
+   "06/11",
+   71.6
+  ],
+  [
+   "07/11",
+   69.15
+  ],
+  [
+   "10/11",
+   69.8
+  ],
+  [
+   "11/11",
+   69.4
+  ],
+  [
+   "12/11",
+   67.95
+  ],
+  [
+   "13/11",
+   67.7
+  ],
+  [
+   "14/11",
+   66.6
+  ],
+  [
+   "17/11",
+   66.6
+  ],
+  [
+   "18/11",
+   65.2
+  ],
+  [
+   "19/11",
+   65
+  ],
+  [
+   "20/11",
+   65.5
+  ],
+  [
+   "21/11",
+   62.2
+  ],
+  [
+   "24/11",
+   61.1
+  ],
+  [
+   "25/11",
+   60.2
+  ],
+  [
+   "26/11",
+   57.9
+  ],
+  [
+   "27/11",
+   59.25
+  ],
+  [
+   "28/11",
+   60.3
+  ],
+  [
+   "01/12",
+   59.2
+  ],
+  [
+   "02/12",
+   60.85
+  ],
+  [
+   "03/12",
+   61.15
+  ],
+  [
+   "04/12",
+   62
+  ],
+  [
+   "05/12",
+   62
+  ],
+  [
+   "08/12",
+   63
+  ],
+  [
+   "09/12",
+   63.6
+  ],
+  [
+   "10/12",
+   66
+  ],
+  [
+   "11/12",
+   68.25
+  ],
+  [
+   "12/12",
+   68
+  ],
+  [
+   "15/12",
+   67.7
+  ],
+  [
+   "16/12",
+   66.7
+  ],
+  [
+   "17/12",
+   67.35
+  ],
+  [
+   "18/12",
+   68.05
+  ],
+  [
+   "19/12",
+   69.2
+  ],
+  [
+   "22/12",
+   70.85
+  ],
+  [
+   "23/12",
+   72
+  ],
+  [
+   "29/12",
+   73.15
+  ],
+  [
+   "30/12",
+   72.7
+  ],
+  [
+   "02/01",
+   74.25
+  ],
+  [
+   "05/01",
+   73.8
+  ],
+  [
+   "06/01",
+   75.05
+  ],
+  [
+   "07/01",
+   77
+  ],
+  [
+   "08/01",
+   75.3
+  ],
+  [
+   "09/01",
+   77
+  ],
+  [
+   "12/01",
+   77.4
+  ],
+  [
+   "13/01",
+   77.1
+  ],
+  [
+   "14/01",
+   78.25
+  ],
+  [
+   "15/01",
+   78.4
+  ],
+  [
+   "16/01",
+   81.7
+  ],
+  [
+   "19/01",
+   80.15
+  ],
+  [
+   "20/01",
+   82.8
+  ],
+  [
+   "21/01",
+   82.15
+  ],
+  [
+   "22/01",
+   82.2
+  ],
+  [
+   "23/01",
+   83
+  ],
+  [
+   "26/01",
+   80.9
+  ],
+  [
+   "27/01",
+   83.95
+  ],
+  [
+   "28/01",
+   81.85
+  ],
+  [
+   "29/01",
+   81
+  ],
+  [
+   "30/01",
+   82.45
+  ],
+  [
+   "02/02",
+   83
+  ],
+  [
+   "03/02",
+   83.25
+  ],
+  [
+   "04/02",
+   83.15
+  ],
+  [
+   "05/02",
+   81.05
+  ],
+  [
+   "06/02",
+   85
+  ],
+  [
+   "09/02",
+   86.4
+  ],
+  [
+   "10/02",
+   85.7
+  ],
+  [
+   "11/02",
+   82.9
+  ],
+  [
+   "12/02",
+   87.5
+  ],
+  [
+   "13/02",
+   92.9
+  ],
+  [
+   "16/02",
+   95
+  ],
+  [
+   "17/02",
+   96.4
+  ],
+  [
+   "18/02",
+   102
+  ],
+  [
+   "19/02",
+   105.2
+  ],
+  [
+   "20/02",
+   106.6
+  ],
+  [
+   "23/02",
+   107
+  ],
+  [
+   "24/02",
+   108
+  ],
+  [
+   "25/02",
+   110.1
+  ],
+  [
+   "26/02",
+   106.8
+  ],
+  [
+   "27/02",
+   106.2
+  ],
+  [
+   "02/03",
+   107.5
+  ],
+  [
+   "03/03",
+   108
+  ],
+  [
+   "04/03",
+   109.7
+  ],
+  [
+   "05/03",
+   106.8
+  ],
+  [
+   "06/03",
+   101.6
+  ],
+  [
+   "09/03",
+   96.9
+  ],
+  [
+   "10/03",
+   99.8
+  ],
+  [
+   "11/03",
+   97.4
+  ],
+  [
+   "12/03",
+   96.5
+  ],
+  [
+   "13/03",
+   96.7
+  ],
+  [
+   "16/03",
+   100.6
+  ],
+  [
+   "17/03",
+   100.8
+  ],
+  [
+   "18/03",
+   103.4
+  ],
+  [
+   "19/03",
+   99.05
+  ],
+  [
+   "20/03",
+   95.8
+  ],
+  [
+   "23/03",
+   97.25
+  ],
+  [
+   "24/03",
+   95.5
+  ],
+  [
+   "25/03",
+   97.65
+  ],
+  [
+   "26/03",
+   94.95
+  ],
+  [
+   "27/03",
+   91.1
+  ],
+  [
+   "30/03",
+   91.9
+  ],
+  [
+   "31/03",
+   93.5
+  ],
+  [
+   "01/04",
+   97.95
+  ],
+  [
+   "07/04",
+   96.25
+  ],
+  [
+   "08/04",
+   99.25
+  ],
+  [
+   "09/04",
+   103.1
+  ],
+  [
+   "10/04",
+   104.6
+  ],
+  [
+   "13/04",
+   106
+  ],
+  [
+   "14/04",
+   98.7
+  ],
+  [
+   "15/04",
+   100
+  ],
+  [
+   "16/04",
+   100.9
+  ],
+  [
+   "17/04",
+   102.1
+  ],
+  [
+   "20/04",
+   103
+  ],
+  [
+   "21/04",
+   97.5
+  ],
+  [
+   "22/04",
+   97.15
+  ],
+  [
+   "23/04",
+   96.3
+  ],
+  [
+   "24/04",
+   108.3
+  ],
+  [
+   "27/04",
+   103.5
+  ],
+  [
+   "28/04",
+   102.6
+  ],
+  [
+   "29/04",
+   100.9
+  ],
+  [
+   "30/04",
+   100.4
+  ],
+  [
+   "04/05",
+   100.8
+  ],
+  [
+   "05/05",
+   103.5
+  ],
+  [
+   "06/05",
+   105.6
+  ],
+  [
+   "07/05",
+   106.9
+  ],
+  [
+   "08/05",
+   107.3
+  ],
+  [
+   "11/05",
+   107.1
+  ],
+  [
+   "12/05",
+   107.4
+  ],
+  [
+   "13/05",
+   106.6
+  ],
+  [
+   "15/05",
+   108.6
+  ],
+  [
+   "18/05",
+   105.2
+  ],
+  [
+   "19/05",
+   103.8
+  ],
+  [
+   "20/05",
+   108.2
+  ],
+  [
+   "21/05",
+   105.7
+  ],
+  [
+   "22/05",
+   108.2
+  ],
+  [
+   "26/05",
+   112.2
+  ],
+  [
+   "27/05",
+   111.5
+  ],
+  [
+   "28/05",
+   113.6
+  ],
+  [
+   "29/05",
+   114.3
+  ],
+  [
+   "01/06",
+   111.9
+  ],
+  [
+   "02/06",
+   110.3
+  ],
+  [
+   "03/06",
+   110.8
+  ],
+  [
+   "04/06",
+   111.7
+  ],
+  [
+   "05/06",
+   111.9
+  ],
+  [
+   "08/06",
+   113.1
+  ],
+  [
+   "09/06",
+   113.4
+  ],
+  [
+   "10/06",
+   109.4
+  ],
+  [
+   "11/06",
+   108.1
+  ],
+  [
+   "12/06",
+   108.6
+  ],
+  [
+   "15/06",
+   109.3
+  ],
+  [
+   "16/06",
+   109.3
+  ],
+  [
+   "17/06",
+   109.2
+  ],
+  [
+   "18/06",
+   108.7
+  ],
+  [
+   "19/06",
+   110.8
+  ],
+  [
+   "22/06",
+   109.2
+  ],
+  [
+   "23/06",
+   106.5
+  ],
+  [
+   "24/06",
+   105.8
+  ],
+  [
+   "25/06",
+   104.4
+  ],
+  [
+   "26/06",
+   101.6
+  ],
+  [
+   "29/06",
+   101.7
+  ],
+  [
+   "30/06",
+   106.7
+  ],
+  [
+   "01/07",
+   103.5
+  ],
+  [
+   "02/07",
+   104.9
+  ],
+  [
+   "03/07",
+   105.9
+  ],
+  [
+   "06/07",
+   103.7
+  ],
+  [
+   "07/07",
+   100.5
+  ],
+  [
+   "08/07",
+   99.85
+  ],
+  [
+   "09/07",
+   102.9
+  ],
+  [
+   "10/07",
+   91.7
+  ],
+  [
+   "13/07",
+   87.5
+  ],
+  [
+   "14/07",
+   87.6
+  ],
+  [
+   "15/07",
+   85.2
+  ],
+  [
+   "16/07",
+   82.8
+  ],
+  [
+   "17/07",
+   82.25
+  ],
+  [
+   "20/07",
+   84.3
+  ],
+  [
+   "21/07",
+   85.9
+  ],
+  [
+   "22/07",
+   87.7
+  ],
+  [
+   "23/07",
+   88.55
+  ],
+  [
+   "24/07",
+   87.6
+  ],
+  [
+   "27/07",
+   88.5
+  ],
+  [
+   "28/07",
+   86.6
+  ],
+  [
+   "29/07",
+   86
+  ],
+  [
+   "30/07",
+   86.55
+  ],
+  [
+   "31/07",
+   86.9
+  ],
+  [
+   "03/08",
+   85.1
+  ],
+  [
+   "04/08",
+   86.95
+  ],
+  [
+   "05/08",
+   89.05
+  ],
+  [
+   "06/08",
+   88.7
+  ],
+  [
+   "07/08",
+   88.9
+  ],
+  [
+   "10/08",
+   89.7
+  ],
+  [
+   "11/08",
+   92.45
+  ],
+  [
+   "12/08",
+   94.95
+  ],
+  [
+   "13/08",
+   94.5
+  ],
+  [
+   "14/08",
+   94.5
+  ],
+  [
+   "17/08",
+   93.3
+  ],
+  [
+   "18/08",
+   88.8
+  ],
+  [
+   "19/08",
+   85.4
+  ],
+  [
+   "20/08",
+   84.8
+  ],
+  [
+   "21/08",
+   85.4
+  ],
+  [
+   "24/08",
+   84.3
+  ],
+  [
+   "25/08",
+   91.75
+  ],
+  [
+   "26/08",
+   91.1
+  ],
+  [
+   "27/08",
+   92.5
+  ],
+  [
+   "28/08",
+   92.75
+  ],
+  [
+   "31/08",
+   92.1
+  ],
+  [
+   "01/09",
+   90.9
+  ],
+  [
+   "02/09",
+   90.85
+  ],
+  [
+   "03/09",
+   90.95
+  ],
+  [
+   "04/09",
+   96.4
+  ],
+  [
+   "07/09",
+   98.4
+  ],
+  [
+   "08/09",
+   95.15
+  ],
+  [
+   "09/09",
+   95.4
+  ],
+  [
+   "10/09",
+   94.3
+  ],
+  [
+   "11/09",
+   95.8
+  ],
+  [
+   "14/09",
+   93.7
+  ],
+  [
+   "15/09",
+   93.75
+  ],
+  [
+   "16/09",
+   95.4
+  ],
+  [
+   "17/09",
+   98.65
+  ],
+  [
+   "18/09",
+   98.15
+  ],
+  [
+   "21/09",
+   98.3
+  ],
+  [
+   "22/09",
+   98.4
+  ],
+  [
+   "23/09",
+   99.9
+  ],
+  [
+   "24/09",
+   97.85
+  ],
+  [
+   "25/09",
+   97.9
+  ],
+  [
+   "28/09",
+   97.2
+  ]
+ ],
+ "nom": "Kitron",
+ "notes": "Clôture du 28/09 à 97,20 (MarketScreener, après la clôture d'Oslo). Date des résultats T3 : 21/10 selon MarketScreener, 22/10 enregistré ici, à confirmer sur le site de Kitron.",
+ "pays": "NO",
+ "per26": 23.8,
+ "per27": 19.7,
+ "perf": {
+  "m1": 5.1,
+  "m12": 63.9,
+  "m3": -5.8
+ },
+ "pub": "2026-10-22",
+ "pubLabel": "Résultats T3",
+ "risque": "Valorisation déjà élevée, guidance 2026 non confirmée.",
+ "secteur": "Sous-traitance électronique",
+ "societe": {
+  "aVerifier": "Vérifié le 29/09/2026 sur les rapports T4 2021, T4 2023 et T4 2025 et le rapport annuel 2023 de Kitron. DEVISE : Kitron publie ses comptes en euros depuis le 1er janvier 2023 (avant : couronnes norvégiennes) ; le rapport annuel 2023 donne 2021 et 2022 retraités en euros. CA, EBIT et marges 2021 à 2025 sont donc en millions d'euros. En revanche l'action cote en NOK à Oslo (KIT.OL) et les dividendes sont déclarés en NOK par action : 0,25 (2021), 0,50 (2022), 0,75 (2023), 0,35 (2024), 0,70 (2025) NOK, tous confirmés ; ne pas les lire comme des euros. Confirmés : CA, résultat net (2022 à 2025), dette nette (dette portant intérêt ajustée, HORS dettes locatives IFRS 16), effectif 3 090 ETP fin 2025 (2 411 fin 2024), segments 2025 en euros. margeOp = marge d'EBIT publiée (6,5 %, 7,1 %, 9,1 %, 7,4 %, 8,7 %). 2021 : résultat net (152,8 M NOK) et dette nette publiés seulement en NOK, laissés à null en euros. Geo = régions de production, total supérieur au CA car il inclut les ventes internes. Restent non vérifiés : actionnariat (Folketrygdfondet 8,00 % au 31/12/2023 selon le rapport annuel 2023, pourcentage actuel non confirmé), liste des concurrents (non sourcée). Pas de ligne de consensus 2026e ; seule la prévision de la société (1 050 à 1 150 M€ de CA, 97 à 112 M€ d'EBIT) est connue.",
+  "actionnariat": "Capital dispersé entre investisseurs institutionnels, sans actionnaire de contrôle : le fonds public norvégien Folketrygdfondet est le premier actionnaire (environ 8 à 10 % selon les dates), devant des caisses de retraite et fonds nordiques.",
+  "avantage": "Une spécialisation dans l'électronique complexe à forte exigence (défense, médical, industrie) avec des usines proches des clients européens et des procédures de qualité difficiles à reproduire, ce qui rend le client réticent à changer de fabricant. Cet avantage peut s'éroder si le cycle de la défense se calme, si des concurrents plus gros baissent les prix ou si un grand client rapatrie sa production.",
+  "chiffres": [
+   {
+    "annee": "2021",
+    "ca": 365.7,
+    "detteNette": null,
+    "dividende": 0.25,
+    "margeOp": 6.5,
+    "rn": null
+   },
+   {
+    "annee": "2022",
+    "ca": 641,
+    "detteNette": 154.8,
+    "dividende": 0.5,
+    "margeOp": 7.1,
+    "rn": 28.3
+   },
+   {
+    "annee": "2023",
+    "ca": 775.2,
+    "detteNette": 129.4,
+    "dividende": 0.75,
+    "margeOp": 9.1,
+    "rn": 51.1
+   },
+   {
+    "annee": "2024",
+    "ca": 647.2,
+    "detteNette": 113.5,
+    "dividende": 0.35,
+    "margeOp": 7.4,
+    "rn": 28
+   },
+   {
+    "annee": "2025",
+    "ca": 738.3,
+    "detteNette": 27.1,
+    "dividende": 0.7,
+    "margeOp": 8.7,
+    "rn": 43.8
+   }
+  ],
+  "clients": "Environ 300 clients industriels, dont des groupes de défense européens ; en 2023, le premier client pesait 8,1 % des ventes et les deux suivants environ 5 % chacun, donc une concentration modérée.",
+  "concurrents": [
+   "Incap",
+   "Scanfil",
+   "NOTE",
+   "Hanza",
+   "Inission"
+  ],
+  "corrections": [
+   "fondee null -> 1962 (site Kitron : société ancêtre créée en 1962 à Arendal).",
+   "Histoire 1960 -> 1962 (même source) ; fait 1980 précisé (adoption du modèle EMS en 1980 selon la société).",
+   "Histoire 2026 : « environ 59 M€ payés en cash » corrigé, le prix de DeltaNordic est de 1 255 M SEK (environ 114 M€) dont 760 M SEK en cash, 150 M SEK en actions et 345 M SEK de complément conditionnel (communiqués Kitron du 19/11/2025 et du 12/01/2026) ; ajout du relèvement des objectifs 2026 (24/08/2026) et de l'usine de Horsens (01/09/2026).",
+   "Geo : parts recalculées sur les montants publiés 2025 (391,7 / 265,7 / 91,9 M€) -> 52.3 / 35.5 / 12.3 % (rapport T4 2025).",
+   "Tuomo Lähdesmäki depuis null -> 2014 (site Kitron : président du conseil depuis 2014).",
+   "Peter Nilsson : précision « depuis novembre 2014 » (site Kitron)."
+  ],
+  "croire": [
+   "Que le réarmement européen dure plusieurs années et que Kitron reste un fournisseur clé des industriels de la défense.",
+   "Que la direction atteigne son objectif 2026 (900 à 1 050 M€ de ventes, marge proche de 10 %) et intègre bien DeltaNordic.",
+   "Que les marchés industriels et l'électrification (centres de données, réseaux) repartent après le déstockage de 2024."
+  ],
+  "devDividende": "NOK",
+  "devise": "€",
+  "dirigeants": [
+   {
+    "depuis": 2014,
+    "nom": "Peter Nilsson",
+    "role": "Président et directeur général (President & CEO), depuis novembre 2014"
+   },
+   {
+    "depuis": 2014,
+    "nom": "Tuomo Lähdesmäki",
+    "role": "Président du conseil d'administration"
+   }
+  ],
+  "effectifs": 3090,
+  "fondee": 1962,
+  "geo": [
+   {
+    "part": 52.3,
+    "zone": "Pays nordiques et États-Unis (lieu de production, 391,7 M€ en 2025)"
+   },
+   {
+    "part": 35.5,
+    "zone": "Europe centrale et de l'Est (lieu de production, 265,7 M€)"
+   },
+   {
+    "part": 12.3,
+    "zone": "Asie (lieu de production, 91,9 M€)"
+   }
+  ],
+  "histoire": [
+   {
+    "annee": 1962,
+    "fait": "Création de la société ancêtre de Kitron à Arendal (Norvège)."
+   },
+   {
+    "annee": 1980,
+    "fait": "Adoption du modèle de sous-traitance de fabrication électronique (EMS)."
+   },
+   {
+    "annee": 1997,
+    "fait": "Introduction à la Bourse d'Oslo."
+   },
+   {
+    "annee": 2022,
+    "fait": "Rachat du danois BB Electronics (usines au Danemark, en République tchèque et en Chine) : le chiffre d'affaires bondit de 75 %."
+   },
+   {
+    "annee": 2023,
+    "fait": "Passage de la présentation des comptes de la couronne norvégienne à l'euro au 1er janvier, implantation en Malaisie, chiffre d'affaires record de 775,2 M€."
+   },
+   {
+    "annee": 2024,
+    "fait": "Année de ralentissement : ventes en baisse à 647 M€ avec le déstockage chez les clients industriels."
+   },
+   {
+    "annee": 2025,
+    "fait": "Envolée de la défense et de l'aérospatial (+72 %), ventes record à 738 M€, dividende doublé."
+   },
+   {
+    "annee": 2026,
+    "fait": "Rachat du suédois DeltaNordic (électronique de défense) finalisé le 12 janvier : valeur d'entreprise de 1 255 M SEK (environ 114 M€), payée 760 M SEK en cash (environ 69 M€), 150 M SEK en actions nouvelles et jusqu'à 345 M SEK de complément lié au chiffre d'affaires. Le 24 août, objectifs 2026 relevés à 1 050 à 1 150 M€ de chiffre d'affaires et 97 à 112 M€ d'EBIT ; le 1er septembre, annonce d'une nouvelle usine à Horsens (Danemark), en service début 2028."
+   }
+  ],
+  "modele": "Kitron facture la fabrication d'équipements électroniques conçus par ses clients : il achète les composants, les assemble, teste et livre, en prenant une marge sur l'ensemble. Les contrats sont souvent pluriannuels sur des produits complexes fabriqués en petites et moyennes séries, ce qui rend le revenu assez récurrent, mais le pouvoir de prix reste modéré car la marge opérationnelle tourne autour de 7 à 9 %.",
+  "questions": [
+   "Quelle part des ventes dépend de la défense, et les commandes sont-elles sécurisées sur plusieurs années ?",
+   "La marge opérationnelle approche-t-elle vraiment 10 % en 2026, ou la croissance se fait-elle au prix de marges plus faibles ?",
+   "Quelle est la concentration réelle des clients aujourd'hui, notamment dans la défense ?"
+  ],
+  "resume": "Kitron est un sous-traitant en électronique : il fabrique, pour le compte d'autres entreprises, des cartes électroniques et des appareils complets conçus par ses clients. Par exemple, les circuits électroniques d'un système de défense, d'une borne de recharge ou d'un appareil médical peuvent sortir de ses usines en Norvège, en Lituanie ou en Pologne, sans jamais porter le nom de Kitron.",
+  "segments": [
+   {
+    "detail": "Électronique pour équipements militaires et aéronautiques, 234 M€ en 2025, le moteur de la croissance.",
+    "nom": "Défense et aérospatial",
+    "part": 31.7
+   },
+   {
+    "detail": "Électronique pour réseaux électriques, recharge de véhicules et gestion de l'énergie, 173 M€.",
+    "nom": "Électrification",
+    "part": 23.4
+   },
+   {
+    "detail": "Automatismes, capteurs et équipements industriels, 162 M€.",
+    "nom": "Industrie",
+    "part": 22
+   },
+   {
+    "detail": "Équipements de communication et objets connectés, 118 M€.",
+    "nom": "Connectivité",
+    "part": 15.9
+   },
+   {
+    "detail": "Électronique pour appareils médicaux, 51 M€.",
+    "nom": "Dispositifs médicaux",
+    "part": 6.9
+   }
+  ],
+  "siege": "Asker (près d'Oslo), Norvège",
+  "site": "https://www.kitron.com",
+  "sources": [
+   "https://ne-cdn.eurolandir.com/press-releases-attachments./3991332/kitron-2025-q4-report.pdf",
+   "https://sanoekitroncomprod.blob.core.windows.net/storage-prod/public/files/Quarterly%20reports/Kitron-2023-Q4-Report.pdf",
+   "https://sanoekitroncomprod.blob.core.windows.net/storage-prod/public/files/Annual-Reports/Kitron-Annual-Report-2023.pdf",
+   "https://sanoekitroncomprod.blob.core.windows.net/storage-prod/public/files/Annual-Reports/Kitron-Annual-Report-2024.pdf",
+   "https://www.globenewswire.com/news-release/2022/02/11/2383390/0/en/Kitron-Q4-2021-Acquisition-and-strong-demand-supporting-growth-outlook.html",
+   "https://www.globenewswire.com/news-release/2025/11/19/3191360/0/en/Kitron-Acquires-DeltaNordic-Strengthening-Its-Position-in-Defence.html",
+   "https://www.globenewswire.com/news-release/2026/01/12/3216749/0/en/Kitron-ASA-Completion-of-acquisition-of-DeltaNordic-and-issuance-of-consideration-shares.html",
+   "https://www.inderes.fi/en/releases/kitron-revises-full-year-2026-outlook-upwards",
+   "https://www.globenewswire.com/news-release/2026/09/01/3354310/0/en/kitron-to-invest-in-a-new-factory-in-horsens-denmark.html",
+   "https://www.kitron.com/about-kitron",
+   "https://www.kitron.com/members?member=Peter+Nilsson",
+   "https://kitron.com/members?member=Tuomo+L%C3%A4hdesm%C3%A4ki",
+   "https://www.kitron.com/investors-corporate-governance-3-equility-and-dividends",
+   "https://www.marketscreener.com/quote/stock/KITRON-ASA-1413186/company/"
+  ],
+  "suivi": {
+   "bilan": "Les 3 conditions tiennent, avec un objectif 2026 relevé deux fois ; le point le plus fragile est la dépendance croissante à la défense (la moitié des ventes) et à quelques gros clients, dont Kitron ne publie pas le poids.",
+   "croire": [
+    {
+     "c": "Que le réarmement européen dure plusieurs années et que Kitron reste un fournisseur clé des industriels de la défense.",
+     "etat": "ok",
+     "preuve": "T2 2026 : ventes défense +234 % ; carnet total 794 M€, dont 60 % défense.",
+     "prochain": "Résultats T3 le 22/10/2026",
+     "reponse": "Oui : la demande défense ne ralentit pas selon la direction (drones, missiles, véhicules, naval) et Kitron ajoute des usines en Norvège et au Danemark.",
+     "source": "https://www.investing.com/news/transcripts/earnings-call-transcript-kitron-posts-strong-q2-2026-growth-shares-fall-78-93CH-4785406"
+    },
+    {
+     "c": "Que la direction atteigne son objectif 2026 (900 à 1 050 M€ de ventes, marge proche de 10 %) et intègre bien DeltaNordic.",
+     "etat": "ok",
+     "preuve": "24/08/2026 : objectif 2026 relevé à 1 050 à 1 150 M€ de CA et 97 à 112 M€ d'EBIT ; Kitron Eltech a apporté 16,5 M€ de CA au T2 2026.",
+     "prochain": "Résultats T3 le 22/10/2026",
+     "reponse": "L'objectif cité dans la condition est dépassé : il a été relevé deux fois, et DeltaNordic (devenu Kitron Eltech) contribue comme prévu.",
+     "source": "https://www.inderes.fi/en/releases/kitron-revises-full-year-2026-outlook-upwards"
+    },
+    {
+     "c": "Que les marchés industriels et l'électrification (centres de données, réseaux) repartent après le déstockage de 2024.",
+     "etat": "ok",
+     "preuve": "T2 2026 : industrie +13 % (ratio commandes sur ventes de 1,4), électrification +7 %, environ 120 M€ de ventes annuelles liées aux centres de données.",
+     "prochain": "Résultats T3 le 22/10/2026",
+     "reponse": "Oui, mais modestement : tous les secteurs progressent, l'industrie nettement, l'électrification plus lentement.",
+     "source": "https://www.investing.com/news/company-news/kitron-q2-2026-slides-defence-revenue-triples-margins-top-9-93CH-4785419"
+    }
+   ],
+   "le": "2026-09-29",
+   "questions": [
+    {
+     "etat": "ok",
+     "preuve": "T2 2026 : défense et aérospatial 154 M€ (+234 %) sur 295,7 M€ de CA ; carnet de 794 M€ (+56 %), dont 60 % défense.",
+     "prochain": "Résultats T3 le 22/10/2026",
+     "q": "Quelle part des ventes dépend de la défense, et les commandes sont-elles sécurisées sur plusieurs années ?",
+     "reponse": "La défense pèse désormais environ la moitié des ventes. Les contrats pluriannuels ne sont pas détaillés, mais le carnet de commandes est gros et à 60 % militaire.",
+     "source": "https://www.investing.com/news/transcripts/earnings-call-transcript-kitron-posts-strong-q2-2026-growth-shares-fall-78-93CH-4785406"
+    },
+    {
+     "etat": "ok",
+     "preuve": "T2 2026 : EBIT 28,3 M€, marge 9,6 % (8,7 % un an plus tôt) ; objectif 2026 relevé à 97 à 112 M€ d'EBIT pour 1 050 à 1 150 M€ de CA, soit environ 9,2 à 9,7 % (calcul).",
+     "prochain": "Résultats T3 le 22/10/2026",
+     "q": "La marge opérationnelle approche-t-elle vraiment 10 % en 2026, ou la croissance se fait-elle au prix de marges plus faibles ?",
+     "reponse": "La croissance ne se fait pas au prix des marges : la marge atteint 9,6 % au T2. La directrice financière voit 10 % comme le haut d'une fourchette de 9,5 à 10 %.",
+     "source": "https://www.globenewswire.com/news-release/2026/07/10/3325306/0/en/Kitron-Record-Q2-results-and-broad-based-growth.html"
+    },
+    {
+     "etat": "watch",
+     "preuve": "Dernier chiffre publié : premier client à 8,1 % des ventes en 2023 ; pas de pourcentage dans le rapport annuel 2025 lu.",
+     "prochain": "Rapport annuel 2026 (mars 2027) ou questions lors des résultats T3 du 22/10/2026",
+     "q": "Quelle est la concentration réelle des clients aujourd'hui, notamment dans la défense ?",
+     "reponse": "Kitron ne publie pas de chiffre récent. Le PDG dit que la concentration baisse au S1 2026, après un T1 dominé par un grand client, ce qui confirme qu'un gros client défense a pesé lourd.",
+     "source": "https://www.investing.com/news/transcripts/earnings-call-transcript-kitron-posts-strong-q2-2026-growth-shares-fall-78-93CH-4785406"
+    }
+   ]
+  },
+  "verifieLe": "2026-09-29"
+ },
+ "src": "https://www.globenewswire.com/news-release/2026/09/15/3361639/0/en/kitron-asa-initiation-of-share-buyback-program.html",
+ "statut": "surveiller",
+ "these": "Exposition à la défense européenne.",
+ "ticker": "KIT",
+ "yahoo": "KIT.OL",
+ "zb": "https://www.zonebourse.com/cours/action/KITRON-ASA-1413186/"
+}

@@ -1,0 +1,583 @@
+{
+ "lecture": "Le marché est dominé par un seul choc : la fermeture d'Ormuz qui tient le Brent au-dessus de 100 $ et oblige la BCE et la Fed à remonter leurs taux, ce qui pèse sur l'or, l'euro et les valeurs sensibles au crédit comme Trigano ou Thermador. En Europe, s'ajoutent des stocks de gaz très bas avant l'hiver (défavorable à Vidrala et Viscofan, favorable à Friedrich Vorwerk) et un risque politique français autour du budget 2027 qui touche d'abord Thermador, Wavestone et Aubay. La détente Chine / États-Unis jusqu'au 10/01/2027 et un dollar plus fort sont les rares vents porteurs, surtout pour Melexis, Lectra, Robertet et Harvia.",
+ "majLe": "2026-09-29",
+ "matieres": {
+  "ALU": {
+   "moteurs": "L'aluminium reste haut (environ 3 260 $/t, +22 % sur un an) car la production du Golfe s'est effondrée avec la guerre, mais le dollar fort et les exportations chinoises le plafonnent.",
+   "valeurs": [
+    "TRI",
+    "IP"
+   ]
+  },
+  "ARGENT": {
+   "moteurs": "L'argent suit l'or à la baisse (64,78 $ le 25/09, -6 % sur un mois) sous l'effet des taux, mais reste soutenu sur un an par la demande industrielle, notamment verte.",
+   "valeurs": [
+    "KIT",
+    "MELE"
+   ]
+  },
+  "BLE": {
+   "moteurs": "Le blé recule d'environ 9 % sur un mois à Chicago malgré le blocage de la mer Noire, car les stocks ukrainiens sont élevés et l'espoir d'un cessez-le-feu pèse ; Euronext était à 243,75 €/t le 21/09.",
+   "valeurs": []
+  },
+  "BRENT": {
+   "moteurs": "Le Brent oscille entre 104 et 108 $ au gré des nouvelles sur Ormuz : refus américain du plan iranien, attaques de navires, blocus. Le rétablissement partiel des flux saoudiens par la mer Rouge limite la hausse.",
+   "valeurs": [
+    "TRI",
+    "VIS",
+    "VID",
+    "HARVIA"
+   ]
+  },
+  "CUIVRE": {
+   "moteurs": "Le cuivre évolue près de ses records (record LME à 14 533 $/t le 08/09) grâce au stockage américain avant d'éventuels droits, à la demande IA et électrification et à l'arrêt d'Escondida ; la faiblesse chinoise le freine.",
+   "valeurs": [
+    "AALB",
+    "THEP",
+    "JCQ",
+    "KIT"
+   ]
+  },
+  "EURUSD": {
+   "moteurs": "L'euro baisse à 1,136 $ le 29/09 (-2,2 % sur un mois) car la Fed remonte ses taux et le pétrole cher profite au dollar ; un euro plus faible gonfle le CA converti des sociétés très exposées aux États-Unis.",
+   "valeurs": [
+    "LSS",
+    "RBT",
+    "HARVIA",
+    "VU",
+    "VIS",
+    "IP",
+    "VIRP"
+   ]
+  },
+  "GAZ_EU": {
+   "moteurs": "Le TTF tient autour de 70 €/MWh, plus du double d'il y a un an, car les stocks européens (environ 71 %) sont très en retard sur la normale et le GNL du Golfe est bloqué ; une demande chinoise plus faible l'a fait reculer le 29/09.",
+   "valeurs": [
+    "VID",
+    "VIS",
+    "JCQ",
+    "VH2"
+   ]
+  },
+  "OR": {
+   "moteurs": "L'or recule d'environ 6 à 7 % sur un mois (autour de 4 150 à 4 300 $ l'once selon les sources fin septembre, loin du record de 5 608 $ de janvier) car la Fed et la BCE remontent leurs taux et le dollar se renforce ; la guerre avec l'Iran limite la baisse en maintenant la demande refuge.",
+   "valeurs": []
+  }
+ },
+ "notes": "Contexte connu vérifié : BCE dépôt 2,50 % le 10/09 confirmé ; Brent > 100 $ confirmé ; cargo touché près d'Ormuz confirmé (Cape Dao, 23/09). Non confirmé : OAT 10 ans vers 4,7 % (4,63 % le 25/09) et écart OAT/Bund > 110 pb (105,4 pb le 25/09, plus haut sur un an 109,9 pb). Nombre de passages à Ormuz divergent selon les sources (Al Jazeera : 132 sur la semaine du 21 au 27/09 ; straits.live : 1 le 20/09). Dates exactes des prochaines réunions Fed et BCE non vérifiées.",
+ "points": [
+  {
+   "faits": [
+    {
+     "d": "fin 02",
+     "t": "Début de la guerre avec l'Iran et fermeture du détroit d'Ormuz (environ 20 % du pétrole mondial). Pic du Brent à 118,35 $ le 31/03."
+    },
+    {
+     "d": "06/09",
+     "t": "L'OPEP+ laisse sa production inchangée pour octobre ; un analyste de Rystad rappelle que l'OPEP+ a très peu de prise sur le marché physique tant qu'Ormuz est bloqué."
+    },
+    {
+     "d": "23/09",
+     "t": "Le vraquier Cape Dao (pavillon Antigua-et-Barbuda) est touché par un projectile d'origine inconnue près du Musandam (Oman) ; un marin indien tué, 27 rescapés. L'OMI recense 83 incidents et 23 marins tués depuis le début du conflit."
+    },
+    {
+     "d": "24/09",
+     "t": "Brent à 106,13 $ (+3,27 % sur 24 h) selon un suivi spécialisé ; le blocus américain reste en place, l'Iran exige sa levée et le dégel de ses avoirs avant toute réouverture."
+    },
+    {
+     "d": "25/09",
+     "t": "L'Iran présente à l'ONU un plan : levée des sanctions, dégel des fonds et fin du blocus contre réouverture du détroit et reprise des négociations nucléaires."
+    },
+    {
+     "d": "26/09",
+     "t": "Trump juge la proposition iranienne « pas acceptable »."
+    },
+    {
+     "d": "28/09",
+     "t": "Le Brent novembre bondit de plus de 3 %, à 107,35 $ vers 8 h GMT."
+    },
+    {
+     "d": "29/09",
+     "t": "Le Brent reflue sous 104 $ (104,02 $, -1,2 %) ; +15 % sur un mois. L'Arabie saoudite a rétabli environ 3,5 Mb/j via son oléoduc Est-Ouest vers la mer Rouge."
+    }
+   ],
+   "id": "ormuz",
+   "matieres": [
+    {
+     "code": "BRENT",
+     "effet": "Hausse : prime de risque maximale tant que le détroit reste fermé ; chaque attaque ou refus diplomatique fait monter le prix, chaque signe de négociation le fait baisser de quelques dollars."
+    },
+    {
+     "code": "GAZ_EU",
+     "effet": "Hausse : environ un cinquième du GNL mondial passe normalement par Ormuz et le Qatar a prolongé sa force majeure sur certaines livraisons européennes."
+    },
+    {
+     "code": "ALU",
+     "effet": "Soutien : la production d'aluminium du Golfe a chuté (-44 % sur un an en juillet), ce qui garde le marché tendu."
+    },
+    {
+     "code": "OR",
+     "effet": "Mixte : la crise soutient l'or comme refuge, mais le pétrole cher pousse les banques centrales à monter les taux, ce qui pèse sur l'or."
+    },
+    {
+     "code": "EURUSD",
+     "effet": "Baisse de l'euro : le pétrole cher et la recherche de refuge profitent au dollar."
+    }
+   ],
+   "niveau": "eleve",
+   "region": "Moyen-Orient / Golfe",
+   "resume": "La guerre avec l'Iran, commencée fin février 2026, bloque toujours le détroit d'Ormuz par où passait environ un cinquième du pétrole mondial, et les États-Unis maintiennent un blocus des ports iraniens. Fin septembre, Trump a rejeté le plan iranien de réouverture et un vraquier a encore été touché près d'Oman. Le Brent est repassé au-dessus de 100 $ et c'est le premier moteur de l'inflation et des taux en ce moment.",
+   "sources": [
+    "https://www.aljazeera.com/economy/2026/9/28/oil-prices-surge-after-trump-rejects-irans-plan-to-reopen-strait-of-hormuz",
+    "https://straits.live/briefs/2026-09-24",
+    "https://gcaptain.com/seafarer-killed-in-hormuz-attack-as-trump-pushes-iran-deal-at-un/",
+    "https://tradingeconomics.com/commodity/brent-crude-oil",
+    "https://www.energyconnects.com/news/oil/2026/september/opecplus-keeps-output-policy-unchanged-for-october",
+    "https://en.wikipedia.org/wiki/2026_Iran_war_fuel_crisis"
+   ],
+   "surveiller": [
+    "04/10 : réunion OPEP+ sur la production de novembre",
+    "Nouvelles attaques de navires et nombre de passages dans le détroit (chiffres divergents selon les sources)",
+    "Toute reprise de négociation États-Unis / Iran via le Qatar",
+    "03/11 : élections de mi-mandat américaines, que Téhéran juge peu propices à un accord avant"
+   ],
+   "tendance": "hausse",
+   "titre": "Iran, États-Unis et détroit d'Ormuz",
+   "valeurs": [
+    {
+     "effet": "Carburant cher et pouvoir d'achat sous pression pèsent sur la demande de camping-cars et de loisirs en Europe.",
+     "sens": "negatif",
+     "ticker": "TRI"
+    },
+    {
+     "effet": "La fabrication du verre consomme beaucoup de gaz ; un gaz européen cher rogne les marges si les hausses ne sont pas répercutées aux clients.",
+     "sens": "negatif",
+     "ticker": "VID"
+    },
+    {
+     "effet": "Industrie consommatrice d'énergie avec une grosse base européenne (41 % du CA en EMEA) : coûts énergie en hausse.",
+     "sens": "negatif",
+     "ticker": "VIS"
+    },
+    {
+     "effet": "Spécialiste allemand des réseaux gaz, électricité et hydrogène (99 % Allemagne) : la crise renforce l'urgence de sécuriser et diversifier les infrastructures énergétiques.",
+     "sens": "positif",
+     "ticker": "VH2"
+    },
+    {
+     "effet": "L'électricité chère en Europe peut freiner l'achat de saunas, mais 38 % du CA vient d'Amérique du Nord, moins touchée.",
+     "sens": "mixte",
+     "ticker": "HARVIA"
+    },
+    {
+     "effet": "12 % du CA en Inde, Afrique et Moyen-Orient : exposée au ralentissement régional et à la logistique, sans lien direct avec le pétrole.",
+     "sens": "mixte",
+     "ticker": "VIRP"
+    }
+   ]
+  },
+  {
+   "faits": [
+    {
+     "d": "10/09",
+     "t": "La BCE relève ses trois taux de 0,25 point : dépôt à 2,50 %, refinancement à 2,65 %, prêt marginal à 2,90 % (effet au 16/09). Elle cite le conflit au Moyen-Orient comme source de pressions inflationnistes."
+    },
+    {
+     "d": "10/09",
+     "t": "Projections BCE : inflation 3,0 % en 2026, 2,5 % en 2027, 2,1 % en 2028 (2027 et 2028 revues en hausse)."
+    },
+    {
+     "d": "16/09",
+     "t": "La Fed relève ses taux de 0,25 point à 3,75-4,00 %, à l'unanimité (12-0), invoquant une inflation « toujours élevée »."
+    },
+    {
+     "d": "29/09",
+     "t": "Les marchés intègrent environ 70 % de probabilité d'une nouvelle hausse de la Fed en octobre et environ 100 pb de hausses BCE d'ici fin 2027."
+    }
+   ],
+   "id": "taux",
+   "matieres": [
+    {
+     "code": "OR",
+     "effet": "Baisse : les taux réels plus hauts et le dollar ferme font reculer l'or d'environ 6 à 7 % sur un mois."
+    },
+    {
+     "code": "ARGENT",
+     "effet": "Baisse : même logique que l'or, repli d'environ 6 % sur un mois."
+    },
+    {
+     "code": "EURUSD",
+     "effet": "Baisse : la Fed plus agressive soutient le dollar, l'euro recule d'environ 2 % sur un mois."
+    }
+   ],
+   "niveau": "eleve",
+   "region": "Zone euro / États-Unis",
+   "resume": "Le choc pétrolier relance l'inflation, et les deux grandes banques centrales ont remonté leurs taux en septembre au lieu de les baisser. Les marchés anticipent encore des hausses. C'est un vent contraire pour les petites et moyennes valeurs, pour l'immobilier et pour l'or.",
+   "sources": [
+    "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.mp260910~314e508016.en.html",
+    "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
+    "https://tradingeconomics.com/commodity/gold",
+    "https://tradingeconomics.com/euro-area/currency"
+   ],
+   "surveiller": [
+    "Octobre : prochaine décision de la Fed, le marché voit environ 70 % de chances d'une hausse (date exacte non vérifiée)",
+    "Prochaine réunion BCE fin octobre (date à confirmer)",
+    "Chiffres d'inflation zone euro et États-Unis début octobre"
+   ],
+   "tendance": "hausse",
+   "titre": "Inflation énergie : BCE et Fed remontent les taux",
+   "valeurs": [
+    {
+     "effet": "83 % du CA en France, lié au bâtiment et à la rénovation : des taux plus hauts freinent les chantiers.",
+     "sens": "negatif",
+     "ticker": "THEP"
+    },
+    {
+     "effet": "Achats de camping-cars souvent financés à crédit : le crédit plus cher pèse sur les commandes.",
+     "sens": "negatif",
+     "ticker": "TRI"
+    },
+    {
+     "effet": "Équipementier industriel et bâtiment en Europe (69 % du CA) : sensible au cycle de l'investissement et de la construction.",
+     "sens": "negatif",
+     "ticker": "AALB"
+    },
+    {
+     "effet": "Les clients reportent leurs investissements en équipements quand les taux montent, mais le dollar plus fort aide la conversion du CA américain (32 %).",
+     "sens": "mixte",
+     "ticker": "LSS"
+    }
+   ]
+  },
+  {
+   "faits": [
+    {
+     "d": "13/09",
+     "t": "LFI, écologistes, communistes et socialistes annoncent qu'ils voteront la censure du budget ; le RN (122 députés) reste non engagé."
+    },
+    {
+     "d": "18/09",
+     "t": "Lecornu annonce environ 54 Md€ d'effort, un déficit 2027 visé à 4,8-5 % du PIB (contre 6,5 % sans mesures), pas de hausse d'impôts, une surtaxe sur les grandes entreprises ramenée à 5 Md€ par an et les ETI sorties du champ."
+    },
+    {
+     "d": "25/09",
+     "t": "OAT 10 ans à 4,63 %, Bund à 3,58 %, écart à 105,4 pb (-4,5 pb sur la journée). Plus haut sur un an : 109,9 pb."
+    }
+   ],
+   "id": "france",
+   "matieres": [
+    {
+     "code": "EURUSD",
+     "effet": "Léger frein pour l'euro quand le risque politique français monte, mais l'effet reste secondaire face aux taux et au pétrole."
+    }
+   ],
+   "niveau": "moyen",
+   "region": "France",
+   "resume": "Le gouvernement Lecornu présente un budget 2027 avec 54 Md€ d'effort pour ramener le déficit vers 4,8 à 5 % du PIB, mais la gauche promet la censure et le RN reste l'arbitre. L'écart de taux avec l'Allemagne est élevé mais s'est un peu détendu en fin de semaine dernière. C'est le risque principal pour les valeurs très françaises de ta liste.",
+   "sources": [
+    "https://www.investirmag.fr/lecornu-devoile-les-mesures-deconomies-pour-le-budget-de-letat-2027/",
+    "https://www.legifiscal.fr/actualites-fiscales/4639-projet-loi-finances-2027-annonces-sebastien-lecornu.html",
+    "https://www.journaldunet.com/business/action-publique/1555095-la-gauche-annonce-une-motion-de-censure-contre-le-gouvernement-lecornu-lors-du-debat-sur-le-budget-2027/",
+    "https://www.ideal-investisseur.fr/en/markets/oat-bund-spread.html"
+   ],
+   "surveiller": [
+    "01/10 : présentation du projet de loi de finances 2027 en Conseil des ministres (date confirmée par Investir, 19/09)",
+    "Octobre : début de l'examen à l'Assemblée, recours possible au 49.3 et motions de censure",
+    "Position du RN sur la censure",
+    "Écart OAT/Bund : au-dessus de 110 pb, signal d'alerte ; non atteint au 25/09"
+   ],
+   "tendance": "stable",
+   "titre": "Budget 2027 et risque politique français",
+   "valeurs": [
+    {
+     "effet": "Valeur la plus française de la liste (83 % du CA) : un blocage politique ou des taux français plus hauts pèsent sur le bâtiment et la confiance.",
+     "sens": "negatif",
+     "ticker": "THEP"
+    },
+    {
+     "effet": "54 % du CA en France, dont du conseil au secteur public : les coupes budgétaires et l'incertitude freinent les missions.",
+     "sens": "negatif",
+     "ticker": "WAVE"
+    },
+    {
+     "effet": "58 % du CA en France et Royaume-Uni : l'incertitude pèse sur les budgets informatiques des grands clients français.",
+     "sens": "negatif",
+     "ticker": "AUB"
+    },
+    {
+     "effet": "35 % du CA en France, le reste bien diversifié : exposée mais moins que Thermador ou Wavestone.",
+     "sens": "mixte",
+     "ticker": "ATE"
+    },
+    {
+     "effet": "35 % du CA en France : moral des ménages français en jeu.",
+     "sens": "mixte",
+     "ticker": "TRI"
+    }
+   ]
+  },
+  {
+   "faits": [
+    {
+     "d": "mi-03",
+     "t": "Le TTF avait presque doublé à plus de 60 €/MWh après l'arrêt du GNL qatari (force majeure le 03/03)."
+    },
+    {
+     "d": "31/08",
+     "t": "TTF octobre à 70,85 €/MWh ; stocks UE à 64,7 %. Goldman Sachs évoque plus de 100 €/MWh en décembre si les exportations du Moyen-Orient ne reviennent que lentement."
+    },
+    {
+     "d": "29/09",
+     "t": "TTF à 70,20 €/MWh (-4,2 % sur la journée, plus bas d'un mois car la demande chinoise faiblit) ; stocks UE à environ 71 % contre 87 % en moyenne sur 5 ans, Allemagne un peu au-dessus de 57 %. Force majeure qatarie vers l'Italie prolongée jusqu'en décembre."
+    }
+   ],
+   "id": "gaz-hiver",
+   "matieres": [
+    {
+     "code": "GAZ_EU",
+     "effet": "Hausse potentielle forte : marché tendu, la moindre mauvaise nouvelle sur l'offre ou la météo fait monter le TTF."
+    }
+   ],
+   "niveau": "eleve",
+   "region": "Europe",
+   "resume": "Les stocks de gaz européens sont nettement en retard sur la normale, surtout en Allemagne, alors que le GNL du Golfe arrive mal. Le TTF tient autour de 70 €/MWh, plus du double d'il y a un an. Un hiver froid ou une nouvelle escalade à Ormuz peut faire flamber le prix.",
+   "sources": [
+    "https://tradingeconomics.com/commodity/eu-natural-gas",
+    "https://www.euronews.com/business/2026/08/31/european-gas-prices-spike-above-70-amid-renewed-middle-east-fighting",
+    "https://en.wikipedia.org/wiki/2026_Iran_war_fuel_crisis"
+   ],
+   "surveiller": [
+    "01/11 : objectifs de remplissage (80 % pour les Pays-Bas, 70 % pour l'Allemagne selon Euronews)",
+    "Durée de la force majeure qatarie (Italie jusqu'en décembre)",
+    "Premières vagues de froid en Europe"
+   ],
+   "tendance": "stable",
+   "titre": "Stocks de gaz européens bas avant l'hiver",
+   "valeurs": [
+    {
+     "effet": "Verrier : le gaz est un coût majeur. Tant que le TTF reste haut, les marges dépendent de sa capacité à relever ses prix.",
+     "sens": "negatif",
+     "ticker": "VID"
+    },
+    {
+     "effet": "Usines européennes énergivores : facture énergie plus lourde.",
+     "sens": "negatif",
+     "ticker": "VIS"
+    },
+    {
+     "effet": "58 % du CA en Allemagne et autres pays d'Europe : ses clients industriels souffrent de l'énergie chère.",
+     "sens": "negatif",
+     "ticker": "JCQ"
+    },
+    {
+     "effet": "Le retard de stockage et la recherche de nouvelles routes gazières en Allemagne soutiennent la demande en infrastructures.",
+     "sens": "positif",
+     "ticker": "VH2"
+    }
+   ]
+  },
+  {
+   "faits": [
+    {
+     "d": "début 09",
+     "t": "Les émissaires Kushner et Witkoff se rendent à Moscou et Kyiv ; Zelensky rejette le projet d'accord."
+    },
+    {
+     "d": "21/09",
+     "t": "Blé Euronext décembre à 243,75 €/t (+0,9 %) ; les exportations maritimes russes et ukrainiennes par la mer Noire sont quasi suspendues après de fortes attaques de drones."
+    },
+    {
+     "d": "26/09",
+     "t": "Moscou mise sur sa stratégie militaire et exige la reconnaissance de ses conquêtes avant tout cessez-le-feu ; l'Ukraine continue de frapper des raffineries russes."
+    },
+    {
+     "d": "29/09",
+     "t": "Le blé de Chicago recule d'environ 9 % sur un mois : un cessez-le-feu pourrait rendre à la Russie jusqu'à 80 % de sa capacité portuaire céréalière."
+    }
+   ],
+   "id": "russie-ukraine",
+   "matieres": [
+    {
+     "code": "BLE",
+     "effet": "Volatil : hausse à chaque attaque en mer Noire, baisse à chaque signe de cessez-le-feu ; tendance récente à la baisse."
+    },
+    {
+     "code": "GAZ_EU",
+     "effet": "Secondaire : les frappes sur l'énergie russe entretiennent la tension sur les carburants et le gaz en Europe."
+    }
+   ],
+   "niveau": "moyen",
+   "region": "Europe de l'Est",
+   "resume": "Les pourparlers menés par les États-Unis ont repris début septembre mais Zelensky a rejeté le projet d'accord et Moscou pose des conditions territoriales jugées inacceptables. Les frappes de drones en mer Noire ont quasi stoppé les exportations maritimes de céréales des deux pays. Le blé reste nerveux mais recule quand l'espoir de cessez-le-feu revient.",
+   "sources": [
+    "https://www.csmonitor.com/World/Europe/2026/0926/russia-ukraine-peace-talks-donbas-europe-trump",
+    "https://www.maritimeprofessional.com/news/wheat-prices-rise-black-tensions-423084",
+    "https://tradingeconomics.com/commodity/wheat"
+   ],
+   "surveiller": [
+    "Tout nouveau cycle de négociations sous médiation américaine",
+    "Reprise ou non du trafic céréalier en mer Noire",
+    "Frappes sur les raffineries et ports russes"
+   ],
+   "tendance": "stable",
+   "titre": "Russie / Ukraine et mer Noire",
+   "valeurs": [
+    {
+     "effet": "Sous-traitant électronique nordique et d'Europe centrale : la hausse des budgets de défense européens entretient la demande (lecture générale, à vérifier dans ses publications).",
+     "sens": "positif",
+     "ticker": "KIT"
+    },
+    {
+     "effet": "Un accord de paix relancerait l'industrie européenne et la reconstruction, favorable aux aciers ; la guerre qui dure pèse sur l'énergie.",
+     "sens": "mixte",
+     "ticker": "JCQ"
+    },
+    {
+     "effet": "Un accord pourrait détendre le gaz, mais la sécurisation des réseaux allemands reste un besoin de fond.",
+     "sens": "mixte",
+     "ticker": "VH2"
+    }
+   ]
+  },
+  {
+   "faits": [
+    {
+     "d": "21/09",
+     "t": "Les exportations chinoises d'aimants en terres rares vers les États-Unis chutent de 21 % en août (512 t) ; les contrôles d'avril 2025 restent en place même assouplis."
+    },
+    {
+     "d": "24/09",
+     "t": "Début de la visite d'État de Xi à Washington ; la trêve commerciale, qui expirait en novembre, est prolongée jusqu'au 10/01/2027 selon le Trésor américain."
+    },
+    {
+     "d": "28/09",
+     "t": "Publication de listes réciproques d'environ 30 Md$ de produits à droits réduits ; semi-conducteurs, VE et batteries exclus. Droits américains moyens sur la Chine : d'environ 22 % à 20,5 % (contre environ 11 % avant 2025)."
+    }
+   ],
+   "id": "chine-usa",
+   "matieres": [
+    {
+     "code": "CUIVRE",
+     "effet": "Soutien modéré : la détente améliore le moral industriel, mais la demande chinoise reste molle (profits industriels +4,2 % seulement en août)."
+    },
+    {
+     "code": "BLE",
+     "effet": "Légère pression : le blé figure dans les listes de baisse de droits, mais les achats chinois réels restent limités."
+    }
+   ],
+   "niveau": "moyen",
+   "region": "Asie / États-Unis",
+   "resume": "La visite de Xi à Washington a permis de prolonger la trêve commerciale jusqu'au 10/01/2027 et de baisser les droits sur environ 30 Md$ de produits de chaque côté. Mais les semi-conducteurs, les véhicules électriques et les batteries sont exclus, et Pékin garde la main sur les terres rares. La tension baisse, sans être réglée.",
+   "sources": [
+    "https://www.mining.com/web/china-rare-earth-exports-to-us-drop-before-xi-trump-meet/",
+    "https://www.pbs.org/newshour/world/u-s-and-china-release-product-lists-for-tariff-cuts-after-trump-xi-meeting",
+    "https://tradingeconomics.com/commodity/copper"
+   ],
+   "surveiller": [
+    "10/01/2027 : fin de la trêve prolongée",
+    "Évolution des licences chinoises sur les terres rares",
+    "Nouveaux contrôles américains sur les puces"
+   ],
+   "tendance": "baisse",
+   "titre": "Chine / États-Unis : trêve commerciale et terres rares",
+   "valeurs": [
+    {
+     "effet": "64 % du CA en Asie dont la Chine, semi-conducteurs auto : profite de la détente, mais les puces restent hors accord et les terres rares sont une arme possible pour Pékin.",
+     "sens": "mixte",
+     "ticker": "MELE"
+    },
+    {
+     "effet": "24 % du CA en Asie-Pacifique et 32 % aux Amériques : la trêve limite le risque de guerre commerciale sur ses clients mode et auto.",
+     "sens": "mixte",
+     "ticker": "LSS"
+    },
+    {
+     "effet": "12 % de la production en Asie : sensible aux contrôles à l'export et aux terres rares dans les composants.",
+     "sens": "mixte",
+     "ticker": "KIT"
+    },
+    {
+     "effet": "73 % du CA aux Amériques et en Asie : dépend des chaînes d'approvisionnement électroniques entre Chine et États-Unis.",
+     "sens": "mixte",
+     "ticker": "VU"
+    }
+   ]
+  },
+  {
+   "faits": [
+    {
+     "d": "24/07",
+     "t": "Selon un site spécialisé tarifs, un droit additionnel « Section 301 » allant jusqu'à 10 % s'applique aux produits de l'UE ; les droits Section 232 vont de 10 à 50 % sur l'acier, 15 à 50 % sur l'aluminium et le cuivre (source non officielle, à confirmer)."
+    },
+    {
+     "d": "08/09",
+     "t": "Record historique du cuivre au LME à 14 533 $/t (clôture 14 510 $), porté par le stockage américain avant des droits attendus sur le cuivre raffiné l'an prochain."
+    },
+    {
+     "d": "23/09",
+     "t": "BHP suspend toutes les opérations d'Escondida (Chili), plus grande mine de cuivre du monde, après un accident mortel ; vote syndical sur les salaires prévu fin septembre."
+    },
+    {
+     "d": "29/09",
+     "t": "Cuivre à 6,55 $/lb à New York, +36 % sur un an ; la décision américaine sur les droits sur le cuivre raffiné n'est toujours pas prise."
+    }
+   ],
+   "id": "metaux",
+   "matieres": [
+    {
+     "code": "CUIVRE",
+     "effet": "Hausse : offre sous tension et stockage américain ; freiné par la demande chinoise faible."
+    },
+    {
+     "code": "ALU",
+     "effet": "Stable à haut : environ 3 260 $/t, soutenu par la chute de production du Golfe mais freiné par le dollar fort et les exportations chinoises."
+    }
+   ],
+   "niveau": "moyen",
+   "region": "Monde (États-Unis, Chili)",
+   "resume": "Le cuivre a battu son record au LME début septembre, porté par des achats américains avant d'éventuels droits sur le cuivre raffiné et par la demande IA et électrification. L'arrêt d'Escondida, première mine mondiale, après un accident mortel ajoute un risque d'offre. Les droits américains sur l'acier, l'aluminium et le cuivre européens restent élevés.",
+   "sources": [
+    "https://www.scmp.com/economy/global-economy/article/3366787/copper-rally-sets-record-price-lme-us-tariff-fears-fuel-scramble-stockpiles",
+    "https://mining.com.au/copper-price-hits-lme-record-on-tariff-supply-concerns/",
+    "https://tradingeconomics.com/commodity/copper",
+    "https://www.mining.com/fatal-accident-reported-at-bhps-escondida-mine/",
+    "https://tradingeconomics.com/commodity/aluminum",
+    "https://ustariffrates.com/tariff-rates/eu"
+   ],
+   "surveiller": [
+    "Décision américaine sur les droits sur le cuivre raffiné",
+    "Reprise d'Escondida et issue du vote syndical chez BHP",
+    "Stocks du LME"
+   ],
+   "tendance": "hausse",
+   "titre": "Cuivre record : droits de douane américains et offre fragile",
+   "valeurs": [
+    {
+     "effet": "Raccords et composants industriels : un cuivre plus cher renchérit une partie de ses matières premières.",
+     "sens": "negatif",
+     "ticker": "AALB"
+    },
+    {
+     "effet": "Distributeur de plomberie et chauffage : le cuivre cher gonfle les prix de vente et la valeur des stocks, mais peut freiner les volumes.",
+     "sens": "mixte",
+     "ticker": "THEP"
+    },
+    {
+     "effet": "Distributeur d'aciers spéciaux : les prix des métaux élevés soutiennent le chiffre d'affaires, mais les droits américains limitent ses 8 % en Amérique du Nord.",
+     "sens": "mixte",
+     "ticker": "JCQ"
+    },
+    {
+     "effet": "25 % du CA en Amérique du Nord et forte consommation d'acier : touchée par les droits américains et le coût des métaux.",
+     "sens": "negatif",
+     "ticker": "IP"
+    },
+    {
+     "effet": "Cuivre présent dans les cartes et câblages électroniques : pression sur les coûts.",
+     "sens": "negatif",
+     "ticker": "KIT"
+    }
+   ]
+  }
+ ]
+}

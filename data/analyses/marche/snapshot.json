@@ -1,0 +1,67 @@
+{
+ "asOf": "2026-09-28",
+ "attention": [
+  "Budget 2027 présenté jeudi 01/10 avec une menace de censure : c'est le principal risque pour les valeurs françaises (CAC Small à la traîne, écart OAT/Bund vers 112 pb).",
+  "Reply a clôturé à 115,80 €, juste au-dessus de sa zone d'intérêt (105 à 115 €) ; Wavestone à 29,50 €, juste au-dessus de la sienne (26 à 29 €). Viscofan teste son support de 53 €.",
+  "Le flux de cours GitHub a été généré à 15h33 et non après la clôture : les dernières valeurs du flux sont des cours de séance. Clôtures confirmées sur le web pour 10 valeurs sur 19, les autres gardent le cours du flux."
+ ],
+ "etf": {
+  "cours": 6.24,
+  "coursLe": "2026-09-28",
+  "nom": "Amundi PEA Monde MSCI World (DCAM)",
+  "source": "https://www.boursorama.com/cours/1rTDCAM/ (clôture, -0,24 % ; le flux GitHub de 15h33 donnait 6,272)"
+ },
+ "exclues": "Exail exclue : offre de Thales à 134 € par action, le cours suit le prix de l'offre.",
+ "macro": [
+  {
+   "label": "CAC 40",
+   "note": "clôture du 28/09, à l'équilibre malgré la hausse des taux et du pétrole",
+   "sens": 0,
+   "valeur": "8 078,48",
+   "var": "+0,01 %"
+  },
+  {
+   "label": "OAT 10 ans",
+   "note": "fin de séance du 28/09 (Tradingsat) ; taux américain à 10 ans à 5,24 %",
+   "sens": -1,
+   "valeur": "4,78 %",
+   "var": "+9 pb"
+  },
+  {
+   "label": "Écart OAT / Bund",
+   "note": "en séance le 28/09 (XTB), contre 105,4 pb à la clôture du 25/09",
+   "sens": -1,
+   "valeur": "environ 112 pb",
+   "var": "+7 pb"
+  },
+  {
+   "label": "BCE taux de dépôt",
+   "note": "en vigueur depuis le 16/09",
+   "sens": -1,
+   "valeur": "2,50 %",
+   "var": "+25 pb le 10/09"
+  },
+  {
+   "label": "Brent",
+   "note": "Trump rejette la proposition iranienne sur le détroit d'Ormuz",
+   "sens": -1,
+   "valeur": "100,16 $",
+   "var": "+2,8 %"
+  },
+  {
+   "label": "CAC Small",
+   "note": "clôture du 28/09 (ABC Bourse), les petites valeurs françaises sous-performent",
+   "sens": -1,
+   "valeur": "15 765,82",
+   "var": "-0,66 %"
+  }
+ ],
+ "majLe": "2026-09-28T20:05:00+02:00",
+ "semaine": "28 septembre au 2 octobre 2026",
+ "semaineTexte": [
+  "Lundi 28/09 : CAC 40 stable à 8 078 pts, CAC Small -0,66 %. Brent à 100 $ (+2,8 %) après le rejet par Trump de la proposition iranienne sur Ormuz.",
+  "Taux : OAT 10 ans à 4,78 % (+9 pb), écart avec le Bund vers 112 pb. Le projet de budget 2027 (54 Md€ d'économies) est présenté jeudi ; le PS menace de censure.",
+  "Dans la watchlist : Alten +4,6 % grâce aux objectifs relevés ; Reply -1,5 % et Vorwerk -1,6 %. Trigano détache son acompte de 2,40 € mardi 29/09."
+ ],
+ "watchlistValidee": false
+}

@@ -1,0 +1,1455 @@
+{
+ "analyse": {
+  "aVerifier": "Dette nette au 30/06/2026 non trouvée (dernière donnée : 166,3 M€ au 31/03). RSI 14 calculé par nous en moyenne simple sur les clôtures Investing (Investing affichait 13,5, valeur incohérente avec l'évolution des cours, donc écartée). PEG de 0,4 peu fiable car calculé sur un rebond cyclique. ROE estimée par calcul. Dates des résultats du 3e trimestre et annuels à confirmer.",
+  "actu": [
+   {
+    "d": "09/09",
+    "fait": "Résultats du 1er semestre 2026 : chiffre d'affaires 1 001 M€ (+1,4 %), EBITDA courant 60 M€ (6 % du chiffre d'affaires contre 4,9 %), résultat net 22 M€ contre 6 M€, flux de trésorerie opérationnel de 54 M€. Acquisition d'Energy Steel Products aux États-Unis (environ 25 M€ de chiffre d'affaires). Visibilité jugée réduite ; la division IMS reste pénalisée par l'Allemagne.",
+    "horizon": "moyen",
+    "impact": "positif",
+    "lecture": "La marge remonte malgré des volumes quasi stables : cela montre que le point bas du cycle est probablement passé pour le groupe."
+   },
+   {
+    "d": "01/07",
+    "fait": "Entrée en vigueur de la nouvelle protection européenne sur l'acier : quotas d'importation sans droits réduits d'environ 47 %, droit hors quota porté à 50 %, obligation de prouver le pays où l'acier a été coulé.",
+    "horizon": "long",
+    "impact": "positif",
+    "lecture": "Moins d'importations à bas prix soutient les prix de l'acier en Europe, ce qui aide les marges d'un distributeur qui détient des stocks, même si cela peut renchérir certains achats."
+   },
+   {
+    "d": "12/05",
+    "fait": "1er trimestre 2026 : dette nette portée à 166,3 M€ et endettement à 25 % des fonds propres (21 % fin 2025), besoin en fonds de roulement en hausse de 39 M€ ; 50 M€ d'investissements prévus en 2026.",
+    "horizon": "moyen",
+    "impact": "negatif",
+    "lecture": "Le groupe investit avant la reprise ; si elle tarde, la dette et les frais financiers pèseront sur des bénéfices encore faibles."
+   },
+   {
+    "d": "18/09",
+    "fait": "Hausse des taux souverains européens et américains (taux français à 10 ans à 4,55 %), dans un contexte de tensions au Moyen-Orient cité par la société.",
+    "horizon": "court",
+    "impact": "negatif",
+    "lecture": "Des taux plus hauts et l'incertitude géopolitique retardent les investissements industriels, principal moteur de la demande d'aciers spéciaux."
+   }
+  ],
+  "cadres": [
+   "Buffett / Fisher (qualité du métier)",
+   "Lynch (catégorie cyclique, PEG)",
+   "Graham (bilan, couverture des intérêts, décote sur actif)",
+   "Greenblatt (formule magique)",
+   "Théorie de Dow",
+   "Stades de Weinstein",
+   "Modèle de tendance de Minervini"
+  ],
+  "conviction": "faible",
+  "fonda": {
+   "bilan": "Dette nette de 140 M€ fin 2025 (21 % des fonds propres) puis 166,3 M€ fin mars 2026 (25 %), en raison de la hausse du besoin en fonds de roulement et d'investissements (50 M€ prévus en 2026) et d'acquisitions (Sabater Fundimol en Espagne, Energy Steel Products aux États-Unis). Dette nette sur EBITDA d'environ 1,6 fois (calcul sur les 12 derniers mois à fin mars). Couverture des intérêts : résultat opérationnel de 53 M€ pour environ 22 M€ d'intérêts en 2025, soit environ 2,4 fois, ce qui est juste au sens de Graham ; le consensus prévoit environ 3,8 fois en 2026.",
+   "croissance": "Chiffre d'affaires 2025 de 1 840 M€ (-6,6 %), bénéfice par action 0,48 €. 1er semestre 2026 : 1 001 M€ (+1,4 %), volumes +1,5 % (+2,3 % au 2e trimestre), prix -0,3 %. Consensus Zonebourse : résultat net de 27,9 M€ en 2026, 43,3 M€ en 2027 et 51 M€ en 2028. Au sens de Lynch : une cyclique en début de reprise, dont la croissance des bénéfices vient d'un point bas.",
+   "greenblatt": "Rendement des bénéfices correct (environ 13 % : résultat opérationnel attendu de 72,6 M€ pour une valeur d'entreprise de 562 M€) mais rentabilité des capitaux faible (environ 4 à 6 %) : la formule magique ne retient pas ce titre tant que la reprise des marges n'est pas acquise.",
+   "justif": "Valorisation basse par rapport à l'actif et bénéfices en reprise, mais rentabilité des capitaux faible, marge fine, dette en hausse et forte dépendance au cycle industriel.",
+   "peg": 0.4,
+   "piotroski": null,
+   "qualite": "Marge d'EBITDA courante de 6 % au 1er semestre 2026 (4,9 % un an plus tôt), marge brute de 25,1 %. Rentabilité des fonds propres d'environ 4 % attendue en 2026 (bénéfice de 27,9 M€ selon le consensus pour des fonds propres de 666 M€), loin des années 2021-2022 (bénéfices de 121 et 180 M€). Au sens de Buffett et Fisher, c'est un métier de négoce sans fort pouvoir de fixation des prix, dont la qualité tient au réseau (119 centres dans 23 pays) et à la gestion des stocks.",
+   "score": 5,
+   "valo": "Au cours de 20,65 € : PER d'environ 15 fois pour 2026 et 9,9 fois pour 2027, valeur d'entreprise d'environ 562 M€ soit environ 5 fois l'EBITDA attendu en 2026 (111,6 M€), rendement du dividende d'environ 1 % (Zonebourse). La capitalisation (environ 420 M€) représente environ 0,63 fois les fonds propres, une décote classique pour une cyclique en bas de cycle. Moyenne de PER sur cinq ans non pertinente, les bénéfices ayant varié de 6 à 180 M€."
+  },
+  "majLe": "2026-09-28",
+  "revisions": "Non trouvé : pas d'historique des estimations. BPA attendu 1,25 € en 2026 et 1,94 € en 2027 (ABC Bourse).",
+  "scenarios": [
+   {
+    "bas": 18.5,
+    "central": 21,
+    "haut": 23,
+    "horizon": "2 mois",
+    "hypotheses": "Catalyseur : résultats du 3e trimestre (début novembre 2026, date à confirmer). Bas : cassure du support de 19,58 € si les volumes rechutent. Haut : sortie de la zone de base au-dessus de 22,40 €.",
+    "unite": "€"
+   },
+   {
+    "bas": 16.5,
+    "central": 23,
+    "haut": 27,
+    "horizon": "12 mois",
+    "hypotheses": "Objectif moyen des 2 analystes suivis par Zonebourse : 24,40 € (fourchette 21,80 à 27 €). Central : bénéfice 2027 conforme au consensus (environ 43 M€) et PER d'environ 11 fois. Bas : rechute industrielle en Allemagne et retour vers le plus bas annuel de 17 €. Haut : reprise européenne nette et retour vers le plus haut annuel de 25,40 € et au-delà.",
+    "unite": "€"
+   },
+   {
+    "bas": 0,
+    "central": 8,
+    "haut": 15,
+    "horizon": "5 ans",
+    "hypotheses": "Central : bénéfice par action en hausse d'environ 11 %/an depuis le point bas de 2026, mais PER qui se normalise de 15 à environ 10 fois (environ -7 %/an), plus un dividende moyen de 2 à 3 % en reprise : 11 - 7 + 3 = environ 7 à 8 %. Bas : pas de reprise, bénéfices stagnants. Haut : retour vers un bénéfice de 60 à 80 M€ en haut de cycle.",
+    "unite": "%/an"
+   },
+   {
+    "bas": 2,
+    "central": 6,
+    "haut": 10,
+    "horizon": "10-15 ans",
+    "hypotheses": "Sur plusieurs cycles, la rentabilité d'un distributeur d'acier suit la croissance industrielle : bénéfices de +3 à 5 %/an en moyenne plus un dividende de 2 à 3 %. Bas : désindustrialisation européenne durable. Haut : consolidation réussie, avec des acquisitions aux États-Unis et en Espagne.",
+    "unite": "%/an"
+   }
+  ],
+  "sources": [
+   "https://www.optionfinance.fr/info-financiere-en-continu/d/2026-09-10-jacquet-metals.html",
+   "https://www.abcbourse.com/marches/jacquet-metals-ameliore-sa-rentabilite-au-1er-semestre-2026-malgre-une-visibilit_702298",
+   "https://www.boursorama.com/bourse/actualites/jacquet-metals-resultats-au-30-septembre-2026-f62e91907e64aa4e15681752ae25afc2",
+   "https://www.businesswire.com/news/home/20260318477298/fr",
+   "https://www.businesswire.com/news/home/20260512025948/fr",
+   "https://www.lyon-entreprises.com/actualites/article/jacquet-metals-resultats-premier-trimestre-2026",
+   "https://www.zonebourse.com/cours/action/JACQUET-METALS-5015/",
+   "https://www.zonebourse.com/cours/action/JACQUET-METALS-5015/consensus/",
+   "https://www.zonebourse.com/cours/action/JACQUET-METALS-5015/finances/",
+   "https://www.zonebourse.com/cours/action/JACQUET-METALS-78824401/",
+   "https://www.zonebourse.com/cours/action/JACQUET-METALS-5015/cotations/",
+   "https://www.investing.com/equities/jacquet-metal-technical",
+   "https://www.investing.com/equities/jacquet-metal-historical-data",
+   "https://www.boursorama.com/cours/analyses/1rPJCQ/",
+   "https://trade.ec.europa.eu/access-to-markets/fr/news/nouvelles-mesures-de-sauvegarde-de-lue-sur-les-importations-dacier-en-provenance-de-pays-tiers"
+  ],
+  "tech": {
+   "bas52": 17.2,
+   "cours": 20.6,
+   "coursLe": "2026-09-28",
+   "haut52": 25.15,
+   "lecture": "Cours de 20,60 en dessous de sa moyenne 50 jours (21,16) et en dessous de sa moyenne 200 jours (21,72). RSI 41,2 : élan neutre. Il se situe à 43 % de sa fourchette sur un an (de 17,20 à 25,15), performance sur 12 mois de +4,0 %. Moyennes et RSI calculés sur les vraies clôtures (flux GitHub de 15h33).",
+   "mm200": 21.72,
+   "mm50": 21.16,
+   "resistance": 21.6,
+   "rsi14": 41.2,
+   "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json",
+   "stade": 4,
+   "support": 19.58,
+   "tendance": "baissiere"
+  },
+  "verdict": "Jacquet Metals est un distributeur d'aciers spéciaux dont les bénéfices remontent depuis un point bas en 2025 (résultat net semestriel de 22 M€ contre 6 M€), avec une action qui se paie environ 0,6 fois ses fonds propres, mais sa rentabilité reste faible, son endettement a augmenté et la visibilité est réduite par la faiblesse de l'industrie allemande. C'est un pari cyclique sur une reprise industrielle européenne, soutenu par les nouvelles protections douanières de l'UE, plus qu'une valeur de qualité.",
+  "zones": {
+   "catalyseurs": [
+    "Début novembre 2026 (date à confirmer) : résultats du 3e trimestre.",
+    "Mi-mars 2027 (date à confirmer) : résultats annuels 2026 et dividende.",
+    "Évolution de la production industrielle allemande et des prix de l'acier inoxydable."
+   ],
+   "interet": "Entre 17 et 19,5 € : sous le support de 19,58 €, près du plus bas annuel (17,06 €), soit environ 0,5 à 0,55 fois les fonds propres. À ce niveau, la décote sur l'actif compense le risque de reprise tardive.",
+   "invalidation": "Marge d'EBITDA qui repasse sous 5 % sur un semestre ou endettement au-dessus de 35 % des fonds propres, ce qui montrerait que la reprise ne vient pas.",
+   "sortie": [
+    "Deux trimestres de baisse des volumes et de la marge brute.",
+    "Dette nette au-dessus de 2,5 fois l'EBITDA.",
+    "Cours au-dessus de 1 fois les fonds propres sans hausse durable des bénéfices."
+   ]
+  }
+ },
+ "capi": "420 M€",
+ "cours": 20.6,
+ "coursLe": "2026-09-28",
+ "devise": "€",
+ "faits": [
+  {
+   "d": "09/09",
+   "t": "S1 : CA 1 001 M€, EBITDA courant 60 M€ (6 %), résultat net 22 M€ contre 6 M€. Rachat d'Energy Steel Products (États-Unis)."
+  }
+ ],
+ "histo": [
+  [
+   "22/09",
+   18.74
+  ],
+  [
+   "23/09",
+   18.82
+  ],
+  [
+   "24/09",
+   18.78
+  ],
+  [
+   "25/09",
+   18.82
+  ],
+  [
+   "26/09",
+   19.08
+  ],
+  [
+   "29/09",
+   19.04
+  ],
+  [
+   "30/09",
+   19
+  ],
+  [
+   "01/10",
+   18.92
+  ],
+  [
+   "02/10",
+   19.8
+  ],
+  [
+   "03/10",
+   19.96
+  ],
+  [
+   "06/10",
+   19.58
+  ],
+  [
+   "07/10",
+   19.04
+  ],
+  [
+   "08/10",
+   19.3
+  ],
+  [
+   "09/10",
+   19.2
+  ],
+  [
+   "10/10",
+   19.2
+  ],
+  [
+   "13/10",
+   18.94
+  ],
+  [
+   "14/10",
+   18.72
+  ],
+  [
+   "15/10",
+   17.64
+  ],
+  [
+   "16/10",
+   17.92
+  ],
+  [
+   "17/10",
+   17.68
+  ],
+  [
+   "20/10",
+   17.6
+  ],
+  [
+   "21/10",
+   17.5
+  ],
+  [
+   "22/10",
+   17.8
+  ],
+  [
+   "23/10",
+   18.08
+  ],
+  [
+   "24/10",
+   18.12
+  ],
+  [
+   "27/10",
+   18.12
+  ],
+  [
+   "28/10",
+   18.06
+  ],
+  [
+   "29/10",
+   17.66
+  ],
+  [
+   "30/10",
+   17.48
+  ],
+  [
+   "31/10",
+   17.52
+  ],
+  [
+   "03/11",
+   17.56
+  ],
+  [
+   "04/11",
+   17.52
+  ],
+  [
+   "05/11",
+   17.36
+  ],
+  [
+   "06/11",
+   17.46
+  ],
+  [
+   "07/11",
+   17.5
+  ],
+  [
+   "10/11",
+   17.56
+  ],
+  [
+   "11/11",
+   17.58
+  ],
+  [
+   "12/11",
+   17.76
+  ],
+  [
+   "13/11",
+   18.4
+  ],
+  [
+   "14/11",
+   18.3
+  ],
+  [
+   "17/11",
+   18.42
+  ],
+  [
+   "18/11",
+   17.52
+  ],
+  [
+   "19/11",
+   17.24
+  ],
+  [
+   "20/11",
+   17.2
+  ],
+  [
+   "21/11",
+   17.6
+  ],
+  [
+   "24/11",
+   17.96
+  ],
+  [
+   "25/11",
+   17.9
+  ],
+  [
+   "26/11",
+   17.76
+  ],
+  [
+   "27/11",
+   17.64
+  ],
+  [
+   "28/11",
+   17.58
+  ],
+  [
+   "01/12",
+   17.58
+  ],
+  [
+   "02/12",
+   17.72
+  ],
+  [
+   "03/12",
+   18
+  ],
+  [
+   "04/12",
+   17.88
+  ],
+  [
+   "05/12",
+   17.8
+  ],
+  [
+   "08/12",
+   18
+  ],
+  [
+   "09/12",
+   18.5
+  ],
+  [
+   "10/12",
+   18.52
+  ],
+  [
+   "11/12",
+   18.5
+  ],
+  [
+   "12/12",
+   18.52
+  ],
+  [
+   "15/12",
+   18.5
+  ],
+  [
+   "16/12",
+   18.38
+  ],
+  [
+   "17/12",
+   18.26
+  ],
+  [
+   "18/12",
+   18.1
+  ],
+  [
+   "19/12",
+   18.1
+  ],
+  [
+   "22/12",
+   19.9
+  ],
+  [
+   "23/12",
+   20.15
+  ],
+  [
+   "24/12",
+   20.75
+  ],
+  [
+   "29/12",
+   20.6
+  ],
+  [
+   "30/12",
+   19.8
+  ],
+  [
+   "31/12",
+   19.9
+  ],
+  [
+   "02/01",
+   19.98
+  ],
+  [
+   "05/01",
+   20.55
+  ],
+  [
+   "06/01",
+   20.5
+  ],
+  [
+   "07/01",
+   21.6
+  ],
+  [
+   "08/01",
+   21.1
+  ],
+  [
+   "09/01",
+   20.85
+  ],
+  [
+   "12/01",
+   20.5
+  ],
+  [
+   "13/01",
+   20.9
+  ],
+  [
+   "14/01",
+   20.75
+  ],
+  [
+   "15/01",
+   20.65
+  ],
+  [
+   "16/01",
+   22
+  ],
+  [
+   "19/01",
+   21.2
+  ],
+  [
+   "20/01",
+   22.2
+  ],
+  [
+   "21/01",
+   22.35
+  ],
+  [
+   "22/01",
+   22.85
+  ],
+  [
+   "23/01",
+   23
+  ],
+  [
+   "26/01",
+   23
+  ],
+  [
+   "27/01",
+   23.3
+  ],
+  [
+   "28/01",
+   23.35
+  ],
+  [
+   "29/01",
+   22.95
+  ],
+  [
+   "30/01",
+   23.2
+  ],
+  [
+   "02/02",
+   22.8
+  ],
+  [
+   "03/02",
+   23
+  ],
+  [
+   "04/02",
+   23.3
+  ],
+  [
+   "05/02",
+   23.8
+  ],
+  [
+   "06/02",
+   24.1
+  ],
+  [
+   "09/02",
+   24.5
+  ],
+  [
+   "10/02",
+   25
+  ],
+  [
+   "11/02",
+   25.15
+  ],
+  [
+   "12/02",
+   24.8
+  ],
+  [
+   "13/02",
+   24.55
+  ],
+  [
+   "16/02",
+   24.2
+  ],
+  [
+   "17/02",
+   24.2
+  ],
+  [
+   "18/02",
+   24.3
+  ],
+  [
+   "19/02",
+   24.25
+  ],
+  [
+   "20/02",
+   23.3
+  ],
+  [
+   "23/02",
+   23.2
+  ],
+  [
+   "24/02",
+   23.05
+  ],
+  [
+   "25/02",
+   23.25
+  ],
+  [
+   "26/02",
+   23.2
+  ],
+  [
+   "27/02",
+   23.05
+  ],
+  [
+   "02/03",
+   24
+  ],
+  [
+   "03/03",
+   22.9
+  ],
+  [
+   "04/03",
+   22.9
+  ],
+  [
+   "05/03",
+   22
+  ],
+  [
+   "06/03",
+   22.05
+  ],
+  [
+   "09/03",
+   22.05
+  ],
+  [
+   "10/03",
+   22
+  ],
+  [
+   "11/03",
+   21.9
+  ],
+  [
+   "12/03",
+   22.05
+  ],
+  [
+   "13/03",
+   21.85
+  ],
+  [
+   "16/03",
+   21.7
+  ],
+  [
+   "17/03",
+   21.5
+  ],
+  [
+   "18/03",
+   21.6
+  ],
+  [
+   "19/03",
+   20
+  ],
+  [
+   "20/03",
+   19.72
+  ],
+  [
+   "23/03",
+   20.2
+  ],
+  [
+   "24/03",
+   20.3
+  ],
+  [
+   "25/03",
+   20.3
+  ],
+  [
+   "26/03",
+   20.45
+  ],
+  [
+   "27/03",
+   20
+  ],
+  [
+   "30/03",
+   20.05
+  ],
+  [
+   "31/03",
+   20.5
+  ],
+  [
+   "01/04",
+   21.1
+  ],
+  [
+   "02/04",
+   20.65
+  ],
+  [
+   "07/04",
+   21.1
+  ],
+  [
+   "08/04",
+   21.45
+  ],
+  [
+   "09/04",
+   21.2
+  ],
+  [
+   "10/04",
+   22.9
+  ],
+  [
+   "13/04",
+   22.6
+  ],
+  [
+   "14/04",
+   22.5
+  ],
+  [
+   "15/04",
+   22.5
+  ],
+  [
+   "16/04",
+   22.55
+  ],
+  [
+   "17/04",
+   23.25
+  ],
+  [
+   "20/04",
+   23.1
+  ],
+  [
+   "21/04",
+   22.8
+  ],
+  [
+   "22/04",
+   22
+  ],
+  [
+   "23/04",
+   22.6
+  ],
+  [
+   "24/04",
+   22.55
+  ],
+  [
+   "27/04",
+   22.5
+  ],
+  [
+   "28/04",
+   22.3
+  ],
+  [
+   "29/04",
+   22
+  ],
+  [
+   "30/04",
+   22.2
+  ],
+  [
+   "04/05",
+   22.75
+  ],
+  [
+   "05/05",
+   22.6
+  ],
+  [
+   "06/05",
+   22.8
+  ],
+  [
+   "07/05",
+   22.8
+  ],
+  [
+   "08/05",
+   22.9
+  ],
+  [
+   "11/05",
+   22.8
+  ],
+  [
+   "12/05",
+   22.5
+  ],
+  [
+   "13/05",
+   22.2
+  ],
+  [
+   "14/05",
+   21.85
+  ],
+  [
+   "15/05",
+   21.4
+  ],
+  [
+   "18/05",
+   21.05
+  ],
+  [
+   "19/05",
+   21.25
+  ],
+  [
+   "20/05",
+   21.05
+  ],
+  [
+   "21/05",
+   21.25
+  ],
+  [
+   "22/05",
+   21.05
+  ],
+  [
+   "25/05",
+   21
+  ],
+  [
+   "26/05",
+   21.75
+  ],
+  [
+   "27/05",
+   22
+  ],
+  [
+   "28/05",
+   21.8
+  ],
+  [
+   "29/05",
+   22.2
+  ],
+  [
+   "01/06",
+   22.2
+  ],
+  [
+   "02/06",
+   22.2
+  ],
+  [
+   "03/06",
+   21.9
+  ],
+  [
+   "04/06",
+   22
+  ],
+  [
+   "05/06",
+   22.6
+  ],
+  [
+   "08/06",
+   22.8
+  ],
+  [
+   "09/06",
+   22.35
+  ],
+  [
+   "10/06",
+   21.3
+  ],
+  [
+   "11/06",
+   21.35
+  ],
+  [
+   "12/06",
+   22.35
+  ],
+  [
+   "15/06",
+   23.15
+  ],
+  [
+   "16/06",
+   23.6
+  ],
+  [
+   "17/06",
+   24
+  ],
+  [
+   "18/06",
+   23.55
+  ],
+  [
+   "19/06",
+   21.9
+  ],
+  [
+   "22/06",
+   21.8
+  ],
+  [
+   "23/06",
+   22.7
+  ],
+  [
+   "24/06",
+   21.65
+  ],
+  [
+   "25/06",
+   21.5
+  ],
+  [
+   "26/06",
+   21.2
+  ],
+  [
+   "29/06",
+   21.1
+  ],
+  [
+   "30/06",
+   20.45
+  ],
+  [
+   "01/07",
+   20.6
+  ],
+  [
+   "02/07",
+   21.3
+  ],
+  [
+   "03/07",
+   21.6
+  ],
+  [
+   "06/07",
+   21.95
+  ],
+  [
+   "07/07",
+   21.8
+  ],
+  [
+   "08/07",
+   21.25
+  ],
+  [
+   "09/07",
+   21.2
+  ],
+  [
+   "10/07",
+   21.2
+  ],
+  [
+   "13/07",
+   21.2
+  ],
+  [
+   "14/07",
+   21.6
+  ],
+  [
+   "15/07",
+   21.75
+  ],
+  [
+   "16/07",
+   21.6
+  ],
+  [
+   "17/07",
+   21.5
+  ],
+  [
+   "20/07",
+   21.45
+  ],
+  [
+   "21/07",
+   21.55
+  ],
+  [
+   "22/07",
+   21.75
+  ],
+  [
+   "23/07",
+   22.1
+  ],
+  [
+   "24/07",
+   22.1
+  ],
+  [
+   "27/07",
+   22
+  ],
+  [
+   "28/07",
+   21.65
+  ],
+  [
+   "29/07",
+   21.55
+  ],
+  [
+   "30/07",
+   21.3
+  ],
+  [
+   "31/07",
+   21.2
+  ],
+  [
+   "03/08",
+   21.7
+  ],
+  [
+   "04/08",
+   21.7
+  ],
+  [
+   "05/08",
+   21.85
+  ],
+  [
+   "06/08",
+   21.45
+  ],
+  [
+   "07/08",
+   21.05
+  ],
+  [
+   "10/08",
+   21.15
+  ],
+  [
+   "11/08",
+   21.05
+  ],
+  [
+   "12/08",
+   20.75
+  ],
+  [
+   "13/08",
+   20.6
+  ],
+  [
+   "14/08",
+   20.75
+  ],
+  [
+   "17/08",
+   20.95
+  ],
+  [
+   "18/08",
+   20.7
+  ],
+  [
+   "19/08",
+   20.55
+  ],
+  [
+   "20/08",
+   20.55
+  ],
+  [
+   "21/08",
+   20.5
+  ],
+  [
+   "24/08",
+   20.55
+  ],
+  [
+   "25/08",
+   20.5
+  ],
+  [
+   "26/08",
+   20.55
+  ],
+  [
+   "27/08",
+   20.5
+  ],
+  [
+   "28/08",
+   20.55
+  ],
+  [
+   "31/08",
+   20.65
+  ],
+  [
+   "01/09",
+   20.3
+  ],
+  [
+   "02/09",
+   20.1
+  ],
+  [
+   "03/09",
+   20.05
+  ],
+  [
+   "04/09",
+   21.15
+  ],
+  [
+   "07/09",
+   21.45
+  ],
+  [
+   "08/09",
+   21.2
+  ],
+  [
+   "09/09",
+   20.65
+  ],
+  [
+   "10/09",
+   21.1
+  ],
+  [
+   "11/09",
+   21.6
+  ],
+  [
+   "14/09",
+   21.95
+  ],
+  [
+   "15/09",
+   22.4
+  ],
+  [
+   "16/09",
+   22.15
+  ],
+  [
+   "17/09",
+   21.95
+  ],
+  [
+   "18/09",
+   21.4
+  ],
+  [
+   "21/09",
+   21.45
+  ],
+  [
+   "22/09",
+   21.5
+  ],
+  [
+   "23/09",
+   21.45
+  ],
+  [
+   "24/09",
+   21.25
+  ],
+  [
+   "25/09",
+   20.7
+  ],
+  [
+   "28/09",
+   20.6
+  ]
+ ],
+ "nom": "Jacquet Metals",
+ "notes": "Clôture du 28/09 non confirmée sur le web : cours du flux GitHub relevé à 15h33 (20,60), à remplacer par la vraie clôture au prochain flux. Zonebourse 20,55 € (-0,72 %) à 15h28, Boursorama 20,20 € : sources contradictoires. Aucune nouvelle depuis le 09/09. Résultats T3 le 04/11.",
+ "pays": "FR",
+ "per26": 15.4,
+ "per27": 9.88,
+ "perf": {
+  "m1": 0.2,
+  "m12": 4,
+  "m3": 0
+ },
+ "pub": "2026-11-04",
+ "pubLabel": "Résultats du T3",
+ "risque": "La direction dit elle-même avoir peu de visibilité.",
+ "secteur": "Distribution d'aciers spéciaux",
+ "societe": {
+  "aVerifier": "Vérifié le 29/09/2026 sur les communiqués de résultats annuels Jacquet Metals 2021, 2023 et 2025, la page dividendes et le document d'enregistrement universel 2025. CA, résultat net part du groupe, résultat opérationnel courant (margeOp = ROC / CA tel que publié ; 2024 : 35,8 M€ soit 1,8 %) et endettement net 2021 à 2025 confirmés ou corrigés. detteNette = endettement net publié, hors dettes locatives IFRS 16 (74 M€ fin 2025, présentées à part). Dividendes par exercice confirmés. Effectif 3 276, répartition géographique 2025 et ventes par division confirmés par le communiqué 2025 (parts des divisions calculées avant éliminations internes) ; fondation en 1962 confirmée par le DEU. Restent non vérifiés : pourcentage exact du capital détenu par JSA et Éric Jacquet (tableau d'actionnariat du DEU non lisible), participations d'Amiral Gestion et de Richard Colburn, faits historiques 1993 à 2010 et 2024 (acquisitions Italie/Espagne, cession Baltes), liste des concurrents. Pas de consensus 2026 trouvé.",
+  "actionnariat": "Groupe familial contrôlé par Éric Jacquet via sa holding JSA (9 648 941 actions) plus 39 530 actions en direct selon le document d'enregistrement universel 2025, soit environ 44 à 46 % du capital selon le nombre d'actions retenu (46 % selon Zonebourse) ; parmi les autres actionnaires cités figurent Amiral Gestion (environ 5,7 %) et Richard Colburn (environ 5,7 %), le reste est coté en Bourse.",
+  "avantage": "Un réseau dense de 119 centres dans 23 pays avec beaucoup de stock disponible et de la découpe sur mesure, qui permet de livrer vite des petites quantités là où une aciérie ne le fait pas. Cet avantage peut s'éroder si les aciéristes vendent davantage en direct, si l'industrie européenne continue de décliner ou si une baisse durable des prix de l'acier écrase les marges.",
+  "chiffres": [
+   {
+    "annee": "2021",
+    "ca": 1970,
+    "detteNette": 171,
+    "dividende": 1,
+    "margeOp": 8.9,
+    "rn": 121
+   },
+   {
+    "annee": "2022",
+    "ca": 2683,
+    "detteNette": 234,
+    "dividende": 1,
+    "margeOp": 9.8,
+    "rn": 180
+   },
+   {
+    "annee": "2023",
+    "ca": 2230,
+    "detteNette": 210,
+    "dividende": 0.2,
+    "margeOp": 4.5,
+    "rn": 51
+   },
+   {
+    "annee": "2024",
+    "ca": 1970,
+    "detteNette": 175,
+    "dividende": 0.2,
+    "margeOp": 1.8,
+    "rn": 6
+   },
+   {
+    "annee": "2025",
+    "ca": 1840,
+    "detteNette": 140,
+    "dividende": 0.2,
+    "margeOp": 2.9,
+    "rn": 10.4
+   }
+  ],
+  "clients": "Environ 65 000 clients industriels de tous secteurs (agroalimentaire, énergie, chimie, mines, construction, naval, machinisme agricole), donc aucune dépendance à un gros client ; en revanche forte dépendance à l'industrie allemande (près d'un tiers des ventes).",
+  "concurrents": [
+   "Klöckner & Co",
+   "thyssenkrupp Materials Services",
+   "distribution intégrée des aciéristes (ex. Aperam)",
+   "Marcegaglia"
+  ],
+  "corrections": [
+   "2023 margeOp 4.4 -> 4.5 (communiqué résultats annuels 2023 : résultat opérationnel courant 99 M€, 4,5 % du CA).",
+   "2025 rn 10 -> 10.4 (communiqué résultats annuels 2025 : résultat net part du groupe 10,4 M€).",
+   "Dividendes 2021 à 2025 (1 ; 1 ; 0,20 ; 0,20 ; 0,20 €) désormais confirmés par la page dividendes de Jacquet Metals, par exercice (0,20 € au titre de 2025 proposé à l'AG du 26/06/2026).",
+   "Segment IMS group : 904 M€ -> 903 M€ (communiqué 2025).",
+   "Dirigeants : date exacte de nomination d'Éric Jacquet (20/07/2010, DEU 2025) et ajout de Philippe Goczol, directeur général délégué.",
+   "Actionnariat : nombre d'actions détenues par JSA et Éric Jacquet ajouté (DEU 2025)."
+  ],
+  "croire": [
+   "Que le cycle de l'acier et l'industrie européenne (surtout allemande) repartent, car les profits de Jacquet sont très sensibles aux volumes et aux prix.",
+   "Que la taxe carbone aux frontières de l'UE et la protection du marché européen fassent remonter les prix et les marges des distributeurs.",
+   "Que la famille Jacquet continue à bien allouer le capital (rachats d'actions, acquisitions à bas prix au creux du cycle) sans sacrifier le bilan."
+  ],
+  "devise": "€",
+  "dirigeants": [
+   {
+    "depuis": 2010,
+    "nom": "Éric Jacquet",
+    "role": "Président-directeur général (depuis le conseil du 20/07/2010)"
+   },
+   {
+    "depuis": null,
+    "nom": "Philippe Goczol",
+    "role": "Directeur général délégué"
+   }
+  ],
+  "effectifs": 3276,
+  "fondee": 1962,
+  "geo": [
+   {
+    "part": 32,
+    "zone": "Allemagne"
+   },
+   {
+    "part": 26,
+    "zone": "Autres pays d'Europe"
+   },
+   {
+    "part": 10,
+    "zone": "France"
+   },
+   {
+    "part": 8,
+    "zone": "Italie"
+   },
+   {
+    "part": 7,
+    "zone": "Pays-Bas"
+   },
+   {
+    "part": 7,
+    "zone": "Espagne"
+   },
+   {
+    "part": 8,
+    "zone": "Amérique du Nord"
+   },
+   {
+    "part": 2,
+    "zone": "Asie et autres"
+   }
+  ],
+  "histoire": [
+   {
+    "annee": 1962,
+    "fait": "Michel Jacquet crée à Lyon les Établissements Jacquet, spécialisés dans la découpe de métal sur mesure."
+   },
+   {
+    "annee": 1993,
+    "fait": "Éric Jacquet, son fils, devient actionnaire majoritaire (51 %) de Jacquet SA, puis crée Jacquet Industries en 1994."
+   },
+   {
+    "annee": 1997,
+    "fait": "Jacquet Industries entre en Bourse de Paris (second marché) le 23 octobre."
+   },
+   {
+    "annee": 2006,
+    "fait": "Le groupe prend le nom de Jacquet Metals et s'implante en Asie et aux États-Unis."
+   },
+   {
+    "annee": 2010,
+    "fait": "Offre publique d'échange sur IMS (International Metal Service), un distributeur deux fois plus gros, puis fusion : naissance de Jacquet Metal Service."
+   },
+   {
+    "annee": 2022,
+    "fait": "Année record : 2,68 milliards d'euros de chiffre d'affaires et 180 millions d'euros de bénéfice, portés par la flambée des prix de l'acier."
+   },
+   {
+    "annee": 2024,
+    "fait": "Retournement du marché : le bénéfice tombe à 6 millions d'euros ; acquisitions en Italie et en Espagne, cession des activités baltes."
+   },
+   {
+    "annee": 2026,
+    "fait": "Entrée en vigueur au 1er janvier du mécanisme européen d'ajustement carbone aux frontières (taxe carbone sur l'acier importé) ; 50 millions d'euros d'investissements prévus."
+   }
+  ],
+  "modele": "Le groupe gagne une marge entre le prix auquel il achète le métal aux aciéries et le prix auquel il le revend, découpé et livré vite. Les ventes sont des commandes ponctuelles mais très répétées (environ 65 000 clients, 40 000 références en stock). Le pouvoir de prix est limité : la marge dépend surtout des prix de l'acier, qui font gagner beaucoup quand ils montent et perdre quand ils baissent (effet stock).",
+  "questions": [
+   "Les volumes vendus remontent-ils, en particulier chez IMS group et en Allemagne ?",
+   "Quel est l'effet de la taxe carbone européenne (CBAM) sur les prix de l'inox et sur les marges du groupe ?",
+   "Le stock (environ 189 jours de ventes) et le besoin en fonds de roulement baissent-ils pour libérer du cash ?"
+  ],
+  "resume": "Jacquet Metals est un distributeur d'aciers spéciaux : il achète de l'acier inoxydable, des aciers pour la mécanique et des alliages aux aciéries, les stocke dans plus d'une centaine d'entrepôts et les revend découpés sur mesure à des industriels. Par exemple, un fabricant de cuves pour l'agroalimentaire ou un atelier de mécanique commande une tôle inox ou une barre d'acier coupée à ses cotes et la reçoit en quelques jours.",
+  "segments": [
+   {
+    "detail": "Aciers pour la mécanique (carbone, alliés, outils) et aluminium, 903 M€ de ventes en 2025, marge très faible (1,8 % d'EBITDA).",
+    "nom": "IMS group",
+    "part": 48.7
+   },
+   {
+    "detail": "Produits longs en inox (barres, tubes), 504 M€ en 2025.",
+    "nom": "Stappert",
+    "part": 27.2
+   },
+   {
+    "detail": "Tôles épaisses en inox et alliages de nickel découpées sur mesure, 447 M€ en 2025, la division la plus rentable.",
+    "nom": "Jacquet",
+    "part": 24.1
+   }
+  ],
+  "siege": "Saint-Priest (près de Lyon), France",
+  "site": "https://www.jacquetmetals.com",
+  "sources": [
+   "https://www.businesswire.com/news/home/20260318477298/fr",
+   "https://www.jacquetmetals.com/fichiers/rapports/2025/JM_DEU_2025_FRWEB.pdf",
+   "https://www.jacquetmetals.com/en/dividends/",
+   "https://www.businesswire.com/news/home/20250312237009/fr",
+   "https://www.businesswire.com/news/home/20240313502120/fr",
+   "https://www.businesswire.com/news/home/20220309005804/fr/",
+   "https://www.jacquetmetals.com/en/history-of-the-group/",
+   "https://www.jacquetmetals.com/en/profile/",
+   "https://www.zonebourse.com/cours/action/JACQUET-METALS-5015/societe/"
+  ],
+  "suivi": {
+   "bilan": "Sur 6 points, 1 seul tient nettement (allocation du capital de la famille) et 5 sont à surveiller ; le plus fragile est la reprise des volumes, avec IMS group et l'Allemagne toujours en baisse.",
+   "croire": [
+    {
+     "c": "Que le cycle de l'acier et l'industrie européenne (surtout allemande) repartent, car les profits de Jacquet sont très sensibles aux volumes et aux prix.",
+     "etat": "watch",
+     "preuve": "S1 2026 : CA 1 001 M€ (+1,4 %), marge d'EBITDA 6,0 % contre 4,9 %, volumes IMS group -4,4 %.",
+     "prochain": "Résultats du T3 2026 le 04/11/2026",
+     "reponse": "Le point bas semble passé pour les marges, mais la reprise des volumes reste timide et la direction prévoit des trimestres semblables au premier semestre, avec une visibilité réduite.",
+     "source": "https://www.webdisclosure.com/press-release/jacquet-metal-service-epa-jcq-informations-privilegiees-communique-sur-comptes-resultats-Z5qiVQtjiUC"
+    },
+    {
+     "c": "Que la taxe carbone aux frontières de l'UE et la protection du marché européen fassent remonter les prix et les marges des distributeurs.",
+     "etat": "watch",
+     "preuve": "S1 2026 : effet prix -0,3 % ; quotas d'importation réduits d'environ 47 % et droit hors quota de 50 % depuis le 01/07/2026.",
+     "prochain": "Résultats du T3 2026 le 04/11/2026",
+     "reponse": "Les nouvelles protections européennes sont en place depuis le 01/07/2026, mais leur effet sur les prix ne se voit pas encore dans les comptes du premier semestre.",
+     "source": "https://www.webdisclosure.com/press-release/jacquet-metal-service-epa-jcq-informations-privilegiees-communique-sur-comptes-resultats-Z5qiVQtjiUC"
+    },
+    {
+     "c": "Que la famille Jacquet continue à bien allouer le capital (rachats d'actions, acquisitions à bas prix au creux du cycle) sans sacrifier le bilan.",
+     "etat": "ok",
+     "preuve": "S1 2026 : rachats de Sabater Fundimol (Espagne) et Energy Steel Products (États-Unis), dette nette 143 M€ soit 21 % des fonds propres ; 467 679 actions annulées au 30/06/2026 et 5,76 % d'autodétention.",
+     "prochain": "Résultats du T3 2026 le 04/11/2026",
+     "reponse": "Oui : deux petites acquisitions au creux du cycle, des actions annulées, et un endettement qui reste modéré.",
+     "source": "https://fr.finance.yahoo.com/actualites/jacquet-metals-descriptif-programme-rachat-160000457.html"
+    }
+   ],
+   "le": "2026-09-29",
+   "questions": [
+    {
+     "etat": "watch",
+     "preuve": "S1 2026 : volumes du groupe +1,5 % (+2,3 % au T2) ; JACQUET +10,1 %, STAPPERT +4,7 %, IMS group -4,4 % (35 % de ses ventes en Allemagne).",
+     "prochain": "Résultats du T3 2026 le 04/11/2026",
+     "q": "Les volumes vendus remontent-ils, en particulier chez IMS group et en Allemagne ?",
+     "reponse": "Les volumes du groupe remontent un peu, mais pas chez IMS group, toujours pénalisée par l'Allemagne.",
+     "source": "https://www.webdisclosure.com/press-release/jacquet-metal-service-epa-jcq-informations-privilegiees-communique-sur-comptes-resultats-Z5qiVQtjiUC"
+    },
+    {
+     "etat": "watch",
+     "preuve": "S1 2026 : effet prix -0,3 %, marge brute 25,1 % contre 23,6 % ; provision d'environ 5 M€ au titre du mécanisme d'ajustement carbone aux frontières.",
+     "prochain": "Résultats du T3 2026 le 04/11/2026",
+     "q": "Quel est l'effet de la taxe carbone européenne (CBAM) sur les prix de l'inox et sur les marges du groupe ?",
+     "reponse": "Pour l'instant, pas de hausse de prix visible : l'effet sur la marge vient d'ailleurs. La taxe carbone coûte même une provision au groupe, à payer en 2027.",
+     "source": "https://www.webdisclosure.com/press-release/jacquet-metal-service-epa-jcq-informations-privilegiees-communique-sur-comptes-resultats-Z5qiVQtjiUC"
+    },
+    {
+     "etat": "watch",
+     "preuve": "Stocks 590 M€ fin juin 2026 (569 M€ fin 2025), soit 187 jours de ventes contre 189 ; BFR opérationnel 565 M€ contre 537 M€ (30,3 % du CA).",
+     "prochain": "Résultats du T3 2026 le 04/11/2026",
+     "q": "Le stock (environ 189 jours de ventes) et le besoin en fonds de roulement baissent-ils pour libérer du cash ?",
+     "reponse": "Non, pas encore : le nombre de jours de stock est stable et le besoin en fonds de roulement a augmenté, donc pas de cash libéré de ce côté.",
+     "source": "https://www.webdisclosure.com/press-release/jacquet-metal-service-epa-jcq-informations-privilegiees-communique-sur-comptes-resultats-Z5qiVQtjiUC"
+    }
+   ]
+  },
+  "verifieLe": "2026-09-29"
+ },
+ "src": "https://www.abcbourse.com/marches/jacquet-metals-ameliore-sa-rentabilite-au-1er-semestre-2026-malgre-une-visibilit_702298",
+ "statut": "surveiller",
+ "these": "Marge et résultat net en nette hausse au S1.",
+ "ticker": "JCQ",
+ "yahoo": "JCQ.PA",
+ "zb": "https://www.zonebourse.com/cours/action/JACQUET-METALS-5015/"
+}

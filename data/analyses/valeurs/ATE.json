@@ -1,0 +1,1485 @@
+{
+ "analyse": {
+  "aVerifier": "Moyenne mobile 200 jours et RSI 14 non confirmés (la page technique Investing lue n'était pas datée et affichait un cours de 73 € ; son chiffre de 67,04 € pour la moyenne 200 jours n'a pas été retenu). Les estimations de bénéfice par action diffèrent selon les pages Zonebourse (6,27 € ou environ 6,75 € pour 2026). ROE estimée par calcul. Date des résultats annuels à confirmer.",
+  "actu": [
+   {
+    "d": "29/07",
+    "fait": "Chiffre d'affaires du 2e trimestre en hausse de 3,2 % en organique et premier relèvement des objectifs 2026 (croissance organique de +1,4 à +1,8 % contre 0 à -0,5 %). Le titre bondit de 20 %, meilleure performance du SBF 120 ce jour-là.",
+    "horizon": "moyen",
+    "impact": "positif",
+    "lecture": "C'est le signal de fin de la baisse d'activité de 2025 : sans retour de la croissance, la thèse de redressement ne tenait pas."
+   },
+   {
+    "d": "24/09",
+    "fait": "Résultats semestriels : marge opérationnelle d'activité 8,9 % (7,3 % un an plus tôt), résultat net 113,8 M€ (+38 %), trésorerie nette 313 M€. Deuxième relèvement des objectifs : croissance organique de +1,7 à +1,9 % et marge d'environ 9,2 %. Moteurs : aéronautique, défense, sécurité, naval, ferroviaire et énergie ; Benelux et pays nordiques en baisse de plus de 5 %.",
+    "horizon": "moyen",
+    "impact": "positif",
+    "lecture": "La hausse des dépenses de défense en Europe profite directement à Alten, ce qui peut soutenir la croissance plusieurs années."
+   },
+   {
+    "d": "28/09",
+    "fait": "Objectifs relevés : Oddo BHF 106 à 115 €, Kepler Cheuvreux 105 à 110 €, CIC 80 à 100 €, Bernstein 141 à 143 € ; Invest Securities à l'achat, objectif 132 €. Le titre clôture à 79,75 € (+4,59 %) après +7,7 % vendredi.",
+    "horizon": "court",
+    "impact": "positif",
+    "lecture": "Les analystes suivent le redressement, mais l'écart entre objectifs (55 à 141 € selon Zonebourse) montre qu'il n'y a pas de consensus sur l'ampleur de la reprise."
+   },
+   {
+    "d": "18/09",
+    "fait": "Hausse des taux souverains : taux français à 10 ans à 4,55 %, taux américain à 10 ans au-dessus de 5 %.",
+    "horizon": "court",
+    "impact": "negatif",
+    "lecture": "Des taux plus élevés pèsent sur les valorisations et peuvent freiner les budgets de recherche et développement des clients industriels, notamment dans l'automobile."
+   }
+  ],
+  "cadres": [
+   "Buffett / Fisher (qualité, position concurrentielle)",
+   "Lynch (catégorie retournement, PEG)",
+   "Graham (solidité du bilan)",
+   "Greenblatt (formule magique)",
+   "Théorie de Dow",
+   "Stades de Weinstein",
+   "Modèle de tendance de Minervini"
+  ],
+  "conviction": "moyenne",
+  "fonda": {
+   "bilan": "Trésorerie nette de 313 M€ fin juin 2026 (390 M€ fin 2025), endettement négatif de -14 % des fonds propres, flux de trésorerie disponible semestriel de 104,3 M€ (+33 %). Aucun risque financier au sens de Graham, malgré deux acquisitions au semestre (une ESN française de 68 M€ de chiffre d'affaires et une société allemande de 22 M€).",
+   "croissance": "Chiffre d'affaires 2025 de 4 099 M€ (-4,5 % en organique) puis retour à la croissance : +3,2 % en organique au 2e trimestre 2026 et +1,6 % sur le semestre. Objectif 2026 relevé à +1,7 à +1,9 % en organique. Résultat net semestriel de 113,8 M€ (+38 %). Consensus Zonebourse : bénéfice par action d'environ 6,27 € en 2026, 7,18 € en 2027 et 7,64 € en 2028 (2025 à 3,04 € était déprimé par 67,4 M€ de dépréciations et 46,3 M€ de charges non récurrentes). Au sens de Lynch : un retournement en cours.",
+   "greenblatt": "Rendement des bénéfices d'environ 16 % (résultat opérationnel attendu de 390 M€ pour une valeur d'entreprise d'environ 2,45 Md€) et rentabilité des capitaux d'environ 10 % : bon classement surtout grâce au prix bas.",
+   "justif": "Bilan très solide et valorisation modérée, redressement des marges engagé, mais croissance organique faible et rentabilité des capitaux encore moyenne.",
+   "peg": 1.2,
+   "piotroski": null,
+   "qualite": "Marge opérationnelle d'activité de 8,9 % au 1er semestre 2026 contre 7,3 % un an plus tôt, objectif d'environ 9,2 % sur l'année (8,5 % en 2025, 10 à 11 % en 2021-2022 selon les marges EBIT Zonebourse). Rentabilité des fonds propres d'environ 10 % (calcul à partir du ratio cours/actif net Zonebourse). Leader européen du conseil en ingénierie, Alten a une taille qui lui donne accès aux grands programmes industriels, mais son pouvoir de fixation des prix reste limité : au sens de Buffett, un avantage d'échelle, pas une rente.",
+   "score": 6,
+   "valo": "Au cours de 79,25 € : PER d'environ 12,6 fois pour 2026 et 11 fois pour 2027 (bénéfices par action de 6,27 € et 7,18 € ; la page d'accueil Zonebourse indique 11,3 et 10,1 fois au cours de 76,25 €, les estimations variant selon les pages). Valeur d'entreprise sur EBITDA d'environ 5 fois et rendement du flux de trésorerie disponible d'environ 11 % (Zonebourse). Le PER moyen des cinq années 2021 à 2025 est d'environ 19 fois, mais il est faussé par des bénéfices exceptionnels ou déprimés ; sur un bénéfice normal, le titre reste sous sa moyenne historique."
+  },
+  "majLe": "2026-09-28",
+  "revisions": "Pas de chiffre de révision sur 3 mois trouvé. Les analystes relèvent leurs objectifs après le 2e relèvement des prévisions 2026 (Oddo, Kepler, CIC, Bernstein, Invest Securities à 132 €) : sens probable à la hausse, non chiffré.",
+  "scenarios": [
+   {
+    "bas": 70,
+    "central": 80,
+    "haut": 88,
+    "horizon": "2 mois",
+    "hypotheses": "Catalyseur : chiffre d'affaires du 3e trimestre le 27/10/2026. Bas : prise de bénéfices et retour vers la moyenne 50 jours (environ 71 €). Haut : croissance organique du trimestre au-dessus de 3 % et franchissement du plus haut annuel de 84 €.",
+    "unite": "€"
+   },
+   {
+    "bas": 62,
+    "central": 90,
+    "haut": 105,
+    "horizon": "12 mois",
+    "hypotheses": "Objectif moyen des 6 analystes suivis par Zonebourse : 97,83 € (fourchette 55 à 141 €). Central : bénéfice par action 2027 d'environ 7,2 € valorisé 12 à 13 fois. Bas : rechute de l'automobile et de l'Europe du Nord, PER ramené à 9 fois. Haut : marge qui revient vers 10 % et PER de 14 fois.",
+    "unite": "€"
+   },
+   {
+    "bas": 3,
+    "central": 11,
+    "haut": 16,
+    "horizon": "5 ans",
+    "hypotheses": "Central : bénéfice par action +8 %/an (croissance de 3 à 5 % plus remontée de la marge vers 10 %), dividende d'environ 2,3 %, PER qui passe de 12 à 13 fois (+1,5 %/an) : 8 + 2,3 + 1,5 = environ 11 %. Bas : croissance nulle et PER stable. Haut : cycle défense et aéronautique durable et PER vers 15 fois.",
+    "unite": "%/an"
+   },
+   {
+    "bas": 4,
+    "central": 8,
+    "haut": 11,
+    "horizon": "10-15 ans",
+    "hypotheses": "Sur longue période : croissance des bénéfices de 5 à 7 %/an plus un dividende de 2 à 2,5 %, sans effet de multiple. Bas : l'IA et l'automatisation réduisent le besoin d'ingénieurs externes. Haut : Alten consolide un marché européen de l'ingénierie encore fragmenté.",
+    "unite": "%/an"
+   }
+  ],
+  "sources": [
+   "https://www.alten.com/fr/resultats-semestriels-2026/",
+   "https://www.zonebourse.com/actualite-bourse/alten-releve-une-nouvelle-fois-ses-objectifs-annuels-apres-un-bond-de-ses-resultats-au-1er-semestre-ce785aded08ff027",
+   "https://www.tradingsat.com/alten-FR0000071946/actualites/alten-la-croissance-du-groupe-d-ingenierie-alten-prend-le-marche-de-vitesse-l-action-flambe-de-20-1167693.html",
+   "https://www.zonebourse.com/actualite-bourse/avis-d-analystes-du-jour-alten-seduit-credit-agricole-est-degrade-akzo-est-releve-ce785adcda88f424",
+   "https://www.finanzwire.fr/press-release/alten-epa-ate-alten-resultats-annuels-2025-scBVgvqFWgm",
+   "https://www.zonebourse.com/cours/action/ALTEN-4609/",
+   "https://www.zonebourse.com/cours/action/ALTEN-4609/consensus/",
+   "https://www.zonebourse.com/cours/action/ALTEN-29421320/finances/",
+   "https://www.zonebourse.com/cours/action/ALTEN-111961859/valorisation/",
+   "https://www.zonebourse.com/cours/action/ALTEN-4609/cotations/",
+   "https://www.boursorama.com/cours/analyses/1rPATE/",
+   "https://www.xtb.com/fr/analyses-marches/dette-francaise-le-spread-oat-bund-franchit-100-points"
+  ],
+  "tech": {
+   "bas52": 51.6,
+   "cours": 79.75,
+   "coursLe": "2026-09-28",
+   "haut52": 82.7,
+   "lecture": "Cours de 79,75 au-dessus de sa moyenne 50 jours (72,14) et au-dessus de sa moyenne 200 jours (64,88). RSI 65,3 : élan fort, le titre est monté vite. Il se situe à 91 % de sa fourchette sur un an (de 51,60 à 82,70), performance sur 12 mois de +10,8 %. Moyennes et RSI calculés sur les vraies clôtures (flux GitHub de 15h33).",
+   "mm200": 64.88,
+   "mm50": 72.14,
+   "resistance": 83.2,
+   "rsi14": 65.3,
+   "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json",
+   "stade": 2,
+   "support": 75.3,
+   "tendance": "haussiere"
+  },
+  "verdict": "Alten sort d'une année 2025 difficile et a relevé deux fois ses objectifs 2026 grâce à l'aéronautique, la défense et le ferroviaire, avec une marge qui remonte vers 9,2 % et une trésorerie nette de 313 M€, pour un PER d'environ 12 fois. Le titre est en tendance haussière et proche de sa résistance annuelle ; la croissance reste toutefois faible (moins de 2 % en organique), donc la hausse repose surtout sur le redressement des marges.",
+  "zones": {
+   "catalyseurs": [
+    "27/10/2026 : chiffre d'affaires du 3e trimestre 2026.",
+    "Fin janvier ou février 2027 (date à confirmer) : chiffre d'affaires et résultats annuels 2026.",
+    "Annonces européennes sur les budgets de défense."
+   ],
+   "interet": "Entre 70 et 75 € : zone de la moyenne 50 jours et du support de 75,30 €, soit environ 11 à 12 fois les bénéfices 2026. Au-dessus de 84 €, le potentiel se réduit sans nouvelle hausse des prévisions.",
+   "invalidation": "Retour d'une croissance organique négative sur un trimestre ou marge annuelle 2026 sous 8,5 %, ce qui annulerait le scénario de redressement.",
+   "sortie": [
+    "Baisse des objectifs annuels après les deux relèvements de 2026.",
+    "Marge opérationnelle d'activité qui repasse sous 8,5 %.",
+    "PER au-dessus de 18 fois avec une croissance organique inférieure à 3 %."
+   ]
+  }
+ },
+ "capi": "2,65 Md€",
+ "cours": 79.75,
+ "coursLe": "2026-09-28",
+ "devise": "€",
+ "faits": [
+  {
+   "d": "28/09",
+   "t": "Clôture à 79,75 € (+4,59 %). Invest Securities reste à l'achat, objectif 132 €."
+  },
+  {
+   "d": "25/09",
+   "t": "+7,7 % à 76,25 € dans la séance."
+  },
+  {
+   "d": "24/09",
+   "t": "S1 : CA 2 109 M€ (+1,2 %), résultat opérationnel +27 %. Objectifs 2026 relevés : organique +1,7 à +1,9 %, marge vers 9,2 %."
+  }
+ ],
+ "histo": [
+  [
+   "22/09",
+   66.6
+  ],
+  [
+   "23/09",
+   67.55
+  ],
+  [
+   "24/09",
+   67.25
+  ],
+  [
+   "25/09",
+   66.55
+  ],
+  [
+   "26/09",
+   67.25
+  ],
+  [
+   "29/09",
+   68.3
+  ],
+  [
+   "30/09",
+   69.9
+  ],
+  [
+   "01/10",
+   70.6
+  ],
+  [
+   "02/10",
+   72.05
+  ],
+  [
+   "03/10",
+   72.05
+  ],
+  [
+   "06/10",
+   69.75
+  ],
+  [
+   "07/10",
+   70.5
+  ],
+  [
+   "08/10",
+   69.85
+  ],
+  [
+   "09/10",
+   71.05
+  ],
+  [
+   "10/10",
+   69.05
+  ],
+  [
+   "13/10",
+   69.9
+  ],
+  [
+   "14/10",
+   68
+  ],
+  [
+   "15/10",
+   69.3
+  ],
+  [
+   "16/10",
+   69.4
+  ],
+  [
+   "17/10",
+   68.45
+  ],
+  [
+   "20/10",
+   69.5
+  ],
+  [
+   "21/10",
+   70.8
+  ],
+  [
+   "22/10",
+   70.4
+  ],
+  [
+   "23/10",
+   69.65
+  ],
+  [
+   "24/10",
+   74.75
+  ],
+  [
+   "27/10",
+   75
+  ],
+  [
+   "28/10",
+   73.85
+  ],
+  [
+   "29/10",
+   72.6
+  ],
+  [
+   "30/10",
+   71.65
+  ],
+  [
+   "31/10",
+   71.45
+  ],
+  [
+   "03/11",
+   70.75
+  ],
+  [
+   "04/11",
+   69.5
+  ],
+  [
+   "05/11",
+   68.2
+  ],
+  [
+   "06/11",
+   67
+  ],
+  [
+   "07/11",
+   66.5
+  ],
+  [
+   "10/11",
+   67.95
+  ],
+  [
+   "11/11",
+   68.05
+  ],
+  [
+   "12/11",
+   69.9
+  ],
+  [
+   "13/11",
+   69.2
+  ],
+  [
+   "14/11",
+   68.4
+  ],
+  [
+   "17/11",
+   67.5
+  ],
+  [
+   "18/11",
+   65.15
+  ],
+  [
+   "19/11",
+   64.6
+  ],
+  [
+   "20/11",
+   64.4
+  ],
+  [
+   "21/11",
+   64.8
+  ],
+  [
+   "24/11",
+   67.1
+  ],
+  [
+   "25/11",
+   67.65
+  ],
+  [
+   "26/11",
+   67.05
+  ],
+  [
+   "27/11",
+   67.5
+  ],
+  [
+   "28/11",
+   67.25
+  ],
+  [
+   "01/12",
+   67.45
+  ],
+  [
+   "02/12",
+   66.45
+  ],
+  [
+   "03/12",
+   67.15
+  ],
+  [
+   "04/12",
+   68.5
+  ],
+  [
+   "05/12",
+   69.55
+  ],
+  [
+   "08/12",
+   68.5
+  ],
+  [
+   "09/12",
+   69
+  ],
+  [
+   "10/12",
+   67.8
+  ],
+  [
+   "11/12",
+   70.95
+  ],
+  [
+   "12/12",
+   72.55
+  ],
+  [
+   "15/12",
+   72.95
+  ],
+  [
+   "16/12",
+   73
+  ],
+  [
+   "17/12",
+   72.7
+  ],
+  [
+   "18/12",
+   74.5
+  ],
+  [
+   "19/12",
+   74.35
+  ],
+  [
+   "22/12",
+   72.6
+  ],
+  [
+   "23/12",
+   71.95
+  ],
+  [
+   "24/12",
+   71.3
+  ],
+  [
+   "29/12",
+   72.8
+  ],
+  [
+   "30/12",
+   73.05
+  ],
+  [
+   "31/12",
+   72.45
+  ],
+  [
+   "02/01",
+   72.6
+  ],
+  [
+   "05/01",
+   73.2
+  ],
+  [
+   "06/01",
+   71.9
+  ],
+  [
+   "07/01",
+   74.6
+  ],
+  [
+   "08/01",
+   74.05
+  ],
+  [
+   "09/01",
+   75
+  ],
+  [
+   "12/01",
+   75.75
+  ],
+  [
+   "13/01",
+   78.5
+  ],
+  [
+   "14/01",
+   76.5
+  ],
+  [
+   "15/01",
+   76
+  ],
+  [
+   "16/01",
+   74.7
+  ],
+  [
+   "19/01",
+   74.3
+  ],
+  [
+   "20/01",
+   72.8
+  ],
+  [
+   "21/01",
+   72.05
+  ],
+  [
+   "22/01",
+   73.2
+  ],
+  [
+   "23/01",
+   73.2
+  ],
+  [
+   "26/01",
+   74.4
+  ],
+  [
+   "27/01",
+   72.75
+  ],
+  [
+   "28/01",
+   72.7
+  ],
+  [
+   "29/01",
+   70.75
+  ],
+  [
+   "30/01",
+   82.6
+  ],
+  [
+   "02/02",
+   82.7
+  ],
+  [
+   "03/02",
+   76.05
+  ],
+  [
+   "04/02",
+   73.2
+  ],
+  [
+   "05/02",
+   72.2
+  ],
+  [
+   "06/02",
+   70.7
+  ],
+  [
+   "09/02",
+   71.15
+  ],
+  [
+   "10/02",
+   72.1
+  ],
+  [
+   "11/02",
+   66.95
+  ],
+  [
+   "12/02",
+   63.45
+  ],
+  [
+   "13/02",
+   63.8
+  ],
+  [
+   "16/02",
+   60.75
+  ],
+  [
+   "17/02",
+   59.45
+  ],
+  [
+   "18/02",
+   60.1
+  ],
+  [
+   "19/02",
+   60.4
+  ],
+  [
+   "20/02",
+   59.65
+  ],
+  [
+   "23/02",
+   57.2
+  ],
+  [
+   "24/02",
+   59.05
+  ],
+  [
+   "25/02",
+   59.8
+  ],
+  [
+   "26/02",
+   63
+  ],
+  [
+   "27/02",
+   63.55
+  ],
+  [
+   "02/03",
+   60.5
+  ],
+  [
+   "03/03",
+   59.75
+  ],
+  [
+   "04/03",
+   60.8
+  ],
+  [
+   "05/03",
+   60.2
+  ],
+  [
+   "06/03",
+   60.9
+  ],
+  [
+   "09/03",
+   59.55
+  ],
+  [
+   "10/03",
+   58.8
+  ],
+  [
+   "11/03",
+   59
+  ],
+  [
+   "12/03",
+   58.55
+  ],
+  [
+   "13/03",
+   57.35
+  ],
+  [
+   "16/03",
+   56.15
+  ],
+  [
+   "17/03",
+   56.95
+  ],
+  [
+   "18/03",
+   56.4
+  ],
+  [
+   "19/03",
+   55.2
+  ],
+  [
+   "20/03",
+   53.45
+  ],
+  [
+   "23/03",
+   54
+  ],
+  [
+   "24/03",
+   52.55
+  ],
+  [
+   "25/03",
+   52.85
+  ],
+  [
+   "26/03",
+   52.15
+  ],
+  [
+   "27/03",
+   52.25
+  ],
+  [
+   "30/03",
+   51.6
+  ],
+  [
+   "31/03",
+   52.4
+  ],
+  [
+   "01/04",
+   53
+  ],
+  [
+   "02/04",
+   53
+  ],
+  [
+   "07/04",
+   52.5
+  ],
+  [
+   "08/04",
+   53.85
+  ],
+  [
+   "09/04",
+   52.65
+  ],
+  [
+   "10/04",
+   52.3
+  ],
+  [
+   "13/04",
+   53.6
+  ],
+  [
+   "14/04",
+   53.5
+  ],
+  [
+   "15/04",
+   55.75
+  ],
+  [
+   "16/04",
+   57.75
+  ],
+  [
+   "17/04",
+   59.65
+  ],
+  [
+   "20/04",
+   59.1
+  ],
+  [
+   "21/04",
+   60
+  ],
+  [
+   "22/04",
+   59.2
+  ],
+  [
+   "23/04",
+   57.1
+  ],
+  [
+   "24/04",
+   56.65
+  ],
+  [
+   "27/04",
+   57.1
+  ],
+  [
+   "28/04",
+   58.2
+  ],
+  [
+   "29/04",
+   57.5
+  ],
+  [
+   "30/04",
+   56.5
+  ],
+  [
+   "04/05",
+   58.45
+  ],
+  [
+   "05/05",
+   57.4
+  ],
+  [
+   "06/05",
+   61.85
+  ],
+  [
+   "07/05",
+   61.65
+  ],
+  [
+   "08/05",
+   61.3
+  ],
+  [
+   "11/05",
+   61.4
+  ],
+  [
+   "12/05",
+   60.85
+  ],
+  [
+   "13/05",
+   60.4
+  ],
+  [
+   "14/05",
+   61.1
+  ],
+  [
+   "15/05",
+   61.4
+  ],
+  [
+   "18/05",
+   62.3
+  ],
+  [
+   "19/05",
+   63.55
+  ],
+  [
+   "20/05",
+   62.5
+  ],
+  [
+   "21/05",
+   62.2
+  ],
+  [
+   "22/05",
+   62.85
+  ],
+  [
+   "25/05",
+   63.95
+  ],
+  [
+   "26/05",
+   63.75
+  ],
+  [
+   "27/05",
+   63.5
+  ],
+  [
+   "28/05",
+   64.35
+  ],
+  [
+   "29/05",
+   65
+  ],
+  [
+   "01/06",
+   66.8
+  ],
+  [
+   "02/06",
+   65.75
+  ],
+  [
+   "03/06",
+   63.25
+  ],
+  [
+   "04/06",
+   66.2
+  ],
+  [
+   "05/06",
+   64.35
+  ],
+  [
+   "08/06",
+   63.85
+  ],
+  [
+   "09/06",
+   62.85
+  ],
+  [
+   "10/06",
+   61.5
+  ],
+  [
+   "11/06",
+   58.95
+  ],
+  [
+   "12/06",
+   61.2
+  ],
+  [
+   "15/06",
+   62.4
+  ],
+  [
+   "16/06",
+   63.15
+  ],
+  [
+   "17/06",
+   62.8
+  ],
+  [
+   "18/06",
+   57.15
+  ],
+  [
+   "19/06",
+   57.6
+  ],
+  [
+   "22/06",
+   55.3
+  ],
+  [
+   "23/06",
+   54.65
+  ],
+  [
+   "24/06",
+   54.1
+  ],
+  [
+   "25/06",
+   52.45
+  ],
+  [
+   "26/06",
+   53.4
+  ],
+  [
+   "29/06",
+   53.95
+  ],
+  [
+   "30/06",
+   53
+  ],
+  [
+   "01/07",
+   55.35
+  ],
+  [
+   "02/07",
+   55.1
+  ],
+  [
+   "03/07",
+   55.85
+  ],
+  [
+   "06/07",
+   55.85
+  ],
+  [
+   "07/07",
+   55.95
+  ],
+  [
+   "08/07",
+   54.25
+  ],
+  [
+   "09/07",
+   54
+  ],
+  [
+   "10/07",
+   53.1
+  ],
+  [
+   "13/07",
+   55.55
+  ],
+  [
+   "14/07",
+   55.4
+  ],
+  [
+   "15/07",
+   56.45
+  ],
+  [
+   "16/07",
+   56.25
+  ],
+  [
+   "17/07",
+   56.45
+  ],
+  [
+   "20/07",
+   56.5
+  ],
+  [
+   "21/07",
+   55.3
+  ],
+  [
+   "22/07",
+   56.5
+  ],
+  [
+   "23/07",
+   56.75
+  ],
+  [
+   "24/07",
+   60.4
+  ],
+  [
+   "27/07",
+   62.45
+  ],
+  [
+   "28/07",
+   66.8
+  ],
+  [
+   "29/07",
+   79.8
+  ],
+  [
+   "30/07",
+   75.85
+  ],
+  [
+   "31/07",
+   75.1
+  ],
+  [
+   "03/08",
+   78.9
+  ],
+  [
+   "04/08",
+   76.7
+  ],
+  [
+   "05/08",
+   76.3
+  ],
+  [
+   "06/08",
+   75.4
+  ],
+  [
+   "07/08",
+   75.7
+  ],
+  [
+   "10/08",
+   75.85
+  ],
+  [
+   "11/08",
+   75.55
+  ],
+  [
+   "12/08",
+   72.1
+  ],
+  [
+   "13/08",
+   72.95
+  ],
+  [
+   "14/08",
+   74
+  ],
+  [
+   "17/08",
+   72.75
+  ],
+  [
+   "18/08",
+   74.2
+  ],
+  [
+   "19/08",
+   75
+  ],
+  [
+   "20/08",
+   75.1
+  ],
+  [
+   "21/08",
+   76.05
+  ],
+  [
+   "24/08",
+   75.85
+  ],
+  [
+   "25/08",
+   75.45
+  ],
+  [
+   "26/08",
+   74.8
+  ],
+  [
+   "27/08",
+   76.9
+  ],
+  [
+   "28/08",
+   76.85
+  ],
+  [
+   "31/08",
+   76.75
+  ],
+  [
+   "01/09",
+   76.3
+  ],
+  [
+   "02/09",
+   74.6
+  ],
+  [
+   "03/09",
+   76.75
+  ],
+  [
+   "04/09",
+   72.45
+  ],
+  [
+   "07/09",
+   70.55
+  ],
+  [
+   "08/09",
+   70.4
+  ],
+  [
+   "09/09",
+   68.35
+  ],
+  [
+   "10/09",
+   68.55
+  ],
+  [
+   "11/09",
+   69.65
+  ],
+  [
+   "14/09",
+   71.45
+  ],
+  [
+   "15/09",
+   70.25
+  ],
+  [
+   "16/09",
+   70.35
+  ],
+  [
+   "17/09",
+   67.85
+  ],
+  [
+   "18/09",
+   66.1
+  ],
+  [
+   "21/09",
+   70.95
+  ],
+  [
+   "22/09",
+   71.05
+  ],
+  [
+   "23/09",
+   72.6
+  ],
+  [
+   "24/09",
+   70.8
+  ],
+  [
+   "25/09",
+   76.25
+  ],
+  [
+   "28/09",
+   79.75
+  ]
+ ],
+ "nom": "Alten",
+ "notes": "Clôture du 28/09 à 79,75 (ABC Bourse, 17h35). CA T3 le 27/10 à 18h.",
+ "pays": "FR",
+ "per26": 11.3,
+ "per27": 10.1,
+ "perf": {
+  "m1": 3.8,
+  "m12": 10.8,
+  "m3": 44.2
+ },
+ "pub": "2026-10-27",
+ "pubLabel": "CA du T3",
+ "risque": "Automobile encore faible.",
+ "secteur": "Ingénierie",
+ "societe": {
+  "aVerifier": "Vérifié le 29/09/2026 sur les communiqués Alten : CA, marge opérationnelle d'activité, résultat net part du groupe et trésorerie nette 2021-2025 confirmés (2021 : 219,8 M€ ; 2022 : 418,0 M€ ; 2023 : 297,0 M€ ; 2024 : 275,5 M€ ; 2025 : 390,2 M€). Résultat net 2022 gonflé par une plus-value de cession de 216,3 M€ (non récurrent) ; résultat net 2025 pénalisé par une amende de l'Autorité de la concurrence de 21,5 M€ (en appel) et 17,6 M€ de restructurations. Dividendes par exercice : 1,30 € (2021), puis 1,50 € (2022 à 2025 ; 1,50 € au titre de 2025 versé le 24/06/2026). Effectif 57 400 fin 2025 (Alten). Cyril Malargé DG depuis le 01/11/2025 (Zonebourse). Restent non vérifiés : répartition par secteur (le DEU 2025 lu ne donne pas de pourcentages ; Zonebourse cite aéronautique 15,5 %, automobile 15,2 %, énergie 11,9 %, incohérent avec la ligne « aéronautique, défense, naval 24,3 % ») ; répartition par pays hors France (34,6 % France confirmé) ; consensus 2026e ; actionnariat (Zonebourse uniquement) ; concurrents non sourcés.",
+  "actionnariat": "Le fondateur Simon Azoulay reste le premier actionnaire (environ 14,6 %), aux côtés de fonds comme Silchester (5,8 %), Fidelity (3,5 %) et Financière de l'Échiquier (3,1 %) ; l'essentiel du capital est en bourse.",
+  "avantage": "Sa taille et sa présence mondiale lui permettent de répondre aux appels d'offres des plus grands industriels et de recruter massivement des ingénieurs, avec un bilan solide (trésorerie nette de 390 M€ fin 2025) pour racheter des concurrents. Ce qui pourrait l'éroder : les coupes de budgets R&D dans l'automobile, la délocalisation vers des pays à bas coûts, et l'IA qui automatise une partie des tâches d'ingénierie et de test.",
+  "chiffres": [
+   {
+    "annee": "2021",
+    "ca": 2925.2,
+    "detteNette": -219.8,
+    "dividende": 1.3,
+    "margeOp": 10.9,
+    "rn": 207.8
+   },
+   {
+    "annee": "2022",
+    "ca": 3783.1,
+    "detteNette": -418,
+    "dividende": 1.5,
+    "margeOp": 11.1,
+    "rn": 457.6
+   },
+   {
+    "annee": "2023",
+    "ca": 4068.8,
+    "detteNette": -297,
+    "dividende": 1.5,
+    "margeOp": 9.4,
+    "rn": 233.2
+   },
+   {
+    "annee": "2024",
+    "ca": 4143.3,
+    "detteNette": -275.5,
+    "dividende": 1.5,
+    "margeOp": 9.1,
+    "rn": 186.4
+   },
+   {
+    "annee": "2025",
+    "ca": 4099,
+    "detteNette": -390.2,
+    "dividende": 1.5,
+    "margeOp": 8.5,
+    "rn": 106.9
+   },
+   {
+    "annee": "2026e",
+    "ca": 4215,
+    "detteNette": null,
+    "dividende": 1.8,
+    "margeOp": 8.9,
+    "rn": null
+   }
+  ],
+  "clients": "De grands groupes industriels et technologiques (aéronautique, défense, automobile, énergie, télécoms, banque) dans le monde entier ; la dépendance porte plus sur des secteurs (automobile, aéronautique) que sur un client unique.",
+  "concurrents": [
+   "Akkodis (Adecco)",
+   "Expleo",
+   "Assystem",
+   "Capgemini Engineering",
+   "Segula Technologies",
+   "Bertrandt"
+  ],
+  "corrections": [
+   "Histoire 2024 : Worldgrid précisé (valeur d'entreprise 270 M€, finalisé le 02/12/2024, CA 2023 environ 170 M€ confirmé par Atos).",
+   "Histoire 2022 et aVerifier : le résultat net 2022 (457,6 M€) s'explique par une plus-value de cession d'une activité de 216,3 M€ (communiqué Alten 2022) ; ce n'est pas un bénéfice récurrent."
+  ],
+  "croire": [
+   "Que les industriels continuent d'externaliser leur R&D, et que la défense, l'aéronautique et l'énergie compensent durablement l'automobile.",
+   "Que le nouveau directeur général Cyril Malargé ramène la marge vers 10 % et la croissance organique en territoire positif.",
+   "Que le résultat net 2025 était un point bas exceptionnel (dépréciations, impôt anormalement élevé) et qu'il rebondit fortement dès 2026."
+  ],
+  "devise": "€",
+  "dirigeants": [
+   {
+    "depuis": "2025",
+    "nom": "Cyril Malargé",
+    "role": "Directeur général (en poste depuis le 1er novembre 2025 selon Zonebourse)"
+   },
+   {
+    "depuis": "2025",
+    "nom": "Simon Azoulay",
+    "role": "Président du conseil d'administration (cofondateur, ex-PDG)"
+   }
+  ],
+  "effectifs": 57400,
+  "fondee": 1988,
+  "geo": [
+   {
+    "part": 34.6,
+    "zone": "France"
+   },
+   {
+    "part": 11.3,
+    "zone": "Espagne"
+   },
+   {
+    "part": 10.6,
+    "zone": "Amérique du Nord"
+   },
+   {
+    "part": 8.5,
+    "zone": "Italie"
+   },
+   {
+    "part": 8.2,
+    "zone": "Asie-Pacifique"
+   },
+   {
+    "part": 7.4,
+    "zone": "Allemagne"
+   },
+   {
+    "part": 6.1,
+    "zone": "Royaume-Uni"
+   },
+   {
+    "part": 13.3,
+    "zone": "Autres"
+   }
+  ],
+  "histoire": [
+   {
+    "annee": 1988,
+    "fait": "Création par trois ingénieurs : Simon Azoulay, Laurent Schwarz et Thierry Woog."
+   },
+   {
+    "annee": 1999,
+    "fait": "Introduction en bourse au Second Marché de Paris."
+   },
+   {
+    "annee": 2000,
+    "fait": "Début de l'expansion internationale ; l'étranger pèse 20 % du CA dès 2003."
+   },
+   {
+    "annee": 2011,
+    "fait": "Rachats de Calsoft Labs, Bardenheuer et Enea Consulting, accélération hors de France."
+   },
+   {
+    "annee": 2012,
+    "fait": "Implantation en Asie et aux États-Unis."
+   },
+   {
+    "annee": 2022,
+    "fait": "CA de 3,8 Md€ (+29 %) après la reprise post-Covid ; résultat net gonflé à 457,6 M€ par une plus-value de 216,3 M€ sur la cession d'une activité."
+   },
+   {
+    "annee": 2024,
+    "fait": "Rachat de Worldgrid à Atos (environ 170 M€ de CA, 1 100 salariés, conseil et ingénierie pour l'énergie), pour une valeur d'entreprise de 270 M€, finalisé en décembre, alors que l'activité ralentit en Europe."
+   },
+   {
+    "annee": 2025,
+    "fait": "Année difficile (CA -1,1 %, résultat net quasi divisé par deux, chute de l'automobile de 16 %) ; Cyril Malargé, ex-directeur général de Sopra Steria, est nommé directeur général, Simon Azoulay reste président."
+   }
+  ],
+  "modele": "Alten facture le travail de ses ingénieurs, soit au temps passé (assistance technique), soit sous forme de projets ou de lots confiés. Les grands clients industriels externalisent une partie de leur recherche et développement de manière durable, donc l'activité est récurrente, mais elle suit leurs budgets de R&D et chute quand un secteur comme l'automobile freine. La marge dépend surtout du taux d'occupation des ingénieurs et de la capacité à augmenter les prix plus vite que les salaires.",
+  "questions": [
+   "Le taux d'occupation des ingénieurs et les prix de vente remontent-ils, notamment hors de France ?",
+   "L'automobile a-t-elle fini de baisser, et quel est le poids réel de la défense dans la croissance ?",
+   "Comment Alten utilise-t-il sa trésorerie : acquisitions, rachats d'actions ou dividende plus élevé ?"
+  ],
+  "resume": "Alten est le leader européen du conseil en ingénierie et en technologies : il loue à ses clients des ingénieurs qui conçoivent, testent et font évoluer leurs produits et leurs logiciels. Par exemple, des ingénieurs Alten peuvent travailler chez un avionneur sur le logiciel d'un cockpit, chez un constructeur automobile sur l'électronique d'une voiture, ou chez un énergéticien sur une centrale. Le groupe compte environ 57 000 salariés dans le monde.",
+  "segments": [
+   {
+    "detail": "Avionneurs, défense et chantiers navals, dont aéronautique civile environ 14 %.",
+    "nom": "Aéronautique, défense, sécurité, naval",
+    "part": 24.3
+   },
+   {
+    "detail": "Constructeurs et équipementiers, secteur en forte baisse en 2025.",
+    "nom": "Automobile",
+    "part": 15.2
+   },
+   {
+    "detail": "Informatique pour le secteur financier.",
+    "nom": "Banque, finance, assurance",
+    "part": 8.8
+   },
+   {
+    "detail": "Nucléaire et énergie, santé, opérateurs, industrie.",
+    "nom": "Énergie, sciences de la vie, télécoms, équipements industriels",
+    "part": 32.7
+   },
+   {
+    "detail": "Reste du chiffre d'affaires, non réparti dans la source lue.",
+    "nom": "Autres (non détaillé)",
+    "part": null
+   }
+  ],
+  "siege": "Boulogne-Billancourt, France",
+  "site": "https://www.alten.com",
+  "sources": [
+   "https://www.alten.com/wp-content/uploads/2026/02/ALTEN-Resultats-annuels-2025-416-Ko.pdf",
+   "https://www.alten.com/2025-annual-results/",
+   "https://www.alten.com/2024-annual-results/",
+   "https://www.alten.com/2023-annual-results/",
+   "https://www.alten.com/wp-content/uploads/2023/02/ALTEN-CP-Resultats-Annuels-2022.pdf",
+   "https://www.alten.com/fr/resultats-semestriels-2026/",
+   "https://www.alten.com/alten-annonces-strategic-evolution-of-its-governance/",
+   "https://www.abcbourse.com/analyses/chiffres/ATEp",
+   "https://www.zonebourse.com/cours/action/ALTEN-4609/societe/",
+   "https://www.zonebourse.com/cours/action/ALTEN-4609/valorisation-dividende/",
+   "https://www.boursorama.com/cours/consensus/1rPATE/",
+   "https://fr.investing.com/news/company-news/alten-2025--chiffre-daffaires-en-baisse-mais-generation-de-tresorerie-robuste-93CH-3319108",
+   "https://www.decisionbourse.fr/analyses-valeurs/2026/09/10/alten-trou-dair-en-2025-rebond-en-vue",
+   "https://en.wikipedia.org/wiki/ALTEN",
+   "https://www.ledividende.fr/2022/06/action-ALTEN-dividende-2022.html",
+   "https://www.webdisclosure.com/article/alten-epa-ate-assemblee-generale-2026-et-dividende-2025-chez-alten-jdmoYxehf6B",
+   "https://www.globenewswire.com/news-release/2024/12/02/2989441/0/fr/Atos-finalise-la-vente-de-Worldgrid-%C3%A0-ALTEN-pour-une-valeur-d-entreprise-de-270-millions-d-euros.html",
+   "https://www.abcbourse.com/marches/alten-chiffre-d-affaires-en-baisse-de-1-1-et-resultat-net-divise-par-deux-en-2_690065"
+  ],
+  "suivi": {
+   "bilan": "Les 3 conditions tiennent ; le plus fragile reste l'international (Benelux et pays nordiques en baisse) et une automobile qui n'a pas encore fini de reculer.",
+   "croire": [
+    {
+     "c": "Que les industriels continuent d'externaliser leur R&D, et que la défense, l'aéronautique et l'énergie compensent durablement l'automobile.",
+     "etat": "ok",
+     "preuve": "S1 2026 : croissance organique +1,6 % (après -4,5 % en 2025) ; objectif 2026 relevé à +1,7 à +1,9 %.",
+     "prochain": "CA du T3 le 27/10/2026",
+     "reponse": "Oui pour l'instant : l'aéronautique, la défense, le naval, le ferroviaire et l'énergie tirent la croissance, qui redevient positive malgré l'automobile.",
+     "source": "https://www.alten.com/fr/resultats-semestriels-2026/"
+    },
+    {
+     "c": "Que le nouveau directeur général Cyril Malargé ramène la marge vers 10 % et la croissance organique en territoire positif.",
+     "etat": "ok",
+     "preuve": "S1 2026 : marge opérationnelle d'activité 8,9 % contre 7,3 % ; objectif 2026 d'environ 9,2 % (8,5 % en 2025).",
+     "prochain": "Résultats annuels 2026 (février 2027)",
+     "reponse": "Le redressement est en cours : la marge remonte nettement et la croissance organique est redevenue positive, mais on reste encore loin des 10 %.",
+     "source": "https://www.alten.com/fr/resultats-semestriels-2026/"
+    },
+    {
+     "c": "Que le résultat net 2025 était un point bas exceptionnel (dépréciations, impôt anormalement élevé) et qu'il rebondit fortement dès 2026.",
+     "etat": "ok",
+     "preuve": "S1 2026 : résultat net part du groupe de 113,8 M€ (+38 %), résultat opérationnel +27 %.",
+     "prochain": "Résultats annuels 2026 (février 2027)",
+     "reponse": "Oui : le bénéfice du premier semestre rebondit fortement, sans les dépréciations qui avaient pesé en 2025.",
+     "source": "https://www.alten.com/fr/resultats-semestriels-2026/"
+    }
+   ],
+   "le": "2026-09-29",
+   "questions": [
+    {
+     "etat": "watch",
+     "preuve": "T1 2026 : taux d'activité de 93,1 %, « quasiment identique » à un an plus tôt ; S1 2026 : croissance organique +0,8 % à l'international contre +3,3 % en France (T2 : +1,5 % contre +6,5 %) ; Benelux et pays nordiques en recul de plus de 5 %.",
+     "prochain": "CA du T3 le 27/10/2026",
+     "q": "Le taux d'occupation des ingénieurs et les prix de vente remontent-ils, notamment hors de France ?",
+     "reponse": "Le taux d'occupation se maintient (pas de remontée) et la direction dit que l'équilibre salaires/prix « tient », sans chiffre sur les prix. Hors de France la reprise est encore faible, et le Benelux et les pays nordiques reculent toujours.",
+     "source": "https://www.alten.com/wp-content/uploads/2026/04/Transcription-audio-Q1-2026.pdf"
+    },
+    {
+     "etat": "watch",
+     "preuve": "T1 2026 : automobile -12,6 % sur un an (13,5 % du CA) ; défense, sécurité et naval environ 10 % du CA, en hausse de 15 % ; au T2, « la décroissance ralentit dans les autres secteurs ».",
+     "prochain": "CA du T3 le 27/10/2026",
+     "q": "L'automobile a-t-elle fini de baisser, et quel est le poids réel de la défense dans la croissance ?",
+     "reponse": "Pas encore : l'automobile baissait toujours nettement au début de 2026, mais moins vite ensuite selon Alten. La défense est devenue un vrai moteur, sans être encore assez grosse pour tout compenser seule.",
+     "source": "https://www.alten.com/wp-content/uploads/2026/04/Transcription-audio-Q1-2026.pdf"
+    },
+    {
+     "etat": "ok",
+     "preuve": "S1 2026 : 65 M€ de rachats d'actions (environ 2,4 % du capital), 51,5 M€ de dividendes, deux acquisitions (68 M€ et 22 M€ de CA) ; trésorerie nette de 313 M€ au 30/06/2026.",
+     "prochain": "Résultats annuels 2026 (février 2027)",
+     "q": "Comment Alten utilise-t-il sa trésorerie : acquisitions, rachats d'actions ou dividende plus élevé ?",
+     "reponse": "Alten fait les trois à la fois : rachats d'actions importants, dividende maintenu et deux acquisitions ciblées, tout en gardant une trésorerie nette positive.",
+     "source": "https://www.alten.com/fr/resultats-semestriels-2026/"
+    }
+   ]
+  },
+  "verifieLe": "2026-09-29"
+ },
+ "src": "https://www.moneyvox.fr/bourse/actualites/110541/airbus-alten-le-journal-de-la-bourse-du-25-septembre-2026",
+ "statut": "intacte",
+ "these": "La marge profite de l'aéronautique et de la défense, objectifs relevés.",
+ "ticker": "ATE",
+ "yahoo": "ATE.PA",
+ "zb": "https://www.zonebourse.com/cours/action/ALTEN-4609/"
+}
