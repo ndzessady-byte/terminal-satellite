@@ -2,18 +2,18 @@
  "analyse": {
   "actu": [
    {
-    "d": "10/07",
-    "fait": "Résultats T2 record : CA de 295,7 M€ (+72 %), marge EBIT de 9,6 %, carnet de commandes de 794 M€ (+56 %). Le titre a pourtant reculé de 7,8 % le jour même.",
-    "horizon": "moyen",
+    "d": "en continu",
+    "fait": "Hausse durable des budgets de défense en Europe, principal moteur de la croissance du groupe.",
+    "horizon": "long",
     "impact": "positif",
-    "lecture": "La croissance est tirée par la défense et touche tous les secteurs, ce qui confirme la thèse ; la baisse du titre montre que beaucoup d'optimisme était déjà dans le prix."
+    "lecture": "Le cycle de réarmement peut durer des années, mais Kitron devient plus dépendant d'un seul moteur politique et budgétaire."
    },
    {
-    "d": "24/08",
-    "fait": "Relèvement des objectifs 2026 : CA de 1 050 à 1 150 M€ (contre 900 à 1 050 M€) et EBIT de 97 à 112 M€ (contre 84 à 108 M€), grâce à une meilleure visibilité sur les composants.",
-    "horizon": "court",
+    "d": "29/09",
+    "fait": "Kitron lance la construction de sa nouvelle usine d'Örnsköldsvik, prévue en avril pour début 2027. Kitron sera propriétaire du bâtiment, qui double à peu près la surface actuelle. Le projet est porté par la demande défense, notamment de BAE Systems Hägglunds.",
     "impact": "positif",
-    "lecture": "Deuxième hausse des objectifs en 2026 : la direction tient ses promesses, ce qui renforce la crédibilité du plan à 1,5 Md€ de CA."
+    "horizon": "long",
+    "lecture": "Avancer le chantier montre que les commandes défense arrivent plus vite que prévu. Mais c'est une troisième extension en quelques semaines, après Longum et Horsens : les investissements et la dépendance à la défense augmentent."
    },
    {
     "d": "01/09",
@@ -23,11 +23,11 @@
     "lecture": "Plus de capacité en Europe pour servir la défense, mais aussi plus d'investissements : il faudra que les commandes suivent pour que le rendement du capital reste élevé."
    },
    {
-    "d": "en continu",
-    "fait": "Hausse durable des budgets de défense en Europe, principal moteur de la croissance du groupe.",
-    "horizon": "long",
+    "d": "24/08",
+    "fait": "Relèvement des objectifs 2026 : CA de 1 050 à 1 150 M€ (contre 900 à 1 050 M€) et EBIT de 97 à 112 M€ (contre 84 à 108 M€), grâce à une meilleure visibilité sur les composants.",
+    "horizon": "court",
     "impact": "positif",
-    "lecture": "Le cycle de réarmement peut durer des années, mais Kitron devient plus dépendant d'un seul moteur politique et budgétaire."
+    "lecture": "Deuxième hausse des objectifs en 2026 : la direction tient ses promesses, ce qui renforce la crédibilité du plan à 1,5 Md€ de CA."
    }
   ],
   "cadres": [
@@ -90,6 +90,8 @@
    }
   ],
   "sources": [
+   "https://evertiq.com/news/2026-09-29-kitron-breaks-ground-on-new-factory-in-ornskoldsvik",
+   "https://www.globenewswire.com/news-release/2026/04/24/3280572/0/en/Kitron-to-expand-Swedish-manufacturing-footprint.html",
    "https://www.zonebourse.com/cours/action/KITRON-ASA-1413186/",
    "https://www.zonebourse.com/cours/action/KITRON-ASA-1413186/finances/",
    "https://www.zonebourse.com/cours/action/KITRON-ASA-1413186/valorisation/",
@@ -103,14 +105,14 @@
   ],
   "tech": {
    "bas52": 56.7,
-   "cours": 97.2,
-   "coursLe": "2026-09-28",
+   "cours": 98.05,
+   "coursLe": "2026-09-30",
    "haut52": 114.3,
-   "lecture": "Cours de 97,20 au-dessus de sa moyenne 50 jours (91,78) et au-dessus de sa moyenne 200 jours (94,29). RSI 56,6 : élan neutre. Il se situe à 70 % de sa fourchette sur un an (de 56,70 à 114,30), performance sur 12 mois de +63,9 %. Moyennes et RSI calculés sur les vraies clôtures (flux GitHub de 15h33).",
-   "mm200": 94.29,
-   "mm50": 91.78,
+   "lecture": "Cours de 98,05 au-dessus de sa moyenne 50 jours (92,21) et au-dessus de sa moyenne 200 jours (94,63). RSI 57,8 : élan neutre. Il se situe à 72 % de sa fourchette sur un an (de 56,70 à 114,30), performance sur 12 mois de 69,1 %. Clôture du 30/09/2026.",
+   "mm200": 94.63,
+   "mm50": 92.21,
    "resistance": 101.2,
-   "rsi14": 56.6,
+   "rsi14": 57.8,
    "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json",
    "stade": 1,
    "support": 89.3,
@@ -133,24 +135,20 @@
   }
  },
  "capi": "1,98 Md€",
- "cours": 97.2,
- "coursLe": "2026-09-28",
+ "cours": 98.05,
+ "coursLe": "2026-09-30",
  "devise": "NOK",
  "faits": [
+  {
+   "d": "29/09",
+   "t": "Premier coup de pioche de la nouvelle usine d'Örnsköldsvik (Suède), plus tôt que prévu : 7 300 m² et un effectif qui doit passer d'environ 120 à 300 personnes."
+  },
   {
    "d": "15/09",
    "t": "Petit rachat d'actions pour la rémunération des administrateurs."
   }
  ],
  "histo": [
-  [
-   "15/09",
-   63.35
-  ],
-  [
-   "16/09",
-   62.6
-  ],
   [
    "17/09",
    60.95
@@ -169,7 +167,7 @@
   ],
   [
    "23/09",
-   62
+   62.0
   ],
   [
    "24/09",
@@ -185,7 +183,7 @@
   ],
   [
    "29/09",
-   58
+   58.0
   ],
   [
    "30/09",
@@ -193,7 +191,7 @@
   ],
   [
    "01/10",
-   59
+   59.0
   ],
   [
    "02/10",
@@ -333,7 +331,7 @@
   ],
   [
    "19/11",
-   65
+   65.0
   ],
   [
    "20/11",
@@ -377,15 +375,15 @@
   ],
   [
    "04/12",
-   62
+   62.0
   ],
   [
    "05/12",
-   62
+   62.0
   ],
   [
    "08/12",
-   63
+   63.0
   ],
   [
    "09/12",
@@ -393,7 +391,7 @@
   ],
   [
    "10/12",
-   66
+   66.0
   ],
   [
    "11/12",
@@ -401,7 +399,7 @@
   ],
   [
    "12/12",
-   68
+   68.0
   ],
   [
    "15/12",
@@ -429,7 +427,7 @@
   ],
   [
    "23/12",
-   72
+   72.0
   ],
   [
    "29/12",
@@ -453,7 +451,7 @@
   ],
   [
    "07/01",
-   77
+   77.0
   ],
   [
    "08/01",
@@ -461,7 +459,7 @@
   ],
   [
    "09/01",
-   77
+   77.0
   ],
   [
    "12/01",
@@ -501,7 +499,7 @@
   ],
   [
    "23/01",
-   83
+   83.0
   ],
   [
    "26/01",
@@ -517,7 +515,7 @@
   ],
   [
    "29/01",
-   81
+   81.0
   ],
   [
    "30/01",
@@ -525,7 +523,7 @@
   ],
   [
    "02/02",
-   83
+   83.0
   ],
   [
    "03/02",
@@ -541,7 +539,7 @@
   ],
   [
    "06/02",
-   85
+   85.0
   ],
   [
    "09/02",
@@ -565,7 +563,7 @@
   ],
   [
    "16/02",
-   95
+   95.0
   ],
   [
    "17/02",
@@ -573,7 +571,7 @@
   ],
   [
    "18/02",
-   102
+   102.0
   ],
   [
    "19/02",
@@ -585,11 +583,11 @@
   ],
   [
    "23/02",
-   107
+   107.0
   ],
   [
    "24/02",
-   108
+   108.0
   ],
   [
    "25/02",
@@ -609,7 +607,7 @@
   ],
   [
    "03/03",
-   108
+   108.0
   ],
   [
    "04/03",
@@ -713,7 +711,7 @@
   ],
   [
    "13/04",
-   106
+   106.0
   ],
   [
    "14/04",
@@ -721,7 +719,7 @@
   ],
   [
    "15/04",
-   100
+   100.0
   ],
   [
    "16/04",
@@ -733,7 +731,7 @@
   ],
   [
    "20/04",
-   103
+   103.0
   ],
   [
    "21/04",
@@ -1009,7 +1007,7 @@
   ],
   [
    "29/07",
-   86
+   86.0
   ],
   [
    "30/07",
@@ -1182,6 +1180,14 @@
   [
    "28/09",
    97.2
+  ],
+  [
+   "29/09",
+   97.55
+  ],
+  [
+   "30/09",
+   98.05
   ]
  ],
  "nom": "Kitron",
@@ -1190,9 +1196,9 @@
  "per26": 23.8,
  "per27": 19.7,
  "perf": {
-  "m1": 5.1,
-  "m12": 63.9,
-  "m3": -5.8
+  "m1": 7.9,
+  "m3": -7.4,
+  "m12": 69.1
  },
  "pub": "2026-10-22",
  "pubLabel": "Résultats T3",
@@ -1387,10 +1393,10 @@
     {
      "c": "Que le réarmement européen dure plusieurs années et que Kitron reste un fournisseur clé des industriels de la défense.",
      "etat": "ok",
-     "preuve": "T2 2026 : ventes défense +234 % ; carnet total 794 M€, dont 60 % défense.",
+     "preuve": "29/09/2026 : début du chantier d'Örnsköldsvik (7 300 m², de 120 à environ 300 salariés à terme), prévu en avril pour début 2027.",
      "prochain": "Résultats T3 le 22/10/2026",
-     "reponse": "Oui : la demande défense ne ralentit pas selon la direction (drones, missiles, véhicules, naval) et Kitron ajoute des usines en Norvège et au Danemark.",
-     "source": "https://www.investing.com/news/transcripts/earnings-call-transcript-kitron-posts-strong-q2-2026-growth-shares-fall-78-93CH-4785406"
+     "reponse": "Oui : Kitron avance la construction de son usine suédoise dédiée surtout à la défense, après Longum (Norvège) et Horsens (Danemark).",
+     "source": "https://evertiq.com/news/2026-09-29-kitron-breaks-ground-on-new-factory-in-ornskoldsvik"
     },
     {
      "c": "Que la direction atteigne son objectif 2026 (900 à 1 050 M€ de ventes, marge proche de 10 %) et intègre bien DeltaNordic.",
@@ -1409,7 +1415,7 @@
      "source": "https://www.investing.com/news/company-news/kitron-q2-2026-slides-defence-revenue-triples-margins-top-9-93CH-4785419"
     }
    ],
-   "le": "2026-09-29",
+   "le": "2026-09-30",
    "questions": [
     {
      "etat": "ok",

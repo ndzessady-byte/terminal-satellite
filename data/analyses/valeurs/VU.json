@@ -3,18 +3,11 @@
   "aVerifier": "MM50, MM200 et RSI datent du 18/09 (Investing.com, avant la hausse post-résultats). Haut sur 52 semaines : 212,4 € selon Zonebourse mais 262 € selon Investing.com, retenu 212,4 €. ROE et ROCE issus d'estimations EuroLand de février 2026. Couverture des intérêts, PER moyen sur 5 ans, comparaison avec les pairs et Piotroski non trouvés. Chiffres de la guidance 2027 non lus dans une source.",
   "actu": [
    {
-    "d": "15/07",
-    "fait": "AlphaValue initie le titre avec une recommandation négative, en craignant une forte consommation de trésorerie et une baisse des revenus avec la fin du contrat Walmart. Le titre recule d'environ 7,6 %.",
-    "horizon": "moyen",
-    "impact": "negatif",
-    "lecture": "C'est le coeur du risque : si 2027 marque un creux de revenus, le PER bas actuel est un piège."
-   },
-   {
-    "d": "21/09",
-    "fait": "S1 2026 : CA 820 M€ (+34 %), EBITDA ajusté 160 M€ (+48 %, marge 19,1 %), cash-flow opérationnel 127 M€, trésorerie nette 197 M€. Objectifs 2026 confirmés, rachat d'In-Store Media (Espagne).",
-    "horizon": "long",
+    "d": "29/09",
+    "fait": "L'enseigne australienne JB Hi-Fi (355 magasins en Australie et Nouvelle-Zélande) choisit Vusion pour déployer en Australie ses étiquettes électroniques, après un pilote et un déploiement complet en Nouvelle-Zélande. Ni le montant ni le calendrier ne sont publiés.",
     "impact": "positif",
-    "lecture": "La montée des logiciels et des revenus récurrents améliore durablement la qualité du modèle."
+    "horizon": "moyen",
+    "lecture": "Un relais de plus pour l'après Walmart, mais de taille bien inférieure : sans montant, on ne sait pas quelle part du milliard d'euros de commandes attendu au S2 il représente."
    },
    {
     "d": "22/09",
@@ -22,6 +15,13 @@
     "horizon": "court",
     "impact": "positif",
     "lecture": "Le marché commence à croire que le trou d'air post Walmart sera moins profond que redouté."
+   },
+   {
+    "d": "21/09",
+    "fait": "S1 2026 : CA 820 M€ (+34 %), EBITDA ajusté 160 M€ (+48 %, marge 19,1 %), cash-flow opérationnel 127 M€, trésorerie nette 197 M€. Objectifs 2026 confirmés, rachat d'In-Store Media (Espagne).",
+    "horizon": "long",
+    "impact": "positif",
+    "lecture": "La montée des logiciels et des revenus récurrents améliore durablement la qualité du modèle."
    },
    {
     "d": "10/09",
@@ -90,6 +90,8 @@
    }
   ],
   "sources": [
+   "https://www.actusnews.com/fr/vusiongroup/cp/2026/09/29/l_enseigne-australienne-jb-hi-fi-choisit-vusion-pour-accelerer-sa-strategie-de-magasin-connecte",
+   "https://www.optionfinance.fr/info-financiere-en-continu/d/2026-09-29-vusion-va-deployer-ses-technologies-chez-jb-hi-fi-en-australie.html",
    "https://www.xtb.com/fr/analyses-marches/action-vusiongroup-rentabilite-en-forte-hausse-au-s1",
    "https://www.abcbourse.com/marches/vusion-bondit-de-8-en-bourse-apres-la-confirmation-de-ses-objectifs-annuels_702903",
    "https://www.boursorama.com/bourse/actualites/vusiongroup-flambe-apres-ses-semestriels-les-analystes-valident-1f7a67ca8f0f768b898cdb1d43fd31fd",
@@ -106,18 +108,18 @@
   ],
   "tech": {
    "bas52": 101.2,
-   "cours": 123.7,
-   "coursLe": "2026-09-28",
-   "haut52": 253.6,
-   "lecture": "Cours de 123,70 en dessous de sa moyenne 50 jours (126,55) et en dessous de sa moyenne 200 jours (132,08). RSI 50,8 : élan neutre. Il se situe à 15 % de sa fourchette sur un an (de 101,20 à 253,60), performance sur 12 mois de -50,7 %. Moyennes et RSI calculés sur les vraies clôtures (flux GitHub de 15h33).",
-   "mm200": 132.08,
-   "mm50": 126.55,
+   "cours": 127.8,
+   "coursLe": "2026-09-30",
+   "haut52": 249.8,
+   "lecture": "Cours de 127,80 au-dessus de sa moyenne 50 jours (126,67) et en dessous de sa moyenne 200 jours (131,36). RSI 53,4 : élan neutre. Il se situe à 18 % de sa fourchette sur un an (de 101,20 à 249,80), performance sur 12 mois de -48,3 %. Clôture du 30/09/2026.",
+   "mm200": 131.36,
+   "mm50": 126.67,
    "resistance": 144,
-   "rsi14": 50.8,
+   "rsi14": 53.4,
    "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json",
-   "stade": 4,
+   "stade": 1,
    "support": 114,
-   "tendance": "baissiere"
+   "tendance": "neutre"
   },
   "verdict": "Vusion croît très vite (CA S1 +34 %, EBITDA +48 %), a une trésorerie nette et se paie environ 15 fois les bénéfices 2026, soit bien moins que ses propres multiples passés. Le vrai débat porte sur 2027 : la fin du grand déploiement Walmart et la consommation de trésorerie du S1 doivent être compensées par de nouvelles commandes, ce qui rend le dossier attractif mais encore risqué.",
   "zones": {
@@ -136,10 +138,14 @@
   }
  },
  "capi": "2,06 Md€",
- "cours": 123.7,
- "coursLe": "2026-09-28",
+ "cours": 127.8,
+ "coursLe": "2026-09-30",
  "devise": "€",
  "faits": [
+  {
+   "d": "29/09",
+   "t": "JB Hi-Fi étend le déploiement de Vusion à ses magasins en Australie, après la Nouvelle-Zélande. Montant non publié."
+  },
   {
    "d": "22/09",
    "t": "Titre +8 % vers 126 € après les résultats. Oddo BHF reste positif, objectif 190 €."
@@ -150,14 +156,6 @@
   }
  ],
  "histo": [
-  [
-   "22/09",
-   259.6
-  ],
-  [
-   "23/09",
-   256
-  ],
   [
    "24/09",
    259.2
@@ -176,11 +174,11 @@
   ],
   [
    "30/09",
-   255
+   255.0
   ],
   [
    "01/10",
-   250
+   250.0
   ],
   [
    "02/10",
@@ -192,15 +190,15 @@
   ],
   [
    "06/10",
-   247
+   247.0
   ],
   [
    "07/10",
-   248
+   248.0
   ],
   [
    "08/10",
-   248
+   248.0
   ],
   [
    "09/10",
@@ -208,7 +206,7 @@
   ],
   [
    "10/10",
-   246
+   246.0
   ],
   [
    "13/10",
@@ -252,7 +250,7 @@
   ],
   [
    "27/10",
-   233
+   233.0
   ],
   [
    "28/10",
@@ -264,7 +262,7 @@
   ],
   [
    "30/10",
-   228
+   228.0
   ],
   [
    "31/10",
@@ -288,7 +286,7 @@
   ],
   [
    "07/11",
-   215
+   215.0
   ],
   [
    "10/11",
@@ -316,7 +314,7 @@
   ],
   [
    "18/11",
-   205
+   205.0
   ],
   [
    "19/11",
@@ -360,23 +358,23 @@
   ],
   [
    "03/12",
-   203
+   203.0
   ],
   [
    "04/12",
-   206
+   206.0
   ],
   [
    "05/12",
-   210
+   210.0
   ],
   [
    "08/12",
-   212
+   212.0
   ],
   [
    "09/12",
-   211
+   211.0
   ],
   [
    "10/12",
@@ -400,7 +398,7 @@
   ],
   [
    "17/12",
-   197
+   197.0
   ],
   [
    "18/12",
@@ -436,19 +434,19 @@
   ],
   [
    "02/01",
-   209
+   209.0
   ],
   [
    "05/01",
-   201
+   201.0
   ],
   [
    "06/01",
-   205
+   205.0
   ],
   [
    "07/01",
-   209
+   209.0
   ],
   [
    "08/01",
@@ -504,7 +502,7 @@
   ],
   [
    "27/01",
-   130
+   130.0
   ],
   [
    "28/01",
@@ -544,7 +542,7 @@
   ],
   [
    "10/02",
-   126
+   126.0
   ],
   [
    "11/02",
@@ -564,7 +562,7 @@
   ],
   [
    "17/02",
-   131
+   131.0
   ],
   [
    "18/02",
@@ -592,7 +590,7 @@
   ],
   [
    "26/02",
-   124
+   124.0
   ],
   [
    "27/02",
@@ -640,7 +638,7 @@
   ],
   [
    "16/03",
-   113
+   113.0
   ],
   [
    "17/03",
@@ -728,7 +726,7 @@
   ],
   [
    "17/04",
-   121
+   121.0
   ],
   [
    "20/04",
@@ -744,7 +742,7 @@
   ],
   [
    "23/04",
-   147
+   147.0
   ],
   [
    "24/04",
@@ -756,7 +754,7 @@
   ],
   [
    "28/04",
-   131
+   131.0
   ],
   [
    "29/04",
@@ -764,7 +762,7 @@
   ],
   [
    "30/04",
-   121
+   121.0
   ],
   [
    "04/05",
@@ -780,7 +778,7 @@
   ],
   [
    "07/05",
-   119
+   119.0
   ],
   [
    "08/05",
@@ -836,7 +834,7 @@
   ],
   [
    "27/05",
-   132
+   132.0
   ],
   [
    "28/05",
@@ -848,7 +846,7 @@
   ],
   [
    "01/06",
-   147
+   147.0
   ],
   [
    "02/06",
@@ -868,7 +866,7 @@
   ],
   [
    "08/06",
-   142
+   142.0
   ],
   [
    "09/06",
@@ -892,7 +890,7 @@
   ],
   [
    "16/06",
-   127
+   127.0
   ],
   [
    "17/06",
@@ -924,11 +922,11 @@
   ],
   [
    "26/06",
-   120
+   120.0
   ],
   [
    "29/06",
-   124
+   124.0
   ],
   [
    "30/06",
@@ -936,7 +934,7 @@
   ],
   [
    "01/07",
-   127
+   127.0
   ],
   [
    "02/07",
@@ -948,7 +946,7 @@
   ],
   [
    "06/07",
-   140
+   140.0
   ],
   [
    "07/07",
@@ -976,7 +974,7 @@
   ],
   [
    "15/07",
-   121
+   121.0
   ],
   [
    "16/07",
@@ -992,15 +990,15 @@
   ],
   [
    "21/07",
-   125
+   125.0
   ],
   [
    "22/07",
-   126
+   126.0
   ],
   [
    "23/07",
-   126
+   126.0
   ],
   [
    "24/07",
@@ -1008,7 +1006,7 @@
   ],
   [
    "27/07",
-   131
+   131.0
   ],
   [
    "28/07",
@@ -1028,15 +1026,15 @@
   ],
   [
    "03/08",
-   128
+   128.0
   ],
   [
    "04/08",
-   127
+   127.0
   ],
   [
    "05/08",
-   133
+   133.0
   ],
   [
    "06/08",
@@ -1048,7 +1046,7 @@
   ],
   [
    "10/08",
-   128
+   128.0
   ],
   [
    "11/08",
@@ -1056,7 +1054,7 @@
   ],
   [
    "12/08",
-   132
+   132.0
   ],
   [
    "13/08",
@@ -1080,7 +1078,7 @@
   ],
   [
    "20/08",
-   126
+   126.0
   ],
   [
    "21/08",
@@ -1100,7 +1098,7 @@
   ],
   [
    "27/08",
-   128
+   128.0
   ],
   [
    "28/08",
@@ -1128,11 +1126,11 @@
   ],
   [
    "07/09",
-   123
+   123.0
   ],
   [
    "08/09",
-   120
+   120.0
   ],
   [
    "09/09",
@@ -1148,7 +1146,7 @@
   ],
   [
    "14/09",
-   116
+   116.0
   ],
   [
    "15/09",
@@ -1164,19 +1162,19 @@
   ],
   [
    "18/09",
-   119
+   119.0
   ],
   [
    "21/09",
-   117
+   117.0
   ],
   [
    "22/09",
-   133
+   133.0
   ],
   [
    "23/09",
-   135
+   135.0
   ],
   [
    "24/09",
@@ -1189,6 +1187,14 @@
   [
    "28/09",
    123.7
+  ],
+  [
+   "29/09",
+   130.5
+  ],
+  [
+   "30/09",
+   127.8
   ]
  ],
  "nom": "Vusion",
@@ -1197,9 +1203,9 @@
  "per26": 15.3,
  "per27": 12.5,
  "perf": {
-  "m1": -4,
-  "m12": -50.7,
-  "m3": -1.7
+  "m1": -0.9,
+  "m3": -7.3,
+  "m12": -48.3
  },
  "pub": "2026-10-20",
  "pubLabel": "CA du T3",
@@ -1387,10 +1393,10 @@
     {
      "c": "Que Vusion saura remplacer le volume de la phase actuelle de Walmart (qui se termine fin 2026) par de nouveaux grands contrats, comme les plus d'un milliard d'euros de commandes attendues au second semestre 2026.",
      "etat": "watch",
-     "preuve": "Prises de commandes S1 2026 : 681 M€ (-22 %), avec toutefois un T2 en hausse de 7 % sur un an et de 16 % sur le T1.",
+     "preuve": "29/09/2026 : JB Hi-Fi (355 magasins) étend le déploiement à l'Australie ; montant non communiqué.",
      "prochain": "CA T3 le 20/10/2026, puis Investor Day le 18/11/2026",
-     "reponse": "Pas encore démontré : la direction maintient l'objectif de plus d'un milliard d'euros de commandes au S2, dont plus de 30 % sur les nouvelles solutions, mais le S1 a reculé et aucun contrat de la taille de Walmart n'a été annoncé.",
-     "source": "https://www.zonebourse.com/actualite-bourse/vusion-confirme-ses-ambitions-pour-2026-les-revenus-bondissent-mais-les-prises-de-commandes-reculen-ce7f50dade8ef62d"
+     "reponse": "Un nouveau contrat est signé en Australie avec JB Hi-Fi, mais sans montant publié et loin de la taille de Walmart : l'objectif d'un milliard d'euros de commandes au S2 reste à prouver.",
+     "source": "https://www.actusnews.com/fr/vusiongroup/cp/2026/09/29/l_enseigne-australienne-jb-hi-fi-choisit-vusion-pour-accelerer-sa-strategie-de-magasin-connecte"
     },
     {
      "c": "Que les services récurrents (logiciel, caméras, données, publicité) vont monter en puissance et relever durablement les marges.",
@@ -1409,7 +1415,7 @@
      "source": "https://www.abcbourse.com/marches/vusion-chute-de-11-en-bourse-apres-une-recommandation-de-vente-d-alphavalue_699713"
     }
    ],
-   "le": "2026-09-29",
+   "le": "2026-09-30",
    "questions": [
     {
      "etat": "watch",

@@ -3,11 +3,18 @@
   "aVerifier": "Moyenne mobile 200 jours et RSI 14 non confirmés (la page technique Investing lue affichait un cours ancien de 154,90 €, donc écartée ; Boursorama indique seulement une survente). Résultat opérationnel et bénéfice exacts de 2025/26 non encore publiés (attendus le 24/11). ROE estimée par calcul. Comparaison chiffrée avec les concurrents non confirmée. Date du chiffre d'affaires du 1er trimestre à confirmer.",
   "actu": [
    {
-    "d": "23/09",
-    "fait": "Chiffre d'affaires annuel 2025/26 de 3,8 Md€ (+3,8 %), porté par les camping-cars (+4,2 %) et les caravanes (+14,7 %). Marge visée proche de 10 %, trésorerie nette d'environ 500 M€, poursuite des rachats d'actions et deuxième acompte de 2,40 € (détaché le 29/09). Les immatriculations de camping-cars neufs reculent de 6 % en France.",
+    "d": "25/09",
+    "fait": "La flambée des rendements des emprunts d'État pèse de nouveau sur les actions ; le taux à 10 ans français a atteint 4,55 % le 18/09 et le taux américain à 10 ans dépasse 5 %.",
     "horizon": "moyen",
-    "impact": "positif",
-    "lecture": "L'exercice confirme la capacité à gagner de l'argent et à rendre du cash même dans un marché européen stable, ce qui soutient la thèse d'une valeur de rendement."
+    "impact": "negatif",
+    "lecture": "Les camping-cars sont souvent achetés à crédit et les concessionnaires financent leurs stocks : des taux plus hauts réduisent la demande et poussent les distributeurs à la prudence."
+   },
+   {
+    "d": "24/09",
+    "fait": "Trois analystes baissent leur objectif après le chiffre d'affaires annuel : UBS, Oddo BHF et Portzamparc, qui gardent une opinion positive. Les nouveaux objectifs d'Oddo BHF et Portzamparc ne viennent que d'une seule source, ils ne sont pas donnés ici.",
+    "impact": "negatif",
+    "horizon": "court",
+    "lecture": "Les analystes restent positifs mais revoient leurs prévisions à la baisse : le marché anticipe un plateau des ventes en 2027."
    },
    {
     "d": "24/09",
@@ -17,18 +24,11 @@
     "lecture": "Le marché anticipe un plateau des ventes : tant que les prévisions baissent, la valorisation basse peut rester basse."
    },
    {
-    "d": "25/09",
-    "fait": "La flambée des rendements des emprunts d'État pèse de nouveau sur les actions ; le taux à 10 ans français a atteint 4,55 % le 18/09 et le taux américain à 10 ans dépasse 5 %.",
-    "horizon": "moyen",
-    "impact": "negatif",
-    "lecture": "Les camping-cars sont souvent achetés à crédit et les concessionnaires financent leurs stocks : des taux plus hauts réduisent la demande et poussent les distributeurs à la prudence."
-   },
-   {
     "d": "23/09",
-    "fait": "Portzamparc confirme une opinion positive avec un objectif de 180 €, rassuré par les résultats européens du concurrent américain Thor Industries.",
-    "horizon": "court",
+    "fait": "Chiffre d'affaires annuel 2025/26 de 3,8 Md€ (+3,8 %), porté par les camping-cars (+4,2 %) et les caravanes (+14,7 %). Marge visée proche de 10 %, trésorerie nette d'environ 500 M€, poursuite des rachats d'actions et deuxième acompte de 2,40 € (détaché le 29/09). Les immatriculations de camping-cars neufs reculent de 6 % en France.",
+    "horizon": "moyen",
     "impact": "positif",
-    "lecture": "Les signaux venant des concurrents suggèrent que le marché européen se stabilise plutôt qu'il ne s'effondre."
+    "lecture": "L'exercice confirme la capacité à gagner de l'argent et à rendre du cash même dans un marché européen stable, ce qui soutient la thèse d'une valeur de rendement."
    }
   ],
   "cadres": [
@@ -89,6 +89,7 @@
    }
   ],
   "sources": [
+   "https://www.tradingsat.com/actualites/avis-brokers/avis-d-analystes-france-trigano-covivio-et-du-luxe-au-programme-1170683.html",
    "https://www.abcbourse.com/marches/trigano-publie-un-chiffre-d-affaires-en-hausse-en-2025-2026-et-va-poursuivre-ses_703019",
    "https://www.boursorama.com/bourse/actualites/trigano-ca-2025-2026-en-hausse-porte-par-les-ventes-de-camping-cars-et-de-caravanes-5a635c1b20fc20a9ea36e4fe3fd1b790",
    "https://www.zonebourse.com/actualite-bourse/trigano-accelere-au-1er-semestre-et-ameliore-sa-rentabilite-ce7f58d2da8cf722",
@@ -103,15 +104,15 @@
    "https://www.xtb.com/fr/analyses-marches/dette-francaise-le-spread-oat-bund-franchit-100-points"
   ],
   "tech": {
-   "bas52": 131,
-   "cours": 132.5,
-   "coursLe": "2026-09-28",
+   "bas52": 129.1,
+   "cours": 129.1,
+   "coursLe": "2026-09-30",
    "haut52": 178.2,
-   "lecture": "Cours de 132,50 en dessous de sa moyenne 50 jours (149,24) et en dessous de sa moyenne 200 jours (155,41). RSI 27,4 : élan faible, le titre a beaucoup baissé récemment. Il se situe à 3 % de sa fourchette sur un an (de 131,00 à 178,20), performance sur 12 mois de -11,3 %. Moyennes et RSI calculés sur les vraies clôtures (flux GitHub de 15h33).",
-   "mm200": 155.41,
-   "mm50": 149.24,
+   "lecture": "Cours de 129,10 en dessous de sa moyenne 50 jours (148,38) et en dessous de sa moyenne 200 jours (154,97). RSI 21,6 : élan faible. Il se situe à 0 % de sa fourchette sur un an (de 129,10 à 178,20), performance sur 12 mois de -12,9 %. Clôture du 30/09/2026.",
+   "mm200": 154.97,
+   "mm50": 148.38,
    "resistance": 139.2,
-   "rsi14": 27.4,
+   "rsi14": 21.6,
    "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json",
    "stade": 4,
    "support": 126,
@@ -134,13 +135,17 @@
   }
  },
  "capi": "2,53 Md€",
- "cours": 132.5,
- "coursLe": "2026-09-28",
+ "cours": 129.1,
+ "coursLe": "2026-09-30",
  "devise": "€",
  "faits": [
   {
    "d": "29/09",
    "t": "Détachement du 2e acompte de 2,40 € (confirmé), paiement le 01/10."
+  },
+  {
+   "d": "24/09",
+   "t": "Après le CA annuel, Oddo BHF et Portzamparc baissent aussi leur objectif de cours et restent positifs (en plus d'UBS)."
   },
   {
    "d": "24/09",
@@ -152,14 +157,6 @@
   }
  ],
  "histo": [
-  [
-   "22/09",
-   145.7
-  ],
-  [
-   "23/09",
-   140.3
-  ],
   [
    "24/09",
    142.3
@@ -222,7 +219,7 @@
   ],
   [
    "15/10",
-   145
+   145.0
   ],
   [
    "16/10",
@@ -230,7 +227,7 @@
   ],
   [
    "17/10",
-   146
+   146.0
   ],
   [
    "20/10",
@@ -254,7 +251,7 @@
   ],
   [
    "27/10",
-   151
+   151.0
   ],
   [
    "28/10",
@@ -310,7 +307,7 @@
   ],
   [
    "14/11",
-   145
+   145.0
   ],
   [
    "17/11",
@@ -350,7 +347,7 @@
   ],
   [
    "28/11",
-   172
+   172.0
   ],
   [
    "01/12",
@@ -358,11 +355,11 @@
   ],
   [
    "02/12",
-   174
+   174.0
   ],
   [
    "03/12",
-   173
+   173.0
   ],
   [
    "04/12",
@@ -374,7 +371,7 @@
   ],
   [
    "08/12",
-   175
+   175.0
   ],
   [
    "09/12",
@@ -386,7 +383,7 @@
   ],
   [
    "11/12",
-   170
+   170.0
   ],
   [
    "12/12",
@@ -478,7 +475,7 @@
   ],
   [
    "16/01",
-   176
+   176.0
   ],
   [
    "19/01",
@@ -530,15 +527,15 @@
   ],
   [
    "04/02",
-   171
+   171.0
   ],
   [
    "05/02",
-   169
+   169.0
   ],
   [
    "06/02",
-   170
+   170.0
   ],
   [
    "09/02",
@@ -574,7 +571,7 @@
   ],
   [
    "19/02",
-   169
+   169.0
   ],
   [
    "20/02",
@@ -582,7 +579,7 @@
   ],
   [
    "23/02",
-   168
+   168.0
   ],
   [
    "24/02",
@@ -594,15 +591,15 @@
   ],
   [
    "26/02",
-   168
+   168.0
   ],
   [
    "27/02",
-   168
+   168.0
   ],
   [
    "02/03",
-   164
+   164.0
   ],
   [
    "03/03",
@@ -622,7 +619,7 @@
   ],
   [
    "09/03",
-   152
+   152.0
   ],
   [
    "10/03",
@@ -674,11 +671,11 @@
   ],
   [
    "26/03",
-   146
+   146.0
   ],
   [
    "27/03",
-   141
+   141.0
   ],
   [
    "30/03",
@@ -802,7 +799,7 @@
   ],
   [
    "14/05",
-   161
+   161.0
   ],
   [
    "15/05",
@@ -890,7 +887,7 @@
   ],
   [
    "15/06",
-   149
+   149.0
   ],
   [
    "16/06",
@@ -898,7 +895,7 @@
   ],
   [
    "17/06",
-   140
+   140.0
   ],
   [
    "18/06",
@@ -922,7 +919,7 @@
   ],
   [
    "25/06",
-   139
+   139.0
   ],
   [
    "26/06",
@@ -950,7 +947,7 @@
   ],
   [
    "06/07",
-   145
+   145.0
   ],
   [
    "07/07",
@@ -1002,7 +999,7 @@
   ],
   [
    "23/07",
-   145
+   145.0
   ],
   [
    "24/07",
@@ -1010,7 +1007,7 @@
   ],
   [
    "27/07",
-   149
+   149.0
   ],
   [
    "28/07",
@@ -1050,7 +1047,7 @@
   ],
   [
    "10/08",
-   154
+   154.0
   ],
   [
    "11/08",
@@ -1106,11 +1103,11 @@
   ],
   [
    "28/08",
-   154
+   154.0
   ],
   [
    "31/08",
-   155
+   155.0
   ],
   [
    "01/09",
@@ -1138,11 +1135,11 @@
   ],
   [
    "09/09",
-   151
+   151.0
   ],
   [
    "10/09",
-   150
+   150.0
   ],
   [
    "11/09",
@@ -1182,7 +1179,7 @@
   ],
   [
    "24/09",
-   131
+   131.0
   ],
   [
    "25/09",
@@ -1190,7 +1187,15 @@
   ],
   [
    "28/09",
-   132.5
+   130.9
+  ],
+  [
+   "29/09",
+   129.4
+  ],
+  [
+   "30/09",
+   129.1
   ]
  ],
  "nom": "Trigano",
@@ -1199,9 +1204,9 @@
  "per26": 9.09,
  "per27": 8.3,
  "perf": {
-  "m1": -14,
-  "m12": -11.3,
-  "m3": -5
+  "m1": -16.8,
+  "m3": -10.0,
+  "m12": -12.9
  },
  "pub": "2026-11-24",
  "pubLabel": "Résultats annuels (indicatif)",

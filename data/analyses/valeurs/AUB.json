@@ -3,18 +3,18 @@
   "aVerifier": "Moyenne mobile 200 jours non confirmée (la page technique Investing lue n'était pas datée et affichait un cours ancien de 56,60 €). RSI 14 calculé par nous en moyenne simple sur les clôtures Investing. Support et résistance issus d'Investtech (analyse partielle, abonnement requis). ROE estimée par calcul. Taux d'intercontrat et effectifs non trouvés. Dates du chiffre d'affaires du 3e trimestre et annuel à confirmer.",
   "actu": [
    {
-    "d": "16/09",
-    "fait": "Résultats du 1er semestre 2026 : chiffre d'affaires 351,9 M€ (+30,8 %, +11,4 % en organique), marge opérationnelle 7,5 % (7,2 % un an plus tôt), résultat net 17,2 M€ (+22,9 %). Objectifs 2026 relevés : chiffre d'affaires 695 à 705 M€ (contre 676 à 690 M€) et marge de 9 à 10 % (contre 9 à 9,5 %).",
-    "horizon": "moyen",
-    "impact": "positif",
-    "lecture": "Une croissance organique à deux chiffres dans un secteur qui stagne prouve qu'Aubay gagne des parts de marché ; c'est le cœur de la thèse de long terme."
+    "d": "29/09",
+    "fait": "Aubay met à disposition son rapport financier semestriel 2026 (comptes au 30/06, rapport des commissaires aux comptes). Effectif de 9 406 salariés dans sept pays européens à mi 2026.",
+    "impact": "neutre",
+    "horizon": "court",
+    "lecture": "Formalité réglementaire sans chiffre nouveau par rapport aux résultats du 16/09 ; elle ne change pas la thèse."
    },
    {
-    "d": "16/09",
-    "fait": "Acompte sur dividende de 0,70 € par action, payable le 10/11/2026.",
+    "d": "25/09",
+    "fait": "Investtech relève une figure de double sommet et une cassure sous 52,30 €, avec un objectif technique autour de 46,47 €.",
     "horizon": "court",
-    "impact": "positif",
-    "lecture": "Le versement d'un acompte montre la confiance de la direction dans la trésorerie de l'année."
+    "impact": "negatif",
+    "lecture": "Le signal est purement boursier : il ne remet pas en cause les résultats, mais peut offrir un meilleur point d'entrée."
    },
    {
     "d": "18/09",
@@ -24,11 +24,11 @@
     "lecture": "La France représente environ 62 % du chiffre d'affaires semestriel (217,2 M€ sur 351,9 M€) : un climat budgétaire tendu peut freiner les projets informatiques des clients français et pèse sur la valorisation des valeurs moyennes."
    },
    {
-    "d": "25/09",
-    "fait": "Investtech relève une figure de double sommet et une cassure sous 52,30 €, avec un objectif technique autour de 46,47 €.",
-    "horizon": "court",
-    "impact": "negatif",
-    "lecture": "Le signal est purement boursier : il ne remet pas en cause les résultats, mais peut offrir un meilleur point d'entrée."
+    "d": "16/09",
+    "fait": "Résultats du 1er semestre 2026 : chiffre d'affaires 351,9 M€ (+30,8 %, +11,4 % en organique), marge opérationnelle 7,5 % (7,2 % un an plus tôt), résultat net 17,2 M€ (+22,9 %). Objectifs 2026 relevés : chiffre d'affaires 695 à 705 M€ (contre 676 à 690 M€) et marge de 9 à 10 % (contre 9 à 9,5 %).",
+    "horizon": "moyen",
+    "impact": "positif",
+    "lecture": "Une croissance organique à deux chiffres dans un secteur qui stagne prouve qu'Aubay gagne des parts de marché ; c'est le cœur de la thèse de long terme."
    }
   ],
   "cadres": [
@@ -89,6 +89,7 @@
    }
   ],
   "sources": [
+   "https://www.financialcontent.com/article/actus-2026-9-29-aubay-mise-a-disposition-du-rapport-financier-semestriel-2026",
    "https://www.abcbourse.com/marches/newsContent/702648",
    "https://www.finanzwire.fr/article/aubay-epa-aub-les-resultats-semestriels-2026-daubay-affichent-une-croissance-significative-kv2doonfq76",
    "https://www.zonebourse.com/cours/action/AUBAY-4706/",
@@ -103,14 +104,14 @@
   ],
   "tech": {
    "bas52": 40.5,
-   "cours": 51.5,
-   "coursLe": "2026-09-28",
+   "cours": 50.8,
+   "coursLe": "2026-09-30",
    "haut52": 61.3,
-   "lecture": "Cours de 51,50 en dessous de sa moyenne 50 jours (54,70) et en dessous de sa moyenne 200 jours (52,38). RSI 43,6 : élan neutre. Il se situe à 53 % de sa fourchette sur un an (de 40,50 à 61,30), performance sur 12 mois de +4,7 %. Moyennes et RSI calculés sur les vraies clôtures (flux GitHub de 15h33).",
-   "mm200": 52.38,
-   "mm50": 54.7,
+   "lecture": "Cours de 50,80 en dessous de sa moyenne 50 jours (54,59) et en dessous de sa moyenne 200 jours (52,33). RSI 41,0 : élan neutre. Il se situe à 50 % de sa fourchette sur un an (de 40,50 à 61,30), performance sur 12 mois de 6,4 %. Clôture du 30/09/2026.",
+   "mm200": 52.33,
+   "mm50": 54.59,
    "resistance": 52.3,
-   "rsi14": 43.6,
+   "rsi14": 41.0,
    "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json",
    "stade": 3,
    "support": 46.47,
@@ -133,24 +134,20 @@
   }
  },
  "capi": "647 M€",
- "cours": 51.5,
- "coursLe": "2026-09-28",
+ "cours": 50.8,
+ "coursLe": "2026-09-30",
  "devise": "€",
  "faits": [
+  {
+   "d": "29/09",
+   "t": "Rapport financier semestriel 2026 déposé auprès de l'AMF et mis en ligne."
+  },
   {
    "d": "16/09",
    "t": "S1 : CA 351,9 M€ (+30,8 %, dont +11,4 % organique), résultat opérationnel +37,9 %. Objectif 2026 : 695 à 705 M€."
   }
  ],
  "histo": [
-  [
-   "22/09",
-   48.05
-  ],
-  [
-   "23/09",
-   48.2
-  ],
   [
    "24/09",
    48.75
@@ -193,7 +190,7 @@
   ],
   [
    "08/10",
-   47
+   47.0
   ],
   [
    "09/10",
@@ -209,7 +206,7 @@
   ],
   [
    "14/10",
-   46
+   46.0
   ],
   [
    "15/10",
@@ -261,7 +258,7 @@
   ],
   [
    "31/10",
-   50
+   50.0
   ],
   [
    "03/11",
@@ -353,7 +350,7 @@
   ],
   [
    "03/12",
-   52
+   52.0
   ],
   [
    "04/12",
@@ -373,11 +370,11 @@
   ],
   [
    "10/12",
-   53
+   53.0
   ],
   [
    "11/12",
-   54
+   54.0
   ],
   [
    "12/12",
@@ -393,7 +390,7 @@
   ],
   [
    "17/12",
-   55
+   55.0
   ],
   [
    "18/12",
@@ -417,7 +414,7 @@
   ],
   [
    "29/12",
-   56
+   56.0
   ],
   [
    "30/12",
@@ -429,7 +426,7 @@
   ],
   [
    "02/01",
-   56
+   56.0
   ],
   [
    "05/01",
@@ -437,7 +434,7 @@
   ],
   [
    "06/01",
-   56
+   56.0
   ],
   [
    "07/01",
@@ -445,11 +442,11 @@
   ],
   [
    "08/01",
-   56
+   56.0
   ],
   [
    "09/01",
-   58
+   58.0
   ],
   [
    "12/01",
@@ -461,7 +458,7 @@
   ],
   [
    "14/01",
-   59
+   59.0
   ],
   [
    "15/01",
@@ -477,7 +474,7 @@
   ],
   [
    "20/01",
-   56
+   56.0
   ],
   [
    "21/01",
@@ -641,7 +638,7 @@
   ],
   [
    "18/03",
-   42
+   42.0
   ],
   [
    "19/03",
@@ -657,7 +654,7 @@
   ],
   [
    "24/03",
-   41
+   41.0
   ],
   [
    "25/03",
@@ -781,7 +778,7 @@
   ],
   [
    "11/05",
-   52
+   52.0
   ],
   [
    "12/05",
@@ -793,7 +790,7 @@
   ],
   [
    "14/05",
-   52
+   52.0
   ],
   [
    "15/05",
@@ -825,7 +822,7 @@
   ],
   [
    "26/05",
-   53
+   53.0
   ],
   [
    "27/05",
@@ -865,7 +862,7 @@
   ],
   [
    "09/06",
-   57
+   57.0
   ],
   [
    "10/06",
@@ -985,7 +982,7 @@
   ],
   [
    "21/07",
-   53
+   53.0
   ],
   [
    "22/07",
@@ -1009,7 +1006,7 @@
   ],
   [
    "29/07",
-   59
+   59.0
   ],
   [
    "30/07",
@@ -1061,7 +1058,7 @@
   ],
   [
    "17/08",
-   57
+   57.0
   ],
   [
    "18/08",
@@ -1117,7 +1114,7 @@
   ],
   [
    "04/09",
-   54
+   54.0
   ],
   [
    "07/09",
@@ -1181,7 +1178,15 @@
   ],
   [
    "28/09",
-   51.5
+   50.8
+  ],
+  [
+   "29/09",
+   50.5
+  ],
+  [
+   "30/09",
+   50.8
   ]
  ],
  "nom": "Aubay",
@@ -1190,9 +1195,9 @@
  "per26": 13.6,
  "per27": 12.4,
  "perf": {
-  "m1": -8.2,
-  "m12": 4.7,
-  "m3": -7.7
+  "m1": -7.5,
+  "m3": -9.0,
+  "m12": 6.4
  },
  "pub": "2026-10-28",
  "pubLabel": "CA du T3",

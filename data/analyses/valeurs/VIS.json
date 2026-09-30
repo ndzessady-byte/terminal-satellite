@@ -2,20 +2,6 @@
  "analyse": {
   "actu": [
    {
-    "d": "29/07",
-    "fait": "Résultats du premier semestre 2026 : CA de 629,8 M€ (+1,8 %, +4,8 % hors devises), EBITDA de 134,5 M€ (-7,4 %), bénéfice net de 71,3 M€ (+2,2 %), dette nette de 283 M€. L'EBITDA a dépassé de 3 % le consensus selon Renta 4.",
-    "horizon": "moyen",
-    "impact": "neutre",
-    "lecture": "Les volumes et les prix tiennent bien, preuve de la solidité du métier, mais les devises et les coûts rognent les marges cette année."
-   },
-   {
-    "d": "15/07",
-    "fait": "CaixaBank abaisse sa recommandation à neutre ; le consensus de 10 à 11 analystes reste positif avec un objectif moyen d'environ 69 à 70 €.",
-    "horizon": "court",
-    "impact": "negatif",
-    "lecture": "Le titre manque de catalyseur à court terme, mais l'écart avec l'objectif moyen (environ +27 %) montre que les analystes jugent la baisse exagérée."
-   },
-   {
     "d": "en continu",
     "fait": "Hausse des coûts d'énergie (gaz naturel) et des matières premières (peaux pour le collagène, plastiques), et effet devises négatif d'environ 10 points au premier semestre.",
     "horizon": "court",
@@ -23,11 +9,25 @@
     "lecture": "Ces pressions sont en partie temporaires ; si l'énergie se détend, les marges peuvent remonter vers 23 à 24 % comme l'ont connu 2024 et 2025."
    },
    {
-    "d": "26/02",
-    "fait": "Bénéfice 2025 record (159,9 M€), dividende record de 3,25 € et nouveau plan Beat'30 : 1 800 M€ de CA et 450 M€ d'EBITDA en 2030 (plus ancien que trois mois, mais structurant).",
-    "horizon": "long",
-    "impact": "positif",
-    "lecture": "Le plan fixe un cap de croissance d'environ 9 %/an de l'EBITDA : c'est la référence pour juger la direction dans les années à venir."
+    "d": "22/09",
+    "fait": "Le groupe continue de racheter ses propres actions, avec une déclaration publiée chaque semaine auprès de la CNMV depuis fin juillet.",
+    "impact": "neutre",
+    "horizon": "court",
+    "lecture": "Les rachats soutiennent le bénéfice par action, sans changer le problème de fond qui reste la marge."
+   },
+   {
+    "d": "21/09",
+    "fait": "Viscofan informe la CNMV que ses résultats du troisième trimestre 2026 seront publiés le 22 octobre après la clôture.",
+    "impact": "neutre",
+    "horizon": "court",
+    "lecture": "Premier point de contrôle après l'avertissement sur le bas de fourchette d'EBITDA : on verra si les hausses de prix du S2 compensent les coûts et le dollar."
+   },
+   {
+    "d": "29/07",
+    "fait": "Résultats du premier semestre 2026 : CA de 629,8 M€ (+1,8 %, +4,8 % hors devises), EBITDA de 134,5 M€ (-7,4 %), bénéfice net de 71,3 M€ (+2,2 %), dette nette de 283 M€. L'EBITDA a dépassé de 3 % le consensus selon Renta 4.",
+    "horizon": "moyen",
+    "impact": "neutre",
+    "lecture": "Les volumes et les prix tiennent bien, preuve de la solidité du métier, mais les devises et les coûts rognent les marges cette année."
    }
   ],
   "cadres": [
@@ -90,6 +90,7 @@
    }
   ],
   "sources": [
+   "https://www.cnmv.es/portal/otra-informacion-relevante/resultado-oir?nif=A-31065501&lang=en",
    "https://www.zonebourse.com/cours/action/VISCOFAN-S-A-75245/",
    "https://www.zonebourse.com/cours/action/VISCOFAN-S-A-75245/finances/",
    "https://www.zonebourse.com/cours/action/VISCOFAN-S-A-75245/valorisation/",
@@ -104,14 +105,14 @@
   ],
   "tech": {
    "bas52": 51.1,
-   "cours": 54.2,
-   "coursLe": "2026-09-28",
+   "cours": 53.2,
+   "coursLe": "2026-09-30",
    "haut52": 62.1,
-   "lecture": "Cours de 54,20 en dessous de sa moyenne 50 jours (56,18) et en dessous de sa moyenne 200 jours (57,21). RSI 39,5 : élan neutre. Il se situe à 28 % de sa fourchette sur un an (de 51,10 à 62,10), performance sur 12 mois de -6,6 %. Moyennes et RSI calculés sur les vraies clôtures (flux GitHub de 15h33).",
+   "lecture": "Cours de 53,20 en dessous de sa moyenne 50 jours (56,06) et en dessous de sa moyenne 200 jours (57,21). RSI 31,3 : élan neutre. Il se situe à 19 % de sa fourchette sur un an (de 51,10 à 62,10), performance sur 12 mois de -7,5 %. Clôture du 30/09/2026.",
    "mm200": 57.21,
-   "mm50": 56.18,
+   "mm50": 56.06,
    "resistance": 57.8,
-   "rsi14": 39.5,
+   "rsi14": 31.3,
    "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json",
    "stade": 4,
    "support": 53.11,
@@ -134,10 +135,18 @@
   }
  },
  "capi": "2,5 Md€",
- "cours": 54.2,
- "coursLe": "2026-09-28",
+ "cours": 53.2,
+ "coursLe": "2026-09-30",
  "devise": "€",
  "faits": [
+  {
+   "d": "22/09",
+   "t": "Le programme de rachat d'actions se poursuit, avec une déclaration chaque semaine à la CNMV."
+  },
+  {
+   "d": "21/09",
+   "t": "Viscofan publiera ses résultats du T3 2026 le 22/10 après la clôture."
+  },
   {
    "d": "29/07",
    "t": "S1 : CA 629,8 M€ (+4,8 % en comparable), EBITDA -7,4 % (+3,1 % en comparable), volumes +5,5 %. Bas de fourchette d'EBITDA 2026 jugé plus probable."
@@ -145,20 +154,12 @@
  ],
  "histo": [
   [
-   "22/09",
-   59.1
-  ],
-  [
-   "23/09",
-   58.6
-  ],
-  [
    "24/09",
    58.2
   ],
   [
    "25/09",
-   58
+   58.0
   ],
   [
    "26/09",
@@ -174,11 +175,11 @@
   ],
   [
    "01/10",
-   58
+   58.0
   ],
   [
    "02/10",
-   58
+   58.0
   ],
   [
    "03/10",
@@ -254,7 +255,7 @@
   ],
   [
    "29/10",
-   54
+   54.0
   ],
   [
    "30/10",
@@ -310,11 +311,11 @@
   ],
   [
    "18/11",
-   53
+   53.0
   ],
   [
    "19/11",
-   53
+   53.0
   ],
   [
    "20/11",
@@ -330,7 +331,7 @@
   ],
   [
    "25/11",
-   53
+   53.0
   ],
   [
    "26/11",
@@ -350,11 +351,11 @@
   ],
   [
    "02/12",
-   53
+   53.0
   ],
   [
    "03/12",
-   53
+   53.0
   ],
   [
    "04/12",
@@ -390,7 +391,7 @@
   ],
   [
    "16/12",
-   53
+   53.0
   ],
   [
    "17/12",
@@ -490,7 +491,7 @@
   ],
   [
    "23/01",
-   56
+   56.0
   ],
   [
    "26/01",
@@ -502,7 +503,7 @@
   ],
   [
    "28/01",
-   56
+   56.0
   ],
   [
    "29/01",
@@ -646,7 +647,7 @@
   ],
   [
    "19/03",
-   58
+   58.0
   ],
   [
    "20/03",
@@ -694,7 +695,7 @@
   ],
   [
    "08/04",
-   62
+   62.0
   ],
   [
    "09/04",
@@ -718,7 +719,7 @@
   ],
   [
    "16/04",
-   58
+   58.0
   ],
   [
    "17/04",
@@ -738,7 +739,7 @@
   ],
   [
    "23/04",
-   59
+   59.0
   ],
   [
    "24/04",
@@ -754,11 +755,11 @@
   ],
   [
    "29/04",
-   60
+   60.0
   ],
   [
    "30/04",
-   60
+   60.0
   ],
   [
    "04/05",
@@ -834,7 +835,7 @@
   ],
   [
    "28/05",
-   59
+   59.0
   ],
   [
    "29/05",
@@ -866,7 +867,7 @@
   ],
   [
    "09/06",
-   58
+   58.0
   ],
   [
    "10/06",
@@ -878,7 +879,7 @@
   ],
   [
    "12/06",
-   59
+   59.0
   ],
   [
    "15/06",
@@ -906,7 +907,7 @@
   ],
   [
    "23/06",
-   58
+   58.0
   ],
   [
    "24/06",
@@ -954,7 +955,7 @@
   ],
   [
    "09/07",
-   57
+   57.0
   ],
   [
    "10/07",
@@ -966,11 +967,11 @@
   ],
   [
    "14/07",
-   55
+   55.0
   ],
   [
    "15/07",
-   55
+   55.0
   ],
   [
    "16/07",
@@ -1062,7 +1063,7 @@
   ],
   [
    "17/08",
-   56
+   56.0
   ],
   [
    "18/08",
@@ -1138,7 +1139,7 @@
   ],
   [
    "11/09",
-   54
+   54.0
   ],
   [
    "14/09",
@@ -1166,7 +1167,7 @@
   ],
   [
    "22/09",
-   55
+   55.0
   ],
   [
    "23/09",
@@ -1182,7 +1183,15 @@
   ],
   [
    "28/09",
-   54.2
+   53.7
+  ],
+  [
+   "29/09",
+   53.8
+  ],
+  [
+   "30/09",
+   53.2
   ]
  ],
  "nom": "Viscofan",
@@ -1191,12 +1200,12 @@
  "per26": 15.6,
  "per27": 14.2,
  "perf": {
-  "m1": -5.1,
-  "m12": -6.6,
-  "m3": -7.2
+  "m1": -7.6,
+  "m3": -9.4,
+  "m12": -7.5
  },
- "pub": null,
- "pubLabel": "Résultats du T3",
+ "pub": "2026-10-22",
+ "pubLabel": "Résultats du T3 2026 (après la clôture)",
  "risque": "Devises et coûts (énergie, matières, transport) : la direction vise désormais le bas de sa fourchette d'EBITDA 2026.",
  "secteur": "Boyaux alimentaires",
  "societe": {

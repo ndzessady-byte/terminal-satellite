@@ -3,18 +3,11 @@
   "aVerifier": "Capitalisation : 782 M€ selon Zonebourse (cours 21 €) contre 903 M€ dans la fiche d'origine. Plus bas sur 52 semaines de 15,02 € lu sur Investing.com et Zonebourse sans date précise. ROE calculé à partir des chiffres publiés, non donné par une source. Couverture des intérêts, PER moyen sur 5 ans, comparaison avec les pairs et Piotroski non trouvés. Détail de la sortie d'Apogy lu uniquement dans les titres Zonebourse.",
   "actu": [
    {
-    "d": "30/07",
-    "fait": "S1 2026 : CA 239,6 M€ (-6 % comparable), mais T2 stable et marge d'EBITDA du T2 à 17,1 %. SaaS +14 %. Objectifs 2026-2028 confirmés.",
-    "horizon": "moyen",
+    "d": "28/09",
+    "fait": "Déclaration hebdomadaire du rachat d'actions : 51 095 actions achetées du 21 au 25 septembre à 21,19 € en moyenne, dans le cadre du mandat relevé à 25 M€.",
     "impact": "neutre",
-    "lecture": "Le creux des ventes d'équipements semble passé, mais la preuve d'une vraie reprise reste à apporter."
-   },
-   {
-    "d": "01/09",
-    "fait": "Le mandat de rachat d'actions confié à Natixis passe de 20 à 25 M€.",
     "horizon": "court",
-    "impact": "positif",
-    "lecture": "La direction juge son action peu chère et réduit le nombre d'actions, ce qui soutient le BPA."
+    "lecture": "Mise en œuvre normale du mandat, sans information nouvelle sur l'activité."
    },
    {
     "d": "15/09",
@@ -29,6 +22,13 @@
     "horizon": "moyen",
     "impact": "negatif",
     "lecture": "Des taux plus hauts pèsent sur les investissements industriels des clients et sur les multiples élevés comme celui de Lectra."
+   },
+   {
+    "d": "01/09",
+    "fait": "Le mandat de rachat d'actions confié à Natixis passe de 20 à 25 M€.",
+    "horizon": "court",
+    "impact": "positif",
+    "lecture": "La direction juge son action peu chère et réduit le nombre d'actions, ce qui soutient le BPA."
    }
   ],
   "cadres": [
@@ -90,6 +90,7 @@
    }
   ],
   "sources": [
+   "https://www.globenewswire.com/news-release/2026/09/28/3370149/0/fr/lectra-programme-de-rachat-d-actions-d%C3%A9claration-agr%C3%A9g%C3%A9e-des-transactions-sur-actions-propres-r%C3%A9alis%C3%A9es-du-21-au-25-septembre-2026.html",
    "https://www.globenewswire.com/news-release/2026/07/30/3336282/0/fr/LECTRA-Premier-semestre-2026-am%C3%A9lioration-de-la-performance-au-deuxi%C3%A8me-trimestre-ambitions-2026-2028-confirm%C3%A9es.html",
    "https://www.optionfinance.fr/info-financiere-en-continu/d/2026-07-30-lectra-confirme-ses-objectifs-a-horizon-2028.html",
    "https://www.zonebourse.com/actualite-bourse/resultats-t1-2026-ralentissement-conjoncturel-amelioration-structurelle-ce7f59d2dc8df12c",
@@ -103,14 +104,14 @@
   ],
   "tech": {
    "bas52": 15.2,
-   "cours": 21.05,
-   "coursLe": "2026-09-28",
+   "cours": 20.75,
+   "coursLe": "2026-09-30",
    "haut52": 25.5,
-   "lecture": "Cours de 21,05 en dessous de sa moyenne 50 jours (21,43) et au-dessus de sa moyenne 200 jours (19,49). RSI 46,5 : élan neutre. Il se situe à 57 % de sa fourchette sur un an (de 15,20 à 25,50), performance sur 12 mois de -14,6 %. Moyennes et RSI calculés sur les vraies clôtures (flux GitHub de 15h33).",
-   "mm200": 19.49,
-   "mm50": 21.43,
+   "lecture": "Cours de 20,75 en dessous de sa moyenne 50 jours (21,53) et au-dessus de sa moyenne 200 jours (19,47). RSI 43,6 : élan neutre. Il se situe à 54 % de sa fourchette sur un an (de 15,20 à 25,50), performance sur 12 mois de -14,1 %. Clôture du 30/09/2026.",
+   "mm200": 19.47,
+   "mm50": 21.53,
    "resistance": 23.4,
-   "rsi14": 46.5,
+   "rsi14": 43.6,
    "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json",
    "stade": 3,
    "support": 20.5,
@@ -133,28 +134,24 @@
   }
  },
  "capi": "903 M€",
- "cours": 21.05,
- "coursLe": "2026-09-28",
+ "cours": 20.75,
+ "coursLe": "2026-09-30",
  "devise": "€",
  "faits": [
   {
-   "d": "01/09",
-   "t": "Mandat de rachat d'actions relevé de 20 à 25 M€."
+   "d": "28/09",
+   "t": "Le rachat d'actions continue : 51 095 actions achetées du 21 au 25/09 à 21,19 € en moyenne."
   },
   {
    "d": "16/09",
    "t": "Lancement d'Apogy, logiciel en ligne de développement produit pour la mode."
+  },
+  {
+   "d": "01/09",
+   "t": "Mandat de rachat d'actions relevé de 20 à 25 M€."
   }
  ],
  "histo": [
-  [
-   "22/09",
-   24.45
-  ],
-  [
-   "23/09",
-   24.35
-  ],
   [
    "24/09",
    23.45
@@ -221,7 +218,7 @@
   ],
   [
    "16/10",
-   23
+   23.0
   ],
   [
    "17/10",
@@ -265,7 +262,7 @@
   ],
   [
    "31/10",
-   23
+   23.0
   ],
   [
    "03/11",
@@ -273,15 +270,15 @@
   ],
   [
    "04/11",
-   23
+   23.0
   ],
   [
    "05/11",
-   23
+   23.0
   ],
   [
    "06/11",
-   23
+   23.0
   ],
   [
    "07/11",
@@ -317,7 +314,7 @@
   ],
   [
    "19/11",
-   22
+   22.0
   ],
   [
    "20/11",
@@ -337,7 +334,7 @@
   ],
   [
    "26/11",
-   23
+   23.0
   ],
   [
    "27/11",
@@ -421,11 +418,11 @@
   ],
   [
    "29/12",
-   24
+   24.0
   ],
   [
    "30/12",
-   25
+   25.0
   ],
   [
    "31/12",
@@ -433,7 +430,7 @@
   ],
   [
    "02/01",
-   25
+   25.0
   ],
   [
    "05/01",
@@ -445,7 +442,7 @@
   ],
   [
    "07/01",
-   25
+   25.0
   ],
   [
    "08/01",
@@ -457,7 +454,7 @@
   ],
   [
    "12/01",
-   25
+   25.0
   ],
   [
    "13/01",
@@ -485,7 +482,7 @@
   ],
   [
    "21/01",
-   23
+   23.0
   ],
   [
    "22/01",
@@ -493,7 +490,7 @@
   ],
   [
    "23/01",
-   23
+   23.0
   ],
   [
    "26/01",
@@ -501,11 +498,11 @@
   ],
   [
    "27/01",
-   23
+   23.0
   ],
   [
    "28/01",
-   23
+   23.0
   ],
   [
    "29/01",
@@ -521,7 +518,7 @@
   ],
   [
    "03/02",
-   23
+   23.0
   ],
   [
    "04/02",
@@ -673,7 +670,7 @@
   ],
   [
    "27/03",
-   16
+   16.0
   ],
   [
    "30/03",
@@ -773,7 +770,7 @@
   ],
   [
    "06/05",
-   16
+   16.0
   ],
   [
    "07/05",
@@ -785,7 +782,7 @@
   ],
   [
    "11/05",
-   16
+   16.0
   ],
   [
    "12/05",
@@ -801,11 +798,11 @@
   ],
   [
    "15/05",
-   16
+   16.0
   ],
   [
    "18/05",
-   16
+   16.0
   ],
   [
    "19/05",
@@ -977,7 +974,7 @@
   ],
   [
    "16/07",
-   18
+   18.0
   ],
   [
    "17/07",
@@ -1045,7 +1042,7 @@
   ],
   [
    "10/08",
-   23
+   23.0
   ],
   [
    "11/08",
@@ -1177,7 +1174,7 @@
   ],
   [
    "24/09",
-   21
+   21.0
   ],
   [
    "25/09",
@@ -1185,7 +1182,15 @@
   ],
   [
    "28/09",
-   21.05
+   20.9
+  ],
+  [
+   "29/09",
+   21.0
+  ],
+  [
+   "30/09",
+   20.75
   ]
  ],
  "nom": "Lectra",
@@ -1194,9 +1199,9 @@
  "per26": 30.4,
  "per27": 23.4,
  "perf": {
-  "m1": -8.9,
-  "m12": -14.6,
-  "m3": 16.8
+  "m1": -6.1,
+  "m3": 13.9,
+  "m12": -14.1
  },
  "pub": "2026-10-28",
  "pubLabel": "CA du T3",

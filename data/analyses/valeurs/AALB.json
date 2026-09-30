@@ -3,18 +3,18 @@
   "aVerifier": "Moyenne 200 jours non lue. Couverture des interets, F-score de Piotroski et multiples des concurrents non trouves. PER 2026 : 18,7 chez Zonebourse contre 15,2 chez Boursorama (definitions de BPA differentes). Date de fin du rachat d'actions (9/10) lue sur un site secondaire, a confirmer. Objectif moyen des analystes (45,36 €) date du 18/08.",
   "actu": [
    {
-    "d": "09/06",
-    "fait": "Aalberts integre l'indice AEX d'Amsterdam.",
-    "horizon": "court",
+    "d": "29/09",
+    "fait": "Le rachat d'actions de 75 M€ avance : 3,4 M€ achetés du 21 au 25/09 à 41,99 € en moyenne, soit 67,9 M€ au total et environ 1,9 million d'actions, qui seront annulées.",
     "impact": "positif",
-    "lecture": "Apporte des achats de fonds indiciels et plus de visibilite, sans changer la valeur de l'entreprise."
+    "horizon": "court",
+    "lecture": "Le programme est presque terminé : le soutien des achats au cours va s'arrêter d'ici le 09/10, et la suite dépendra du point d'activité du T3 le 22/10."
    },
    {
-    "d": "23/07",
-    "fait": "Resultats du premier semestre 2026 : croissance organique de +5 %, marge EBITA de 14,4 %, activite Semicon a +9,2 % avec un carnet de commandes tres solide lie aux investissements dans l'IA ; prudence sur l'industrie americaine en raison des politiques commerciales.",
-    "horizon": "moyen",
+    "d": "22/09",
+    "fait": "Rachat d'actions de 75 M€ en cours : achats hebdomadaires autour de 40,50 € mi septembre, actions destinees a etre annulees.",
+    "horizon": "court",
     "impact": "positif",
-    "lecture": "Valide le redressement des marges et le levier IA, coeur de la these, tout en rappelant le risque des droits de douane aux Etats-Unis."
+    "lecture": "Soutient le BPA par action et le cours a court terme, mais reste modeste face a une capitalisation d'environ 4,5 Md€."
    },
    {
     "d": "04/08",
@@ -24,11 +24,11 @@
     "lecture": "Signale qu'une partie des analystes juge le rebond deja largement integre dans le cours."
    },
    {
-    "d": "22/09",
-    "fait": "Rachat d'actions de 75 M€ en cours : achats hebdomadaires autour de 40,50 € mi septembre, actions destinees a etre annulees.",
-    "horizon": "court",
+    "d": "23/07",
+    "fait": "Resultats du premier semestre 2026 : croissance organique de +5 %, marge EBITA de 14,4 %, activite Semicon a +9,2 % avec un carnet de commandes tres solide lie aux investissements dans l'IA ; prudence sur l'industrie americaine en raison des politiques commerciales.",
+    "horizon": "moyen",
     "impact": "positif",
-    "lecture": "Soutient le BPA par action et le cours a court terme, mais reste modeste face a une capitalisation d'environ 4,5 Md€."
+    "lecture": "Valide le redressement des marges et le levier IA, coeur de la these, tout en rappelant le risque des droits de douane aux Etats-Unis."
    }
   ],
   "cadres": [
@@ -89,6 +89,7 @@
    }
   ],
   "sources": [
+   "https://www.globenewswire.com/news-release/2026/09/29/3370608/0/en/aalberts-reports-the-progress-of-its-share-buyback-programme-21-september-25-september-2026.html",
    "https://ml-eu.globenewswire.com/Resource/Download/f4dfb894-080f-4a11-a7af-1c2c585a91a9",
    "https://www.aalberts.com/progress/publication-first-half-year-2026-results",
    "https://aalberts.com/investor",
@@ -101,18 +102,18 @@
   ],
   "tech": {
    "bas52": 26.04,
-   "cours": 42.32,
-   "coursLe": "2026-09-28",
+   "cours": 42.76,
+   "coursLe": "2026-09-30",
    "haut52": 45.08,
-   "lecture": "Cours de 42,32 en dessous de sa moyenne 50 jours (42,61) et au-dessus de sa moyenne 200 jours (36,25). RSI 54,6 : élan neutre. Il se situe à 86 % de sa fourchette sur un an (de 26,04 à 45,08), performance sur 12 mois de +48,1 %. Moyennes et RSI calculés sur les vraies clôtures (flux GitHub de 15h33).",
-   "mm200": 36.25,
-   "mm50": 42.61,
+   "lecture": "Cours de 42,76 au-dessus de sa moyenne 50 jours (42,68) et au-dessus de sa moyenne 200 jours (36,40). RSI 54,2 : élan neutre. Il se situe à 88 % de sa fourchette sur un an (de 26,04 à 45,08), performance sur 12 mois de 50,7 %. Clôture du 30/09/2026.",
+   "mm200": 36.4,
+   "mm50": 42.68,
    "resistance": 45.5,
-   "rsi14": 54.6,
+   "rsi14": 54.2,
    "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json",
    "stade": 2,
    "support": 38.78,
-   "tendance": "neutre"
+   "tendance": "haussiere"
   },
   "verdict": "Aalberts est un industriel diversifie (batiment, industrie, semi-conducteurs) qui retrouve de la croissance organique (+5 %) et des marges en hausse, porte par ses equipements pour les usines de puces liees a l'IA et par un rachat d'actions. Apres +49 % depuis janvier, l'action se paie environ 18,7 fois le benefice 2026, un prix correct seulement si les marges continuent de monter vers l'objectif de 18 % en 2030.",
   "zones": {
@@ -132,10 +133,14 @@
   }
  },
  "capi": "4,5 Md€",
- "cours": 42.32,
- "coursLe": "2026-09-28",
+ "cours": 42.76,
+ "coursLe": "2026-09-30",
  "devise": "€",
  "faits": [
+  {
+   "d": "29/09",
+   "t": "Rachat d'actions : 67,9 M€ sur 75 M€ réalisés au 25/09 (81 000 actions achetées la semaine au prix moyen de 41,99 €), fin au plus tard le 09/10."
+  },
   {
    "d": "22/09",
    "t": "Rachat d'actions : 64,5 M€ sur 75 M€ réalisés au 18/09 (prix moyen de la semaine 40,52 €), fin au plus tard le 09/10."
@@ -146,14 +151,6 @@
   }
  ],
  "histo": [
-  [
-   "22/09",
-   28.76
-  ],
-  [
-   "23/09",
-   28.94
-  ],
   [
    "24/09",
    28.82
@@ -172,7 +169,7 @@
   ],
   [
    "30/09",
-   28
+   28.0
   ],
   [
    "01/10",
@@ -472,7 +469,7 @@
   ],
   [
    "16/01",
-   30
+   30.0
   ],
   [
    "19/01",
@@ -524,7 +521,7 @@
   ],
   [
    "04/02",
-   35
+   35.0
   ],
   [
    "05/02",
@@ -588,7 +585,7 @@
   ],
   [
    "26/02",
-   36
+   36.0
   ],
   [
    "27/02",
@@ -664,7 +661,7 @@
   ],
   [
    "25/03",
-   31
+   31.0
   ],
   [
    "26/03",
@@ -764,7 +761,7 @@
   ],
   [
    "04/05",
-   35
+   35.0
   ],
   [
    "05/05",
@@ -784,7 +781,7 @@
   ],
   [
    "11/05",
-   37
+   37.0
   ],
   [
    "12/05",
@@ -892,7 +889,7 @@
   ],
   [
    "17/06",
-   40
+   40.0
   ],
   [
    "18/06",
@@ -968,7 +965,7 @@
   ],
   [
    "14/07",
-   40
+   40.0
   ],
   [
    "15/07",
@@ -1004,7 +1001,7 @@
   ],
   [
    "27/07",
-   41
+   41.0
   ],
   [
    "28/07",
@@ -1088,7 +1085,7 @@
   ],
   [
    "25/08",
-   43
+   43.0
   ],
   [
    "26/08",
@@ -1185,6 +1182,14 @@
   [
    "28/09",
    42.32
+  ],
+  [
+   "29/09",
+   43.42
+  ],
+  [
+   "30/09",
+   42.76
   ]
  ],
  "nom": "Aalberts",
@@ -1193,9 +1198,9 @@
  "per26": 18.7,
  "per27": 15.8,
  "perf": {
-  "m1": -2.1,
-  "m12": 48.1,
-  "m3": 9.3
+  "m1": -0.3,
+  "m3": 4.7,
+  "m12": 50.7
  },
  "pub": "2026-10-22",
  "pubLabel": "Point d'activité du T3",

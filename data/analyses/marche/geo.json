@@ -1,6 +1,6 @@
 {
- "lecture": "Le marché est dominé par un seul choc : la fermeture d'Ormuz qui tient le Brent au-dessus de 100 $ et oblige la BCE et la Fed à remonter leurs taux, ce qui pèse sur l'or, l'euro et les valeurs sensibles au crédit comme Trigano ou Thermador. En Europe, s'ajoutent des stocks de gaz très bas avant l'hiver (défavorable à Vidrala et Viscofan, favorable à Friedrich Vorwerk) et un risque politique français autour du budget 2027 qui touche d'abord Thermador, Wavestone et Aubay. La détente Chine / États-Unis jusqu'au 10/01/2027 et un dollar plus fort sont les rares vents porteurs, surtout pour Melexis, Lectra, Robertet et Harvia.",
- "majLe": "2026-09-29",
+ "lecture": "Le risque politique français devient le premier sujet pour la liste : l'écart avec le Bund est à 120 pb, au plus haut depuis 2012, à la veille d'un budget que la gauche promet de censurer. À Ormuz, les attaques de navires continuent mais Washington et Téhéran échangent des propositions via le Qatar et les flux du Golfe se redressent, ce qui ramène le Brent sous 100 $. La pression sur les taux reste forte avec une inflation française à 3 %.",
+ "majLe": "2026-09-30",
  "matieres": {
   "ALU": {
    "moteurs": "L'aluminium reste haut (environ 3 260 $/t, +22 % sur un an) car la production du Golfe s'est effondrée avec la guerre, mais le dollar fort et les exportations chinoises le plafonnent.",
@@ -69,6 +69,14 @@
   {
    "faits": [
     {
+     "d": "30/09",
+     "t": "L'Iran confirme avoir reçu, via le Qatar, la réponse américaine à son offre ; les deux camps s'accorderaient sur les étapes mais pas sur leur ordre. Nouvelles sanctions américaines. Les flux de brut du Golfe remontent à environ 80 % du niveau d'avant-guerre."
+    },
+    {
+     "d": "29/09",
+     "t": "L'agence britannique UKMTO signale trois pétroliers touchés par des projectiles d'origine inconnue dans le détroit d'Ormuz."
+    },
+    {
      "d": "fin 02",
      "t": "Début de la guerre avec l'Iran et fermeture du détroit d'Ormuz (environ 20 % du pétrole mondial). Pic du Brent à 118,35 $ le 31/03."
     },
@@ -83,22 +91,6 @@
     {
      "d": "24/09",
      "t": "Brent à 106,13 $ (+3,27 % sur 24 h) selon un suivi spécialisé ; le blocus américain reste en place, l'Iran exige sa levée et le dégel de ses avoirs avant toute réouverture."
-    },
-    {
-     "d": "25/09",
-     "t": "L'Iran présente à l'ONU un plan : levée des sanctions, dégel des fonds et fin du blocus contre réouverture du détroit et reprise des négociations nucléaires."
-    },
-    {
-     "d": "26/09",
-     "t": "Trump juge la proposition iranienne « pas acceptable »."
-    },
-    {
-     "d": "28/09",
-     "t": "Le Brent novembre bondit de plus de 3 %, à 107,35 $ vers 8 h GMT."
-    },
-    {
-     "d": "29/09",
-     "t": "Le Brent reflue sous 104 $ (104,02 $, -1,2 %) ; +15 % sur un mois. L'Arabie saoudite a rétabli environ 3,5 Mb/j via son oléoduc Est-Ouest vers la mer Rouge."
     }
    ],
    "id": "ormuz",
@@ -128,6 +120,8 @@
    "region": "Moyen-Orient / Golfe",
    "resume": "La guerre avec l'Iran, commencée fin février 2026, bloque toujours le détroit d'Ormuz par où passait environ un cinquième du pétrole mondial, et les États-Unis maintiennent un blocus des ports iraniens. Fin septembre, Trump a rejeté le plan iranien de réouverture et un vraquier a encore été touché près d'Oman. Le Brent est repassé au-dessus de 100 $ et c'est le premier moteur de l'inflation et des taux en ce moment.",
    "sources": [
+    "https://timesofisrael.com/iran-indicates-it-received-official-us-response-to-latest-offer-on-ending-war",
+    "https://www.intellinews.com/ukmto-reports-three-tankers-struck-in-strait-of-hormuz-472319/",
     "https://www.aljazeera.com/economy/2026/9/28/oil-prices-surge-after-trump-rejects-irans-plan-to-reopen-strait-of-hormuz",
     "https://straits.live/briefs/2026-09-24",
     "https://gcaptain.com/seafarer-killed-in-hormuz-attack-as-trump-pushes-iran-deal-at-un/",
@@ -141,7 +135,7 @@
     "Toute reprise de négociation États-Unis / Iran via le Qatar",
     "03/11 : élections de mi-mandat américaines, que Téhéran juge peu propices à un accord avant"
    ],
-   "tendance": "hausse",
+   "tendance": "stable",
    "titre": "Iran, États-Unis et détroit d'Ormuz",
    "valeurs": [
     {
@@ -179,6 +173,10 @@
   {
    "faits": [
     {
+     "d": "30/09",
+     "t": "L'inflation française accélère à 3,0 % sur un an en septembre (2,4 % en août), tirée par l'énergie ; la Fed de New York évoque une prochaine hausse plutôt en décembre."
+    },
+    {
      "d": "10/09",
      "t": "La BCE relève ses trois taux de 0,25 point : dépôt à 2,50 %, refinancement à 2,65 %, prêt marginal à 2,90 % (effet au 16/09). Elle cite le conflit au Moyen-Orient comme source de pressions inflationnistes."
     },
@@ -214,6 +212,7 @@
    "region": "Zone euro / États-Unis",
    "resume": "Le choc pétrolier relance l'inflation, et les deux grandes banques centrales ont remonté leurs taux en septembre au lieu de les baisser. Les marchés anticipent encore des hausses. C'est un vent contraire pour les petites et moyennes valeurs, pour l'immobilier et pour l'or.",
    "sources": [
+    "https://www.abcbourse.com/marches/les-taux-baissent-les-anticipations-d-une-hausse-des-taux-de-la-fed-en-octobre_703415",
     "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.mp260910~314e508016.en.html",
     "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
     "https://tradingeconomics.com/commodity/gold",
@@ -252,6 +251,10 @@
   {
    "faits": [
     {
+     "d": "30/09",
+     "t": "L'écart OAT/Bund atteint 120 pb, plus haut depuis 2012 ; l'État prévoit d'emprunter un record de 340 Md€ en 2027. Budget présenté le 01/10, examen à l'Assemblée à partir du 13/10."
+    },
+    {
      "d": "13/09",
      "t": "LFI, écologistes, communistes et socialistes annoncent qu'ils voteront la censure du budget ; le RN (122 députés) reste non engagé."
     },
@@ -271,10 +274,12 @@
      "effet": "Léger frein pour l'euro quand le risque politique français monte, mais l'effet reste secondaire face aux taux et au pétrole."
     }
    ],
-   "niveau": "moyen",
+   "niveau": "eleve",
    "region": "France",
    "resume": "Le gouvernement Lecornu présente un budget 2027 avec 54 Md€ d'effort pour ramener le déficit vers 4,8 à 5 % du PIB, mais la gauche promet la censure et le RN reste l'arbitre. L'écart de taux avec l'Allemagne est élevé mais s'est un peu détendu en fin de semaine dernière. C'est le risque principal pour les valeurs très françaises de ta liste.",
    "sources": [
+    "https://www.newsquawk.com/headlines/market-update-oat-bund-10yr-yield-spread-hits-120bps-the-highest-since-2012",
+    "https://www.journaldunet.com/business/action-publique/1555599-la-france-va-emprunter-un-montant-record-de-340-milliards-d-euros-sur-les-marches-en-2027/",
     "https://www.investirmag.fr/lecornu-devoile-les-mesures-deconomies-pour-le-budget-de-letat-2027/",
     "https://www.legifiscal.fr/actualites-fiscales/4639-projet-loi-finances-2027-annonces-sebastien-lecornu.html",
     "https://www.journaldunet.com/business/action-publique/1555095-la-gauche-annonce-une-motion-de-censure-contre-le-gouvernement-lecornu-lors-du-debat-sur-le-budget-2027/",
@@ -286,7 +291,7 @@
     "Position du RN sur la censure",
     "Écart OAT/Bund : au-dessus de 110 pb, signal d'alerte ; non atteint au 25/09"
    ],
-   "tendance": "stable",
+   "tendance": "hausse",
    "titre": "Budget 2027 et risque politique français",
    "valeurs": [
     {
@@ -318,6 +323,10 @@
   },
   {
    "faits": [
+    {
+     "d": "30/09",
+     "t": "Le gaz européen (TTF) rebondit à 72,21 €/MWh (+3,9 %) ; stocks vers 71 % contre 87 % en moyenne sur 5 ans (une seule source)."
+    },
     {
      "d": "mi-03",
      "t": "Le TTF avait presque doublé à plus de 60 €/MWh après l'arrêt du GNL qatari (force majeure le 03/03)."
@@ -506,6 +515,10 @@
   {
    "faits": [
     {
+     "d": "28/09",
+     "t": "Escondida reprend progressivement son activité après l'accident mortel du 23/09."
+    },
+    {
      "d": "24/07",
      "t": "Selon un site spécialisé tarifs, un droit additionnel « Section 301 » allant jusqu'à 10 % s'applique aux produits de l'UE ; les droits Section 232 vont de 10 à 50 % sur l'acier, 15 à 50 % sur l'aluminium et le cuivre (source non officielle, à confirmer)."
     },
@@ -537,6 +550,7 @@
    "region": "Monde (États-Unis, Chili)",
    "resume": "Le cuivre a battu son record au LME début septembre, porté par des achats américains avant d'éventuels droits sur le cuivre raffiné et par la demande IA et électrification. L'arrêt d'Escondida, première mine mondiale, après un accident mortel ajoute un risque d'offre. Les droits américains sur l'acier, l'aluminium et le cuivre européens restent élevés.",
    "sources": [
+    "https://news.metal.com/newscontent/104136981-bhps-escondida-copper-mine-gradually-resumes-operations-following-fatal-accident",
     "https://www.scmp.com/economy/global-economy/article/3366787/copper-rally-sets-record-price-lme-us-tariff-fears-fuel-scramble-stockpiles",
     "https://mining.com.au/copper-price-hits-lme-record-on-tariff-supply-concerns/",
     "https://tradingeconomics.com/commodity/copper",

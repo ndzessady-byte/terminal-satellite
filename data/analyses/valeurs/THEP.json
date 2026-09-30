@@ -3,25 +3,18 @@
   "aVerifier": "Montant du CA S1 2026 contradictoire selon les sources (273,2 M€ ou 287,95 M€), seule la croissance a été retenue. Date de publication du CA du T3 non trouvée dans le calendrier lu. Nom et taille des sociétés acquises qui expliquent la croissance externe non trouvés. ROE calculé à partir des ratios Zonebourse. Couverture des intérêts, PER moyen sur 5 ans complet, comparaison avec les pairs et Piotroski non trouvés.",
   "actu": [
    {
-    "d": "13/07",
-    "fait": "CA du S1 2026 en hausse de 11,3 %, dont 5,6 % à périmètre constant.",
-    "horizon": "moyen",
-    "impact": "positif",
-    "lecture": "Retour de la croissance organique malgré un marché du bâtiment difficile, signe de gains de parts de marché."
-   },
-   {
-    "d": "29/07",
-    "fait": "Résultats S1 : résultat opérationnel +17,3 % (marge 12,2 %), résultat net +17,6 %, trésorerie nette 104,2 M€. Direction prudente pour la suite (base de comparaison défavorable au T3 et incertitude géopolitique).",
-    "horizon": "moyen",
-    "impact": "positif",
-    "lecture": "La marge remonte et le bilan se renforce, ce qui donne des moyens pour de nouvelles acquisitions."
-   },
-   {
-    "d": "31/07",
-    "fait": "Contrat de rachat d'actions signé avec CIC Market Solutions, jusqu'à 30 000 titres (0,33 % du capital).",
-    "horizon": "court",
+    "d": "28/09",
+    "fait": "Thermador publie chaque semaine ses achats d'actions propres, dernière déclaration pour la semaine du 21 au 25/09.",
     "impact": "neutre",
-    "lecture": "Montant modeste, surtout un signal de confiance de la direction."
+    "horizon": "court",
+    "lecture": "Le programme est bien appliqué, mais sa taille (0,33 % du capital au plus) reste symbolique."
+   },
+   {
+    "d": "17/09",
+    "fait": "Grandes lignes du budget 2027 : 54 Md€ d'économies pour ramener le déficit vers 5 % du PIB, avec des économies sur les aides au logement et une forte baisse du budget de l'ADEME. Aucun chiffre sur MaPrimeRénov' confirmé par deux sources.",
+    "impact": "negatif",
+    "horizon": "moyen",
+    "lecture": "Un budget de rigueur rend peu probable une relance des aides à la rénovation en 2027, le point le plus fragile de la thèse."
    },
    {
     "d": "10/09",
@@ -29,6 +22,13 @@
     "horizon": "moyen",
     "impact": "negatif",
     "lecture": "Le crédit immobilier plus cher freine la construction et la rénovation, principaux débouchés de Thermador."
+   },
+   {
+    "d": "31/07",
+    "fait": "Contrat de rachat d'actions signé avec CIC Market Solutions, jusqu'à 30 000 titres (0,33 % du capital).",
+    "horizon": "court",
+    "impact": "neutre",
+    "lecture": "Montant modeste, surtout un signal de confiance de la direction."
    }
   ],
   "cadres": [
@@ -90,6 +90,8 @@
    }
   ],
   "sources": [
+   "https://www.thermador-groupe.fr/en/shareholders/regulated-information/",
+   "https://www.banquedesterritoires.fr/budget-2027-le-gouvernement-prevoit-un-effort-inedit-de-54-milliards-deuros",
    "https://www.webdisclosure.fr/press-release/thermador-groupe-epa-thep-thermador-groupe-resultats-semestriels-2026-WX5JFZaKsx6",
    "https://www.boursorama.com/bourse/actualites/thermador-groupe-publication-des-resultats-semestriels-2026-df3a66b15db6cff8a5416c1fd98cac89",
    "https://www.tradingsat.com/thermador-groupe-FR0013333432/actualites/thermador-groupe-thermador-groupe-confirme-sa-dynamique-au-premier-semestre-1166637.html",
@@ -102,14 +104,14 @@
   ],
   "tech": {
    "bas52": 67.5,
-   "cours": 69.2,
-   "coursLe": "2026-09-28",
+   "cours": 69.6,
+   "coursLe": "2026-09-30",
    "haut52": 81.8,
-   "lecture": "Cours de 69,20 en dessous de sa moyenne 50 jours (74,82) et en dessous de sa moyenne 200 jours (74,08). RSI 37,1 : élan neutre. Il se situe à 12 % de sa fourchette sur un an (de 67,50 à 81,80), performance sur 12 mois de -4,1 %. Moyennes et RSI calculés sur les vraies clôtures (flux GitHub de 15h33).",
-   "mm200": 74.08,
-   "mm50": 74.82,
+   "lecture": "Cours de 69,60 en dessous de sa moyenne 50 jours (74,44) et en dessous de sa moyenne 200 jours (74,00). RSI 37,2 : élan neutre. Il se situe à 15 % de sa fourchette sur un an (de 67,50 à 81,80), performance sur 12 mois de -3,6 %. Clôture du 30/09/2026.",
+   "mm200": 74.0,
+   "mm50": 74.44,
    "resistance": 71.7,
-   "rsi14": 37.1,
+   "rsi14": 37.2,
    "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json",
    "stade": 3,
    "support": 66.76,
@@ -132,24 +134,24 @@
   }
  },
  "capi": "642 M€",
- "cours": 69.2,
- "coursLe": "2026-09-28",
+ "cours": 69.6,
+ "coursLe": "2026-09-30",
  "devise": "€",
  "faits": [
+  {
+   "d": "28/09",
+   "t": "Le rachat d'actions tourne : déclarations hebdomadaires publiées les 14, 22 et 28/09."
+  },
+  {
+   "d": "17/09",
+   "t": "Budget 2027 : 54 Md€ d'économies visées, y compris sur les aides au logement. Le sort de MaPrimeRénov' n'est pas encore précisé."
+  },
   {
    "d": "29/07",
    "t": "Résultats S1 publiés. Aucun fait marquant trouvé en septembre."
   }
  ],
  "histo": [
-  [
-   "22/09",
-   74.7
-  ],
-  [
-   "23/09",
-   74.5
-  ],
   [
    "24/09",
    72.6
@@ -200,7 +202,7 @@
   ],
   [
    "10/10",
-   71
+   71.0
   ],
   [
    "13/10",
@@ -240,7 +242,7 @@
   ],
   [
    "24/10",
-   73
+   73.0
   ],
   [
    "27/10",
@@ -284,7 +286,7 @@
   ],
   [
    "10/11",
-   74
+   74.0
   ],
   [
    "11/11",
@@ -312,7 +314,7 @@
   ],
   [
    "19/11",
-   72
+   72.0
   ],
   [
    "20/11",
@@ -320,7 +322,7 @@
   ],
   [
    "21/11",
-   73
+   73.0
   ],
   [
    "24/11",
@@ -364,7 +366,7 @@
   ],
   [
    "08/12",
-   75
+   75.0
   ],
   [
    "09/12",
@@ -392,7 +394,7 @@
   ],
   [
    "17/12",
-   77
+   77.0
   ],
   [
    "18/12",
@@ -404,7 +406,7 @@
   ],
   [
    "22/12",
-   75
+   75.0
   ],
   [
    "23/12",
@@ -412,7 +414,7 @@
   ],
   [
    "24/12",
-   77
+   77.0
   ],
   [
    "29/12",
@@ -420,7 +422,7 @@
   ],
   [
    "30/12",
-   77
+   77.0
   ],
   [
    "31/12",
@@ -432,7 +434,7 @@
   ],
   [
    "05/01",
-   76
+   76.0
   ],
   [
    "06/01",
@@ -460,7 +462,7 @@
   ],
   [
    "14/01",
-   77
+   77.0
   ],
   [
    "15/01",
@@ -540,7 +542,7 @@
   ],
   [
    "11/02",
-   79
+   79.0
   ],
   [
    "12/02",
@@ -568,7 +570,7 @@
   ],
   [
    "20/02",
-   78
+   78.0
   ],
   [
    "23/02",
@@ -580,7 +582,7 @@
   ],
   [
    "25/02",
-   78
+   78.0
   ],
   [
    "26/02",
@@ -588,7 +590,7 @@
   ],
   [
    "27/02",
-   78
+   78.0
   ],
   [
    "02/03",
@@ -600,7 +602,7 @@
   ],
   [
    "04/03",
-   75
+   75.0
   ],
   [
    "05/03",
@@ -656,11 +658,11 @@
   ],
   [
    "24/03",
-   72
+   72.0
   ],
   [
    "25/03",
-   71
+   71.0
   ],
   [
    "26/03",
@@ -700,11 +702,11 @@
   ],
   [
    "10/04",
-   73
+   73.0
   ],
   [
    "13/04",
-   72
+   72.0
   ],
   [
    "14/04",
@@ -720,7 +722,7 @@
   ],
   [
    "17/04",
-   74
+   74.0
   ],
   [
    "20/04",
@@ -748,7 +750,7 @@
   ],
   [
    "28/04",
-   70
+   70.0
   ],
   [
    "29/04",
@@ -760,7 +762,7 @@
   ],
   [
    "04/05",
-   70
+   70.0
   ],
   [
    "05/05",
@@ -804,7 +806,7 @@
   ],
   [
    "19/05",
-   69
+   69.0
   ],
   [
    "20/05",
@@ -836,11 +838,11 @@
   ],
   [
    "29/05",
-   70
+   70.0
   ],
   [
    "01/06",
-   70
+   70.0
   ],
   [
    "02/06",
@@ -900,7 +902,7 @@
   ],
   [
    "22/06",
-   69
+   69.0
   ],
   [
    "23/06",
@@ -944,11 +946,11 @@
   ],
   [
    "07/07",
-   79
+   79.0
   ],
   [
    "08/07",
-   78
+   78.0
   ],
   [
    "09/07",
@@ -960,7 +962,7 @@
   ],
   [
    "13/07",
-   78
+   78.0
   ],
   [
    "14/07",
@@ -992,7 +994,7 @@
   ],
   [
    "23/07",
-   76
+   76.0
   ],
   [
    "24/07",
@@ -1024,7 +1026,7 @@
   ],
   [
    "04/08",
-   78
+   78.0
   ],
   [
    "05/08",
@@ -1060,7 +1062,7 @@
   ],
   [
    "17/08",
-   76
+   76.0
   ],
   [
    "18/08",
@@ -1084,11 +1086,11 @@
   ],
   [
    "25/08",
-   76
+   76.0
   ],
   [
    "26/08",
-   77
+   77.0
   ],
   [
    "27/08",
@@ -1100,7 +1102,7 @@
   ],
   [
    "31/08",
-   73
+   73.0
   ],
   [
    "01/09",
@@ -1120,11 +1122,11 @@
   ],
   [
    "07/09",
-   72
+   72.0
   ],
   [
    "08/09",
-   74
+   74.0
   ],
   [
    "09/09",
@@ -1176,11 +1178,19 @@
   ],
   [
    "25/09",
-   70
+   70.0
   ],
   [
    "28/09",
    69.2
+  ],
+  [
+   "29/09",
+   69.5
+  ],
+  [
+   "30/09",
+   69.6
   ]
  ],
  "nom": "Thermador Groupe",
@@ -1189,9 +1199,9 @@
  "per26": 13,
  "per27": 12.3,
  "perf": {
-  "m1": -5.8,
-  "m12": -4.1,
-  "m3": -11.7
+  "m1": -3.9,
+  "m3": -12.0,
+  "m12": -3.6
  },
  "pub": "2026-10-15",
  "pubLabel": "CA du T3",
@@ -1398,10 +1408,10 @@
     {
      "c": "Que le bâtiment et la rénovation énergétique en France vont repartir (aides, pompes à chaleur, objectifs de construction) après trois années difficiles.",
      "etat": "watch",
-     "preuve": "S1 2026 : la direction note que la rénovation ralentit ; au 01/09/2026, six types de travaux seuls (ventilation, chauffe-eau thermodynamique, etc.) perdent l'aide MaPrimeRénov'.",
+     "preuve": "Grandes lignes du budget 2027 présentées le 17/09/2026 : 54 Md€ d'économies, économies sur les APL, budget de l'ADEME réduit de plus de 30 %.",
      "prochain": "CA du T3 le 15/10/2026 (webconférence le 19/10)",
-     "reponse": "Pas encore : la rénovation énergétique ralentit avec la baisse des aides publiques, les pompes à chaleur air-eau ne progressent que modérément et le neuf ne s'améliore pas. MaPrimeRénov' se resserre encore au 1er septembre 2026.",
-     "source": "https://www.les-energies-renouvelables.eu/article/actualites/reglementations/ces-travaux-de-renovation-perdent-leur-aide-maprimerenov-dans-un-mois-1454/"
+     "reponse": "Toujours pas : le budget 2027 prévoit 54 Md€ d'économies, dont des coupes dans les aides au logement ; le détail pour MaPrimeRénov' est attendu avec le projet de loi de finances.",
+     "source": "https://www.banquedesterritoires.fr/budget-2027-le-gouvernement-prevoit-un-effort-inedit-de-54-milliards-deuros"
     },
     {
      "c": "Que la baisse des prix est terminée et que l'effet prix redevient positif en 2026, comme l'annonce la direction.",
@@ -1420,7 +1430,7 @@
      "source": "https://www.thermador-groupe.fr/communique-de-presse/publication-des-resultats-semestriels-2026/"
     }
    ],
-   "le": "2026-09-29",
+   "le": "2026-09-30",
    "questions": [
     {
      "etat": "watch",

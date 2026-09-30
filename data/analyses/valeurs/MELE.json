@@ -3,18 +3,18 @@
   "aVerifier": "Moyenne 200 jours non lue. RSI divergent selon les sources (39,4 chez Boursorama le 25/09, 54,6 chez Zonebourse le 23/09). Objectif moyen des analystes : 74,62 € chez Boursorama (18/08), un autre site cite 83,60 € et un objectif Bernstein a 97 € non verifies. ROE calcule (P/B / PER) et non publie. Couverture des interets, F-score de Piotroski et multiples des concurrents non trouves.",
   "actu": [
    {
-    "d": "10/07",
-    "fait": "Deutsche Bank abaisse sa recommandation de positive a neutre (objectif releve de 65 a 75 €) en citant des risques sur tout le secteur des semi-conducteurs ; le titre perd 7 % sur la seance.",
+    "d": "21/09",
+    "fait": "Point sur le rachat d'actions : 253 537 actions rachetées au total sur les 850 000 autorisées.",
+    "impact": "neutre",
     "horizon": "court",
-    "impact": "negatif",
-    "lecture": "Montre que le titre reste sensible au sentiment sur les semi-conducteurs, meme si les raisons citees (IA, memoire) touchent peu le coeur automobile de Melexis."
+    "lecture": "Le programme avance à rythme régulier, sans changer la question de la couverture du dividende."
    },
    {
-    "d": "29/07",
-    "fait": "Resultats T2 2026 : ventes de 217,1 M€ (+3 % sur un an, +7 % sur un trimestre), marge operationnelle de 17,8 %, objectif de 445 a 455 M€ de ventes au second semestre avec environ 18 % de marge operationnelle ; acompte sur dividende de 1,30 €.",
-    "horizon": "moyen",
+    "d": "15/09",
+    "fait": "Melexis lance le MLX91241, un capteur de courant pour onduleurs de voitures électriques et systèmes 48 V, sa première puce fabriquée en Chine par le fondeur local HHGrace.",
     "impact": "positif",
-    "lecture": "Confirme la sortie du creux de cycle et la remontee des marges, condition centrale du scenario de rebond du benefice en 2027."
+    "horizon": "long",
+    "lecture": "Produire en Chine doit baisser les coûts face à des concurrents locaux moins chers, mais augmente la dépendance à la Chine."
    },
    {
     "d": "31/08",
@@ -22,6 +22,13 @@
     "horizon": "court",
     "impact": "positif",
     "lecture": "Le rachat soutient le cours et montre que la direction juge l'action peu chere, mais il s'ajoute a un dividende deja superieur au benefice."
+   },
+   {
+    "d": "29/07",
+    "fait": "Resultats T2 2026 : ventes de 217,1 M€ (+3 % sur un an, +7 % sur un trimestre), marge operationnelle de 17,8 %, objectif de 445 a 455 M€ de ventes au second semestre avec environ 18 % de marge operationnelle ; acompte sur dividende de 1,30 €.",
+    "horizon": "moyen",
+    "impact": "positif",
+    "lecture": "Confirme la sortie du creux de cycle et la remontee des marges, condition centrale du scenario de rebond du benefice en 2027."
    }
   ],
   "cadres": [
@@ -82,6 +89,8 @@
    }
   ],
   "sources": [
+   "https://www.globenewswire.com/news-release/2026/09/21/3365683/0/en/melexis-update-on-the-share-buy-back-program.html",
+   "https://autonews.gasgoo.com/articles/news/2100127464792961024",
    "https://www.melexis.com/en/news/2026/financial/melexis-q2-2026-results",
    "https://www.zonebourse.com/cours/action/MELEXIS-N-V-5980/",
    "https://www.zonebourse.com/cours/action/MELEXIS-N-V-5980/valorisation/",
@@ -94,18 +103,18 @@
   ],
   "tech": {
    "bas52": 49.86,
-   "cours": 67,
-   "coursLe": "2026-09-28",
+   "cours": 69.05,
+   "coursLe": "2026-09-30",
    "haut52": 85.8,
-   "lecture": "Cours de 67,00 en dessous de sa moyenne 50 jours (67,89) et au-dessus de sa moyenne 200 jours (66,48). RSI 50,5 : élan neutre. Il se situe à 48 % de sa fourchette sur un an (de 49,86 à 85,80), performance sur 12 mois de -1,8 %. Moyennes et RSI calculés sur les vraies clôtures (flux GitHub de 15h33).",
-   "mm200": 66.48,
-   "mm50": 67.89,
+   "lecture": "Cours de 69,05 au-dessus de sa moyenne 50 jours (67,74) et au-dessus de sa moyenne 200 jours (66,60). RSI 55,9 : élan neutre. Il se situe à 53 % de sa fourchette sur un an (de 49,86 à 85,80), performance sur 12 mois de 0,7 %. Clôture du 30/09/2026.",
+   "mm200": 66.6,
+   "mm50": 67.74,
    "resistance": 70.8,
-   "rsi14": 50.5,
+   "rsi14": 55.9,
    "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json",
-   "stade": 3,
+   "stade": 2,
    "support": 62.8,
-   "tendance": "neutre"
+   "tendance": "haussiere"
   },
   "verdict": "Melexis est un specialiste tres rentable des capteurs et puces pour l'automobile qui sort d'un creux de cycle : les marges remontent (17,8 % de marge operationnelle au T2) et le consensus attend un fort rebond du benefice en 2027. Le prix actuel (PER 2026 de 22) integre deja une partie de ce rebond, le graphique reste fragile sous ses moyennes, et le dividende eleve depasse aujourd'hui le benefice, ce qui limite la marge d'erreur.",
   "zones": {
@@ -125,10 +134,18 @@
   }
  },
  "capi": "2,7 Md€",
- "cours": 67,
- "coursLe": "2026-09-28",
+ "cours": 69.05,
+ "coursLe": "2026-09-30",
  "devise": "€",
  "faits": [
+  {
+   "d": "21/09",
+   "t": "Rachat d'actions : 14 519 actions achetées du 14 au 18/09 à 64,29 € en moyenne, soit 253 537 actions sur 850 000 prévues."
+  },
+  {
+   "d": "15/09",
+   "t": "Lancement du MLX91241, premier capteur de courant de Melexis fabriqué en Chine (par le fondeur HHGrace), pour les voitures électriques."
+  },
   {
    "d": "29/07",
    "t": "T2 : CA 217,1 M€ (+3 % sur un an), marge opérationnelle 17,8 %. Prévision T3 : 220 à 225 M€, marge vers 18 %."
@@ -139,14 +156,6 @@
   }
  ],
  "histo": [
-  [
-   "22/09",
-   66.7
-  ],
-  [
-   "23/09",
-   68.45
-  ],
   [
    "24/09",
    68.65
@@ -249,7 +258,7 @@
   ],
   [
    "29/10",
-   65
+   65.0
   ],
   [
    "30/10",
@@ -337,7 +346,7 @@
   ],
   [
    "28/11",
-   53
+   53.0
   ],
   [
    "01/12",
@@ -349,7 +358,7 @@
   ],
   [
    "03/12",
-   56
+   56.0
   ],
   [
    "04/12",
@@ -433,7 +442,7 @@
   ],
   [
    "06/01",
-   62
+   62.0
   ],
   [
    "07/01",
@@ -453,7 +462,7 @@
   ],
   [
    "13/01",
-   63
+   63.0
   ],
   [
    "14/01",
@@ -661,7 +670,7 @@
   ],
   [
    "26/03",
-   53
+   53.0
   ],
   [
    "27/03",
@@ -769,7 +778,7 @@
   ],
   [
    "07/05",
-   77
+   77.0
   ],
   [
    "08/05",
@@ -889,15 +898,15 @@
   ],
   [
    "18/06",
-   83
+   83.0
   ],
   [
    "19/06",
-   82
+   82.0
   ],
   [
    "22/06",
-   85
+   85.0
   ],
   [
    "23/06",
@@ -945,7 +954,7 @@
   ],
   [
    "08/07",
-   74
+   74.0
   ],
   [
    "09/07",
@@ -981,7 +990,7 @@
   ],
   [
    "21/07",
-   72
+   72.0
   ],
   [
    "22/07",
@@ -1005,7 +1014,7 @@
   ],
   [
    "29/07",
-   67
+   67.0
   ],
   [
    "30/07",
@@ -1033,7 +1042,7 @@
   ],
   [
    "07/08",
-   72
+   72.0
   ],
   [
    "10/08",
@@ -1057,7 +1066,7 @@
   ],
   [
    "17/08",
-   72
+   72.0
   ],
   [
    "18/08",
@@ -1069,11 +1078,11 @@
   ],
   [
    "20/08",
-   65
+   65.0
   ],
   [
    "21/08",
-   65
+   65.0
   ],
   [
    "24/08",
@@ -1089,7 +1098,7 @@
   ],
   [
    "27/08",
-   66
+   66.0
   ],
   [
    "28/08",
@@ -1097,7 +1106,7 @@
   ],
   [
    "31/08",
-   66
+   66.0
   ],
   [
    "01/09",
@@ -1105,7 +1114,7 @@
   ],
   [
    "02/09",
-   65
+   65.0
   ],
   [
    "03/09",
@@ -1141,7 +1150,7 @@
   ],
   [
    "15/09",
-   64
+   64.0
   ],
   [
    "16/09",
@@ -1157,7 +1166,7 @@
   ],
   [
    "21/09",
-   68
+   68.0
   ],
   [
    "22/09",
@@ -1177,7 +1186,15 @@
   ],
   [
    "28/09",
-   67
+   67.0
+  ],
+  [
+   "29/09",
+   69.55
+  ],
+  [
+   "30/09",
+   69.05
   ]
  ],
  "nom": "Melexis",
@@ -1186,9 +1203,9 @@
  "per26": 22,
  "per27": 16.9,
  "perf": {
-  "m1": 1.4,
-  "m12": -1.8,
-  "m3": -14.3
+  "m1": 7.2,
+  "m3": -12.1,
+  "m12": 0.7
  },
  "pub": "2026-10-28",
  "pubLabel": "Résultats du T3",
@@ -1388,10 +1405,10 @@
     {
      "c": "Que la marge opérationnelle peut remonter vers 20 % ou plus malgré la concurrence chinoise sur les prix.",
      "etat": "watch",
-     "preuve": "Marge opérationnelle : 16,0 % en 2025, 17,8 % au T2 2026, environ 18 % visé au S2 2026 ; marge brute 40,5 % au T2.",
+     "preuve": "Communiqué produit du 15/09/2026 : structure de coûts optimisée grâce à la fabrication locale.",
      "prochain": "Résultats T3 le 28/10/2026",
-     "reponse": "La marge remonte mais reste loin de 20 % : la direction vise environ 18 % au S2 et ne donne pas de date pour 20 %. Elle vise à long terme une marge brute d'environ 45 %.",
-     "source": "https://www.melexis.com/en/news/2026/financial/melexis-q2-2026-results"
+     "reponse": "La production locale en Chine vise des coûts plus bas, mais l'effet sur les marges ne sera visible que plus tard.",
+     "source": "https://www.semiconductorforu.com/melexis-delivers-on-china-localization-initiative-with-new-current-sensor/"
     },
     {
      "c": "Que le dividende de 3,70 € par action reste tenable alors que le bénéfice par action est tombé à 2,78 € en 2025.",
@@ -1402,7 +1419,7 @@
      "source": "https://www.melexis.com/en/news/2026/financial/melexis-q2-2026-results"
     }
    ],
-   "le": "2026-09-29",
+   "le": "2026-09-30",
    "questions": [
     {
      "etat": "watch",
@@ -1414,11 +1431,11 @@
     },
     {
      "etat": "watch",
-     "preuve": "2025 : Chine 13,6 % et Hong Kong 15,3 % des ventes ; T2 2026 : croissance « mainly, if not only » chez les clients chinois.",
+     "preuve": "15/09/2026 : lancement du capteur MLX91241, produit par HHGrace à Shanghai.",
      "prochain": "Résultats T3 le 28/10/2026",
      "q": "Quelle part des ventes est exposée aux constructeurs chinois et aux concurrents chinois qui cassent les prix ?",
-     "reponse": "Environ 29 % des ventes 2025 sont facturées en Chine et à Hong Kong. La croissance récente vient presque seulement des clients chinois, et la direction reconnaît que la principale concurrence nouvelle est chinoise.",
-     "source": "https://www.investing.com/news/transcripts/earnings-call-transcript-melexis-posts-stronger-q2-2026-margins-shares-slip-93CH-4819054"
+     "reponse": "Pas de nouveau chiffre sur la part chinoise des ventes. Melexis répond à la concurrence locale en fabriquant une première puce en Chine.",
+     "source": "https://autonews.gasgoo.com/articles/news/2100127464792961024"
     },
     {
      "etat": "watch",

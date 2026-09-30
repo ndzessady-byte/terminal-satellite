@@ -3,11 +3,18 @@
   "aVerifier": "Moyenne 200 jours non lue. Moyennes 50 jours et RSI lus sur la cotation Tradegate (meme action en euros). Support et resistance deduits (moyenne 100 jours et plus haut annuel), pas publies par une source. Objectif moyen des analystes deduit de l'ecart de +12,63 % affiche par Zonebourse (environ 49 €). Couverture des interets, F-score de Piotroski et multiples des concurrents non trouves. Date du T3 (29/10) issue du calendrier publie en 2025.",
   "actu": [
    {
-    "d": "06/08",
-    "fait": "Resultats du premier semestre 2026 : ventes de 111,4 M€ (+12,2 %), Amerique du Nord +38,6 %, mais marge ajustee du T2 a 16,2 % car un chantier informatique a l'usine de Muurame a decale environ 4 M€ de livraisons vers le T3.",
-    "horizon": "moyen",
+    "d": "10/09",
+    "fait": "Le directeur general evoque l'ambition de faire changer le groupe de taille (\"Mission a Billion\").",
+    "horizon": "long",
     "impact": "positif",
-    "lecture": "La croissance americaine valide la these du sauna comme produit de bien etre grand public ; la baisse de marge semble temporaire mais doit etre confirmee au T3."
+    "lecture": "Signale une strategie offensive (acquisitions possibles dans le sauna infrarouge) qui peut accelerer la croissance mais aussi augmenter la dette."
+   },
+   {
+    "d": "01/09",
+    "fait": "Déclaration de transaction de dirigeant : Markus Wörmanseder a cédé 1 873 actions le 31/08 au prix moyen de 45,23 €, soit environ 85 000 €.",
+    "impact": "neutre",
+    "horizon": "court",
+    "lecture": "Montant très faible, sans signal clair sur la confiance de la direction avant les résultats du 29/10."
    },
    {
     "d": "07/08",
@@ -18,17 +25,10 @@
    },
    {
     "d": "06/08",
-    "fait": "Zone Asie-Pacifique et Moyen-Orient en baisse de 4,9 %, projets de hammams dans le Golfe reportes a cause du conflit regional ; la direction se dit pas pleinement satisfaite de ThermaSol aux Etats-Unis.",
-    "horizon": "court",
-    "impact": "negatif",
-    "lecture": "Rappelle que la croissance repose beaucoup sur un seul marche, l'Amerique du Nord, et que les acquisitions ne rapportent pas toujours vite."
-   },
-   {
-    "d": "10/09",
-    "fait": "Le directeur general evoque l'ambition de faire changer le groupe de taille (\"Mission a Billion\").",
-    "horizon": "long",
+    "fait": "Resultats du premier semestre 2026 : ventes de 111,4 M€ (+12,2 %), Amerique du Nord +38,6 %, mais marge ajustee du T2 a 16,2 % car un chantier informatique a l'usine de Muurame a decale environ 4 M€ de livraisons vers le T3.",
+    "horizon": "moyen",
     "impact": "positif",
-    "lecture": "Signale une strategie offensive (acquisitions possibles dans le sauna infrarouge) qui peut accelerer la croissance mais aussi augmenter la dette."
+    "lecture": "La croissance americaine valide la these du sauna comme produit de bien etre grand public ; la baisse de marge semble temporaire mais doit etre confirmee au T3."
    }
   ],
   "cadres": [
@@ -89,6 +89,7 @@
    }
   ],
   "sources": [
+   "https://www.globenewswire.com/news-release/2026/09/01/3353929/0/en/harvia-plc-managers-transactions-w%C3%B6rmanseder.html",
    "https://harviagroup.com/harvias-half-year-financial-review-1-january-30-june-2026/",
    "https://www.saunanews.com/article/harvia-q2-2026-north-america-cabins-steam",
    "https://www.zonebourse.com/cours/action/HARVIA-OYJ-42470799/",
@@ -103,14 +104,14 @@
   ],
   "tech": {
    "bas52": 31.8,
-   "cours": 43.45,
-   "coursLe": "2026-09-28",
+   "cours": 43.2,
+   "coursLe": "2026-09-30",
    "haut52": 45.7,
-   "lecture": "Cours de 43,45 en dessous de sa moyenne 50 jours (43,45) et au-dessus de sa moyenne 200 jours (40,05). RSI 48,8 : élan neutre. Il se situe à 84 % de sa fourchette sur un an (de 31,80 à 45,70), performance sur 12 mois de +25,2 %. Moyennes et RSI calculés sur les vraies clôtures (flux GitHub de 15h33).",
-   "mm200": 40.05,
-   "mm50": 43.45,
+   "lecture": "Cours de 43,20 en dessous de sa moyenne 50 jours (43,51) et au-dessus de sa moyenne 200 jours (40,07). RSI 47,1 : élan neutre. Il se situe à 82 % de sa fourchette sur un an (de 31,80 à 45,70), performance sur 12 mois de 25,2 %. Clôture du 30/09/2026.",
+   "mm200": 40.07,
+   "mm50": 43.51,
    "resistance": 47.65,
-   "rsi14": 48.8,
+   "rsi14": 47.1,
    "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json",
    "stade": 3,
    "support": 39.9,
@@ -134,28 +135,24 @@
   }
  },
  "capi": "0,8 Md€",
- "cours": 43.45,
- "coursLe": "2026-09-28",
+ "cours": 43.2,
+ "coursLe": "2026-09-30",
  "devise": "€",
  "faits": [
   {
-   "d": "06/08",
-   "t": "S1 : CA 111,4 M€ (+12,2 %), marge ajustée 19,3 %, BPA +16,5 %. T2 : marge ajustée 16,2 %."
+   "d": "01/09",
+   "t": "Un cadre dirigeant, Markus Wörmanseder, a vendu 1 873 actions le 31/08 à 45,23 € en moyenne."
   },
   {
    "d": "07/08",
    "t": "Analystes partagés : OP passe à Alléger (43 €), Nordea relève à 51 € (Achat)."
+  },
+  {
+   "d": "06/08",
+   "t": "S1 : CA 111,4 M€ (+12,2 %), marge ajustée 19,3 %, BPA +16,5 %. T2 : marge ajustée 16,2 %."
   }
  ],
  "histo": [
-  [
-   "15/09",
-   38.05
-  ],
-  [
-   "16/09",
-   38.05
-  ],
   [
    "17/09",
    37.35
@@ -374,7 +371,7 @@
   ],
   [
    "02/12",
-   41
+   41.0
   ],
   [
    "03/12",
@@ -506,7 +503,7 @@
   ],
   [
    "26/01",
-   42
+   42.0
   ],
   [
    "27/01",
@@ -522,7 +519,7 @@
   ],
   [
    "30/01",
-   41
+   41.0
   ],
   [
    "02/02",
@@ -598,11 +595,11 @@
   ],
   [
    "26/02",
-   37
+   37.0
   ],
   [
    "27/02",
-   37
+   37.0
   ],
   [
    "02/03",
@@ -802,7 +799,7 @@
   ],
   [
    "13/05",
-   39
+   39.0
   ],
   [
    "15/05",
@@ -1002,7 +999,7 @@
   ],
   [
    "24/07",
-   42
+   42.0
   ],
   [
    "27/07",
@@ -1186,7 +1183,15 @@
   ],
   [
    "28/09",
-   43.45
+   43.7
+  ],
+  [
+   "29/09",
+   43.2
+  ],
+  [
+   "30/09",
+   43.2
   ]
  ],
  "nom": "Harvia",
@@ -1195,9 +1200,9 @@
  "per26": 23.8,
  "per27": 19.4,
  "perf": {
-  "m1": -4,
-  "m12": 25.2,
-  "m3": 5.8
+  "m1": -1.5,
+  "m3": 5.1,
+  "m12": 25.2
  },
  "pub": "2026-10-29",
  "pubLabel": "Résultats 9 mois",
