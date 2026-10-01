@@ -1,9 +1,9 @@
 {
- "asOf": "2026-09-30",
+ "asOf": "2026-10-01",
  "attention": [
-  "Jeudi 01/10 : budget 2027 en Conseil des ministres, le PS promet la censure. Écart OAT/Bund à 120 pb : Thermador, Wavestone, Aubay et Trigano en première ligne.",
-  "Cinq valeurs sont à moins de 1,6 % de leur zone d'intérêt : Viscofan (53,20 €), Reply (115,70 €), Trigano (129,10 €), Wavestone (29,30 €), Aubay (50,80 €). Rien n'y est encore entré.",
-  "Vendredi 02/10 : inflation zone euro de septembre et emploi américain, décisifs pour la BCE et la Fed. OPEP+ se réunit le 04/10."
+  "Écart OAT/Bund au-dessus de 130 pb après le budget : Thermador, Wavestone, Aubay et Trigano restent les plus exposées. Aucune valeur n'est entrée en zone d'intérêt ce midi.",
+  "Vendredi 02/10 : inflation de septembre en zone euro et emploi américain, avec un Brent au-dessus de 100 $ qui pousse les taux.",
+  "Ormuz bloqué après l'expulsion de la délégation iranienne ; OPEP+ le 04/10, examen du budget à l'Assemblée dès le 13/10."
  ],
  "etf": {
   "nom": "Amundi PEA Monde MSCI World (DCAM)",
@@ -56,12 +56,12 @@
    "note": "cours en séance à 12h48 le 30/09, clôture non confirmée ; -2,25 % sur 5 jours"
   }
  ],
- "majLe": "2026-09-30T23:55:00+02:00",
+ "majLe": "2026-10-01T13:55:00+02:00",
  "semaine": "28 septembre au 2 octobre 2026",
  "semaineTexte": [
-  "Lundi 28/09 : CAC 40 stable à 8 078 pts, Brent en hausse après le rejet par Trump du plan iranien sur Ormuz.",
   "Mardi 29/09 : le pétrole reflue avec la reprise des flux du Golfe, mais trois pétroliers sont touchés par des projectiles près d'Ormuz.",
-  "Mercredi 30/09 : CAC 40 -0,89 % à 7 964 pts, inflation française à 3,0 %, écart OAT/Bund à 120 pb (plus haut depuis 2012)."
+  "Mercredi 30/09 : CAC 40 -0,89 % à 7 964 pts, inflation française à 3,0 %, écart OAT/Bund à 120 pb (plus haut depuis 2012).",
+  "Jeudi 01/10 midi : budget 2027 présenté, écart OAT/Bund au-dessus de 130 pb, CAC 40 vers -1,3 % à 7 861 pts (banques -3 %), Brent au-dessus de 100 $."
  ],
  "watchlistValidee": false
 }

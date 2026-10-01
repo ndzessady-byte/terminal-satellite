@@ -3,6 +3,13 @@
   "aVerifier": "Montant du CA S1 2026 contradictoire selon les sources (273,2 M€ ou 287,95 M€), seule la croissance a été retenue. Date de publication du CA du T3 non trouvée dans le calendrier lu. Nom et taille des sociétés acquises qui expliquent la croissance externe non trouvés. ROE calculé à partir des ratios Zonebourse. Couverture des intérêts, PER moyen sur 5 ans complet, comparaison avec les pairs et Piotroski non trouvés.",
   "actu": [
    {
+    "d": "01/10",
+    "fait": "Le gouvernement présente le projet de loi de finances 2027. Une seule source parle de 500 M€ de moins pour MaPrimeRénov', chiffre non retenu à ce stade.",
+    "impact": "negatif",
+    "horizon": "moyen",
+    "lecture": "Le détail du budget va dire si les aides à la rénovation baissent encore en 2027 : c'est le point le plus fragile de la thèse."
+   },
+   {
     "d": "28/09",
     "fait": "Thermador publie chaque semaine ses achats d'actions propres, dernière déclaration pour la semaine du 21 au 25/09.",
     "impact": "neutre",
@@ -22,13 +29,6 @@
     "horizon": "moyen",
     "impact": "negatif",
     "lecture": "Le crédit immobilier plus cher freine la construction et la rénovation, principaux débouchés de Thermador."
-   },
-   {
-    "d": "31/07",
-    "fait": "Contrat de rachat d'actions signé avec CIC Market Solutions, jusqu'à 30 000 titres (0,33 % du capital).",
-    "horizon": "court",
-    "impact": "neutre",
-    "lecture": "Montant modeste, surtout un signal de confiance de la direction."
    }
   ],
   "cadres": [
@@ -90,6 +90,7 @@
    }
   ],
   "sources": [
+   "https://www.toutsurmesfinances.com/argent/a/loi-de-finances-2027",
    "https://www.thermador-groupe.fr/en/shareholders/regulated-information/",
    "https://www.banquedesterritoires.fr/budget-2027-le-gouvernement-prevoit-un-effort-inedit-de-54-milliards-deuros",
    "https://www.webdisclosure.fr/press-release/thermador-groupe-epa-thep-thermador-groupe-resultats-semestriels-2026-WX5JFZaKsx6",
@@ -138,6 +139,10 @@
  "coursLe": "2026-09-30",
  "devise": "€",
  "faits": [
+  {
+   "d": "01/10",
+   "t": "Le projet de budget 2027 est présenté ; le montant prévu pour MaPrimeRénov' n'est pas encore confirmé par deux sources."
+  },
   {
    "d": "28/09",
    "t": "Le rachat d'actions tourne : déclarations hebdomadaires publiées les 14, 22 et 28/09."
@@ -1408,10 +1413,10 @@
     {
      "c": "Que le bâtiment et la rénovation énergétique en France vont repartir (aides, pompes à chaleur, objectifs de construction) après trois années difficiles.",
      "etat": "watch",
-     "preuve": "Grandes lignes du budget 2027 présentées le 17/09/2026 : 54 Md€ d'économies, économies sur les APL, budget de l'ADEME réduit de plus de 30 %.",
+     "preuve": "Présentation du projet de loi de finances 2027 le 01/10/2026 ; une seule source annonce 500 M€ de moins pour MaPrimeRénov'.",
      "prochain": "CA du T3 le 15/10/2026 (webconférence le 19/10)",
-     "reponse": "Toujours pas : le budget 2027 prévoit 54 Md€ d'économies, dont des coupes dans les aides au logement ; le détail pour MaPrimeRénov' est attendu avec le projet de loi de finances.",
-     "source": "https://www.banquedesterritoires.fr/budget-2027-le-gouvernement-prevoit-un-effort-inedit-de-54-milliards-deuros"
+     "reponse": "Toujours pas tranché : le budget 2027 est présenté le 01/10, mais le montant de MaPrimeRénov' n'est pas encore confirmé par deux sources.",
+     "source": "https://www.toutsurmesfinances.com/argent/a/loi-de-finances-2027"
     },
     {
      "c": "Que la baisse des prix est terminée et que l'effet prix redevient positif en 2026, comme l'annonce la direction.",
@@ -1430,7 +1435,7 @@
      "source": "https://www.thermador-groupe.fr/communique-de-presse/publication-des-resultats-semestriels-2026/"
     }
    ],
-   "le": "2026-09-30",
+   "le": "2026-10-01",
    "questions": [
     {
      "etat": "watch",

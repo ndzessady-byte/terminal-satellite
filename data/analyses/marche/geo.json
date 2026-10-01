@@ -1,6 +1,6 @@
 {
- "lecture": "Le risque politique français devient le premier sujet pour la liste : l'écart avec le Bund est à 120 pb, au plus haut depuis 2012, à la veille d'un budget que la gauche promet de censurer. À Ormuz, les attaques de navires continuent mais Washington et Téhéran échangent des propositions via le Qatar et les flux du Golfe se redressent, ce qui ramène le Brent sous 100 $. La pression sur les taux reste forte avec une inflation française à 3 %.",
- "majLe": "2026-09-30",
+ "lecture": "Le budget 2027 n'a pas rassuré : l'écart avec le Bund dépasse 130 pb et l'OAT 10 ans touche son plus haut depuis 2002, ce qui fait reculer les banques et le CAC 40 sous 7 900 points. À Ormuz, les discussions sont bloquées et le Brent repasse au-dessus de 100 $. Pétrole cher et taux en hausse pèsent d'abord sur les petites valeurs françaises de la liste.",
+ "majLe": "2026-10-01",
  "matieres": {
   "ALU": {
    "moteurs": "L'aluminium reste haut (environ 3 260 $/t, +22 % sur un an) car la production du Golfe s'est effondrée avec la guerre, mais le dollar fort et les exportations chinoises le plafonnent.",
@@ -69,6 +69,10 @@
   {
    "faits": [
     {
+     "d": "01/10",
+     "t": "Les discussions entre Washington et Téhéran sont au point mort : la délégation iranienne à l'ONU doit quitter New York. Le Brent repasse au-dessus de 100 $ (environ 100,5 $, +2,6 %)."
+    },
+    {
      "d": "30/09",
      "t": "L'Iran confirme avoir reçu, via le Qatar, la réponse américaine à son offre ; les deux camps s'accorderaient sur les étapes mais pas sur leur ordre. Nouvelles sanctions américaines. Les flux de brut du Golfe remontent à environ 80 % du niveau d'avant-guerre."
     },
@@ -87,10 +91,6 @@
     {
      "d": "23/09",
      "t": "Le vraquier Cape Dao (pavillon Antigua-et-Barbuda) est touché par un projectile d'origine inconnue près du Musandam (Oman) ; un marin indien tué, 27 rescapés. L'OMI recense 83 incidents et 23 marins tués depuis le début du conflit."
-    },
-    {
-     "d": "24/09",
-     "t": "Brent à 106,13 $ (+3,27 % sur 24 h) selon un suivi spécialisé ; le blocus américain reste en place, l'Iran exige sa levée et le dégel de ses avoirs avant toute réouverture."
     }
    ],
    "id": "ormuz",
@@ -120,6 +120,7 @@
    "region": "Moyen-Orient / Golfe",
    "resume": "La guerre avec l'Iran, commencée fin février 2026, bloque toujours le détroit d'Ormuz par où passait environ un cinquième du pétrole mondial, et les États-Unis maintiennent un blocus des ports iraniens. Fin septembre, Trump a rejeté le plan iranien de réouverture et un vraquier a encore été touché près d'Oman. Le Brent est repassé au-dessus de 100 $ et c'est le premier moteur de l'inflation et des taux en ce moment.",
    "sources": [
+    "https://www.axios.com/2026/10/01/rubio-iran-unga-delegation-kicked-out",
     "https://timesofisrael.com/iran-indicates-it-received-official-us-response-to-latest-offer-on-ending-war",
     "https://www.intellinews.com/ukmto-reports-three-tankers-struck-in-strait-of-hormuz-472319/",
     "https://www.aljazeera.com/economy/2026/9/28/oil-prices-surge-after-trump-rejects-irans-plan-to-reopen-strait-of-hormuz",
@@ -135,7 +136,7 @@
     "Toute reprise de négociation États-Unis / Iran via le Qatar",
     "03/11 : élections de mi-mandat américaines, que Téhéran juge peu propices à un accord avant"
    ],
-   "tendance": "stable",
+   "tendance": "hausse",
    "titre": "Iran, États-Unis et détroit d'Ormuz",
    "valeurs": [
     {
@@ -172,6 +173,10 @@
   },
   {
    "faits": [
+    {
+     "d": "01/10",
+     "t": "L'OAT 10 ans monte vers 4,9 %, son plus haut depuis 2002. Chômage de la zone euro stable à 6,4 % en août."
+    },
     {
      "d": "30/09",
      "t": "L'inflation française accélère à 3,0 % sur un an en septembre (2,4 % en août), tirée par l'énergie ; la Fed de New York évoque une prochaine hausse plutôt en décembre."
@@ -212,6 +217,7 @@
    "region": "Zone euro / États-Unis",
    "resume": "Le choc pétrolier relance l'inflation, et les deux grandes banques centrales ont remonté leurs taux en septembre au lieu de les baisser. Les marchés anticipent encore des hausses. C'est un vent contraire pour les petites et moyennes valeurs, pour l'immobilier et pour l'or.",
    "sources": [
+    "https://www.abcbourse.com/marches/newsContent/703529",
     "https://www.abcbourse.com/marches/les-taux-baissent-les-anticipations-d-une-hausse-des-taux-de-la-fed-en-octobre_703415",
     "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.mp260910~314e508016.en.html",
     "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
@@ -251,6 +257,10 @@
   {
    "faits": [
     {
+     "d": "01/10",
+     "t": "Budget 2027 présenté : 43 Md€ de mesures nouvelles, gel des salaires publics et de la plupart des pensions, déficit visé à 5 % du PIB, 340 Md€ d'emprunts. L'écart OAT/Bund dépasse 130 pb en séance, les banques françaises reculent d'environ 3 %."
+    },
+    {
      "d": "30/09",
      "t": "L'écart OAT/Bund atteint 120 pb, plus haut depuis 2012 ; l'État prévoit d'emprunter un record de 340 Md€ en 2027. Budget présenté le 01/10, examen à l'Assemblée à partir du 13/10."
     },
@@ -278,6 +288,7 @@
    "region": "France",
    "resume": "Le gouvernement Lecornu présente un budget 2027 avec 54 Md€ d'effort pour ramener le déficit vers 4,8 à 5 % du PIB, mais la gauche promet la censure et le RN reste l'arbitre. L'écart de taux avec l'Allemagne est élevé mais s'est un peu détendu en fin de semaine dernière. C'est le risque principal pour les valeurs très françaises de ta liste.",
    "sources": [
+    "https://www.investing.com/news/economy-news/france-unveils-2027-budget-with-plan-to-cut-deficit-93CH-4926886",
     "https://www.newsquawk.com/headlines/market-update-oat-bund-10yr-yield-spread-hits-120bps-the-highest-since-2012",
     "https://www.journaldunet.com/business/action-publique/1555599-la-france-va-emprunter-un-montant-record-de-340-milliards-d-euros-sur-les-marches-en-2027/",
     "https://www.investirmag.fr/lecornu-devoile-les-mesures-deconomies-pour-le-budget-de-letat-2027/",

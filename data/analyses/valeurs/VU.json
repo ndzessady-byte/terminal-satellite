@@ -90,6 +90,7 @@
    }
   ],
   "sources": [
+   "https://www.boursorama.com/bourse/actualites/vusion-invitation-immersion-au-coeur-de-l-innovation-7cbade4196873be140c6cdc161cb654c",
    "https://www.actusnews.com/fr/vusiongroup/cp/2026/09/29/l_enseigne-australienne-jb-hi-fi-choisit-vusion-pour-accelerer-sa-strategie-de-magasin-connecte",
    "https://www.optionfinance.fr/info-financiere-en-continu/d/2026-09-29-vusion-va-deployer-ses-technologies-chez-jb-hi-fi-en-australie.html",
    "https://www.xtb.com/fr/analyses-marches/action-vusiongroup-rentabilite-en-forte-hausse-au-s1",
@@ -142,6 +143,10 @@
  "coursLe": "2026-09-30",
  "devise": "€",
  "faits": [
+  {
+   "d": "30/09",
+   "t": "Matinée de présentation de ses solutions dans son centre d'innovation de Nanterre prévue le 23/10."
+  },
   {
    "d": "29/09",
    "t": "JB Hi-Fi étend le déploiement de Vusion à ses magasins en Australie, après la Nouvelle-Zélande. Montant non publié."

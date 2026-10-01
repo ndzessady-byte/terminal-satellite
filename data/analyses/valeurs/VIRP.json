@@ -3,11 +3,18 @@
   "aVerifier": "Cours du 28/09 non lu (dernier cours confirmé 303,5 € le 25/09, la fiche d'origine indique environ 309 €). MM50, MM200 et RSI non disponibles à jour (page Investing.com figée au 05/08), mis à null. Haut et bas sur 52 semaines lus sur Investing.com au 05/08. ROE et dette nette/EBITDA calculés à partir des ratios Zonebourse. Couverture des intérêts, comparaison avec les pairs et Piotroski non trouvés.",
   "actu": [
    {
-    "d": "20/07",
-    "fait": "CA du S1 2026 de 768 M€, +7,4 % à changes constants. Virbac vise désormais le haut de sa fourchette 2026 (+5,5 à +7,5 %).",
-    "horizon": "moyen",
+    "d": "24/09",
+    "fait": "Lancement progressif en Europe de Floragest, friandise à base de prébiotiques pour le confort digestif des chiens et chats.",
     "impact": "positif",
-    "lecture": "La croissance tient mieux que chez le leader Zoetis, signe de gains de parts de marché."
+    "horizon": "moyen",
+    "lecture": "Un produit de plus dans la gamme animaux de compagnie, moteur de la croissance ; taille modeste, aucun chiffre de ventes attendu."
+   },
+   {
+    "d": "18/09",
+    "fait": "Zonebourse souligne un retour à des niveaux de valorisation attractifs (15 fois les bénéfices 2026) après une baisse d'environ 15 % depuis janvier.",
+    "horizon": "moyen",
+    "impact": "neutre",
+    "lecture": "La valorisation n'est plus un frein, mais le marché reste méfiant sur la santé animale après l'avertissement de Zoetis en mai (baisse des visites vétérinaires)."
    },
    {
     "d": "17/09",
@@ -17,11 +24,11 @@
     "lecture": "La marge progresse malgré l'inflation et la gamme se renforce pour les années suivantes."
    },
    {
-    "d": "18/09",
-    "fait": "Zonebourse souligne un retour à des niveaux de valorisation attractifs (15 fois les bénéfices 2026) après une baisse d'environ 15 % depuis janvier.",
+    "d": "20/07",
+    "fait": "CA du S1 2026 de 768 M€, +7,4 % à changes constants. Virbac vise désormais le haut de sa fourchette 2026 (+5,5 à +7,5 %).",
     "horizon": "moyen",
-    "impact": "neutre",
-    "lecture": "La valorisation n'est plus un frein, mais le marché reste méfiant sur la santé animale après l'avertissement de Zoetis en mai (baisse des visites vétérinaires)."
+    "impact": "positif",
+    "lecture": "La croissance tient mieux que chez le leader Zoetis, signe de gains de parts de marché."
    }
   ],
   "cadres": [
@@ -82,6 +89,7 @@
    }
   ],
   "sources": [
+   "https://corporate.virbac.com/home/news-media.html",
    "https://www.globenewswire.com/news-release/2026/09/17/3364214/0/fr/virbac-une-marge-op%C3%A9rationnelle2-solide-de-18-8-port%C3%A9e-par-une-croissance-soutenue-du-chiffre-d-affaires-de-7-4.html",
    "https://www.abcbourse.com/marches/newsContent/702740",
    "https://www.zonebourse.com/actualite-bourse/virbac-solide-vise-le-haut-de-la-fourchette-de-ses-objectifs-annuels-ce7f51dbdd89f526",
@@ -129,6 +137,14 @@
  "coursLe": "2026-09-30",
  "devise": "€",
  "faits": [
+  {
+   "d": "28/09",
+   "t": "Conseil d'administration : Eline Madelpuech nommée censeur, Olivier Charmeil rejoint le comité d'audit."
+  },
+  {
+   "d": "24/09",
+   "t": "Lancement en Europe de Floragest, complément pour le confort digestif des chiens et chats."
+  },
   {
    "d": "21/09",
    "t": "Bernstein passe à Surperformance, objectif 426 € (contre 419 €)."

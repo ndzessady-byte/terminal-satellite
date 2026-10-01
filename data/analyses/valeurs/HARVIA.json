@@ -89,6 +89,7 @@
    }
   ],
   "sources": [
+   "https://www.globenewswire.com/news-release/2026/09/08/3357634/0/en/composition-of-the-shareholders-nomination-board-of-harvia-plc.html",
    "https://www.globenewswire.com/news-release/2026/09/01/3353929/0/en/harvia-plc-managers-transactions-w%C3%B6rmanseder.html",
    "https://harviagroup.com/harvias-half-year-financial-review-1-january-30-june-2026/",
    "https://www.saunanews.com/article/harvia-q2-2026-north-america-cabins-steam",
@@ -139,6 +140,10 @@
  "coursLe": "2026-09-30",
  "devise": "€",
  "faits": [
+  {
+   "d": "08/09",
+   "t": "Comité de nomination formé par les 4 plus gros actionnaires : Nordea Funds, Varma, Onvest et Evli."
+  },
   {
    "d": "01/09",
    "t": "Un cadre dirigeant, Markus Wörmanseder, a vendu 1 873 actions le 31/08 à 45,23 € en moyenne."

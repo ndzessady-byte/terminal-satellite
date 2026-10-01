@@ -3,6 +3,13 @@
   "aVerifier": "Moyenne 200 jours non lue. Couverture des interets, F-score de Piotroski et multiples des concurrents non trouves. PER 2026 : 18,7 chez Zonebourse contre 15,2 chez Boursorama (definitions de BPA differentes). Date de fin du rachat d'actions (9/10) lue sur un site secondaire, a confirmer. Objectif moyen des analystes (45,36 €) date du 18/08.",
   "actu": [
    {
+    "d": "30/09",
+    "fait": "Selon une seule source, ING garde sa recommandation à l'achat et relève nettement son objectif de cours après le premier semestre. Montants non repris faute de seconde source.",
+    "impact": "positif",
+    "horizon": "court",
+    "lecture": "Un analyste de plus voit le redressement des marges ; le vrai test reste le point d'activité du T3 le 22/10."
+   },
+   {
     "d": "29/09",
     "fait": "Le rachat d'actions de 75 M€ avance : 3,4 M€ achetés du 21 au 25/09 à 41,99 € en moyenne, soit 67,9 M€ au total et environ 1,9 million d'actions, qui seront annulées.",
     "impact": "positif",
@@ -22,13 +29,6 @@
     "horizon": "court",
     "impact": "negatif",
     "lecture": "Signale qu'une partie des analystes juge le rebond deja largement integre dans le cours."
-   },
-   {
-    "d": "23/07",
-    "fait": "Resultats du premier semestre 2026 : croissance organique de +5 %, marge EBITA de 14,4 %, activite Semicon a +9,2 % avec un carnet de commandes tres solide lie aux investissements dans l'IA ; prudence sur l'industrie americaine en raison des politiques commerciales.",
-    "horizon": "moyen",
-    "impact": "positif",
-    "lecture": "Valide le redressement des marges et le levier IA, coeur de la these, tout en rappelant le risque des droits de douane aux Etats-Unis."
    }
   ],
   "cadres": [
@@ -89,6 +89,7 @@
    }
   ],
   "sources": [
+   "https://www.ad-hoc-news.de/boerse/news/corporate-news/ing-raises-target-for-aalberts-stock-from-eur-39-50-to-eur-47-25/70209918",
    "https://www.globenewswire.com/news-release/2026/09/29/3370608/0/en/aalberts-reports-the-progress-of-its-share-buyback-programme-21-september-25-september-2026.html",
    "https://ml-eu.globenewswire.com/Resource/Download/f4dfb894-080f-4a11-a7af-1c2c585a91a9",
    "https://www.aalberts.com/progress/publication-first-half-year-2026-results",
@@ -137,6 +138,10 @@
  "coursLe": "2026-09-30",
  "devise": "€",
  "faits": [
+  {
+   "d": "30/09",
+   "t": "ING reste à l'achat et relève son objectif de cours (une seule source, montant non repris)."
+  },
   {
    "d": "29/09",
    "t": "Rachat d'actions : 67,9 M€ sur 75 M€ réalisés au 25/09 (81 000 actions achetées la semaine au prix moyen de 41,99 €), fin au plus tard le 09/10."
