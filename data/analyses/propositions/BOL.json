@@ -1,0 +1,24 @@
+{
+ "ticker": "BOL",
+ "nom": "Boliden",
+ "pays": "SE",
+ "secteur": "Mines (cuivre, zinc)",
+ "marche": "Nasdaq Stockholm",
+ "devise": "SEK",
+ "compte": "PEA",
+ "cours": 521.0,
+ "coursLe": "2026-09-25",
+ "capi": "environ 145 Md SEK (environ 13 Md€)",
+ "per26": null,
+ "score": 6,
+ "these": "Mineur et fondeur nordique de cuivre, de zinc et de métaux précieux, avec la mine de cuivre d'Aitik à bas coûts. Bénéfice par action de 21,3 SEK au S1 2026 grâce aux prix des métaux, et un titre en recul d'environ 28 % depuis son plus haut.",
+ "lienGeo": "Demande de cuivre (réseaux électriques, défense) et volonté européenne de sécuriser ses métaux critiques : un producteur installé dans l'Union en profite.",
+ "risque": "Garpenberg, sa mine la plus rentable, est perturbée par des éboulements jusqu'en 2032 ; dépendance aux cours du cuivre et du zinc ; risque de change sur la couronne suédoise.",
+ "yahoo": "BOL.ST",
+ "source": "https://investors.boliden.com/en/press/boliden-q2-2026-continued-favorable-metal-prices",
+ "sources": [
+  "https://investors.boliden.com/en/press/boliden-q2-2026-continued-favorable-metal-prices"
+ ],
+ "notes": "Cours du 25/09 (dernière clôture confirmée). PER 2026 non confirmé.",
+ "proposeLe": "2026-10-01"
+}

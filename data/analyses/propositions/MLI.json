@@ -1,0 +1,25 @@
+{
+ "ticker": "MLI",
+ "nom": "Mueller Industries",
+ "pays": "US",
+ "secteur": "Industrie (tubes et raccords en cuivre)",
+ "marche": "NYSE",
+ "devise": "USD",
+ "compte": "CTO",
+ "cours": 60.61,
+ "coursLe": "2026-09-30",
+ "capi": "environ 13,4 Md$ (environ 11,8 Md€)",
+ "per26": 14.4,
+ "score": 7.5,
+ "these": "Premier fabricant américain de tubes en cuivre et de raccords pour la plomberie et la climatisation. Bénéfice net du S1 2026 en hausse de 21 % à 488,7 M$, et un bilan quasi sans dette avec 1,42 Md$ de trésorerie.",
+ "lienGeo": "Les droits de douane américains sur le cuivre importé favorisent les producteurs locaux comme Mueller.",
+ "risque": "Bénéfices sans doute proches d'un haut de cycle (cuivre cher, bâtiment américain) ; PER basé sur seulement 2 analystes ; risque de change euro/dollar.",
+ "yahoo": "MLI",
+ "source": "https://www.sec.gov/Archives/edgar/data/89439/000008943926000029/exhibit991q22026earningsre.htm",
+ "sources": [
+  "https://www.sec.gov/Archives/edgar/data/89439/000008943926000029/exhibit991q22026earningsre.htm",
+  "https://ir.muellerindustries.com/news/press-releases/detail/194/mueller-industries-inc-reports-second-quarter-2026"
+ ],
+ "notes": "PER 2026 sur un consensus de 2 analystes seulement.",
+ "proposeLe": "2026-10-01"
+}

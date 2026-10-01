@@ -1,0 +1,24 @@
+{
+ "ticker": "DORM",
+ "nom": "Dorman Products",
+ "pays": "US",
+ "secteur": "Pièces détachées automobiles",
+ "marche": "Nasdaq",
+ "devise": "USD",
+ "compte": "CTO",
+ "cours": 122.6,
+ "coursLe": "2026-09-30",
+ "capi": "environ 3,6 Md$ (environ 3,2 Md€)",
+ "per26": 15.2,
+ "score": 6.5,
+ "these": "Conçoit et vend des pièces de rechange automobiles aux garages, un marché porté par le vieillissement du parc américain. Marge opérationnelle de 21,3 % au T2 2026 et prévision de BPA relevée, pour un titre en baisse d'environ 21 % sur un an.",
+ "lienGeo": "aucun",
+ "risque": "Pièces surtout fabriquées en Asie, donc exposées aux droits de douane ; BPA du T2 gonflé par un remboursement ponctuel ; croissance 2026 revue à 3 à 5 % ; risque de change.",
+ "yahoo": "DORM",
+ "source": "https://investors.dormanproducts.com/news-events/press-releases/detail/348/dorman-products-inc-reportssecond-quarter-2026-results-updates-2026-guidance",
+ "sources": [
+  "https://investors.dormanproducts.com/news-events/press-releases/detail/348/dorman-products-inc-reportssecond-quarter-2026-results-updates-2026-guidance"
+ ],
+ "notes": "PER 2026 calculé sur le milieu de la prévision de la société.",
+ "proposeLe": "2026-10-01"
+}

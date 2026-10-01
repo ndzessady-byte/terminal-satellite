@@ -1,0 +1,24 @@
+{
+ "ticker": "RMS",
+ "nom": "Ramelius Resources",
+ "pays": "AU",
+ "secteur": "Mines d'or",
+ "marche": "ASX Sydney",
+ "devise": "AUD",
+ "compte": "CTO",
+ "cours": 3.87,
+ "coursLe": "2026-09-25",
+ "capi": "environ 7,3 Md AUD (environ 4,5 Md€)",
+ "per26": 22.9,
+ "score": 6.5,
+ "these": "Mines d'or en Australie-Occidentale à coût complet bas (environ 2 000 AUD l'once), aucune dette et 650 M AUD de trésorerie et d'or. Objectif d'environ trois fois la production actuelle vers 2030.",
+ "lienGeo": "L'or sert de refuge face aux tensions géopolitiques, et Ramelius le produit à bas coût dans un pays stable.",
+ "risque": "Déjà valorisée cher avec un or proche de ses records ; rentabilité des capitaux propres faible depuis un rachat ; risque d'exécution sur l'agrandissement de Mt Magnet ; risque de change.",
+ "yahoo": "RMS.AX",
+ "source": "https://www.listcorp.com/asx/rms/ramelius-resources/news/june-2026-quarterly-report-3382347.html",
+ "sources": [
+  "https://www.listcorp.com/asx/rms/ramelius-resources/news/june-2026-quarterly-report-3382347.html"
+ ],
+ "notes": "PER sur le résultat sous-jacent de l'exercice 2026 ; sur le résultat publié, il dépasse 55. Cours du 25/09.",
+ "proposeLe": "2026-10-01"
+}
