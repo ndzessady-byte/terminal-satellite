@@ -1,0 +1,24 @@
+{
+ "ticker": "5805",
+ "nom": "SWCC",
+ "pays": "JP",
+ "secteur": "Câbles électriques et de communication",
+ "marche": "Tokyo Prime",
+ "devise": "JPY",
+ "compte": "CTO",
+ "cours": 2700,
+ "coursLe": "2026-09-30",
+ "capi": "environ 416 Md¥ (environ 2,3 Md€)",
+ "per26": 17.4,
+ "score": 7.5,
+ "these": "Fabrique des câbles haute tension et des produits de communication, portés par le renforcement des réseaux électriques et les data centers IA. Prévision annuelle relevée (bénéfice net +22 %) et dividende relevé, pour environ 17 fois les bénéfices après un recul d'environ 31 % depuis mai.",
+ "lienGeo": "Le Japon investit massivement dans son réseau électrique et ses data centers.",
+ "risque": "Sensible au prix du cuivre et aux chantiers ; yen faible ; le cours avait presque doublé en un an avant de corriger.",
+ "yahoo": "5805.T",
+ "source": "https://www.daiwair.co.jp/td_download.cgi?c=5805&i=3274037",
+ "sources": [
+  "https://www.daiwair.co.jp/td_download.cgi?c=5805&i=3274037"
+ ],
+ "notes": "Action divisée par 5 au 01/10/2026 : cours recalculé après division. Thème IA (infrastructure).",
+ "proposeLe": "2026-10-01"
+}

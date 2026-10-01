@@ -1,0 +1,24 @@
+{
+ "ticker": "9793",
+ "nom": "Daiseki",
+ "pays": "JP",
+ "secteur": "Recyclage de déchets industriels",
+ "marche": "Tokyo Prime",
+ "devise": "JPY",
+ "compte": "CTO",
+ "cours": 3535,
+ "coursLe": "2026-09-30",
+ "capi": "environ 167 Md¥ (environ 940 M€)",
+ "per26": 14.9,
+ "score": 6.5,
+ "these": "Collecte et recycle les déchets liquides et huiles des usines japonaises avec des sites autorisés difficiles à reproduire. Chiffre d'affaires record, marge opérationnelle d'environ 20 %, objectif de résultat net +22 % et trésorerie nette ; résultats semestriels le 05/10.",
+ "lienGeo": "aucun",
+ "risque": "Cours loin de son plus haut de 5 ans et tendance de court terme baissière ; dépend de la production industrielle japonaise ; yen.",
+ "yahoo": "9793.T",
+ "source": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260702/20260629582962.pdf",
+ "sources": [
+  "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260702/20260629582962.pdf"
+ ],
+ "notes": "PER sur le bénéfice guidé par la société.",
+ "proposeLe": "2026-10-01"
+}

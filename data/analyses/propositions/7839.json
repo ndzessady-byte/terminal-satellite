@@ -1,0 +1,24 @@
+{
+ "ticker": "7839",
+ "nom": "SHOEI",
+ "pays": "JP",
+ "secteur": "Casques moto haut de gamme",
+ "marche": "Tokyo Prime",
+ "devise": "JPY",
+ "compte": "CTO",
+ "cours": 2112,
+ "coursLe": "2026-09-30",
+ "capi": "environ 108 Md¥ (environ 610 M€)",
+ "per26": 18.1,
+ "score": 7,
+ "these": "Leader mondial du casque moto premium, sans dette avec 19,9 Md¥ de trésorerie et un ROE de 20 %. Sur 9 mois, le résultat opérationnel atteint déjà 88 % de l'objectif annuel, qui semble prudent.",
+ "lienGeo": "Ventes surtout en Europe et aux États-Unis depuis des usines japonaises : droits de douane et yen.",
+ "risque": "Petite capitalisation peu liquide, dépendante de la moto haut de gamme ; un yen fort réduirait les marges.",
+ "yahoo": "7839.T",
+ "source": "https://www.shoei.com/ir/docs/bd889f12048e070d4456723aa0a9b2ac9704247f.pdf",
+ "sources": [
+  "https://www.shoei.com/ir/docs/bd889f12048e070d4456723aa0a9b2ac9704247f.pdf"
+ ],
+ "notes": "Cours d'une seule source. PER sur le bénéfice guidé par la société.",
+ "proposeLe": "2026-10-01"
+}

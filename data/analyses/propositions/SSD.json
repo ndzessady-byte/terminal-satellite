@@ -1,0 +1,30 @@
+{
+ "ticker": "SSD",
+ "nom": "Simpson Manufacturing",
+ "pays": "US",
+ "secteur": "Industrie (produits de construction)",
+ "marche": "NYSE",
+ "devise": "USD",
+ "compte": "CTO",
+ "cours": 170.88,
+ "coursLe": "2026-09-30",
+ "capi": "7,0 Md USD (environ 6,2 Md EUR)",
+ "per26": null,
+ "score": 7,
+ "these": "Numéro un nord-américain des connecteurs métalliques et fixations pour charpentes bois (marque Strong-Tie), que les ingénieurs prescrivent et que les codes du bâtiment imposent. Malgré un marché du logement faible, la marge opérationnelle monte (19,6 % en 2025, 22,5 % au 1er semestre 2026, BPA S1 +20,6 %) avec une trésorerie nette, pour environ 19 fois les bénéfices 2026 attendus.",
+ "lienGeo": "Les droits de douane américains sur l'acier renchérissent sa matière première, mais la société les a jusqu'ici répercutés par des hausses de prix.",
+ "risque": "Très dépendante de la construction de logements neufs aux États-Unis et des taux d'intérêt ; cours sous sa moyenne 50 jours et risque de change euro/dollar.",
+ "yahoo": "SSD",
+ "source": "https://www.prnewswire.com/news-releases/simpson-manufacturing-co-inc-announces-2026-second-quarter-financial-results-and-updates-2026-guidance-302835215.html",
+ "sources": [
+  "https://www.prnewswire.com/news-releases/simpson-manufacturing-co-inc-announces-2026-second-quarter-financial-results-and-updates-2026-guidance-302835215.html",
+  "https://www.prnewswire.com/news-releases/simpson-manufacturing-co-inc-announces-2025-fourth-quarter-and-full-year-financial-results-provides-2026-outlook-302682948.html",
+  "https://www.stocktitan.net/sec-filings/SSD/10-q-simpson-manufacturing-co-inc-quarterly-earnings-report-a76a38264ee0.html",
+  "https://stockanalysis.com/stocks/ssd/",
+  "https://www.wallstreetzen.com/stocks/us/nyse/ssd",
+  "https://stockanalysis.com/stocks/ssd/forecast/",
+  "https://www.ecb.europa.eu/rss/fxref-usd.html"
+ ],
+ "notes": "PER 2026 d'environ 19 selon une seule source, non retenu.",
+ "proposeLe": "2026-10-01"
+}

@@ -1,0 +1,30 @@
+{
+ "ticker": "BOOT",
+ "nom": "Boot Barn Holdings",
+ "pays": "US",
+ "secteur": "Consommation (distribution spécialisée)",
+ "marche": "NYSE",
+ "devise": "USD",
+ "compte": "CTO",
+ "cours": 120.47,
+ "coursLe": "2026-09-30",
+ "capi": "3,7 Md USD (environ 3,2 Md EUR)",
+ "per26": 13.4,
+ "score": 6.5,
+ "these": "Chaîne américaine de magasins de bottes et vêtements western et de travail (566 magasins), qui ouvre environ 70 magasins par an. Ventes +17,9 % et BPA +25 % sur l'exercice clos en mars 2026, sans dette bancaire ; après une chute de plus de 35 % depuis janvier, l'action se paie environ 13 fois le bénéfice visé pour l'exercice en cours.",
+ "lienGeo": "Une grande partie des produits est importée, donc exposée aux droits de douane américains (la société a toutefois touché 14,7 M USD de remboursements de droits au 1er trimestre).",
+ "risque": "Le cours est en nette tendance baissière depuis un an (sous ses moyennes 50 et 200 jours, plus bas annuel) sur fond de ralentissement des ventes à magasins comparables et de mode western qui peut passer ; risque de change euro/dollar.",
+ "yahoo": "BOOT",
+ "source": "https://www.businesswire.com/news/home/20260729995496/en/Boot-Barn-Holdings-Inc.-Announces-First-Quarter-Fiscal-Year-2027-Financial-Results",
+ "sources": [
+  "https://www.businesswire.com/news/home/20260729995496/en/Boot-Barn-Holdings-Inc.-Announces-First-Quarter-Fiscal-Year-2027-Financial-Results",
+  "https://www.sec.gov/Archives/edgar/data/1610250/000110465926061169/boot-20260514xex99d1.htm",
+  "https://www.marketbeat.com/stocks/NYSE/BOOT/",
+  "https://markets.financialcontent.com/stocks/quote?Symbol=NY:BOOT",
+  "https://www.defenseworld.net/2026/09/30/boot-barn-nyseboot-stock-price-target-lowered-at-craig-hallum.html",
+  "https://www.ad-hoc-news.de/boerse/news/nebenwerte/boot-barn-holdings-stock-gets-a-q2-guidance-update/70178404",
+  "https://www.ecb.europa.eu/rss/fxref-usd.html"
+ ],
+ "notes": "PER sur la prévision de la société, qui inclut des remboursements de droits de douane ponctuels.",
+ "proposeLe": "2026-10-01"
+}

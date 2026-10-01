@@ -1,0 +1,24 @@
+{
+ "ticker": "6465",
+ "nom": "Hoshizaki",
+ "pays": "JP",
+ "secteur": "Machines à glace et froid pour la restauration",
+ "marche": "Tokyo Prime",
+ "devise": "JPY",
+ "compte": "CTO",
+ "cours": 5255,
+ "coursLe": "2026-09-30",
+ "capi": "environ 740 Md¥ (environ 4,2 Md€)",
+ "per26": 19.5,
+ "score": 6,
+ "these": "Machines à glace, réfrigérateurs et lave-vaisselle professionnels, avec un parc installé et de la maintenance. Énorme trésorerie (environ 194 Md¥ pour 6,4 Md¥ de dette) et résultat du S1 déjà à 58 % de l'objectif annuel.",
+ "lienGeo": "Beaucoup de ventes aux Amériques : droits de douane américains et yen.",
+ "risque": "ROE d'environ 10 % seulement à cause de la trésorerie dormante, valorisation pas bon marché, tendance de court terme baissière.",
+ "yahoo": "6465.T",
+ "source": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260213/20260213559747.pdf",
+ "sources": [
+  "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260213/20260213559747.pdf"
+ ],
+ "notes": "PER sur le bénéfice guidé par la société.",
+ "proposeLe": "2026-10-01"
+}

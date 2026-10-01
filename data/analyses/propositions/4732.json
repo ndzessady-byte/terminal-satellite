@@ -1,0 +1,24 @@
+{
+ "ticker": "4732",
+ "nom": "USS",
+ "pays": "JP",
+ "secteur": "Enchères de voitures d'occasion",
+ "marche": "Tokyo Prime",
+ "devise": "JPY",
+ "compte": "CTO",
+ "cours": 1794,
+ "coursLe": "2026-09-30",
+ "capi": "environ 833 Md¥ (environ 4,7 Md€)",
+ "per26": null,
+ "score": 7.5,
+ "these": "Numéro un japonais des enchères de voitures d'occasion entre professionnels : il encaisse des commissions avec une marge opérationnelle de 52,6 % et un ROE de 20 %. Prévisions relevées en août et dividende relevé pour la 27e année de suite, plus des rachats d'actions.",
+ "lienGeo": "Les prix dépendent en partie des acheteurs à l'export (Moyen-Orient, Afrique, Russie), soumis aux sanctions et droits de douane.",
+ "risque": "Croissance guidée modeste, tendance de court terme baissière, risque de change sur le yen.",
+ "yahoo": "4732.T",
+ "source": "https://finance.biggo.jp/news/jpx_tdnet_140120260512524281",
+ "sources": [
+  "https://finance.biggo.jp/news/jpx_tdnet_140120260512524281"
+ ],
+ "notes": "PER d'environ 20 calculé à partir du bénéfice guidé, non confirmé.",
+ "proposeLe": "2026-10-01"
+}

@@ -1,0 +1,24 @@
+{
+ "ticker": "3533",
+ "nom": "Lotes",
+ "pays": "TW",
+ "secteur": "Connecteurs et supports de processeurs pour serveurs",
+ "marche": "Bourse de Taïwan",
+ "devise": "TWD",
+ "compte": "CTO",
+ "cours": 1770,
+ "coursLe": "2026-09-30",
+ "capi": "environ 186 Md TWD (environ 5,2 Md€)",
+ "per26": null,
+ "score": 6.5,
+ "these": "Fabrique les supports de processeurs et connecteurs montés dans les serveurs, qui font 55 % des ventes (+71 % sur un an). Bénéfice par action du S1 2026 en hausse de 45 %, nouvelles plateformes Intel et AMD attendues ; le cours est environ 40 % sous son plus haut.",
+ "lienGeo": "Au cœur de la chaîne des serveurs IA ; tensions Chine-Taïwan et droits de douane américains directement en jeu.",
+ "risque": "Marge brute en baisse, augmentation de capital et convertibles prévues (dilution), risque géopolitique sur Taïwan et risque de change.",
+ "yahoo": "3533.TW",
+ "source": "https://blog.fugle.tw/post/earnings-call-3533-2026-08-13",
+ "sources": [
+  "https://blog.fugle.tw/post/earnings-call-3533-2026-08-13"
+ ],
+ "notes": "Source primaire (MOPS) non lue, cours d'une seule source, PER non confirmé (environ 23 en annualisant le S1). Thème IA.",
+ "proposeLe": "2026-10-01"
+}

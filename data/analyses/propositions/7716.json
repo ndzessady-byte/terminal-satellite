@@ -1,0 +1,24 @@
+{
+ "ticker": "7716",
+ "nom": "Nakanishi (NSK)",
+ "pays": "JP",
+ "secteur": "Santé : instruments dentaires et chirurgicaux",
+ "marche": "Tokyo Standard",
+ "devise": "JPY",
+ "compte": "CTO",
+ "cours": 1481,
+ "coursLe": "2026-10-01",
+ "capi": "environ 246 Md¥ (environ 1,4 Md€)",
+ "per26": null,
+ "score": 7,
+ "these": "Fabrique sous la marque NSK les turbines et instruments qu'utilisent les dentistes et chirurgiens du monde entier. Ventes +20,5 % et résultat opérationnel +32 % au S1 2026, objectif relevé, plus de trésorerie que de dettes.",
+ "lienGeo": "Ventes surtout hors du Japon : exposée aux droits de douane américains et au yen.",
+ "risque": "Dépréciation de 13,8 Md¥ en 2025 sur une acquisition (résultat net négatif), risque de change ; action divisée par deux le 29/09.",
+ "yahoo": "7716.T",
+ "source": "https://www.nakanishi-inc.jp/app/wp-content/uploads/2026/02/FY2025Q4_FR.pdf",
+ "sources": [
+  "https://www.nakanishi-inc.jp/app/wp-content/uploads/2026/02/FY2025Q4_FR.pdf"
+ ],
+ "notes": "PER 2026 d'environ 18 selon une seule source, non retenu.",
+ "proposeLe": "2026-10-01"
+}

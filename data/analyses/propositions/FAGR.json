@@ -1,0 +1,24 @@
+{
+ "ticker": "FAGR",
+ "nom": "Fagron",
+ "pays": "BE",
+ "secteur": "Santé : fournisseur des pharmacies pour préparations sur mesure",
+ "marche": "Euronext Bruxelles",
+ "devise": "EUR",
+ "compte": "PEA",
+ "cours": 23.25,
+ "coursLe": "2026-09-30",
+ "capi": "environ 1,7 Md€",
+ "per26": null,
+ "score": 6,
+ "these": "Fournit aux pharmaciens les ingrédients et le matériel pour fabriquer des médicaments sur mesure. Ventes de 952 M€ en 2025 (+9,2 %), marge d'EBITDA de 20 %, ventes +16 % au S1 2026 grâce aux acquisitions.",
+ "lienGeo": "aucun",
+ "risque": "Dette nette montée à 2,1 fois l'EBITDA après les rachats, croissance interne de seulement 3,1 % et lettre d'avertissement de la FDA en mai 2026.",
+ "yahoo": "FAGR.BR",
+ "source": "https://investors.fagron.com/press-releases/regulated-information-fagron-delivers-strong-h1-2026-performance-with-16-topline-growth-and-reiterates-fy-2026-guidance/",
+ "sources": [
+  "https://investors.fagron.com/press-releases/regulated-information-fagron-delivers-strong-h1-2026-performance-with-16-topline-growth-and-reiterates-fy-2026-guidance/"
+ ],
+ "notes": "PER 2026 non confirmé (environ 16 calculé sur un consensus d'une seule source).",
+ "proposeLe": "2026-10-01"
+}

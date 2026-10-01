@@ -1,0 +1,30 @@
+{
+ "ticker": "QLYS",
+ "nom": "Qualys",
+ "pays": "US",
+ "secteur": "Logiciel (cybersécurité)",
+ "marche": "Nasdaq",
+ "devise": "USD",
+ "compte": "CTO",
+ "cours": 187.2,
+ "coursLe": "2026-09-30",
+ "capi": "6,5 Md USD (environ 5,7 Md EUR)",
+ "per26": 24.0,
+ "score": 6.5,
+ "these": "Logiciel par abonnement qui repère et priorise les failles de sécurité sur les ordinateurs, serveurs et cloud des entreprises. Modèle très rentable (marge opérationnelle GAAP de 34 % au 2e trimestre 2026, Ebitda ajusté 46 %), sans dette avec environ 700 M USD de trésorerie et placements, croissance relevée à 9 à 10 % en 2026 et rachats d'actions réguliers.",
+ "lienGeo": "La multiplication des cyberattaques liées à des États soutient la demande de gestion des vulnérabilités.",
+ "risque": "Les outils d'IA capables de trouver des failles peuvent concurrencer son métier et rendent le cours très volatil (plus de 100 % en six mois, séances à plus ou moins 15 %) ; risque de change euro/dollar.",
+ "yahoo": "QLYS",
+ "source": "https://www.sec.gov/Archives/edgar/data/1107843/000110784326000034/qlys-20260804xex991.htm",
+ "sources": [
+  "https://www.sec.gov/Archives/edgar/data/1107843/000110784326000034/qlys-20260804xex991.htm",
+  "https://www.prnewswire.com/news-releases/qualys-announces-fourth-quarter-and-full-year-2025-financial-results-302680676.html",
+  "https://www.stocktitan.net/sec-filings/QLYS/10-q-qualys-inc-quarterly-earnings-report-8b5d42f2b943.html",
+  "https://stockanalysis.com/stocks/qlys/",
+  "https://markets.financialcontent.com/stocks/quote?Symbol=NQ%3AQLYS",
+  "https://stockstotrade.com/news/qualys-inc-qlys-news-2026_09_14/",
+  "https://www.ecb.europa.eu/rss/fxref-usd.html"
+ ],
+ "notes": "PER calculé sur le bénéfice ajusté visé ; sur le bénéfice comptable, environ 32.",
+ "proposeLe": "2026-10-01"
+}

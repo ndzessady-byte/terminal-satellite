@@ -1,0 +1,24 @@
+{
+ "ticker": "NKT",
+ "nom": "NKT",
+ "pays": "DK",
+ "secteur": "Câbles haute tension",
+ "marche": "Nasdaq Copenhague",
+ "devise": "DKK",
+ "compte": "PEA",
+ "cours": 880.5,
+ "coursLe": "2026-09-30",
+ "capi": "environ 47 Md DKK (environ 6,3 Md€)",
+ "per26": null,
+ "score": 6.5,
+ "these": "Un des rares fabricants européens de câbles haute tension pour les réseaux électriques, dont la demande monte avec l'électrification et les data centers. Carnet de 13 Md€, marge d'EBITDA de 15,8 % au S1 et 591 M€ de trésorerie nette.",
+ "lienGeo": "Sécurité énergétique européenne et interconnexions entre pays.",
+ "risque": "Lien avec l'IA indirect, grands projets sous-marins risqués, cours sous ses moyennes 50 et 200 jours.",
+ "yahoo": "NKT.CO",
+ "source": "https://investors.nkt.com/company-announcements/2026/nkt-as-h1-2026-interim-report-solid-financial-and-operational-execution/",
+ "sources": [
+  "https://investors.nkt.com/company-announcements/2026/nkt-as-h1-2026-interim-report-solid-financial-and-operational-execution/"
+ ],
+ "notes": "PER 2026 non confirmé (environ 26 selon une seule source, PER passé d'environ 25). Couronne arrimée à l'euro.",
+ "proposeLe": "2026-10-01"
+}

@@ -1,0 +1,24 @@
+{
+ "ticker": "MEDI",
+ "nom": "Medistim",
+ "pays": "NO",
+ "secteur": "Santé : contrôle du flux sanguin en chirurgie cardiaque",
+ "marche": "Oslo Børs",
+ "devise": "NOK",
+ "compte": "PEA",
+ "cours": 253,
+ "coursLe": "2026-09-30",
+ "capi": "environ 4,6 Md NOK (environ 425 M€)",
+ "per26": null,
+ "score": 7,
+ "these": "Vend les sondes qui permettent de vérifier pendant un pontage cardiaque que le sang passe bien, un contrôle qui devient la norme. Ventes +24 % en 2025 et +19,5 % au T2 2026, marge opérationnelle record de 32 %, aucune dette bancaire.",
+ "lienGeo": "La moitié des ventes est aux Amériques : exposée à d'éventuels droits de douane américains.",
+ "risque": "Très petite société dépendante d'une seule niche et du marché américain ; double risque de change (couronne et dollar).",
+ "yahoo": "MEDI.OL",
+ "source": "https://www.medistim.com/investor-news/results-for-the-second-quarter-first-half-2026",
+ "sources": [
+  "https://www.medistim.com/investor-news/results-for-the-second-quarter-first-half-2026"
+ ],
+ "notes": "PER 2026 d'environ 25 selon le consensus d'une seule source, non retenu.",
+ "proposeLe": "2026-10-01"
+}
