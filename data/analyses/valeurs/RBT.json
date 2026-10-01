@@ -94,11 +94,11 @@
   "tech": {
    "bas52": 727.0,
    "cours": 744.0,
-   "coursLe": "2026-09-30",
+   "coursLe": "2026-10-01",
    "haut52": 910.0,
-   "lecture": "Cours de 744,00 en dessous de sa moyenne 50 jours (784,18) et en dessous de sa moyenne 200 jours (820,57). RSI 39,2 : élan neutre. Il se situe à 9 % de sa fourchette sur un an (de 727,00 à 910,00), performance sur 12 mois de -6,9 %. Clôture du 30/09/2026.",
-   "mm200": 820.57,
-   "mm50": 784.18,
+   "lecture": "Cours de 744,00 en dessous de sa moyenne 50 jours (783,16) et en dessous de sa moyenne 200 jours (819,86). RSI 39,2 : élan neutre. Il se situe à 9 % de sa fourchette sur un an (de 727,00 à 910,00), performance sur 12 mois de -7,3 %. Clôture du 01/10/2026.",
+   "mm200": 819.86,
+   "mm50": 783.16,
    "resistance": 775,
    "rsi14": 39.2,
    "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json",
@@ -124,7 +124,7 @@
  },
  "capi": "1,64 Md€",
  "cours": 744.0,
- "coursLe": "2026-09-30",
+ "coursLe": "2026-10-01",
  "devise": "€",
  "faits": [
   {
@@ -141,10 +141,6 @@
   }
  ],
  "histo": [
-  [
-   "24/09",
-   795.0
-  ],
   [
    "25/09",
    793.0
@@ -1180,6 +1176,10 @@
   [
    "30/09",
    744.0
+  ],
+  [
+   "01/10",
+   744.0
   ]
  ],
  "nom": "Robertet",
@@ -1188,9 +1188,9 @@
  "per26": 16.6,
  "per27": 14.9,
  "perf": {
-  "m1": -4.2,
-  "m3": -9.3,
-  "m12": -6.9
+  "m1": -5.3,
+  "m3": -7.2,
+  "m12": -7.3
  },
  "pub": "2027-02-11",
  "pubLabel": "Résultats annuels",

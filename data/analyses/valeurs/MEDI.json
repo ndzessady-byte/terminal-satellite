@@ -1,0 +1,1425 @@
+{
+ "ticker": "MEDI",
+ "nom": "Medistim",
+ "pays": "NO",
+ "secteur": "Santé : contrôle du flux sanguin en chirurgie cardiaque",
+ "cours": 253.0,
+ "coursLe": "2026-10-01",
+ "devise": "NOK",
+ "capi": "environ 4,6 Md NOK (18,3 millions d'actions)",
+ "per26": null,
+ "per27": null,
+ "statut": "intacte",
+ "these": "Medistim vend les sondes qui vérifient, pendant un pontage cardiaque, que le sang passe bien dans le nouveau vaisseau ; ce contrôle devient la norme et les États-Unis restent très peu équipés. Ventes +24,4 % en 2025 et +19,5 % au T2 2026, marge opérationnelle record de 32,3 %, aucune dette bancaire.",
+ "risque": "Très petite société concentrée sur une seule niche (les pontages) et dépendante du marché américain ; double risque de change (couronne et dollar), droits de douane possibles, valorisation déjà élevée (environ 29 fois le bénéfice 2025).",
+ "faits": [
+  {
+   "d": "14/09",
+   "t": "Convocation d'une assemblée générale extraordinaire le 05/10/2026 (ordre du jour non détaillé dans le communiqué)."
+  },
+  {
+   "d": "21/08",
+   "t": "T2 2026 : ventes record de 202,0 M NOK (+19,5 %, +33,6 % à change constant pour les produits maison), résultat opérationnel 65,3 M NOK (+20,6 %), marge de 32,3 %."
+  },
+  {
+   "d": "21/08",
+   "t": "Amériques +46,3 % à change constant au T2 ; premier trimestre de vente directe au Japon."
+  },
+  {
+   "d": "07/05",
+   "t": "T1 2026 : ventes trimestrielles au-dessus de 200 M NOK pour la première fois ; dividende de 8 NOK par action versé en mai."
+  }
+ ],
+ "pub": null,
+ "pubLabel": "Résultats du T3 2026, attendus fin octobre (date non confirmée)",
+ "src": "https://www.medistim.com/investor-news/results-for-the-second-quarter-first-half-2026",
+ "notes": "Cours de clôture du 01/10/2026 (flux de cours). PER sur le bénéfice 2025 publié (8,71 NOK) : environ 29. Le PER 2026 d'environ 24 à 25 ne repose que sur un consensus agrégé de 2 analystes, non retenu. Société norvégienne (Espace économique européen) : éligible au PEA.",
+ "yahoo": "MEDI.OL",
+ "compte": "PEA",
+ "histo": [
+  [
+   "18/09",
+   250.0
+  ],
+  [
+   "19/09",
+   250.0
+  ],
+  [
+   "22/09",
+   249.0
+  ],
+  [
+   "23/09",
+   231.0
+  ],
+  [
+   "24/09",
+   233.0
+  ],
+  [
+   "25/09",
+   231.0
+  ],
+  [
+   "26/09",
+   228.0
+  ],
+  [
+   "29/09",
+   228.0
+  ],
+  [
+   "30/09",
+   228.0
+  ],
+  [
+   "01/10",
+   225.0
+  ],
+  [
+   "02/10",
+   234.0
+  ],
+  [
+   "03/10",
+   237.0
+  ],
+  [
+   "06/10",
+   240.0
+  ],
+  [
+   "07/10",
+   245.0
+  ],
+  [
+   "08/10",
+   241.0
+  ],
+  [
+   "09/10",
+   240.0
+  ],
+  [
+   "10/10",
+   239.0
+  ],
+  [
+   "13/10",
+   231.0
+  ],
+  [
+   "14/10",
+   231.0
+  ],
+  [
+   "15/10",
+   229.0
+  ],
+  [
+   "16/10",
+   225.0
+  ],
+  [
+   "17/10",
+   223.0
+  ],
+  [
+   "20/10",
+   238.0
+  ],
+  [
+   "21/10",
+   240.0
+  ],
+  [
+   "22/10",
+   241.0
+  ],
+  [
+   "23/10",
+   252.0
+  ],
+  [
+   "24/10",
+   260.0
+  ],
+  [
+   "27/10",
+   273.0
+  ],
+  [
+   "28/10",
+   284.0
+  ],
+  [
+   "29/10",
+   278.0
+  ],
+  [
+   "30/10",
+   265.0
+  ],
+  [
+   "31/10",
+   273.0
+  ],
+  [
+   "03/11",
+   269.0
+  ],
+  [
+   "04/11",
+   269.0
+  ],
+  [
+   "05/11",
+   259.0
+  ],
+  [
+   "06/11",
+   250.0
+  ],
+  [
+   "07/11",
+   242.0
+  ],
+  [
+   "10/11",
+   253.0
+  ],
+  [
+   "11/11",
+   257.0
+  ],
+  [
+   "12/11",
+   248.0
+  ],
+  [
+   "13/11",
+   248.0
+  ],
+  [
+   "14/11",
+   236.0
+  ],
+  [
+   "17/11",
+   238.0
+  ],
+  [
+   "18/11",
+   252.0
+  ],
+  [
+   "19/11",
+   245.0
+  ],
+  [
+   "20/11",
+   249.0
+  ],
+  [
+   "21/11",
+   249.0
+  ],
+  [
+   "24/11",
+   246.0
+  ],
+  [
+   "25/11",
+   245.0
+  ],
+  [
+   "26/11",
+   245.0
+  ],
+  [
+   "27/11",
+   240.0
+  ],
+  [
+   "28/11",
+   251.0
+  ],
+  [
+   "01/12",
+   259.0
+  ],
+  [
+   "02/12",
+   257.0
+  ],
+  [
+   "03/12",
+   251.0
+  ],
+  [
+   "04/12",
+   255.0
+  ],
+  [
+   "05/12",
+   248.0
+  ],
+  [
+   "08/12",
+   250.0
+  ],
+  [
+   "09/12",
+   241.0
+  ],
+  [
+   "10/12",
+   249.0
+  ],
+  [
+   "11/12",
+   261.0
+  ],
+  [
+   "12/12",
+   253.0
+  ],
+  [
+   "15/12",
+   252.0
+  ],
+  [
+   "16/12",
+   246.0
+  ],
+  [
+   "17/12",
+   248.0
+  ],
+  [
+   "18/12",
+   254.0
+  ],
+  [
+   "19/12",
+   261.0
+  ],
+  [
+   "22/12",
+   263.0
+  ],
+  [
+   "23/12",
+   260.0
+  ],
+  [
+   "29/12",
+   254.0
+  ],
+  [
+   "30/12",
+   259.0
+  ],
+  [
+   "02/01",
+   261.0
+  ],
+  [
+   "05/01",
+   256.0
+  ],
+  [
+   "06/01",
+   260.0
+  ],
+  [
+   "07/01",
+   263.0
+  ],
+  [
+   "08/01",
+   266.0
+  ],
+  [
+   "09/01",
+   259.0
+  ],
+  [
+   "12/01",
+   249.0
+  ],
+  [
+   "13/01",
+   249.0
+  ],
+  [
+   "14/01",
+   241.0
+  ],
+  [
+   "15/01",
+   242.0
+  ],
+  [
+   "16/01",
+   238.0
+  ],
+  [
+   "19/01",
+   230.0
+  ],
+  [
+   "20/01",
+   232.0
+  ],
+  [
+   "21/01",
+   247.0
+  ],
+  [
+   "22/01",
+   249.0
+  ],
+  [
+   "23/01",
+   249.0
+  ],
+  [
+   "26/01",
+   244.0
+  ],
+  [
+   "27/01",
+   236.0
+  ],
+  [
+   "28/01",
+   229.0
+  ],
+  [
+   "29/01",
+   227.0
+  ],
+  [
+   "30/01",
+   223.0
+  ],
+  [
+   "02/02",
+   221.0
+  ],
+  [
+   "03/02",
+   222.0
+  ],
+  [
+   "04/02",
+   223.0
+  ],
+  [
+   "05/02",
+   217.0
+  ],
+  [
+   "06/02",
+   214.0
+  ],
+  [
+   "09/02",
+   224.0
+  ],
+  [
+   "10/02",
+   217.0
+  ],
+  [
+   "11/02",
+   215.0
+  ],
+  [
+   "12/02",
+   202.0
+  ],
+  [
+   "13/02",
+   193.0
+  ],
+  [
+   "16/02",
+   192.0
+  ],
+  [
+   "17/02",
+   188.0
+  ],
+  [
+   "18/02",
+   199.0
+  ],
+  [
+   "19/02",
+   205.0
+  ],
+  [
+   "20/02",
+   209.0
+  ],
+  [
+   "23/02",
+   214.0
+  ],
+  [
+   "24/02",
+   213.0
+  ],
+  [
+   "25/02",
+   216.0
+  ],
+  [
+   "26/02",
+   214.0
+  ],
+  [
+   "27/02",
+   228.0
+  ],
+  [
+   "02/03",
+   221.0
+  ],
+  [
+   "03/03",
+   216.0
+  ],
+  [
+   "04/03",
+   220.0
+  ],
+  [
+   "05/03",
+   222.0
+  ],
+  [
+   "06/03",
+   216.0
+  ],
+  [
+   "09/03",
+   212.0
+  ],
+  [
+   "10/03",
+   213.0
+  ],
+  [
+   "11/03",
+   212.0
+  ],
+  [
+   "12/03",
+   203.0
+  ],
+  [
+   "13/03",
+   206.0
+  ],
+  [
+   "16/03",
+   210.0
+  ],
+  [
+   "17/03",
+   207.0
+  ],
+  [
+   "18/03",
+   209.0
+  ],
+  [
+   "19/03",
+   208.0
+  ],
+  [
+   "20/03",
+   215.0
+  ],
+  [
+   "23/03",
+   212.0
+  ],
+  [
+   "24/03",
+   209.0
+  ],
+  [
+   "25/03",
+   208.0
+  ],
+  [
+   "26/03",
+   209.0
+  ],
+  [
+   "27/03",
+   208.0
+  ],
+  [
+   "30/03",
+   208.0
+  ],
+  [
+   "31/03",
+   211.0
+  ],
+  [
+   "01/04",
+   214.0
+  ],
+  [
+   "07/04",
+   212.0
+  ],
+  [
+   "08/04",
+   220.0
+  ],
+  [
+   "09/04",
+   229.0
+  ],
+  [
+   "10/04",
+   232.0
+  ],
+  [
+   "13/04",
+   231.0
+  ],
+  [
+   "14/04",
+   234.0
+  ],
+  [
+   "15/04",
+   232.0
+  ],
+  [
+   "16/04",
+   234.0
+  ],
+  [
+   "17/04",
+   233.0
+  ],
+  [
+   "20/04",
+   236.0
+  ],
+  [
+   "21/04",
+   237.0
+  ],
+  [
+   "22/04",
+   231.0
+  ],
+  [
+   "23/04",
+   230.0
+  ],
+  [
+   "24/04",
+   225.0
+  ],
+  [
+   "27/04",
+   233.0
+  ],
+  [
+   "28/04",
+   230.0
+  ],
+  [
+   "29/04",
+   228.0
+  ],
+  [
+   "30/04",
+   225.0
+  ],
+  [
+   "04/05",
+   229.0
+  ],
+  [
+   "05/05",
+   225.0
+  ],
+  [
+   "06/05",
+   228.0
+  ],
+  [
+   "07/05",
+   228.0
+  ],
+  [
+   "08/05",
+   226.0
+  ],
+  [
+   "11/05",
+   225.0
+  ],
+  [
+   "12/05",
+   236.0
+  ],
+  [
+   "13/05",
+   235.0
+  ],
+  [
+   "15/05",
+   231.0
+  ],
+  [
+   "18/05",
+   228.0
+  ],
+  [
+   "19/05",
+   226.0
+  ],
+  [
+   "20/05",
+   224.0
+  ],
+  [
+   "21/05",
+   224.0
+  ],
+  [
+   "22/05",
+   224.0
+  ],
+  [
+   "26/05",
+   241.0
+  ],
+  [
+   "27/05",
+   240.0
+  ],
+  [
+   "28/05",
+   237.0
+  ],
+  [
+   "29/05",
+   228.0
+  ],
+  [
+   "01/06",
+   224.0
+  ],
+  [
+   "02/06",
+   225.0
+  ],
+  [
+   "03/06",
+   224.0
+  ],
+  [
+   "04/06",
+   230.0
+  ],
+  [
+   "05/06",
+   232.0
+  ],
+  [
+   "08/06",
+   227.0
+  ],
+  [
+   "09/06",
+   231.0
+  ],
+  [
+   "10/06",
+   228.0
+  ],
+  [
+   "11/06",
+   227.0
+  ],
+  [
+   "12/06",
+   227.0
+  ],
+  [
+   "15/06",
+   229.0
+  ],
+  [
+   "16/06",
+   233.0
+  ],
+  [
+   "17/06",
+   228.0
+  ],
+  [
+   "18/06",
+   227.0
+  ],
+  [
+   "19/06",
+   223.0
+  ],
+  [
+   "22/06",
+   232.0
+  ],
+  [
+   "23/06",
+   235.0
+  ],
+  [
+   "24/06",
+   229.0
+  ],
+  [
+   "25/06",
+   230.0
+  ],
+  [
+   "26/06",
+   231.0
+  ],
+  [
+   "29/06",
+   230.0
+  ],
+  [
+   "30/06",
+   229.0
+  ],
+  [
+   "01/07",
+   229.0
+  ],
+  [
+   "02/07",
+   230.0
+  ],
+  [
+   "03/07",
+   228.0
+  ],
+  [
+   "06/07",
+   234.0
+  ],
+  [
+   "07/07",
+   234.0
+  ],
+  [
+   "08/07",
+   228.0
+  ],
+  [
+   "09/07",
+   227.0
+  ],
+  [
+   "10/07",
+   227.0
+  ],
+  [
+   "13/07",
+   227.0
+  ],
+  [
+   "14/07",
+   228.0
+  ],
+  [
+   "15/07",
+   234.0
+  ],
+  [
+   "16/07",
+   230.0
+  ],
+  [
+   "17/07",
+   227.0
+  ],
+  [
+   "20/07",
+   226.0
+  ],
+  [
+   "21/07",
+   223.0
+  ],
+  [
+   "22/07",
+   225.0
+  ],
+  [
+   "23/07",
+   225.0
+  ],
+  [
+   "24/07",
+   223.0
+  ],
+  [
+   "27/07",
+   226.0
+  ],
+  [
+   "28/07",
+   226.0
+  ],
+  [
+   "29/07",
+   226.0
+  ],
+  [
+   "30/07",
+   226.0
+  ],
+  [
+   "31/07",
+   226.0
+  ],
+  [
+   "03/08",
+   226.0
+  ],
+  [
+   "04/08",
+   229.0
+  ],
+  [
+   "05/08",
+   228.0
+  ],
+  [
+   "06/08",
+   225.0
+  ],
+  [
+   "07/08",
+   228.0
+  ],
+  [
+   "10/08",
+   226.0
+  ],
+  [
+   "11/08",
+   231.0
+  ],
+  [
+   "12/08",
+   228.0
+  ],
+  [
+   "13/08",
+   227.0
+  ],
+  [
+   "14/08",
+   239.0
+  ],
+  [
+   "17/08",
+   236.0
+  ],
+  [
+   "18/08",
+   237.0
+  ],
+  [
+   "19/08",
+   236.0
+  ],
+  [
+   "20/08",
+   233.0
+  ],
+  [
+   "21/08",
+   246.0
+  ],
+  [
+   "24/08",
+   256.0
+  ],
+  [
+   "25/08",
+   263.0
+  ],
+  [
+   "26/08",
+   262.0
+  ],
+  [
+   "27/08",
+   260.0
+  ],
+  [
+   "28/08",
+   258.0
+  ],
+  [
+   "31/08",
+   256.0
+  ],
+  [
+   "01/09",
+   252.0
+  ],
+  [
+   "02/09",
+   251.0
+  ],
+  [
+   "03/09",
+   251.0
+  ],
+  [
+   "04/09",
+   250.0
+  ],
+  [
+   "07/09",
+   249.0
+  ],
+  [
+   "08/09",
+   248.0
+  ],
+  [
+   "09/09",
+   249.0
+  ],
+  [
+   "10/09",
+   246.0
+  ],
+  [
+   "11/09",
+   246.0
+  ],
+  [
+   "14/09",
+   246.0
+  ],
+  [
+   "15/09",
+   240.0
+  ],
+  [
+   "16/09",
+   244.0
+  ],
+  [
+   "17/09",
+   246.0
+  ],
+  [
+   "18/09",
+   248.0
+  ],
+  [
+   "21/09",
+   249.0
+  ],
+  [
+   "22/09",
+   251.0
+  ],
+  [
+   "23/09",
+   245.0
+  ],
+  [
+   "24/09",
+   249.0
+  ],
+  [
+   "25/09",
+   246.0
+  ],
+  [
+   "28/09",
+   251.0
+  ],
+  [
+   "29/09",
+   252.0
+  ],
+  [
+   "30/09",
+   253.0
+  ],
+  [
+   "01/10",
+   253.0
+  ]
+ ],
+ "perf": {
+  "m1": 0.8,
+  "m3": 8.1,
+  "m12": 11.0
+ },
+ "analyse": {
+  "majLe": "2026-10-01",
+  "verdict": "Medistim est une très belle petite entreprise : quasi seule sur sa niche, sans dette, avec une marge opérationnelle qui dépasse 30 % et une croissance de plus de 20 % portée par les États-Unis et l'imagerie. Le potentiel reste grand car seulement 40 % des pontages américains utilisent sa technologie. En contrepartie, l'action se paie environ 29 fois le bénéfice 2025 et la société dépend d'une seule application et d'un essai clinique (SmartFlow) dont l'issue n'est pas connue.",
+  "conviction": "moyenne",
+  "revisions": "Non confirmées : seuls 2 analystes suivent la valeur (objectif moyen de 332,50 NOK selon un agrégateur). Les publications récentes ont dépassé le rythme de 2025 en marge (32,3 % au T2 contre 28,0 % sur 2025), ce qui plaide pour des estimations orientées à la hausse, sans chiffre vérifiable.",
+  "fonda": {
+   "score": 8,
+   "justif": "Qualité exceptionnelle (marge, absence de dette, position dominante, dividende généreux) et forte croissance, mais valorisation exigeante et risque de concentration élevé.",
+   "qualite": "Marge opérationnelle de 25,2 % (2023), 23,3 % (2024), 28,0 % (2025), 30,3 % au premier semestre 2026 et 32,3 % au T2. Rentabilité des fonds propres très élevée (dividendes versés proches du bénéfice, sans dette). L'avantage concurrentiel (Buffett) est net : environ 40 % des pontages dans le monde utilisent la mesure Medistim, et sur le marché déjà équipé Medistim détient environ 89 % des parts face à un seul concurrent direct. Les recommandations européennes (ESC, EACTS) et britanniques (NICE) préconisent déjà la mesure en routine.",
+   "croissance": "Ventes : 521,1 M NOK (2023), 562,6 M NOK (2024, +8 %), 699,8 M NOK (2025, +24,4 %), 403,7 M NOK au premier semestre 2026 (+15,1 %). Bénéfice par action : 5,67 NOK (2023 et 2024), 8,71 NOK (2025). En 2025, l'imagerie a progressé de 47,4 % et les procédures vendues aux États-Unis de 44,6 %. Au sens de Lynch : croissance rapide (fast grower) sur une niche.",
+   "bilan": "Excellent au sens de Graham : aucune dette bancaire, trésorerie de 212,1 M NOK fin 2025 (179,2 M NOK fin 2024), ratio de fonds propres de 70,9 %. Dividende de 8 NOK par action (146 M NOK) payé en mai 2026, soit plus de 90 % du bénéfice 2025.",
+   "valo": "PER d'environ 29 sur le bénéfice 2025 publié (8,71 NOK) ; environ 28 sur le bénéfice des 12 derniers mois selon un agrégateur (9,04 NOK). Rendement du dividende d'environ 3,2 %. Valeur d'entreprise d'environ 4,4 Md NOK pour 196 M NOK de résultat opérationnel 2025, soit environ 22 fois. C'est cher en absolu mais cohérent avec une croissance au-dessus de 15 % et un bilan sans dette.",
+   "peg": null,
+   "piotroski": null,
+   "greenblatt": "Rendement bénéficiaire (résultat opérationnel 2025 de 196,2 M NOK sur une valeur d'entreprise d'environ 4,4 Md NOK) proche de 4,5 % : faible, l'action est chère sur ce critère ; le rendement du capital est en revanche très élevé (non calculé précisément)."
+  },
+  "tech": {
+   "cours": 253.0,
+   "coursLe": "2026-10-01",
+   "mm50": 241.96,
+   "mm200": 231.67,
+   "rsi14": 58.6,
+   "haut52": 284.0,
+   "bas52": 188.0,
+   "support": 240,
+   "resistance": 263,
+   "tendance": "haussiere",
+   "stade": 2,
+   "lecture": "Cours de 253,00 au-dessus de sa moyenne 50 jours (241,96) et au-dessus de sa moyenne 200 jours (231,67). RSI 58,6 : élan neutre. Il se situe à 68 % de sa fourchette sur un an (de 188,00 à 284,00), performance sur 12 mois de 11,0 %. Clôture du 01/10/2026.",
+   "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json"
+  },
+  "actu": [
+   {
+    "d": "21/08",
+    "fait": "T2 2026 : ventes record de 202,0 M NOK (+19,5 %, +33,6 % à change constant pour les produits maison) et résultat opérationnel record de 65,3 M NOK (marge 32,3 %).",
+    "impact": "positif",
+    "horizon": "moyen",
+    "lecture": "La croissance à change constant accélère nettement ; la faiblesse du dollar contre la couronne masque une partie de la performance."
+   },
+   {
+    "d": "21/08",
+    "fait": "Amériques +46,3 % à change constant au T2.",
+    "impact": "positif",
+    "horizon": "long",
+    "lecture": "C'est le cœur de la thèse : l'adoption américaine progresse vite, avec encore environ 60 % des pontages non équipés."
+   },
+   {
+    "d": "03/02",
+    "fait": "Ouverture d'une filiale de vente directe au Japon, active depuis le 16/03/2026.",
+    "impact": "positif",
+    "horizon": "moyen",
+    "lecture": "Le Japon est déjà équipé à plus de 90 % : vendre en direct plutôt que via un distributeur doit améliorer la marge sur ce marché."
+   },
+   {
+    "d": "14/09",
+    "fait": "Convocation d'une assemblée générale extraordinaire le 05/10/2026.",
+    "impact": "neutre",
+    "horizon": "court",
+    "lecture": "Objet non détaillé dans le communiqué consulté (changement au conseil, dividende ou rachat d'actions possibles) : à lire après l'assemblée."
+   }
+  ],
+  "scenarios": [
+   {
+    "horizon": "12 mois",
+    "unite": "NOK",
+    "bas": 195,
+    "central": 285,
+    "haut": 335,
+    "hypotheses": "Central : bénéfice par action d'environ 11,5 NOK en 2027 (hypothèse +15 %/an depuis environ 10 NOK en 2026, sans consensus vérifiable) valorisé environ 25 fois. Bas : ralentissement aux États-Unis ou droits de douane, PER vers 19 à 20 sur environ 10 NOK. Haut : objectif moyen des 2 analystes (332,50 NOK)."
+   },
+   {
+    "horizon": "5 ans",
+    "unite": "%/an",
+    "bas": -1,
+    "central": 11,
+    "haut": 18,
+    "hypotheses": "Central : bénéfice +13 %/an et dividende 3 %, PER qui baisse de 29 vers 23 (environ -4,5 %/an) = environ 11 %/an. Bas : croissance de 5 %/an et PER vers 17 (environ -10 %/an), dividende 3 % = environ -1 %/an. Haut : SmartFlow positif, bénéfice +18 %/an, PER vers 26 et dividende 3 % = environ 18 %/an. Résultat en euros soumis au change de la couronne."
+   }
+  ],
+  "zones": {
+   "interet": "220 à 240 NOK : zone de soutien proche des moyennes de long terme, soit environ 22 à 24 fois le bénéfice des 12 derniers mois.",
+   "invalidation": "Croissance des Amériques à change constant qui retombe sous 10 % deux trimestres de suite, ou résultat négatif de l'essai SmartFlow.",
+   "sortie": [
+    "Marge opérationnelle annuelle qui retombe sous 22 %",
+    "Arrivée d'un grand groupe concurrent sur la mesure de débit",
+    "PER au-dessus de 40 sans accélération de la croissance"
+   ],
+   "catalyseurs": [
+    "05/10/2026 : assemblée générale extraordinaire",
+    "Fin octobre 2026 (date non confirmée) : résultats du T3",
+    "Février 2027 : résultats annuels 2026 et dividende",
+    "Avancement et résultats de l'essai SmartFlow (calendrier non confirmé)"
+   ]
+  },
+  "cadres": [
+   "Buffett (qualité, avantage concurrentiel)",
+   "Fisher (innovation, direction)",
+   "Lynch (fast grower)",
+   "Graham (solidité du bilan)",
+   "Greenblatt (formule magique)",
+   "Théorie de Dow",
+   "Weinstein (stades)"
+  ],
+  "sources": [
+   "https://www.medistim.com/investor-news/results-for-the-second-quarter-first-half-2026",
+   "https://live.euronext.com/sites/default/files/company_press_releases/attachments_oslo/2026/02/27/667094_Q4%202025%20Financial%20Report-Final%2026.02.2026.pdf",
+   "https://www.medistim.com/investor-news/results-for-the-fourth-quarter-and-full-year-2025",
+   "https://cdn.prod.website-files.com/647f3c507cb92c6f6cdbec2b/69de375d7cafb1274f025458_Annual%20Report%202025-FINAL-final.pdf",
+   "https://live.euronext.com/sites/default/files/company_press_releases/attachments_oslo/2025/02/28/640104_Q4%20presentation-Final.pdf",
+   "https://www.medistim.com/investor-relations/investor-news",
+   "https://www.inderes.fi/en/releases/medi-notice-of-extraordinary-general-meeting-in-medistim-asa",
+   "https://stockanalysis.com/quote/osl/MEDI/",
+   "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json"
+  ],
+  "aVerifier": "Bénéfice net et BPA du premier semestre 2026 non lus dans le communiqué consulté. Consensus 2026 et 2027 (2 analystes, une seule source agrégée) non retenu. Date des résultats du T3 non confirmée. Ordre du jour de l'assemblée extraordinaire du 05/10/2026 non connu. Calendrier de l'essai SmartFlow non confirmé."
+ },
+ "societe": {
+  "resume": "Medistim est une petite société norvégienne qui fabrique des appareils et des sondes à usage unique permettant au chirurgien de vérifier, pendant l'opération, que le sang circule bien dans un vaisseau qu'il vient de recoudre. Concrètement, lors d'un pontage coronarien, le chirurgien greffe un nouveau vaisseau pour contourner une artère bouchée du cœur ; avec la sonde Medistim, il mesure le débit sanguin et peut corriger un pontage défectueux avant de refermer le thorax. Ses appareils ajoutent aussi une imagerie par ultrasons pour voir l'intérieur du vaisseau.",
+  "fondee": 1984,
+  "siege": "Oslo, Norvège",
+  "effectifs": 159,
+  "site": "https://www.medistim.com",
+  "histoire": [
+   {
+    "annee": 1984,
+    "fait": "Création à Oslo."
+   },
+   {
+    "annee": 1994,
+    "fait": "Premier appareil de mesure du débit sanguin (CardioMed)."
+   },
+   {
+    "annee": 2007,
+    "fait": "Ouverture de la vente directe aux États-Unis."
+   },
+   {
+    "annee": 2010,
+    "fait": "Lancement de l'imagerie par ultrasons à haute fréquence, couplée à la mesure de débit."
+   },
+   {
+    "annee": 2014,
+    "fait": "Lancement de la plateforme MiraQ, toujours au cœur de la gamme."
+   },
+   {
+    "annee": 2020,
+    "fait": "Publication de l'étude REQUEST, qui montre l'intérêt clinique de la mesure de débit associée à l'imagerie."
+   },
+   {
+    "annee": 2025,
+    "fait": "Ventes de 699,8 M NOK (+24,4 %) et résultat opérationnel de 196,2 M NOK (+50 %)."
+   },
+   {
+    "annee": 2026,
+    "fait": "Ouverture d'une filiale de vente directe au Japon et premier trimestre au-dessus de 200 M NOK de ventes."
+   }
+  ],
+  "modele": "Medistim vend ou loue ses appareils aux hôpitaux, puis facture surtout les sondes et les « procédures » utilisées à chaque opération : une grande partie des revenus se répète avec le nombre de pontages. Aux États-Unis, la société propose de plus en plus un paiement à la procédure. Le pouvoir de prix vient de sa position quasi unique et des recommandations des sociétés savantes. Elle distribue aussi des produits d'autres fabricants en Scandinavie.",
+  "segments": [
+   {
+    "nom": "Produits de mesure de débit (flow)",
+    "part": 59.2,
+    "detail": "414,6 M NOK en 2025 (+19,1 %)."
+   },
+   {
+    "nom": "Produits d'imagerie (ultrasons)",
+    "part": 26.3,
+    "detail": "183,9 M NOK en 2025 (+47,4 %)."
+   },
+   {
+    "nom": "Distribution de produits tiers (Scandinavie)",
+    "part": 14.5,
+    "detail": "101,2 M NOK en 2025 (+12,7 %)."
+   }
+  ],
+  "geo": [
+   {
+    "zone": "Amériques",
+    "part": 46.1
+   },
+   {
+    "zone": "Europe, Moyen-Orient, Afrique",
+    "part": 26.3
+   },
+   {
+    "zone": "Produits tiers (Scandinavie)",
+    "part": 14.5
+   },
+   {
+    "zone": "Asie-Pacifique",
+    "part": 13.2
+   }
+  ],
+  "clients": "Les services de chirurgie cardiaque et vasculaire des hôpitaux : environ 4 000 appareils installés dans plus de 70 pays. Aux États-Unis, environ 200 000 pontages par an, dont environ 40 % utilisent la mesure Medistim.",
+  "concurrents": [
+   "Transonic Systems (seul concurrent direct sur la mesure de débit)",
+   "Absence de mesure (le chirurgien se fie à son expérience)"
+  ],
+  "avantage": "Une position quasi exclusive (environ 89 % du marché déjà équipé), des recommandations européennes qui imposent presque la mesure, plus de 30 ans de données cliniques et un coût faible pour l'hôpital comparé au risque d'un pontage raté. Ce qui pourrait l'éroder : un essai SmartFlow décevant, l'arrivée d'un grand groupe de matériel médical ou un recul des pontages au profit d'autres traitements (stents).",
+  "dirigeants": [
+   {
+    "nom": "Kari E. Krogstad",
+    "role": "Directrice générale (CEO)",
+    "depuis": 2009
+   },
+   {
+    "nom": "Thomas Jakobsen",
+    "role": "Directeur financier",
+    "depuis": null
+   },
+   {
+    "nom": "Mike Karim",
+    "role": "Directeur commercial",
+    "depuis": 2025
+   }
+  ],
+  "actionnariat": "Actionnariat concentré : les 20 premiers actionnaires détiennent 73,2 % du capital fin 2025, et 47 % des actions sont détenues par des étrangers. Noms et pourcentages des principaux actionnaires non vérifiés.",
+  "devise": "NOK",
+  "chiffres": [
+   {
+    "annee": "2023",
+    "ca": 521.1,
+    "rn": 103.8,
+    "margeOp": 25.2,
+    "detteNette": null,
+    "dividende": 4.5
+   },
+   {
+    "annee": "2024",
+    "ca": 562.6,
+    "rn": 103.8,
+    "margeOp": 23.3,
+    "detteNette": -179.2,
+    "dividende": 6.0
+   },
+   {
+    "annee": "2025",
+    "ca": 699.8,
+    "rn": 159.2,
+    "margeOp": 28.0,
+    "detteNette": -212.1,
+    "dividende": 8.0
+   },
+   {
+    "annee": "2026e",
+    "ca": null,
+    "rn": null,
+    "margeOp": null,
+    "detteNette": null,
+    "dividende": null
+   }
+  ],
+  "croire": [
+   "Que le contrôle du débit sanguin pendant les pontages devient la norme aux États-Unis, où seulement environ 40 % des opérations l'utilisent contre plus de 80 % en Allemagne et plus de 90 % au Japon.",
+   "Que l'imagerie par ultrasons (vendue en plus de la mesure de débit) continue de croître fortement et tire la marge vers le haut.",
+   "Que l'essai clinique SmartFlow confirme le bénéfice pour les patients et conduit les sociétés savantes américaines à recommander la mesure en routine.",
+   "Que Medistim garde sa position quasi unique face à un seul concurrent direct, sans arrivée d'un grand groupe."
+  ],
+  "questions": [
+   "Quand les résultats de l'essai SmartFlow seront-ils connus, et que se passera-t-il s'ils sont décevants ?",
+   "Les droits de douane américains vont-ils peser sur la marge, alors que les produits sont fabriqués en Norvège ?",
+   "Quel est l'objet de l'assemblée générale extraordinaire du 05/10/2026 ?"
+  ],
+  "suivi": {
+   "le": "2026-10-01",
+   "bilan": "3 conditions sur 4 tiennent nettement (adoption américaine, imagerie, position concurrentielle) ; l'essai SmartFlow reste une inconnue.",
+   "croire": [
+    {
+     "c": "Que le contrôle du débit sanguin pendant les pontages devient la norme aux États-Unis, où seulement environ 40 % des opérations l'utilisent contre plus de 80 % en Allemagne et plus de 90 % au Japon.",
+     "etat": "ok",
+     "reponse": "Oui : l'adoption américaine accélère fortement.",
+     "preuve": "Procédures vendues aux États-Unis +44,6 % en 2025 (100 221) ; Amériques +46,3 % à change constant au T2 2026.",
+     "source": "https://www.medistim.com/investor-news/results-for-the-second-quarter-first-half-2026",
+     "prochain": "Résultats du T3 2026 (fin octobre, date non confirmée)"
+    },
+    {
+     "c": "Que l'imagerie par ultrasons (vendue en plus de la mesure de débit) continue de croître fortement et tire la marge vers le haut.",
+     "etat": "ok",
+     "reponse": "Oui : l'imagerie est l'activité la plus dynamique et la marge progresse.",
+     "preuve": "Imagerie +47,4 % en 2025 (183,9 M NOK) ; marge opérationnelle 28,0 % en 2025 puis 32,3 % au T2 2026.",
+     "source": "https://live.euronext.com/sites/default/files/company_press_releases/attachments_oslo/2026/02/27/667094_Q4%202025%20Financial%20Report-Final%2026.02.2026.pdf",
+     "prochain": "Résultats du T3 2026"
+    },
+    {
+     "c": "Que l'essai clinique SmartFlow confirme le bénéfice pour les patients et conduit les sociétés savantes américaines à recommander la mesure en routine.",
+     "etat": "nc",
+     "reponse": "Pas encore de réponse : l'essai, mené par le professeur Mario Gaudino et financé par Medistim, n'a pas livré de résultats.",
+     "preuve": "Rapport annuel 2025 : SmartFlow présenté comme un futur grand essai randomisé visant une recommandation de la société américaine de chirurgie thoracique (STS).",
+     "source": "https://cdn.prod.website-files.com/647f3c507cb92c6f6cdbec2b/69de375d7cafb1274f025458_Annual%20Report%202025-FINAL-final.pdf",
+     "prochain": "Point d'avancement aux résultats annuels 2026 (février 2027)"
+    },
+    {
+     "c": "Que Medistim garde sa position quasi unique face à un seul concurrent direct, sans arrivée d'un grand groupe.",
+     "etat": "ok",
+     "reponse": "Oui : aucun nouveau concurrent significatif signalé.",
+     "preuve": "Rapport annuel 2025 : un seul concurrent direct, Medistim détient environ 89 % du marché déjà équipé.",
+     "source": "https://cdn.prod.website-files.com/647f3c507cb92c6f6cdbec2b/69de375d7cafb1274f025458_Annual%20Report%202025-FINAL-final.pdf",
+     "prochain": "Rapport annuel 2026"
+    }
+   ],
+   "questions": [
+    {
+     "q": "Quand les résultats de l'essai SmartFlow seront-ils connus, et que se passera-t-il s'ils sont décevants ?",
+     "etat": "nc",
+     "reponse": "Calendrier non publié dans les documents consultés.",
+     "preuve": "Rapport annuel 2025 : essai annoncé, sans date de résultats.",
+     "source": "https://cdn.prod.website-files.com/647f3c507cb92c6f6cdbec2b/69de375d7cafb1274f025458_Annual%20Report%202025-FINAL-final.pdf",
+     "prochain": "Résultats annuels 2026 (février 2027)"
+    },
+    {
+     "q": "Les droits de douane américains vont-ils peser sur la marge, alors que les produits sont fabriqués en Norvège ?",
+     "etat": "watch",
+     "reponse": "Pour l'instant la marge monte malgré les droits de douane, selon un résumé de la publication du T2 ; l'effet n'a pas été chiffré dans le communiqué consulté.",
+     "preuve": "Marge opérationnelle de 32,3 % au T2 2026, record.",
+     "source": "https://www.medistim.com/investor-news/results-for-the-second-quarter-first-half-2026",
+     "prochain": "Résultats du T3 2026"
+    },
+    {
+     "q": "Quel est l'objet de l'assemblée générale extraordinaire du 05/10/2026 ?",
+     "etat": "nc",
+     "reponse": "Non connu : le communiqué de convocation ne détaille pas l'ordre du jour.",
+     "preuve": "Convocation publiée le 14/09/2026 pour une assemblée le 05/10/2026.",
+     "source": "https://www.inderes.fi/en/releases/medi-notice-of-extraordinary-general-meeting-in-medistim-asa",
+     "prochain": "Procès-verbal de l'assemblée du 05/10/2026"
+    }
+   ]
+  },
+  "sources": [
+   "https://live.euronext.com/sites/default/files/company_press_releases/attachments_oslo/2026/02/27/667094_Q4%202025%20Financial%20Report-Final%2026.02.2026.pdf",
+   "https://cdn.prod.website-files.com/647f3c507cb92c6f6cdbec2b/69de375d7cafb1274f025458_Annual%20Report%202025-FINAL-final.pdf",
+   "https://www.medistim.com/investor-news/results-for-the-second-quarter-first-half-2026",
+   "https://live.euronext.com/sites/default/files/company_press_releases/attachments_oslo/2025/02/28/640104_Q4%20presentation-Final.pdf",
+   "https://www.medistim.com/investor-relations/investor-news",
+   "https://stockanalysis.com/quote/osl/MEDI/financials/",
+   "https://www.inderes.fi/en/releases/medi-notice-of-extraordinary-general-meeting-in-medistim-asa"
+  ],
+  "aVerifier": "Chiffres 2023 (CA 521,1 M NOK, résultat opérationnel 131,4 M NOK, bénéfice 103,8 M NOK, dividende 4,50 NOK) issus d'un agrégateur ; la société confirme seulement une marge 2023 de 25,0 % et un résultat opérationnel 2024 au même niveau qu'en 2023. Trésorerie fin 2023 non trouvée (dette nette 2023 null). Estimation 2026 laissée vide faute de consensus fiable. Date d'arrivée de Thomas Jakobsen comme directeur financier non confirmée (chez Medistim depuis 2001). Noms des principaux actionnaires non vérifiés.",
+  "verifieLe": "2026-10-01",
+  "corrections": []
+ }
+}

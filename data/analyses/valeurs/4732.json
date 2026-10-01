@@ -1,0 +1,1375 @@
+{
+ "ticker": "4732",
+ "nom": "USS",
+ "pays": "JP",
+ "secteur": "Enchères de voitures d'occasion",
+ "cours": 1831.0,
+ "coursLe": "2026-10-01",
+ "devise": "JPY",
+ "capi": "environ 815 Md¥ (environ 4,6 Md€)",
+ "per26": 18.4,
+ "per27": 17.5,
+ "statut": "intacte",
+ "these": "Numéro un japonais des enchères de voitures d'occasion entre professionnels (43,2 % de part de marché) : il encaisse des commissions sur chaque voiture présentée et vendue, avec une marge opérationnelle de 52,6 %, un ROE de 20 % et une trésorerie nette d'environ 97 Md¥. Prévisions et dividende relevés en août (27e hausse annuelle de suite), redistribution d'au moins 100 % des bénéfices sur trois ans.",
+ "risque": "Croissance attendue modeste (environ +5 % de CA prévu), dépendance aux acheteurs étrangers des voitures exportées (sanctions, droits de douane, change), tendance de court terme baissière.",
+ "faits": [
+  {
+   "d": "04/08",
+   "t": "T1 : CA 31,3 Md¥ (+14,1 %), résultat opérationnel +9,8 %, bénéfice net 10,9 Md¥ (environ +7 %), records ; prévisions annuelles et dividende relevés (montants non lus)."
+  },
+  {
+   "d": "06/07",
+   "t": "Volumes d'enchères du T1 en hausse (données mensuelles publiées par la société)."
+  },
+  {
+   "d": "12/05",
+   "t": "Exercice clos en mars 2026 : CA 113,9 Md¥ (+9,5 %), résultat opérationnel 59,8 Md¥ (+10,4 %), bénéfice net 41,4 Md¥ (+9,9 %), dividende 54,70 ¥ (26e hausse de suite)."
+  },
+  {
+   "d": "12/05",
+   "t": "Rachat d'actions de 18 Md¥ annoncé ; 3,50 millions de voitures présentées (+9,4 %), taux de vente de 67 %."
+  }
+ ],
+ "pub": null,
+ "pubLabel": "Résultats du premier semestre (date non publiée, début novembre probable : le 11/11 l'an dernier)",
+ "src": "https://finance.biggo.jp/news/jpx_tdnet_140120260512524281",
+ "notes": "Pas de division récente (la dernière, 1 pour 2, date d'avril 2024 ; chiffres antérieurs ajustés). PER 18,4 (exercice clos en mars 2027) et 17,5 (mars 2028) selon MarketScreener ; PER calculé de 20,0 sur la prévision initiale de BPA (91,35 ¥), relevée depuis en août. Cours, moyennes mobiles et RSI issus du flux de cours (clôture du 01/10/2026).",
+ "yahoo": "4732.T",
+ "compte": "CTO",
+ "histo": [
+  [
+   "04/09",
+   1820.0
+  ],
+  [
+   "05/09",
+   1827.0
+  ],
+  [
+   "08/09",
+   1809.0
+  ],
+  [
+   "09/09",
+   1798.0
+  ],
+  [
+   "10/09",
+   1807.5
+  ],
+  [
+   "11/09",
+   1803.0
+  ],
+  [
+   "12/09",
+   1814.0
+  ],
+  [
+   "16/09",
+   1814.0
+  ],
+  [
+   "17/09",
+   1812.5
+  ],
+  [
+   "18/09",
+   1812.0
+  ],
+  [
+   "19/09",
+   1809.5
+  ],
+  [
+   "22/09",
+   1780.0
+  ],
+  [
+   "24/09",
+   1699.5
+  ],
+  [
+   "25/09",
+   1721.5
+  ],
+  [
+   "26/09",
+   1733.5
+  ],
+  [
+   "29/09",
+   1701.5
+  ],
+  [
+   "30/09",
+   1697.5
+  ],
+  [
+   "01/10",
+   1696.0
+  ],
+  [
+   "02/10",
+   1679.0
+  ],
+  [
+   "03/10",
+   1662.5
+  ],
+  [
+   "06/10",
+   1697.0
+  ],
+  [
+   "07/10",
+   1696.5
+  ],
+  [
+   "08/10",
+   1704.5
+  ],
+  [
+   "09/10",
+   1693.0
+  ],
+  [
+   "10/10",
+   1699.0
+  ],
+  [
+   "14/10",
+   1694.5
+  ],
+  [
+   "15/10",
+   1710.0
+  ],
+  [
+   "16/10",
+   1693.0
+  ],
+  [
+   "17/10",
+   1705.5
+  ],
+  [
+   "20/10",
+   1694.5
+  ],
+  [
+   "21/10",
+   1696.0
+  ],
+  [
+   "22/10",
+   1710.5
+  ],
+  [
+   "23/10",
+   1715.5
+  ],
+  [
+   "24/10",
+   1715.5
+  ],
+  [
+   "27/10",
+   1720.0
+  ],
+  [
+   "28/10",
+   1701.0
+  ],
+  [
+   "29/10",
+   1685.5
+  ],
+  [
+   "30/10",
+   1692.5
+  ],
+  [
+   "31/10",
+   1702.0
+  ],
+  [
+   "04/11",
+   1695.5
+  ],
+  [
+   "05/11",
+   1710.0
+  ],
+  [
+   "06/11",
+   1696.5
+  ],
+  [
+   "07/11",
+   1722.0
+  ],
+  [
+   "10/11",
+   1725.0
+  ],
+  [
+   "11/11",
+   1720.0
+  ],
+  [
+   "12/11",
+   1698.5
+  ],
+  [
+   "13/11",
+   1692.0
+  ],
+  [
+   "14/11",
+   1716.5
+  ],
+  [
+   "17/11",
+   1723.0
+  ],
+  [
+   "18/11",
+   1690.0
+  ],
+  [
+   "19/11",
+   1696.5
+  ],
+  [
+   "20/11",
+   1695.0
+  ],
+  [
+   "21/11",
+   1715.0
+  ],
+  [
+   "25/11",
+   1732.0
+  ],
+  [
+   "26/11",
+   1742.0
+  ],
+  [
+   "27/11",
+   1733.0
+  ],
+  [
+   "28/11",
+   1742.0
+  ],
+  [
+   "01/12",
+   1713.0
+  ],
+  [
+   "02/12",
+   1717.0
+  ],
+  [
+   "03/12",
+   1714.0
+  ],
+  [
+   "04/12",
+   1717.5
+  ],
+  [
+   "05/12",
+   1703.5
+  ],
+  [
+   "08/12",
+   1704.0
+  ],
+  [
+   "09/12",
+   1710.0
+  ],
+  [
+   "10/12",
+   1710.0
+  ],
+  [
+   "11/12",
+   1697.0
+  ],
+  [
+   "12/12",
+   1714.0
+  ],
+  [
+   "15/12",
+   1734.0
+  ],
+  [
+   "16/12",
+   1755.0
+  ],
+  [
+   "17/12",
+   1737.0
+  ],
+  [
+   "18/12",
+   1781.5
+  ],
+  [
+   "19/12",
+   1771.0
+  ],
+  [
+   "22/12",
+   1744.0
+  ],
+  [
+   "23/12",
+   1770.5
+  ],
+  [
+   "24/12",
+   1740.0
+  ],
+  [
+   "25/12",
+   1733.5
+  ],
+  [
+   "26/12",
+   1741.0
+  ],
+  [
+   "29/12",
+   1722.5
+  ],
+  [
+   "30/12",
+   1717.0
+  ],
+  [
+   "05/01",
+   1714.5
+  ],
+  [
+   "06/01",
+   1714.5
+  ],
+  [
+   "07/01",
+   1721.5
+  ],
+  [
+   "08/01",
+   1729.5
+  ],
+  [
+   "09/01",
+   1741.5
+  ],
+  [
+   "13/01",
+   1748.0
+  ],
+  [
+   "14/01",
+   1752.5
+  ],
+  [
+   "15/01",
+   1748.5
+  ],
+  [
+   "16/01",
+   1744.0
+  ],
+  [
+   "19/01",
+   1755.5
+  ],
+  [
+   "20/01",
+   1755.5
+  ],
+  [
+   "21/01",
+   1740.5
+  ],
+  [
+   "22/01",
+   1740.5
+  ],
+  [
+   "23/01",
+   1741.5
+  ],
+  [
+   "26/01",
+   1726.0
+  ],
+  [
+   "27/01",
+   1719.0
+  ],
+  [
+   "28/01",
+   1709.0
+  ],
+  [
+   "29/01",
+   1701.5
+  ],
+  [
+   "30/01",
+   1707.0
+  ],
+  [
+   "02/02",
+   1714.0
+  ],
+  [
+   "03/02",
+   1725.5
+  ],
+  [
+   "04/02",
+   1704.0
+  ],
+  [
+   "05/02",
+   1729.5
+  ],
+  [
+   "06/02",
+   1726.5
+  ],
+  [
+   "09/02",
+   1732.0
+  ],
+  [
+   "10/02",
+   1758.0
+  ],
+  [
+   "12/02",
+   1858.0
+  ],
+  [
+   "13/02",
+   1835.5
+  ],
+  [
+   "16/02",
+   1859.0
+  ],
+  [
+   "17/02",
+   1841.0
+  ],
+  [
+   "18/02",
+   1879.0
+  ],
+  [
+   "19/02",
+   1863.5
+  ],
+  [
+   "20/02",
+   1849.0
+  ],
+  [
+   "24/02",
+   1862.0
+  ],
+  [
+   "25/02",
+   1897.0
+  ],
+  [
+   "26/02",
+   1895.0
+  ],
+  [
+   "27/02",
+   1902.5
+  ],
+  [
+   "02/03",
+   1888.5
+  ],
+  [
+   "03/03",
+   1833.5
+  ],
+  [
+   "04/03",
+   1844.5
+  ],
+  [
+   "05/03",
+   1844.5
+  ],
+  [
+   "06/03",
+   1853.5
+  ],
+  [
+   "09/03",
+   1819.5
+  ],
+  [
+   "10/03",
+   1786.0
+  ],
+  [
+   "11/03",
+   1781.0
+  ],
+  [
+   "12/03",
+   1728.5
+  ],
+  [
+   "13/03",
+   1711.5
+  ],
+  [
+   "16/03",
+   1680.0
+  ],
+  [
+   "17/03",
+   1692.5
+  ],
+  [
+   "18/03",
+   1715.0
+  ],
+  [
+   "19/03",
+   1671.0
+  ],
+  [
+   "23/03",
+   1643.5
+  ],
+  [
+   "24/03",
+   1671.5
+  ],
+  [
+   "25/03",
+   1695.5
+  ],
+  [
+   "26/03",
+   1687.5
+  ],
+  [
+   "27/03",
+   1708.0
+  ],
+  [
+   "30/03",
+   1652.0
+  ],
+  [
+   "31/03",
+   1656.0
+  ],
+  [
+   "01/04",
+   1690.5
+  ],
+  [
+   "02/04",
+   1681.0
+  ],
+  [
+   "03/04",
+   1694.0
+  ],
+  [
+   "06/04",
+   1726.5
+  ],
+  [
+   "07/04",
+   1765.0
+  ],
+  [
+   "08/04",
+   1795.0
+  ],
+  [
+   "09/04",
+   1782.5
+  ],
+  [
+   "10/04",
+   1771.5
+  ],
+  [
+   "13/04",
+   1792.0
+  ],
+  [
+   "14/04",
+   1744.0
+  ],
+  [
+   "15/04",
+   1742.0
+  ],
+  [
+   "16/04",
+   1738.0
+  ],
+  [
+   "17/04",
+   1722.0
+  ],
+  [
+   "20/04",
+   1726.5
+  ],
+  [
+   "21/04",
+   1709.0
+  ],
+  [
+   "22/04",
+   1681.5
+  ],
+  [
+   "23/04",
+   1672.0
+  ],
+  [
+   "24/04",
+   1675.5
+  ],
+  [
+   "27/04",
+   1683.5
+  ],
+  [
+   "28/04",
+   1706.0
+  ],
+  [
+   "30/04",
+   1695.0
+  ],
+  [
+   "01/05",
+   1696.5
+  ],
+  [
+   "07/05",
+   1684.0
+  ],
+  [
+   "08/05",
+   1692.5
+  ],
+  [
+   "11/05",
+   1712.0
+  ],
+  [
+   "12/05",
+   1742.0
+  ],
+  [
+   "13/05",
+   1690.0
+  ],
+  [
+   "14/05",
+   1728.0
+  ],
+  [
+   "15/05",
+   1760.0
+  ],
+  [
+   "18/05",
+   1770.5
+  ],
+  [
+   "19/05",
+   1781.5
+  ],
+  [
+   "20/05",
+   1795.5
+  ],
+  [
+   "21/05",
+   1769.5
+  ],
+  [
+   "22/05",
+   1761.5
+  ],
+  [
+   "25/05",
+   1756.5
+  ],
+  [
+   "26/05",
+   1739.0
+  ],
+  [
+   "27/05",
+   1759.5
+  ],
+  [
+   "28/05",
+   1772.0
+  ],
+  [
+   "29/05",
+   1757.5
+  ],
+  [
+   "01/06",
+   1766.0
+  ],
+  [
+   "02/06",
+   1792.5
+  ],
+  [
+   "03/06",
+   1828.5
+  ],
+  [
+   "04/06",
+   1812.0
+  ],
+  [
+   "05/06",
+   1833.5
+  ],
+  [
+   "08/06",
+   1841.0
+  ],
+  [
+   "09/06",
+   1872.0
+  ],
+  [
+   "10/06",
+   1914.0
+  ],
+  [
+   "11/06",
+   1899.5
+  ],
+  [
+   "12/06",
+   1877.0
+  ],
+  [
+   "15/06",
+   1861.0
+  ],
+  [
+   "16/06",
+   1863.5
+  ],
+  [
+   "17/06",
+   1876.5
+  ],
+  [
+   "18/06",
+   1889.5
+  ],
+  [
+   "19/06",
+   1888.5
+  ],
+  [
+   "22/06",
+   1890.5
+  ],
+  [
+   "23/06",
+   1908.5
+  ],
+  [
+   "24/06",
+   1870.0
+  ],
+  [
+   "25/06",
+   1906.5
+  ],
+  [
+   "26/06",
+   1927.5
+  ],
+  [
+   "29/06",
+   1905.5
+  ],
+  [
+   "30/06",
+   1902.5
+  ],
+  [
+   "01/07",
+   1882.5
+  ],
+  [
+   "02/07",
+   1914.0
+  ],
+  [
+   "03/07",
+   1927.0
+  ],
+  [
+   "06/07",
+   1954.5
+  ],
+  [
+   "07/07",
+   1963.0
+  ],
+  [
+   "08/07",
+   1991.5
+  ],
+  [
+   "09/07",
+   2006.5
+  ],
+  [
+   "10/07",
+   1982.5
+  ],
+  [
+   "13/07",
+   1976.0
+  ],
+  [
+   "14/07",
+   1985.5
+  ],
+  [
+   "15/07",
+   1983.5
+  ],
+  [
+   "16/07",
+   1975.0
+  ],
+  [
+   "17/07",
+   2006.5
+  ],
+  [
+   "21/07",
+   1997.5
+  ],
+  [
+   "22/07",
+   1973.5
+  ],
+  [
+   "23/07",
+   1951.5
+  ],
+  [
+   "24/07",
+   1955.0
+  ],
+  [
+   "27/07",
+   2001.0
+  ],
+  [
+   "28/07",
+   2020.5
+  ],
+  [
+   "29/07",
+   2063.5
+  ],
+  [
+   "30/07",
+   2064.0
+  ],
+  [
+   "31/07",
+   2017.5
+  ],
+  [
+   "03/08",
+   1981.5
+  ],
+  [
+   "04/08",
+   1970.0
+  ],
+  [
+   "05/08",
+   1944.5
+  ],
+  [
+   "06/08",
+   1967.5
+  ],
+  [
+   "07/08",
+   1987.0
+  ],
+  [
+   "10/08",
+   2005.0
+  ],
+  [
+   "12/08",
+   1996.5
+  ],
+  [
+   "13/08",
+   2007.0
+  ],
+  [
+   "14/08",
+   2011.0
+  ],
+  [
+   "17/08",
+   1996.0
+  ],
+  [
+   "18/08",
+   1974.0
+  ],
+  [
+   "19/08",
+   1972.0
+  ],
+  [
+   "20/08",
+   1975.0
+  ],
+  [
+   "21/08",
+   1960.0
+  ],
+  [
+   "24/08",
+   1973.0
+  ],
+  [
+   "25/08",
+   1976.0
+  ],
+  [
+   "26/08",
+   1997.0
+  ],
+  [
+   "27/08",
+   1980.5
+  ],
+  [
+   "28/08",
+   1977.5
+  ],
+  [
+   "31/08",
+   1993.5
+  ],
+  [
+   "01/09",
+   2019.0
+  ],
+  [
+   "02/09",
+   1982.0
+  ],
+  [
+   "03/09",
+   1983.0
+  ],
+  [
+   "04/09",
+   1981.0
+  ],
+  [
+   "07/09",
+   1960.0
+  ],
+  [
+   "08/09",
+   1947.5
+  ],
+  [
+   "09/09",
+   1914.5
+  ],
+  [
+   "10/09",
+   1905.5
+  ],
+  [
+   "11/09",
+   1916.5
+  ],
+  [
+   "14/09",
+   1924.5
+  ],
+  [
+   "15/09",
+   1907.5
+  ],
+  [
+   "16/09",
+   1910.0
+  ],
+  [
+   "17/09",
+   1929.5
+  ],
+  [
+   "18/09",
+   1907.0
+  ],
+  [
+   "24/09",
+   1876.0
+  ],
+  [
+   "25/09",
+   1875.0
+  ],
+  [
+   "28/09",
+   1850.5
+  ],
+  [
+   "29/09",
+   1798.0
+  ],
+  [
+   "30/09",
+   1794.0
+  ],
+  [
+   "01/10",
+   1831.0
+  ]
+ ],
+ "perf": {
+  "m1": -7.4,
+  "m3": -3.9,
+  "m12": 1.0
+ },
+ "analyse": {
+  "majLe": "2026-10-01",
+  "verdict": "USS est une entreprise de très grande qualité : quasi-monopole de fait sur les enchères professionnelles de voitures d'occasion au Japon, marge opérationnelle supérieure à 50 %, pas de dette et une politique de redistribution très généreuse. La croissance est lente mais régulière (bénéfice net +10 à 14 % par an ces trois dernières années, en partie grâce aux rachats d'actions). Autour de 18 fois les bénéfices attendus, le prix est correct sans être bon marché ; le principal risque vient de l'export, qui soutient les prix des voitures vendues.",
+  "conviction": "moyenne",
+  "revisions": "En hausse : la société a relevé ses prévisions annuelles et son dividende le 04/08 après un T1 record (montants exacts non lus). Le consensus MarketScreener (6 analystes) attend un bénéfice net de 44,4 Md¥ pour l'exercice en cours (contre 41,6 Md¥ guidés en mai) et 45,6 Md¥ pour le suivant. Objectif moyen 2 197 ¥ (environ +22 %).",
+  "fonda": {
+   "score": 8,
+   "justif": "Qualité exceptionnelle (marge, ROE, trésorerie nette, régularité du dividende) et position dominante ; la note est limitée par une croissance modeste et une valorisation déjà correcte.",
+   "qualite": "Marge opérationnelle de 50,1 % (mars 2024), 52,1 % (mars 2025) et 52,6 % (mars 2026). ROE de 17,0 %, 18,9 % puis 20,1 %. Le métier des enchères dégage à lui seul environ 98 % du résultat opérationnel. Avantage concurrentiel (Buffett) : effet de réseau, car les vendeurs vont là où il y a le plus d'acheteurs et inversement ; part de marché de 43,2 % et en hausse.",
+   "croissance": "CA : 97,6 Md¥ (mars 2024), 104,0 Md¥ (mars 2025), 113,9 Md¥ (mars 2026), 119,8 Md¥ prévus en mai puis relevés. Bénéfice net : 32,9, 37,6 puis 41,4 Md¥. BPA : 68,28 ¥, 78,65 ¥, 88,78 ¥ (+13 %/an environ, aidé par les rachats). Consensus : bénéfice net +7 % cette année puis +3 %. Au sens de Lynch : une valeur régulière (stalwart).",
+   "bilan": "Trésorerie nette très large : environ 111 Md¥ fin mars 2025 (113,2 Md¥ de dépôts pour 2,2 Md¥ d'emprunts) et environ 97 Md¥ selon MarketScreener aujourd'hui. Ratio de fonds propres de 76,7 %. Aucun risque de bilan au sens de Graham.",
+   "valo": "PER 18,4 (exercice en cours) et 17,5 (suivant), VE/CA 5,8 selon MarketScreener ; rendement du dividende d'environ 3,2 %. Valeur d'entreprise d'environ 718 Md¥, soit environ 12 fois le résultat opérationnel. Moyenne historique de PER non vérifiée.",
+   "peg": 2.6,
+   "piotroski": null,
+   "greenblatt": "Rendement bénéficiaire calculé (résultat opérationnel prévu de 61 Md¥ / valeur d'entreprise de 718 Md¥) d'environ 8,5 % et rendement du capital d'environ 31 % (Stockopedia) : profil favorable sur la formule magique."
+  },
+  "tech": {
+   "cours": 1831.0,
+   "coursLe": "2026-10-01",
+   "mm50": 1958.14,
+   "mm200": 1825.72,
+   "rsi14": 34.2,
+   "haut52": 2064.0,
+   "bas52": 1643.5,
+   "support": 1795,
+   "resistance": 1910,
+   "tendance": "neutre",
+   "stade": 3,
+   "lecture": "Cours de 1 831,00 en dessous de sa moyenne 50 jours (1 958,14) et au-dessus de sa moyenne 200 jours (1 825,72). RSI 34,2 : élan neutre. Il se situe à 45 % de sa fourchette sur un an (de 1 643,50 à 2 064,00), performance sur 12 mois de 1,0 %. Clôture du 01/10/2026.",
+   "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json"
+  },
+  "actu": [
+   {
+    "d": "04/08",
+    "fait": "T1 record (CA +14,1 %, résultat opérationnel +9,8 %, bénéfice net environ +7 %) ; prévisions annuelles, dividende et ratio de distribution relevés.",
+    "impact": "positif",
+    "horizon": "moyen",
+    "lecture": "Confirme que la prévision de mai (bénéfice net +0,6 %) était prudente ; les volumes restent bien orientés."
+   },
+   {
+    "d": "12/05",
+    "fait": "Exercice record, rachat d'actions de 18 Md¥ et 100 % du bénéfice redistribué sur l'exercice (dividendes et rachats).",
+    "impact": "positif",
+    "horizon": "long",
+    "lecture": "Le cœur de la thèse : une machine à cash qui rend presque tout à ses actionnaires et réduit son nombre d'actions."
+   },
+   {
+    "d": "12/05",
+    "fait": "Prévision initiale prudente : CA +5,2 %, résultat opérationnel +1,9 %, bénéfice net +0,6 % ; la direction cite la situation en Iran comme incertitude.",
+    "impact": "negatif",
+    "horizon": "court",
+    "lecture": "L'export (dont le Moyen-Orient) pèse sur les prix des voitures vendues et donc sur l'activité ; c'est le risque principal à surveiller."
+   },
+   {
+    "d": "juil. à sept.",
+    "fait": "Le titre a reculé d'environ 11 % depuis son sommet du 30/07 (2 064 ¥) malgré le relèvement des prévisions.",
+    "impact": "neutre",
+    "horizon": "court",
+    "lecture": "Le marché paie déjà la qualité ; le repli rapproche le titre de sa moyenne 200 jours sans changer les fondamentaux."
+   }
+  ],
+  "scenarios": [
+   {
+    "horizon": "12 mois",
+    "unite": "JPY",
+    "bas": 1600,
+    "central": 1950,
+    "haut": 2200,
+    "hypotheses": "Central : BPA de l'exercice suivant d'environ 100 ¥ valorisé environ 19,5 fois (moyenne approximative des derniers mois). Bas : chute de l'export et PER vers 16, retour vers le plus bas annuel. Haut : nouveau relèvement en novembre et marché qui rejoint l'objectif moyen des analystes (2 197 ¥)."
+   },
+   {
+    "horizon": "5 ans",
+    "unite": "%/an",
+    "bas": 1,
+    "central": 8,
+    "haut": 12,
+    "hypotheses": "Central : bénéfice net +4 %/an, rachats d'actions environ +1,5 %/an sur le BPA, dividende 3,2 %, PER stable = environ 8 %/an. Bas : volumes stables, export en baisse, PER vers 14 (environ -5 %/an) compensé en partie par le dividende = environ 1 %/an. Haut : part de marché vers 50 %, BPA +8 %/an, PER stable, dividende 3,5 % = environ 12 %/an."
+   }
+  ],
+  "zones": {
+   "interet": "1 650 à 1 800 ¥ : entre le plus bas annuel (1 643,5 ¥) et la moyenne 200 jours ; le PER sur le consensus y serait d'environ 16,5 à 18 et le rendement du dividende de 3,3 à 3,6 %.",
+   "invalidation": "Baisse des volumes d'enchères sur deux trimestres de suite ou perte de part de marché, ou clôture durable sous 1 640 ¥ (plus bas sur 52 semaines).",
+   "sortie": [
+    "Marge opérationnelle qui passe sous 48 %",
+    "Baisse du dividende ou abandon de l'objectif de 60 % de distribution",
+    "PER au-dessus de 25 sans accélération de la croissance"
+   ],
+   "catalyseurs": [
+    "Début novembre 2026 (date non confirmée) : résultats du premier semestre",
+    "Chaque mois : statistiques de volumes d'enchères publiées par la société",
+    "Mai 2027 : résultats annuels, dividende et nouveau programme de rachat"
+   ]
+  },
+  "cadres": [
+   "Buffett (qualité, avantage concurrentiel)",
+   "Fisher (direction, innovation)",
+   "Lynch (stalwart, PEG)",
+   "Graham (solidité du bilan)",
+   "Greenblatt (formule magique)",
+   "Théorie de Dow",
+   "Minervini (trend template)",
+   "Weinstein (stades)"
+  ],
+  "sources": [
+   "https://finance.biggo.jp/news/jpx_tdnet_140120260512524281",
+   "https://finance.biggo.jp/news/JP_4732.T_2026-05-14",
+   "https://www.tipranks.com/news/company-announcements/uss-co-lifts-earnings-and-dividend-forecasts-on-strong-auction-performance",
+   "https://simplywall.st/stocks/jp/retail/tse-4732/uss-shares/news/did-strong-q1-results-and-higher-payout-targets-just-shift-u",
+   "https://www.tradingview.com/news/urn:summary_document_slides:quartr.com:3958085:0-uss-record-high-q1-sales-and-profits-led-to-an-upward-revision-of-fy2026-guidance-and-dividends/",
+   "https://www.marketscreener.com/quote/stock/USS-CO-LTD-6492353/",
+   "https://www.stockopedia.com/share-prices/uss-co-TYO:4732/",
+   "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json"
+  ],
+  "aVerifier": "Montants exacts des prévisions et du dividende relevés le 04/08 non lus (document TDnet inaccessible) : seuls le sens de la révision, le CA (31,3 Md¥) et le bénéfice net (10,9 Md¥) du T1 sont confirmés. Date des résultats semestriels non publiée. PER, objectif de cours et trésorerie nette actuelle d'une seule source (MarketScreener). PEG calculé sur la croissance du BPA attendue (environ 7 %/an), approximatif. Piotroski non calculé. Moyennes mobiles et RSI issus du flux de cours. Capitalisation en euros approximative."
+ },
+ "societe": {
+  "resume": "USS organise chaque semaine des enchères de voitures d'occasion réservées aux professionnels de l'automobile au Japon, dans de grands centres et en ligne. Concrètement, un concessionnaire qui a repris la voiture d'un client la confie à USS, qui la fait inspecter puis la vend en quelques secondes à un autre garage ou à un exportateur ; USS touche une commission du vendeur et de l'acheteur. Le groupe reprend aussi des voitures aux particuliers (enseigne Rabbit) et recycle des véhicules.",
+  "fondee": 1980,
+  "siege": "Tokai, préfecture d'Aichi, Japon",
+  "effectifs": 1211,
+  "site": "https://www.ussnet.co.jp",
+  "histoire": [
+   {
+    "annee": 1980,
+    "fait": "Création à Nagoya d'une société d'enchères de voitures d'occasion (date non recoupée)."
+   },
+   {
+    "annee": 2024,
+    "fait": "Division de l'action par 2 en avril."
+   },
+   {
+    "annee": 2026,
+    "fait": "Exercice record (CA 113,9 Md¥, marge opérationnelle 52,6 %), 3,5 millions de voitures présentées, part de marché de 43,2 % ; 26e hausse du dividende de suite et rachat d'actions de 18 Md¥."
+   }
+  ],
+  "modele": "USS gagne de l'argent à chaque voiture : frais d'inscription payés par le vendeur, commission sur la vente des deux côtés, et frais pour les achats en ligne. Les coûts sont surtout fixes (terrains, centres d'enchères), donc chaque voiture supplémentaire est très rentable. Les revenus sont récurrents en pratique, car les professionnels reviennent chaque semaine ; le pouvoir de prix est réel (hausse des frais en ligne en 2024-2025).",
+  "segments": [
+   {
+    "nom": "Enchères automobiles",
+    "part": 78.7,
+    "detail": "Enchères de voitures d'occasion entre professionnels, en salle et en ligne ; 81,8 Md¥ de CA et 53,3 Md¥ de résultat opérationnel sur l'exercice clos en mars 2025."
+   },
+   {
+    "nom": "Rachat de voitures d'occasion",
+    "part": 12.2,
+    "detail": "Rachat de voitures aux particuliers (enseigne Rabbit) ; 12,7 Md¥ de CA, très faible marge. Données de l'exercice clos en mars 2025."
+   },
+   {
+    "nom": "Recyclage",
+    "part": 8.1,
+    "detail": "Véhicules accidentés et recyclage de matériaux ; 8,4 Md¥ de CA. Données de l'exercice clos en mars 2025."
+   }
+  ],
+  "geo": [
+   {
+    "zone": "Japon",
+    "part": 100
+   }
+  ],
+  "clients": "Concessionnaires, garages et négociants en voitures d'occasion au Japon, ainsi que des exportateurs qui revendent les voitures à l'étranger (Moyen-Orient, Afrique, Russie, Asie). Des dizaines de milliers de membres, sans client dominant.",
+  "concurrents": [
+   "TAA (Toyota)",
+   "CAA",
+   "JU (enchères régionales)",
+   "Aucnet (enchères en ligne)"
+  ],
+  "avantage": "Effet de réseau : USS rassemble le plus grand nombre de voitures et d'acheteurs, ce qui attire encore plus de vendeurs et lui permet des marges très élevées ; ses grands terrains près des villes sont difficiles à reproduire. Ce qui pourrait l'éroder : des enchères en ligne moins chères, ou une chute durable de l'export qui ferait baisser les prix et les volumes.",
+  "dirigeants": [
+   {
+    "nom": "Yukihiro Ando",
+    "role": "Président du conseil et représentant de la société",
+    "depuis": null
+   }
+  ],
+  "actionnariat": "Capital dispersé, majoritairement détenu par des investisseurs institutionnels ; pas d'actionnaire de contrôle identifié.",
+  "devise": "JPY",
+  "chiffres": [
+   {
+    "annee": "2024",
+    "ca": 97606,
+    "rn": 32906,
+    "margeOp": 50.1,
+    "detteNette": -106424,
+    "dividende": 37.7
+   },
+   {
+    "annee": "2025",
+    "ca": 104021,
+    "rn": 37636,
+    "margeOp": 52.1,
+    "detteNette": -111042,
+    "dividende": 43.4
+   },
+   {
+    "annee": "2026",
+    "ca": 113854,
+    "rn": 41360,
+    "margeOp": 52.6,
+    "detteNette": null,
+    "dividende": 54.7
+   },
+   {
+    "annee": "2026e",
+    "ca": 124000,
+    "rn": 44430,
+    "margeOp": null,
+    "detteNette": -96520,
+    "dividende": null
+   }
+  ],
+  "croire": [
+   "Que USS garde sa place de numéro un des enchères de voitures d'occasion entre professionnels au Japon et continue de gagner des parts de marché (43,2 % aujourd'hui, objectif 50 %).",
+   "Que le nombre de voitures mises aux enchères reste stable ou en hausse, même si la demande à l'export (Moyen-Orient, Afrique, Russie, Asie) se tasse.",
+   "Que la politique de retour aux actionnaires reste aussi généreuse (au moins 60 % du bénéfice en dividendes et au moins 100 % redistribués sur trois ans avec les rachats d'actions)."
+  ],
+  "questions": [
+   "Les agrandissements des sites de Tokyo et Kobe, qui arrivent à saturation, vont-ils permettre de continuer à gagner des volumes ?",
+   "Quel est le poids réel de l'export dans les prix et les volumes, et que se passerait-il en cas de nouvelles sanctions ou droits de douane ?",
+   "Les enchères en ligne et les plateformes concurrentes peuvent-elles faire baisser les commissions de USS ?"
+  ],
+  "suivi": {
+   "le": "2026-10-01",
+   "bilan": "Les trois conditions tiennent ; le point à surveiller reste l'export, qui n'a pas encore pesé sur les volumes.",
+   "croire": [
+    {
+     "c": "Que USS garde sa place de numéro un des enchères de voitures d'occasion entre professionnels au Japon et continue de gagner des parts de marché (43,2 % aujourd'hui, objectif 50 %).",
+     "etat": "ok",
+     "reponse": "Oui : la part de marché progresse encore.",
+     "preuve": "Part de marché de 43,2 % sur l'exercice clos en mars 2026 (+1,2 point), objectif 50 %.",
+     "source": "https://finance.biggo.jp/news/JP_4732.T_2026-05-14",
+     "prochain": "Résultats du premier semestre (début novembre 2026, date non confirmée)"
+    },
+    {
+     "c": "Que le nombre de voitures mises aux enchères reste stable ou en hausse, même si la demande à l'export (Moyen-Orient, Afrique, Russie, Asie) se tasse.",
+     "etat": "ok",
+     "reponse": "Oui pour l'instant : volumes records et T1 en hausse, mais la direction reste prudente sur le contexte international.",
+     "preuve": "3,50 millions de voitures présentées (+9,4 %) et 2,35 millions vendues ; T1 : CA +14,1 %.",
+     "source": "https://finance.biggo.jp/news/jpx_tdnet_140120260512524281",
+     "prochain": "Statistiques mensuelles d'enchères"
+    },
+    {
+     "c": "Que la politique de retour aux actionnaires reste aussi généreuse (au moins 60 % du bénéfice en dividendes et au moins 100 % redistribués sur trois ans avec les rachats d'actions).",
+     "etat": "ok",
+     "reponse": "Oui : la politique a même été légèrement renforcée en août.",
+     "preuve": "Ratio de distribution de 61,4 % sur 2025-2026, 100 % redistribués avec les rachats, rachat de 18 Md¥ annoncé ; ratio relevé le 04/08.",
+     "source": "https://www.tipranks.com/news/company-announcements/uss-co-lifts-earnings-and-dividend-forecasts-on-strong-auction-performance",
+     "prochain": "Résultats annuels de mai 2027"
+    }
+   ],
+   "questions": [
+    {
+     "q": "Les agrandissements des sites de Tokyo et Kobe, qui arrivent à saturation, vont-ils permettre de continuer à gagner des volumes ?",
+     "etat": "nc",
+     "reponse": "Les agrandissements sont présentés comme une priorité, sans calendrier ni capacité chiffrée trouvés.",
+     "preuve": "Présentation de mai 2026 : sites de Tokyo (plus de 20 000 voitures par séance) et Kobe (9 500) proches de la saturation.",
+     "source": "https://finance.biggo.jp/news/JP_4732.T_2026-05-14",
+     "prochain": "Présentation des résultats semestriels"
+    },
+    {
+     "q": "Quel est le poids réel de l'export dans les prix et les volumes, et que se passerait-il en cas de nouvelles sanctions ou droits de douane ?",
+     "etat": "watch",
+     "reponse": "Non chiffré par la société ; la situation en Iran est citée comme incertitude dans la prévision de mai.",
+     "preuve": "Prévision initiale de bénéfice net +0,6 % seulement, puis relevée en août.",
+     "source": "https://finance.biggo.jp/news/JP_4732.T_2026-05-14",
+     "prochain": "Présentation des résultats semestriels"
+    },
+    {
+     "q": "Les enchères en ligne et les plateformes concurrentes peuvent-elles faire baisser les commissions de USS ?",
+     "etat": "nc",
+     "reponse": "Pas de signe à ce jour : la marge a encore progressé et USS a augmenté ses frais sur les achats en ligne.",
+     "preuve": "Marge opérationnelle 52,1 % puis 52,6 % ; hausse des frais en ligne citée dans les résultats 2024-2025.",
+     "source": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250513/20250513545704.pdf",
+     "prochain": "Résultats du premier semestre"
+    }
+   ]
+  },
+  "sources": [
+   "https://finance.biggo.jp/news/jpx_tdnet_140120260512524281",
+   "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250513/20250513545704.pdf",
+   "https://finance.biggo.jp/news/JP_4732.T_2026-05-14",
+   "https://www.tipranks.com/news/company-announcements/uss-co-lifts-earnings-and-dividend-forecasts-on-strong-auction-performance",
+   "https://simplywall.st/stocks/jp/retail/tse-4732/uss-shares/news/did-strong-q1-results-and-higher-payout-targets-just-shift-u",
+   "https://www.marketscreener.com/quote/stock/USS-CO-LTD-6492353/",
+   "https://www.stockopedia.com/share-prices/uss-co-TYO:4732/"
+  ],
+  "aVerifier": "Exercices clos en mars : « 2024 » = avril 2023 à mars 2024 ; « 2026e » = exercice clos en mars 2027 (consensus MarketScreener, la prévision relevée de la société n'ayant pas été lue). Dividende 2024 ajusté de la division par 2 (75,40 ¥ publiés avant division). Dette nette = emprunts moins dépôts bancaires ; 2026 non calculée (emprunts fin mars 2026 non lus, dépôts d'environ 88,9 Md¥ en trésorerie et équivalents). Effectifs (1 211) et rendement du capital d'une seule source (Stockopedia). Année de création (1980), nom du dirigeant et liste des concurrents non recoupés. Répartition géographique : activité au Japon, mais une part des voitures vendues part à l'export (non chiffrée).",
+  "verifieLe": "2026-10-01",
+  "corrections": []
+ }
+}

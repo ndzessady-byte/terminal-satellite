@@ -1,0 +1,1418 @@
+{
+ "ticker": "7716",
+ "nom": "Nakanishi (NSK)",
+ "pays": "JP",
+ "secteur": "Santé : instruments dentaires et chirurgicaux",
+ "cours": 1481.0,
+ "coursLe": "2026-10-01",
+ "devise": "JPY",
+ "capi": "environ 246 Md¥ (environ 166 millions d'actions après la division par deux)",
+ "per26": 18.2,
+ "per27": null,
+ "statut": "intacte",
+ "these": "Premier fabricant mondial de turbines et d'instruments rotatifs dentaires sous la marque NSK, très rentable et avec plus de trésorerie que de dettes ; croissance relancée en 2026 (ventes +20,5 % et résultat opérationnel +32 % au premier semestre) avec un objectif annuel relevé.",
+ "risque": "La filiale américaine DCI (fauteuils dentaires) a déjà coûté une dépréciation de 13,8 Md¥ en 2025 ; dépendance au marché nord-américain (40 % des ventes), droits de douane américains et double risque de change (yen et dollar). Pas de consensus d'analystes vérifiable.",
+ "faits": [
+  {
+   "d": "29/09",
+   "t": "Division de l'action par deux (effet au 01/10/2026) : le cours passe d'environ 2 900 ¥ à environ 1 450 ¥, sans changement de valeur."
+  },
+  {
+   "d": "07/08",
+   "t": "S1 2026 : ventes 47,2 Md¥ (+20,5 %), résultat opérationnel 10,0 Md¥ (+32,0 %), bénéfice net 8,1 Md¥ (+132 %). Objectif annuel relevé : ventes 94,5 Md¥, résultat opérationnel 18,6 Md¥, bénéfice net 13,5 Md¥."
+  },
+  {
+   "d": "07/08",
+   "t": "Rachats de deux fabricants américains d'instruments chirurgicaux, Acra Cut et Intech."
+  },
+  {
+   "d": "12/02",
+   "t": "Comptes 2025 : ventes 81,2 Md¥ (+5,4 %), résultat opérationnel 14,1 Md¥ (-3,5 %), perte nette de 2,4 Md¥ après une dépréciation de 13,8 Md¥ sur DCI ; dividende de 54 ¥ avant division."
+  }
+ ],
+ "pub": null,
+ "pubLabel": "Résultats du T3 2026, attendus vers la mi-novembre (date non confirmée)",
+ "src": "https://finance.biggo.jp/news/jpx_tdnet_140120260806511592",
+ "notes": "Cours de clôture du 01/10/2026 (flux de cours, déjà ajusté de la division par deux). PER 2026 calculé sur le BPA prévu par la société après division (81,55 ¥) : 1 481 / 81,55 = 18,2, ce qui recoupe l'estimation d'environ 18 de la proposition. Pas de consensus d'analystes accessible pour 2027. Dividendes exprimés après division par deux. Action japonaise : compte-titres uniquement.",
+ "yahoo": "7716.T",
+ "compte": "CTO",
+ "histo": [
+  [
+   "04/09",
+   1020.5
+  ],
+  [
+   "05/09",
+   1054.5
+  ],
+  [
+   "08/09",
+   1045.0
+  ],
+  [
+   "09/09",
+   1057.5
+  ],
+  [
+   "10/09",
+   1050.0
+  ],
+  [
+   "11/09",
+   1045.0
+  ],
+  [
+   "12/09",
+   1026.5
+  ],
+  [
+   "16/09",
+   1037.0
+  ],
+  [
+   "17/09",
+   1035.0
+  ],
+  [
+   "18/09",
+   1033.5
+  ],
+  [
+   "19/09",
+   1013.5
+  ],
+  [
+   "22/09",
+   1026.5
+  ],
+  [
+   "24/09",
+   1025.0
+  ],
+  [
+   "25/09",
+   1015.0
+  ],
+  [
+   "26/09",
+   1026.5
+  ],
+  [
+   "29/09",
+   1012.5
+  ],
+  [
+   "30/09",
+   1024.0
+  ],
+  [
+   "01/10",
+   1019.0
+  ],
+  [
+   "02/10",
+   1032.5
+  ],
+  [
+   "03/10",
+   1047.0
+  ],
+  [
+   "06/10",
+   1067.0
+  ],
+  [
+   "07/10",
+   1062.0
+  ],
+  [
+   "08/10",
+   1049.5
+  ],
+  [
+   "09/10",
+   1079.5
+  ],
+  [
+   "10/10",
+   1055.0
+  ],
+  [
+   "14/10",
+   1029.5
+  ],
+  [
+   "15/10",
+   1044.5
+  ],
+  [
+   "16/10",
+   1050.0
+  ],
+  [
+   "17/10",
+   1044.0
+  ],
+  [
+   "20/10",
+   1046.5
+  ],
+  [
+   "21/10",
+   1046.5
+  ],
+  [
+   "22/10",
+   1045.5
+  ],
+  [
+   "23/10",
+   1059.0
+  ],
+  [
+   "24/10",
+   1083.0
+  ],
+  [
+   "27/10",
+   1085.0
+  ],
+  [
+   "28/10",
+   1053.5
+  ],
+  [
+   "29/10",
+   1028.0
+  ],
+  [
+   "30/10",
+   1033.0
+  ],
+  [
+   "31/10",
+   1021.5
+  ],
+  [
+   "04/11",
+   1037.5
+  ],
+  [
+   "05/11",
+   1012.0
+  ],
+  [
+   "06/11",
+   1028.0
+  ],
+  [
+   "07/11",
+   992.5
+  ],
+  [
+   "10/11",
+   1019.0
+  ],
+  [
+   "11/11",
+   1005.0
+  ],
+  [
+   "12/11",
+   1039.0
+  ],
+  [
+   "13/11",
+   1028.0
+  ],
+  [
+   "14/11",
+   1045.0
+  ],
+  [
+   "17/11",
+   1055.0
+  ],
+  [
+   "18/11",
+   1034.5
+  ],
+  [
+   "19/11",
+   1038.5
+  ],
+  [
+   "20/11",
+   1008.5
+  ],
+  [
+   "21/11",
+   1021.5
+  ],
+  [
+   "25/11",
+   957.5
+  ],
+  [
+   "26/11",
+   992.0
+  ],
+  [
+   "27/11",
+   1008.0
+  ],
+  [
+   "28/11",
+   1002.5
+  ],
+  [
+   "01/12",
+   986.0
+  ],
+  [
+   "02/12",
+   975.0
+  ],
+  [
+   "03/12",
+   966.0
+  ],
+  [
+   "04/12",
+   997.0
+  ],
+  [
+   "05/12",
+   1002.5
+  ],
+  [
+   "08/12",
+   991.5
+  ],
+  [
+   "09/12",
+   984.0
+  ],
+  [
+   "10/12",
+   993.5
+  ],
+  [
+   "11/12",
+   994.5
+  ],
+  [
+   "12/12",
+   996.5
+  ],
+  [
+   "15/12",
+   990.5
+  ],
+  [
+   "16/12",
+   973.5
+  ],
+  [
+   "17/12",
+   973.5
+  ],
+  [
+   "18/12",
+   991.0
+  ],
+  [
+   "19/12",
+   986.5
+  ],
+  [
+   "22/12",
+   982.0
+  ],
+  [
+   "23/12",
+   979.0
+  ],
+  [
+   "24/12",
+   981.5
+  ],
+  [
+   "25/12",
+   986.0
+  ],
+  [
+   "26/12",
+   980.0
+  ],
+  [
+   "29/12",
+   990.0
+  ],
+  [
+   "30/12",
+   990.5
+  ],
+  [
+   "05/01",
+   997.5
+  ],
+  [
+   "06/01",
+   1001.5
+  ],
+  [
+   "07/01",
+   1009.5
+  ],
+  [
+   "08/01",
+   1003.0
+  ],
+  [
+   "09/01",
+   1011.5
+  ],
+  [
+   "13/01",
+   1002.0
+  ],
+  [
+   "14/01",
+   1009.0
+  ],
+  [
+   "15/01",
+   1024.0
+  ],
+  [
+   "16/01",
+   1061.5
+  ],
+  [
+   "19/01",
+   1068.0
+  ],
+  [
+   "20/01",
+   1072.0
+  ],
+  [
+   "21/01",
+   1078.0
+  ],
+  [
+   "22/01",
+   1112.5
+  ],
+  [
+   "23/01",
+   1113.5
+  ],
+  [
+   "26/01",
+   1092.0
+  ],
+  [
+   "27/01",
+   1094.5
+  ],
+  [
+   "28/01",
+   1085.0
+  ],
+  [
+   "29/01",
+   1081.5
+  ],
+  [
+   "30/01",
+   1081.0
+  ],
+  [
+   "02/02",
+   1086.0
+  ],
+  [
+   "03/02",
+   1106.5
+  ],
+  [
+   "04/02",
+   1118.0
+  ],
+  [
+   "05/02",
+   1121.5
+  ],
+  [
+   "06/02",
+   1117.0
+  ],
+  [
+   "09/02",
+   1131.0
+  ],
+  [
+   "10/02",
+   1130.5
+  ],
+  [
+   "12/02",
+   1133.0
+  ],
+  [
+   "13/02",
+   1209.5
+  ],
+  [
+   "16/02",
+   1272.5
+  ],
+  [
+   "17/02",
+   1271.5
+  ],
+  [
+   "18/02",
+   1275.0
+  ],
+  [
+   "19/02",
+   1275.0
+  ],
+  [
+   "20/02",
+   1305.0
+  ],
+  [
+   "24/02",
+   1329.0
+  ],
+  [
+   "25/02",
+   1341.5
+  ],
+  [
+   "26/02",
+   1332.0
+  ],
+  [
+   "27/02",
+   1361.0
+  ],
+  [
+   "02/03",
+   1350.0
+  ],
+  [
+   "03/03",
+   1311.5
+  ],
+  [
+   "04/03",
+   1296.5
+  ],
+  [
+   "05/03",
+   1341.5
+  ],
+  [
+   "06/03",
+   1397.5
+  ],
+  [
+   "09/03",
+   1344.0
+  ],
+  [
+   "10/03",
+   1362.0
+  ],
+  [
+   "11/03",
+   1392.5
+  ],
+  [
+   "12/03",
+   1361.0
+  ],
+  [
+   "13/03",
+   1381.0
+  ],
+  [
+   "16/03",
+   1411.0
+  ],
+  [
+   "17/03",
+   1398.5
+  ],
+  [
+   "18/03",
+   1413.0
+  ],
+  [
+   "19/03",
+   1386.5
+  ],
+  [
+   "23/03",
+   1356.5
+  ],
+  [
+   "24/03",
+   1386.5
+  ],
+  [
+   "25/03",
+   1395.0
+  ],
+  [
+   "26/03",
+   1372.0
+  ],
+  [
+   "27/03",
+   1367.5
+  ],
+  [
+   "30/03",
+   1349.5
+  ],
+  [
+   "31/03",
+   1351.0
+  ],
+  [
+   "01/04",
+   1364.5
+  ],
+  [
+   "02/04",
+   1370.0
+  ],
+  [
+   "03/04",
+   1400.5
+  ],
+  [
+   "06/04",
+   1379.0
+  ],
+  [
+   "07/04",
+   1379.5
+  ],
+  [
+   "08/04",
+   1402.5
+  ],
+  [
+   "09/04",
+   1428.5
+  ],
+  [
+   "10/04",
+   1432.5
+  ],
+  [
+   "13/04",
+   1428.5
+  ],
+  [
+   "14/04",
+   1424.5
+  ],
+  [
+   "15/04",
+   1442.0
+  ],
+  [
+   "16/04",
+   1429.0
+  ],
+  [
+   "17/04",
+   1410.5
+  ],
+  [
+   "20/04",
+   1408.5
+  ],
+  [
+   "21/04",
+   1400.5
+  ],
+  [
+   "22/04",
+   1388.0
+  ],
+  [
+   "23/04",
+   1397.0
+  ],
+  [
+   "24/04",
+   1391.0
+  ],
+  [
+   "27/04",
+   1391.0
+  ],
+  [
+   "28/04",
+   1395.0
+  ],
+  [
+   "30/04",
+   1389.0
+  ],
+  [
+   "01/05",
+   1392.5
+  ],
+  [
+   "07/05",
+   1399.5
+  ],
+  [
+   "08/05",
+   1379.5
+  ],
+  [
+   "11/05",
+   1394.0
+  ],
+  [
+   "12/05",
+   1371.5
+  ],
+  [
+   "13/05",
+   1344.0
+  ],
+  [
+   "14/05",
+   1435.5
+  ],
+  [
+   "15/05",
+   1497.0
+  ],
+  [
+   "18/05",
+   1475.0
+  ],
+  [
+   "19/05",
+   1468.5
+  ],
+  [
+   "20/05",
+   1447.0
+  ],
+  [
+   "21/05",
+   1477.5
+  ],
+  [
+   "22/05",
+   1522.5
+  ],
+  [
+   "25/05",
+   1510.0
+  ],
+  [
+   "26/05",
+   1572.5
+  ],
+  [
+   "27/05",
+   1575.0
+  ],
+  [
+   "28/05",
+   1560.0
+  ],
+  [
+   "29/05",
+   1525.0
+  ],
+  [
+   "01/06",
+   1527.5
+  ],
+  [
+   "02/06",
+   1456.0
+  ],
+  [
+   "03/06",
+   1462.0
+  ],
+  [
+   "04/06",
+   1473.5
+  ],
+  [
+   "05/06",
+   1525.0
+  ],
+  [
+   "08/06",
+   1500.0
+  ],
+  [
+   "09/06",
+   1500.0
+  ],
+  [
+   "10/06",
+   1525.0
+  ],
+  [
+   "11/06",
+   1540.0
+  ],
+  [
+   "12/06",
+   1507.5
+  ],
+  [
+   "15/06",
+   1492.5
+  ],
+  [
+   "16/06",
+   1502.5
+  ],
+  [
+   "17/06",
+   1500.0
+  ],
+  [
+   "18/06",
+   1489.0
+  ],
+  [
+   "19/06",
+   1483.5
+  ],
+  [
+   "22/06",
+   1470.5
+  ],
+  [
+   "23/06",
+   1462.5
+  ],
+  [
+   "24/06",
+   1477.5
+  ],
+  [
+   "25/06",
+   1494.5
+  ],
+  [
+   "26/06",
+   1494.5
+  ],
+  [
+   "29/06",
+   1500.0
+  ],
+  [
+   "30/06",
+   1495.0
+  ],
+  [
+   "01/07",
+   1474.5
+  ],
+  [
+   "02/07",
+   1488.5
+  ],
+  [
+   "03/07",
+   1502.5
+  ],
+  [
+   "06/07",
+   1493.5
+  ],
+  [
+   "07/07",
+   1486.0
+  ],
+  [
+   "08/07",
+   1500.0
+  ],
+  [
+   "09/07",
+   1530.0
+  ],
+  [
+   "10/07",
+   1515.0
+  ],
+  [
+   "13/07",
+   1505.0
+  ],
+  [
+   "14/07",
+   1505.0
+  ],
+  [
+   "15/07",
+   1530.0
+  ],
+  [
+   "16/07",
+   1525.0
+  ],
+  [
+   "17/07",
+   1525.0
+  ],
+  [
+   "21/07",
+   1537.5
+  ],
+  [
+   "22/07",
+   1520.0
+  ],
+  [
+   "23/07",
+   1525.0
+  ],
+  [
+   "24/07",
+   1530.0
+  ],
+  [
+   "27/07",
+   1597.5
+  ],
+  [
+   "28/07",
+   1540.0
+  ],
+  [
+   "29/07",
+   1489.0
+  ],
+  [
+   "30/07",
+   1498.5
+  ],
+  [
+   "31/07",
+   1517.5
+  ],
+  [
+   "03/08",
+   1537.5
+  ],
+  [
+   "04/08",
+   1547.5
+  ],
+  [
+   "05/08",
+   1575.0
+  ],
+  [
+   "06/08",
+   1565.0
+  ],
+  [
+   "07/08",
+   1622.5
+  ],
+  [
+   "10/08",
+   1637.5
+  ],
+  [
+   "12/08",
+   1655.0
+  ],
+  [
+   "13/08",
+   1672.5
+  ],
+  [
+   "14/08",
+   1640.0
+  ],
+  [
+   "17/08",
+   1607.5
+  ],
+  [
+   "18/08",
+   1592.5
+  ],
+  [
+   "19/08",
+   1545.0
+  ],
+  [
+   "20/08",
+   1547.5
+  ],
+  [
+   "21/08",
+   1515.0
+  ],
+  [
+   "24/08",
+   1555.0
+  ],
+  [
+   "25/08",
+   1602.5
+  ],
+  [
+   "26/08",
+   1630.0
+  ],
+  [
+   "27/08",
+   1582.5
+  ],
+  [
+   "28/08",
+   1587.5
+  ],
+  [
+   "31/08",
+   1562.5
+  ],
+  [
+   "01/09",
+   1595.0
+  ],
+  [
+   "02/09",
+   1550.0
+  ],
+  [
+   "03/09",
+   1522.5
+  ],
+  [
+   "04/09",
+   1562.5
+  ],
+  [
+   "07/09",
+   1557.5
+  ],
+  [
+   "08/09",
+   1525.0
+  ],
+  [
+   "09/09",
+   1540.0
+  ],
+  [
+   "10/09",
+   1493.0
+  ],
+  [
+   "11/09",
+   1477.0
+  ],
+  [
+   "14/09",
+   1498.5
+  ],
+  [
+   "15/09",
+   1522.5
+  ],
+  [
+   "16/09",
+   1530.0
+  ],
+  [
+   "17/09",
+   1537.5
+  ],
+  [
+   "18/09",
+   1507.5
+  ],
+  [
+   "24/09",
+   1530.0
+  ],
+  [
+   "25/09",
+   1525.0
+  ],
+  [
+   "28/09",
+   1497.0
+  ],
+  [
+   "29/09",
+   1455.0
+  ],
+  [
+   "30/09",
+   1450.0
+  ],
+  [
+   "01/10",
+   1481.0
+  ]
+ ],
+ "perf": {
+  "m1": -6.7,
+  "m3": -1.3,
+  "m12": 43.1
+ },
+ "analyse": {
+  "majLe": "2026-10-01",
+  "verdict": "Nakanishi est un champion mondial discret des instruments dentaires, très rentable et peu endetté, dont la croissance est repartie fortement en 2026 après une année 2025 plombée par la dépréciation de sa filiale américaine DCI. Valorisée environ 18 fois le bénéfice prévu pour 2026, l'action n'est pas chère pour sa qualité, mais elle a déjà progressé d'environ 43 % sur un an. Les points à suivre sont le redressement de DCI, l'effet des droits de douane américains et la part organique de la croissance.",
+  "conviction": "moyenne",
+  "revisions": "À la hausse côté société : l'objectif 2026 publié en février (ventes 88,2 Md¥, résultat opérationnel 15,6 Md¥, bénéfice net 10,9 Md¥) a été relevé en août à 94,5 Md¥, 18,6 Md¥ et 13,5 Md¥. Aucun consensus d'analystes vérifiable (réservé aux abonnés sur Yahoo Finance Japon).",
+  "fonda": {
+   "score": 7,
+   "justif": "Excellente qualité du métier dentaire et bilan solide, croissance relancée, mais historique récent d'acquisition coûteuse (DCI) et peu de suivi par les analystes.",
+   "qualite": "Marge opérationnelle de 23,9 % (2023), 18,9 % (2024), 17,4 % (2025) et 19,7 % visée en 2026 : la baisse vient surtout de l'intégration de DCI, déficitaire (perte opérationnelle de 0,5 Md¥ en 2025). Le métier dentaire seul dégage 16,9 Md¥ de résultat opérationnel pour 48,2 Md¥ de ventes, soit environ 35 % de marge, et la chirurgie environ 48 %. L'avantage concurrentiel (Buffett) tient à la précision mécanique (turbines à plus de 400 000 tours par minute), à la marque NSK reconnue des dentistes et à une production intégrée au Japon.",
+   "croissance": "Ventes : 59,7 Md¥ (2023), 77,0 Md¥ (2024), 81,2 Md¥ (2025), 94,5 Md¥ visés en 2026 (+16,4 %). Résultat opérationnel : 14,3, 14,6, 14,1 puis 18,6 Md¥ visés (+32 %). Croissance 2026 portée en partie par les acquisitions (Acra Cut, Intech), part organique non publiée dans les éléments consultés. Au sens de Lynch : croissance régulière (stalwart) avec une reprise.",
+   "bilan": "Solide au sens de Graham : ratio de fonds propres de 71 % fin 2025, trésorerie de 46,0 Md¥ pour environ 19,0 Md¥ de dettes financières, soit environ 27 Md¥ de trésorerie nette. Trésorerie ramenée à 40,4 Md¥ au 30/06/2026 après les acquisitions.",
+   "valo": "PER 2026 d'environ 18,2 sur l'objectif de la société. Rendement du dividende d'environ 2,0 % (30 ¥ par action après division attendus en 2026). Valeur d'entreprise d'environ 220 Md¥ pour 18,6 Md¥ de résultat opérationnel visé, soit environ 12 fois. Moyenne historique de valorisation non vérifiée.",
+   "peg": null,
+   "piotroski": null,
+   "greenblatt": "Rendement bénéficiaire (résultat opérationnel 2026 visé de 18,6 Md¥ sur une valeur d'entreprise d'environ 220 Md¥) proche de 8,5 % : bon niveau. Rendement du capital non calculé."
+  },
+  "tech": {
+   "cours": 1481.0,
+   "coursLe": "2026-10-01",
+   "mm50": 1548.33,
+   "mm200": 1367.74,
+   "rsi14": 43.4,
+   "haut52": 1672.5,
+   "bas52": 957.5,
+   "support": 1450,
+   "resistance": 1550,
+   "tendance": "neutre",
+   "stade": 3,
+   "lecture": "Cours de 1 481,00 en dessous de sa moyenne 50 jours (1 548,33) et au-dessus de sa moyenne 200 jours (1 367,74). RSI 43,4 : élan neutre. Il se situe à 73 % de sa fourchette sur un an (de 957,50 à 1 672,50), performance sur 12 mois de 43,1 %. Clôture du 01/10/2026.",
+   "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json"
+  },
+  "actu": [
+   {
+    "d": "07/08",
+    "fait": "S1 2026 : ventes +20,5 %, résultat opérationnel +32,0 %, bénéfice net +132 %, objectif annuel relevé (bénéfice net 13,5 Md¥, BPA 81,55 ¥ après division).",
+    "impact": "positif",
+    "horizon": "moyen",
+    "lecture": "Le retour à une forte rentabilité après la perte de 2025 est confirmé ; reste à savoir quelle part vient des acquisitions et du yen faible."
+   },
+   {
+    "d": "07/08",
+    "fait": "Acquisitions d'Acra Cut et d'Intech, fabricants américains d'instruments chirurgicaux.",
+    "impact": "neutre",
+    "horizon": "long",
+    "lecture": "Renforce la chirurgie, l'activité la plus rentable, et la production aux États-Unis, ce qui peut limiter l'effet des droits de douane ; à surveiller après l'expérience DCI."
+   },
+   {
+    "d": "29/09",
+    "fait": "Division de l'action par deux, effective le 01/10/2026.",
+    "impact": "neutre",
+    "horizon": "court",
+    "lecture": "Aucun effet sur la valeur ; rend le titre plus accessible aux particuliers japonais."
+   },
+   {
+    "d": "12/02",
+    "fait": "Dépréciation de 13,8 Md¥ de l'écart d'acquisition de DCI, d'où une perte nette de 2,4 Md¥ en 2025.",
+    "impact": "negatif",
+    "horizon": "long",
+    "lecture": "Reconnaissance d'avoir payé DCI trop cher ; l'effet est comptable (pas de sortie d'argent) mais montre le risque des acquisitions."
+   }
+  ],
+  "scenarios": [
+   {
+    "horizon": "12 mois",
+    "unite": "JPY",
+    "bas": 1150,
+    "central": 1650,
+    "haut": 1950,
+    "hypotheses": "Central : BPA 2027 d'environ 90 ¥ (hypothèse +10 %, sans consensus vérifiable) valorisé environ 18 fois. Bas : déception sur DCI ou droits de douane, PER vers 14 sur le BPA 2026. Haut : nouvelle hausse de l'objectif et PER vers 21."
+   },
+   {
+    "horizon": "5 ans",
+    "unite": "%/an",
+    "bas": 0,
+    "central": 9,
+    "haut": 14,
+    "hypotheses": "Central : BPA +8 %/an et dividende 2 %, PER stable vers 18 = environ 9 à 10 %/an. Bas : BPA +3 %/an, PER vers 13 (environ -6 %/an) et dividende 2 % = environ 0 %/an. Haut : BPA +11 %/an grâce à la chirurgie, PER légèrement en hausse, dividende 2 % = environ 14 %/an. Résultat en euros soumis au change du yen."
+   }
+  ],
+  "zones": {
+   "interet": "1 300 à 1 420 JPY : sous le plancher de consolidation de 1 450 ¥, soit environ 16 à 17 fois le bénéfice 2026 visé par la société.",
+   "invalidation": "Objectif 2026 abaissé, ou nouvelle dépréciation importante sur une acquisition.",
+   "sortie": [
+    "Marge opérationnelle annuelle qui retombe sous 15 %",
+    "Trésorerie nette qui devient une dette nette à cause d'acquisitions",
+    "PER au-dessus de 28 sans accélération de la croissance"
+   ],
+   "catalyseurs": [
+    "Mi-novembre 2026 (date non confirmée) : résultats du T3",
+    "Février 2027 : résultats annuels 2026 et objectif 2027",
+    "Évolution des droits de douane américains sur les dispositifs médicaux japonais"
+   ]
+  },
+  "cadres": [
+   "Buffett (qualité, avantage concurrentiel)",
+   "Fisher (innovation, direction)",
+   "Lynch (stalwart)",
+   "Graham (solidité du bilan)",
+   "Greenblatt (formule magique)",
+   "Théorie de Dow",
+   "Weinstein (stades)"
+  ],
+  "sources": [
+   "https://www.nakanishi-inc.jp/app/wp-content/uploads/2026/02/FY2025Q4_FR.pdf",
+   "https://finance.biggo.jp/news/jpx_tdnet_140120260806511592",
+   "https://finance.yahoo.co.jp/quote/7716.T/performance",
+   "https://minkabu.jp/stock/7716/settlement",
+   "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json"
+  ],
+  "aVerifier": "Résultats du S1 2026 et nouvel objectif lus via un résumé du dépôt TDnet (BigGo) et recoupés par Yahoo Finance Japon pour l'objectif ; le PDF officiel du S1 n'a pas pu être consulté. Date des résultats du T3 non confirmée. Aucun consensus d'analystes ni PER 2027 vérifiable. Part organique de la croissance 2026 non trouvée."
+ },
+ "societe": {
+  "resume": "Nakanishi est une société japonaise qui fabrique, sous la marque NSK, les instruments qui tournent à très grande vitesse dans la bouche du patient chez le dentiste (turbines, contre-angles, moteurs), ainsi que des fauteuils dentaires, des instruments pour la chirurgie et des broches pour l'industrie. Concrètement, quand un dentiste soigne une carie, la « fraise » qui siffle est souvent montée sur une turbine NSK. Elle vend dans le monde entier et réalise près de 90 % de ses ventes hors du Japon.",
+  "fondee": 1930,
+  "siege": "Kanuma, préfecture de Tochigi, Japon",
+  "effectifs": 2204,
+  "site": "https://www.nsk-nakanishi.co.jp",
+  "histoire": [
+   {
+    "annee": 1930,
+    "fait": "Création par Haruo Nakanishi à Kanuma (Japon)."
+   },
+   {
+    "annee": 1971,
+    "fait": "Lancement des turbines dentaires à 400 000 tours par minute."
+   },
+   {
+    "annee": 1984,
+    "fait": "Première filiale à l'étranger, NSK America."
+   },
+   {
+    "annee": 2000,
+    "fait": "Entrée en Bourse ; Eiichi Nakanishi devient président."
+   },
+   {
+    "annee": 2023,
+    "fait": "Rachat complet de DCI International, deuxième fabricant américain de fauteuils dentaires (après une première participation de 33 % en 2020)."
+   },
+   {
+    "annee": 2025,
+    "fait": "Dépréciation de 13,8 Md¥ sur DCI et perte nette de 2,4 Md¥, malgré des ventes en hausse de 5,4 %."
+   },
+   {
+    "annee": 2026,
+    "fait": "Rachats d'Acra Cut et Intech (instruments chirurgicaux, États-Unis) et division de l'action par deux."
+   }
+  ],
+  "modele": "Nakanishi vend ses instruments aux dentistes et hôpitaux surtout par des distributeurs spécialisés. Les instruments rotatifs s'usent et se remplacent régulièrement, avec des réparations et pièces détachées, ce qui donne des ventes répétées sans abonnement. Le pouvoir de prix vient de la précision et de la fiabilité reconnues de la marque NSK.",
+  "segments": [
+   {
+    "nom": "Dentaire (instruments NSK)",
+    "part": 59.4,
+    "detail": "48,2 Md¥ en 2025 (+3,6 %), résultat opérationnel 16,9 Md¥."
+   },
+   {
+    "nom": "DCI (fauteuils et équipements dentaires, États-Unis)",
+    "part": 25.3,
+    "detail": "20,5 Md¥ en 2025 (+5,6 %), perte opérationnelle de 0,5 Md¥."
+   },
+   {
+    "nom": "Industrie (broches et outils de précision)",
+    "part": 8.5,
+    "detail": "6,9 Md¥ en 2025 (+2,5 %), résultat opérationnel 0,8 Md¥."
+   },
+   {
+    "nom": "Chirurgie (neurochirurgie, orthopédie)",
+    "part": 6.8,
+    "detail": "5,5 Md¥ en 2025 (+28,1 %), résultat opérationnel 2,7 Md¥."
+   }
+  ],
+  "geo": [
+   {
+    "zone": "Amérique du Nord",
+    "part": 40.1
+   },
+   {
+    "zone": "Europe",
+    "part": 26.2
+   },
+   {
+    "zone": "Japon",
+    "part": 11.6
+   },
+   {
+    "zone": "Autres",
+    "part": 11.4
+   },
+   {
+    "zone": "Asie",
+    "part": 10.7
+   }
+  ],
+  "clients": "Les dentistes, laboratoires et hôpitaux du monde entier, servis par des distributeurs de matériel dentaire ; des chirurgiens pour la gamme chirurgie et des industriels pour les broches de précision.",
+  "concurrents": [
+   "KaVo (Envista)",
+   "W&H",
+   "Dentsply Sirona",
+   "Bien-Air",
+   "Planmeca et A-dec (fauteuils)"
+  ],
+  "avantage": "Un savoir-faire de mécanique de précision très difficile à copier, une marque NSK connue de presque tous les dentistes et une production intégrée au Japon. Ce qui pourrait l'éroder : des acquisitions mal choisies (comme DCI), les droits de douane américains et la concurrence de fabricants chinois moins chers.",
+  "dirigeants": [
+   {
+    "nom": "Eiichi Nakanishi",
+    "role": "Président et directeur général du groupe",
+    "depuis": 2000
+   }
+  ],
+  "actionnariat": "Société familiale : la famille Nakanishi reste un actionnaire important ; le reste est détenu par des investisseurs japonais et étrangers. Pourcentages non vérifiés.",
+  "devise": "JPY",
+  "chiffres": [
+   {
+    "annee": "2023",
+    "ca": 59692,
+    "rn": 22799,
+    "margeOp": 23.9,
+    "detteNette": null,
+    "dividende": null
+   },
+   {
+    "annee": "2024",
+    "ca": 77041,
+    "rn": 8578,
+    "margeOp": 18.9,
+    "detteNette": null,
+    "dividende": null
+   },
+   {
+    "annee": "2025",
+    "ca": 81179,
+    "rn": -2398,
+    "margeOp": 17.4,
+    "detteNette": -26974,
+    "dividende": 27
+   },
+   {
+    "annee": "2026e",
+    "ca": 94480,
+    "rn": 13540,
+    "margeOp": 19.7,
+    "detteNette": null,
+    "dividende": 30
+   }
+  ],
+  "croire": [
+   "Que NSK garde sa place de premier fabricant mondial d'instruments rotatifs dentaires (turbines, contre-angles) et sa marge très élevée sur ce métier.",
+   "Que DCI (fauteuils dentaires aux États-Unis), à l'origine de la dépréciation de 2025, revient à l'équilibre au lieu de peser sur les comptes.",
+   "Que la chirurgie (instruments pour neurochirurgie et orthopédie) continue de croître vite et devient un deuxième moteur de bénéfices.",
+   "Que les acquisitions restent de taille raisonnable et que la trésorerie nette est préservée."
+  ],
+  "questions": [
+   "Quelle part de la forte croissance du premier semestre 2026 vient des acquisitions (Acra Cut, Intech) et du change, et quelle part est organique ?",
+   "Les droits de douane américains sur les produits fabriqués au Japon pèsent-ils sur les prix ou les marges en Amérique du Nord (40 % des ventes) ?",
+   "La famille Nakanishi prépare-t-elle la succession d'Eiichi Nakanishi, président depuis 2000 ?"
+  ],
+  "suivi": {
+   "le": "2026-10-01",
+   "bilan": "3 conditions sur 4 tiennent ou progressent ; le point fragile reste DCI, dont le redressement n'est pas encore prouvé par les chiffres consultés.",
+   "croire": [
+    {
+     "c": "Que NSK garde sa place de premier fabricant mondial d'instruments rotatifs dentaires (turbines, contre-angles) et sa marge très élevée sur ce métier.",
+     "etat": "ok",
+     "reponse": "Oui : le métier dentaire reste de loin le plus gros et le plus rentable du groupe.",
+     "preuve": "2025 : ventes dentaires 48,2 Md¥ (+3,6 %) pour 16,9 Md¥ de résultat opérationnel ; toutes les activités en croissance à deux chiffres au S1 2026.",
+     "source": "https://www.nakanishi-inc.jp/app/wp-content/uploads/2026/02/FY2025Q4_FR.pdf",
+     "prochain": "Résultats du T3 2026"
+    },
+    {
+     "c": "Que DCI (fauteuils dentaires aux États-Unis), à l'origine de la dépréciation de 2025, revient à l'équilibre au lieu de peser sur les comptes.",
+     "etat": "watch",
+     "reponse": "Pas encore démontré : DCI était déficitaire en 2025 et le détail du S1 2026 par activité n'a pas été vérifié.",
+     "preuve": "2025 : DCI 20,5 Md¥ de ventes, perte opérationnelle de 0,5 Md¥, dépréciation de 13,8 Md¥.",
+     "source": "https://www.nakanishi-inc.jp/app/wp-content/uploads/2026/02/FY2025Q4_FR.pdf",
+     "prochain": "Résultats du T3 2026 (détail par activité)"
+    },
+    {
+     "c": "Que la chirurgie (instruments pour neurochirurgie et orthopédie) continue de croître vite et devient un deuxième moteur de bénéfices.",
+     "etat": "ok",
+     "reponse": "Oui : la chirurgie a progressé de 28 % en 2025 avec une marge très élevée, et deux rachats la renforcent en 2026.",
+     "preuve": "Chirurgie 2025 : 5,5 Md¥ de ventes (+28,1 %), 2,7 Md¥ de résultat opérationnel ; rachats d'Acra Cut et Intech.",
+     "source": "https://www.nakanishi-inc.jp/app/wp-content/uploads/2026/02/FY2025Q4_FR.pdf",
+     "prochain": "Résultats annuels 2026 (février 2027)"
+    },
+    {
+     "c": "Que les acquisitions restent de taille raisonnable et que la trésorerie nette est préservée.",
+     "etat": "ok",
+     "reponse": "Oui pour l'instant : la trésorerie a peu baissé malgré deux acquisitions.",
+     "preuve": "Trésorerie de 40,4 Md¥ au 30/06/2026 contre 46,0 Md¥ fin 2025, pour environ 19 Md¥ de dettes financières fin 2025.",
+     "source": "https://finance.biggo.jp/news/jpx_tdnet_140120260806511592",
+     "prochain": "Résultats du T3 2026"
+    }
+   ],
+   "questions": [
+    {
+     "q": "Quelle part de la forte croissance du premier semestre 2026 vient des acquisitions (Acra Cut, Intech) et du change, et quelle part est organique ?",
+     "etat": "nc",
+     "reponse": "Non trouvé : la société cite les acquisitions et la croissance de toutes les activités, sans chiffre organique dans les éléments consultés.",
+     "preuve": "S1 2026 : ventes +20,5 %.",
+     "source": "https://finance.biggo.jp/news/jpx_tdnet_140120260806511592",
+     "prochain": "Résultats du T3 2026"
+    },
+    {
+     "q": "Les droits de douane américains sur les produits fabriqués au Japon pèsent-ils sur les prix ou les marges en Amérique du Nord (40 % des ventes) ?",
+     "etat": "nc",
+     "reponse": "Non chiffré dans les éléments consultés ; la hausse de l'objectif annuel suggère un effet limité à ce stade.",
+     "preuve": "Amérique du Nord : 32,6 Md¥ de ventes en 2025 (40 %).",
+     "source": "https://www.nakanishi-inc.jp/app/wp-content/uploads/2026/02/FY2025Q4_FR.pdf",
+     "prochain": "Résultats du T3 2026"
+    },
+    {
+     "q": "La famille Nakanishi prépare-t-elle la succession d'Eiichi Nakanishi, président depuis 2000 ?",
+     "etat": "nc",
+     "reponse": "Aucune annonce trouvée : Eiichi Nakanishi dirige le groupe depuis 2000.",
+     "preuve": "Président depuis mai 2000.",
+     "source": "https://the-shashi.com/en/tse/7716/",
+     "prochain": "Assemblée générale de mars 2027"
+    }
+   ]
+  },
+  "sources": [
+   "https://www.nakanishi-inc.jp/app/wp-content/uploads/2026/02/FY2025Q4_FR.pdf",
+   "https://finance.biggo.jp/news/jpx_tdnet_140120260806511592",
+   "https://finance.yahoo.co.jp/quote/7716.T/performance",
+   "https://minkabu.jp/stock/7716/settlement",
+   "https://the-shashi.com/en/tse/7716/",
+   "https://dentalasia.net/nsk-acquires-dci-international/",
+   "https://www.nakanishi-inc.jp/ir/financial-report/"
+  ],
+  "aVerifier": "Dividendes 2023 et 2024 et dette nette 2023, 2024 et 2026 non confirmés (null). Bénéfice net 2023 (22,8 Md¥) probablement gonflé par un gain lié à la prise de contrôle de DCI, non vérifié. Effectif de 2 204 (source secondaire unique, the-shashi). Actionnariat familial non chiffré. Répartition 2025 par activité et par zone lue dans le résumé du rapport annuel (part « Autres » regroupant le reste du monde).",
+  "verifieLe": "2026-10-01",
+  "corrections": []
+ }
+}

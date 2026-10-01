@@ -1,0 +1,1396 @@
+{
+ "ticker": "7839",
+ "nom": "SHOEI",
+ "pays": "JP",
+ "secteur": "Casques moto haut de gamme",
+ "cours": 2161.0,
+ "coursLe": "2026-10-01",
+ "devise": "JPY",
+ "capi": "environ 112 Md¥ (environ 630 M€)",
+ "per26": 17.0,
+ "per27": 16.0,
+ "statut": "intacte",
+ "these": "Leader mondial du casque moto haut de gamme (environ 60 % du marché premium selon la société), fabriqué uniquement au Japon, sans dette et avec environ 20 Md¥ de trésorerie, ROE autour de 20 %. Sur 9 mois, le résultat opérationnel atteint déjà 88 % de l'objectif annuel, qui paraît prudent ; reprise des volumes après deux années de baisse.",
+ "risque": "Petite capitalisation peu liquide, dépendante de la moto haut de gamme et de la conjoncture européenne ; production 100 % japonaise, donc sensible au yen et aux droits de douane américains.",
+ "faits": [
+  {
+   "d": "31/07",
+   "t": "9 mois (octobre 2025 à juin 2026) : CA 24,3 Md¥ (+6,2 %), résultat opérationnel 7,33 Md¥, bénéfice net 5,20 Md¥ ; 88 % de l'objectif annuel de résultat opérationnel déjà atteint."
+  },
+  {
+   "d": "31/07",
+   "t": "T3 seul (avril à juin) : CA 9,35 Md¥, résultat opérationnel 2,90 Md¥ (marge d'environ 31 %), aidé par un yen faible face au dollar et à l'euro."
+  },
+  {
+   "d": "24/04",
+   "t": "Premier semestre : résultat ordinaire de 4,54 Md¥, au-dessus des prévisions."
+  },
+  {
+   "d": "01/05",
+   "t": "Tokai Tokyo relève sa recommandation à « surperformance », objectif 2 100 ¥."
+  }
+ ],
+ "pub": null,
+ "pubLabel": "Résultats annuels de l'exercice clos le 30/09/2026 (date non publiée, mi-novembre probable : le 14/11 l'an dernier)",
+ "src": "https://finance.matsui.co.jp/stock/7839/settlement/index",
+ "notes": "Exercice clos fin septembre. Pas de division d'actions récente. PER 16,5 (exercice clos en septembre 2026) et 15,5 (septembre 2027) selon MarketScreener au cours du 01/09 (2 093 ¥), recalculés à 17,0 et 16,0 au cours de 2 161 ¥ ; PER de 18,5 sur la prévision de la société (BPA 116,67 ¥), jugée prudente. Cours, moyennes mobiles et RSI issus du flux de cours (clôture du 01/10/2026).",
+ "yahoo": "7839.T",
+ "compte": "CTO",
+ "histo": [
+  [
+   "04/09",
+   1842.0
+  ],
+  [
+   "05/09",
+   1851.0
+  ],
+  [
+   "08/09",
+   1870.0
+  ],
+  [
+   "09/09",
+   1891.0
+  ],
+  [
+   "10/09",
+   1877.0
+  ],
+  [
+   "11/09",
+   1847.0
+  ],
+  [
+   "12/09",
+   1846.0
+  ],
+  [
+   "16/09",
+   1872.0
+  ],
+  [
+   "17/09",
+   1852.0
+  ],
+  [
+   "18/09",
+   1856.0
+  ],
+  [
+   "19/09",
+   1844.0
+  ],
+  [
+   "22/09",
+   1839.0
+  ],
+  [
+   "24/09",
+   1826.0
+  ],
+  [
+   "25/09",
+   1843.0
+  ],
+  [
+   "26/09",
+   1835.0
+  ],
+  [
+   "29/09",
+   1757.0
+  ],
+  [
+   "30/09",
+   1759.0
+  ],
+  [
+   "01/10",
+   1700.0
+  ],
+  [
+   "02/10",
+   1685.0
+  ],
+  [
+   "03/10",
+   1700.0
+  ],
+  [
+   "06/10",
+   1746.0
+  ],
+  [
+   "07/10",
+   1749.0
+  ],
+  [
+   "08/10",
+   1709.0
+  ],
+  [
+   "09/10",
+   1694.0
+  ],
+  [
+   "10/10",
+   1675.0
+  ],
+  [
+   "14/10",
+   1652.0
+  ],
+  [
+   "15/10",
+   1684.0
+  ],
+  [
+   "16/10",
+   1678.0
+  ],
+  [
+   "17/10",
+   1675.0
+  ],
+  [
+   "20/10",
+   1684.0
+  ],
+  [
+   "21/10",
+   1685.0
+  ],
+  [
+   "22/10",
+   1682.0
+  ],
+  [
+   "23/10",
+   1686.0
+  ],
+  [
+   "24/10",
+   1695.0
+  ],
+  [
+   "27/10",
+   1689.0
+  ],
+  [
+   "28/10",
+   1668.0
+  ],
+  [
+   "29/10",
+   1630.0
+  ],
+  [
+   "30/10",
+   1641.0
+  ],
+  [
+   "31/10",
+   1639.0
+  ],
+  [
+   "04/11",
+   1677.0
+  ],
+  [
+   "05/11",
+   1682.0
+  ],
+  [
+   "06/11",
+   1680.0
+  ],
+  [
+   "07/11",
+   1690.0
+  ],
+  [
+   "10/11",
+   1704.0
+  ],
+  [
+   "11/11",
+   1711.0
+  ],
+  [
+   "12/11",
+   1742.0
+  ],
+  [
+   "13/11",
+   1759.0
+  ],
+  [
+   "14/11",
+   1745.0
+  ],
+  [
+   "17/11",
+   1830.0
+  ],
+  [
+   "18/11",
+   1818.0
+  ],
+  [
+   "19/11",
+   1777.0
+  ],
+  [
+   "20/11",
+   1807.0
+  ],
+  [
+   "21/11",
+   1829.0
+  ],
+  [
+   "25/11",
+   1804.0
+  ],
+  [
+   "26/11",
+   1823.0
+  ],
+  [
+   "27/11",
+   1835.0
+  ],
+  [
+   "28/11",
+   1860.0
+  ],
+  [
+   "01/12",
+   1833.0
+  ],
+  [
+   "02/12",
+   1831.0
+  ],
+  [
+   "03/12",
+   1819.0
+  ],
+  [
+   "04/12",
+   1859.0
+  ],
+  [
+   "05/12",
+   1850.0
+  ],
+  [
+   "08/12",
+   1828.0
+  ],
+  [
+   "09/12",
+   1845.0
+  ],
+  [
+   "10/12",
+   1910.0
+  ],
+  [
+   "11/12",
+   1850.0
+  ],
+  [
+   "12/12",
+   1843.0
+  ],
+  [
+   "15/12",
+   1856.0
+  ],
+  [
+   "16/12",
+   1849.0
+  ],
+  [
+   "17/12",
+   1818.0
+  ],
+  [
+   "18/12",
+   1776.0
+  ],
+  [
+   "19/12",
+   1785.0
+  ],
+  [
+   "22/12",
+   1798.0
+  ],
+  [
+   "23/12",
+   1821.0
+  ],
+  [
+   "24/12",
+   1790.0
+  ],
+  [
+   "25/12",
+   1812.0
+  ],
+  [
+   "26/12",
+   1798.0
+  ],
+  [
+   "29/12",
+   1782.0
+  ],
+  [
+   "30/12",
+   1777.0
+  ],
+  [
+   "05/01",
+   1787.0
+  ],
+  [
+   "06/01",
+   1824.0
+  ],
+  [
+   "07/01",
+   1831.0
+  ],
+  [
+   "08/01",
+   1786.0
+  ],
+  [
+   "09/01",
+   1819.0
+  ],
+  [
+   "13/01",
+   1818.0
+  ],
+  [
+   "14/01",
+   1818.0
+  ],
+  [
+   "15/01",
+   1854.0
+  ],
+  [
+   "16/01",
+   1816.0
+  ],
+  [
+   "19/01",
+   1818.0
+  ],
+  [
+   "20/01",
+   1815.0
+  ],
+  [
+   "21/01",
+   1772.0
+  ],
+  [
+   "22/01",
+   1778.0
+  ],
+  [
+   "23/01",
+   1799.0
+  ],
+  [
+   "26/01",
+   1774.0
+  ],
+  [
+   "27/01",
+   1779.0
+  ],
+  [
+   "28/01",
+   1753.0
+  ],
+  [
+   "29/01",
+   1747.0
+  ],
+  [
+   "30/01",
+   1775.0
+  ],
+  [
+   "02/02",
+   1689.0
+  ],
+  [
+   "03/02",
+   1634.0
+  ],
+  [
+   "04/02",
+   1667.0
+  ],
+  [
+   "05/02",
+   1701.0
+  ],
+  [
+   "06/02",
+   1726.0
+  ],
+  [
+   "09/02",
+   1738.0
+  ],
+  [
+   "10/02",
+   1755.0
+  ],
+  [
+   "12/02",
+   1742.0
+  ],
+  [
+   "13/02",
+   1714.0
+  ],
+  [
+   "16/02",
+   1724.0
+  ],
+  [
+   "17/02",
+   1737.0
+  ],
+  [
+   "18/02",
+   1734.0
+  ],
+  [
+   "19/02",
+   1743.0
+  ],
+  [
+   "20/02",
+   1704.0
+  ],
+  [
+   "24/02",
+   1714.0
+  ],
+  [
+   "25/02",
+   1715.0
+  ],
+  [
+   "26/02",
+   1732.0
+  ],
+  [
+   "27/02",
+   1800.0
+  ],
+  [
+   "02/03",
+   1775.0
+  ],
+  [
+   "03/03",
+   1725.0
+  ],
+  [
+   "04/03",
+   1659.0
+  ],
+  [
+   "05/03",
+   1660.0
+  ],
+  [
+   "06/03",
+   1678.0
+  ],
+  [
+   "09/03",
+   1631.0
+  ],
+  [
+   "10/03",
+   1650.0
+  ],
+  [
+   "11/03",
+   1641.0
+  ],
+  [
+   "12/03",
+   1624.0
+  ],
+  [
+   "13/03",
+   1618.0
+  ],
+  [
+   "16/03",
+   1596.0
+  ],
+  [
+   "17/03",
+   1613.0
+  ],
+  [
+   "18/03",
+   1636.0
+  ],
+  [
+   "19/03",
+   1605.0
+  ],
+  [
+   "23/03",
+   1580.0
+  ],
+  [
+   "24/03",
+   1598.0
+  ],
+  [
+   "25/03",
+   1622.0
+  ],
+  [
+   "26/03",
+   1634.0
+  ],
+  [
+   "27/03",
+   1652.0
+  ],
+  [
+   "30/03",
+   1646.0
+  ],
+  [
+   "31/03",
+   1646.0
+  ],
+  [
+   "01/04",
+   1699.0
+  ],
+  [
+   "02/04",
+   1706.0
+  ],
+  [
+   "03/04",
+   1717.0
+  ],
+  [
+   "06/04",
+   1718.0
+  ],
+  [
+   "07/04",
+   1704.0
+  ],
+  [
+   "08/04",
+   1727.0
+  ],
+  [
+   "09/04",
+   1684.0
+  ],
+  [
+   "10/04",
+   1677.0
+  ],
+  [
+   "13/04",
+   1701.0
+  ],
+  [
+   "14/04",
+   1709.0
+  ],
+  [
+   "15/04",
+   1721.0
+  ],
+  [
+   "16/04",
+   1711.0
+  ],
+  [
+   "17/04",
+   1717.0
+  ],
+  [
+   "20/04",
+   1683.0
+  ],
+  [
+   "21/04",
+   1690.0
+  ],
+  [
+   "22/04",
+   1650.0
+  ],
+  [
+   "23/04",
+   1630.0
+  ],
+  [
+   "24/04",
+   1620.0
+  ],
+  [
+   "27/04",
+   1641.0
+  ],
+  [
+   "28/04",
+   1723.0
+  ],
+  [
+   "30/04",
+   1748.0
+  ],
+  [
+   "01/05",
+   1850.0
+  ],
+  [
+   "07/05",
+   1861.0
+  ],
+  [
+   "08/05",
+   1815.0
+  ],
+  [
+   "11/05",
+   1836.0
+  ],
+  [
+   "12/05",
+   1800.0
+  ],
+  [
+   "13/05",
+   1779.0
+  ],
+  [
+   "14/05",
+   1754.0
+  ],
+  [
+   "15/05",
+   1794.0
+  ],
+  [
+   "18/05",
+   1764.0
+  ],
+  [
+   "19/05",
+   1767.0
+  ],
+  [
+   "20/05",
+   1720.0
+  ],
+  [
+   "21/05",
+   1712.0
+  ],
+  [
+   "22/05",
+   1670.0
+  ],
+  [
+   "25/05",
+   1711.0
+  ],
+  [
+   "26/05",
+   1698.0
+  ],
+  [
+   "27/05",
+   1699.0
+  ],
+  [
+   "28/05",
+   1723.0
+  ],
+  [
+   "29/05",
+   1746.0
+  ],
+  [
+   "01/06",
+   1856.0
+  ],
+  [
+   "02/06",
+   1821.0
+  ],
+  [
+   "03/06",
+   1838.0
+  ],
+  [
+   "04/06",
+   1842.0
+  ],
+  [
+   "05/06",
+   1871.0
+  ],
+  [
+   "08/06",
+   1849.0
+  ],
+  [
+   "09/06",
+   1871.0
+  ],
+  [
+   "10/06",
+   1915.0
+  ],
+  [
+   "11/06",
+   1840.0
+  ],
+  [
+   "12/06",
+   1824.0
+  ],
+  [
+   "15/06",
+   1830.0
+  ],
+  [
+   "16/06",
+   1805.0
+  ],
+  [
+   "17/06",
+   1831.0
+  ],
+  [
+   "18/06",
+   1806.0
+  ],
+  [
+   "19/06",
+   1797.0
+  ],
+  [
+   "22/06",
+   1812.0
+  ],
+  [
+   "23/06",
+   1790.0
+  ],
+  [
+   "24/06",
+   1824.0
+  ],
+  [
+   "25/06",
+   1802.0
+  ],
+  [
+   "26/06",
+   1774.0
+  ],
+  [
+   "29/06",
+   1753.0
+  ],
+  [
+   "30/06",
+   1773.0
+  ],
+  [
+   "01/07",
+   1764.0
+  ],
+  [
+   "02/07",
+   1798.0
+  ],
+  [
+   "03/07",
+   1841.0
+  ],
+  [
+   "06/07",
+   1819.0
+  ],
+  [
+   "07/07",
+   1828.0
+  ],
+  [
+   "08/07",
+   1814.0
+  ],
+  [
+   "09/07",
+   1816.0
+  ],
+  [
+   "10/07",
+   1826.0
+  ],
+  [
+   "13/07",
+   1835.0
+  ],
+  [
+   "14/07",
+   1860.0
+  ],
+  [
+   "15/07",
+   1878.0
+  ],
+  [
+   "16/07",
+   1870.0
+  ],
+  [
+   "17/07",
+   1874.0
+  ],
+  [
+   "21/07",
+   1887.0
+  ],
+  [
+   "22/07",
+   1881.0
+  ],
+  [
+   "23/07",
+   1879.0
+  ],
+  [
+   "24/07",
+   1897.0
+  ],
+  [
+   "27/07",
+   1953.0
+  ],
+  [
+   "28/07",
+   1980.0
+  ],
+  [
+   "29/07",
+   2012.0
+  ],
+  [
+   "30/07",
+   1981.0
+  ],
+  [
+   "31/07",
+   1951.0
+  ],
+  [
+   "03/08",
+   2009.0
+  ],
+  [
+   "04/08",
+   1954.0
+  ],
+  [
+   "05/08",
+   1960.0
+  ],
+  [
+   "06/08",
+   2015.0
+  ],
+  [
+   "07/08",
+   2018.0
+  ],
+  [
+   "10/08",
+   2041.0
+  ],
+  [
+   "12/08",
+   2043.0
+  ],
+  [
+   "13/08",
+   2028.0
+  ],
+  [
+   "14/08",
+   2051.0
+  ],
+  [
+   "17/08",
+   2042.0
+  ],
+  [
+   "18/08",
+   2047.0
+  ],
+  [
+   "19/08",
+   2040.0
+  ],
+  [
+   "20/08",
+   2089.0
+  ],
+  [
+   "21/08",
+   2077.0
+  ],
+  [
+   "24/08",
+   2089.0
+  ],
+  [
+   "25/08",
+   2073.0
+  ],
+  [
+   "26/08",
+   2083.0
+  ],
+  [
+   "27/08",
+   2097.0
+  ],
+  [
+   "28/08",
+   2113.0
+  ],
+  [
+   "31/08",
+   2116.0
+  ],
+  [
+   "01/09",
+   2093.0
+  ],
+  [
+   "02/09",
+   2058.0
+  ],
+  [
+   "03/09",
+   2070.0
+  ],
+  [
+   "04/09",
+   2111.0
+  ],
+  [
+   "07/09",
+   2116.0
+  ],
+  [
+   "08/09",
+   2087.0
+  ],
+  [
+   "09/09",
+   2089.0
+  ],
+  [
+   "10/09",
+   2072.0
+  ],
+  [
+   "11/09",
+   2046.0
+  ],
+  [
+   "14/09",
+   2065.0
+  ],
+  [
+   "15/09",
+   2041.0
+  ],
+  [
+   "16/09",
+   2071.0
+  ],
+  [
+   "17/09",
+   2125.0
+  ],
+  [
+   "18/09",
+   2122.0
+  ],
+  [
+   "24/09",
+   2144.0
+  ],
+  [
+   "25/09",
+   2150.0
+  ],
+  [
+   "28/09",
+   2153.0
+  ],
+  [
+   "29/09",
+   2087.0
+  ],
+  [
+   "30/09",
+   2112.0
+  ],
+  [
+   "01/10",
+   2161.0
+  ]
+ ],
+ "perf": {
+  "m1": 2.3,
+  "m3": 23.3,
+  "m12": 16.7
+ },
+ "analyse": {
+  "majLe": "2026-10-01",
+  "verdict": "SHOEI est une petite entreprise de très grande qualité : marque de référence du casque moto premium, marge opérationnelle proche de 28 à 30 %, aucune dette et une trésorerie qui représente environ 18 % de sa capitalisation. Après deux années de baisse des volumes, l'exercice qui vient de se terminer s'annonce meilleur que la prévision officielle, en partie grâce au yen faible. À environ 17 fois les bénéfices, le prix est raisonnable, mais le titre est déjà au plus haut sur un an et les résultats de novembre devront confirmer la reprise.",
+  "conviction": "moyenne",
+  "revisions": "En hausse : le consensus IFIS attend un résultat ordinaire de 9,6 Md¥ (+7,9 %) contre 8,38 Md¥ (-5,8 %) dans la prévision de la société, non relevée au 31/07. Consensus MarketScreener (3 analystes) : bénéfice net de 6,62 Md¥ pour l'exercice clos en septembre 2026 et 7,0 Md¥ pour le suivant, objectif moyen 2 250 ¥ (environ +4 % au cours actuel). Un courtier japonais a relevé son objectif à 2 400 ¥ (IFIS).",
+  "fonda": {
+   "score": 8,
+   "justif": "Qualité élevée (marque dominante, marges, absence de dette, ROE autour de 20 %) et valorisation raisonnable ; la note est limitée par la taille, la faible liquidité et la sensibilité au yen.",
+   "qualite": "Marge opérationnelle de 29,2 % (septembre 2023), 28,9 % (2024), 27,5 % (2025) puis 30,1 % sur 9 mois de l'exercice 2026. ROE calculé d'environ 20 % en 2025 (6,3 Md¥ de bénéfice pour environ 31 Md¥ de fonds propres moyens), objectif de la société : ROE autour de 20 %. Avantage concurrentiel (Buffett) : marque premium, environ 60 % du marché mondial du casque haut de gamme selon la société, production artisanale au Japon difficile à copier ; pouvoir de prix démontré (hausses de prix qui ont compensé en partie la baisse des volumes en 2025).",
+   "croissance": "CA : 33,6 Md¥ (septembre 2023), 35,8 Md¥ (2024), 32,4 Md¥ (2025), 34,3 Md¥ attendus par le consensus pour 2026. Bénéfice net : 7,07, 7,38 puis 6,32 Md¥. Volumes : 788 000 casques (2023), 721 000 (2024), 636 000 (2025), 661 000 prévus. Consensus : bénéfice net 6,62 Md¥ (2026) puis 7,0 Md¥ (2027), soit environ +6 %/an. Au sens de Lynch : une valeur régulière avec un cycle.",
+   "bilan": "Aucune dette financière et 19,9 Md¥ de trésorerie fin septembre 2025 (15,4 Md¥ un an plus tôt), ratio de fonds propres de 85,1 %. Trésorerie nette attendue de 21,9 Md¥ fin septembre 2026 selon MarketScreener. Bilan excellent au sens de Graham.",
+   "valo": "PER d'environ 17 (2026) et 16 (2027) recalculés sur le consensus MarketScreener ; VE/CA d'environ 2,5 ; rendement du dividende d'environ 2,8 % (60 ¥). Hors trésorerie, la valeur d'entreprise (environ 90 Md¥) représente environ 11 fois le résultat opérationnel attendu. Moyenne historique de PER non vérifiée.",
+   "peg": 2.8,
+   "piotroski": null,
+   "greenblatt": "Rendement bénéficiaire calculé (résultat opérationnel 2025 de 8,9 Md¥ / valeur d'entreprise d'environ 90 Md¥) proche de 10 % et rendement du capital très élevé (environ 20 % de ROE avec beaucoup de trésorerie inutilisée) : profil favorable sur la formule magique."
+  },
+  "tech": {
+   "cours": 2161.0,
+   "coursLe": "2026-10-01",
+   "mm50": 2045.06,
+   "mm200": 1829.35,
+   "rsi14": 61.4,
+   "haut52": 2161.0,
+   "bas52": 1580.0,
+   "support": 2040,
+   "resistance": 2161,
+   "tendance": "haussiere",
+   "stade": 2,
+   "lecture": "Cours de 2 161,00 au-dessus de sa moyenne 50 jours (2 045,06) et au-dessus de sa moyenne 200 jours (1 829,35). RSI 61,4 : élan neutre. Il se situe à 100 % de sa fourchette sur un an (de 1 580,00 à 2 161,00), performance sur 12 mois de 16,7 %. Clôture du 01/10/2026.",
+   "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json"
+  },
+  "actu": [
+   {
+    "d": "31/07",
+    "fait": "9 mois : CA +6,2 % à 24,3 Md¥, résultat opérationnel 7,33 Md¥ (88 % de l'objectif annuel), bénéfice net 5,20 Md¥ ; prévision annuelle non relevée.",
+    "impact": "positif",
+    "horizon": "court",
+    "lecture": "Sauf trimestre très faible, l'objectif annuel sera dépassé ; la société explique une partie de l'amélioration par le yen faible."
+   },
+   {
+    "d": "24/04",
+    "fait": "Premier semestre au-dessus des prévisions (résultat ordinaire de 4,54 Md¥).",
+    "impact": "positif",
+    "horizon": "court",
+    "lecture": "Premier signe que la baisse des volumes de 2024 et 2025 est terminée."
+   },
+   {
+    "d": "14/11/2025",
+    "fait": "Exercice 2025 : CA -9,6 %, résultat opérationnel -13,9 %, volumes -11,9 % (stocks trop élevés chez les distributeurs au Japon, changement de modèles en Europe, Chine en recul, droits de douane américains) ; dividende ramené de 70 à 60 ¥.",
+    "impact": "negatif",
+    "horizon": "moyen",
+    "lecture": "Montre que l'activité est cyclique ; la marge est restée très élevée (27,5 %) même dans une mauvaise année."
+   },
+   {
+    "d": "11/2025",
+    "fait": "Programme de rachat d'actions autorisé (jusqu'à 1,7 million d'actions) et dividende maintenu à 60 ¥ pour 2026 malgré une prévision en baisse.",
+    "impact": "positif",
+    "horizon": "moyen",
+    "lecture": "La société commence à utiliser sa trésorerie pour ses actionnaires, avec un ratio de distribution visé de 50 %."
+   }
+  ],
+  "scenarios": [
+   {
+    "horizon": "12 mois",
+    "unite": "JPY",
+    "bas": 1700,
+    "central": 2300,
+    "haut": 2600,
+    "hypotheses": "Central : BPA 2027 d'environ 135 ¥ (consensus de 7,0 Md¥) valorisé environ 17 fois. Bas : rechute de la demande en Europe et yen plus fort, PER vers 14 sur un BPA de 120 ¥, retour vers la moyenne 200 jours. Haut : résultats annuels nettement au-dessus de la prévision et prévision 2027 en hausse, PER vers 19."
+   },
+   {
+    "horizon": "5 ans",
+    "unite": "%/an",
+    "bas": 0,
+    "central": 9,
+    "haut": 14,
+    "hypotheses": "Central : BPA +6 %/an (volumes +3 %, prix +3 %), dividende 3 %, PER stable vers 17 = environ 9 %/an. Bas : yen fort et demande de motos premium en recul, BPA stable, PER vers 13 (environ -5 %/an), dividende 3 % = environ 0 %/an (sans compter la trésorerie). Haut : nouveaux records de volumes (au-delà de 790 000 casques), BPA +9 %/an, PER stable, dividende 3 %, plus rachats d'actions = environ 14 %/an."
+   }
+  ],
+  "zones": {
+   "interet": "1 900 à 2 050 ¥ : entre la moyenne 50 jours et les niveaux de fin juillet ; le PER sur le consensus 2026 y serait d'environ 15 à 16, et la trésorerie représenterait environ 20 % de la capitalisation.",
+   "invalidation": "Résultats annuels en dessous de la prévision officielle ou prévision 2027 en baisse, ou clôture durable sous 1 830 ¥ (moyenne 200 jours).",
+   "sortie": [
+    "Marge opérationnelle annuelle sous 22 %",
+    "Volumes de casques en baisse deux exercices de suite après la reprise",
+    "Utilisation de la trésorerie pour une acquisition hors du casque premium"
+   ],
+   "catalyseurs": [
+    "Mi-novembre 2026 (date non confirmée) : résultats annuels, prévision 2027 et dividende",
+    "Fin janvier 2027 : résultats du premier trimestre",
+    "Lancements de nouveaux modèles en Europe"
+   ]
+  },
+  "cadres": [
+   "Buffett (qualité, avantage concurrentiel)",
+   "Fisher (direction, innovation)",
+   "Lynch (stalwart cyclique, PEG)",
+   "Graham (solidité du bilan)",
+   "Greenblatt (formule magique)",
+   "Théorie de Dow",
+   "Minervini (trend template)",
+   "Weinstein (stades)"
+  ],
+  "sources": [
+   "https://finance.matsui.co.jp/stock/7839/settlement/index",
+   "https://www.shoei.com/en/ir/library/",
+   "https://www.tipranks.com/news/company-announcements/shoeis-third-quarter-earnings-rise-on-strong-sales-and-favorable-fx",
+   "https://kabuyoho.ifis.co.jp/index.php?action=tp1&sa=report&bcode=7839",
+   "https://www.marketscreener.com/quote/stock/SHOEI-CO-LTD-6497171/",
+   "https://www.shoei.com/ir/docs/bd889f12048e070d4456723aa0a9b2ac9704247f.pdf",
+   "https://www.shoei.com/ir/docs/35a515003510b12a84a7bb6660321a65977d1cda.pdf",
+   "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json"
+  ],
+  "aVerifier": "Chiffres des 9 mois (résultat opérationnel 7 329 M¥, bénéfice net 5 200 M¥) lus sur Matsui Securities ; le CA (24 348 M¥) est confirmé par TipRanks et le résultat ordinaire (7 558 M¥) par IFIS, mais le document de la société n'a pas pu être ouvert. Date des résultats annuels non publiée. PER et objectifs d'une seule source (MarketScreener, cours du 01/09) ; capitalisation calculée avec environ 52 millions d'actions hors autocontrôle (rachats récents non intégrés). PEG approximatif (croissance attendue d'environ 6 %/an). Piotroski non calculé. Moyennes mobiles et RSI issus du flux de cours."
+ },
+ "societe": {
+  "resume": "SHOEI fabrique des casques de moto haut de gamme, conçus et produits uniquement au Japon, et vendus dans le monde entier par des réseaux de distributeurs. Concrètement, un motard européen qui s'offre un casque intégral à 600 ou 800 € chez un concessionnaire a de bonnes chances de choisir un SHOEI, et des pilotes de MotoGP comme Marc Márquez portent la marque. La société produit aussi des casques pour l'administration japonaise.",
+  "fondee": 1959,
+  "siege": "Tokyo, Japon",
+  "effectifs": 817,
+  "site": "https://www.shoei.com",
+  "histoire": [
+   {
+    "annee": 1959,
+    "fait": "Création par Eitaro Kamata, à partir d'une activité de casques de chantier en polyester."
+   },
+   {
+    "annee": 1965,
+    "fait": "Honda choisit les casques SHOEI comme accessoires officiels, ce qui lance l'expansion internationale."
+   },
+   {
+    "annee": 1968,
+    "fait": "Création d'une filiale aux États-Unis."
+   },
+   {
+    "annee": 2022,
+    "fait": "Passage sur le segment Prime de la Bourse de Tokyo."
+   },
+   {
+    "annee": 2025,
+    "fait": "Année difficile : volumes en baisse de près de 12 % et dividende ramené de 70 à 60 ¥, mais marge opérationnelle maintenue à 27,5 %."
+   }
+  ],
+  "modele": "SHOEI vend ses casques à des distributeurs et à ses filiales commerciales (Europe, États-Unis, Asie), qui les revendent aux magasins de moto. Les revenus ne sont pas récurrents au sens strict, mais un casque se remplace tous les cinq ans environ, ce qui crée une demande régulière chez les motards fidèles. Le pouvoir de prix est fort : SHOEI a augmenté ses prix pendant la baisse des volumes de 2025.",
+  "segments": [
+   {
+    "nom": "Casques de moto",
+    "part": 100,
+    "detail": "Casques intégraux, modulables et jet haut de gamme, plus pièces détachées et casques pour l'administration japonaise."
+   }
+  ],
+  "geo": [
+   {
+    "zone": "Europe",
+    "part": 44.6
+   },
+   {
+    "zone": "Asie (dont Chine)",
+    "part": 19.0
+   },
+   {
+    "zone": "Japon",
+    "part": 17.5
+   },
+   {
+    "zone": "Amérique du Nord",
+    "part": 15.6
+   },
+   {
+    "zone": "Autres",
+    "part": 3.4
+   }
+  ],
+  "clients": "Distributeurs et magasins spécialisés dans la moto, puis motards amateurs de haut de gamme et pilotes professionnels ; aucun client dominant connu.",
+  "concurrents": [
+   "Arai",
+   "AGV (Dainese)",
+   "Shark",
+   "HJC",
+   "Bell"
+  ],
+  "avantage": "Une marque de référence chez les motards exigeants, une fabrication japonaise très contrôlée et des dizaines d'années de savoir-faire en sécurité, avec une part de marché d'environ 60 % dans le premium selon la société. Ce qui pourrait l'éroder : des concurrents moins chers qui montent en gamme (HJC, marques chinoises), ou une baisse durable de la pratique de la moto haut de gamme.",
+  "dirigeants": [
+   {
+    "nom": "Kenichiro Ishida",
+    "role": "Président (CEO)",
+    "depuis": 2016
+   },
+   {
+    "nom": "Yuji Yamaguchi",
+    "role": "Directeur administratif",
+    "depuis": 2021
+   }
+  ],
+  "actionnariat": "Capital dispersé : premiers actionnaires ALQ Sangyo (5,35 %), Capital Research (4,80 %) et Meiwa Corporation (2,75 %) selon MarketScreener ; aucun actionnaire de contrôle.",
+  "devise": "JPY",
+  "chiffres": [
+   {
+    "annee": "2023",
+    "ca": 33616,
+    "rn": 7068,
+    "margeOp": 29.2,
+    "detteNette": null,
+    "dividende": null
+   },
+   {
+    "annee": "2024",
+    "ca": 35790,
+    "rn": 7377,
+    "margeOp": 28.9,
+    "detteNette": -15352,
+    "dividende": 70
+   },
+   {
+    "annee": "2025",
+    "ca": 32363,
+    "rn": 6318,
+    "margeOp": 27.5,
+    "detteNette": -19942,
+    "dividende": 60
+   },
+   {
+    "annee": "2026e",
+    "ca": 34300,
+    "rn": 6620,
+    "margeOp": null,
+    "detteNette": -21900,
+    "dividende": 60
+   }
+  ],
+  "croire": [
+   "Que la demande de casques moto haut de gamme repart durablement en Europe, au Japon et en Chine après la baisse des volumes de 2024 et 2025.",
+   "Que SHOEI garde son pouvoir de prix (environ 60 % du marché mondial du casque premium selon la société) et peut répercuter les droits de douane américains et les hausses de coûts.",
+   "Que la marge opérationnelle reste autour de 25 à 30 % malgré un yen qui pourrait se renforcer, puisque toute la production est au Japon."
+  ],
+  "questions": [
+   "Les résultats annuels de novembre confirmeront-ils que la prévision de la société (résultat opérationnel en baisse de 5,9 %) était trop prudente ?",
+   "Quelle part de l'amélioration vient du yen faible plutôt que des volumes ?",
+   "Comment la trésorerie abondante (environ 20 Md¥, sans dette) sera-t-elle utilisée : dividende, rachats d'actions ou nouvelles capacités de production ?"
+  ],
+  "suivi": {
+   "le": "2026-10-01",
+   "bilan": "Les trois conditions tiennent ; le doute principal est la part du yen faible dans la reprise, qui sera mieux mesurée avec les résultats annuels de novembre.",
+   "croire": [
+    {
+     "c": "Que la demande de casques moto haut de gamme repart durablement en Europe, au Japon et en Chine après la baisse des volumes de 2024 et 2025.",
+     "etat": "ok",
+     "reponse": "La reprise est visible : le CA progresse sur 9 mois après deux années de baisse, et la société prévoyait une hausse des volumes de 4 %.",
+     "preuve": "9 mois : CA 24,3 Md¥ (+6,2 %) ; prévision de 661 000 casques contre 636 000 en 2025.",
+     "source": "https://www.tipranks.com/news/company-announcements/shoeis-third-quarter-earnings-rise-on-strong-sales-and-favorable-fx",
+     "prochain": "Résultats annuels (mi-novembre 2026, date non confirmée)"
+    },
+    {
+     "c": "Que SHOEI garde son pouvoir de prix (environ 60 % du marché mondial du casque premium selon la société) et peut répercuter les droits de douane américains et les hausses de coûts.",
+     "etat": "ok",
+     "reponse": "Oui : les hausses de prix ont compensé une partie de la baisse des volumes en 2025, et l'impact des droits de douane américains de 15 % a été intégré dans la prévision.",
+     "preuve": "Présentation des résultats 2025 : hausse du prix unitaire, part de marché d'environ 60 % dans le premium.",
+     "source": "https://www.shoei.com/ir/docs/35a515003510b12a84a7bb6660321a65977d1cda.pdf",
+     "prochain": "Résultats annuels"
+    },
+    {
+     "c": "Que la marge opérationnelle reste autour de 25 à 30 % malgré un yen qui pourrait se renforcer, puisque toute la production est au Japon.",
+     "etat": "ok",
+     "reponse": "Oui : la marge remonte au-dessus de 30 % sur 9 mois, mais le yen faible y contribue.",
+     "preuve": "Résultat opérationnel de 7 329 M¥ pour 24 348 M¥ de CA (30,1 %) ; hypothèses de change de la société : 145 ¥ pour un dollar et 174 ¥ pour un euro.",
+     "source": "https://finance.matsui.co.jp/stock/7839/settlement/index",
+     "prochain": "Résultats annuels"
+    }
+   ],
+   "questions": [
+    {
+     "q": "Les résultats annuels de novembre confirmeront-ils que la prévision de la société (résultat opérationnel en baisse de 5,9 %) était trop prudente ?",
+     "etat": "watch",
+     "reponse": "Probablement oui : 88 % de l'objectif de résultat opérationnel est atteint après 9 mois, mais la société n'a pas relevé sa prévision.",
+     "preuve": "Résultat opérationnel sur 9 mois de 7 329 M¥ pour un objectif annuel de 8 370 M¥ ; consensus IFIS de résultat ordinaire à 9,6 Md¥.",
+     "source": "https://kabuyoho.ifis.co.jp/index.php?action=tp1&sa=report&bcode=7839",
+     "prochain": "Résultats annuels"
+    },
+    {
+     "q": "Quelle part de l'amélioration vient du yen faible plutôt que des volumes ?",
+     "etat": "nc",
+     "reponse": "Non chiffré : la société cite des taux de change moyens favorables (yen faible face au dollar et à l'euro) comme un moteur important.",
+     "preuve": "Sensibilité donnée par la société : 1 ¥ de variation de l'euro vaut environ 43 M¥ de résultat, 1 ¥ sur le dollar environ 23 M¥.",
+     "source": "https://www.shoei.com/ir/docs/35a515003510b12a84a7bb6660321a65977d1cda.pdf",
+     "prochain": "Résultats annuels"
+    },
+    {
+     "q": "Comment la trésorerie abondante (environ 20 Md¥, sans dette) sera-t-elle utilisée : dividende, rachats d'actions ou nouvelles capacités de production ?",
+     "etat": "watch",
+     "reponse": "Premiers pas : un programme de rachat d'actions a été autorisé et le ratio de distribution visé est de 50 % ; la société investit aussi dans son usine d'Ibaraki (terrain voisin racheté en 2024).",
+     "preuve": "Programme de rachat jusqu'à 1,7 million d'actions autorisé en novembre 2025 ; trésorerie de 19,9 Md¥ sans dette.",
+     "source": "https://www.shoei.com/ir/docs/35a515003510b12a84a7bb6660321a65977d1cda.pdf",
+     "prochain": "Résultats annuels et politique de retour aux actionnaires"
+    }
+   ]
+  },
+  "sources": [
+   "https://www.shoei.com/ir/docs/bd889f12048e070d4456723aa0a9b2ac9704247f.pdf",
+   "https://www.shoei.com/ir/docs/35a515003510b12a84a7bb6660321a65977d1cda.pdf",
+   "https://finance.matsui.co.jp/stock/7839/settlement/index",
+   "https://www.tipranks.com/news/company-announcements/shoeis-third-quarter-earnings-rise-on-strong-sales-and-favorable-fx",
+   "https://kabuyoho.ifis.co.jp/index.php?action=tp1&sa=report&bcode=7839",
+   "https://www.marketscreener.com/quote/stock/SHOEI-CO-LTD-6497171/",
+   "https://www.marketscreener.com/quote/stock/SHOEI-CO-LTD-6497171/company/",
+   "https://en.wikipedia.org/wiki/Shoei"
+  ],
+  "aVerifier": "Exercices clos fin septembre : « 2025 » = octobre 2024 à septembre 2025 ; « 2026e » = exercice clos le 30/09/2026, non encore publié (consensus MarketScreener pour CA, bénéfice et trésorerie, dividende = prévision de la société). Chiffres 2023 lus sur Matsui Securities (CA, résultats) ; dividende et trésorerie 2023 non trouvés. Dette nette = trésorerie seule (aucune dette financière indiquée). Effectifs : 817 selon la présentation de la société (dont 147 contrats temporaires), 670 selon MarketScreener. Part de marché de 60 % : chiffre de la société, non recoupé. Liste des concurrents non sourcée.",
+  "verifieLe": "2026-10-01",
+  "corrections": []
+ }
+}

@@ -105,14 +105,14 @@
   ],
   "tech": {
    "bas52": 67.5,
-   "cours": 69.6,
-   "coursLe": "2026-09-30",
+   "cours": 68.1,
+   "coursLe": "2026-10-01",
    "haut52": 81.8,
-   "lecture": "Cours de 69,60 en dessous de sa moyenne 50 jours (74,44) et en dessous de sa moyenne 200 jours (74,00). RSI 37,2 : élan neutre. Il se situe à 15 % de sa fourchette sur un an (de 67,50 à 81,80), performance sur 12 mois de -3,6 %. Clôture du 30/09/2026.",
-   "mm200": 74.0,
-   "mm50": 74.44,
+   "lecture": "Cours de 68,10 en dessous de sa moyenne 50 jours (74,28) et en dessous de sa moyenne 200 jours (73,96). RSI 32,2 : élan neutre. Il se situe à 4 % de sa fourchette sur un an (de 67,50 à 81,80), performance sur 12 mois de -5,8 %. Clôture du 01/10/2026.",
+   "mm200": 73.96,
+   "mm50": 74.28,
    "resistance": 71.7,
-   "rsi14": 37.2,
+   "rsi14": 32.2,
    "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json",
    "stade": 3,
    "support": 66.76,
@@ -135,8 +135,8 @@
   }
  },
  "capi": "642 M€",
- "cours": 69.6,
- "coursLe": "2026-09-30",
+ "cours": 68.1,
+ "coursLe": "2026-10-01",
  "devise": "€",
  "faits": [
   {
@@ -157,10 +157,6 @@
   }
  ],
  "histo": [
-  [
-   "24/09",
-   72.6
-  ],
   [
    "25/09",
    73.8
@@ -1196,6 +1192,10 @@
   [
    "30/09",
    69.6
+  ],
+  [
+   "01/10",
+   68.1
   ]
  ],
  "nom": "Thermador Groupe",
@@ -1204,9 +1204,9 @@
  "per26": 13,
  "per27": 12.3,
  "perf": {
-  "m1": -3.9,
-  "m3": -12.0,
-  "m12": -3.6
+  "m1": -5.2,
+  "m3": -14.1,
+  "m12": -5.8
  },
  "pub": "2026-10-15",
  "pubLabel": "CA du T3",

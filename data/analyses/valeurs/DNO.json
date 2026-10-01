@@ -1,0 +1,1408 @@
+{
+ "ticker": "DNO",
+ "nom": "DNO ASA",
+ "pays": "NO",
+ "secteur": "Pétrole et gaz",
+ "cours": 19.15,
+ "coursLe": "2026-10-01",
+ "devise": "NOK",
+ "capi": "environ 18,6 Md NOK (environ 1,95 Md$)",
+ "per26": 6.0,
+ "per27": 5.5,
+ "statut": "intacte",
+ "these": "Producteur norvégien devenu surtout un acteur de la mer du Nord : trésorerie libre record (290 M$ au T2 2026), dette en baisse rapide, dividende trimestriel de 0,375 NOK et discipline sur les rachats.",
+ "risque": "Très dépendant du prix du pétrole et du gaz ; Kurdistan irakien à l'arrêt ou vendu à bas prix ; fiscalité norvégienne lourde et risque de change entre dollar et couronne.",
+ "faits": [
+  {
+   "d": "28/09",
+   "t": "Capricorn : DNO déclare finale son offre de 5,214 $ par action et ne suit pas Genel (5,74 $ par action, environ 436 M$), qui a l'appui du conseil de Capricorn."
+  },
+  {
+   "d": "04/09",
+   "t": "DNO renonce à faire une offre sur Genel Energy, après une approche indicative à 69 pence par action annoncée le 07/08."
+  },
+  {
+   "d": "21/08",
+   "t": "Détachement du dividende trimestriel de 0,375 NOK par action (versé en septembre)."
+  },
+  {
+   "d": "13/08",
+   "t": "T2 : CA record de 760,5 M$, résultat opérationnel 439 M$, bénéfice net 83,4 M$, trésorerie libre 289,5 M$, dette nette ramenée à 552,9 M$ (790 M$ fin mars). Objectif de production en mer du Nord relevé à 85 000 barils par jour."
+  }
+ ],
+ "pub": "2026-10-29",
+ "pubLabel": "Résultats du T3 2026",
+ "src": "https://www.globenewswire.com/news-release/2026/08/13/3344212/0/en/dno-reports-record-revenue-as-it-chases-new-growth.html",
+ "notes": "Cours : clôture du 30/09/2026 en couronnes (flux de cours). Les comptes sont publiés en dollars, le dividende est versé en couronnes. PER 2026 et 2027 : MarketScreener (6,06 et 5,56 au cours de 19,28 NOK), ajustés au cours du 30/09 ; une seule source. Date du 29/10 confirmée par le calendrier financier publié par DNO (11/05/2026) et MarketScreener. Vérifier que le courtier accepte le titre en PEA.",
+ "yahoo": "DNO.OL",
+ "compte": "PEA",
+ "histo": [
+  [
+   "18/09",
+   14.7
+  ],
+  [
+   "19/09",
+   14.88
+  ],
+  [
+   "22/09",
+   16.0
+  ],
+  [
+   "23/09",
+   16.06
+  ],
+  [
+   "24/09",
+   15.99
+  ],
+  [
+   "25/09",
+   16.04
+  ],
+  [
+   "26/09",
+   16.0
+  ],
+  [
+   "29/09",
+   15.53
+  ],
+  [
+   "30/09",
+   15.35
+  ],
+  [
+   "01/10",
+   15.21
+  ],
+  [
+   "02/10",
+   15.0
+  ],
+  [
+   "03/10",
+   14.88
+  ],
+  [
+   "06/10",
+   15.2
+  ],
+  [
+   "07/10",
+   14.93
+  ],
+  [
+   "08/10",
+   14.88
+  ],
+  [
+   "09/10",
+   14.87
+  ],
+  [
+   "10/10",
+   14.54
+  ],
+  [
+   "13/10",
+   14.24
+  ],
+  [
+   "14/10",
+   13.91
+  ],
+  [
+   "15/10",
+   13.81
+  ],
+  [
+   "16/10",
+   13.01
+  ],
+  [
+   "17/10",
+   12.71
+  ],
+  [
+   "20/10",
+   12.72
+  ],
+  [
+   "21/10",
+   12.6
+  ],
+  [
+   "22/10",
+   12.63
+  ],
+  [
+   "23/10",
+   13.03
+  ],
+  [
+   "24/10",
+   13.06
+  ],
+  [
+   "27/10",
+   13.22
+  ],
+  [
+   "28/10",
+   13.07
+  ],
+  [
+   "29/10",
+   13.23
+  ],
+  [
+   "30/10",
+   13.61
+  ],
+  [
+   "31/10",
+   13.89
+  ],
+  [
+   "03/11",
+   14.03
+  ],
+  [
+   "04/11",
+   13.72
+  ],
+  [
+   "05/11",
+   13.8
+  ],
+  [
+   "06/11",
+   14.16
+  ],
+  [
+   "07/11",
+   14.9
+  ],
+  [
+   "10/11",
+   14.94
+  ],
+  [
+   "11/11",
+   15.28
+  ],
+  [
+   "12/11",
+   15.2
+  ],
+  [
+   "13/11",
+   14.78
+  ],
+  [
+   "14/11",
+   14.94
+  ],
+  [
+   "17/11",
+   15.58
+  ],
+  [
+   "18/11",
+   15.14
+  ],
+  [
+   "19/11",
+   14.91
+  ],
+  [
+   "20/11",
+   15.26
+  ],
+  [
+   "21/11",
+   14.63
+  ],
+  [
+   "24/11",
+   14.59
+  ],
+  [
+   "25/11",
+   14.4
+  ],
+  [
+   "26/11",
+   14.28
+  ],
+  [
+   "27/11",
+   14.39
+  ],
+  [
+   "28/11",
+   14.51
+  ],
+  [
+   "01/12",
+   14.79
+  ],
+  [
+   "02/12",
+   14.49
+  ],
+  [
+   "03/12",
+   14.74
+  ],
+  [
+   "04/12",
+   14.9
+  ],
+  [
+   "05/12",
+   15.2
+  ],
+  [
+   "08/12",
+   15.28
+  ],
+  [
+   "09/12",
+   15.2
+  ],
+  [
+   "10/12",
+   14.92
+  ],
+  [
+   "11/12",
+   15.25
+  ],
+  [
+   "12/12",
+   15.35
+  ],
+  [
+   "15/12",
+   15.13
+  ],
+  [
+   "16/12",
+   14.74
+  ],
+  [
+   "17/12",
+   14.97
+  ],
+  [
+   "18/12",
+   15.13
+  ],
+  [
+   "19/12",
+   14.98
+  ],
+  [
+   "22/12",
+   15.3
+  ],
+  [
+   "23/12",
+   15.4
+  ],
+  [
+   "29/12",
+   15.56
+  ],
+  [
+   "30/12",
+   15.9
+  ],
+  [
+   "02/01",
+   16.05
+  ],
+  [
+   "05/01",
+   15.84
+  ],
+  [
+   "06/01",
+   16.3
+  ],
+  [
+   "07/01",
+   15.15
+  ],
+  [
+   "08/01",
+   15.08
+  ],
+  [
+   "09/01",
+   15.65
+  ],
+  [
+   "12/01",
+   15.88
+  ],
+  [
+   "13/01",
+   16.4
+  ],
+  [
+   "14/01",
+   16.58
+  ],
+  [
+   "15/01",
+   15.87
+  ],
+  [
+   "16/01",
+   16.44
+  ],
+  [
+   "19/01",
+   16.06
+  ],
+  [
+   "20/01",
+   16.21
+  ],
+  [
+   "21/01",
+   16.43
+  ],
+  [
+   "22/01",
+   15.66
+  ],
+  [
+   "23/01",
+   15.97
+  ],
+  [
+   "26/01",
+   15.62
+  ],
+  [
+   "27/01",
+   15.61
+  ],
+  [
+   "28/01",
+   15.93
+  ],
+  [
+   "29/01",
+   16.31
+  ],
+  [
+   "30/01",
+   16.18
+  ],
+  [
+   "02/02",
+   16.13
+  ],
+  [
+   "03/02",
+   16.18
+  ],
+  [
+   "04/02",
+   16.15
+  ],
+  [
+   "05/02",
+   15.7
+  ],
+  [
+   "06/02",
+   15.37
+  ],
+  [
+   "09/02",
+   15.5
+  ],
+  [
+   "10/02",
+   15.54
+  ],
+  [
+   "11/02",
+   15.76
+  ],
+  [
+   "12/02",
+   15.88
+  ],
+  [
+   "13/02",
+   15.32
+  ],
+  [
+   "16/02",
+   15.24
+  ],
+  [
+   "17/02",
+   15.26
+  ],
+  [
+   "18/02",
+   15.79
+  ],
+  [
+   "19/02",
+   16.27
+  ],
+  [
+   "20/02",
+   15.74
+  ],
+  [
+   "23/02",
+   15.7
+  ],
+  [
+   "24/02",
+   15.84
+  ],
+  [
+   "25/02",
+   16.15
+  ],
+  [
+   "26/02",
+   16.02
+  ],
+  [
+   "27/02",
+   16.29
+  ],
+  [
+   "02/03",
+   16.36
+  ],
+  [
+   "03/03",
+   16.45
+  ],
+  [
+   "04/03",
+   16.28
+  ],
+  [
+   "05/03",
+   16.31
+  ],
+  [
+   "06/03",
+   16.4
+  ],
+  [
+   "09/03",
+   16.68
+  ],
+  [
+   "10/03",
+   16.01
+  ],
+  [
+   "11/03",
+   16.56
+  ],
+  [
+   "12/03",
+   16.9
+  ],
+  [
+   "13/03",
+   16.95
+  ],
+  [
+   "16/03",
+   17.93
+  ],
+  [
+   "17/03",
+   18.71
+  ],
+  [
+   "18/03",
+   18.84
+  ],
+  [
+   "19/03",
+   19.81
+  ],
+  [
+   "20/03",
+   19.55
+  ],
+  [
+   "23/03",
+   19.06
+  ],
+  [
+   "24/03",
+   19.26
+  ],
+  [
+   "25/03",
+   19.68
+  ],
+  [
+   "26/03",
+   20.34
+  ],
+  [
+   "27/03",
+   21.24
+  ],
+  [
+   "30/03",
+   21.9
+  ],
+  [
+   "31/03",
+   21.92
+  ],
+  [
+   "01/04",
+   20.74
+  ],
+  [
+   "07/04",
+   21.52
+  ],
+  [
+   "08/04",
+   18.73
+  ],
+  [
+   "09/04",
+   19.35
+  ],
+  [
+   "10/04",
+   18.9
+  ],
+  [
+   "13/04",
+   19.46
+  ],
+  [
+   "14/04",
+   18.96
+  ],
+  [
+   "15/04",
+   18.4
+  ],
+  [
+   "16/04",
+   18.87
+  ],
+  [
+   "17/04",
+   17.58
+  ],
+  [
+   "20/04",
+   18.21
+  ],
+  [
+   "21/04",
+   18.3
+  ],
+  [
+   "22/04",
+   18.51
+  ],
+  [
+   "23/04",
+   18.74
+  ],
+  [
+   "24/04",
+   18.92
+  ],
+  [
+   "27/04",
+   19.2
+  ],
+  [
+   "28/04",
+   19.43
+  ],
+  [
+   "29/04",
+   19.72
+  ],
+  [
+   "30/04",
+   19.83
+  ],
+  [
+   "04/05",
+   19.75
+  ],
+  [
+   "05/05",
+   19.88
+  ],
+  [
+   "06/05",
+   18.42
+  ],
+  [
+   "07/05",
+   18.54
+  ],
+  [
+   "08/05",
+   18.8
+  ],
+  [
+   "11/05",
+   18.8
+  ],
+  [
+   "12/05",
+   19.15
+  ],
+  [
+   "13/05",
+   19.32
+  ],
+  [
+   "15/05",
+   19.27
+  ],
+  [
+   "18/05",
+   19.63
+  ],
+  [
+   "19/05",
+   19.93
+  ],
+  [
+   "20/05",
+   19.95
+  ],
+  [
+   "21/05",
+   19.84
+  ],
+  [
+   "22/05",
+   19.23
+  ],
+  [
+   "26/05",
+   19.1
+  ],
+  [
+   "27/05",
+   18.14
+  ],
+  [
+   "28/05",
+   18.23
+  ],
+  [
+   "29/05",
+   17.94
+  ],
+  [
+   "01/06",
+   18.2
+  ],
+  [
+   "02/06",
+   18.35
+  ],
+  [
+   "03/06",
+   18.69
+  ],
+  [
+   "04/06",
+   19.08
+  ],
+  [
+   "05/06",
+   19.13
+  ],
+  [
+   "08/06",
+   19.38
+  ],
+  [
+   "09/06",
+   18.81
+  ],
+  [
+   "10/06",
+   19.09
+  ],
+  [
+   "11/06",
+   19.34
+  ],
+  [
+   "12/06",
+   18.71
+  ],
+  [
+   "15/06",
+   17.58
+  ],
+  [
+   "16/06",
+   17.47
+  ],
+  [
+   "17/06",
+   17.49
+  ],
+  [
+   "18/06",
+   16.99
+  ],
+  [
+   "19/06",
+   17.43
+  ],
+  [
+   "22/06",
+   17.44
+  ],
+  [
+   "23/06",
+   17.29
+  ],
+  [
+   "24/06",
+   16.78
+  ],
+  [
+   "25/06",
+   16.72
+  ],
+  [
+   "26/06",
+   16.65
+  ],
+  [
+   "29/06",
+   16.56
+  ],
+  [
+   "30/06",
+   16.34
+  ],
+  [
+   "01/07",
+   16.19
+  ],
+  [
+   "02/07",
+   16.18
+  ],
+  [
+   "03/07",
+   16.27
+  ],
+  [
+   "06/07",
+   16.08
+  ],
+  [
+   "07/07",
+   16.22
+  ],
+  [
+   "08/07",
+   16.9
+  ],
+  [
+   "09/07",
+   16.7
+  ],
+  [
+   "10/07",
+   16.61
+  ],
+  [
+   "13/07",
+   16.92
+  ],
+  [
+   "14/07",
+   17.05
+  ],
+  [
+   "15/07",
+   16.95
+  ],
+  [
+   "16/07",
+   16.62
+  ],
+  [
+   "17/07",
+   17.04
+  ],
+  [
+   "20/07",
+   16.71
+  ],
+  [
+   "21/07",
+   17.33
+  ],
+  [
+   "22/07",
+   17.53
+  ],
+  [
+   "23/07",
+   18.05
+  ],
+  [
+   "24/07",
+   17.97
+  ],
+  [
+   "27/07",
+   17.24
+  ],
+  [
+   "28/07",
+   17.06
+  ],
+  [
+   "29/07",
+   17.16
+  ],
+  [
+   "30/07",
+   16.84
+  ],
+  [
+   "31/07",
+   16.72
+  ],
+  [
+   "03/08",
+   16.7
+  ],
+  [
+   "04/08",
+   16.63
+  ],
+  [
+   "05/08",
+   16.62
+  ],
+  [
+   "06/08",
+   16.74
+  ],
+  [
+   "07/08",
+   16.74
+  ],
+  [
+   "10/08",
+   17.1
+  ],
+  [
+   "11/08",
+   17.36
+  ],
+  [
+   "12/08",
+   17.61
+  ],
+  [
+   "13/08",
+   17.96
+  ],
+  [
+   "14/08",
+   18.22
+  ],
+  [
+   "17/08",
+   18.2
+  ],
+  [
+   "18/08",
+   18.14
+  ],
+  [
+   "19/08",
+   18.55
+  ],
+  [
+   "20/08",
+   18.75
+  ],
+  [
+   "21/08",
+   18.28
+  ],
+  [
+   "24/08",
+   17.88
+  ],
+  [
+   "25/08",
+   17.9
+  ],
+  [
+   "26/08",
+   17.76
+  ],
+  [
+   "27/08",
+   17.71
+  ],
+  [
+   "28/08",
+   17.69
+  ],
+  [
+   "31/08",
+   17.98
+  ],
+  [
+   "01/09",
+   18.09
+  ],
+  [
+   "02/09",
+   18.47
+  ],
+  [
+   "03/09",
+   18.32
+  ],
+  [
+   "04/09",
+   18.33
+  ],
+  [
+   "07/09",
+   18.37
+  ],
+  [
+   "08/09",
+   18.5
+  ],
+  [
+   "09/09",
+   18.98
+  ],
+  [
+   "10/09",
+   19.06
+  ],
+  [
+   "11/09",
+   19.11
+  ],
+  [
+   "14/09",
+   19.65
+  ],
+  [
+   "15/09",
+   19.51
+  ],
+  [
+   "16/09",
+   19.75
+  ],
+  [
+   "17/09",
+   19.38
+  ],
+  [
+   "18/09",
+   19.62
+  ],
+  [
+   "21/09",
+   19.0
+  ],
+  [
+   "22/09",
+   18.9
+  ],
+  [
+   "23/09",
+   19.2
+  ],
+  [
+   "24/09",
+   19.7
+  ],
+  [
+   "25/09",
+   19.28
+  ],
+  [
+   "28/09",
+   19.52
+  ],
+  [
+   "29/09",
+   19.24
+  ],
+  [
+   "30/09",
+   19.04
+  ],
+  [
+   "01/10",
+   19.15
+  ]
+ ],
+ "perf": {
+  "m1": 3.7,
+  "m3": 19.1,
+  "m12": 24.8
+ },
+ "analyse": {
+  "majLe": "2026-10-01",
+  "verdict": "DNO est devenu en 2025 un producteur de la mer du Nord grâce au rachat de Sval Energi, et c'est ce qui l'a protégé en 2026 : malgré l'arrêt presque total du Kurdistan depuis février, le groupe a dégagé un CA record et 290 M$ de trésorerie libre au T2. Valorisé environ 6 fois les bénéfices 2026 attendus avec un rendement d'environ 7,9 %, le titre est bon marché, mais ce prix reflète une forte dépendance au pétrole et une fiscalité norvégienne très lourde. La discipline montrée sur Capricorn et Genel est un bon signe pour l'actionnaire.",
+  "conviction": "moyenne",
+  "revisions": "Sens non confirmé. Consensus MarketScreener au 25/09 : bénéfice net de 348 M$ en 2026 et 376 M$ en 2027, CA de 2,89 Md$ puis 2,84 Md$, dette nette de 362 M$ fin 2026 et 224 M$ fin 2027. Arctic et Clarksons Platou visent 23 NOK (opinion favorable), objectif moyen non trouvé.",
+  "fonda": {
+   "score": 6,
+   "justif": "Production et trésorerie libre en forte hausse, dette qui baisse vite et dividende régulier, mais résultats très cycliques, bénéfices nets faibles ou négatifs en 2024 et 2025, et Kurdistan imprévisible.",
+   "qualite": "Marge opérationnelle très variable : 32,7 % (2023), 0,9 % (2024, dépréciations), 34,8 % (2025), puis 57,7 % au T2 2026 avec des prix élevés. Le résultat net reste faible car l'impôt norvégien sur le pétrole est d'environ 78 % : bénéfice net de 18,6 M$ (2023), -27,1 M$ (2024), -25,2 M$ (2025). Coût d'extraction bas (6,5 $ par baril en 2024). Pas d'avantage concurrentiel durable au sens de Buffett : le prix est fixé par le marché mondial ; la force du dossier est la qualité des actifs et la discipline de la direction.",
+   "croissance": "Production nette : 52 566 barils par jour (2023), 77 269 (2024), 110 667 (2025, avec Sval), 88 430 au T2 2026 (dont 84 912 en mer du Nord, Kurdistan quasiment à l'arrêt). CA : 667,5 M$ (2023), 666,8 M$ (2024), 1 474 M$ (2025), puis 2,89 Md$ attendus en 2026 et 2,84 Md$ en 2027. Au sens de Lynch, c'est une valeur cyclique : les bénéfices suivent le prix du pétrole.",
+   "bilan": "Correct et en amélioration : trésorerie nette de 152,7 M$ fin 2023 et 99 M$ fin 2024, puis dette nette de 885,9 M$ fin 2025 après le rachat de Sval, ramenée à 790 M$ fin mars et 552,9 M$ fin juin 2026 (environ 0,4 fois le résultat opérationnel des deux derniers trimestres). Le consensus vise 362 M$ fin 2026.",
+   "valo": "PER d'environ 6,0 en 2026 et 5,5 en 2027 (MarketScreener, ajusté au cours du 30/09). Valeur d'entreprise d'environ 2,5 Md$ (capitalisation d'environ 1,95 Md$ et dette nette de 553 M$). Rendement du dividende d'environ 7,9 % (1,50 NOK par an). Les pétrolières de la mer du Nord se payent souvent peu cher à cause de la fiscalité et de la durée de vie limitée des gisements ; comparaison chiffrée avec Aker BP, Vår Energi et Harbour non vérifiée.",
+   "peg": null,
+   "piotroski": null,
+   "greenblatt": "Rendement bénéficiaire avant impôt (résultat opérationnel / valeur d'entreprise) très élevé, plus de 25 % sur la base du premier semestre 2026, mais trompeur : l'impôt norvégien d'environ 78 % ramène la rentabilité réelle pour l'actionnaire à un niveau bien plus modeste. Profil flatteur sur la formule magique à prendre avec prudence."
+  },
+  "tech": {
+   "cours": 19.15,
+   "coursLe": "2026-10-01",
+   "mm50": 18.23,
+   "mm200": 17.6,
+   "rsi14": 53.8,
+   "haut52": 21.92,
+   "bas52": 12.6,
+   "support": 18.1,
+   "resistance": 19.75,
+   "tendance": "haussiere",
+   "stade": 2,
+   "lecture": "Cours de 19,15 au-dessus de sa moyenne 50 jours (18,23) et au-dessus de sa moyenne 200 jours (17,60). RSI 53,8 : élan neutre. Il se situe à 70 % de sa fourchette sur un an (de 12,60 à 21,92), performance sur 12 mois de 24,8 %. Clôture du 01/10/2026.",
+   "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json"
+  },
+  "actu": [
+   {
+    "d": "28/09",
+    "fait": "DNO refuse de relever son offre sur Capricorn Energy (actifs en Égypte), déclarée finale à 5,214 $ par action, face à Genel qui propose 5,74 $ et a l'appui du conseil et d'environ 39 % des actionnaires.",
+    "impact": "positif",
+    "horizon": "moyen",
+    "lecture": "DNO devrait perdre ce rachat, mais il évite de surpayer : c'est un signe de discipline, l'argent reste disponible pour le dividende et la baisse de la dette."
+   },
+   {
+    "d": "04/09",
+    "fait": "DNO renonce à faire une offre sur Genel Energy après une approche indicative à 69 pence par action le 07/08.",
+    "impact": "neutre",
+    "horizon": "moyen",
+    "lecture": "Deux tentatives de croissance externe abandonnées en un mois : la stratégie de rachat reste ouverte, il faudra voir la prochaine cible."
+   },
+   {
+    "d": "13/08",
+    "fait": "T2 2026 : CA record de 760,5 M$, résultat opérationnel de 439 M$, bénéfice net de 83,4 M$, trésorerie libre de 289,5 M$ et dette nette ramenée à 552,9 M$. Production de la mer du Nord de 84 912 barils par jour, Kurdistan à 273 barils par jour.",
+    "impact": "positif",
+    "horizon": "court",
+    "lecture": "La mer du Nord compense seule l'arrêt du Kurdistan grâce aux prix élevés : la thèse de diversification fonctionne. Le revers est une dépendance accrue au prix du pétrole."
+   },
+   {
+    "d": "fin févr. à juil.",
+    "fait": "Arrêt de la production au Kurdistan après les frappes américaines et israéliennes sur l'Iran ; reprise à Tawke le 28/06 et à Peshkabir le 11/07, pétrole vendu sur place vers 35 à 39 $ le baril faute de route d'exportation.",
+    "impact": "negatif",
+    "horizon": "moyen",
+    "lecture": "Le Kurdistan, qui produisait 39 600 barils par jour au T1, devient une option : s'il revient, c'est un bonus ; sinon, la valeur repose sur la mer du Nord."
+   }
+  ],
+  "scenarios": [
+   {
+    "horizon": "12 mois",
+    "unite": "NOK",
+    "bas": 14,
+    "central": 22,
+    "haut": 26,
+    "hypotheses": "Central : objectif d'environ 23 NOK de deux analystes (Arctic, Clarksons Platou), PER 2027 vers 6,5 avec le dividende d'environ 1,50 NOK en plus. Bas : retombée du pétrole vers 65 $ après une détente au Moyen-Orient, retour vers le niveau de début 2026 (14 à 15 NOK). Haut : pétrole durablement élevé et reprise des exportations du Kurdistan, test puis dépassement du plus haut de 21,92 NOK."
+   },
+   {
+    "horizon": "5 ans",
+    "unite": "%/an",
+    "bas": -5,
+    "central": 8,
+    "haut": 15,
+    "hypotheses": "Central : dividende d'environ 7,5 %/an, production à peu près stable grâce aux nouveaux projets en mer du Nord, cours globalement stable = environ 8 %/an. Bas : pétrole vers 55 à 60 $, baisse de la production, dividende réduit et cours en recul = environ -5 %/an. Haut : Kurdistan relancé et rachat créateur de valeur, PER qui remonte vers 8 = environ 15 %/an."
+   }
+  ],
+  "zones": {
+   "interet": "17 à 18,2 NOK : entre la moyenne 200 jours (17,60 NOK) et la moyenne 50 jours (18,23 NOK), soit un PER 2026 d'environ 5,4 à 5,8 et un rendement du dividende d'environ 8,2 à 8,8 %.",
+   "invalidation": "Baisse du dividende trimestriel sous 0,375 NOK, ou Brent durablement sous 65 $, ou clôture durable sous 16 NOK (plus bas de l'été 2026).",
+   "sortie": [
+    "Rachat jugé trop cher, financé par une forte hausse de la dette ou par émission d'actions",
+    "Production de la mer du Nord sous 75 000 barils par jour sans explication",
+    "Dette nette qui remonte au-dessus de 900 M$ hors rachat",
+    "Rendement du dividende sous 5 % sans hausse des bénéfices (titre devenu cher)"
+   ],
+   "catalyseurs": [
+    "29/10/2026 : résultats du T3 2026",
+    "Retour des exportations de pétrole du Kurdistan par oléoduc",
+    "Prochain projet de rachat après Capricorn et Genel",
+    "Février 2027 (date non confirmée) : résultats annuels 2026 et dividende"
+   ]
+  },
+  "cadres": [
+   "Buffett (qualité, avantage concurrentiel)",
+   "Lynch (cyclique)",
+   "Graham (solidité du bilan, rendement)",
+   "Greenblatt (formule magique)",
+   "Théorie de Dow",
+   "Minervini (trend template)",
+   "Weinstein (stades)"
+  ],
+  "sources": [
+   "https://www.globenewswire.com/news-release/2026/08/13/3344212/0/en/dno-reports-record-revenue-as-it-chases-new-growth.html",
+   "https://www.nasdaq.com/press-release/dno-reports-record-revenue-it-chases-new-growth-2026-08-13",
+   "https://www.globenewswire.com/news-release/2026/09/04/3356409/0/en/no-intention-to-make-an-offer-for-genel-energy-plc.html",
+   "https://www.investegate.co.uk/announcement/rns/capricorn-energy--cne/statement-regarding-final-offer-for-capricorn/9792659",
+   "https://www.globalbankingandfinance.com/genel-energy-capricorn-agree-terms-higher-436-million-deal/",
+   "https://www.globenewswire.com/news-release/2026/02/05/3232635/0/en/dno-exits-landmark-year-prepped-for-a-nervous-and-frisky-market-in-2026.html",
+   "https://www.inderes.fi/en/releases/dno-financial-calendar-6",
+   "https://www.marketscreener.com/quote/stock/DNO-ASA-1413123/calendar/",
+   "https://www.marketscreener.com/quote/stock/DNO-ASA-1413123/",
+   "https://www.kurdistan24.net/en/story/932289/dno-moves-to-raise-output-at-kurdistan-regions-tawke-field",
+   "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json"
+  ],
+  "aVerifier": "Consensus 2026 et 2027 (MarketScreener seul) et donc PER ; objectif moyen des analystes non trouvé (seulement 23 NOK chez Arctic et Clarksons Platou) ; montant exact de l'offre DNO sur Capricorn en valeur totale (396 M$ selon la presse) ; état actuel de la production au Kurdistan après juillet ; Piotroski non calculé."
+ },
+ "societe": {
+  "resume": "DNO est la plus ancienne compagnie pétrolière norvégienne. Elle produit du pétrole et du gaz, aujourd'hui surtout en mer du Nord (Norvège et Royaume-Uni), et possède aussi de grands gisements au Kurdistan irakien et des parts en Afrique de l'Ouest. Concrètement, quand une raffinerie européenne se procure un cargo de pétrole de la mer du Nord, une partie peut venir des champs où DNO détient des parts.",
+  "fondee": 1971,
+  "siege": "Oslo, Norvège",
+  "effectifs": 1070,
+  "site": "https://www.dno.no",
+  "histoire": [
+   {
+    "annee": 1971,
+    "fait": "Création de Det Norske Oljeselskap, première compagnie pétrolière privée de Norvège."
+   },
+   {
+    "annee": 2004,
+    "fait": "Entrée au Kurdistan irakien, où DNO découvre ensuite et exploite le champ de Tawke."
+   },
+   {
+    "annee": 2019,
+    "fait": "Rachat de Faroe Petroleum, qui donne une base en mer du Nord."
+   },
+   {
+    "annee": 2025,
+    "fait": "Rachat de Sval Energi (finalisé en juin) : production record de 110 667 barils par jour et CA doublé à 1 474 M$."
+   },
+   {
+    "annee": 2026,
+    "fait": "Arrêt du Kurdistan de fin février à fin juin après les frappes sur l'Iran ; la mer du Nord porte le CA record du T2 ; offres sur Capricorn et Genel non abouties."
+   }
+  ],
+  "modele": "DNO vend du pétrole et du gaz au prix du marché mondial, sans couverture des prix selon la direction. Les revenus dépendent donc directement du Brent et du prix du gaz européen. En Norvège, l'État prélève environ 78 % des bénéfices pétroliers mais rembourse aussi une grande partie des investissements, ce qui réduit le risque des projets. Au Kurdistan, les revenus dépendent des accords d'exportation avec Bagdad et Erbil.",
+  "segments": [
+   {
+    "nom": "Mer du Nord (Norvège, Royaume-Uni)",
+    "part": 96,
+    "detail": "84 912 barils équivalent par jour au T2 2026, objectif 2026 relevé à 85 000. Part de la production nette du T2 2026, pas du CA."
+   },
+   {
+    "nom": "Afrique de l'Ouest",
+    "part": 4,
+    "detail": "3 246 barils équivalent par jour au T2 2026 (parts non opérées). Part de la production nette du T2 2026."
+   },
+   {
+    "nom": "Kurdistan irakien",
+    "part": 0,
+    "detail": "273 barils par jour au T2 2026 après l'arrêt de février (39 600 au T1 2026, 52 569 en moyenne en 2025). Reprise progressive depuis fin juin."
+   }
+  ],
+  "geo": [
+   {
+    "zone": "Mer du Nord",
+    "part": 96
+   },
+   {
+    "zone": "Afrique de l'Ouest",
+    "part": 4
+   },
+   {
+    "zone": "Kurdistan irakien",
+    "part": 0
+   }
+  ],
+  "clients": "Acheteurs de pétrole et de gaz sur les marchés internationaux (négociants, raffineurs, énergéticiens européens) ; au Kurdistan, acheteurs locaux tant que l'oléoduc d'exportation est fermé. Pas de dépendance à un client unique publiée.",
+  "concurrents": [
+   "Aker BP",
+   "Vår Energi",
+   "Equinor",
+   "Harbour Energy",
+   "Genel Energy (au Kurdistan)"
+  ],
+  "avantage": "Des actifs en mer du Nord à faible coût et dans un pays stable, une direction très expérimentée et opportuniste dans les rachats, et une forte trésorerie libre quand les prix sont élevés. Ce qui pourrait l'éroder : une baisse durable du pétrole, le déclin naturel des gisements, un rachat trop cher, et l'instabilité politique au Kurdistan.",
+  "dirigeants": [
+   {
+    "nom": "Bijan Mossavar-Rahmani",
+    "role": "Président exécutif du conseil et premier actionnaire",
+    "depuis": null
+   },
+   {
+    "nom": "Christopher Spencer",
+    "role": "Directeur général (Managing Director)",
+    "depuis": null
+   }
+  ],
+  "actionnariat": "Le président exécutif Bijan Mossavar-Rahmani est le premier actionnaire (rapport annuel 2024), pourcentage exact non confirmé ; le reste est coté à Oslo et détenu par des fonds et des particuliers. Environ 975 millions d'actions.",
+  "devise": "USD",
+  "devDividende": "NOK",
+  "chiffres": [
+   {
+    "annee": "2023",
+    "ca": 667.5,
+    "rn": 18.6,
+    "margeOp": 32.7,
+    "detteNette": -152.7,
+    "dividende": 1.0
+   },
+   {
+    "annee": "2024",
+    "ca": 666.8,
+    "rn": -27.1,
+    "margeOp": 0.9,
+    "detteNette": -99.0,
+    "dividende": 1.125
+   },
+   {
+    "annee": "2025",
+    "ca": 1474.0,
+    "rn": -25.2,
+    "margeOp": 34.8,
+    "detteNette": 885.9,
+    "dividende": 1.375
+   },
+   {
+    "annee": "2026e",
+    "ca": 2890,
+    "rn": 348,
+    "margeOp": null,
+    "detteNette": 362,
+    "dividende": 1.5
+   }
+  ],
+  "croire": [
+   "Que la mer du Nord (environ 85 000 barils équivalent par jour) continue de produire comme prévu et de financer seule le dividende, même si le Kurdistan reste à l'arrêt.",
+   "Que le prix du pétrole et du gaz européen reste assez élevé (Brent au-dessus d'environ 65 $) pour que la trésorerie libre couvre le dividende et la baisse de la dette.",
+   "Que la direction reste disciplinée sur les rachats (elle n'a pas surenchéri sur Capricorn et a renoncé à Genel) et continue de réduire la dette nette vers environ 200 à 350 M$."
+  ],
+  "questions": [
+   "Le Kurdistan peut-il revenir vers 40 000 barils par jour et retrouver des exportations au prix international, ou reste-t-il une option incertaine vendue autour de 35 $ le baril sur place ?",
+   "Après les échecs sur Capricorn et Genel, quelle sera la prochaine opération de croissance et à quel prix ?",
+   "Le dividende de 1,50 NOK par an peut-il être relevé, ou la direction privilégiera-t-elle la dette et les rachats ?"
+  ],
+  "suivi": {
+   "le": "2026-10-01",
+   "bilan": "Les trois conditions tiennent : la mer du Nord porte le groupe, les prix sont élevés et la direction a refusé de surpayer ; le point fragile reste la dépendance totale au prix du pétrole.",
+   "croire": [
+    {
+     "c": "Que la mer du Nord (environ 85 000 barils équivalent par jour) continue de produire comme prévu et de financer seule le dividende, même si le Kurdistan reste à l'arrêt.",
+     "etat": "ok",
+     "reponse": "Oui : la mer du Nord a produit près de 85 000 barils par jour au T2 et l'objectif annuel a été relevé, alors que le Kurdistan était presque à l'arrêt ; le dividende de 0,375 NOK a été maintenu.",
+     "preuve": "T2 2026 : mer du Nord 84 912 barils par jour, objectif 2026 relevé de 3 000 à 85 000 ; Kurdistan 273 barils par jour ; dividende de 0,375 NOK versé en septembre.",
+     "source": "https://www.globenewswire.com/news-release/2026/08/13/3344212/0/en/dno-reports-record-revenue-as-it-chases-new-growth.html",
+     "prochain": "Résultats du T3 le 29/10/2026"
+    },
+    {
+     "c": "Que le prix du pétrole et du gaz européen reste assez élevé (Brent au-dessus d'environ 65 $) pour que la trésorerie libre couvre le dividende et la baisse de la dette.",
+     "etat": "ok",
+     "reponse": "Oui pour l'instant : les prix élevés ont permis 289,5 M$ de trésorerie libre au T2, bien plus que le dividende trimestriel. Mais cela peut changer vite en cas de détente au Moyen-Orient.",
+     "preuve": "T2 2026 : CA 760,5 M$ (+21 % sur le trimestre), résultat opérationnel 439 M$, trésorerie libre 289,5 M$.",
+     "source": "https://www.nasdaq.com/press-release/dno-reports-record-revenue-it-chases-new-growth-2026-08-13",
+     "prochain": "Résultats du T3 le 29/10/2026 et évolution du Brent"
+    },
+    {
+     "c": "Que la direction reste disciplinée sur les rachats (elle n'a pas surenchéri sur Capricorn et a renoncé à Genel) et continue de réduire la dette nette vers environ 200 à 350 M$.",
+     "etat": "ok",
+     "reponse": "Oui : DNO a renoncé à Genel et déclaré finale son offre sur Capricorn sans suivre la surenchère de Genel ; la dette nette a baissé de 333 M$ en six mois.",
+     "preuve": "Dette nette 885,9 M$ fin 2025, 790 M$ fin mars, 552,9 M$ fin juin 2026 ; offre Capricorn finale à 5,214 $ contre 5,74 $ pour Genel.",
+     "source": "https://www.investegate.co.uk/announcement/rns/capricorn-energy--cne/statement-regarding-final-offer-for-capricorn/9792659",
+     "prochain": "Résultats du T3 le 29/10/2026 (dette nette)"
+    }
+   ],
+   "questions": [
+    {
+     "q": "Le Kurdistan peut-il revenir vers 40 000 barils par jour et retrouver des exportations au prix international, ou reste-t-il une option incertaine vendue autour de 35 $ le baril sur place ?",
+     "etat": "watch",
+     "reponse": "La production a repris à Tawke (28/06) et Peshkabir (11/07), mais le pétrole est vendu sur place vers 35 à 39 $ faute de route d'exportation ; aucun calendrier de retour aux exportations n'a été trouvé.",
+     "preuve": "Kurdistan : 39 600 barils par jour au T1 2026, 273 au T2 ; vente locale vers 35 à 39 $ le baril.",
+     "source": "https://www.kurdistan24.net/en/story/932289/dno-moves-to-raise-output-at-kurdistan-regions-tawke-field",
+     "prochain": "Résultats du T3 le 29/10/2026 (production du Kurdistan)"
+    },
+    {
+     "q": "Après les échecs sur Capricorn et Genel, quelle sera la prochaine opération de croissance et à quel prix ?",
+     "etat": "nc",
+     "reponse": "Pas de réponse : après Genel (04/09) et Capricorn (28/09), aucune nouvelle cible n'a été annoncée.",
+     "preuve": "Communiqués du 04/09 (pas d'offre sur Genel) et du 28/09 (offre finale sur Capricorn).",
+     "source": "https://www.globenewswire.com/news-release/2026/09/04/3356409/0/en/no-intention-to-make-an-offer-for-genel-energy-plc.html",
+     "prochain": "Résultats du T3 le 29/10/2026"
+    },
+    {
+     "q": "Le dividende de 1,50 NOK par an peut-il être relevé, ou la direction privilégiera-t-elle la dette et les rachats ?",
+     "etat": "nc",
+     "reponse": "Le dividende a été relevé deux fois en 2024 et 2025 (de 0,25 à 0,375 NOK par trimestre) puis maintenu en 2026 ; aucune annonce de hausse n'a été trouvée.",
+     "preuve": "Dividendes par année de versement : 1,00 NOK (2023), 1,125 NOK (2024), 1,375 NOK (2025), 0,375 NOK par trimestre en 2026.",
+     "source": "https://www.dno.no/en/investors/dividends/",
+     "prochain": "Résultats annuels 2026 (février 2027, date non confirmée)"
+    }
+   ]
+  },
+  "sources": [
+   "https://www.dno.no/media/yl5esnu3/2024-annual-report.pdf",
+   "https://www.globenewswire.com/news-release/2026/02/05/3232635/0/en/dno-exits-landmark-year-prepped-for-a-nervous-and-frisky-market-in-2026.html",
+   "https://norwaystocks.substack.com/p/dno-q4-2025-key-takeaways",
+   "https://www.globenewswire.com/news-release/2026/08/13/3344212/0/en/dno-reports-record-revenue-as-it-chases-new-growth.html",
+   "https://www.nasdaq.com/press-release/dno-reports-record-revenue-it-chases-new-growth-2026-08-13",
+   "https://www.dno.no/en/investors/dividends/",
+   "https://stockanalysis.com/quote/osl/DNO/dividend/",
+   "https://www.globenewswire.com/news-release/2026/09/04/3356409/0/en/no-intention-to-make-an-offer-for-genel-energy-plc.html",
+   "https://www.investegate.co.uk/announcement/rns/capricorn-energy--cne/statement-regarding-final-offer-for-capricorn/9792659",
+   "https://www.globalbankingandfinance.com/genel-energy-capricorn-agree-terms-higher-436-million-deal/",
+   "https://www.inderes.fi/en/releases/dno-financial-calendar-6",
+   "https://www.marketscreener.com/quote/stock/DNO-ASA-1413123/",
+   "https://www.kurdistan24.net/en/story/932289/dno-moves-to-raise-output-at-kurdistan-regions-tawke-field"
+  ],
+  "aVerifier": "Chiffres 2023 et 2024 tirés du rapport annuel 2024 ; 2025 du communiqué annuel (dette nette de 885,9 M$ affichée avec un signe négatif dans la source, interprétée comme une dette nette, cohérente avec 790 M$ fin mars 2026). Dividendes = montants versés dans l'année civile (site DNO et stockanalysis). Ligne 2026e = consensus MarketScreener (une seule source), marge non disponible. Effectif de 1 070 salariés à fin 2024 (avant Sval, sans doute plus élevé aujourd'hui). Années 2004 (Kurdistan) et 2019 (Faroe Petroleum), pourcentage détenu par Bijan Mossavar-Rahmani, dates d'arrivée des dirigeants et liste des concurrents non vérifiés dans une source primaire. Répartition par zone donnée en production et non en CA.",
+  "verifieLe": "2026-10-01",
+  "corrections": []
+ }
+}

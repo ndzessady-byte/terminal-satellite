@@ -1,0 +1,1418 @@
+{
+ "ticker": "THEON",
+ "nom": "Theon International",
+ "pays": "CY",
+ "secteur": "Défense (vision nocturne et optronique)",
+ "cours": 28.86,
+ "coursLe": "2026-10-01",
+ "devise": "€",
+ "capi": "environ 2,3 Md€",
+ "per26": 19.5,
+ "per27": 16.7,
+ "statut": "surveiller",
+ "these": "Leader européen des lunettes de vision nocturne pour soldats, porté par le réarmement : croissance de plus de 30 %, marge EBIT ajustée de 26 %, carnet de 1,46 Md€.",
+ "risque": "Endettement en forte hausse après une série de rachats (levier vers 3 fois l'Ebitda), commandes publiques irrégulières et forte dépendance aux budgets de défense européens.",
+ "faits": [
+  {
+   "d": "30/09",
+   "t": "Nouvelles commandes d'environ 50 M€ (lunettes NYX et ORION, systèmes KAPPA), dont le premier gros contrat ORION pour un pays d'Europe de l'Ouest membre de l'OTAN ; présélection sur plusieurs contrats plus importants."
+  },
+  {
+   "d": "07/09",
+   "t": "S1 : CA 248,7 M€ (+35,4 %, +24,7 % sans les rachats), marge EBIT ajustée 26,2 %, bénéfice net 74,3 M€ (dont un gain de juste valeur), dette nette 237,9 M€. Objectif 2026 : environ 600 M€ de CA."
+  },
+  {
+   "d": "27/07",
+   "t": "Annonce des rachats de 80 % de MERIO (nacelles optiques pour drones) et de HGH (anti-drones, valeur d'entreprise d'environ 300 M€, financée par dette) : levier pro forma d'environ 3 fois l'Ebitda."
+  },
+  {
+   "d": "26/06",
+   "t": "Versement du dividende 2025 de 0,31 € par action (24,4 M€, environ 30 % du bénéfice 2025)."
+  }
+ ],
+ "pub": null,
+ "pubLabel": "Point d'activité du T3 2026 (début novembre, date non confirmée)",
+ "src": "https://www.globenewswire.com/news-release/2026/09/07/3357256/0/en/publication-of-h1-2026-report.html",
+ "notes": "Cours : clôture du 30/09/2026 (flux de cours, 28,76 €). PER 2026 et 2027 calculés avec le BPA du consensus MarketScreener (1,476 € et 1,721 €), une seule source : à confirmer. Marge opérationnelle = marge EBIT ajustée publiée par la société. Le bénéfice du S1 2026 contient un gain de juste valeur non récurrent.",
+ "yahoo": "THEON.AS",
+ "compte": "PEA",
+ "histo": [
+  [
+   "25/09",
+   31.45
+  ],
+  [
+   "26/09",
+   32.05
+  ],
+  [
+   "29/09",
+   32.65
+  ],
+  [
+   "30/09",
+   32.5
+  ],
+  [
+   "01/10",
+   34.3
+  ],
+  [
+   "02/10",
+   34.3
+  ],
+  [
+   "03/10",
+   35.25
+  ],
+  [
+   "06/10",
+   34.1
+  ],
+  [
+   "07/10",
+   34.5
+  ],
+  [
+   "08/10",
+   36.5
+  ],
+  [
+   "09/10",
+   36.6
+  ],
+  [
+   "10/10",
+   34.45
+  ],
+  [
+   "13/10",
+   33.55
+  ],
+  [
+   "14/10",
+   33.2
+  ],
+  [
+   "15/10",
+   29.75
+  ],
+  [
+   "16/10",
+   29.6
+  ],
+  [
+   "17/10",
+   28.55
+  ],
+  [
+   "20/10",
+   29.15
+  ],
+  [
+   "21/10",
+   28.65
+  ],
+  [
+   "22/10",
+   28.5
+  ],
+  [
+   "23/10",
+   28.6
+  ],
+  [
+   "24/10",
+   28.35
+  ],
+  [
+   "27/10",
+   29.05
+  ],
+  [
+   "28/10",
+   28.85
+  ],
+  [
+   "29/10",
+   29.1
+  ],
+  [
+   "30/10",
+   29.5
+  ],
+  [
+   "31/10",
+   30.55
+  ],
+  [
+   "03/11",
+   30.55
+  ],
+  [
+   "04/11",
+   29.25
+  ],
+  [
+   "05/11",
+   30.8
+  ],
+  [
+   "06/11",
+   28.25
+  ],
+  [
+   "07/11",
+   27.15
+  ],
+  [
+   "10/11",
+   28.7
+  ],
+  [
+   "11/11",
+   27.45
+  ],
+  [
+   "12/11",
+   27.35
+  ],
+  [
+   "13/11",
+   27.95
+  ],
+  [
+   "14/11",
+   28.25
+  ],
+  [
+   "17/11",
+   27.85
+  ],
+  [
+   "18/11",
+   27.7
+  ],
+  [
+   "19/11",
+   26.5
+  ],
+  [
+   "20/11",
+   27.0
+  ],
+  [
+   "21/11",
+   26.5
+  ],
+  [
+   "24/11",
+   25.24
+  ],
+  [
+   "25/11",
+   24.76
+  ],
+  [
+   "26/11",
+   23.8
+  ],
+  [
+   "27/11",
+   24.76
+  ],
+  [
+   "28/11",
+   25.09
+  ],
+  [
+   "01/12",
+   25.62
+  ],
+  [
+   "02/12",
+   27.2
+  ],
+  [
+   "03/12",
+   27.4
+  ],
+  [
+   "04/12",
+   28.2
+  ],
+  [
+   "05/12",
+   29.75
+  ],
+  [
+   "08/12",
+   32.0
+  ],
+  [
+   "09/12",
+   31.25
+  ],
+  [
+   "10/12",
+   30.05
+  ],
+  [
+   "11/12",
+   30.2
+  ],
+  [
+   "12/12",
+   29.15
+  ],
+  [
+   "15/12",
+   29.2
+  ],
+  [
+   "16/12",
+   27.65
+  ],
+  [
+   "17/12",
+   27.0
+  ],
+  [
+   "18/12",
+   27.45
+  ],
+  [
+   "19/12",
+   27.4
+  ],
+  [
+   "22/12",
+   27.9
+  ],
+  [
+   "23/12",
+   27.5
+  ],
+  [
+   "24/12",
+   27.25
+  ],
+  [
+   "29/12",
+   26.8
+  ],
+  [
+   "30/12",
+   26.5
+  ],
+  [
+   "31/12",
+   26.8
+  ],
+  [
+   "02/01",
+   26.6
+  ],
+  [
+   "05/01",
+   28.15
+  ],
+  [
+   "06/01",
+   28.6
+  ],
+  [
+   "07/01",
+   30.3
+  ],
+  [
+   "08/01",
+   31.0
+  ],
+  [
+   "09/01",
+   32.75
+  ],
+  [
+   "12/01",
+   30.65
+  ],
+  [
+   "13/01",
+   32.1
+  ],
+  [
+   "14/01",
+   31.55
+  ],
+  [
+   "15/01",
+   31.65
+  ],
+  [
+   "16/01",
+   32.6
+  ],
+  [
+   "19/01",
+   33.9
+  ],
+  [
+   "20/01",
+   33.0
+  ],
+  [
+   "21/01",
+   31.8
+  ],
+  [
+   "22/01",
+   30.5
+  ],
+  [
+   "23/01",
+   30.2
+  ],
+  [
+   "26/01",
+   29.95
+  ],
+  [
+   "27/01",
+   31.3
+  ],
+  [
+   "28/01",
+   32.0
+  ],
+  [
+   "29/01",
+   31.7
+  ],
+  [
+   "30/01",
+   31.15
+  ],
+  [
+   "02/02",
+   30.45
+  ],
+  [
+   "03/02",
+   30.4
+  ],
+  [
+   "04/02",
+   29.55
+  ],
+  [
+   "05/02",
+   28.55
+  ],
+  [
+   "06/02",
+   29.15
+  ],
+  [
+   "09/02",
+   30.25
+  ],
+  [
+   "10/02",
+   30.15
+  ],
+  [
+   "11/02",
+   28.6
+  ],
+  [
+   "12/02",
+   27.25
+  ],
+  [
+   "13/02",
+   30.35
+  ],
+  [
+   "16/02",
+   30.55
+  ],
+  [
+   "17/02",
+   30.2
+  ],
+  [
+   "18/02",
+   32.2
+  ],
+  [
+   "19/02",
+   31.15
+  ],
+  [
+   "20/02",
+   31.7
+  ],
+  [
+   "23/02",
+   30.7
+  ],
+  [
+   "24/02",
+   30.15
+  ],
+  [
+   "25/02",
+   30.05
+  ],
+  [
+   "26/02",
+   30.4
+  ],
+  [
+   "27/02",
+   30.7
+  ],
+  [
+   "02/03",
+   31.2
+  ],
+  [
+   "03/03",
+   30.75
+  ],
+  [
+   "04/03",
+   31.8
+  ],
+  [
+   "05/03",
+   30.0
+  ],
+  [
+   "06/03",
+   31.0
+  ],
+  [
+   "09/03",
+   30.9
+  ],
+  [
+   "10/03",
+   31.3
+  ],
+  [
+   "11/03",
+   30.95
+  ],
+  [
+   "12/03",
+   31.15
+  ],
+  [
+   "13/03",
+   31.5
+  ],
+  [
+   "16/03",
+   31.75
+  ],
+  [
+   "17/03",
+   31.95
+  ],
+  [
+   "18/03",
+   34.3
+  ],
+  [
+   "19/03",
+   32.15
+  ],
+  [
+   "20/03",
+   32.4
+  ],
+  [
+   "23/03",
+   31.1
+  ],
+  [
+   "24/03",
+   29.7
+  ],
+  [
+   "25/03",
+   29.2
+  ],
+  [
+   "26/03",
+   28.85
+  ],
+  [
+   "27/03",
+   28.5
+  ],
+  [
+   "30/03",
+   29.25
+  ],
+  [
+   "31/03",
+   30.9
+  ],
+  [
+   "01/04",
+   33.5
+  ],
+  [
+   "02/04",
+   34.0
+  ],
+  [
+   "07/04",
+   34.36
+  ],
+  [
+   "08/04",
+   32.94
+  ],
+  [
+   "09/04",
+   34.56
+  ],
+  [
+   "10/04",
+   32.08
+  ],
+  [
+   "13/04",
+   32.58
+  ],
+  [
+   "14/04",
+   32.3
+  ],
+  [
+   "15/04",
+   33.84
+  ],
+  [
+   "16/04",
+   34.56
+  ],
+  [
+   "17/04",
+   33.36
+  ],
+  [
+   "20/04",
+   34.06
+  ],
+  [
+   "21/04",
+   35.66
+  ],
+  [
+   "22/04",
+   35.18
+  ],
+  [
+   "23/04",
+   35.44
+  ],
+  [
+   "24/04",
+   33.54
+  ],
+  [
+   "27/04",
+   32.5
+  ],
+  [
+   "28/04",
+   31.1
+  ],
+  [
+   "29/04",
+   31.14
+  ],
+  [
+   "30/04",
+   31.56
+  ],
+  [
+   "04/05",
+   33.6
+  ],
+  [
+   "05/05",
+   32.38
+  ],
+  [
+   "06/05",
+   31.26
+  ],
+  [
+   "07/05",
+   31.0
+  ],
+  [
+   "08/05",
+   30.12
+  ],
+  [
+   "11/05",
+   29.78
+  ],
+  [
+   "12/05",
+   29.26
+  ],
+  [
+   "13/05",
+   29.0
+  ],
+  [
+   "14/05",
+   29.66
+  ],
+  [
+   "15/05",
+   30.36
+  ],
+  [
+   "18/05",
+   29.94
+  ],
+  [
+   "19/05",
+   31.4
+  ],
+  [
+   "20/05",
+   31.52
+  ],
+  [
+   "21/05",
+   31.36
+  ],
+  [
+   "22/05",
+   31.9
+  ],
+  [
+   "25/05",
+   31.74
+  ],
+  [
+   "26/05",
+   31.38
+  ],
+  [
+   "27/05",
+   31.96
+  ],
+  [
+   "28/05",
+   32.64
+  ],
+  [
+   "29/05",
+   33.36
+  ],
+  [
+   "01/06",
+   31.58
+  ],
+  [
+   "02/06",
+   30.76
+  ],
+  [
+   "03/06",
+   31.26
+  ],
+  [
+   "04/06",
+   31.4
+  ],
+  [
+   "05/06",
+   31.36
+  ],
+  [
+   "08/06",
+   31.54
+  ],
+  [
+   "09/06",
+   31.9
+  ],
+  [
+   "10/06",
+   31.36
+  ],
+  [
+   "11/06",
+   32.36
+  ],
+  [
+   "12/06",
+   32.3
+  ],
+  [
+   "15/06",
+   32.3
+  ],
+  [
+   "16/06",
+   33.4
+  ],
+  [
+   "17/06",
+   33.7
+  ],
+  [
+   "18/06",
+   33.26
+  ],
+  [
+   "19/06",
+   34.34
+  ],
+  [
+   "22/06",
+   33.06
+  ],
+  [
+   "23/06",
+   33.22
+  ],
+  [
+   "24/06",
+   31.86
+  ],
+  [
+   "25/06",
+   30.8
+  ],
+  [
+   "26/06",
+   30.88
+  ],
+  [
+   "29/06",
+   30.4
+  ],
+  [
+   "30/06",
+   29.84
+  ],
+  [
+   "01/07",
+   31.4
+  ],
+  [
+   "02/07",
+   32.56
+  ],
+  [
+   "03/07",
+   32.04
+  ],
+  [
+   "06/07",
+   32.98
+  ],
+  [
+   "07/07",
+   32.64
+  ],
+  [
+   "08/07",
+   31.48
+  ],
+  [
+   "09/07",
+   31.46
+  ],
+  [
+   "10/07",
+   31.8
+  ],
+  [
+   "13/07",
+   31.84
+  ],
+  [
+   "14/07",
+   31.42
+  ],
+  [
+   "15/07",
+   31.44
+  ],
+  [
+   "16/07",
+   31.48
+  ],
+  [
+   "17/07",
+   32.28
+  ],
+  [
+   "20/07",
+   32.04
+  ],
+  [
+   "21/07",
+   32.98
+  ],
+  [
+   "22/07",
+   33.4
+  ],
+  [
+   "23/07",
+   33.72
+  ],
+  [
+   "24/07",
+   34.14
+  ],
+  [
+   "27/07",
+   34.8
+  ],
+  [
+   "28/07",
+   34.1
+  ],
+  [
+   "29/07",
+   32.92
+  ],
+  [
+   "30/07",
+   32.54
+  ],
+  [
+   "31/07",
+   33.2
+  ],
+  [
+   "03/08",
+   34.0
+  ],
+  [
+   "04/08",
+   34.8
+  ],
+  [
+   "05/08",
+   34.24
+  ],
+  [
+   "06/08",
+   35.0
+  ],
+  [
+   "07/08",
+   35.14
+  ],
+  [
+   "10/08",
+   35.5
+  ],
+  [
+   "11/08",
+   37.34
+  ],
+  [
+   "12/08",
+   37.88
+  ],
+  [
+   "13/08",
+   37.98
+  ],
+  [
+   "14/08",
+   38.32
+  ],
+  [
+   "17/08",
+   37.0
+  ],
+  [
+   "18/08",
+   36.18
+  ],
+  [
+   "19/08",
+   35.54
+  ],
+  [
+   "20/08",
+   36.68
+  ],
+  [
+   "21/08",
+   35.76
+  ],
+  [
+   "24/08",
+   34.0
+  ],
+  [
+   "25/08",
+   33.64
+  ],
+  [
+   "26/08",
+   33.66
+  ],
+  [
+   "27/08",
+   34.0
+  ],
+  [
+   "28/08",
+   33.3
+  ],
+  [
+   "31/08",
+   33.18
+  ],
+  [
+   "01/09",
+   32.84
+  ],
+  [
+   "02/09",
+   32.04
+  ],
+  [
+   "03/09",
+   31.54
+  ],
+  [
+   "04/09",
+   31.66
+  ],
+  [
+   "07/09",
+   32.58
+  ],
+  [
+   "08/09",
+   33.0
+  ],
+  [
+   "09/09",
+   32.0
+  ],
+  [
+   "10/09",
+   32.44
+  ],
+  [
+   "11/09",
+   31.5
+  ],
+  [
+   "14/09",
+   30.54
+  ],
+  [
+   "15/09",
+   31.34
+  ],
+  [
+   "16/09",
+   30.74
+  ],
+  [
+   "17/09",
+   31.6
+  ],
+  [
+   "18/09",
+   31.72
+  ],
+  [
+   "21/09",
+   31.36
+  ],
+  [
+   "22/09",
+   30.94
+  ],
+  [
+   "23/09",
+   31.62
+  ],
+  [
+   "24/09",
+   30.96
+  ],
+  [
+   "25/09",
+   30.3
+  ],
+  [
+   "28/09",
+   29.24
+  ],
+  [
+   "29/09",
+   29.0
+  ],
+  [
+   "30/09",
+   28.76
+  ],
+  [
+   "01/10",
+   28.86
+  ]
+ ],
+ "perf": {
+  "m1": -9.9,
+  "m3": -12.5,
+  "m12": -16.3
+ },
+ "analyse": {
+  "majLe": "2026-10-01",
+  "verdict": "Theon est une valeur de défense de grande qualité opérationnelle : croissance de plus de 30 %, marge EBIT ajustée de 26 % et carnet de commandes couvrant plus de deux ans de ventes. Le profil a pourtant changé en 2026 : la société est passée d'une trésorerie nette de 127 M€ à une dette nette de 238 M€ en six mois, et le rachat de HGH portera le levier vers 3 fois l'Ebitda. Le titre a reculé de 38 € à moins de 29 € depuis la mi-août, ce qui ramène la valorisation vers 17 fois les bénéfices 2027 attendus. La thèse tient tant que les commandes suivent et que la dette redescend comme promis.",
+  "conviction": "moyenne",
+  "revisions": "Sens non confirmé. Consensus MarketScreener : BPA 2026 de 1,476 €, 2027 de 1,721 €, 2028 de 2,048 € ; CA 2026 de 601 M€, en ligne avec l'objectif relevé à environ 600 M€. Objectif moyen des analystes d'environ 39,4 € (9 analystes, stockanalysis), non recoupé.",
+  "fonda": {
+   "score": 7,
+   "justif": "Rentabilité et croissance excellentes, avantage industriel réel en Europe, mais bilan qui s'alourdit vite à cause des rachats et bénéfice 2026 gonflé par un élément comptable.",
+   "qualite": "Marge EBIT ajustée stable et élevée : 25,8 % (2023), 25,8 % (2024, chiffre retraité), 26,2 % (2025), 26,2 % au S1 2026, avec un objectif relevé à au moins 26 % à moyen terme. Conversion de trésorerie de 83 % au S1 2026. Investissements faibles (environ 4 % du CA), ce qui laisse beaucoup de trésorerie. L'avantage concurrentiel (Buffett) tient à la position de fournisseur européen de référence des lunettes de vision nocturne, retenu dans de grands contrats groupés entre plusieurs armées, et à l'intégration des fournisseurs clés (Harder Digital pour les tubes, participation dans Exosens).",
+   "croissance": "CA : 218,7 M€ (2023), 352,4 M€ (2024, +61 %), 443,5 M€ (2025, +26 %), objectif d'environ 600 M€ en 2026, puis 742 M€ (2027) et 867 M€ (2028) selon le consensus. BPA : 0,98 € (2024), 1,16 € (2025), puis 1,48 €, 1,72 € et 2,05 € attendus de 2026 à 2028, soit environ +18 %/an. Objectif de la société : 1 Md€ de CA en 2029 et plus de 15 %/an de croissance interne. Au sens de Lynch, c'est une valeur de croissance rapide (fast grower), mais liée à un cycle de réarmement.",
+   "bilan": "Moins solide qu'en 2025 au sens de Graham : trésorerie nette de 126,9 M€ fin 2025, puis dette nette de 237,9 M€ fin juin 2026 (1,7 fois l'Ebitda) après l'achat de 9,8 % d'Exosens (268,7 M€) et de Kappa Optronics (69,9 M€), partiellement financés par une augmentation de capital de 147,7 M€ en décembre 2025. Le rachat de HGH (environ 300 M€, entièrement par dette) portera le levier vers 3 fois, avec un objectif sous 2,5 fois en 2027. Nouveaux financements bancaires de 325 M€ (prêt) et 400 M€ (ligne de crédit).",
+   "valo": "PER calculé d'environ 19,5 en 2026 et 16,7 en 2027 au cours de 28,76 € (consensus MarketScreener). Valeur d'entreprise d'environ 2,5 Md€ (capitalisation d'environ 2,26 Md€ et dette nette de 238 M€), soit environ 16 fois l'EBIT 2026 attendu (154,5 M€). Rendement du dividende d'environ 1,1 %. La valorisation reste celle d'une valeur de croissance, mais nettement moins chère qu'au plus haut de 38 €.",
+   "peg": 1.1,
+   "piotroski": null,
+   "greenblatt": "Rendement bénéficiaire (EBIT 2026 attendu / valeur d'entreprise) d'environ 6,2 % et rendement du capital élevé hors participations (peu d'investissements industriels) : profil correct mais pas exceptionnel sur la formule magique, car la valeur d'entreprise intègre désormais une dette et des participations financières."
+  },
+  "tech": {
+   "cours": 28.86,
+   "coursLe": "2026-10-01",
+   "mm50": 33.23,
+   "mm200": 31.78,
+   "rsi14": 32.7,
+   "haut52": 38.32,
+   "bas52": 23.8,
+   "support": 27.25,
+   "resistance": 31.8,
+   "tendance": "neutre",
+   "stade": 3,
+   "lecture": "Cours de 28,86 en dessous de sa moyenne 50 jours (33,23) et en dessous de sa moyenne 200 jours (31,78). RSI 32,7 : élan neutre. Il se situe à 35 % de sa fourchette sur un an (de 23,80 à 38,32), performance sur 12 mois de -16,3 %. Clôture du 01/10/2026.",
+   "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json"
+  },
+  "actu": [
+   {
+    "d": "30/09",
+    "fait": "Commandes d'environ 50 M€ (NYX, ORION, KAPPA) en Europe et au Moyen-Orient, dont le premier contrat important ORION pour un pays d'Europe de l'Ouest de l'OTAN. La direction attend des commandes fortes au T4 2026 et au T1 2027.",
+    "impact": "positif",
+    "horizon": "moyen",
+    "lecture": "Montre que les nouveaux produits (lunettes fusionnées ORION) commencent à se vendre en Europe de l'Ouest, ce qui soutient la diversification. Le montant reste modeste face aux 600 M€ de ventes annuelles."
+   },
+   {
+    "d": "07/09",
+    "fait": "S1 2026 : CA 248,7 M€ (+35,4 %), marge EBIT ajustée 26,2 %, bénéfice net 74,3 M€ incluant un gain de juste valeur, commandes de 232,5 M€ (rapport commandes sur ventes d'environ 1), objectif de marge relevé à au moins 26 %.",
+    "impact": "neutre",
+    "horizon": "moyen",
+    "lecture": "L'activité est excellente, mais les commandes du semestre ne font que remplacer les ventes et une partie du bénéfice est comptable. Le second semestre doit confirmer l'arrivée de grosses commandes."
+   },
+   {
+    "d": "27/07",
+    "fait": "Rachats annoncés : 80 % de MERIO (nacelles optiques pour drones, avec une coentreprise Safran) et HGH Systèmes Infrarouges (anti-drones, valeur d'entreprise d'environ 300 M€, entièrement par dette, clôture début 2027).",
+    "impact": "negatif",
+    "horizon": "long",
+    "lecture": "Stratégiquement logique (drones et anti-drones sont les marchés qui grandissent le plus), mais le levier passe vers 3 fois l'Ebitda : la société change de profil, d'un bilan en trésorerie nette à un groupe endetté qui finance sa croissance par des rachats."
+   },
+   {
+    "d": "T1 2026",
+    "fait": "Achat de 9,8 % d'Exosens (fabricant français de tubes intensificateurs, à 54 € par action, 268,7 M€) et de Kappa Optronics (69,9 M€). Projet de siège au conseil et de hausse de la participation dans Exosens mis en pause.",
+    "impact": "neutre",
+    "horizon": "long",
+    "lecture": "Sécurise un fournisseur clé, mais immobilise beaucoup d'argent dans une participation minoritaire dont la valeur dépend de la Bourse."
+   }
+  ],
+  "scenarios": [
+   {
+    "horizon": "12 mois",
+    "unite": "€",
+    "bas": 22,
+    "central": 32,
+    "haut": 39,
+    "hypotheses": "Central : BPA 2027 de 1,72 € valorisé environ 18,5 fois, retour vers la moyenne 200 jours. Bas : commandes décevantes ou crainte sur la dette, PER 2027 vers 13 (environ 22 €, sous le plus bas de novembre 2025). Haut : grosses commandes au T4 et retour vers l'objectif moyen des analystes (environ 39 €)."
+   },
+   {
+    "horizon": "5 ans",
+    "unite": "%/an",
+    "bas": -3,
+    "central": 12,
+    "haut": 21,
+    "hypotheses": "Central : BPA +15 %/an, PER qui se tasse de 19,5 vers 16 (environ -4 %/an), dividende 1,2 % = environ 12 %/an. Bas : fin du cycle de réarmement, BPA +5 %/an et PER vers 12 (environ -9 %/an), dividende 1 % = environ -3 %/an. Haut : objectif de 1 Md€ de CA atteint en 2029 avec marge de 26 %, BPA +20 %/an et PER stable = environ 21 %/an."
+   }
+  ],
+  "zones": {
+   "interet": "25 à 28 € : sous les supports de février et mars 2026, soit un PER 2026 d'environ 17 à 19 et un PER 2027 d'environ 14,5 à 16, cohérent avec une croissance attendue d'environ 18 %/an.",
+   "invalidation": "Clôture durable sous 23,80 € (plus bas sur 52 semaines), ou rapport commandes sur ventes inférieur à 1 sur l'ensemble de 2026, ou levier qui ne redescend pas sous 3 fois l'Ebitda après l'intégration de HGH.",
+   "sortie": [
+    "Levier supérieur à 3 fois l'Ebitda fin 2027 ou nouvelle augmentation de capital pour financer des rachats",
+    "Marge EBIT ajustée sous 24 % deux semestres de suite",
+    "Carnet de commandes en baisse deux trimestres de suite",
+    "PER au-dessus de 30 sans accélération des commandes"
+   ],
+   "catalyseurs": [
+    "Début novembre 2026 (date non confirmée) : point d'activité du T3 2026",
+    "T4 2026 et T1 2027 : grosses commandes attendues par la direction (forces terrestres européennes)",
+    "Début 2027 : finalisation du rachat de HGH",
+    "Février 2027 (date non confirmée) : résultats annuels 2026 et dividende"
+   ]
+  },
+  "cadres": [
+   "Buffett (qualité, avantage concurrentiel)",
+   "Fisher (direction, innovation)",
+   "Lynch (fast grower, PEG)",
+   "Graham (solidité du bilan)",
+   "Greenblatt (formule magique)",
+   "Théorie de Dow",
+   "Minervini (trend template)",
+   "Weinstein (stades)"
+  ],
+  "sources": [
+   "https://www.globenewswire.com/news-release/2026/09/07/3357256/0/en/publication-of-h1-2026-report.html",
+   "https://www.investegate.co.uk/announcement/gnw/theon-international-plc--theon/theon-announces-q2-2026-h1-2026-trading-upd-/9689775",
+   "https://www.globenewswire.com/news-release/2026/09/30/3372250/0/en/theon-secures-new-orders-of-c-50-million-and-is-pre-selected-for-several-higher-value-contracts-and-options.html",
+   "https://theon.com/en/news/2026/theon-announces-q1-2026-trading-update",
+   "https://theon.com/en/news/2026/theon-announces-fy-2025-preliminary-results",
+   "https://ca.investing.com/news/stock-market-news/earnings-call-transcript-theon-international-posts-h1-2026-beat-lifts-margin-outlook-93CH-4830941",
+   "https://www.gurufocus.com/news/9071098/theon-international-plc-stuw8c-h1-2026-earnings-call-highlights-record-revenue-and-strategic-expansion-drive-optimism",
+   "https://www.marketscreener.com/quote/stock/THEON-INTERNATIONAL-PLC-164990265/finances/",
+   "https://www.marketscreener.com/quote/stock/THEON-INTERNATIONAL-PLC-164990265/calendar/",
+   "https://stockanalysis.com/quote/ams/THEON/",
+   "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json"
+  ],
+  "aVerifier": "Consensus 2026 à 2028 (une seule source, MarketScreener) et donc PER 2026 et 2027 ; objectif moyen des analystes (stockanalysis seul) ; montant exact du gain de juste valeur dans le bénéfice du S1 2026 ; date du point d'activité du T3 (MarketScreener indique le 08/11, un dimanche, non confirmé par Theon) ; Piotroski non calculé faute de comptes complets."
+ },
+ "societe": {
+  "resume": "Theon International conçoit et fabrique des lunettes de vision nocturne et des systèmes d'imagerie thermique pour les soldats, les véhicules et les forces de sécurité. Concrètement, quand une armée européenne équipe ses fantassins de lunettes pour voir et tirer de nuit, Theon fait partie des fournisseurs de référence (lunettes NYX, ORION). Le groupe, d'origine grecque et immatriculé à Chypre, élargit son offre aux nacelles optiques pour drones et à la détection de drones.",
+  "fondee": 1997,
+  "siege": "Strovolos (Nicosie), Chypre ; activités industrielles d'origine en Grèce",
+  "effectifs": 1044,
+  "site": "https://www.theon.com",
+  "histoire": [
+   {
+    "annee": 1997,
+    "fait": "Création en Grèce par Christian Hadjiminas, spécialisée dans la vision nocturne militaire."
+   },
+   {
+    "annee": 2024,
+    "fait": "Entrée en Bourse sur Euronext Amsterdam en février et rachat de Harder Digital, fabricant de tubes intensificateurs, pour sécuriser l'approvisionnement."
+   },
+   {
+    "annee": 2025,
+    "fait": "Année record : CA de 443,5 M€ (+26 %), commandes de 1,31 Md€ (+182 %), carnet porté à 1,41 Md€ ; augmentation de capital de 147,7 M€ en décembre."
+   },
+   {
+    "annee": 2026,
+    "fait": "Achat de 9,8 % d'Exosens et de Kappa Optronics au T1, puis annonce des rachats de MERIO et de HGH : la dette nette atteint 237,9 M€ fin juin."
+   }
+  ],
+  "modele": "Theon vend des équipements à des ministères de la défense, souvent dans le cadre de grands contrats pluriannuels avec des options de commandes supplémentaires (902 M€ d'options en plus du carnet ferme de 1,46 Md€ à fin juin 2026). Les revenus ne sont pas des abonnements mais le carnet donne une bonne visibilité sur deux à trois ans. Le modèle est peu gourmand en usines (investissements d'environ 4 % du CA), ce qui explique la forte rentabilité.",
+  "segments": [
+   {
+    "nom": "Vision nocturne",
+    "part": 85,
+    "detail": "Lunettes et jumelles de vision nocturne pour soldats (NYX, ORION). Part du CA du S1 2026 selon la conférence de la direction."
+   },
+   {
+    "nom": "Autres produits (thermique, viseurs, systèmes KAPPA, nacelles)",
+    "part": 15,
+    "detail": "Imagerie thermique, systèmes pour véhicules et navires, futurs produits pour drones ; objectif de 19 à 20 % du CA fin 2026."
+   }
+  ],
+  "geo": [
+   {
+    "zone": "Europe",
+    "part": 80
+   },
+   {
+    "zone": "Reste du monde (Moyen-Orient, Asie)",
+    "part": 14
+   },
+   {
+    "zone": "Amériques",
+    "part": 6
+   }
+  ],
+  "clients": "Ministères de la défense et forces de sécurité, à 80 % en Europe (armées de l'OTAN, souvent via des achats groupés entre plusieurs pays), le reste au Moyen-Orient, en Asie et aux États-Unis. Pas de détail public sur le poids des principaux clients.",
+  "concurrents": [
+   "Elbit Systems (activité vision nocturne ex-L3Harris)",
+   "Thales",
+   "Hensoldt",
+   "Leonardo DRS",
+   "Safran (aussi partenaire dans les nacelles)"
+  ],
+  "avantage": "Fournisseur européen de référence dans les lunettes de vision nocturne, avec une rentabilité rare (marge EBIT de 26 %), une présence dans les grands contrats groupés de l'OTAN et une maîtrise de la chaîne d'approvisionnement (tubes Harder Digital, participation dans Exosens). Ce qui pourrait l'éroder : la fin du cycle de réarmement, la concurrence d'Elbit et des grands groupes, et une stratégie de rachats coûteuse qui dilue la rentabilité ou fragilise le bilan.",
+  "dirigeants": [
+   {
+    "nom": "Christian Hadjiminas",
+    "role": "Fondateur, directeur général (CEO) et actionnaire principal",
+    "depuis": null
+   },
+   {
+    "nom": "Philippe Mennicken",
+    "role": "Directeur général adjoint (Deputy CEO)",
+    "depuis": null
+   },
+   {
+    "nom": "Dimitris Parthenis",
+    "role": "Directeur financier",
+    "depuis": 2020
+   },
+   {
+    "nom": "Kolinda Grabar-Kitarović",
+    "role": "Présidente du conseil d'administration (ancienne présidente de la Croatie)",
+    "depuis": 2024
+   }
+  ],
+  "actionnariat": "Le fondateur Christian Hadjiminas contrôle le groupe avec environ 70 % du capital (MarketScreener, non recoupé), le reste est coté et détenu par des fonds et des particuliers. Environ 78,6 millions d'actions donnent droit au dividende 2025.",
+  "devise": "€",
+  "chiffres": [
+   {
+    "annee": "2023",
+    "ca": 218.7,
+    "rn": null,
+    "margeOp": 25.8,
+    "detteNette": -13.8,
+    "dividende": 0.206
+   },
+   {
+    "annee": "2024",
+    "ca": 352.4,
+    "rn": 67.4,
+    "margeOp": 25.8,
+    "detteNette": -41.9,
+    "dividende": 0.34
+   },
+   {
+    "annee": "2025",
+    "ca": 443.5,
+    "rn": 80.5,
+    "margeOp": 26.2,
+    "detteNette": -126.9,
+    "dividende": 0.31
+   },
+   {
+    "annee": "2026e",
+    "ca": 601.4,
+    "rn": 115.8,
+    "margeOp": 25.7,
+    "detteNette": 242,
+    "dividende": 0.34
+   }
+  ],
+  "croire": [
+   "Que les armées européennes continuent de commander assez d'équipements terrestres (commandes au moins égales aux ventes) pour tenir la trajectoire vers 1 Md€ de chiffre d'affaires en 2029.",
+   "Que la marge EBIT ajustée reste autour de 26 % malgré l'intégration des sociétés rachetées (Kappa, MERIO, HGH).",
+   "Que la dette, qui va monter vers 3 fois l'Ebitda après le rachat de HGH, redescende sous 2,5 fois d'ici fin 2027 sans nouvelle augmentation de capital.",
+   "Que Theon réussit à se diversifier au-delà des lunettes de vision nocturne (environ 85 % des ventes aujourd'hui) vers l'imagerie thermique, les nacelles optiques de drones et la lutte anti-drones."
+  ],
+  "questions": [
+   "Quelle part du bénéfice net du S1 2026 (74,3 M€) vient d'un gain comptable de juste valeur sur des participations, et quelle part est vraiment récurrente ?",
+   "Les rachats de 2026 (9,8 % d'Exosens pour 268,7 M€, Kappa, MERIO, HGH) créent-ils de la valeur ou Theon paie-t-il trop cher pour grandir ?",
+   "Les retards de décisions d'achat au Moyen-Orient et en Asie sont-ils passagers, ou la demande hors Europe ralentit-elle durablement ?"
+  ],
+  "suivi": {
+   "le": "2026-10-01",
+   "bilan": "L'activité tient toutes ses promesses (croissance, marge), mais deux points sont à surveiller : les commandes du S1 ont seulement égalé les ventes et la dette monte vite avec les rachats.",
+   "croire": [
+    {
+     "c": "Que les armées européennes continuent de commander assez d'équipements terrestres (commandes au moins égales aux ventes) pour tenir la trajectoire vers 1 Md€ de chiffre d'affaires en 2029.",
+     "etat": "watch",
+     "reponse": "Le carnet reste très élevé, mais les commandes du S1 2026 (232,5 M€) n'ont fait que compenser les ventes ; la direction attend de grosses commandes au T4 2026 et au T1 2027, et a déjà annoncé environ 50 M€ fin septembre.",
+     "preuve": "S1 2026 : commandes 232,5 M€ (+38,5 %), rapport commandes sur ventes d'environ 1,0, carnet 1 455,9 M€ (+2,5 % depuis mars) et 902 M€ d'options.",
+     "source": "https://www.globenewswire.com/news-release/2026/09/07/3357256/0/en/publication-of-h1-2026-report.html",
+     "prochain": "Point d'activité du T3 (début novembre 2026)"
+    },
+    {
+     "c": "Que la marge EBIT ajustée reste autour de 26 % malgré l'intégration des sociétés rachetées (Kappa, MERIO, HGH).",
+     "etat": "ok",
+     "reponse": "Oui : la marge EBIT ajustée progresse encore et la direction a relevé son objectif à moyen terme à au moins 26 %.",
+     "preuve": "Marge EBIT ajustée 26,2 % au S1 2026 (25,8 % un an plus tôt), 27,3 % au T2 ; objectif relevé à au moins 26 %.",
+     "source": "https://www.globenewswire.com/news-release/2026/09/07/3357256/0/en/publication-of-h1-2026-report.html",
+     "prochain": "Résultats annuels 2026 (début 2027)"
+    },
+    {
+     "c": "Que la dette, qui va monter vers 3 fois l'Ebitda après le rachat de HGH, redescende sous 2,5 fois d'ici fin 2027 sans nouvelle augmentation de capital.",
+     "etat": "watch",
+     "reponse": "Trop tôt : le levier est de 1,7 fois fin juin, il montera vers 3 fois à la clôture de HGH début 2027, et la direction vise moins de 2,5 fois dans le courant de 2027.",
+     "preuve": "Dette nette 237,9 M€ au 30/06/2026 contre une trésorerie nette de 126,9 M€ fin 2025 ; HGH (environ 300 M€) entièrement financé par dette ; prêt de 325 M€ et ligne de crédit de 400 M€.",
+     "source": "https://www.investegate.co.uk/announcement/gnw/theon-international-plc--theon/theon-announces-q2-2026-h1-2026-trading-upd-/9689775",
+     "prochain": "Clôture de HGH début 2027 et résultats annuels 2026"
+    },
+    {
+     "c": "Que Theon réussit à se diversifier au-delà des lunettes de vision nocturne (environ 85 % des ventes aujourd'hui) vers l'imagerie thermique, les nacelles optiques de drones et la lutte anti-drones.",
+     "etat": "ok",
+     "reponse": "En bonne voie : les produits hors vision nocturne pèsent environ 15 % des ventes et devraient atteindre 19 à 20 % fin 2026 ; ORION a décroché un premier contrat important en Europe de l'Ouest.",
+     "preuve": "Conférence S1 2026 : vision nocturne environ 85 % du CA ; Kappa a gagné un contrat de 30 M€ ; commandes KAPPA d'un montant « à un chiffre élevé » en millions annoncées le 30/09.",
+     "source": "https://ca.investing.com/news/stock-market-news/earnings-call-transcript-theon-international-posts-h1-2026-beat-lifts-margin-outlook-93CH-4830941",
+     "prochain": "Résultats annuels 2026 (part des nouveaux produits)"
+    }
+   ],
+   "questions": [
+    {
+     "q": "Quelle part du bénéfice net du S1 2026 (74,3 M€) vient d'un gain comptable de juste valeur sur des participations, et quelle part est vraiment récurrente ?",
+     "etat": "nc",
+     "reponse": "Non chiffré : la direction indique que le bénéfice a plus que doublé grâce à la croissance et à un gain de juste valeur sur des actifs financiers, sans que le montant ait été trouvé. L'EBIT ajusté (+37,5 %) donne la vraie tendance.",
+     "preuve": "Bénéfice net S1 2026 de 74,3 M€ contre 80,5 M€ sur toute l'année 2025, EBIT ajusté S1 de 65,1 M€.",
+     "source": "https://ca.investing.com/news/stock-market-news/earnings-call-transcript-theon-international-posts-h1-2026-beat-lifts-margin-outlook-93CH-4830941",
+     "prochain": "Lire l'annexe du rapport semestriel (ligne de gain de juste valeur)"
+    },
+    {
+     "q": "Les rachats de 2026 (9,8 % d'Exosens pour 268,7 M€, Kappa, MERIO, HGH) créent-ils de la valeur ou Theon paie-t-il trop cher pour grandir ?",
+     "etat": "watch",
+     "reponse": "Pas encore mesurable : les rachats visent des marchés en forte croissance (drones, anti-drones), HGH doit améliorer la marge dès la première année selon la direction, mais Theon a payé cher Exosens et a mis en pause la hausse de sa participation.",
+     "preuve": "Exosens 9,8 % pour 268,7 M€ (54 € par action), Kappa 69,9 M€, HGH environ 300 M€ de valeur d'entreprise.",
+     "source": "https://theon.com/en/news/2026/theon-announces-q1-2026-trading-update",
+     "prochain": "Résultats annuels 2026 et premiers chiffres de HGH en 2027"
+    },
+    {
+     "q": "Les retards de décisions d'achat au Moyen-Orient et en Asie sont-ils passagers, ou la demande hors Europe ralentit-elle durablement ?",
+     "etat": "watch",
+     "reponse": "La direction parle de décisions retardées par des contraintes budgétaires de court terme au Moyen-Orient et en Asie ; les commandes du 30/09 incluent toutefois des clients du Moyen-Orient.",
+     "preuve": "Hors Europe : environ 20 % du CA au S1 2026 ; commandes du 30/09 auprès de pays européens et du Moyen-Orient.",
+     "source": "https://www.gurufocus.com/news/9071098/theon-international-plc-stuw8c-h1-2026-earnings-call-highlights-record-revenue-and-strategic-expansion-drive-optimism",
+     "prochain": "Point d'activité du T3 (début novembre 2026)"
+    }
+   ]
+  },
+  "sources": [
+   "https://theon.com/en/news/2026/theon-announces-fy-2025-preliminary-results",
+   "https://finance.yahoo.com/news/theon-publishes-fy-2024-annual-162600282.html",
+   "https://www.marketscreener.com/news/theon-international-plc-reports-earnings-results-for-the-full-year-ended-december-31-2025-ce7f59dade88f023",
+   "https://theon.com/en/news/2026/result-of-annual-general-meeting-2026-agm-and-declaration-of-dividend-for-financial-year-2025",
+   "https://theon.com/en/news/2026/theon-announces-q1-2026-trading-update",
+   "https://www.globenewswire.com/news-release/2026/09/07/3357256/0/en/publication-of-h1-2026-report.html",
+   "https://www.investegate.co.uk/announcement/gnw/theon-international-plc--theon/theon-announces-q2-2026-h1-2026-trading-upd-/9689775",
+   "https://ca.investing.com/news/stock-market-news/earnings-call-transcript-theon-international-posts-h1-2026-beat-lifts-margin-outlook-93CH-4830941",
+   "https://www.gurufocus.com/news/9071098/theon-international-plc-stuw8c-h1-2026-earnings-call-highlights-record-revenue-and-strategic-expansion-drive-optimism",
+   "https://www.marketscreener.com/quote/stock/THEON-INTERNATIONAL-PLC-164990265/company/",
+   "https://www.marketscreener.com/quote/stock/THEON-INTERNATIONAL-PLC-164990265/finances/",
+   "https://www.edisongroup.com/research/2024-full-results-published/BM-1546/",
+   "https://stockanalysis.com/quote/ams/THEON/"
+  ],
+  "aVerifier": "Bénéfice net 2023 non trouvé (null). Marge 2024 : 25,8 % selon le chiffre retraité du communiqué 2025 (25,1 % publié à l'origine). Trésorerie nette 2024 : 41,9 M€ (communiqué 2025) ou 41,7 M€ (rapport 2024). Dividende 2023 (0,206 €) et 2024 (0,34 €) d'après le communiqué du rapport annuel 2024 et Edison. Ligne 2026e = consensus MarketScreener (une seule source). Part de 70 % de Christian Hadjiminas, effectif de 1 044 salariés et date d'arrivée de Philippe Mennicken (MarketScreener seul) à confirmer dans le rapport annuel 2025. Liste des concurrents non sourcée. Répartition par produit et par zone tirée de la conférence du S1 2026 (source secondaire).",
+  "verifieLe": "2026-10-01",
+  "corrections": []
+ }
+}

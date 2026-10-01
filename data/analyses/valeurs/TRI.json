@@ -104,15 +104,15 @@
    "https://www.xtb.com/fr/analyses-marches/dette-francaise-le-spread-oat-bund-franchit-100-points"
   ],
   "tech": {
-   "bas52": 129.1,
-   "cours": 129.1,
-   "coursLe": "2026-09-30",
+   "bas52": 125.5,
+   "cours": 125.5,
+   "coursLe": "2026-10-01",
    "haut52": 178.2,
-   "lecture": "Cours de 129,10 en dessous de sa moyenne 50 jours (148,38) et en dessous de sa moyenne 200 jours (154,97). RSI 21,6 : élan faible. Il se situe à 0 % de sa fourchette sur un an (de 129,10 à 178,20), performance sur 12 mois de -12,9 %. Clôture du 30/09/2026.",
-   "mm200": 154.97,
-   "mm50": 148.38,
+   "lecture": "Cours de 125,50 en dessous de sa moyenne 50 jours (147,99) et en dessous de sa moyenne 200 jours (154,74). RSI 18,5 : élan faible. Il se situe à 0 % de sa fourchette sur un an (de 125,50 à 178,20), performance sur 12 mois de -15,1 %. Clôture du 01/10/2026.",
+   "mm200": 154.74,
+   "mm50": 147.99,
    "resistance": 139.2,
-   "rsi14": 21.6,
+   "rsi14": 18.5,
    "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json",
    "stade": 4,
    "support": 126,
@@ -135,8 +135,8 @@
   }
  },
  "capi": "2,53 Md€",
- "cours": 129.1,
- "coursLe": "2026-09-30",
+ "cours": 125.5,
+ "coursLe": "2026-10-01",
  "devise": "€",
  "faits": [
   {
@@ -157,10 +157,6 @@
   }
  ],
  "histo": [
-  [
-   "24/09",
-   142.3
-  ],
   [
    "25/09",
    150.6
@@ -1196,6 +1192,10 @@
   [
    "30/09",
    129.1
+  ],
+  [
+   "01/10",
+   125.5
   ]
  ],
  "nom": "Trigano",
@@ -1204,9 +1204,9 @@
  "per26": 9.09,
  "per27": 8.3,
  "perf": {
-  "m1": -16.8,
-  "m3": -10.0,
-  "m12": -12.9
+  "m1": -16.9,
+  "m3": -13.4,
+  "m12": -15.1
  },
  "pub": "2026-11-24",
  "pubLabel": "Résultats annuels (indicatif)",

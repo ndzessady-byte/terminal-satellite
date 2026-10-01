@@ -1,0 +1,1395 @@
+{
+ "ticker": "POWL",
+ "nom": "Powell Industries",
+ "pays": "US",
+ "secteur": "Équipements électriques (data centers, énergie)",
+ "cours": 190.43,
+ "coursLe": "2026-10-01",
+ "devise": "USD",
+ "capi": "environ 6,7 Md$ (environ 5,9 Md€)",
+ "per26": null,
+ "per27": null,
+ "statut": "surveiller",
+ "these": "Fabrique les équipements qui distribuent l'électricité dans les grands sites industriels et de plus en plus dans les data centers. Commandes du T3 de l'exercice 2026 en hausse de 158 % à 934 M$ (dont une commande data center de plus de 400 M$), carnet record de 2,4 Md$, aucune dette et 634 M$ de trésorerie ; le cours a perdu environ 43 % depuis son record de mai.",
+ "risque": "Valorisation d'environ 35 fois les bénéfices des 12 derniers mois alors que le BPA ne progresse que d'environ 8 % et a manqué le consensus deux trimestres de suite ; dépendance encore forte au pétrole, au gaz et à la pétrochimie ; risque d'exécution sur les très grosses commandes ; risque de change sur le dollar.",
+ "faits": [
+  {
+   "d": "19/08",
+   "t": "Détachement du dividende trimestriel (environ 0,09 $ par action après la division)."
+  },
+  {
+   "d": "14/08",
+   "t": "Cantor Fitzgerald abaisse son objectif de 320 $ à 235 $ (neutre) après la mise à jour sur les capacités de production."
+  },
+  {
+   "d": "03/08",
+   "t": "T3 2026 (au 30/06) : CA 312 M$ (+9 %), bénéfice net 52,2 M$ (+8 %), BPA 1,42 $ ; commandes 934 M$ (+158 %), carnet 2,4 Md$ (+69 %). Titre en baisse d'environ 14 %."
+  },
+  {
+   "d": "02/04",
+   "t": "Division de l'action par trois."
+  }
+ ],
+ "pub": null,
+ "pubLabel": "Résultats du T4 et de l'exercice 2026 (mi-novembre ; 17/11 selon StockAnalysis, date non encore confirmée par la société)",
+ "src": "https://www.globenewswire.com/news-release/2026/08/03/3337870/0/en/Powell-Industries-Announces-Third-Quarter-Fiscal-2026-Results.html",
+ "notes": "Exercice clos le 30 septembre (l'exercice 2026 couvre octobre 2025 à septembre 2026). Montants par action ajustés de la division par trois du 02/04/2026 (BPA 2025 publié 14,86 $, soit environ 4,95 $ après division). PER 2026 non confirmé par deux sources (environ 35 sur les 12 derniers mois selon StockAnalysis, PER prévisionnel d'environ 29). Clôture du 30/09/2026 à 184,47 $ (flux de cours Yahoo). Thème IA (infrastructure électrique).",
+ "yahoo": "POWL",
+ "compte": "CTO",
+ "histo": [
+  [
+   "19/09",
+   99.1
+  ],
+  [
+   "22/09",
+   100.97
+  ],
+  [
+   "23/09",
+   97.41
+  ],
+  [
+   "24/09",
+   97.88
+  ],
+  [
+   "25/09",
+   94.58
+  ],
+  [
+   "26/09",
+   96.99
+  ],
+  [
+   "29/09",
+   101.01
+  ],
+  [
+   "30/09",
+   101.6
+  ],
+  [
+   "01/10",
+   105.74
+  ],
+  [
+   "02/10",
+   102.51
+  ],
+  [
+   "03/10",
+   101.35
+  ],
+  [
+   "06/10",
+   103.9
+  ],
+  [
+   "07/10",
+   104.42
+  ],
+  [
+   "08/10",
+   105.13
+  ],
+  [
+   "09/10",
+   103.18
+  ],
+  [
+   "10/10",
+   100.35
+  ],
+  [
+   "13/10",
+   105.33
+  ],
+  [
+   "14/10",
+   105.73
+  ],
+  [
+   "15/10",
+   109.92
+  ],
+  [
+   "16/10",
+   112.77
+  ],
+  [
+   "17/10",
+   110.24
+  ],
+  [
+   "20/10",
+   116.4
+  ],
+  [
+   "21/10",
+   116.11
+  ],
+  [
+   "22/10",
+   110.96
+  ],
+  [
+   "23/10",
+   113.88
+  ],
+  [
+   "24/10",
+   121.66
+  ],
+  [
+   "27/10",
+   124.71
+  ],
+  [
+   "28/10",
+   128.09
+  ],
+  [
+   "29/10",
+   136.12
+  ],
+  [
+   "30/10",
+   125.9
+  ],
+  [
+   "31/10",
+   127.8
+  ],
+  [
+   "03/11",
+   130.23
+  ],
+  [
+   "04/11",
+   126.71
+  ],
+  [
+   "05/11",
+   131.92
+  ],
+  [
+   "06/11",
+   125.0
+  ],
+  [
+   "07/11",
+   121.79
+  ],
+  [
+   "10/11",
+   124.62
+  ],
+  [
+   "11/11",
+   121.07
+  ],
+  [
+   "12/11",
+   118.74
+  ],
+  [
+   "13/11",
+   109.4
+  ],
+  [
+   "14/11",
+   109.89
+  ],
+  [
+   "17/11",
+   105.94
+  ],
+  [
+   "18/11",
+   107.22
+  ],
+  [
+   "19/11",
+   95.1
+  ],
+  [
+   "20/11",
+   98.12
+  ],
+  [
+   "21/11",
+   94.02
+  ],
+  [
+   "24/11",
+   100.03
+  ],
+  [
+   "25/11",
+   104.18
+  ],
+  [
+   "26/11",
+   107.26
+  ],
+  [
+   "28/11",
+   107.74
+  ],
+  [
+   "01/12",
+   106.53
+  ],
+  [
+   "02/12",
+   107.5
+  ],
+  [
+   "03/12",
+   107.83
+  ],
+  [
+   "04/12",
+   112.31
+  ],
+  [
+   "05/12",
+   114.04
+  ],
+  [
+   "08/12",
+   114.29
+  ],
+  [
+   "09/12",
+   115.02
+  ],
+  [
+   "10/12",
+   119.95
+  ],
+  [
+   "11/12",
+   120.91
+  ],
+  [
+   "12/12",
+   112.36
+  ],
+  [
+   "15/12",
+   109.31
+  ],
+  [
+   "16/12",
+   110.88
+  ],
+  [
+   "17/12",
+   105.77
+  ],
+  [
+   "18/12",
+   109.59
+  ],
+  [
+   "19/12",
+   110.97
+  ],
+  [
+   "22/12",
+   112.18
+  ],
+  [
+   "23/12",
+   112.88
+  ],
+  [
+   "24/12",
+   112.06
+  ],
+  [
+   "26/12",
+   113.62
+  ],
+  [
+   "29/12",
+   111.96
+  ],
+  [
+   "30/12",
+   109.16
+  ],
+  [
+   "31/12",
+   106.26
+  ],
+  [
+   "02/01",
+   117.51
+  ],
+  [
+   "05/01",
+   120.46
+  ],
+  [
+   "06/01",
+   120.0
+  ],
+  [
+   "07/01",
+   118.62
+  ],
+  [
+   "08/01",
+   119.94
+  ],
+  [
+   "09/01",
+   121.83
+  ],
+  [
+   "12/01",
+   128.85
+  ],
+  [
+   "13/01",
+   133.04
+  ],
+  [
+   "14/01",
+   133.76
+  ],
+  [
+   "15/01",
+   135.18
+  ],
+  [
+   "16/01",
+   139.99
+  ],
+  [
+   "20/01",
+   142.76
+  ],
+  [
+   "21/01",
+   140.62
+  ],
+  [
+   "22/01",
+   142.29
+  ],
+  [
+   "23/01",
+   139.32
+  ],
+  [
+   "26/01",
+   141.15
+  ],
+  [
+   "27/01",
+   147.43
+  ],
+  [
+   "28/01",
+   147.81
+  ],
+  [
+   "29/01",
+   152.31
+  ],
+  [
+   "30/01",
+   147.86
+  ],
+  [
+   "02/02",
+   146.79
+  ],
+  [
+   "03/02",
+   151.08
+  ],
+  [
+   "04/02",
+   175.77
+  ],
+  [
+   "05/02",
+   179.6
+  ],
+  [
+   "06/02",
+   194.74
+  ],
+  [
+   "09/02",
+   187.3
+  ],
+  [
+   "10/02",
+   190.09
+  ],
+  [
+   "11/02",
+   197.45
+  ],
+  [
+   "12/02",
+   197.63
+  ],
+  [
+   "13/02",
+   195.02
+  ],
+  [
+   "17/02",
+   187.21
+  ],
+  [
+   "18/02",
+   180.99
+  ],
+  [
+   "19/02",
+   178.79
+  ],
+  [
+   "20/02",
+   182.27
+  ],
+  [
+   "23/02",
+   181.38
+  ],
+  [
+   "24/02",
+   186.39
+  ],
+  [
+   "25/02",
+   183.0
+  ],
+  [
+   "26/02",
+   176.96
+  ],
+  [
+   "27/02",
+   174.53
+  ],
+  [
+   "02/03",
+   177.5
+  ],
+  [
+   "03/03",
+   170.37
+  ],
+  [
+   "04/03",
+   170.96
+  ],
+  [
+   "05/03",
+   167.67
+  ],
+  [
+   "06/03",
+   161.22
+  ],
+  [
+   "09/03",
+   173.36
+  ],
+  [
+   "10/03",
+   176.51
+  ],
+  [
+   "11/03",
+   171.73
+  ],
+  [
+   "12/03",
+   171.19
+  ],
+  [
+   "13/03",
+   167.57
+  ],
+  [
+   "16/03",
+   170.61
+  ],
+  [
+   "17/03",
+   174.04
+  ],
+  [
+   "18/03",
+   167.41
+  ],
+  [
+   "19/03",
+   175.13
+  ],
+  [
+   "20/03",
+   172.0
+  ],
+  [
+   "23/03",
+   180.86
+  ],
+  [
+   "24/03",
+   186.82
+  ],
+  [
+   "25/03",
+   194.85
+  ],
+  [
+   "26/03",
+   174.8
+  ],
+  [
+   "27/03",
+   179.35
+  ],
+  [
+   "30/03",
+   167.52
+  ],
+  [
+   "31/03",
+   180.36
+  ],
+  [
+   "01/04",
+   184.68
+  ],
+  [
+   "02/04",
+   182.6
+  ],
+  [
+   "06/04",
+   186.72
+  ],
+  [
+   "07/04",
+   201.7
+  ],
+  [
+   "08/04",
+   218.07
+  ],
+  [
+   "09/04",
+   230.81
+  ],
+  [
+   "10/04",
+   230.94
+  ],
+  [
+   "13/04",
+   228.99
+  ],
+  [
+   "14/04",
+   234.42
+  ],
+  [
+   "15/04",
+   229.73
+  ],
+  [
+   "16/04",
+   232.81
+  ],
+  [
+   "17/04",
+   241.01
+  ],
+  [
+   "20/04",
+   241.65
+  ],
+  [
+   "21/04",
+   240.97
+  ],
+  [
+   "22/04",
+   242.77
+  ],
+  [
+   "23/04",
+   252.18
+  ],
+  [
+   "24/04",
+   252.76
+  ],
+  [
+   "27/04",
+   260.52
+  ],
+  [
+   "28/04",
+   255.56
+  ],
+  [
+   "29/04",
+   253.49
+  ],
+  [
+   "30/04",
+   277.27
+  ],
+  [
+   "01/05",
+   275.33
+  ],
+  [
+   "04/05",
+   269.95
+  ],
+  [
+   "05/05",
+   294.69
+  ],
+  [
+   "06/05",
+   320.3
+  ],
+  [
+   "07/05",
+   305.93
+  ],
+  [
+   "08/05",
+   309.39
+  ],
+  [
+   "11/05",
+   322.05
+  ],
+  [
+   "12/05",
+   308.05
+  ],
+  [
+   "13/05",
+   300.84
+  ],
+  [
+   "14/05",
+   296.98
+  ],
+  [
+   "15/05",
+   292.65
+  ],
+  [
+   "18/05",
+   266.8
+  ],
+  [
+   "19/05",
+   261.58
+  ],
+  [
+   "20/05",
+   271.05
+  ],
+  [
+   "21/05",
+   270.75
+  ],
+  [
+   "22/05",
+   279.22
+  ],
+  [
+   "26/05",
+   291.97
+  ],
+  [
+   "27/05",
+   295.94
+  ],
+  [
+   "28/05",
+   288.9
+  ],
+  [
+   "29/05",
+   284.42
+  ],
+  [
+   "01/06",
+   288.12
+  ],
+  [
+   "02/06",
+   299.07
+  ],
+  [
+   "03/06",
+   299.73
+  ],
+  [
+   "04/06",
+   300.06
+  ],
+  [
+   "05/06",
+   284.87
+  ],
+  [
+   "08/06",
+   293.6
+  ],
+  [
+   "09/06",
+   283.51
+  ],
+  [
+   "10/06",
+   262.34
+  ],
+  [
+   "11/06",
+   290.5
+  ],
+  [
+   "12/06",
+   294.75
+  ],
+  [
+   "15/06",
+   303.53
+  ],
+  [
+   "16/06",
+   292.7
+  ],
+  [
+   "17/06",
+   294.03
+  ],
+  [
+   "18/06",
+   297.2
+  ],
+  [
+   "22/06",
+   307.8
+  ],
+  [
+   "23/06",
+   291.5
+  ],
+  [
+   "24/06",
+   294.49
+  ],
+  [
+   "25/06",
+   309.2
+  ],
+  [
+   "26/06",
+   279.77
+  ],
+  [
+   "29/06",
+   281.09
+  ],
+  [
+   "30/06",
+   286.36
+  ],
+  [
+   "01/07",
+   264.86
+  ],
+  [
+   "02/07",
+   246.33
+  ],
+  [
+   "06/07",
+   248.05
+  ],
+  [
+   "07/07",
+   234.05
+  ],
+  [
+   "08/07",
+   231.85
+  ],
+  [
+   "09/07",
+   236.58
+  ],
+  [
+   "10/07",
+   232.19
+  ],
+  [
+   "13/07",
+   225.66
+  ],
+  [
+   "14/07",
+   234.25
+  ],
+  [
+   "15/07",
+   247.01
+  ],
+  [
+   "16/07",
+   235.79
+  ],
+  [
+   "17/07",
+   232.79
+  ],
+  [
+   "20/07",
+   228.28
+  ],
+  [
+   "21/07",
+   244.39
+  ],
+  [
+   "22/07",
+   240.68
+  ],
+  [
+   "23/07",
+   242.47
+  ],
+  [
+   "24/07",
+   232.21
+  ],
+  [
+   "27/07",
+   219.23
+  ],
+  [
+   "28/07",
+   201.0
+  ],
+  [
+   "29/07",
+   186.39
+  ],
+  [
+   "30/07",
+   209.3
+  ],
+  [
+   "31/07",
+   208.68
+  ],
+  [
+   "03/08",
+   219.72
+  ],
+  [
+   "04/08",
+   211.38
+  ],
+  [
+   "05/08",
+   208.33
+  ],
+  [
+   "06/08",
+   207.36
+  ],
+  [
+   "07/08",
+   211.56
+  ],
+  [
+   "10/08",
+   207.22
+  ],
+  [
+   "11/08",
+   208.38
+  ],
+  [
+   "12/08",
+   207.98
+  ],
+  [
+   "13/08",
+   204.04
+  ],
+  [
+   "14/08",
+   213.48
+  ],
+  [
+   "17/08",
+   218.73
+  ],
+  [
+   "18/08",
+   203.55
+  ],
+  [
+   "19/08",
+   198.21
+  ],
+  [
+   "20/08",
+   197.4
+  ],
+  [
+   "21/08",
+   197.67
+  ],
+  [
+   "24/08",
+   188.98
+  ],
+  [
+   "25/08",
+   190.19
+  ],
+  [
+   "26/08",
+   191.75
+  ],
+  [
+   "27/08",
+   192.55
+  ],
+  [
+   "28/08",
+   182.71
+  ],
+  [
+   "31/08",
+   179.73
+  ],
+  [
+   "01/09",
+   172.14
+  ],
+  [
+   "02/09",
+   170.51
+  ],
+  [
+   "03/09",
+   175.16
+  ],
+  [
+   "04/09",
+   181.17
+  ],
+  [
+   "08/09",
+   182.49
+  ],
+  [
+   "09/09",
+   180.26
+  ],
+  [
+   "10/09",
+   176.89
+  ],
+  [
+   "11/09",
+   182.5
+  ],
+  [
+   "14/09",
+   170.7
+  ],
+  [
+   "15/09",
+   171.37
+  ],
+  [
+   "16/09",
+   177.71
+  ],
+  [
+   "17/09",
+   176.75
+  ],
+  [
+   "18/09",
+   183.96
+  ],
+  [
+   "21/09",
+   187.56
+  ],
+  [
+   "22/09",
+   191.9
+  ],
+  [
+   "23/09",
+   192.62
+  ],
+  [
+   "24/09",
+   191.62
+  ],
+  [
+   "25/09",
+   189.53
+  ],
+  [
+   "28/09",
+   187.23
+  ],
+  [
+   "29/09",
+   188.46
+  ],
+  [
+   "30/09",
+   184.47
+  ],
+  [
+   "01/10",
+   190.43
+  ]
+ ],
+ "perf": {
+  "m1": 10.6,
+  "m3": -22.7,
+  "m12": 80.1
+ },
+ "analyse": {
+  "majLe": "2026-10-01",
+  "verdict": "Powell vit un changement d'échelle : le carnet de commandes a presque doublé en un an pour atteindre 2,4 Md$, tiré par les data centers et les réseaux électriques, avec un bilan sans dette et 634 M$ de trésorerie. Mais le bénéfice ne suit pas encore (BPA +8 % au T3, deux trimestres sous les attentes), et l'action reste chère à environ 35 fois les bénéfices des 12 derniers mois malgré sa chute de 43 % depuis mai. Le dossier dépend presque entièrement de la capacité à livrer ce carnet avec de bonnes marges en 2027 et 2028. À suivre de près, avec une marge de sécurité encore faible.",
+  "conviction": "moyenne",
+  "revisions": "Mouvement plutôt à la baisse sur les objectifs : Cantor Fitzgerald est passé de 320 $ à 235 $ le 14/08/2026. Objectif moyen de 280 $ pour 4 analystes selon StockAnalysis (une seule source). Le BPA du T3 (1,42 $) a manqué le consensus de 1,49 $, deuxième déception d'affilée.",
+  "fonda": {
+   "score": 7,
+   "justif": "Croissance des commandes exceptionnelle, bilan sans dette et rentabilité fortement améliorée depuis 2023 ; mais bénéfices qui progressent lentement, cycle historique lié au pétrole et valorisation qui suppose une forte accélération.",
+   "qualite": "Rentabilité des fonds propres calculée d'environ 28 % sur l'exercice 2025 (180,7 M$ de bénéfice pour 640,8 M$ de fonds propres). Marge opérationnelle calculée : 8,9 % (2023), 17,7 % (2024), 19,7 % (2025). Marge brute de 30,6 % au T3 2026, contre 21,1 % sur l'exercice 2023. Au sens de Buffett, l'avantage est réel mais étroit : savoir-faire d'ingénierie sur mesure et références dans des secteurs exigeants (pétrole, gaz, réseaux) ; au sens de Fisher, la direction a réussi le virage vers les réseaux électriques et les data centers.",
+   "croissance": "CA : 699,3 M$ (2023), 1 012,4 M$ (2024), 1 104,3 M$ (2025), puis 859,5 M$ sur 9 mois de l'exercice 2026 (+6,6 %). Bénéfice net : 54,5 M$, 149,8 M$, 180,7 M$, puis 139,4 M$ sur 9 mois (+7,8 %). Commandes de 934 M$ au seul T3 2026 contre 1,2 Md$ sur tout l'exercice 2025 : la croissance future est dans le carnet, pas encore dans les comptes. Au sens de Lynch, une valeur de croissance rapide en devenir, mais avec un passé cyclique.",
+   "bilan": "Excellent au sens de Graham : 634 M$ de trésorerie et placements au 30/06/2026, aucune dette mentionnée, fonds de roulement de 606,5 M$. La société peut financer sa nouvelle usine sans emprunter.",
+   "valo": "PER d'environ 35 sur les 12 derniers mois (BPA de 5,22 $) et PER prévisionnel d'environ 29 selon StockAnalysis ; Investing.com citait environ 40 avant la baisse d'août. Valeur d'entreprise calculée d'environ 6,1 Md$, soit environ 28 fois le résultat opérationnel de l'exercice 2025. C'est cher pour une croissance actuelle du BPA d'environ 8 %, et seulement justifié si le carnet fait fortement monter les bénéfices en 2027.",
+   "peg": null,
+   "piotroski": null,
+   "greenblatt": "Rendement bénéficiaire (résultat opérationnel 2025 de 217,9 M$ / valeur d'entreprise d'environ 6,1 Md$) d'environ 3,6 % : profil défavorable sur la formule magique malgré un rendement du capital élevé. Piotroski non calculé (bilan complet non vérifié)."
+  },
+  "tech": {
+   "cours": 190.43,
+   "coursLe": "2026-10-01",
+   "mm50": 194.91,
+   "mm200": 207.22,
+   "rsi14": 51.7,
+   "haut52": 322.05,
+   "bas52": 94.02,
+   "support": 170.5,
+   "resistance": 195.0,
+   "tendance": "baissiere",
+   "stade": 4,
+   "lecture": "Cours de 190,43 en dessous de sa moyenne 50 jours (194,91) et en dessous de sa moyenne 200 jours (207,22). RSI 51,7 : élan neutre. Il se situe à 42 % de sa fourchette sur un an (de 94,02 à 322,05), performance sur 12 mois de 80,1 %. Clôture du 01/10/2026.",
+   "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json"
+  },
+  "actu": [
+   {
+    "d": "03/08",
+    "fait": "T3 2026 : CA de 312 M$ (+9 %), BPA de 1,42 $ (+8 %, sous le consensus de 1,49 $) ; commandes record de 934 M$ (+158 %), dont une commande data center de plus de 400 M$, une commande GNL d'environ 60 M$ et une commande pétrochimie et engrais d'environ 75 M$.",
+    "impact": "positif",
+    "horizon": "long",
+    "lecture": "La demande est exceptionnelle et se diversifie vers les data centers ; le marché a pourtant sanctionné le titre (environ -14 %) car le bénéfice ne suit pas encore."
+   },
+   {
+    "d": "14/08",
+    "fait": "Cantor Fitzgerald ramène son objectif de 320 $ à 235 $ ; la direction indique que les capacités déjà louées suffisent pour exécuter le carnet actuel, la future usine servant à la croissance au-delà.",
+    "impact": "neutre",
+    "horizon": "moyen",
+    "lecture": "Réduit le risque d'exécution, mais confirme que la hausse du chiffre d'affaires sera progressive et non explosive."
+   },
+   {
+    "d": "mai à septembre",
+    "fait": "Le cours est passé de 322 $ en mai à environ 170 $ mi-septembre, puis 184 $ fin septembre.",
+    "impact": "negatif",
+    "horizon": "court",
+    "lecture": "Une partie de la prime liée à l'IA et aux data centers s'est dégonflée ; la valorisation reste pourtant élevée."
+   },
+   {
+    "d": "02/04",
+    "fait": "Division de l'action par trois.",
+    "impact": "neutre",
+    "horizon": "court",
+    "lecture": "Sans effet sur la valeur, mais tous les montants par action anciens doivent être divisés par trois."
+   }
+  ],
+  "scenarios": [
+   {
+    "horizon": "12 mois",
+    "unite": "USD",
+    "bas": 125,
+    "central": 210,
+    "haut": 280,
+    "hypotheses": "Objectif moyen de 280 $ pour 4 analystes (StockAnalysis), Cantor à 235 $. Central : BPA de l'exercice 2027 vers 6,5 à 7 $ grâce au carnet, valorisé environ 30 fois. Bas : nouvelles déceptions trimestrielles et PER vers 22 sur un BPA d'environ 5,7 $. Haut : accélération nette du chiffre d'affaires et de la marge, retour vers l'objectif moyen."
+   },
+   {
+    "horizon": "5 ans",
+    "unite": "%/an",
+    "bas": -6,
+    "central": 9,
+    "haut": 18,
+    "hypotheses": "Central : BPA +15 %/an porté par le carnet et l'électrification, dividende 0,2 %, mais baisse du PER vers 22 (environ -6 %/an) = environ 9 %/an. Bas : retournement du cycle pétrole et data centers, BPA +3 %/an et PER vers 15. Haut : Powell devient un fournisseur clé des data centers, BPA +22 %/an et PER vers 28."
+   }
+  ],
+  "zones": {
+   "interet": "140 à 160 USD : PER d'environ 27 à 30 sur les 12 derniers mois et d'environ 21 à 23 sur un BPA 2027 de 6,5 à 7 $, en dessous du plus bas de septembre (170,5 $), pour une meilleure marge de sécurité.",
+   "invalidation": "Commandes qui retombent sous 300 M$ par trimestre pendant deux trimestres, marge brute sous 26 %, ou clôture durable sous 150 $.",
+   "sortie": [
+    "Marge brute trimestrielle sous 26 % deux trimestres de suite",
+    "Annulation ou report d'une des grosses commandes data center",
+    "PER au-dessus de 45 sans accélération du BPA"
+   ],
+   "catalyseurs": [
+    "Mi-novembre 2026 (17/11 selon StockAnalysis, non confirmé) : résultats du T4 et de l'exercice 2026",
+    "Nouvelles grosses commandes de data centers ou de GNL",
+    "Avancement de la nouvelle usine de 275 000 à 300 000 pieds carrés"
+   ]
+  },
+  "cadres": [
+   "Buffett (qualité, avantage concurrentiel)",
+   "Fisher (direction, innovation)",
+   "Lynch (croissance rapide, cyclique)",
+   "Graham (solidité du bilan)",
+   "Greenblatt (formule magique)",
+   "Théorie de Dow",
+   "Minervini (trend template)",
+   "Weinstein (stades)"
+  ],
+  "sources": [
+   "https://www.globenewswire.com/news-release/2026/08/03/3337870/0/en/Powell-Industries-Announces-Third-Quarter-Fiscal-2026-Results.html",
+   "https://www.sec.gov/Archives/edgar/data/80420/000008042025000145/ex991-powlq4xfy2025earning.htm",
+   "https://www.barchart.com/story/news/29669617/powell-industries-reports-strong-fourth-quarter-and-fiscal-2024-results-with-significant-revenue-and-net-income-growth",
+   "https://www.investing.com/news/analyst-ratings/cantor-fitzgerald-cuts-powell-industries-stock-price-target-on-capacity-outlook-93CH-4861203",
+   "https://tickerspark.ai/market/powell-industries-inc-powl-falls-14-after-q3-miss-1785794846941",
+   "https://stockanalysis.com/stocks/powl/",
+   "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json"
+  ],
+  "aVerifier": "PER 2026 et 2027 (une seule source). Date de publication du T4 (17/11 selon StockAnalysis). Consensus du T3 (1,49 $, une seule source). Objectif moyen des analystes (280 $, une seule source). Absence totale de dette (aucune dette mentionnée dans les communiqués lus, mais bilan complet non vérifié). Piotroski non calculé."
+ },
+ "societe": {
+  "resume": "Powell Industries conçoit et fabrique sur mesure les grosses armoires électriques, tableaux de distribution et postes électriques préfabriqués qui reçoivent le courant à haute tension et le répartissent dans un site. Concrètement, une raffinerie, un terminal de gaz naturel liquéfié, un poste d'une compagnie d'électricité ou un grand data center ont besoin de ces équipements pour alimenter leurs machines en toute sécurité. Chaque projet est unique et peut représenter des dizaines, voire des centaines de millions de dollars.",
+  "fondee": 1947,
+  "siege": "Houston (Texas), États-Unis",
+  "effectifs": null,
+  "site": "https://www.powellind.com",
+  "histoire": [
+   {
+    "annee": 1947,
+    "fait": "Création à Houston par William E. Powell."
+   },
+   {
+    "annee": 2023,
+    "fait": "Exercice 2023 : CA de 699,3 M$ et bénéfice net de 54,5 M$, début du redressement des marges."
+   },
+   {
+    "annee": 2024,
+    "fait": "CA en hausse de 45 % à 1 012,4 M$ et bénéfice net multiplié par 2,75 à 149,8 M$."
+   },
+   {
+    "annee": 2025,
+    "fait": "CA de 1 104,3 M$, bénéfice net de 180,7 M$ ; rachat du britannique Remsdaq (équipements de télécontrôle des réseaux)."
+   },
+   {
+    "annee": 2026,
+    "fait": "Division de l'action par trois en avril ; commandes record de 934 M$ au T3, dont plus de 400 M$ pour un data center."
+   }
+  ],
+  "modele": "Powell travaille à la commande : il conçoit, fabrique et teste des équipements électriques sur mesure pour de grands projets, puis les livre et assure parfois l'installation et la maintenance. Le chiffre d'affaires est reconnu au fil de l'avancement des projets, ce qui crée un décalage entre la prise de commande et le bénéfice. Les revenus ne sont pas récurrents, mais le carnet (2,4 Md$, soit environ deux ans de chiffre d'affaires) donne une bonne visibilité.",
+  "segments": [
+   {
+    "nom": "Commercial et autres industries (dont data centers)",
+    "part": null,
+    "detail": "Croissance de 54 % au T3 2026 ; inclut les data centers, en forte hausse dans les commandes."
+   },
+   {
+    "nom": "Pétrole, gaz et pétrochimie",
+    "part": null,
+    "detail": "Marché historique (raffineries, GNL, chimie) ; pétrochimie en baisse de 49 % au T3 2026."
+   },
+   {
+    "nom": "Compagnies d'électricité",
+    "part": null,
+    "detail": "Postes et équipements pour les réseaux, +18 % au T3 2026 et +50 % sur l'exercice 2025."
+   },
+   {
+    "nom": "Traction (transports ferroviaires)",
+    "part": null,
+    "detail": "Alimentation électrique des tramways et métros, +87 % sur l'exercice 2025."
+   }
+  ],
+  "geo": [
+   {
+    "zone": "États-Unis (très majoritaire)",
+    "part": null
+   },
+   {
+    "zone": "Canada, Royaume-Uni et autres pays",
+    "part": null
+   }
+  ],
+  "clients": "Groupes pétroliers et gaziers, chimistes, compagnies d'électricité, opérateurs et constructeurs de data centers, sociétés d'ingénierie qui pilotent les grands chantiers, réseaux de transport urbain. Le poids des plus gros clients n'est pas vérifié, mais les très grosses commandes rendent le chiffre d'affaires plus concentré.",
+  "concurrents": [
+   "Schneider Electric",
+   "Eaton",
+   "ABB",
+   "Siemens",
+   "Vertiv (data centers)"
+  ],
+  "avantage": "Un savoir-faire rare sur les équipements électriques sur mesure pour des environnements exigeants (sites explosifs, très haute puissance), et des références de longue date dans le pétrole et le gaz. Ce qui pourrait l'éroder : les grands groupes mondiaux (Schneider, Eaton, ABB, Siemens) qui ajoutent des capacités, un retournement des investissements dans le pétrole et les data centers, ou des dépassements de coûts sur des commandes géantes à prix fixe.",
+  "dirigeants": [
+   {
+    "nom": "Brett A. Cope",
+    "role": "Président du conseil et directeur général (CEO)",
+    "depuis": null
+   },
+   {
+    "nom": "Michael Metcalf",
+    "role": "Directeur financier",
+    "depuis": null
+   }
+  ],
+  "actionnariat": "Actionnariat principalement institutionnel, environ 36,4 millions d'actions après la division par trois (StockAnalysis). Détail des principaux actionnaires non vérifié.",
+  "devise": "USD",
+  "chiffres": [
+   {
+    "annee": "2023",
+    "ca": 699.3,
+    "rn": 54.5,
+    "margeOp": 8.9,
+    "detteNette": -279.0,
+    "dividende": null
+   },
+   {
+    "annee": "2024",
+    "ca": 1012.4,
+    "rn": 149.8,
+    "margeOp": 17.7,
+    "detteNette": -358.4,
+    "dividende": 0.35
+   },
+   {
+    "annee": "2025",
+    "ca": 1104.3,
+    "rn": 180.7,
+    "margeOp": 19.7,
+    "detteNette": -475.5,
+    "dividende": 0.35
+   },
+   {
+    "annee": "2026e",
+    "ca": null,
+    "rn": null,
+    "margeOp": null,
+    "detteNette": null,
+    "dividende": 0.36
+   }
+  ],
+  "croire": [
+   "Que le carnet de commandes record (2,4 Md$) se transforme en chiffre d'affaires et en bénéfices en hausse nette dans les 12 à 24 prochains mois, sans dérapage de coûts sur les très grosses commandes.",
+   "Que les data centers et les réseaux électriques deviennent un moteur durable, qui réduit la dépendance historique au pétrole, au gaz et à la pétrochimie.",
+   "Que la marge brute reste autour de 30 % malgré la montée en cadence et l'ouverture de nouvelles capacités de production."
+  ],
+  "questions": [
+   "À quel rythme la commande data center de plus de 400 M$ sera-t-elle livrée et facturée, et avec quelle marge ?",
+   "Pourquoi le bénéfice par action ne progresse-t-il que d'environ 8 % alors que les commandes explosent : manque de capacité, prix fixés trop tôt ou simple décalage ?",
+   "La nouvelle usine de 275 000 à 300 000 pieds carrés sera-t-elle financée sans dette et sans écraser le flux de trésorerie ?"
+  ],
+  "suivi": {
+   "le": "2026-10-01",
+   "bilan": "La demande et la diversification vers les data centers sont largement confirmées ; ce qui reste à prouver, c'est la transformation du carnet en bénéfices.",
+   "croire": [
+    {
+     "c": "Que le carnet de commandes record (2,4 Md$) se transforme en chiffre d'affaires et en bénéfices en hausse nette dans les 12 à 24 prochains mois, sans dérapage de coûts sur les très grosses commandes.",
+     "etat": "watch",
+     "reponse": "Pas encore : le carnet bondit mais le CA ne progresse que de 9 % et le BPA de 8 % au T3, sous les attentes pour la deuxième fois.",
+     "preuve": "T3 2026 : CA 312 M$, BPA 1,42 $ contre 1,49 $ attendu ; carnet 2,4 Md$ (+69 %).",
+     "source": "https://www.globenewswire.com/news-release/2026/08/03/3337870/0/en/Powell-Industries-Announces-Third-Quarter-Fiscal-2026-Results.html",
+     "prochain": "Résultats de l'exercice 2026 (mi-novembre)"
+    },
+    {
+     "c": "Que les data centers et les réseaux électriques deviennent un moteur durable, qui réduit la dépendance historique au pétrole, au gaz et à la pétrochimie.",
+     "etat": "ok",
+     "reponse": "Oui : la plus grosse commande du trimestre (plus de 400 M$) vient d'un data center, et les ventes aux compagnies d'électricité progressent.",
+     "preuve": "T3 2026 : commercial et autres industries +54 %, électricité +18 %, pétrochimie -49 %.",
+     "source": "https://www.globenewswire.com/news-release/2026/08/03/3337870/0/en/Powell-Industries-Announces-Third-Quarter-Fiscal-2026-Results.html",
+     "prochain": "Résultats de l'exercice 2026"
+    },
+    {
+     "c": "Que la marge brute reste autour de 30 % malgré la montée en cadence et l'ouverture de nouvelles capacités de production.",
+     "etat": "ok",
+     "reponse": "Oui pour l'instant : la marge brute atteint 30,6 % au T3 2026.",
+     "preuve": "Bénéfice brut de 254,7 M$ sur 9 mois pour 859,5 M$ de CA (29,6 %).",
+     "source": "https://www.globenewswire.com/news-release/2026/08/03/3337870/0/en/Powell-Industries-Announces-Third-Quarter-Fiscal-2026-Results.html",
+     "prochain": "Résultats de l'exercice 2026"
+    }
+   ],
+   "questions": [
+    {
+     "q": "À quel rythme la commande data center de plus de 400 M$ sera-t-elle livrée et facturée, et avec quelle marge ?",
+     "etat": "nc",
+     "reponse": "Calendrier de livraison non précisé dans les sources lues.",
+     "preuve": "Commande data center de plus de 400 M$ annoncée au T3 2026.",
+     "source": "https://www.globenewswire.com/news-release/2026/08/03/3337870/0/en/Powell-Industries-Announces-Third-Quarter-Fiscal-2026-Results.html",
+     "prochain": "Conférence des résultats de l'exercice 2026"
+    },
+    {
+     "q": "Pourquoi le bénéfice par action ne progresse-t-il que d'environ 8 % alors que les commandes explosent : manque de capacité, prix fixés trop tôt ou simple décalage ?",
+     "etat": "watch",
+     "reponse": "La direction indique que les capacités déjà louées suffisent pour le carnet actuel : le décalage tient surtout au rythme normal de réalisation des projets.",
+     "preuve": "Note de Cantor Fitzgerald du 14/08/2026 reprenant les propos de la direction.",
+     "source": "https://www.investing.com/news/analyst-ratings/cantor-fitzgerald-cuts-powell-industries-stock-price-target-on-capacity-outlook-93CH-4861203",
+     "prochain": "Résultats de l'exercice 2026"
+    },
+    {
+     "q": "La nouvelle usine de 275 000 à 300 000 pieds carrés sera-t-elle financée sans dette et sans écraser le flux de trésorerie ?",
+     "etat": "nc",
+     "reponse": "Coût et financement de la nouvelle usine non trouvés ; la trésorerie de 634 M$ laisse une large marge.",
+     "preuve": "Trésorerie et placements de 634 M$ au 30/06/2026.",
+     "source": "https://www.globenewswire.com/news-release/2026/08/03/3337870/0/en/Powell-Industries-Announces-Third-Quarter-Fiscal-2026-Results.html",
+     "prochain": "Rapport annuel de l'exercice 2026"
+    }
+   ]
+  },
+  "sources": [
+   "https://www.sec.gov/Archives/edgar/data/80420/000008042025000145/ex991-powlq4xfy2025earning.htm",
+   "https://www.barchart.com/story/news/29669617/powell-industries-reports-strong-fourth-quarter-and-fiscal-2024-results-with-significant-revenue-and-net-income-growth",
+   "https://www.globenewswire.com/news-release/2026/08/03/3337870/0/en/Powell-Industries-Announces-Third-Quarter-Fiscal-2026-Results.html",
+   "https://stockanalysis.com/stocks/powl/",
+   "https://www.investing.com/news/analyst-ratings/cantor-fitzgerald-cuts-powell-industries-stock-price-target-on-capacity-outlook-93CH-4861203"
+  ],
+  "aVerifier": "Effectif (3 143 selon StockAnalysis, une seule source). Dividende par action calculé à partir des dividendes versés (12,7 M$ et 12,9 M$) et ajusté de la division par trois ; 2026e de 0,36 $ selon StockAnalysis seul. Dette nette = trésorerie seule (dette supposée nulle, non vérifiée au bilan). Répartition chiffrée du CA par marché et par zone non trouvée. Dates d'arrivée des dirigeants. Liste des concurrents non sourcée.",
+  "verifieLe": "2026-10-01",
+  "corrections": []
+ }
+}

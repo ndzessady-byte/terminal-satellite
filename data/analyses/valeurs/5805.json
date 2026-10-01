@@ -1,0 +1,1372 @@
+{
+ "ticker": "5805",
+ "nom": "SWCC",
+ "pays": "JP",
+ "secteur": "Câbles électriques et de communication",
+ "cours": 2754.0,
+ "coursLe": "2026-10-01",
+ "devise": "JPY",
+ "capi": "environ 408 Md¥ (environ 2,3 Md€)",
+ "per26": 17.4,
+ "per27": 15.7,
+ "statut": "intacte",
+ "these": "Fabricant japonais de câbles haute tension, de câbles optiques et de composants, porté par le renouvellement du réseau électrique et les data centers. Après un premier trimestre très fort (bénéfice net presque doublé), la prévision annuelle et le dividende ont été relevés ; le titre se paie environ 17 fois les bénéfices de l'exercice en cours, environ 28 % sous son sommet de mai.",
+ "risque": "Prix du cuivre (gonfle le chiffre d'affaires puis peut le dégonfler), retournement des investissements dans les data centers, cours très volatil (de 1 412 à 3 806 ¥ en un an, après division).",
+ "faits": [
+  {
+   "d": "01/10",
+   "t": "Division de l'action par 5 effective : environ 154 millions d'actions émises au lieu de 30,8 millions."
+  },
+  {
+   "d": "31/08",
+   "t": "Annonce de la division par 5 (date d'enregistrement 30/09) ; dividende annuel inchangé, soit 62,2 ¥ par action après division."
+  },
+  {
+   "d": "07/08",
+   "t": "T1 : CA 77,7 Md¥ (+24,9 %), résultat opérationnel 8,7 Md¥ (+80 %), bénéfice net 5,7 Md¥ (+92 %) ; prévision annuelle relevée (bénéfice net 23 Md¥, +22 %) et dividende porté à 311 ¥ avant division."
+  },
+  {
+   "d": "28/05",
+   "t": "Annonce de la cession de la filiale informatique AXIO."
+  }
+ ],
+ "pub": null,
+ "pubLabel": "Résultats du premier semestre (date non publiée, mi-novembre probable : le 12/11 l'an dernier)",
+ "src": "https://www.daiwair.co.jp/td_download.cgi?c=5805&i=3274037",
+ "notes": "Cours et BPA exprimés après la division par 5 du 01/10/2026. BPA prévu par la société : 776,43 ¥ avant division, soit 155,3 ¥ après ; PER calculé de 17,7 au cours de 2 754 ¥, PER consensus 17,4 (exercice clos en mars 2027) et 15,7 (mars 2028) selon MarketScreener. per26 = exercice avril 2026 à mars 2027. Cours, moyennes mobiles et RSI issus du flux de cours (clôture du 01/10/2026).",
+ "yahoo": "5805.T",
+ "compte": "CTO",
+ "histo": [
+  [
+   "04/09",
+   1584.0
+  ],
+  [
+   "05/09",
+   1640.0
+  ],
+  [
+   "08/09",
+   1616.0
+  ],
+  [
+   "09/09",
+   1596.0
+  ],
+  [
+   "10/09",
+   1660.0
+  ],
+  [
+   "11/09",
+   1718.0
+  ],
+  [
+   "12/09",
+   1748.0
+  ],
+  [
+   "16/09",
+   1676.0
+  ],
+  [
+   "17/09",
+   1606.0
+  ],
+  [
+   "18/09",
+   1612.0
+  ],
+  [
+   "19/09",
+   1596.0
+  ],
+  [
+   "22/09",
+   1564.0
+  ],
+  [
+   "24/09",
+   1560.0
+  ],
+  [
+   "25/09",
+   1568.0
+  ],
+  [
+   "26/09",
+   1596.0
+  ],
+  [
+   "29/09",
+   1584.0
+  ],
+  [
+   "30/09",
+   1554.0
+  ],
+  [
+   "01/10",
+   1514.0
+  ],
+  [
+   "02/10",
+   1492.0
+  ],
+  [
+   "03/10",
+   1488.0
+  ],
+  [
+   "06/10",
+   1542.0
+  ],
+  [
+   "07/10",
+   1554.0
+  ],
+  [
+   "08/10",
+   1592.0
+  ],
+  [
+   "09/10",
+   1576.0
+  ],
+  [
+   "10/10",
+   1560.0
+  ],
+  [
+   "14/10",
+   1478.0
+  ],
+  [
+   "15/10",
+   1464.0
+  ],
+  [
+   "16/10",
+   1470.0
+  ],
+  [
+   "17/10",
+   1412.0
+  ],
+  [
+   "20/10",
+   1438.0
+  ],
+  [
+   "21/10",
+   1426.0
+  ],
+  [
+   "22/10",
+   1436.0
+  ],
+  [
+   "23/10",
+   1444.0
+  ],
+  [
+   "24/10",
+   1454.0
+  ],
+  [
+   "27/10",
+   1496.0
+  ],
+  [
+   "28/10",
+   1444.0
+  ],
+  [
+   "29/10",
+   1446.0
+  ],
+  [
+   "30/10",
+   1510.0
+  ],
+  [
+   "31/10",
+   1504.0
+  ],
+  [
+   "04/11",
+   1548.0
+  ],
+  [
+   "05/11",
+   1524.0
+  ],
+  [
+   "06/11",
+   1584.0
+  ],
+  [
+   "07/11",
+   1534.0
+  ],
+  [
+   "10/11",
+   1602.0
+  ],
+  [
+   "11/11",
+   1590.0
+  ],
+  [
+   "12/11",
+   1890.0
+  ],
+  [
+   "13/11",
+   2190.0
+  ],
+  [
+   "14/11",
+   2160.0
+  ],
+  [
+   "17/11",
+   2200.0
+  ],
+  [
+   "18/11",
+   2032.0
+  ],
+  [
+   "19/11",
+   2066.0
+  ],
+  [
+   "20/11",
+   2140.0
+  ],
+  [
+   "21/11",
+   2052.0
+  ],
+  [
+   "25/11",
+   2044.0
+  ],
+  [
+   "26/11",
+   2154.0
+  ],
+  [
+   "27/11",
+   2166.0
+  ],
+  [
+   "28/11",
+   2132.0
+  ],
+  [
+   "01/12",
+   2236.0
+  ],
+  [
+   "02/12",
+   2246.0
+  ],
+  [
+   "03/12",
+   2184.0
+  ],
+  [
+   "04/12",
+   2240.0
+  ],
+  [
+   "05/12",
+   2236.0
+  ],
+  [
+   "08/12",
+   2230.0
+  ],
+  [
+   "09/12",
+   2210.0
+  ],
+  [
+   "10/12",
+   2186.0
+  ],
+  [
+   "11/12",
+   2168.0
+  ],
+  [
+   "12/12",
+   2212.0
+  ],
+  [
+   "15/12",
+   2176.0
+  ],
+  [
+   "16/12",
+   2062.0
+  ],
+  [
+   "17/12",
+   2080.0
+  ],
+  [
+   "18/12",
+   2022.0
+  ],
+  [
+   "19/12",
+   2098.0
+  ],
+  [
+   "22/12",
+   2176.0
+  ],
+  [
+   "23/12",
+   2152.0
+  ],
+  [
+   "24/12",
+   2136.0
+  ],
+  [
+   "25/12",
+   2144.0
+  ],
+  [
+   "26/12",
+   2090.0
+  ],
+  [
+   "29/12",
+   2100.0
+  ],
+  [
+   "30/12",
+   2068.0
+  ],
+  [
+   "05/01",
+   2192.0
+  ],
+  [
+   "06/01",
+   2236.0
+  ],
+  [
+   "07/01",
+   2276.0
+  ],
+  [
+   "08/01",
+   2240.0
+  ],
+  [
+   "09/01",
+   2198.0
+  ],
+  [
+   "13/01",
+   2230.0
+  ],
+  [
+   "14/01",
+   2228.0
+  ],
+  [
+   "15/01",
+   2218.0
+  ],
+  [
+   "16/01",
+   2314.0
+  ],
+  [
+   "19/01",
+   2298.0
+  ],
+  [
+   "20/01",
+   2230.0
+  ],
+  [
+   "21/01",
+   2292.0
+  ],
+  [
+   "22/01",
+   2296.0
+  ],
+  [
+   "23/01",
+   2292.0
+  ],
+  [
+   "26/01",
+   2272.0
+  ],
+  [
+   "27/01",
+   2302.0
+  ],
+  [
+   "28/01",
+   2328.0
+  ],
+  [
+   "29/01",
+   2352.0
+  ],
+  [
+   "30/01",
+   2308.0
+  ],
+  [
+   "02/02",
+   2292.0
+  ],
+  [
+   "03/02",
+   2446.0
+  ],
+  [
+   "04/02",
+   2440.0
+  ],
+  [
+   "05/02",
+   2428.0
+  ],
+  [
+   "06/02",
+   2518.0
+  ],
+  [
+   "09/02",
+   2646.0
+  ],
+  [
+   "10/02",
+   2764.0
+  ],
+  [
+   "12/02",
+   2894.0
+  ],
+  [
+   "13/02",
+   2786.0
+  ],
+  [
+   "16/02",
+   2832.0
+  ],
+  [
+   "17/02",
+   2802.0
+  ],
+  [
+   "18/02",
+   2828.0
+  ],
+  [
+   "19/02",
+   2868.0
+  ],
+  [
+   "20/02",
+   2862.0
+  ],
+  [
+   "24/02",
+   3078.0
+  ],
+  [
+   "25/02",
+   3160.0
+  ],
+  [
+   "26/02",
+   3156.0
+  ],
+  [
+   "27/02",
+   3090.0
+  ],
+  [
+   "02/03",
+   3480.0
+  ],
+  [
+   "03/03",
+   3230.0
+  ],
+  [
+   "04/03",
+   2956.0
+  ],
+  [
+   "05/03",
+   3084.0
+  ],
+  [
+   "06/03",
+   2934.0
+  ],
+  [
+   "09/03",
+   2736.0
+  ],
+  [
+   "10/03",
+   2868.0
+  ],
+  [
+   "11/03",
+   2950.0
+  ],
+  [
+   "12/03",
+   2886.0
+  ],
+  [
+   "13/03",
+   2846.0
+  ],
+  [
+   "16/03",
+   2824.0
+  ],
+  [
+   "17/03",
+   2690.0
+  ],
+  [
+   "18/03",
+   2792.0
+  ],
+  [
+   "19/03",
+   2644.0
+  ],
+  [
+   "23/03",
+   2460.0
+  ],
+  [
+   "24/03",
+   2584.0
+  ],
+  [
+   "25/03",
+   2778.0
+  ],
+  [
+   "26/03",
+   2756.0
+  ],
+  [
+   "27/03",
+   2722.0
+  ],
+  [
+   "30/03",
+   2588.0
+  ],
+  [
+   "31/03",
+   2408.0
+  ],
+  [
+   "01/04",
+   2560.0
+  ],
+  [
+   "02/04",
+   2500.0
+  ],
+  [
+   "03/04",
+   2554.0
+  ],
+  [
+   "06/04",
+   2576.0
+  ],
+  [
+   "07/04",
+   2564.0
+  ],
+  [
+   "08/04",
+   2818.0
+  ],
+  [
+   "09/04",
+   2816.0
+  ],
+  [
+   "10/04",
+   2788.0
+  ],
+  [
+   "13/04",
+   2816.0
+  ],
+  [
+   "14/04",
+   2832.0
+  ],
+  [
+   "15/04",
+   2742.0
+  ],
+  [
+   "16/04",
+   2944.0
+  ],
+  [
+   "17/04",
+   2846.0
+  ],
+  [
+   "20/04",
+   2818.0
+  ],
+  [
+   "21/04",
+   2916.0
+  ],
+  [
+   "22/04",
+   3148.0
+  ],
+  [
+   "23/04",
+   3014.0
+  ],
+  [
+   "24/04",
+   3100.0
+  ],
+  [
+   "27/04",
+   3160.0
+  ],
+  [
+   "28/04",
+   3118.0
+  ],
+  [
+   "30/04",
+   3168.0
+  ],
+  [
+   "01/05",
+   3064.0
+  ],
+  [
+   "07/05",
+   3336.0
+  ],
+  [
+   "08/05",
+   3386.0
+  ],
+  [
+   "11/05",
+   3446.0
+  ],
+  [
+   "12/05",
+   3668.0
+  ],
+  [
+   "13/05",
+   3806.0
+  ],
+  [
+   "14/05",
+   3398.0
+  ],
+  [
+   "15/05",
+   3118.0
+  ],
+  [
+   "18/05",
+   2962.0
+  ],
+  [
+   "19/05",
+   2736.0
+  ],
+  [
+   "20/05",
+   2614.0
+  ],
+  [
+   "21/05",
+   2624.0
+  ],
+  [
+   "22/05",
+   2738.0
+  ],
+  [
+   "25/05",
+   2888.0
+  ],
+  [
+   "26/05",
+   2822.0
+  ],
+  [
+   "27/05",
+   2860.0
+  ],
+  [
+   "28/05",
+   2834.0
+  ],
+  [
+   "29/05",
+   2968.0
+  ],
+  [
+   "01/06",
+   3060.0
+  ],
+  [
+   "02/06",
+   3144.0
+  ],
+  [
+   "03/06",
+   3168.0
+  ],
+  [
+   "04/06",
+   3020.0
+  ],
+  [
+   "05/06",
+   2974.0
+  ],
+  [
+   "08/06",
+   2728.0
+  ],
+  [
+   "09/06",
+   2648.0
+  ],
+  [
+   "10/06",
+   2460.0
+  ],
+  [
+   "11/06",
+   2390.0
+  ],
+  [
+   "12/06",
+   2438.0
+  ],
+  [
+   "15/06",
+   2564.0
+  ],
+  [
+   "16/06",
+   2748.0
+  ],
+  [
+   "17/06",
+   2784.0
+  ],
+  [
+   "18/06",
+   2794.0
+  ],
+  [
+   "19/06",
+   2874.0
+  ],
+  [
+   "22/06",
+   2946.0
+  ],
+  [
+   "23/06",
+   2854.0
+  ],
+  [
+   "24/06",
+   2788.0
+  ],
+  [
+   "25/06",
+   2796.0
+  ],
+  [
+   "26/06",
+   2696.0
+  ],
+  [
+   "29/06",
+   2686.0
+  ],
+  [
+   "30/06",
+   2694.0
+  ],
+  [
+   "01/07",
+   2606.0
+  ],
+  [
+   "02/07",
+   2518.0
+  ],
+  [
+   "03/07",
+   2512.0
+  ],
+  [
+   "06/07",
+   2476.0
+  ],
+  [
+   "07/07",
+   2382.0
+  ],
+  [
+   "08/07",
+   2252.0
+  ],
+  [
+   "09/07",
+   2306.0
+  ],
+  [
+   "10/07",
+   2342.0
+  ],
+  [
+   "13/07",
+   2278.0
+  ],
+  [
+   "14/07",
+   2296.0
+  ],
+  [
+   "15/07",
+   2380.0
+  ],
+  [
+   "16/07",
+   2214.0
+  ],
+  [
+   "17/07",
+   2094.0
+  ],
+  [
+   "21/07",
+   2150.0
+  ],
+  [
+   "22/07",
+   2244.0
+  ],
+  [
+   "23/07",
+   2286.0
+  ],
+  [
+   "24/07",
+   2274.0
+  ],
+  [
+   "27/07",
+   2296.0
+  ],
+  [
+   "28/07",
+   2156.0
+  ],
+  [
+   "29/07",
+   2094.0
+  ],
+  [
+   "30/07",
+   2112.0
+  ],
+  [
+   "31/07",
+   2270.0
+  ],
+  [
+   "03/08",
+   2240.0
+  ],
+  [
+   "04/08",
+   2384.0
+  ],
+  [
+   "05/08",
+   2550.0
+  ],
+  [
+   "06/08",
+   2392.0
+  ],
+  [
+   "07/08",
+   2592.0
+  ],
+  [
+   "10/08",
+   2732.0
+  ],
+  [
+   "12/08",
+   2716.0
+  ],
+  [
+   "13/08",
+   2786.0
+  ],
+  [
+   "14/08",
+   2852.0
+  ],
+  [
+   "17/08",
+   2936.0
+  ],
+  [
+   "18/08",
+   2940.0
+  ],
+  [
+   "19/08",
+   2728.0
+  ],
+  [
+   "20/08",
+   2802.0
+  ],
+  [
+   "21/08",
+   2778.0
+  ],
+  [
+   "24/08",
+   2696.0
+  ],
+  [
+   "25/08",
+   2842.0
+  ],
+  [
+   "26/08",
+   2898.0
+  ],
+  [
+   "27/08",
+   2920.0
+  ],
+  [
+   "28/08",
+   2934.0
+  ],
+  [
+   "31/08",
+   2990.0
+  ],
+  [
+   "01/09",
+   2872.0
+  ],
+  [
+   "02/09",
+   2676.0
+  ],
+  [
+   "03/09",
+   2714.0
+  ],
+  [
+   "04/09",
+   2748.0
+  ],
+  [
+   "07/09",
+   2818.0
+  ],
+  [
+   "08/09",
+   2722.0
+  ],
+  [
+   "09/09",
+   2932.0
+  ],
+  [
+   "10/09",
+   2774.0
+  ],
+  [
+   "11/09",
+   2720.0
+  ],
+  [
+   "14/09",
+   2552.0
+  ],
+  [
+   "15/09",
+   2584.0
+  ],
+  [
+   "16/09",
+   2602.0
+  ],
+  [
+   "17/09",
+   2584.0
+  ],
+  [
+   "18/09",
+   2624.0
+  ],
+  [
+   "24/09",
+   2682.0
+  ],
+  [
+   "25/09",
+   2708.0
+  ],
+  [
+   "28/09",
+   2680.0
+  ],
+  [
+   "29/09",
+   2596.0
+  ],
+  [
+   "30/09",
+   2700.0
+  ],
+  [
+   "01/10",
+   2754.0
+  ]
+ ],
+ "perf": {
+  "m1": -6.1,
+  "m3": 2.5,
+  "m12": 71.5
+ },
+ "analyse": {
+  "majLe": "2026-10-01",
+  "verdict": "SWCC est un câblier japonais qui a fortement amélioré sa rentabilité (ROE de 20,7 % sur l'exercice clos en mars 2026) grâce aux câbles haute tension et aux câbles optiques pour data centers. Le premier trimestre de l'exercice en cours a été très fort et la société vise maintenant un bénéfice net de 23 Md¥ (+22 %). À environ 17 fois les bénéfices attendus, la valorisation est raisonnable pour cette croissance, mais une partie de la hausse vient du prix du cuivre et le titre reste très volatil. Le dossier est cohérent tant que la marge tient autour de 10 %.",
+  "conviction": "moyenne",
+  "revisions": "Consensus en hausse après le T1 : la société a relevé sa propre prévision de bénéfice net de 18,5 à 23 Md¥ le 07/08, et le consensus MarketScreener (5 analystes) est à 23,4 Md¥ pour l'exercice en cours et 26 Md¥ pour le suivant. Objectif moyen 3 568 ¥ après division (environ +30 %). Mizuho est passé à l'achat le 22/06. En mai, la prévision initiale (bénéfice net -1,8 %) était sous les attentes, ce qui avait déclenché la baisse du titre.",
+  "fonda": {
+   "score": 7.5,
+   "justif": "Rentabilité devenue élevée et croissance forte, bilan sain avec une dette modérée, valorisation raisonnable ; la note est freinée par la dépendance au cuivre et le caractère cyclique des chantiers.",
+   "qualite": "ROE de 12,3 % (mars 2024), 14,3 % (mars 2025) et 20,7 % (mars 2026). Marge opérationnelle de 6,0 %, 8,8 % puis 9,8 %, et 10,0 % visés cette année ; 11,1 % au T1. La branche énergie et infrastructures est la plus rentable (marge de 15,5 % en 2025-2026), la branche communication et composants l'est moins (5,0 %) mais croît très vite (+35 %). Avantage concurrentiel : savoir-faire ancien dans les câbles haute tension et les connecteurs (SICONEX), câbles optiques à haute densité (e-Ribbon) ; pouvoir de prix limité car le cuivre est répercuté.",
+   "croissance": "CA : 213,9 Md¥ (mars 2024), 237,9 Md¥ (mars 2025), 277,7 Md¥ (mars 2026), 330 Md¥ prévus (+18,8 %). Bénéfice net : 8,8 puis 11,4 puis 18,8 Md¥, 23 Md¥ prévus. BPA après division : 59,4 ¥, 77,1 ¥, 127,3 ¥ puis 155,3 ¥ prévus. Consensus suivant : bénéfice net 26 Md¥ (environ +11 %). Plan 2030 : résultat opérationnel d'au moins 40 Md¥ (contre 33 Md¥ prévus cette année). Au sens de Lynch : croissance rapide mais en partie cyclique.",
+   "bilan": "Dette financière nette calculée d'environ 28,7 Md¥ fin mars 2026 (emprunts 39,5 Md¥, trésorerie 10,8 Md¥) contre 34,7 Md¥ un an plus tôt, soit environ 0,8 fois le résultat opérationnel prévu. Ratio de fonds propres de 47,6 % (45,9 % fin juin 2026). Dette nette prévue de 24,8 Md¥ selon MarketScreener. Bilan solide au sens de Graham, sans être en trésorerie nette.",
+   "valo": "PER 17,4 (exercice en cours) et 15,7 (suivant), VE/CA 1,29 selon MarketScreener ; PER calculé de 17,7 sur la prévision de la société. Rendement du dividende d'environ 2,3 %. Comparaison avec les pairs (Fujikura, Furukawa Electric, Sumitomo Electric) non vérifiée chiffre par chiffre.",
+   "peg": 1.6,
+   "piotroski": null,
+   "greenblatt": "Rendement bénéficiaire calculé (résultat opérationnel prévu de 33 Md¥ / valeur d'entreprise de 433 Md¥) d'environ 7,6 % et ROIC visé de 13,8 % cette année : profil correct sur la formule magique, sans être exceptionnel."
+  },
+  "tech": {
+   "cours": 2754.0,
+   "coursLe": "2026-10-01",
+   "mm50": 2614.52,
+   "mm200": 2643.01,
+   "rsi14": 53.4,
+   "haut52": 3806.0,
+   "bas52": 1412.0,
+   "support": 2580,
+   "resistance": 2940,
+   "tendance": "neutre",
+   "stade": 1,
+   "lecture": "Cours de 2 754,00 au-dessus de sa moyenne 50 jours (2 614,52) et au-dessus de sa moyenne 200 jours (2 643,01). RSI 53,4 : élan neutre. Il se situe à 56 % de sa fourchette sur un an (de 1 412,00 à 3 806,00), performance sur 12 mois de 71,5 %. Clôture du 01/10/2026.",
+   "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json"
+  },
+  "actu": [
+   {
+    "d": "07/08",
+    "fait": "T1 : CA +24,9 %, résultat opérationnel +80 %, bénéfice net +92 % ; prévision annuelle relevée (résultat opérationnel 33 Md¥ au lieu de 28,5, bénéfice net 23 Md¥ au lieu de 18,5) et dividende relevé de 250 à 311 ¥ avant division.",
+    "impact": "positif",
+    "horizon": "moyen",
+    "lecture": "La société explique la hausse par l'énergie, les communications à l'étranger, les semi-conducteurs, la demande liée à l'IA et le prix du cuivre : le dernier point est moins durable que les autres."
+   },
+   {
+    "d": "31/08",
+    "fait": "Division de l'action par 5 (effective le 01/10/2026) pour améliorer la liquidité et élargir la base d'actionnaires.",
+    "impact": "neutre",
+    "horizon": "court",
+    "lecture": "Ne change pas la valeur de l'entreprise ; rend l'action plus accessible aux particuliers japonais."
+   },
+   {
+    "d": "14/05",
+    "fait": "Exercice clos en mars 2026 : bénéfice net 18,8 Md¥ (+65 %), ROE 20,7 % ; mais prévision initiale d'un bénéfice net en léger recul (-1,8 %), sous les attentes.",
+    "impact": "negatif",
+    "horizon": "court",
+    "lecture": "La prévision prudente a fait chuter le titre depuis son sommet ; elle a été largement relevée trois mois plus tard."
+   },
+   {
+    "d": "27/02",
+    "fait": "Nouveau plan à moyen terme « Transformation for Growth SWCC 2030 » : résultat opérationnel d'au moins 40 Md¥, marge d'au moins 12 %, ROIC d'au moins 15 %, ROE d'au moins 20 %, distribution d'au moins 40 % du bénéfice.",
+    "impact": "positif",
+    "horizon": "long",
+    "lecture": "Donne une feuille de route chiffrée pour juger la direction ; l'enveloppe d'acquisitions de 80 Md¥ sera à surveiller."
+   }
+  ],
+  "scenarios": [
+   {
+    "horizon": "12 mois",
+    "unite": "JPY",
+    "bas": 2000,
+    "central": 3000,
+    "haut": 3600,
+    "hypotheses": "Central : BPA de l'exercice suivant d'environ 175 ¥ (consensus 26 Md¥) valorisé environ 17 fois. Bas : baisse du cuivre et pause des data centers, PER vers 13 sur un BPA stable à 155 ¥. Haut : nouveau relèvement en novembre et retour vers l'objectif moyen des analystes (3 568 ¥)."
+   },
+   {
+    "horizon": "5 ans",
+    "unite": "%/an",
+    "bas": -4,
+    "central": 9,
+    "haut": 16,
+    "hypotheses": "Central : BPA +9 %/an (vers l'objectif 2030), dividende 2,3 %, PER qui baisse un peu (17 vers 15, environ -2,5 %/an) = environ 9 %/an. Bas : cycle qui se retourne, BPA stable et PER vers 11 (environ -6 %/an), dividende 2 % = environ -4 %/an. Haut : objectifs 2030 dépassés grâce à l'international, BPA +13 %/an, PER stable, dividende 2,5 % = environ 16 %/an."
+   }
+  ],
+  "zones": {
+   "interet": "2 400 à 2 600 ¥ : entre le support de mi-septembre et les moyennes 50 et 200 jours ; le PER sur la prévision de la société y serait d'environ 15,5 à 17.",
+   "invalidation": "Prévision annuelle abaissée ou marge opérationnelle trimestrielle sous 8 %, ou clôture durable sous 2 100 ¥ (creux de fin juillet).",
+   "sortie": [
+    "Marge opérationnelle annuelle qui repasse sous 8 %",
+    "Croissance qui ne vient plus que du prix du cuivre, avec des volumes en baisse",
+    "Dette nette qui dépasse environ 1,5 fois le résultat opérationnel après une grosse acquisition"
+   ],
+   "catalyseurs": [
+    "Mi-novembre 2026 (date non confirmée) : résultats du premier semestre",
+    "Février 2027 : résultats sur 9 mois",
+    "Mai 2027 : résultats annuels et prévision de l'exercice suivant"
+   ]
+  },
+  "cadres": [
+   "Buffett (qualité, avantage concurrentiel)",
+   "Fisher (direction, innovation)",
+   "Lynch (croissance rapide mais cyclique, PEG)",
+   "Graham (solidité du bilan)",
+   "Greenblatt (formule magique)",
+   "Théorie de Dow",
+   "Minervini (trend template)",
+   "Weinstein (stades)"
+  ],
+  "sources": [
+   "https://www.daiwair.co.jp/td_download.cgi?c=5805&i=3274037",
+   "https://pdf.irpocket.com/C5805/WUpy/ZFzz/GvVX.pdf",
+   "https://www.zaikei.co.jp/article/20260901/868066.html",
+   "https://uk.marketscreener.com/quote/stock/SWCC-CORPORATION-6492184/",
+   "https://www.nikkei.com/article/DGXZRST0532366U6A510C2000000/",
+   "https://daiwair.webcdn.stream.ne.jp/www11/daiwair/qlviewer/pdf/2603025805x1edV2tC7.pdf",
+   "https://www.swcc.co.jp/jpn/ir/meeting/calendar.html",
+   "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json"
+  ],
+  "aVerifier": "Date des résultats semestriels non publiée (le 12/11 est avancé par un agrégateur, non confirmé par le calendrier SWCC). Dette nette calculée à partir des emprunts à court et long terme du bilan résumé (hors éventuelles dettes de location). PER, objectif de cours et consensus d'une seule source (MarketScreener). Piotroski non calculé. Moyennes mobiles et RSI issus du flux de cours, non recoupés. Capitalisation en euros approximative (taux de change non vérifié)."
+ },
+ "societe": {
+  "resume": "SWCC (anciennement Showa Electric Wire & Cable) fabrique des câbles électriques, notamment haute tension, des accessoires de raccordement, des câbles optiques et des composants pour l'électronique. Concrètement, quand un opérateur électrique japonais remplace une vieille ligne enterrée ou qu'un data center a besoin de milliers de fibres dans un espace réduit, SWCC fournit les câbles et les connecteurs. Elle vend aussi des sondes de test utilisées dans la fabrication des semi-conducteurs.",
+  "fondee": 1936,
+  "siege": "Kawasaki, Japon",
+  "effectifs": 4813,
+  "site": "https://www.swcc.co.jp",
+  "histoire": [
+   {
+    "annee": 1936,
+    "fait": "Création de Showa Electric Wire & Cable, fabricant de fils et câbles électriques."
+   },
+   {
+    "annee": 2023,
+    "fait": "Le groupe prend le nom de SWCC (date du changement de nom non recoupée)."
+   },
+   {
+    "annee": 2026,
+    "fait": "Exercice clos en mars 2026 : bénéfice net record de 18,8 Md¥ et ROE de 20,7 % ; lancement du plan « SWCC 2030 » en février ; cession de la filiale informatique AXIO annoncée en mai ; division de l'action par 5 le 1er octobre."
+   }
+  ],
+  "modele": "SWCC vend des produits fabriqués (câbles, accessoires, composants) et des travaux d'installation, surtout à des opérateurs électriques, des entreprises de BTP, des opérateurs télécoms et des industriels. Le cuivre est en grande partie répercuté dans les prix, ce qui gonfle ou réduit le chiffre d'affaires sans changer beaucoup la marge en valeur. Les revenus suivent les cycles d'investissement, mais le renouvellement du réseau électrique japonais donne de la visibilité sur plusieurs années.",
+  "segments": [
+   {
+    "nom": "Énergie et infrastructures",
+    "part": 47.5,
+    "detail": "Câbles électriques et haute tension, accessoires (SICONEX), travaux ; 131,9 Md¥ de CA et 20,4 Md¥ de résultat opérationnel en 2025-2026."
+   },
+   {
+    "nom": "Communication et composants",
+    "part": 49.8,
+    "detail": "Câbles optiques (e-Ribbon), fils de bobinage, câbles pour l'électronique, sondes pour semi-conducteurs ; 138,4 Md¥ de CA (+35 %) et 6,9 Md¥ de résultat opérationnel."
+   },
+   {
+    "nom": "Autres",
+    "part": 2.7,
+    "detail": "Activités diverses ; 7,4 Md¥ de CA."
+   }
+  ],
+  "geo": [],
+  "clients": "Opérateurs électriques et ferroviaires, entreprises de construction, opérateurs télécoms et de data centers, fabricants d'électronique et de semi-conducteurs, surtout au Japon. L'international doit atteindre environ 20 % du CA en 2030.",
+  "concurrents": [
+   "Sumitomo Electric",
+   "Furukawa Electric",
+   "Fujikura",
+   "Prysmian",
+   "Nexans"
+  ],
+  "avantage": "Expertise ancienne dans les câbles haute tension et leurs accessoires sur un marché japonais concentré entre quelques acteurs, plus des niches techniques (connecteurs SICONEX, câbles optiques à haute densité, sondes de test). Ce qui pourrait l'éroder : la concurrence des grands câbliers sur les data centers, et un retournement du cycle d'investissement.",
+  "dirigeants": [
+   {
+    "nom": "Tetsuo Komata",
+    "role": "Président et représentant de la société (CEO)",
+    "depuis": null
+   }
+  ],
+  "actionnariat": "Capital dispersé, sans actionnaire de contrôle : environ 92 % de flottant selon MarketScreener, investisseurs institutionnels majoritaires.",
+  "devise": "JPY",
+  "chiffres": [
+   {
+    "annee": "2024",
+    "ca": 213904,
+    "rn": 8838,
+    "margeOp": 6.0,
+    "detteNette": 22444,
+    "dividende": 18.0
+   },
+   {
+    "annee": "2025",
+    "ca": 237862,
+    "rn": 11400,
+    "margeOp": 8.8,
+    "detteNette": 34715,
+    "dividende": 27.2
+   },
+   {
+    "annee": "2026",
+    "ca": 277736,
+    "rn": 18840,
+    "margeOp": 9.8,
+    "detteNette": 28720,
+    "dividende": 44.6
+   },
+   {
+    "annee": "2026e",
+    "ca": 330000,
+    "rn": 23000,
+    "margeOp": 10.0,
+    "detteNette": 24750,
+    "dividende": 62.2
+   }
+  ],
+  "croire": [
+   "Que la demande de câbles haute tension (renouvellement du réseau électrique japonais) et de câbles optiques pour data centers reste forte plusieurs années, au-delà de l'effet du prix du cuivre.",
+   "Que la marge opérationnelle se maintient autour de 10 % ou plus, en route vers l'objectif d'au moins 12 % en 2030.",
+   "Que la direction tient sa discipline financière (dette modérée, ratio de distribution d'au moins 40 %) tout en finançant la croissance et les acquisitions."
+  ],
+  "questions": [
+   "Quelle part de la hausse du chiffre d'affaires vient simplement du prix du cuivre répercuté aux clients, et quelle part vient des volumes ?",
+   "Les câbles optiques pour data centers (e-Ribbon) prennent-ils vraiment pied en Amérique du Nord, et à quelle vitesse ?",
+   "Comment seront utilisés les 80 Md¥ prévus pour des acquisitions d'ici 2030, sans dégrader le bilan ?"
+  ],
+  "suivi": {
+   "le": "2026-10-01",
+   "bilan": "Les trois conditions tiennent pour l'instant ; le point le plus fragile est la part du cuivre dans la croissance, que la société ne chiffre pas.",
+   "croire": [
+    {
+     "c": "Que la demande de câbles haute tension (renouvellement du réseau électrique japonais) et de câbles optiques pour data centers reste forte plusieurs années, au-delà de l'effet du prix du cuivre.",
+     "etat": "ok",
+     "reponse": "Oui pour l'instant : la société cite une demande forte dans l'énergie, les communications à l'étranger et les semi-conducteurs, en partie liée à l'IA.",
+     "preuve": "T1 : énergie et infrastructures +22,8 % de CA et +77 % de résultat ; communication et composants +27,2 % et +86 %.",
+     "source": "https://www.daiwair.co.jp/td_download.cgi?c=5805&i=3274037",
+     "prochain": "Résultats du premier semestre (mi-novembre 2026, date non confirmée)"
+    },
+    {
+     "c": "Que la marge opérationnelle se maintient autour de 10 % ou plus, en route vers l'objectif d'au moins 12 % en 2030.",
+     "etat": "ok",
+     "reponse": "Oui : la marge progresse depuis trois ans et dépasse 11 % au T1.",
+     "preuve": "Marge opérationnelle 9,8 % sur 2025-2026, 11,1 % au T1 (8,7 Md¥ sur 77,7 Md¥), 10,0 % visés sur l'année.",
+     "source": "https://www.daiwair.co.jp/td_download.cgi?c=5805&i=3274037",
+     "prochain": "Résultats du premier semestre"
+    },
+    {
+     "c": "Que la direction tient sa discipline financière (dette modérée, ratio de distribution d'au moins 40 %) tout en finançant la croissance et les acquisitions.",
+     "etat": "ok",
+     "reponse": "Oui : la dette nette a baissé et le dividende progresse avec le bénéfice.",
+     "preuve": "Dette nette calculée de 34,7 à 28,7 Md¥ entre mars 2025 et mars 2026 ; ratio de distribution 35 % en 2025-2026, objectif d'au moins 40 % ; dividende relevé à 311 ¥ avant division.",
+     "source": "https://pdf.irpocket.com/C5805/WUpy/ZFzz/GvVX.pdf",
+     "prochain": "Résultats annuels de mai 2027"
+    }
+   ],
+   "questions": [
+    {
+     "q": "Quelle part de la hausse du chiffre d'affaires vient simplement du prix du cuivre répercuté aux clients, et quelle part vient des volumes ?",
+     "etat": "nc",
+     "reponse": "Pas de chiffre publié : la société cite le cuivre parmi les causes de la hausse sans en donner le poids.",
+     "preuve": "Communiqué du T1 : hausse attribuée aux métiers de croissance, à l'IA et à la hausse du prix du cuivre.",
+     "source": "https://www.daiwair.co.jp/td_download.cgi?c=5805&i=3274037",
+     "prochain": "Présentation des résultats semestriels"
+    },
+    {
+     "q": "Les câbles optiques pour data centers (e-Ribbon) prennent-ils vraiment pied en Amérique du Nord, et à quelle vitesse ?",
+     "etat": "nc",
+     "reponse": "Le plan 2030 vise l'Amérique du Nord, l'Europe et l'Asie pour e-Ribbon, mais aucun chiffre de ventes à l'étranger par produit n'a été trouvé.",
+     "preuve": "Plan SWCC 2030 : objectif d'environ 20 % du CA à l'international en 2030.",
+     "source": "https://daiwair.webcdn.stream.ne.jp/www11/daiwair/qlviewer/pdf/2603025805x1edV2tC7.pdf",
+     "prochain": "Présentation des résultats semestriels"
+    },
+    {
+     "q": "Comment seront utilisés les 80 Md¥ prévus pour des acquisitions d'ici 2030, sans dégrader le bilan ?",
+     "etat": "nc",
+     "reponse": "Aucune grosse acquisition annoncée à ce jour ; la société a au contraire cédé AXIO.",
+     "preuve": "Plan 2030 : enveloppe de 80 Md¥ pour la croissance externe, ratio dette sur fonds propres visé de 40 à 60 %.",
+     "source": "https://daiwair.webcdn.stream.ne.jp/www11/daiwair/qlviewer/pdf/2603025805x1edV2tC7.pdf",
+     "prochain": "Annonces d'acquisitions"
+    }
+   ]
+  },
+  "sources": [
+   "https://pdf.irpocket.com/C5805/WUpy/ZFzz/GvVX.pdf",
+   "https://pdf.irpocket.com/C5805/vAfC/CEBB/gnRQ.pdf",
+   "http://pdf.irpocket.com/C5805/RLCz/phDG/DCGC.pdf",
+   "https://www.daiwair.co.jp/td_download.cgi?c=5805&i=3274037",
+   "https://www.zaikei.co.jp/article/20260901/868066.html",
+   "https://daiwair.webcdn.stream.ne.jp/www11/daiwair/qlviewer/pdf/2603025805x1edV2tC7.pdf",
+   "https://japanir.jp/en/company/company-5805/",
+   "https://uk.marketscreener.com/quote/stock/SWCC-CORPORATION-6492184/"
+  ],
+  "aVerifier": "Exercices clos en mars : « 2024 » = avril 2023 à mars 2024, et ainsi de suite ; « 2026e » = exercice clos en mars 2027 (prévision de la société relevée le 07/08). Dividendes ramenés après division par 5 (90, 136, 223 et 311 ¥ avant division). Dette nette calculée (emprunts moins trésorerie), hors dettes de location ; 2026e = estimation MarketScreener. Répartition géographique non trouvée. Effectifs (4 813) d'une seule source (Japan IR), date non précisée. Date d'arrivée du président non trouvée. Date du changement de nom en SWCC (2023) non recoupée. Liste des concurrents non sourcée.",
+  "verifieLe": "2026-10-01",
+  "corrections": []
+ }
+}

@@ -284,7 +284,7 @@ function vFiche(t){
  return `<div class="top"><a class="back" href="#/valeurs" aria-label="Retour">${ICON.back}</a><span class="k">${esc(t)} · ${esc(place(v))}${v.compte?" · "+esc(v.compte):""}</span><button class="star ${on?"on":""}" id="fav" aria-label="${on?"Retirer des favoris":"Ajouter aux favoris"}">${on?"★":"☆"}</button></div>
  <h1 style="font-size:40px;line-height:1;margin-top:4px">${esc(v.nom)}</h1>
  <p style="margin-top:10px;color:var(--tx2)">${esc(so.resume||v.these||"")}</p>
- <div style="display:flex;align-items:baseline;gap:12px;margin-top:20px"><span class="mono" style="font-size:34px;letter-spacing:-.03em">${nf(price(v))} ${esc(dev(v))}</span><span class="mono ${cls(vj)}" style="font-size:13px">${pct(vj)}</span><span class="mut" style="margin-left:auto;font-size:12px">clôture ${esc(dFR(priceDate(v)))}</span></div>
+ <div style="display:flex;align-items:baseline;gap:12px;margin-top:20px"><span class="mono" style="font-size:${(nf(price(v))+dev(v)).length>9?26:34}px;letter-spacing:-.03em;white-space:nowrap">${nf(price(v))} ${esc(dev(v))}</span><span class="mono ${cls(vj)}" style="font-size:13px">${pct(vj)}</span><span class="mut" style="margin-left:auto;font-size:12px">clôture ${esc(dFR(priceDate(v)))}</span></div>
  <div class="chips" style="margin-top:12px" id="per">${Object.keys(PER).map(k=>`<button class="chip ${k===per?"on":""}" data-p="${k}">${k}</button>`).join("")}</div>
  <div class="chart" id="ch"></div><div class="read" id="chr"></div>
  <div style="margin-top:14px">${barHTML(v,true)}<div class="legs"><span>bas 1 an ${nf(lo52(v))}</span>${z?`<span style="color:var(--amber)">zone ${nf(z[0],0)} à ${nf(z[1],0)}</span>`:""}<span>haut ${nf(hi52(v))}</span></div></div>

@@ -1,0 +1,1408 @@
+{
+ "ticker": "GMED",
+ "nom": "Globus Medical",
+ "pays": "US",
+ "secteur": "Santé : implants rachidiens et robotique chirurgicale",
+ "cours": 74.69,
+ "coursLe": "2026-10-01",
+ "devise": "USD",
+ "capi": "environ 10,0 Md$ (134,3 millions d'actions)",
+ "per26": 14.9,
+ "per27": 13.8,
+ "statut": "intacte",
+ "these": "Leader des implants pour la colonne vertébrale, Globus gagne des parts de marché aux États-Unis, a fortement amélioré ses marges depuis la fusion avec NuVasive, n'a pas de dette et a relevé deux fois son objectif de bénéfice 2026.",
+ "risque": "Nevro et la robotique reculent en 2026, la croissance hors acquisitions reste autour de 5 à 7 %, et le bénéfice comptable est nettement inférieur au bénéfice ajusté (PER d'environ 19 sur le comptable). Risque de change pour un investisseur en euros.",
+ "faits": [
+  {
+   "d": "03/09",
+   "t": "Marquage CE en Europe pour le système d'imagerie Excelsius3D, qui complète le robot ExcelsiusGPS."
+  },
+  {
+   "d": "26/08",
+   "t": "Rachat de Higgs Boson Health (outils numériques fondés sur l'IA pour les hôpitaux), montant non communiqué."
+  },
+  {
+   "d": "06/08",
+   "t": "T2 2026 : ventes 789,6 M$ (+5,9 %, +9 % hors Nevro), BPA ajusté 1,34 $ (+55,8 %), marge d'EBITDA ajustée 35,4 %, objectif de BPA ajusté 2026 relevé à 4,95 à 5,05 $."
+  },
+  {
+   "d": "06/08",
+   "t": "Trésorerie et placements de 840,5 M$ au 30/06/2026, aucune dette ; 136,1 M$ de rachats d'actions au premier semestre."
+  }
+ ],
+ "pub": null,
+ "pubLabel": "Résultats du T3 2026, début novembre (5/11 selon un agrégateur, date non confirmée par la société)",
+ "src": "https://www.globenewswire.com/news-release/2026/08/06/3340797/0/en/globus-medical-reports-second-quarter-2026-results.html",
+ "notes": "Cours de clôture du 01/10/2026 (flux de cours). PER 2026 et 2027 calculés sur le BPA ajusté du consensus (5,00 $ et 5,40 $, StockAnalysis), cohérent avec l'objectif de la société (4,95 à 5,05 $). Sur le bénéfice comptable des 12 derniers mois, le PER est d'environ 19. Pas de dividende. Société américaine : éligible au compte-titres uniquement.",
+ "yahoo": "GMED",
+ "compte": "CTO",
+ "histo": [
+  [
+   "19/09",
+   55.91
+  ],
+  [
+   "22/09",
+   56.81
+  ],
+  [
+   "23/09",
+   56.75
+  ],
+  [
+   "24/09",
+   55.3
+  ],
+  [
+   "25/09",
+   55.1
+  ],
+  [
+   "26/09",
+   55.7
+  ],
+  [
+   "29/09",
+   56.42
+  ],
+  [
+   "30/09",
+   57.27
+  ],
+  [
+   "01/10",
+   58.66
+  ],
+  [
+   "02/10",
+   58.06
+  ],
+  [
+   "03/10",
+   60.48
+  ],
+  [
+   "06/10",
+   60.17
+  ],
+  [
+   "07/10",
+   59.31
+  ],
+  [
+   "08/10",
+   60.42
+  ],
+  [
+   "09/10",
+   59.61
+  ],
+  [
+   "10/10",
+   56.57
+  ],
+  [
+   "13/10",
+   57.49
+  ],
+  [
+   "14/10",
+   58.09
+  ],
+  [
+   "15/10",
+   58.33
+  ],
+  [
+   "16/10",
+   58.57
+  ],
+  [
+   "17/10",
+   59.58
+  ],
+  [
+   "20/10",
+   61.58
+  ],
+  [
+   "21/10",
+   62.73
+  ],
+  [
+   "22/10",
+   62.35
+  ],
+  [
+   "23/10",
+   62.8
+  ],
+  [
+   "24/10",
+   62.29
+  ],
+  [
+   "27/10",
+   63.26
+  ],
+  [
+   "28/10",
+   62.75
+  ],
+  [
+   "29/10",
+   61.48
+  ],
+  [
+   "30/10",
+   60.72
+  ],
+  [
+   "31/10",
+   60.39
+  ],
+  [
+   "03/11",
+   61.2
+  ],
+  [
+   "04/11",
+   61.66
+  ],
+  [
+   "05/11",
+   61.51
+  ],
+  [
+   "06/11",
+   61.71
+  ],
+  [
+   "07/11",
+   83.89
+  ],
+  [
+   "10/11",
+   86.36
+  ],
+  [
+   "11/11",
+   84.94
+  ],
+  [
+   "12/11",
+   84.71
+  ],
+  [
+   "13/11",
+   83.99
+  ],
+  [
+   "14/11",
+   84.45
+  ],
+  [
+   "17/11",
+   83.64
+  ],
+  [
+   "18/11",
+   83.42
+  ],
+  [
+   "19/11",
+   83.82
+  ],
+  [
+   "20/11",
+   82.28
+  ],
+  [
+   "21/11",
+   86.02
+  ],
+  [
+   "24/11",
+   87.95
+  ],
+  [
+   "25/11",
+   91.18
+  ],
+  [
+   "26/11",
+   91.08
+  ],
+  [
+   "28/11",
+   91.04
+  ],
+  [
+   "01/12",
+   89.79
+  ],
+  [
+   "02/12",
+   89.03
+  ],
+  [
+   "03/12",
+   87.75
+  ],
+  [
+   "04/12",
+   88.74
+  ],
+  [
+   "05/12",
+   91.1
+  ],
+  [
+   "08/12",
+   89.0
+  ],
+  [
+   "09/12",
+   88.42
+  ],
+  [
+   "10/12",
+   87.82
+  ],
+  [
+   "11/12",
+   88.88
+  ],
+  [
+   "12/12",
+   86.7
+  ],
+  [
+   "15/12",
+   86.5
+  ],
+  [
+   "16/12",
+   85.79
+  ],
+  [
+   "17/12",
+   85.06
+  ],
+  [
+   "18/12",
+   86.88
+  ],
+  [
+   "19/12",
+   87.06
+  ],
+  [
+   "22/12",
+   89.36
+  ],
+  [
+   "23/12",
+   88.77
+  ],
+  [
+   "24/12",
+   88.43
+  ],
+  [
+   "26/12",
+   88.41
+  ],
+  [
+   "29/12",
+   88.36
+  ],
+  [
+   "30/12",
+   87.91
+  ],
+  [
+   "31/12",
+   87.31
+  ],
+  [
+   "02/01",
+   87.3
+  ],
+  [
+   "05/01",
+   90.47
+  ],
+  [
+   "06/01",
+   93.29
+  ],
+  [
+   "07/01",
+   90.54
+  ],
+  [
+   "08/01",
+   94.62
+  ],
+  [
+   "09/01",
+   94.47
+  ],
+  [
+   "12/01",
+   91.72
+  ],
+  [
+   "13/01",
+   90.16
+  ],
+  [
+   "14/01",
+   92.46
+  ],
+  [
+   "15/01",
+   93.89
+  ],
+  [
+   "16/01",
+   93.47
+  ],
+  [
+   "20/01",
+   92.95
+  ],
+  [
+   "21/01",
+   94.15
+  ],
+  [
+   "22/01",
+   94.64
+  ],
+  [
+   "23/01",
+   92.52
+  ],
+  [
+   "26/01",
+   92.98
+  ],
+  [
+   "27/01",
+   91.96
+  ],
+  [
+   "28/01",
+   91.83
+  ],
+  [
+   "29/01",
+   90.22
+  ],
+  [
+   "30/01",
+   90.68
+  ],
+  [
+   "02/02",
+   89.7
+  ],
+  [
+   "03/02",
+   87.45
+  ],
+  [
+   "04/02",
+   87.06
+  ],
+  [
+   "05/02",
+   87.5
+  ],
+  [
+   "06/02",
+   87.81
+  ],
+  [
+   "09/02",
+   87.59
+  ],
+  [
+   "10/02",
+   88.72
+  ],
+  [
+   "11/02",
+   88.26
+  ],
+  [
+   "12/02",
+   87.22
+  ],
+  [
+   "13/02",
+   88.09
+  ],
+  [
+   "17/02",
+   89.0
+  ],
+  [
+   "18/02",
+   90.15
+  ],
+  [
+   "19/02",
+   90.92
+  ],
+  [
+   "20/02",
+   90.59
+  ],
+  [
+   "23/02",
+   93.4
+  ],
+  [
+   "24/02",
+   91.88
+  ],
+  [
+   "25/02",
+   96.22
+  ],
+  [
+   "26/02",
+   96.71
+  ],
+  [
+   "27/02",
+   95.46
+  ],
+  [
+   "02/03",
+   93.8
+  ],
+  [
+   "03/03",
+   91.7
+  ],
+  [
+   "04/03",
+   90.46
+  ],
+  [
+   "05/03",
+   89.29
+  ],
+  [
+   "06/03",
+   87.1
+  ],
+  [
+   "09/03",
+   87.81
+  ],
+  [
+   "10/03",
+   86.65
+  ],
+  [
+   "11/03",
+   87.17
+  ],
+  [
+   "12/03",
+   84.51
+  ],
+  [
+   "13/03",
+   84.77
+  ],
+  [
+   "16/03",
+   85.76
+  ],
+  [
+   "17/03",
+   88.16
+  ],
+  [
+   "18/03",
+   86.58
+  ],
+  [
+   "19/03",
+   86.3
+  ],
+  [
+   "20/03",
+   86.26
+  ],
+  [
+   "23/03",
+   87.21
+  ],
+  [
+   "24/03",
+   86.25
+  ],
+  [
+   "25/03",
+   87.35
+  ],
+  [
+   "26/03",
+   86.5
+  ],
+  [
+   "27/03",
+   83.78
+  ],
+  [
+   "30/03",
+   83.51
+  ],
+  [
+   "31/03",
+   86.16
+  ],
+  [
+   "01/04",
+   87.74
+  ],
+  [
+   "02/04",
+   87.92
+  ],
+  [
+   "06/04",
+   88.6
+  ],
+  [
+   "07/04",
+   90.0
+  ],
+  [
+   "08/04",
+   91.96
+  ],
+  [
+   "09/04",
+   91.4
+  ],
+  [
+   "10/04",
+   90.42
+  ],
+  [
+   "13/04",
+   92.98
+  ],
+  [
+   "14/04",
+   94.94
+  ],
+  [
+   "15/04",
+   94.55
+  ],
+  [
+   "16/04",
+   92.76
+  ],
+  [
+   "17/04",
+   95.25
+  ],
+  [
+   "20/04",
+   96.82
+  ],
+  [
+   "21/04",
+   93.83
+  ],
+  [
+   "22/04",
+   95.0
+  ],
+  [
+   "23/04",
+   94.38
+  ],
+  [
+   "24/04",
+   94.87
+  ],
+  [
+   "27/04",
+   93.7
+  ],
+  [
+   "28/04",
+   90.74
+  ],
+  [
+   "29/04",
+   87.79
+  ],
+  [
+   "30/04",
+   90.18
+  ],
+  [
+   "01/05",
+   91.34
+  ],
+  [
+   "04/05",
+   90.6
+  ],
+  [
+   "05/05",
+   90.03
+  ],
+  [
+   "06/05",
+   89.22
+  ],
+  [
+   "07/05",
+   85.07
+  ],
+  [
+   "08/05",
+   77.95
+  ],
+  [
+   "11/05",
+   76.68
+  ],
+  [
+   "12/05",
+   76.13
+  ],
+  [
+   "13/05",
+   75.57
+  ],
+  [
+   "14/05",
+   77.21
+  ],
+  [
+   "15/05",
+   76.64
+  ],
+  [
+   "18/05",
+   78.93
+  ],
+  [
+   "19/05",
+   79.93
+  ],
+  [
+   "20/05",
+   84.03
+  ],
+  [
+   "21/05",
+   84.61
+  ],
+  [
+   "22/05",
+   84.81
+  ],
+  [
+   "26/05",
+   85.1
+  ],
+  [
+   "27/05",
+   82.54
+  ],
+  [
+   "28/05",
+   82.45
+  ],
+  [
+   "29/05",
+   81.88
+  ],
+  [
+   "01/06",
+   79.78
+  ],
+  [
+   "02/06",
+   78.25
+  ],
+  [
+   "03/06",
+   77.95
+  ],
+  [
+   "04/06",
+   80.0
+  ],
+  [
+   "05/06",
+   80.0
+  ],
+  [
+   "08/06",
+   78.3
+  ],
+  [
+   "09/06",
+   82.52
+  ],
+  [
+   "10/06",
+   80.86
+  ],
+  [
+   "11/06",
+   80.52
+  ],
+  [
+   "12/06",
+   80.39
+  ],
+  [
+   "15/06",
+   77.32
+  ],
+  [
+   "16/06",
+   77.52
+  ],
+  [
+   "17/06",
+   75.42
+  ],
+  [
+   "18/06",
+   79.23
+  ],
+  [
+   "22/06",
+   79.19
+  ],
+  [
+   "23/06",
+   80.04
+  ],
+  [
+   "24/06",
+   82.12
+  ],
+  [
+   "25/06",
+   84.65
+  ],
+  [
+   "26/06",
+   86.25
+  ],
+  [
+   "29/06",
+   83.94
+  ],
+  [
+   "30/06",
+   79.01
+  ],
+  [
+   "01/07",
+   75.96
+  ],
+  [
+   "02/07",
+   80.12
+  ],
+  [
+   "06/07",
+   80.5
+  ],
+  [
+   "07/07",
+   78.83
+  ],
+  [
+   "08/07",
+   76.2
+  ],
+  [
+   "09/07",
+   76.64
+  ],
+  [
+   "10/07",
+   78.11
+  ],
+  [
+   "13/07",
+   79.75
+  ],
+  [
+   "14/07",
+   75.82
+  ],
+  [
+   "15/07",
+   78.56
+  ],
+  [
+   "16/07",
+   80.91
+  ],
+  [
+   "17/07",
+   77.0
+  ],
+  [
+   "20/07",
+   76.01
+  ],
+  [
+   "21/07",
+   76.09
+  ],
+  [
+   "22/07",
+   75.5
+  ],
+  [
+   "23/07",
+   75.42
+  ],
+  [
+   "24/07",
+   76.49
+  ],
+  [
+   "27/07",
+   78.25
+  ],
+  [
+   "28/07",
+   80.58
+  ],
+  [
+   "29/07",
+   81.42
+  ],
+  [
+   "30/07",
+   80.26
+  ],
+  [
+   "31/07",
+   78.79
+  ],
+  [
+   "03/08",
+   81.46
+  ],
+  [
+   "04/08",
+   81.51
+  ],
+  [
+   "05/08",
+   80.54
+  ],
+  [
+   "06/08",
+   81.08
+  ],
+  [
+   "07/08",
+   82.35
+  ],
+  [
+   "10/08",
+   86.15
+  ],
+  [
+   "11/08",
+   85.15
+  ],
+  [
+   "12/08",
+   85.67
+  ],
+  [
+   "13/08",
+   85.94
+  ],
+  [
+   "14/08",
+   85.9
+  ],
+  [
+   "17/08",
+   85.12
+  ],
+  [
+   "18/08",
+   86.44
+  ],
+  [
+   "19/08",
+   88.34
+  ],
+  [
+   "20/08",
+   85.67
+  ],
+  [
+   "21/08",
+   86.91
+  ],
+  [
+   "24/08",
+   84.08
+  ],
+  [
+   "25/08",
+   82.96
+  ],
+  [
+   "26/08",
+   83.1
+  ],
+  [
+   "27/08",
+   82.54
+  ],
+  [
+   "28/08",
+   82.97
+  ],
+  [
+   "31/08",
+   81.37
+  ],
+  [
+   "01/09",
+   80.48
+  ],
+  [
+   "02/09",
+   80.66
+  ],
+  [
+   "03/09",
+   78.12
+  ],
+  [
+   "04/09",
+   78.29
+  ],
+  [
+   "08/09",
+   75.04
+  ],
+  [
+   "09/09",
+   74.52
+  ],
+  [
+   "10/09",
+   73.56
+  ],
+  [
+   "11/09",
+   74.19
+  ],
+  [
+   "14/09",
+   75.77
+  ],
+  [
+   "15/09",
+   74.69
+  ],
+  [
+   "16/09",
+   75.26
+  ],
+  [
+   "17/09",
+   74.16
+  ],
+  [
+   "18/09",
+   74.08
+  ],
+  [
+   "21/09",
+   74.29
+  ],
+  [
+   "22/09",
+   75.19
+  ],
+  [
+   "23/09",
+   73.96
+  ],
+  [
+   "24/09",
+   74.27
+  ],
+  [
+   "25/09",
+   74.52
+  ],
+  [
+   "28/09",
+   74.78
+  ],
+  [
+   "29/09",
+   75.69
+  ],
+  [
+   "30/09",
+   74.9
+  ],
+  [
+   "01/10",
+   74.69
+  ]
+ ],
+ "perf": {
+  "m1": -7.2,
+  "m3": -6.8,
+  "m12": 27.3
+ },
+ "analyse": {
+  "majLe": "2026-10-01",
+  "verdict": "Globus Medical est devenu, avec la fusion NuVasive, un poids lourd des implants pour la colonne vertébrale, très rentable (marge d'EBITDA ajustée de 35 % au T2), sans dette et avec 840 M$ de trésorerie. L'action a reculé d'environ 23 % depuis son sommet de 96,82 $ et se paie environ 15 fois le bénéfice ajusté 2026, ce qui est raisonnable pour une croissance du bénéfice proche de 8 % par an ensuite. Les deux points faibles sont Nevro et les robots, en recul en 2026, et l'écart entre bénéfice ajusté et bénéfice comptable.",
+  "conviction": "moyenne",
+  "revisions": "Orientées à la hausse : l'objectif de BPA ajusté 2026 de la société est passé de 4,30 à 4,40 $ (fin 2025) à 4,40 à 4,50 $ (février), 4,70 à 4,80 $ (mai) puis 4,95 à 5,05 $ (août). Objectif de ventes inchangé à 3,18 à 3,22 Md$. Objectif de cours moyen de 103,23 $ (15 analystes, fourchette 84 à 125 $), avec quelques baisses d'objectifs après le T2 (Wells Fargo de 103 à 99 $, Truist de 82 à 80 $).",
+  "fonda": {
+   "score": 7,
+   "justif": "Qualité élevée (marges, trésorerie, part de marché) et valorisation modérée sur le bénéfice ajusté, mais croissance hors acquisitions moyenne et bénéfice comptable encore pénalisé par l'amortissement des acquisitions.",
+   "qualite": "Marge brute ajustée de 69,4 % au T2 2026 (+2 points sur un an) et marge d'EBITDA ajustée de 35,4 % contre 28,0 %. Marge opérationnelle comptable : 8,5 % (2023), 6,6 % (2024), 16,3 % (2025), en forte remontée après les coûts de fusion. Flux de trésorerie libre de 588,8 M$ en 2025 et 339,3 M$ au premier semestre 2026. L'avantage concurrentiel (Buffett) repose sur une gamme d'implants très large, une force de vente directe et le couplage robot plus implants : un hôpital équipé du robot ExcelsiusGPS utilise ensuite les implants Globus.",
+   "croissance": "Ventes : 1 568,5 M$ (2023), 2 519,4 M$ (2024, fusion NuVasive), 2 938,9 M$ (2025, avec Nevro), 3,18 à 3,22 Md$ visés en 2026, 3,39 Md$ attendus en 2027 (+6 %). Hors Nevro, la base a progressé de 5,0 % en 2025 et d'environ 9 % au T2 2026. BPA ajusté : 2,32 $ (2023), 3,04 $ (2024), 3,98 $ (2025), 5,00 $ attendus (2026) et 5,40 $ (2027). Au sens de Lynch : croissance régulière (stalwart) avec un rattrapage de marges.",
+   "bilan": "Très solide au sens de Graham : aucune dette au 30/06/2026 (les obligations convertibles de 443 M$ ont été remboursées ou converties en 2025) et 840,5 M$ de trésorerie et placements.",
+   "valo": "PER d'environ 14,9 en 2026 et 13,8 en 2027 sur le BPA ajusté ; environ 19 sur le bénéfice comptable des 12 derniers mois. Le bénéfice comptable 2025 (537,9 M$) est gonflé par un gain d'acquisition de 117,7 M$ lié à Nevro. Rendement du flux de trésorerie libre 2025 d'environ 5,9 % (588,8 M$ pour 10 Md$ de capitalisation). Comparaison chiffrée avec Stryker et Medtronic non vérifiée.",
+   "peg": 1.9,
+   "piotroski": null,
+   "greenblatt": "Rendement bénéficiaire (résultat opérationnel comptable 2025 de 479,8 M$ sur une valeur d'entreprise d'environ 9,2 Md$) proche de 5 % : moyen, car le résultat comptable est réduit par l'amortissement des actifs de NuVasive. Rendement du capital non calculé."
+  },
+  "tech": {
+   "cours": 74.69,
+   "coursLe": "2026-10-01",
+   "mm50": 79.55,
+   "mm200": 84.69,
+   "rsi14": 41.1,
+   "haut52": 96.82,
+   "bas52": 56.57,
+   "support": 73.5,
+   "resistance": 80,
+   "tendance": "baissiere",
+   "stade": 4,
+   "lecture": "Cours de 74,69 en dessous de sa moyenne 50 jours (79,55) et en dessous de sa moyenne 200 jours (84,69). RSI 41,1 : élan neutre. Il se situe à 45 % de sa fourchette sur un an (de 56,57 à 96,82), performance sur 12 mois de 27,3 %. Clôture du 01/10/2026.",
+   "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json"
+  },
+  "actu": [
+   {
+    "d": "06/08",
+    "fait": "T2 2026 : ventes de 789,6 M$ (+5,9 %, +9 % hors Nevro), BPA ajusté de 1,34 $ (+55,8 %), objectif de BPA ajusté 2026 relevé à 4,95 à 5,05 $ mais objectif de ventes inchangé.",
+    "impact": "positif",
+    "horizon": "moyen",
+    "lecture": "La rentabilité progresse plus vite que prévu, mais la direction reste prudente sur les ventes à cause de Nevro et des robots."
+   },
+   {
+    "d": "06/08",
+    "fait": "Nevro recule de 14,3 % sur un an et les ventes de robots (Enabling Technologies) de 25,8 %, la société passant à la location des robots plutôt qu'à la vente.",
+    "impact": "negatif",
+    "horizon": "court",
+    "lecture": "C'est le point faible de 2026 ; le nombre de robots installés progresse pourtant de 25 % sur un an, ce qui doit soutenir les implants plus tard."
+   },
+   {
+    "d": "26/08",
+    "fait": "Rachat de Higgs Boson Health (outils numériques fondés sur l'IA).",
+    "impact": "neutre",
+    "horizon": "long",
+    "lecture": "Petite acquisition technologique, sans effet sur le bilan, qui renforce l'écosystème autour du robot."
+   },
+   {
+    "d": "03/09",
+    "fait": "Marquage CE pour le système d'imagerie Excelsius3D.",
+    "impact": "positif",
+    "horizon": "moyen",
+    "lecture": "Ouvre l'Europe à l'offre complète imagerie, navigation et robot, alors que l'international progresse déjà de 16 % à change constant."
+   }
+  ],
+  "scenarios": [
+   {
+    "horizon": "12 mois",
+    "unite": "USD",
+    "bas": 62,
+    "central": 86,
+    "haut": 105,
+    "hypotheses": "Central : BPA ajusté 2027 de 5,40 $ valorisé environ 16 fois. Bas : nouvelle déception sur Nevro et les robots, PER ajusté vers 11,5. Haut : retour vers l'objectif moyen des analystes (103 $), soit environ 19 fois le BPA 2027."
+   },
+   {
+    "horizon": "5 ans",
+    "unite": "%/an",
+    "bas": -2,
+    "central": 9,
+    "haut": 15,
+    "hypotheses": "Central : BPA ajusté +8 %/an et rachats d'actions environ +1 %/an, PER stable vers 15 = environ 9 %/an. Bas : croissance de 3 %/an et PER vers 11 (environ -6 %/an) = environ -2 %/an. Haut : BPA +11 %/an avec la reprise de Nevro et des robots, PER vers 19 = environ 15 %/an. Pas de dividende ; résultat en euros soumis au change."
+   }
+  ],
+  "zones": {
+   "interet": "66 à 74 USD : sous le plancher de septembre, soit environ 12 à 13 fois le BPA ajusté 2027 attendu, une décote nette pour un leader sans dette.",
+   "invalidation": "Objectif de BPA ajusté 2026 abaissé, ou croissance de la colonne vertébrale aux États-Unis qui retombe sous celle du marché deux trimestres de suite.",
+   "sortie": [
+    "Marge d'EBITDA ajustée annuelle qui retombe sous 30 %",
+    "Grosse acquisition financée par la dette",
+    "PER ajusté au-dessus de 25 sans accélération de la croissance"
+   ],
+   "catalyseurs": [
+    "Début novembre 2026 (date non confirmée) : résultats du T3 et objectifs 2026",
+    "Lancements des implants sur mesure SCRIPT au second semestre 2026",
+    "Février 2027 : résultats annuels et premier objectif 2027",
+    "Stabilisation de Nevro attendue fin 2026"
+   ]
+  },
+  "cadres": [
+   "Buffett (qualité, avantage concurrentiel)",
+   "Fisher (innovation, direction)",
+   "Lynch (stalwart, PEG)",
+   "Graham (solidité du bilan)",
+   "Greenblatt (formule magique)",
+   "Théorie de Dow",
+   "Weinstein (stades)"
+  ],
+  "sources": [
+   "https://www.globenewswire.com/news-release/2026/08/06/3340797/0/en/globus-medical-reports-second-quarter-2026-results.html",
+   "https://www.globenewswire.com/news-release/2026/02/24/3244064/0/en/globus-medical-reports-fourth-quarter-and-full-year-2025-results.html",
+   "https://www.sec.gov/Archives/edgar/data/1237831/000156276225000024/gmed-20250220xex99_1.htm",
+   "https://www.tradingview.com/news/zacks:fc02b76c2094b:0-gmed-q2-earnings-call-highlights-margin-gains-and-revenue-caution/",
+   "https://www.investors.globusmedical.com/",
+   "https://stockanalysis.com/stocks/gmed/",
+   "https://stockanalysis.com/stocks/gmed/forecast/",
+   "https://finance.yahoo.com/markets/stocks/articles/globus-medical-gmed-pulls-back-111034250.html",
+   "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json"
+  ],
+  "aVerifier": "Date exacte des résultats du T3 (5/11 selon StockAnalysis, non confirmée par Globus). Consensus 2026 et 2027 (une seule source agrégée). Absence totale de dette fin 2025 et au 30/06/2026 (communiqué : convertibles réglées en 2025, aucune dette indiquée au T2). Piotroski non calculé. Raisons précises de la baisse de septembre 2026 non identifiées (pas de nouvelle négative trouvée)."
+ },
+ "societe": {
+  "resume": "Globus Medical est une société américaine qui fabrique des implants pour la colonne vertébrale (vis, tiges, cages entre les vertèbres), des implants pour les fractures et des robots qui guident le chirurgien pendant l'opération. Concrètement, quand un patient se fait opérer d'une hernie discale grave ou d'une scoliose, le chirurgien pose souvent des vis et des tiges : Globus vend ces pièces, et son robot ExcelsiusGPS l'aide à les placer au millimètre près. Depuis 2025, elle vend aussi, via Nevro, des stimulateurs électriques contre les douleurs chroniques.",
+  "fondee": 2003,
+  "siege": "Audubon, Pennsylvanie, États-Unis",
+  "effectifs": null,
+  "site": "https://www.globusmedical.com",
+  "histoire": [
+   {
+    "annee": 2003,
+    "fait": "Création par David C. Paul, chirurgien de formation devenu ingénieur, avec la colonne vertébrale comme spécialité."
+   },
+   {
+    "annee": 2012,
+    "fait": "Entrée en Bourse à New York (NYSE) en août."
+   },
+   {
+    "annee": 2014,
+    "fait": "Rachat d'Excelsius Surgical, à l'origine du robot ExcelsiusGPS."
+   },
+   {
+    "annee": 2023,
+    "fait": "Fusion avec NuVasive (environ 3,1 Md$ payés en actions), qui fait de Globus l'un des deux leaders mondiaux des implants rachidiens."
+   },
+   {
+    "annee": 2025,
+    "fait": "Rachat de Nevro (neurostimulation contre la douleur) ; ventes de 2 938,9 M$ (+16,7 %) et 300,5 M$ de rachats d'actions."
+   },
+   {
+    "annee": 2026,
+    "fait": "Objectif de bénéfice ajusté relevé trois fois ; marquage CE pour l'imagerie Excelsius3D et rachat de Higgs Boson Health."
+   }
+  ],
+  "modele": "Globus vend surtout des implants à usage unique, facturés à chaque opération : les revenus se répètent avec le nombre d'interventions, sans abonnement. Les robots et systèmes de navigation sont désormais souvent loués plutôt que vendus, pour équiper plus d'hôpitaux qui utilisent ensuite les implants de la marque. Le pouvoir de prix vient de l'innovation produit et du lien avec les chirurgiens, mais reste encadré par les acheteurs hospitaliers.",
+  "segments": [
+   {
+    "nom": "Musculoskeletal Solutions (implants rachidiens, traumatologie, articulations, Nevro)",
+    "part": 95.2,
+    "detail": "2 797,9 M$ en 2025 (+18,3 %, dont Nevro)."
+   },
+   {
+    "nom": "Enabling Technologies (robots, navigation, imagerie)",
+    "part": 4.8,
+    "detail": "141,0 M$ en 2025 (-8,4 %), en recul en 2026 avec le passage à la location."
+   }
+  ],
+  "geo": [
+   {
+    "zone": "États-Unis",
+    "part": 80.6
+   },
+   {
+    "zone": "International",
+    "part": 19.4
+   }
+  ],
+  "clients": "Les hôpitaux et cliniques, à travers les chirurgiens orthopédistes et neurochirurgiens du rachis, surtout aux États-Unis. Le paiement final dépend des assurances et de Medicare.",
+  "concurrents": [
+   "Medtronic",
+   "Stryker",
+   "Johnson & Johnson (DePuy Synthes)",
+   "Zimmer Biomet",
+   "Alphatec",
+   "Boston Scientific et Abbott (neurostimulation)"
+  ],
+  "avantage": "Une gamme d'implants rachidiens parmi les plus larges du marché, une force de vente directe très présente auprès des chirurgiens et un robot qui fidélise les hôpitaux. Ce qui pourrait l'éroder : la concurrence de Medtronic (robot Mazor) et de Stryker, les pressions sur les prix des hôpitaux et une intégration ratée de Nevro.",
+  "dirigeants": [
+   {
+    "nom": "David C. Paul",
+    "role": "Fondateur et président du conseil d'administration",
+    "depuis": 2003
+   },
+   {
+    "nom": "Keith Pfeil",
+    "role": "Directeur général (CEO)",
+    "depuis": null
+   },
+   {
+    "nom": "Kyle Kline",
+    "role": "Directeur financier",
+    "depuis": null
+   }
+  ],
+  "actionnariat": "Le fondateur David C. Paul reste un actionnaire important ; le reste est détenu surtout par des fonds américains. Pourcentages non vérifiés.",
+  "devise": "USD",
+  "chiffres": [
+   {
+    "annee": "2023",
+    "ca": 1568.5,
+    "rn": 122.9,
+    "margeOp": 8.5,
+    "detteNette": -175.8,
+    "dividende": 0
+   },
+   {
+    "annee": "2024",
+    "ca": 2519.4,
+    "rn": 103.0,
+    "margeOp": 6.6,
+    "detteNette": -512.8,
+    "dividende": 0
+   },
+   {
+    "annee": "2025",
+    "ca": 2938.9,
+    "rn": 537.9,
+    "margeOp": 16.3,
+    "detteNette": -629.1,
+    "dividende": 0
+   },
+   {
+    "annee": "2026e",
+    "ca": 3200,
+    "rn": null,
+    "margeOp": null,
+    "detteNette": null,
+    "dividende": 0
+   }
+  ],
+  "croire": [
+   "Que la colonne vertébrale (environ 95 % des ventes) continue de gagner des parts de marché aux États-Unis, avec une croissance supérieure à celle du marché.",
+   "Que les marges gagnées depuis la fusion avec NuVasive (marge d'EBITDA ajustée au-dessus de 31 %) sont durables et pas seulement un effet ponctuel.",
+   "Que Nevro (neurostimulation contre la douleur) et la robotique, en recul en 2026, se stabilisent puis repartent en 2027.",
+   "Que la direction continue d'utiliser la trésorerie avec discipline (rachats d'actions, petites acquisitions) sans grosse opération risquée."
+  ],
+  "questions": [
+   "Quelle est la vraie croissance hors acquisitions une fois Nevro pleinement intégré dans la base de comparaison (à partir du T2 2026) ?",
+   "Le passage à la location des robots (au lieu de la vente) fera-t-il vraiment progresser les ventes d'implants associées ?",
+   "Pourquoi l'écart reste-t-il si grand entre bénéfice ajusté (5,00 $ visés) et bénéfice comptable, et va-t-il se réduire ?"
+  ],
+  "suivi": {
+   "le": "2026-10-01",
+   "bilan": "3 conditions sur 4 tiennent (parts de marché, marges, discipline financière) ; le point fragile est Nevro et la robotique, en recul cette année.",
+   "croire": [
+    {
+     "c": "Que la colonne vertébrale (environ 95 % des ventes) continue de gagner des parts de marché aux États-Unis, avec une croissance supérieure à celle du marché.",
+     "etat": "ok",
+     "reponse": "Oui : la colonne vertébrale aux États-Unis progresse plus vite que le marché pour le cinquième trimestre de suite.",
+     "preuve": "T2 2026 : colonne vertébrale États-Unis +7 %, international +12 % à change constant, ventes hors Nevro +9 %.",
+     "source": "https://www.globenewswire.com/news-release/2026/08/06/3340797/0/en/globus-medical-reports-second-quarter-2026-results.html",
+     "prochain": "Résultats du T3 2026 (début novembre)"
+    },
+    {
+     "c": "Que les marges gagnées depuis la fusion avec NuVasive (marge d'EBITDA ajustée au-dessus de 31 %) sont durables et pas seulement un effet ponctuel.",
+     "etat": "ok",
+     "reponse": "Oui pour l'instant : les marges continuent de monter grâce aux économies de production et d'intégration.",
+     "preuve": "Marge d'EBITDA ajustée de 35,4 % au T2 2026 contre 28,0 % un an plus tôt ; 31,3 % sur 2025 contre 29,2 % en 2024 ; marge brute ajustée de 69,4 %.",
+     "source": "https://www.globenewswire.com/news-release/2026/08/06/3340797/0/en/globus-medical-reports-second-quarter-2026-results.html",
+     "prochain": "Résultats du T3 2026 (début novembre)"
+    },
+    {
+     "c": "Que Nevro (neurostimulation contre la douleur) et la robotique, en recul en 2026, se stabilisent puis repartent en 2027.",
+     "etat": "watch",
+     "reponse": "Pas encore : les deux activités reculent, mais la direction voit des signes de redressement (recrutements chez Nevro, plus de robots installés).",
+     "preuve": "T2 2026 : Nevro -14,3 % sur un an, robots -25,8 % à 26,1 M$, mais parc de robots installés +25 % sur un an ; 75 % des postes de vente Nevro pourvus.",
+     "source": "https://www.tradingview.com/news/zacks:fc02b76c2094b:0-gmed-q2-earnings-call-highlights-margin-gains-and-revenue-caution/",
+     "prochain": "Résultats du T3 2026, puis objectifs 2027 en février"
+    },
+    {
+     "c": "Que la direction continue d'utiliser la trésorerie avec discipline (rachats d'actions, petites acquisitions) sans grosse opération risquée.",
+     "etat": "ok",
+     "reponse": "Oui : rachats d'actions réguliers et petites acquisitions, sans dette.",
+     "preuve": "300,5 M$ de rachats en 2025, 136,1 M$ au premier semestre 2026 ; 840,5 M$ de trésorerie et placements au 30/06/2026.",
+     "source": "https://www.globenewswire.com/news-release/2026/08/06/3340797/0/en/globus-medical-reports-second-quarter-2026-results.html",
+     "prochain": "Résultats du T3 2026"
+    }
+   ],
+   "questions": [
+    {
+     "q": "Quelle est la vraie croissance hors acquisitions une fois Nevro pleinement intégré dans la base de comparaison (à partir du T2 2026) ?",
+     "etat": "watch",
+     "reponse": "Hors Nevro, la croissance a été de 5,0 % en 2025 et d'environ 9 % au T2 2026 ; l'objectif 2026 implique environ 9 % au total, puis environ 6 % attendus en 2027.",
+     "preuve": "Base hors Nevro 2025 : 2 645,3 M$ (+5,0 %) ; T2 2026 : +6 % publié, +9 % hors Nevro.",
+     "source": "https://www.globenewswire.com/news-release/2026/02/24/3244064/0/en/globus-medical-reports-fourth-quarter-and-full-year-2025-results.html",
+     "prochain": "Résultats du T3 2026"
+    },
+    {
+     "q": "Le passage à la location des robots (au lieu de la vente) fera-t-il vraiment progresser les ventes d'implants associées ?",
+     "etat": "nc",
+     "reponse": "Trop tôt pour le dire : le nombre de robots installés augmente, mais l'effet sur les implants n'est pas chiffré par la société.",
+     "preuve": "Robots déployés +11 % sur un trimestre et +25 % sur un an au T2 2026.",
+     "source": "https://www.tradingview.com/news/zacks:fc02b76c2094b:0-gmed-q2-earnings-call-highlights-margin-gains-and-revenue-caution/",
+     "prochain": "Résultats annuels 2026 (février 2027)"
+    },
+    {
+     "q": "Pourquoi l'écart reste-t-il si grand entre bénéfice ajusté (5,00 $ visés) et bénéfice comptable, et va-t-il se réduire ?",
+     "etat": "watch",
+     "reponse": "L'écart se réduit : 2,00 $ comptables contre 2,46 $ ajustés au premier semestre 2026, alors qu'en 2024 c'était 0,75 $ contre 3,04 $. Il vient surtout de l'amortissement des actifs de NuVasive et Nevro.",
+     "preuve": "BPA comptable S1 2026 : 2,00 $ ; BPA ajusté : 2,46 $.",
+     "source": "https://www.globenewswire.com/news-release/2026/08/06/3340797/0/en/globus-medical-reports-second-quarter-2026-results.html",
+     "prochain": "Résultats du T3 2026"
+    }
+   ]
+  },
+  "sources": [
+   "https://www.globenewswire.com/news-release/2026/02/24/3244064/0/en/globus-medical-reports-fourth-quarter-and-full-year-2025-results.html",
+   "https://www.sec.gov/Archives/edgar/data/1237831/000156276225000024/gmed-20250220xex99_1.htm",
+   "https://www.globenewswire.com/news-release/2026/08/06/3340797/0/en/globus-medical-reports-second-quarter-2026-results.html",
+   "https://www.investors.globusmedical.com/",
+   "https://en.wikipedia.org/wiki/Globus_Medical",
+   "https://stockanalysis.com/stocks/gmed/",
+   "https://www.tradingview.com/news/zacks:fc02b76c2094b:0-gmed-q2-earnings-call-highlights-margin-gains-and-revenue-caution/"
+  ],
+  "aVerifier": "Effectif non confirmé (environ 6 000 selon StockAnalysis, une seule source). Date d'arrivée de Keith Pfeil au poste de CEO et de Kyle Kline comme directeur financier non vérifiées. Dette nette 2025 calculée sans dette (trésorerie 526,2 M$ + placements 102,9 M$) : absence de dette à confirmer dans le 10-K. Actionnariat de David Paul non chiffré. 2026e : CA = milieu de l'objectif de la société ; bénéfice net comptable 2026 non estimé.",
+  "verifieLe": "2026-10-01",
+  "corrections": []
+ }
+}

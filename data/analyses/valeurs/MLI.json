@@ -1,0 +1,1391 @@
+{
+ "ticker": "MLI",
+ "nom": "Mueller Industries",
+ "pays": "US",
+ "secteur": "Industrie (tubes et raccords en cuivre)",
+ "cours": 61.275,
+ "coursLe": "2026-10-01",
+ "devise": "USD",
+ "capi": "environ 13,4 Md$ (environ 11,8 Md€)",
+ "per26": 14.4,
+ "per27": null,
+ "statut": "intacte",
+ "these": "Premier fabricant américain de tubes en cuivre et de raccords pour la plomberie et la climatisation, très rentable (marge opérationnelle de 22,9 % en 2025) et sans dette avec 1,42 Md$ de trésorerie. Bénéfice net du S1 2026 en hausse de 21 % à 488,7 M$, pour environ 14 fois les bénéfices 2026 attendus.",
+ "risque": "Bénéfices sans doute proches d'un haut de cycle (cuivre cher, droits de douane favorables) ; seulement 2 analystes suivent la valeur ; ventes d'actions par des dirigeants ; risque de change euro/dollar.",
+ "faits": [
+  {
+   "d": "07/08",
+   "t": "Gary Gladstein, administrateur, quittera le conseil le 31/12/2026."
+  },
+  {
+   "d": "06/08",
+   "t": "Dividende du T3 déclaré (après la hausse de 40 % annoncée en février)."
+  },
+  {
+   "d": "21/07",
+   "t": "T2 2026 : CA 1 427 M$ (+25,4 %), résultat opérationnel 310,0 M$ (+1,9 %), BPA dilué 1,13 $ (+1,8 %), division d'action par 2 au 30/06."
+  },
+  {
+   "d": "06/2026",
+   "t": "Rachat de Chicago Extruded Metals, après Bison Metals Technologies en mars (138,3 M$)."
+  }
+ ],
+ "pub": null,
+ "pubLabel": "Résultats du T3 2026 (date estimée au 27/10/2026 par MarketBeat, non confirmée par la société)",
+ "src": "https://www.sec.gov/Archives/edgar/data/89439/000008943926000029/exhibit991q22026earningsre.htm",
+ "notes": "Tous les montants par action sont ajustés de la division par 2 du 30/06/2026 (BPA 2025 publié 6,86 $, soit environ 3,43 $ après division). PER 2026 de 14,4 sur un consensus de 2 analystes seulement. Clôture du 30/09/2026 à 60,61 $ (flux de cours Yahoo).",
+ "yahoo": "MLI",
+ "compte": "CTO",
+ "histo": [
+  [
+   "19/09",
+   49.83
+  ],
+  [
+   "22/09",
+   50.5
+  ],
+  [
+   "23/09",
+   50.85
+  ],
+  [
+   "24/09",
+   49.81
+  ],
+  [
+   "25/09",
+   49.97
+  ],
+  [
+   "26/09",
+   50.7
+  ],
+  [
+   "29/09",
+   50.13
+  ],
+  [
+   "30/09",
+   50.55
+  ],
+  [
+   "01/10",
+   49.98
+  ],
+  [
+   "02/10",
+   50.27
+  ],
+  [
+   "03/10",
+   50.25
+  ],
+  [
+   "06/10",
+   49.83
+  ],
+  [
+   "07/10",
+   49.34
+  ],
+  [
+   "08/10",
+   50.15
+  ],
+  [
+   "09/10",
+   48.97
+  ],
+  [
+   "10/10",
+   48.48
+  ],
+  [
+   "13/10",
+   49.1
+  ],
+  [
+   "14/10",
+   49.95
+  ],
+  [
+   "15/10",
+   49.58
+  ],
+  [
+   "16/10",
+   49.28
+  ],
+  [
+   "17/10",
+   49.28
+  ],
+  [
+   "20/10",
+   50.13
+  ],
+  [
+   "21/10",
+   52.19
+  ],
+  [
+   "22/10",
+   52.1
+  ],
+  [
+   "23/10",
+   52.1
+  ],
+  [
+   "24/10",
+   51.49
+  ],
+  [
+   "27/10",
+   51.85
+  ],
+  [
+   "28/10",
+   52.2
+  ],
+  [
+   "29/10",
+   52.38
+  ],
+  [
+   "30/10",
+   52.71
+  ],
+  [
+   "31/10",
+   52.94
+  ],
+  [
+   "03/11",
+   54.0
+  ],
+  [
+   "04/11",
+   53.63
+  ],
+  [
+   "05/11",
+   53.97
+  ],
+  [
+   "06/11",
+   53.23
+  ],
+  [
+   "07/11",
+   53.55
+  ],
+  [
+   "10/11",
+   53.86
+  ],
+  [
+   "11/11",
+   54.14
+  ],
+  [
+   "12/11",
+   54.56
+  ],
+  [
+   "13/11",
+   53.58
+  ],
+  [
+   "14/11",
+   53.46
+  ],
+  [
+   "17/11",
+   52.41
+  ],
+  [
+   "18/11",
+   52.82
+  ],
+  [
+   "19/11",
+   53.42
+  ],
+  [
+   "20/11",
+   52.27
+  ],
+  [
+   "21/11",
+   53.3
+  ],
+  [
+   "24/11",
+   54.0
+  ],
+  [
+   "25/11",
+   54.91
+  ],
+  [
+   "26/11",
+   55.19
+  ],
+  [
+   "28/11",
+   54.94
+  ],
+  [
+   "01/12",
+   54.84
+  ],
+  [
+   "02/12",
+   55.37
+  ],
+  [
+   "03/12",
+   55.8
+  ],
+  [
+   "04/12",
+   56.51
+  ],
+  [
+   "05/12",
+   56.74
+  ],
+  [
+   "08/12",
+   55.9
+  ],
+  [
+   "09/12",
+   54.98
+  ],
+  [
+   "10/12",
+   56.41
+  ],
+  [
+   "11/12",
+   57.0
+  ],
+  [
+   "12/12",
+   56.93
+  ],
+  [
+   "15/12",
+   57.31
+  ],
+  [
+   "16/12",
+   56.87
+  ],
+  [
+   "17/12",
+   56.3
+  ],
+  [
+   "18/12",
+   56.39
+  ],
+  [
+   "19/12",
+   57.8
+  ],
+  [
+   "22/12",
+   58.69
+  ],
+  [
+   "23/12",
+   58.69
+  ],
+  [
+   "24/12",
+   59.16
+  ],
+  [
+   "26/12",
+   59.06
+  ],
+  [
+   "29/12",
+   58.85
+  ],
+  [
+   "30/12",
+   58.2
+  ],
+  [
+   "31/12",
+   57.4
+  ],
+  [
+   "02/01",
+   58.41
+  ],
+  [
+   "05/01",
+   59.61
+  ],
+  [
+   "06/01",
+   59.95
+  ],
+  [
+   "07/01",
+   59.54
+  ],
+  [
+   "08/01",
+   60.66
+  ],
+  [
+   "09/01",
+   61.8
+  ],
+  [
+   "12/01",
+   62.2
+  ],
+  [
+   "13/01",
+   63.01
+  ],
+  [
+   "14/01",
+   64.28
+  ],
+  [
+   "15/01",
+   65.38
+  ],
+  [
+   "16/01",
+   66.42
+  ],
+  [
+   "20/01",
+   65.56
+  ],
+  [
+   "21/01",
+   66.94
+  ],
+  [
+   "22/01",
+   66.56
+  ],
+  [
+   "23/01",
+   66.36
+  ],
+  [
+   "26/01",
+   66.91
+  ],
+  [
+   "27/01",
+   67.22
+  ],
+  [
+   "28/01",
+   67.25
+  ],
+  [
+   "29/01",
+   68.69
+  ],
+  [
+   "30/01",
+   68.07
+  ],
+  [
+   "02/02",
+   69.59
+  ],
+  [
+   "03/02",
+   61.83
+  ],
+  [
+   "04/02",
+   57.33
+  ],
+  [
+   "05/02",
+   57.63
+  ],
+  [
+   "06/02",
+   58.93
+  ],
+  [
+   "09/02",
+   57.95
+  ],
+  [
+   "10/02",
+   59.64
+  ],
+  [
+   "11/02",
+   60.28
+  ],
+  [
+   "12/02",
+   59.42
+  ],
+  [
+   "13/02",
+   59.73
+  ],
+  [
+   "17/02",
+   59.38
+  ],
+  [
+   "18/02",
+   58.49
+  ],
+  [
+   "19/02",
+   59.55
+  ],
+  [
+   "20/02",
+   60.04
+  ],
+  [
+   "23/02",
+   59.12
+  ],
+  [
+   "24/02",
+   60.04
+  ],
+  [
+   "25/02",
+   59.3
+  ],
+  [
+   "26/02",
+   60.23
+  ],
+  [
+   "27/02",
+   58.98
+  ],
+  [
+   "02/03",
+   59.53
+  ],
+  [
+   "03/03",
+   59.13
+  ],
+  [
+   "04/03",
+   59.35
+  ],
+  [
+   "05/03",
+   58.48
+  ],
+  [
+   "06/03",
+   57.31
+  ],
+  [
+   "09/03",
+   57.23
+  ],
+  [
+   "10/03",
+   57.1
+  ],
+  [
+   "11/03",
+   56.95
+  ],
+  [
+   "12/03",
+   55.42
+  ],
+  [
+   "13/03",
+   54.81
+  ],
+  [
+   "16/03",
+   55.27
+  ],
+  [
+   "17/03",
+   55.42
+  ],
+  [
+   "18/03",
+   55.23
+  ],
+  [
+   "19/03",
+   54.97
+  ],
+  [
+   "20/03",
+   53.88
+  ],
+  [
+   "23/03",
+   55.02
+  ],
+  [
+   "24/03",
+   55.55
+  ],
+  [
+   "25/03",
+   56.0
+  ],
+  [
+   "26/03",
+   54.75
+  ],
+  [
+   "27/03",
+   54.23
+  ],
+  [
+   "30/03",
+   53.95
+  ],
+  [
+   "31/03",
+   55.4
+  ],
+  [
+   "01/04",
+   56.27
+  ],
+  [
+   "02/04",
+   55.36
+  ],
+  [
+   "06/04",
+   56.35
+  ],
+  [
+   "07/04",
+   56.42
+  ],
+  [
+   "08/04",
+   59.23
+  ],
+  [
+   "09/04",
+   60.44
+  ],
+  [
+   "10/04",
+   60.58
+  ],
+  [
+   "13/04",
+   61.62
+  ],
+  [
+   "14/04",
+   61.88
+  ],
+  [
+   "15/04",
+   60.33
+  ],
+  [
+   "16/04",
+   59.12
+  ],
+  [
+   "17/04",
+   61.06
+  ],
+  [
+   "20/04",
+   60.45
+  ],
+  [
+   "21/04",
+   67.36
+  ],
+  [
+   "22/04",
+   67.47
+  ],
+  [
+   "23/04",
+   67.87
+  ],
+  [
+   "24/04",
+   68.01
+  ],
+  [
+   "27/04",
+   68.25
+  ],
+  [
+   "28/04",
+   67.82
+  ],
+  [
+   "29/04",
+   66.44
+  ],
+  [
+   "30/04",
+   67.72
+  ],
+  [
+   "01/05",
+   66.52
+  ],
+  [
+   "04/05",
+   65.42
+  ],
+  [
+   "05/05",
+   68.13
+  ],
+  [
+   "06/05",
+   69.56
+  ],
+  [
+   "07/05",
+   68.88
+  ],
+  [
+   "08/05",
+   70.42
+  ],
+  [
+   "11/05",
+   70.36
+  ],
+  [
+   "12/05",
+   69.3
+  ],
+  [
+   "13/05",
+   69.78
+  ],
+  [
+   "14/05",
+   69.65
+  ],
+  [
+   "15/05",
+   68.22
+  ],
+  [
+   "18/05",
+   68.07
+  ],
+  [
+   "19/05",
+   65.92
+  ],
+  [
+   "20/05",
+   67.04
+  ],
+  [
+   "21/05",
+   66.79
+  ],
+  [
+   "22/05",
+   66.69
+  ],
+  [
+   "26/05",
+   69.25
+  ],
+  [
+   "27/05",
+   67.89
+  ],
+  [
+   "28/05",
+   63.96
+  ],
+  [
+   "29/05",
+   64.3
+  ],
+  [
+   "01/06",
+   63.16
+  ],
+  [
+   "02/06",
+   65.28
+  ],
+  [
+   "03/06",
+   65.67
+  ],
+  [
+   "04/06",
+   66.29
+  ],
+  [
+   "05/06",
+   66.4
+  ],
+  [
+   "08/06",
+   66.63
+  ],
+  [
+   "09/06",
+   67.83
+  ],
+  [
+   "10/06",
+   66.22
+  ],
+  [
+   "11/06",
+   67.75
+  ],
+  [
+   "12/06",
+   69.05
+  ],
+  [
+   "15/06",
+   68.88
+  ],
+  [
+   "16/06",
+   69.02
+  ],
+  [
+   "17/06",
+   69.17
+  ],
+  [
+   "18/06",
+   68.69
+  ],
+  [
+   "22/06",
+   69.75
+  ],
+  [
+   "23/06",
+   68.17
+  ],
+  [
+   "24/06",
+   66.58
+  ],
+  [
+   "25/06",
+   67.19
+  ],
+  [
+   "26/06",
+   64.1
+  ],
+  [
+   "29/06",
+   61.41
+  ],
+  [
+   "30/06",
+   61.47
+  ],
+  [
+   "01/07",
+   57.42
+  ],
+  [
+   "02/07",
+   56.5
+  ],
+  [
+   "06/07",
+   56.84
+  ],
+  [
+   "07/07",
+   55.67
+  ],
+  [
+   "08/07",
+   55.74
+  ],
+  [
+   "09/07",
+   57.86
+  ],
+  [
+   "10/07",
+   56.99
+  ],
+  [
+   "13/07",
+   56.44
+  ],
+  [
+   "14/07",
+   58.39
+  ],
+  [
+   "15/07",
+   57.51
+  ],
+  [
+   "16/07",
+   58.97
+  ],
+  [
+   "17/07",
+   59.13
+  ],
+  [
+   "20/07",
+   58.97
+  ],
+  [
+   "21/07",
+   62.3
+  ],
+  [
+   "22/07",
+   62.66
+  ],
+  [
+   "23/07",
+   63.13
+  ],
+  [
+   "24/07",
+   63.91
+  ],
+  [
+   "27/07",
+   64.17
+  ],
+  [
+   "28/07",
+   66.49
+  ],
+  [
+   "29/07",
+   65.4
+  ],
+  [
+   "30/07",
+   66.86
+  ],
+  [
+   "31/07",
+   66.41
+  ],
+  [
+   "03/08",
+   66.55
+  ],
+  [
+   "04/08",
+   68.35
+  ],
+  [
+   "05/08",
+   69.26
+  ],
+  [
+   "06/08",
+   69.46
+  ],
+  [
+   "07/08",
+   68.85
+  ],
+  [
+   "10/08",
+   68.9
+  ],
+  [
+   "11/08",
+   68.45
+  ],
+  [
+   "12/08",
+   68.28
+  ],
+  [
+   "13/08",
+   66.62
+  ],
+  [
+   "14/08",
+   65.9
+  ],
+  [
+   "17/08",
+   66.63
+  ],
+  [
+   "18/08",
+   64.48
+  ],
+  [
+   "19/08",
+   62.73
+  ],
+  [
+   "20/08",
+   61.96
+  ],
+  [
+   "21/08",
+   63.22
+  ],
+  [
+   "24/08",
+   63.45
+  ],
+  [
+   "25/08",
+   61.51
+  ],
+  [
+   "26/08",
+   64.08
+  ],
+  [
+   "27/08",
+   64.18
+  ],
+  [
+   "28/08",
+   62.8
+  ],
+  [
+   "31/08",
+   62.41
+  ],
+  [
+   "01/09",
+   61.04
+  ],
+  [
+   "02/09",
+   62.07
+  ],
+  [
+   "03/09",
+   62.96
+  ],
+  [
+   "04/09",
+   63.74
+  ],
+  [
+   "08/09",
+   63.58
+  ],
+  [
+   "09/09",
+   63.71
+  ],
+  [
+   "10/09",
+   60.16
+  ],
+  [
+   "11/09",
+   60.48
+  ],
+  [
+   "14/09",
+   60.0
+  ],
+  [
+   "15/09",
+   60.53
+  ],
+  [
+   "16/09",
+   60.54
+  ],
+  [
+   "17/09",
+   60.33
+  ],
+  [
+   "18/09",
+   60.07
+  ],
+  [
+   "21/09",
+   59.93
+  ],
+  [
+   "22/09",
+   59.9
+  ],
+  [
+   "23/09",
+   60.33
+  ],
+  [
+   "24/09",
+   60.02
+  ],
+  [
+   "25/09",
+   60.52
+  ],
+  [
+   "28/09",
+   60.97
+  ],
+  [
+   "29/09",
+   60.79
+  ],
+  [
+   "30/09",
+   60.61
+  ],
+  [
+   "01/10",
+   61.27
+  ]
+ ],
+ "perf": {
+  "m1": 0.4,
+  "m3": 8.5,
+  "m12": 22.6
+ },
+ "analyse": {
+  "majLe": "2026-10-01",
+  "verdict": "Mueller est une machine à cash : marge opérationnelle de plus de 20 %, aucune dette et 1,42 Md$ de trésorerie, avec une valorisation d'environ 14 fois les bénéfices 2026 attendus. La limite est que ces bénéfices sont gonflés par un cuivre très cher et par les droits de douane américains, donc proches d'un haut de cycle. Au T2 2026, le chiffre d'affaires bondit de 25 % mais le résultat opérationnel ne progresse que de 2 %, signe que la marge commence à plafonner. C'est un dossier de qualité à surveiller sur la marge plutôt que sur la croissance.",
+  "conviction": "moyenne",
+  "revisions": "Couverture très faible : 2 analystes, objectif moyen de 75 $ (MarketBeat). Au T2 2026, le BPA de 1,13 $ a dépassé le consensus de 1,09 $ ; au T4 2025, il l'avait manqué de 0,29 $ (avant division). Sens des révisions récentes non confirmé.",
+  "fonda": {
+   "score": 7.5,
+   "justif": "Rentabilité et bilan exceptionnels, valorisation modérée, mais bénéfices cycliques liés au cuivre et au bâtiment américain.",
+   "qualite": "Rentabilité des fonds propres calculée d'environ 24 % en 2025 (765,2 M$ de bénéfice pour 3,21 Md$ de fonds propres). Marge opérationnelle calculée : 22,1 % (2023), 20,4 % (2024), 22,9 % (2025), 23,7 % au S1 2026 mais 21,7 % au T2 2026 contre 26,7 % un an plus tôt. Flux de trésorerie d'exploitation de 755,4 M$ en 2025 pour seulement 68,8 M$ d'investissements. Au sens de Buffett, l'avantage vient de la taille (premier producteur américain), d'usines amorties et d'un réseau de distribution dense ; au sens de Fisher, la direction de Greg Christopher a nettement amélioré les marges depuis 2021.",
+   "croissance": "CA : 3 420 M$ (2023), 3 768,8 M$ (2024), 4 178,5 M$ (2025), puis 2 621 M$ au S1 2026 (+22,5 %). Bénéfice net : 602,9 M$, 604,9 M$, 765,2 M$, puis 488,7 M$ au S1 2026 (+21,1 %). Une bonne partie de la hausse du CA vient du prix du cuivre (6,16 $/livre en moyenne au T2 2026, +30,6 %). Au sens de Lynch, c'est une valeur cyclique, pas une croissance régulière.",
+   "bilan": "Excellent au sens de Graham : 1,42 Md$ de trésorerie et placements au 30/06/2026, dette à long terme de 5,2 M$, ratio de liquidité de 4,8. Aucun risque financier visible.",
+   "valo": "PER 2026 d'environ 14,4 (2 analystes) et PER sur 12 mois glissants d'environ 15,6 (MarketBeat). Valeur d'entreprise calculée d'environ 12 Md$ (capitalisation moins trésorerie), soit environ 12,5 fois le résultat opérationnel 2025. Pour une société cyclique en haut de cycle, ce n'est pas une aubaine, mais ce n'est pas cher non plus. Comparaison avec les pairs non vérifiée.",
+   "peg": null,
+   "piotroski": 6,
+   "greenblatt": "Rendement bénéficiaire (résultat opérationnel 2025 / valeur d'entreprise) proche de 8 % et rendement du capital très élevé (peu d'investissements nécessaires) : profil favorable sur la formule magique. Piotroski estimé à 6 sur 9 (ratio de liquidité 2025 et marge brute non vérifiés)."
+  },
+  "tech": {
+   "cours": 61.275,
+   "coursLe": "2026-10-01",
+   "mm50": 63.56,
+   "mm200": 62.33,
+   "rsi14": 48.5,
+   "haut52": 70.42,
+   "bas52": 48.48,
+   "support": 59.9,
+   "resistance": 64.2,
+   "tendance": "neutre",
+   "stade": 3,
+   "lecture": "Cours de 61,27 en dessous de sa moyenne 50 jours (63,56) et en dessous de sa moyenne 200 jours (62,33). RSI 48,5 : élan neutre. Il se situe à 58 % de sa fourchette sur un an (de 48,48 à 70,42), performance sur 12 mois de 22,6 %. Clôture du 01/10/2026.",
+   "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json"
+  },
+  "actu": [
+   {
+    "d": "21/07",
+    "fait": "T2 2026 : CA de 1 427 M$ (+25,4 %), résultat opérationnel de 310,0 M$ (+1,9 %), bénéfice net de 249,7 M$ (+1,5 %).",
+    "impact": "neutre",
+    "horizon": "moyen",
+    "lecture": "Le cuivre cher gonfle les ventes, mais la marge recule : le marché veut voir si le bénéfice continue de monter au second semestre."
+   },
+   {
+    "d": "21/07",
+    "fait": "Division de l'action par deux effective au 30/06/2026 et dividende trimestriel porté à 0,175 $ après division (+40 % sur un an).",
+    "impact": "positif",
+    "horizon": "long",
+    "lecture": "Le dividende reste faible en rendement (environ 1,2 %) mais sa hausse montre la confiance de la direction."
+   },
+   {
+    "d": "mars à juin",
+    "fait": "Rachats de Bison Metals Technologies (138,3 M$) et de Chicago Extruded Metals.",
+    "impact": "neutre",
+    "horizon": "long",
+    "lecture": "Petites acquisitions payées en cash, dans la ligne du modèle ; à surveiller si les montants grossissent."
+   },
+   {
+    "d": "07/08",
+    "fait": "Annonce du départ de l'administrateur Gary Gladstein au 31/12/2026 ; ventes d'actions d'initiés d'environ 18,9 M$ en trois mois (MarketBeat).",
+    "impact": "neutre",
+    "horizon": "court",
+    "lecture": "Rien d'alarmant en soi, mais aucun achat d'initié pour contrebalancer."
+   }
+  ],
+  "scenarios": [
+   {
+    "horizon": "12 mois",
+    "unite": "USD",
+    "bas": 48,
+    "central": 66,
+    "haut": 75,
+    "hypotheses": "Objectif moyen des 2 analystes : 75 $. Central : BPA autour de 4,2 $ maintenu et PER vers 15,5. Bas : baisse du cuivre et de la demande, BPA vers 3,5 $ et PER vers 13 (retour au plus bas d'un an). Haut : reprise du logement américain et marge maintenue, retour vers l'objectif des analystes."
+   },
+   {
+    "horizon": "5 ans",
+    "unite": "%/an",
+    "bas": -3,
+    "central": 7,
+    "haut": 12,
+    "hypotheses": "Central : BPA +4 %/an en moyenne (cycle du cuivre lissé, rachats d'actions), dividende 1,2 %, PER stable = environ 6 à 7 %/an. Bas : retour des marges vers 15 % et PER vers 11, environ -3 %/an. Haut : acquisitions réussies et marges durablement au-dessus de 22 %, BPA +8 %/an et PER vers 17."
+   }
+  ],
+  "zones": {
+   "interet": "52 à 58 USD : zone de consolidation de juillet, PER 2026 d'environ 12,5 à 14 et rendement bénéficiaire proche de 9 %, une marge de sécurité utile pour une valeur cyclique.",
+   "invalidation": "Marge opérationnelle sous 18 % sur deux trimestres, ou clôture durable sous 48 $ (plus bas d'un an).",
+   "sortie": [
+    "Marge opérationnelle trimestrielle sous 18 % deux trimestres de suite",
+    "Acquisition importante payée par de la dette ou des actions nouvelles",
+    "PER au-dessus de 22 sans hausse des bénéfices"
+   ],
+   "catalyseurs": [
+    "Fin octobre 2026 (date estimée au 27/10, non confirmée) : résultats du T3 2026",
+    "Évolution des droits de douane américains sur le cuivre",
+    "Début février 2027 (date non confirmée) : résultats annuels 2026"
+   ]
+  },
+  "cadres": [
+   "Buffett (qualité, avantage concurrentiel)",
+   "Fisher (direction)",
+   "Lynch (valeur cyclique)",
+   "Graham (solidité du bilan)",
+   "Greenblatt (formule magique)",
+   "Piotroski (F-score estimé)",
+   "Théorie de Dow",
+   "Weinstein (stades)"
+  ],
+  "sources": [
+   "https://www.sec.gov/Archives/edgar/data/89439/000008943926000029/exhibit991q22026earningsre.htm",
+   "https://www.sec.gov/Archives/edgar/data/89439/000008943926000002/exhibit991q42025earningsre.htm",
+   "https://www.sec.gov/Archives/edgar/data/89439/000008943925000003/exhibit991q42024earningsre.htm",
+   "https://www.marketscreener.com/quote/stock/MUELLER-INDUSTRIES-INC-13563/news/Mueller-Industries-Inc-Reports-Fiscal-2023-Fourth-Quarter-and-Full-Year-Results-45891943/",
+   "https://www.marketbeat.com/stocks/NYSE/MLI/",
+   "https://www.marketbeat.com/instant-alerts/mueller-industries-nysemli-issues-earnings-results-beats-expectations-by-004-eps-2026-07-21/",
+   "https://www.businesswire.com/news/home/20260806173810/en/Mueller-Industries-Inc.-Declares-Cash-Dividend-for-Third-Quarter",
+   "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json"
+  ],
+  "aVerifier": "Date de publication du T3 2026 (27/10 estimée par MarketBeat, non confirmée). Consensus 2026 et 2027 (2 analystes, une seule source). Piotroski estimé (ratio de liquidité 2025 et marge brute non vérifiés). Ventes d'initiés (MarketBeat seul). Montant du dividende du T3 (supposé 0,175 $)."
+ },
+ "societe": {
+  "resume": "Mueller Industries fabrique des tubes en cuivre, des raccords, des vannes et des pièces en laiton ou en aluminium, surtout pour la plomberie, le chauffage et la climatisation. Concrètement, quand un plombier américain installe le réseau d'eau d'une maison ou qu'un frigoriste pose une climatisation, il utilise très souvent des tubes et raccords Mueller. La société vend aussi des barres et pièces en métal à l'industrie et des composants pour les réseaux électriques.",
+  "fondee": 1917,
+  "siege": "Collierville (Tennessee), États-Unis",
+  "effectifs": null,
+  "site": "https://www.muellerindustries.com",
+  "histoire": [
+   {
+    "annee": 1917,
+    "fait": "Création de la société Mueller Brass à Port Huron (Michigan)."
+   },
+   {
+    "annee": 2023,
+    "fait": "Division de l'action par deux ; CA de 3,42 Md$ et bénéfice net de 602,9 M$."
+   },
+   {
+    "annee": 2024,
+    "fait": "Rachats de Nehring Electrical Works (fils et câbles pour les réseaux électriques) et d'Elkhart Products."
+   },
+   {
+    "annee": 2025,
+    "fait": "Record : CA de 4 178,5 M$ et bénéfice net de 765,2 M$ ; plus aucune dette."
+   },
+   {
+    "annee": 2026,
+    "fait": "Dividende relevé de 40 %, nouvelle division de l'action par deux au 30/06, rachats de Bison Metals et Chicago Extruded Metals."
+   }
+  ],
+  "modele": "Mueller transforme du cuivre et d'autres métaux en produits finis qu'il vend à des grossistes, des distributeurs de plomberie, des fabricants de climatisation et des industriels. Le prix du cuivre est en grande partie répercuté sur le client : un cuivre cher gonfle le chiffre d'affaires, et la marge dépend surtout de l'écart entre le prix de vente et le coût du métal. Pas de revenus récurrents par abonnement, mais une demande de remplacement régulière.",
+  "segments": [
+   {
+    "nom": "Piping Systems (tubes et raccords)",
+    "part": 64.1,
+    "detail": "Tubes en cuivre, raccords, pièces pour plomberie et réfrigération, plus les câbles de Nehring. CA 2025 de 2,71 Md$ (part calculée sur la somme des segments, avant éliminations)."
+   },
+   {
+    "nom": "Industrial Metals (métaux industriels)",
+    "part": 24.1,
+    "detail": "Barres en laiton, pièces forgées et usinées, impacts d'aluminium pour l'industrie. CA 2025 de 1,02 Md$."
+   },
+   {
+    "nom": "Climate (climatisation)",
+    "part": 11.8,
+    "detail": "Composants et vannes pour la climatisation et la réfrigération. CA 2025 de 498 M$."
+   }
+  ],
+  "geo": [
+   {
+    "zone": "États-Unis (très majoritaire)",
+    "part": null
+   },
+   {
+    "zone": "Canada, Mexique, Royaume-Uni, Corée du Sud et Moyen-Orient",
+    "part": null
+   }
+  ],
+  "clients": "Grossistes et distributeurs de plomberie et de chauffage, fabricants de climatiseurs et de réfrigération, industriels (automobile, équipements), entreprises de réseaux électriques. Aucun client dominant identifié.",
+  "concurrents": [
+   "Wieland",
+   "Cerro Flow Products (Marmon, Berkshire Hathaway)",
+   "Importateurs de tubes en cuivre (Mexique, Asie)",
+   "Fabricants de tubes en plastique PEX (Uponor, Viega)"
+  ],
+  "avantage": "Taille et coûts : premier producteur américain de tubes en cuivre, usines efficaces et réseau logistique dense, ce que les droits de douane sur le cuivre importé renforcent. Ce qui pourrait l'éroder : le remplacement du cuivre par le plastique (PEX) dans la plomberie résidentielle, une baisse des droits de douane, ou un retournement du cycle du bâtiment.",
+  "dirigeants": [
+   {
+    "nom": "Gregory L. Christopher",
+    "role": "Président du conseil et directeur général (CEO)",
+    "depuis": null
+   },
+   {
+    "nom": "Jeffrey A. Martin",
+    "role": "Directeur financier",
+    "depuis": null
+   }
+  ],
+  "actionnariat": "Actionnariat dispersé, détenu à environ 94,5 % par des institutionnels ; les dirigeants détiennent environ 2,3 % (MarketBeat). Environ 221 millions d'actions après la division.",
+  "devise": "USD",
+  "chiffres": [
+   {
+    "annee": "2023",
+    "ca": 3420.3,
+    "rn": 602.9,
+    "margeOp": 22.1,
+    "detteNette": -1269,
+    "dividende": 0.3
+   },
+   {
+    "annee": "2024",
+    "ca": 3768.8,
+    "rn": 604.9,
+    "margeOp": 20.4,
+    "detteNette": -1058,
+    "dividende": 0.4
+   },
+   {
+    "annee": "2025",
+    "ca": 4178.5,
+    "rn": 765.2,
+    "margeOp": 22.9,
+    "detteNette": -1390,
+    "dividende": 0.5
+   },
+   {
+    "annee": "2026e",
+    "ca": null,
+    "rn": null,
+    "margeOp": null,
+    "detteNette": null,
+    "dividende": 0.7
+   }
+  ],
+  "croire": [
+   "Que Mueller garde une marge opérationnelle supérieure à 18 % même si le prix du cuivre baisse, preuve que ses hausses de marge viennent de l'efficacité et pas seulement du cuivre cher.",
+   "Que la direction continue d'utiliser sa trésorerie (environ 1,4 Md$) avec discipline : rachats d'actions, dividende en hausse et acquisitions ciblées payées sans dette.",
+   "Que la demande des marchés non résidentiels (bâtiment commercial, industrie, réseaux électriques) compense la faiblesse de la construction de logements aux États-Unis."
+  ],
+  "questions": [
+   "Quelle part de la hausse des bénéfices de 2025 et 2026 vient du cuivre cher et des droits de douane, et que reste-t-il si ces deux soutiens disparaissent ?",
+   "Les acquisitions de 2026 (Bison Metals, Chicago Extruded Metals) annoncent-elles une politique d'achats plus ambitieuse, et à quels prix ?",
+   "Pourquoi les dirigeants et administrateurs vendent-ils des actions (environ 18,9 M$ en trois mois selon MarketBeat) sans aucun achat ?"
+  ],
+  "suivi": {
+   "le": "2026-10-01",
+   "bilan": "La discipline financière et la tenue des marchés non résidentiels sont confirmées ; le point fragile est la marge, qui a reculé au T2 2026 malgré des ventes en forte hausse.",
+   "croire": [
+    {
+     "c": "Que Mueller garde une marge opérationnelle supérieure à 18 % même si le prix du cuivre baisse, preuve que ses hausses de marge viennent de l'efficacité et pas seulement du cuivre cher.",
+     "etat": "watch",
+     "reponse": "Pour l'instant oui sur l'année (23,7 % au S1 2026), mais la marge du T2 tombe à 21,7 % contre 26,7 % un an plus tôt : la hausse du cuivre gonfle les ventes sans faire monter le bénéfice.",
+     "preuve": "T2 2026 : résultat opérationnel 310,0 M$ pour 1 427 M$ de CA, contre 304,2 M$ pour 1 138 M$ au T2 2025.",
+     "source": "https://www.sec.gov/Archives/edgar/data/89439/000008943926000029/exhibit991q22026earningsre.htm",
+     "prochain": "Résultats du T3 2026 (fin octobre)"
+    },
+    {
+     "c": "Que la direction continue d'utiliser sa trésorerie (environ 1,4 Md$) avec discipline : rachats d'actions, dividende en hausse et acquisitions ciblées payées sans dette.",
+     "etat": "ok",
+     "reponse": "Oui : trésorerie intacte malgré deux acquisitions, rachats d'actions et dividende en forte hausse.",
+     "preuve": "S1 2026 : 76,4 M$ de rachats, 76,1 M$ de dividendes, 138,3 M$ pour Bison Metals ; trésorerie de 1,42 Md$ et dette de 5,2 M$ au 30/06.",
+     "source": "https://www.sec.gov/Archives/edgar/data/89439/000008943926000029/exhibit991q22026earningsre.htm",
+     "prochain": "Résultats du T3 2026"
+    },
+    {
+     "c": "Que la demande des marchés non résidentiels (bâtiment commercial, industrie, réseaux électriques) compense la faiblesse de la construction de logements aux États-Unis.",
+     "etat": "ok",
+     "reponse": "Oui selon la direction : la demande se renforce dans le commercial, l'industrie et l'électrique, avec des carnets solides, alors que le logement reste mou.",
+     "preuve": "Commentaire du CEO au T2 2026 ; Industrial Metals : résultat opérationnel +39,8 % au T2.",
+     "source": "https://www.sec.gov/Archives/edgar/data/89439/000008943926000029/exhibit991q22026earningsre.htm",
+     "prochain": "Résultats du T3 2026"
+    }
+   ],
+   "questions": [
+    {
+     "q": "Quelle part de la hausse des bénéfices de 2025 et 2026 vient du cuivre cher et des droits de douane, et que reste-t-il si ces deux soutiens disparaissent ?",
+     "etat": "nc",
+     "reponse": "Non chiffré par la société. Le cuivre a monté de 30,6 % sur un an au T2, et le CA de 25 %, alors que le résultat opérationnel n'a monté que de 2 % : l'effet cuivre semble surtout gonfler les ventes.",
+     "preuve": "COMEX : 6,16 $/livre en moyenne au T2 2026, +30,6 %.",
+     "source": "https://www.sec.gov/Archives/edgar/data/89439/000008943926000029/exhibit991q22026earningsre.htm",
+     "prochain": "Rapport annuel 2026"
+    },
+    {
+     "q": "Les acquisitions de 2026 (Bison Metals, Chicago Extruded Metals) annoncent-elles une politique d'achats plus ambitieuse, et à quels prix ?",
+     "etat": "watch",
+     "reponse": "Deux rachats au premier semestre, financés par la trésorerie ; le prix de Chicago Extruded Metals n'a pas été trouvé.",
+     "preuve": "Bison Metals Technologies : 138,3 M$ en mars 2026.",
+     "source": "https://www.sec.gov/Archives/edgar/data/89439/000008943926000029/exhibit991q22026earningsre.htm",
+     "prochain": "Résultats du T3 2026"
+    },
+    {
+     "q": "Pourquoi les dirigeants et administrateurs vendent-ils des actions (environ 18,9 M$ en trois mois selon MarketBeat) sans aucun achat ?",
+     "etat": "nc",
+     "reponse": "Aucune explication trouvée ; ces ventes peuvent relever de la gestion personnelle de patrimoine.",
+     "preuve": "Environ 18,9 M$ de ventes d'initiés en trois mois, aucun achat (MarketBeat, non vérifié sur les formulaires SEC).",
+     "source": "https://www.marketbeat.com/stocks/NYSE/MLI/",
+     "prochain": "Formulaires 4 de la SEC"
+    }
+   ]
+  },
+  "sources": [
+   "https://www.sec.gov/Archives/edgar/data/89439/000008943926000002/exhibit991q42025earningsre.htm",
+   "https://www.sec.gov/Archives/edgar/data/89439/000008943925000003/exhibit991q42024earningsre.htm",
+   "https://www.marketscreener.com/quote/stock/MUELLER-INDUSTRIES-INC-13563/news/Mueller-Industries-Inc-Reports-Fiscal-2023-Fourth-Quarter-and-Full-Year-Results-45891943/",
+   "https://www.sec.gov/Archives/edgar/data/89439/000008943926000029/exhibit991q22026earningsre.htm",
+   "https://www.marketbeat.com/stocks/NYSE/MLI/",
+   "https://www.businesswire.com/news/home/20260806173810/en/Mueller-Industries-Inc.-Declares-Cash-Dividend-for-Third-Quarter"
+  ],
+  "aVerifier": "Effectif (4 832 selon MarketBeat, non confirmé par le rapport annuel). CA 2023 de 3 420,3 M$ déduit du communiqué 2024 (+10,2 %) et cohérent avec le communiqué 2023. Dette nette 2023 calculée à partir de la trésorerie arrondie (1,27 Md$). Dividende 2023 (0,60 $ publié, soit 0,30 $ après la division de 2026) et estimation 2026 (4 fois 0,175 $). Répartition géographique non chiffrée. Dates d'arrivée des dirigeants. Liste des concurrents non sourcée.",
+  "verifieLe": "2026-10-01",
+  "corrections": []
+ }
+}

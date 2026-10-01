@@ -104,18 +104,18 @@
   ],
   "tech": {
    "bas52": 30.98,
-   "cours": 36.48,
-   "coursLe": "2026-09-30",
+   "cours": 35.36,
+   "coursLe": "2026-10-01",
    "haut52": 51.0,
-   "lecture": "Cours de 36,48 au-dessus de sa moyenne 50 jours (36,13) et en dessous de sa moyenne 200 jours (37,99). RSI 56,0 : élan neutre. Il se situe à 27 % de sa fourchette sur un an (de 30,98 à 51,00), performance sur 12 mois de -9,0 %. Clôture du 30/09/2026.",
-   "mm200": 37.99,
-   "mm50": 36.13,
+   "lecture": "Cours de 35,36 en dessous de sa moyenne 50 jours (36,16) et en dessous de sa moyenne 200 jours (37,93). RSI 46,0 : élan neutre. Il se situe à 22 % de sa fourchette sur un an (de 30,98 à 51,00), performance sur 12 mois de -12,5 %. Clôture du 01/10/2026.",
+   "mm200": 37.93,
+   "mm50": 36.16,
    "resistance": 36.7,
-   "rsi14": 56.0,
+   "rsi14": 46.0,
    "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json",
-   "stade": 1,
+   "stade": 4,
    "support": 33.7,
-   "tendance": "neutre"
+   "tendance": "baissiere"
   },
   "verdict": "Interpump reste un bel acteur industriel (pompes haute pression et hydraulique), bien géré et peu endetté, mais sa croissance est à l'arrêt depuis 2023 et le titre a perdu environ 23 % depuis janvier après des prévisions 2026 jugées prudentes. La valorisation est redevenue basse par rapport à son histoire ; il manque encore le signal de reprise de l'activité et une tendance boursière qui se retourne.",
   "zones": {
@@ -134,8 +134,8 @@
   }
  },
  "capi": "3,7 Md€",
- "cours": 36.48,
- "coursLe": "2026-09-30",
+ "cours": 35.36,
+ "coursLe": "2026-10-01",
  "devise": "€",
  "faits": [
   {
@@ -148,10 +148,6 @@
   }
  ],
  "histo": [
-  [
-   "22/09",
-   39.72
-  ],
   [
    "23/09",
    40.4
@@ -1187,6 +1183,10 @@
   [
    "30/09",
    36.48
+  ],
+  [
+   "01/10",
+   35.36
   ]
  ],
  "nom": "Interpump Group",
@@ -1195,9 +1195,9 @@
  "per26": 16.5,
  "per27": 14.8,
  "perf": {
-  "m1": -0.1,
-  "m3": 4.8,
-  "m12": -9.0
+  "m1": -1.8,
+  "m3": 3.4,
+  "m12": -12.5
  },
  "pub": "2026-11-13",
  "pubLabel": "Résultats du T3",

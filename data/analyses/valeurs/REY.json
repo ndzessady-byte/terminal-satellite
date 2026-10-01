@@ -102,18 +102,18 @@
   ],
   "tech": {
    "bas52": 77.15,
-   "cours": 115.7,
-   "coursLe": "2026-09-30",
+   "cours": 123.3,
+   "coursLe": "2026-10-01",
    "haut52": 124.2,
-   "lecture": "Cours de 115,70 en dessous de sa moyenne 50 jours (116,66) et au-dessus de sa moyenne 200 jours (102,49). RSI 46,8 : élan neutre. Il se situe à 82 % de sa fourchette sur un an (de 77,15 à 124,20), performance sur 12 mois de -6,7 %. Clôture du 30/09/2026.",
-   "mm200": 102.49,
-   "mm50": 116.66,
+   "lecture": "Cours de 123,30 au-dessus de sa moyenne 50 jours (117,24) et au-dessus de sa moyenne 200 jours (102,53). RSI 60,8 : élan neutre. Il se situe à 98 % de sa fourchette sur un an (de 77,15 à 124,20), performance sur 12 mois de 0,2 %. Clôture du 01/10/2026.",
+   "mm200": 102.53,
+   "mm50": 117.24,
    "resistance": 118.6,
-   "rsi14": 46.8,
+   "rsi14": 60.8,
    "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json",
-   "stade": 3,
+   "stade": 2,
    "support": 114.4,
-   "tendance": "neutre"
+   "tendance": "haussiere"
   },
   "verdict": "Reply est une société de services informatiques très rentable, sans dette et avec plus de 400 M€ de trésorerie nette, valorisée environ 15 fois ses bénéfices 2026, bien sous sa moyenne historique. Le principal risque est que l'intelligence artificielle réduise à terme la demande de services facturés au temps passé, ce que le marché a déjà sanctionné début 2026 avant un fort rebond.",
   "zones": {
@@ -132,8 +132,8 @@
   }
  },
  "capi": "4,4 Md€",
- "cours": 115.7,
- "coursLe": "2026-09-30",
+ "cours": 123.3,
+ "coursLe": "2026-10-01",
  "devise": "€",
  "faits": [
   {
@@ -146,10 +146,6 @@
   }
  ],
  "histo": [
-  [
-   "22/09",
-   121.8
-  ],
   [
    "23/09",
    122.7
@@ -1185,6 +1181,10 @@
   [
    "30/09",
    115.7
+  ],
+  [
+   "01/10",
+   123.3
   ]
  ],
  "nom": "Reply",
@@ -1193,9 +1193,9 @@
  "per26": 16.2,
  "per27": 14.8,
  "perf": {
-  "m1": -5.6,
-  "m3": 18.1,
-  "m12": -6.7
+  "m1": 1.6,
+  "m3": 26.5,
+  "m12": 0.2
  },
  "pub": "2026-11-12",
  "pubLabel": "Résultats du T3",
