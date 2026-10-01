@@ -22,7 +22,7 @@
   },
   {
    "label": "OAT 10 ans",
-   "valeur": "environ 4,8 %",
+   "valeur": "4,8 %",
    "var": "stable",
    "sens": 0,
    "note": "fin de séance du 30/09 ; +61 pb sur septembre, plus forte hausse trimestrielle depuis 1987"
@@ -43,10 +43,10 @@
   },
   {
    "label": "Brent",
-   "valeur": "environ 98 à 99 $",
+   "valeur": "98,86 $",
    "var": "+1,8 à +2,8 %",
    "sens": -1,
-   "note": "contrat de décembre, devenu la référence le 30/09 ; les sources divergent d'environ 1 $"
+   "note": "contrat de décembre, clôture du 30/09 selon BFM Bourse (97,92 $ selon Trading Economics)"
   },
   {
    "label": "CAC Small",
