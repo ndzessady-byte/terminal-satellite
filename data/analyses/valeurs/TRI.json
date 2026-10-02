@@ -104,15 +104,15 @@
    "https://www.xtb.com/fr/analyses-marches/dette-francaise-le-spread-oat-bund-franchit-100-points"
   ],
   "tech": {
-   "bas52": 125.5,
-   "cours": 125.5,
-   "coursLe": "2026-10-01",
+   "bas52": 125.2,
+   "cours": 125.2,
+   "coursLe": "2026-10-02",
    "haut52": 178.2,
-   "lecture": "Cours de 125,50 en dessous de sa moyenne 50 jours (147,99) et en dessous de sa moyenne 200 jours (154,74). RSI 18,5 : élan faible. Il se situe à 0 % de sa fourchette sur un an (de 125,50 à 178,20), performance sur 12 mois de -15,1 %. Clôture du 01/10/2026.",
-   "mm200": 154.74,
-   "mm50": 147.99,
+   "lecture": "Cours de 125,20 en dessous de sa moyenne 50 jours (147,54) et en dessous de sa moyenne 200 jours (154,51). RSI 18,2 : élan faible. Il se situe à 0 % de sa fourchette sur un an (de 125,20 à 178,20), performance sur 12 mois de -14,4 %. Clôture du 02/10/2026.",
+   "mm200": 154.51,
+   "mm50": 147.54,
    "resistance": 139.2,
-   "rsi14": 18.5,
+   "rsi14": 18.2,
    "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json",
    "stade": 4,
    "support": 126,
@@ -135,10 +135,14 @@
   }
  },
  "capi": "2,53 Md€",
- "cours": 125.5,
- "coursLe": "2026-10-01",
+ "cours": 125.2,
+ "coursLe": "2026-10-02",
  "devise": "€",
  "faits": [
+  {
+   "d": "01/10",
+   "t": "Le titre recule de 2,79 % à 125,50 € le jour où l'OAT 10 ans touche son plus haut depuis 2002, sans nouvelle propre à la société ; il entre dans sa zone d'intérêt."
+  },
   {
    "d": "29/09",
    "t": "Détachement du 2e acompte de 2,40 € (confirmé), paiement le 01/10."
@@ -150,17 +154,9 @@
   {
    "d": "24/09",
    "t": "UBS abaisse son objectif de 187 à 179 €, opinion positive maintenue."
-  },
-  {
-   "d": "23/09",
-   "t": "CA annuel 2025/26 : 3,8 Md€ (+3,8 %), marge opérationnelle attendue proche de 10 %."
   }
  ],
  "histo": [
-  [
-   "25/09",
-   150.6
-  ],
   [
    "26/09",
    147.6
@@ -1196,6 +1192,10 @@
   [
    "01/10",
    125.5
+  ],
+  [
+   "02/10",
+   125.2
   ]
  ],
  "nom": "Trigano",
@@ -1204,9 +1204,9 @@
  "per26": 9.09,
  "per27": 8.3,
  "perf": {
-  "m1": -16.9,
-  "m3": -13.4,
-  "m12": -15.1
+  "m1": -18.5,
+  "m3": -13.8,
+  "m12": -14.4
  },
  "pub": "2026-11-24",
  "pubLabel": "Résultats annuels (indicatif)",

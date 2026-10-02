@@ -1,67 +1,67 @@
 {
  "asOf": "2026-10-02",
  "attention": [
-  "Emploi américain à 14h30 : un chiffre fort renforcerait la hausse des taux attendue de la Fed.",
-  "Inflation à 3,8 % et écart OAT/Bund au plus haut depuis 2012 : Thermador, Wavestone, Aubay et Trigano restent les plus exposées. Aucune valeur n'est entrée en zone d'intérêt.",
-  "OPEP+ le 04/10, puis les publications du T3 : Medistim le 23/10, Aalberts et Kitron le 22/10, Viscofan le 22/10."
+  "Quatre valeurs sont entrées dans leur zone d'intérêt sans mauvaise nouvelle propre : Trigano (125,20 €, depuis le 01/10), Vidrala (84,80 €), Aubay (50,00 €) et Jacquet Metals (19,50 €). La baisse vient du marché (taux, risque France).",
+  "Proches de leur zone : USS, Globus Medical, Thermador, Virbac, Viscofan, Wavestone.",
+  "OPEP+ le 04/10, puis les publications du T3 : Thermador le 15/10, Virbac le 19/10, Vusion le 20/10, Aalberts, Kitron et Viscofan le 22/10."
  ],
  "etf": {
   "nom": "Amundi PEA Monde MSCI World (DCAM)",
-  "cours": 6.251,
-  "coursLe": "2026-10-01",
+  "cours": 6.308,
+  "coursLe": "2026-10-02",
   "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json"
  },
  "exclues": "Exail exclue : offre de Thales à 134 € par action, le cours suit le prix de l'offre.",
  "macro": [
   {
    "label": "CAC 40",
-   "valeur": "7 964,51",
-   "var": "-0,89 %",
-   "sens": -1,
-   "note": "clôture du 30/09 : sous 8 000 pts pour la première fois depuis le 20/05, pénalisé par l'inflation française et le budget"
+   "valeur": "7 897,19",
+   "var": "+0,79 %",
+   "sens": 1,
+   "note": "rebond grâce au recul du pétrole et à un emploi américain faible ; -2,2 % sur la semaine"
   },
   {
    "label": "OAT 10 ans",
-   "valeur": "4,8 %",
-   "var": "stable",
+   "valeur": "vers 4,9 %",
+   "var": "n.c.",
    "sens": 0,
-   "note": "fin de séance du 30/09 ; +61 pb sur septembre, plus forte hausse trimestrielle depuis 1987"
+   "note": "4,90 % le 01/10, plus haut depuis 2002 ; clôture du 02/10 non confirmée par deux sources"
   },
   {
    "label": "Écart OAT / Bund",
-   "valeur": "120 pb",
-   "var": "+8 pb",
+   "valeur": "vers 130 pb",
+   "var": "n.c.",
    "sens": -1,
-   "note": "plus haut depuis 2012 le 30/09 (Bund à 3,59 %)"
+   "note": "130 pb le 01/10, plus large depuis 2012 ; clôture du 02/10 non confirmée"
   },
   {
    "label": "BCE taux de dépôt",
    "valeur": "2,50 %",
    "var": "inchangé",
    "sens": 0,
-   "note": "en vigueur depuis le 16/09"
+   "note": "prochaine réunion le 29/10"
   },
   {
    "label": "Brent",
-   "valeur": "98,86 $",
-   "var": "+1,8 à +2,8 %",
-   "sens": -1,
-   "note": "contrat de décembre, clôture du 30/09 selon BFM Bourse (97,92 $ selon Trading Economics)"
+   "valeur": "101,1 à 101,5 $",
+   "var": "-0,8 %",
+   "sens": 1,
+   "note": "le G7 annonce jusqu'à 100 millions de barils de stocks libérés"
   },
   {
-   "label": "CAC Small",
-   "valeur": "15 699",
-   "var": "-0,34 %",
+   "label": "CAC Mid & Small",
+   "valeur": "vers 13 809",
+   "var": "-0,20 %",
    "sens": -1,
-   "note": "cours en séance à 12h48 le 30/09, clôture non confirmée ; -2,25 % sur 5 jours"
+   "note": "source unique ; les petites valeurs restent à la traîne"
   }
  ],
- "majLe": "2026-10-02T13:55:00+02:00",
+ "majLe": "2026-10-02T19:55:00+02:00",
  "semaine": "28 septembre au 2 octobre 2026",
  "semaineTexte": [
-  "Mercredi 30/09 : CAC 40 -0,89 % à 7 964 pts, inflation française à 3,0 %, écart OAT/Bund à 120 pb (plus haut depuis 2012).",
-  "Jeudi 01/10 midi : budget 2027 présenté, écart OAT/Bund au-dessus de 130 pb, CAC 40 vers -1,3 % à 7 861 pts (banques -3 %), Brent au-dessus de 100 $.",
-  "Vendredi 02/10 midi : inflation zone euro à 3,8 % (plus haut depuis 2023), CAC 40 en rebond d'environ 1 % vers 7 910 pts, Brent juste sous 100 $."
+  "Lundi à jeudi : budget 2027 mal reçu, OAT 10 ans à son plus haut depuis 2002, écart avec le Bund au plus large depuis 2012, Brent au-dessus de 100 $.",
+  "Vendredi 02/10 : inflation zone euro à 3,8 %, mais seulement 29 000 emplois créés aux États-Unis, ce qui éloigne une hausse de la Fed.",
+  "Le CAC 40 regagne 0,79 % à 7 897 pts vendredi mais perd 2,2 % sur la semaine."
  ],
  "watchlistValidee": false
 }

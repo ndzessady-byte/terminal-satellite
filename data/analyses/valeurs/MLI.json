@@ -3,8 +3,8 @@
  "nom": "Mueller Industries",
  "pays": "US",
  "secteur": "Industrie (tubes et raccords en cuivre)",
- "cours": 61.275,
- "coursLe": "2026-10-01",
+ "cours": 62.73,
+ "coursLe": "2026-10-02",
  "devise": "USD",
  "capi": "environ 13,4 Md$ (environ 11,8 Md€)",
  "per26": 14.4,
@@ -37,10 +37,6 @@
  "yahoo": "MLI",
  "compte": "CTO",
  "histo": [
-  [
-   "19/09",
-   49.83
-  ],
   [
    "22/09",
    50.5
@@ -1075,13 +1071,17 @@
   ],
   [
    "01/10",
-   61.27
+   61.32
+  ],
+  [
+   "02/10",
+   62.73
   ]
  ],
  "perf": {
-  "m1": 0.4,
-  "m3": 8.5,
-  "m12": 22.6
+  "m1": 1.1,
+  "m3": 10.4,
+  "m12": 24.8
  },
  "analyse": {
   "majLe": "2026-10-01",
@@ -1100,18 +1100,18 @@
    "greenblatt": "Rendement bénéficiaire (résultat opérationnel 2025 / valeur d'entreprise) proche de 8 % et rendement du capital très élevé (peu d'investissements nécessaires) : profil favorable sur la formule magique. Piotroski estimé à 6 sur 9 (ratio de liquidité 2025 et marge brute non vérifiés)."
   },
   "tech": {
-   "cours": 61.275,
-   "coursLe": "2026-10-01",
-   "mm50": 63.56,
-   "mm200": 62.33,
-   "rsi14": 48.5,
+   "cours": 62.73,
+   "coursLe": "2026-10-02",
+   "mm50": 63.55,
+   "mm200": 62.36,
+   "rsi14": 56.9,
    "haut52": 70.42,
    "bas52": 48.48,
    "support": 59.9,
    "resistance": 64.2,
    "tendance": "neutre",
    "stade": 3,
-   "lecture": "Cours de 61,27 en dessous de sa moyenne 50 jours (63,56) et en dessous de sa moyenne 200 jours (62,33). RSI 48,5 : élan neutre. Il se situe à 58 % de sa fourchette sur un an (de 48,48 à 70,42), performance sur 12 mois de 22,6 %. Clôture du 01/10/2026.",
+   "lecture": "Cours de 62,73 en dessous de sa moyenne 50 jours (63,55) et au-dessus de sa moyenne 200 jours (62,36). RSI 56,9 : élan neutre. Il se situe à 65 % de sa fourchette sur un an (de 48,48 à 70,42), performance sur 12 mois de 24,8 %. Clôture du 02/10/2026.",
    "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json"
   },
   "actu": [

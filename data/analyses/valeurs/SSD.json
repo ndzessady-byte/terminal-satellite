@@ -3,8 +3,8 @@
  "nom": "Simpson Manufacturing",
  "pays": "US",
  "secteur": "Industrie (produits de construction)",
- "cours": 172.31,
- "coursLe": "2026-10-01",
+ "cours": 174.105,
+ "coursLe": "2026-10-02",
  "devise": "USD",
  "capi": "7,0 Md USD (environ 6,2 Md EUR)",
  "per26": null,
@@ -37,10 +37,6 @@
  "yahoo": "SSD",
  "compte": "CTO",
  "histo": [
-  [
-   "19/09",
-   181.87
-  ],
   [
    "22/09",
    180.27
@@ -1075,13 +1071,17 @@
   ],
   [
    "01/10",
-   172.31
+   172.59
+  ],
+  [
+   "02/10",
+   174.1
   ]
  ],
  "perf": {
-  "m1": -2.6,
-  "m3": -14.2,
-  "m12": 3.0
+  "m1": -1.9,
+  "m3": -11.9,
+  "m12": 2.9
  },
  "analyse": {
   "majLe": "2026-10-01",
@@ -1100,18 +1100,18 @@
    "greenblatt": "Rendement bénéficiaire (résultat opérationnel 2025 de 458,1 M$ / valeur d'entreprise d'environ 6,9 Md$) proche de 6,6 % et rendement du capital élevé : profil correct mais pas exceptionnel sur la formule magique. Piotroski non calculé (bilan 2024 complet non vérifié)."
   },
   "tech": {
-   "cours": 172.31,
-   "coursLe": "2026-10-01",
-   "mm50": 184.0,
-   "mm200": 184.53,
-   "rsi14": 40.8,
+   "cours": 174.105,
+   "coursLe": "2026-10-02",
+   "mm50": 183.71,
+   "mm200": 184.56,
+   "rsi14": 44.5,
    "haut52": 210.06,
    "bas52": 158.0,
    "support": 158.0,
    "resistance": 184.0,
    "tendance": "baissiere",
    "stade": 4,
-   "lecture": "Cours de 172,31 en dessous de sa moyenne 50 jours (184,00) et en dessous de sa moyenne 200 jours (184,53). RSI 40,8 : élan neutre. Il se situe à 27 % de sa fourchette sur un an (de 158,00 à 210,06), performance sur 12 mois de 3,0 %. Clôture du 01/10/2026.",
+   "lecture": "Cours de 174,10 en dessous de sa moyenne 50 jours (183,71) et en dessous de sa moyenne 200 jours (184,56). RSI 44,5 : élan neutre. Il se situe à 31 % de sa fourchette sur un an (de 158,00 à 210,06), performance sur 12 mois de 2,9 %. Clôture du 02/10/2026.",
    "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json"
   },
   "actu": [

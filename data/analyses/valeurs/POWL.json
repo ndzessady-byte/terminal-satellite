@@ -3,8 +3,8 @@
  "nom": "Powell Industries",
  "pays": "US",
  "secteur": "Équipements électriques (data centers, énergie)",
- "cours": 190.43,
- "coursLe": "2026-10-01",
+ "cours": 194.96,
+ "coursLe": "2026-10-02",
  "devise": "USD",
  "capi": "environ 6,7 Md$ (environ 5,9 Md€)",
  "per26": null,
@@ -37,10 +37,6 @@
  "yahoo": "POWL",
  "compte": "CTO",
  "histo": [
-  [
-   "19/09",
-   99.1
-  ],
   [
    "22/09",
    100.97
@@ -1075,13 +1071,17 @@
   ],
   [
    "01/10",
-   190.43
+   190.6
+  ],
+  [
+   "02/10",
+   194.96
   ]
  ],
  "perf": {
-  "m1": 10.6,
-  "m3": -22.7,
-  "m12": 80.1
+  "m1": 14.3,
+  "m3": -21.4,
+  "m12": 90.2
  },
  "analyse": {
   "majLe": "2026-10-01",
@@ -1100,18 +1100,18 @@
    "greenblatt": "Rendement bénéficiaire (résultat opérationnel 2025 de 217,9 M$ / valeur d'entreprise d'environ 6,1 Md$) d'environ 3,6 % : profil défavorable sur la formule magique malgré un rendement du capital élevé. Piotroski non calculé (bilan complet non vérifié)."
   },
   "tech": {
-   "cours": 190.43,
-   "coursLe": "2026-10-01",
-   "mm50": 194.91,
-   "mm200": 207.22,
-   "rsi14": 51.7,
+   "cours": 194.96,
+   "coursLe": "2026-10-02",
+   "mm50": 193.97,
+   "mm200": 207.65,
+   "rsi14": 55.5,
    "haut52": 322.05,
    "bas52": 94.02,
    "support": 170.5,
    "resistance": 195.0,
-   "tendance": "baissiere",
-   "stade": 4,
-   "lecture": "Cours de 190,43 en dessous de sa moyenne 50 jours (194,91) et en dessous de sa moyenne 200 jours (207,22). RSI 51,7 : élan neutre. Il se situe à 42 % de sa fourchette sur un an (de 94,02 à 322,05), performance sur 12 mois de 80,1 %. Clôture du 01/10/2026.",
+   "tendance": "neutre",
+   "stade": 1,
+   "lecture": "Cours de 194,96 au-dessus de sa moyenne 50 jours (193,97) et en dessous de sa moyenne 200 jours (207,65). RSI 55,5 : élan neutre. Il se situe à 44 % de sa fourchette sur un an (de 94,02 à 322,05), performance sur 12 mois de 90,2 %. Clôture du 02/10/2026.",
    "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json"
   },
   "actu": [

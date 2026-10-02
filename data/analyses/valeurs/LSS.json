@@ -104,14 +104,14 @@
   ],
   "tech": {
    "bas52": 15.2,
-   "cours": 20.85,
-   "coursLe": "2026-10-01",
+   "cours": 20.3,
+   "coursLe": "2026-10-02",
    "haut52": 25.5,
-   "lecture": "Cours de 20,85 en dessous de sa moyenne 50 jours (21,59) et au-dessus de sa moyenne 200 jours (19,46). RSI 44,9 : élan neutre. Il se situe à 55 % de sa fourchette sur un an (de 15,20 à 25,50), performance sur 12 mois de -13,5 %. Clôture du 01/10/2026.",
-   "mm200": 19.46,
-   "mm50": 21.59,
+   "lecture": "Cours de 20,30 en dessous de sa moyenne 50 jours (21,63) et au-dessus de sa moyenne 200 jours (19,45). RSI 39,3 : élan neutre. Il se situe à 50 % de sa fourchette sur un an (de 15,20 à 25,50), performance sur 12 mois de -14,2 %. Clôture du 02/10/2026.",
+   "mm200": 19.45,
+   "mm50": 21.63,
    "resistance": 23.4,
-   "rsi14": 44.9,
+   "rsi14": 39.3,
    "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json",
    "stade": 3,
    "support": 20.5,
@@ -134,8 +134,8 @@
   }
  },
  "capi": "903 M€",
- "cours": 20.85,
- "coursLe": "2026-10-01",
+ "cours": 20.3,
+ "coursLe": "2026-10-02",
  "devise": "€",
  "faits": [
   {
@@ -152,10 +152,6 @@
   }
  ],
  "histo": [
-  [
-   "25/09",
-   23.2
-  ],
   [
    "26/09",
    23.1
@@ -1191,6 +1187,10 @@
   [
    "01/10",
    20.85
+  ],
+  [
+   "02/10",
+   20.3
   ]
  ],
  "nom": "Lectra",
@@ -1199,9 +1199,9 @@
  "per26": 30.4,
  "per27": 23.4,
  "perf": {
-  "m1": -4.4,
-  "m3": 14.9,
-  "m12": -13.5
+  "m1": -8.1,
+  "m3": 12.0,
+  "m12": -14.2
  },
  "pub": "2026-10-28",
  "pubLabel": "CA du T3",

@@ -105,14 +105,14 @@
   ],
   "tech": {
    "bas52": 31.8,
-   "cours": 42.35,
-   "coursLe": "2026-10-01",
+   "cours": 42.55,
+   "coursLe": "2026-10-02",
    "haut52": 45.7,
-   "lecture": "Cours de 42,35 en dessous de sa moyenne 50 jours (43,52) et au-dessus de sa moyenne 200 jours (40,07). RSI 41,6 : élan neutre. Il se situe à 76 % de sa fourchette sur un an (de 31,80 à 45,70), performance sur 12 mois de 22,9 %. Clôture du 01/10/2026.",
+   "lecture": "Cours de 42,55 en dessous de sa moyenne 50 jours (43,53) et au-dessus de sa moyenne 200 jours (40,07). RSI 43,3 : élan neutre. Il se situe à 77 % de sa fourchette sur un an (de 31,80 à 45,70), performance sur 12 mois de 23,2 %. Clôture du 02/10/2026.",
    "mm200": 40.07,
-   "mm50": 43.52,
+   "mm50": 43.53,
    "resistance": 47.65,
-   "rsi14": 41.6,
+   "rsi14": 43.3,
    "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json",
    "stade": 3,
    "support": 39.9,
@@ -136,8 +136,8 @@
   }
  },
  "capi": "0,8 Md€",
- "cours": 42.35,
- "coursLe": "2026-10-01",
+ "cours": 42.55,
+ "coursLe": "2026-10-02",
  "devise": "€",
  "faits": [
   {
@@ -158,10 +158,6 @@
   }
  ],
  "histo": [
-  [
-   "18/09",
-   38.15
-  ],
   [
    "19/09",
    37.4
@@ -1197,6 +1193,10 @@
   [
    "01/10",
    42.35
+  ],
+  [
+   "02/10",
+   42.55
   ]
  ],
  "nom": "Harvia",
@@ -1205,9 +1205,9 @@
  "per26": 23.8,
  "per27": 19.4,
  "perf": {
-  "m1": -2.6,
-  "m3": 5.3,
-  "m12": 22.9
+  "m1": -2.0,
+  "m3": 7.9,
+  "m12": 23.2
  },
  "pub": "2026-10-29",
  "pubLabel": "Résultats 9 mois",

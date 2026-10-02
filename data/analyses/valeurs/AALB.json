@@ -103,14 +103,14 @@
   ],
   "tech": {
    "bas52": 26.04,
-   "cours": 42.64,
-   "coursLe": "2026-10-01",
+   "cours": 42.62,
+   "coursLe": "2026-10-02",
    "haut52": 45.08,
-   "lecture": "Cours de 42,64 en dessous de sa moyenne 50 jours (42,71) et au-dessus de sa moyenne 200 jours (36,47). RSI 53,3 : élan neutre. Il se situe à 87 % de sa fourchette sur un an (de 26,04 à 45,08), performance sur 12 mois de 50,1 %. Clôture du 01/10/2026.",
-   "mm200": 36.47,
-   "mm50": 42.71,
+   "lecture": "Cours de 42,62 en dessous de sa moyenne 50 jours (42,72) et au-dessus de sa moyenne 200 jours (36,55). RSI 53,2 : élan neutre. Il se situe à 87 % de sa fourchette sur un an (de 26,04 à 45,08), performance sur 12 mois de 52,7 %. Clôture du 02/10/2026.",
+   "mm200": 36.55,
+   "mm50": 42.72,
    "resistance": 45.5,
-   "rsi14": 53.3,
+   "rsi14": 53.2,
    "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json",
    "stade": 3,
    "support": 38.78,
@@ -134,8 +134,8 @@
   }
  },
  "capi": "4,5 Md€",
- "cours": 42.64,
- "coursLe": "2026-10-01",
+ "cours": 42.62,
+ "coursLe": "2026-10-02",
  "devise": "€",
  "faits": [
   {
@@ -156,10 +156,6 @@
   }
  ],
  "histo": [
-  [
-   "25/09",
-   28.06
-  ],
   [
    "26/09",
    27.84
@@ -1195,6 +1191,10 @@
   [
    "01/10",
    42.64
+  ],
+  [
+   "02/10",
+   42.62
   ]
  ],
  "nom": "Aalberts",
@@ -1203,9 +1203,9 @@
  "per26": 18.7,
  "per27": 15.8,
  "perf": {
-  "m1": 1.0,
-  "m3": 5.2,
-  "m12": 50.1
+  "m1": 1.1,
+  "m3": 8.4,
+  "m12": 52.7
  },
  "pub": "2026-10-22",
  "pubLabel": "Point d'activité du T3",
