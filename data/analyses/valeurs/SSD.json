@@ -14,6 +14,10 @@
  "risque": "Très dépendante de la construction de logements neufs aux États-Unis et des taux d'intérêt ; volumes en baisse compensés par les prix ; cours sous ses moyennes 50 et 200 jours ; risque de change euro/dollar.",
  "faits": [
   {
+   "d": "01/10",
+   "t": "Date d'enregistrement du dividende trimestriel de 0,30 $, versé le 22/10."
+  },
+  {
    "d": "27/07",
    "t": "T2 2026 : CA 671,1 M$ (+6,3 %), marge opérationnelle record de 25,2 % (contre 22,2 %), BPA dilué 3,09 $ (+25,1 %)."
   },
@@ -24,10 +28,6 @@
   {
    "d": "27/07",
    "t": "Trésorerie de 450,5 M$ pour 336,7 M$ de dette au 30/06 ; 48,7 M$ de rachats d'actions au T2 ; dividende de 0,30 $ par trimestre."
-  },
-  {
-   "d": "09/02",
-   "t": "Exercice 2025 : CA 2 333 M$ (+4,5 %), marge opérationnelle 19,6 %, BPA dilué 8,24 $ (+8,4 %)."
   }
  ],
  "pub": null,
@@ -1116,6 +1116,13 @@
   },
   "actu": [
    {
+    "d": "juillet à septembre",
+    "fait": "Le titre a reculé de 210 $ fin juin à 171 $ fin septembre (-19 %).",
+    "impact": "negatif",
+    "horizon": "court",
+    "lecture": "Le marché doute d'une reprise rapide du logement neuf américain ; la valorisation redevient plus raisonnable."
+   },
+   {
     "d": "27/07",
     "fait": "T2 2026 : CA de 671,1 M$ (+6,3 %), marge brute de 47,4 %, marge opérationnelle record de 25,2 %, BPA de 3,09 $ (+25,1 %). Europe : marge record de 13,7 %.",
     "impact": "positif",
@@ -1128,13 +1135,6 @@
     "impact": "neutre",
     "horizon": "court",
     "lecture": "La prévision annuelle implique un second semestre nettement moins rentable que le T2 (environ 17 à 18 %), ce qui explique en partie le recul du cours."
-   },
-   {
-    "d": "juillet à septembre",
-    "fait": "Le titre a reculé de 210 $ fin juin à 171 $ fin septembre (-19 %).",
-    "impact": "negatif",
-    "horizon": "court",
-    "lecture": "Le marché doute d'une reprise rapide du logement neuf américain ; la valorisation redevient plus raisonnable."
    }
   ],
   "scenarios": [
@@ -1179,6 +1179,7 @@
    "Weinstein (stades)"
   ],
   "sources": [
+   "https://www.prnewswire.com/news-releases/simpson-manufacturing-co-inc-declares-quarterly-dividend-302833697.html",
    "https://www.prnewswire.com/news-releases/simpson-manufacturing-co-inc-announces-2026-second-quarter-financial-results-and-updates-2026-guidance-302835215.html",
    "https://www.prnewswire.com/news-releases/simpson-manufacturing-co-inc-announces-2025-fourth-quarter-and-full-year-financial-results-provides-2026-outlook-302682948.html",
    "https://s27.q4cdn.com/813048489/files/doc_financials/2025/q4/Q4-2025-EX-99-1-Press-Release-Final-Final.pdf",

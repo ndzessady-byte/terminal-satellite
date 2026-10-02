@@ -1,9 +1,9 @@
 {
- "asOf": "2026-10-01",
+ "asOf": "2026-10-02",
  "attention": [
-  "Écart OAT/Bund au-dessus de 130 pb après le budget : Thermador, Wavestone, Aubay et Trigano restent les plus exposées. Aucune valeur n'est entrée en zone d'intérêt ce midi.",
-  "Vendredi 02/10 : inflation de septembre en zone euro et emploi américain, avec un Brent au-dessus de 100 $ qui pousse les taux.",
-  "Ormuz bloqué après l'expulsion de la délégation iranienne ; OPEP+ le 04/10, examen du budget à l'Assemblée dès le 13/10."
+  "Emploi américain à 14h30 : un chiffre fort renforcerait la hausse des taux attendue de la Fed.",
+  "Inflation à 3,8 % et écart OAT/Bund au plus haut depuis 2012 : Thermador, Wavestone, Aubay et Trigano restent les plus exposées. Aucune valeur n'est entrée en zone d'intérêt.",
+  "OPEP+ le 04/10, puis les publications du T3 : Medistim le 23/10, Aalberts et Kitron le 22/10, Viscofan le 22/10."
  ],
  "etf": {
   "nom": "Amundi PEA Monde MSCI World (DCAM)",
@@ -56,12 +56,12 @@
    "note": "cours en séance à 12h48 le 30/09, clôture non confirmée ; -2,25 % sur 5 jours"
   }
  ],
- "majLe": "2026-10-01T13:55:00+02:00",
+ "majLe": "2026-10-02T13:55:00+02:00",
  "semaine": "28 septembre au 2 octobre 2026",
  "semaineTexte": [
-  "Mardi 29/09 : le pétrole reflue avec la reprise des flux du Golfe, mais trois pétroliers sont touchés par des projectiles près d'Ormuz.",
   "Mercredi 30/09 : CAC 40 -0,89 % à 7 964 pts, inflation française à 3,0 %, écart OAT/Bund à 120 pb (plus haut depuis 2012).",
-  "Jeudi 01/10 midi : budget 2027 présenté, écart OAT/Bund au-dessus de 130 pb, CAC 40 vers -1,3 % à 7 861 pts (banques -3 %), Brent au-dessus de 100 $."
+  "Jeudi 01/10 midi : budget 2027 présenté, écart OAT/Bund au-dessus de 130 pb, CAC 40 vers -1,3 % à 7 861 pts (banques -3 %), Brent au-dessus de 100 $.",
+  "Vendredi 02/10 midi : inflation zone euro à 3,8 % (plus haut depuis 2023), CAC 40 en rebond d'environ 1 % vers 7 910 pts, Brent juste sous 100 $."
  ],
  "watchlistValidee": false
 }

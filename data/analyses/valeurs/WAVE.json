@@ -3,18 +3,18 @@
   "aVerifier": "Moyenne mobile 200 jours non confirmée (Investing affichait 33,51 € le 09/09, chiffre incohérent avec une moyenne 100 jours de 37,92 € chez Zonebourse, donc écarté). RSI 14 calculé par nous en moyenne simple sur les clôtures Investing, pas lu sur un site. ROE estimée par calcul. Prix exact de Sand Cherry et taille totale du programme de rachat d'actions non confirmés. Date des résultats semestriels à confirmer. Piotroski non calculable faute de bilan détaillé.",
   "actu": [
    {
-    "d": "29/07",
-    "fait": "Chiffre d'affaires du 1er trimestre 2026/27 en recul de 2 % (227 M€) et objectifs annuels abaissés : croissance organique entre -1 % et légère hausse, marge ramenée à 11 à 13 % contre environ 13 %. Le titre a chuté d'environ 24 % le 30/07 et plusieurs analystes ont abaissé leur opinion et leur objectif (TP ICAP 49 €, Marex 40 €, Portzamparc 46,6 €).",
-    "horizon": "moyen",
-    "impact": "negatif",
-    "lecture": "C'est la deuxième déception : elle montre que la demande de conseil ralentit (Allemagne, Suisse, Autriche, États-Unis, Royaume-Uni en baisse) et fragilise l'objectif 2030."
+    "d": "01/10",
+    "fait": "Accenture bat les attentes avec des commandes record et monte de plus de 20 % ; la presse y voit la preuve que l'IA crée de la demande de conseil.",
+    "impact": "positif",
+    "horizon": "court",
+    "lecture": "Signal de secteur favorable, mais il ne prouve rien pour Wavestone, dont l'activité reculait encore : le vrai test reste son CA du 29/10."
    },
    {
-    "d": "29/07",
-    "fait": "Acquisition d'AI Builders, cabinet français d'IA et de données (environ 50 consultants, 10,3 M€ de chiffre d'affaires visé en 2026, marge d'EBITDA de 15 %) pour 19,3 M€, payée en trésorerie. Les projets liés à l'IA représentent 22 % du chiffre d'affaires contre 17 % un an plus tôt.",
-    "horizon": "long",
-    "impact": "positif",
-    "lecture": "La principale crainte sur le titre est que l'IA remplace une partie du conseil : Wavestone essaie au contraire d'en faire un relais de croissance."
+    "d": "18/09",
+    "fait": "Le rendement de l'emprunt d'État français à 10 ans monte à 4,55 % et l'écart avec l'Allemagne dépasse 100 points de base pour la première fois depuis 2012, sur fond de dérapage budgétaire.",
+    "horizon": "moyen",
+    "impact": "negatif",
+    "lecture": "Des taux plus élevés et l'incertitude politique pèsent sur les petites et moyennes valeurs françaises et peuvent freiner les budgets de conseil des grandes entreprises."
    },
    {
     "d": "14/09",
@@ -24,11 +24,11 @@
     "lecture": "Cela renforce la présence aux États-Unis, zone clé du plan 2030, mais c'est justement une région où l'activité recule : l'intégration devra être prouvée."
    },
    {
-    "d": "18/09",
-    "fait": "Le rendement de l'emprunt d'État français à 10 ans monte à 4,55 % et l'écart avec l'Allemagne dépasse 100 points de base pour la première fois depuis 2012, sur fond de dérapage budgétaire.",
+    "d": "29/07",
+    "fait": "Chiffre d'affaires du 1er trimestre 2026/27 en recul de 2 % (227 M€) et objectifs annuels abaissés : croissance organique entre -1 % et légère hausse, marge ramenée à 11 à 13 % contre environ 13 %. Le titre a chuté d'environ 24 % le 30/07 et plusieurs analystes ont abaissé leur opinion et leur objectif (TP ICAP 49 €, Marex 40 €, Portzamparc 46,6 €).",
     "horizon": "moyen",
     "impact": "negatif",
-    "lecture": "Des taux plus élevés et l'incertitude politique pèsent sur les petites et moyennes valeurs françaises et peuvent freiner les budgets de conseil des grandes entreprises."
+    "lecture": "C'est la deuxième déception : elle montre que la demande de conseil ralentit (Allemagne, Suisse, Autriche, États-Unis, Royaume-Uni en baisse) et fragilise l'objectif 2030."
    }
   ],
   "cadres": [
@@ -89,6 +89,8 @@
    }
   ],
   "sources": [
+   "https://www.boursorama.com/bourse/actualites/les-resultats-d-accenture-propulsent-capgemini-en-tete-du-cac-40-7169cda288b8059734a2429c208def73",
+   "https://www.cnbc.com/2026/10/01/accenture-rallies-more-than-20percent-after-earnings-beat-heads-for-best-day-ever.html",
    "https://www.wavestone.com/en/regul-information/q1-2026-27-revenue-down-2-annual-targets-adjusted-ai-builders-targeted-acquisition-of-a-french-ai-and-data-player/",
    "https://www.wavestone.com/fr/regul-information/resultats-2025-26-resultat-net-en-progression-de-8-lead-the-shift-le-plan-strategique-de-wavestone-a-lhorizon-2030-2/",
    "https://www.zonebourse.com/actualite-bourse/le-marche-punit-wavestone-apres-une-nouvelle-deception-ce7f50dad98bf726",
@@ -139,16 +141,20 @@
  "devise": "€",
  "faits": [
   {
+   "d": "01/10",
+   "t": "Accenture publie des résultats meilleurs que prévu avec des commandes record ; son titre bondit de plus de 20 % et Capgemini de 7 à 9 % à Paris."
+  },
+  {
    "d": "28/09",
    "t": "Déclaration des rachats d'actions du 21 au 25/09 publiée."
   },
   {
-   "d": "14/09",
-   "t": "Rachat de Sand Cherry Associates (conseil, États-Unis) pour 35 M$."
-  },
-  {
    "d": "23/09",
    "t": "Nominations de nouveaux dirigeants."
+  },
+  {
+   "d": "14/09",
+   "t": "Rachat de Sand Cherry Associates (conseil, États-Unis) pour 35 M$."
   }
  ],
  "histo": [
@@ -1441,10 +1447,10 @@
     {
      "c": "Que la vague de l'IA crée plus de missions de conseil (le groupe vise 25 % d'activité nouvelle) qu'elle n'en détruit.",
      "etat": "watch",
-     "preuve": "T1 2026/27 : projets liés à l'IA à 22 % du CA (17 % un an plus tôt), mais CA total -2 %.",
+     "preuve": "01/10/2026 : Accenture +20 % après ses résultats, Capgemini +7 à 9 %.",
      "prochain": "CA du T2 le 29/10/2026",
-     "reponse": "L'IA progresse vite dans le mix mais ne compense pas encore les pertes ailleurs : le CA total recule.",
-     "source": "https://www.wavestone.com/en/regul-information/q1-2026-27-revenue-down-2-annual-targets-adjusted-ai-builders-targeted-acquisition-of-a-french-ai-and-data-player/"
+     "reponse": "Signal de secteur positif (Accenture, commandes record portées par l'IA), mais le CA de Wavestone reculait encore au T1.",
+     "source": "https://www.boursorama.com/bourse/actualites/les-resultats-d-accenture-propulsent-capgemini-en-tete-du-cac-40-7169cda288b8059734a2429c208def73"
     },
     {
      "c": "Que Wavestone réussisse sa percée aux États-Unis et au Royaume-Uni par acquisitions (400 à 500 M€ prévus d'ici 2030) sans surpayer.",
@@ -1463,7 +1469,7 @@
      "source": "https://www.wavestone.com/en/regul-information/q1-2026-27-revenue-down-2-annual-targets-adjusted-ai-builders-targeted-acquisition-of-a-french-ai-and-data-player/"
     }
    ],
-   "le": "2026-09-29",
+   "le": "2026-10-02",
    "questions": [
     {
      "etat": "ko",

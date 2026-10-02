@@ -14,16 +14,16 @@
  "risque": "Petite capitalisation peu liquide, dépendante de la moto haut de gamme et de la conjoncture européenne ; production 100 % japonaise, donc sensible au yen et aux droits de douane américains.",
  "faits": [
   {
+   "d": "01/10",
+   "t": "Hausse des prix des casques au Japon en vigueur, avec le service d'ajustement P.F.S. désormais inclus."
+  },
+  {
    "d": "31/07",
    "t": "9 mois (octobre 2025 à juin 2026) : CA 24,3 Md¥ (+6,2 %), résultat opérationnel 7,33 Md¥, bénéfice net 5,20 Md¥ ; 88 % de l'objectif annuel de résultat opérationnel déjà atteint."
   },
   {
    "d": "31/07",
    "t": "T3 seul (avril à juin) : CA 9,35 Md¥, résultat opérationnel 2,90 Md¥ (marge d'environ 31 %), aidé par un yen faible face au dollar et à l'euro."
-  },
-  {
-   "d": "24/04",
-   "t": "Premier semestre : résultat ordinaire de 4,54 Md¥, au-dessus des prévisions."
   },
   {
    "d": "01/05",
@@ -1116,18 +1116,11 @@
   },
   "actu": [
    {
-    "d": "31/07",
-    "fait": "9 mois : CA +6,2 % à 24,3 Md¥, résultat opérationnel 7,33 Md¥ (88 % de l'objectif annuel), bénéfice net 5,20 Md¥ ; prévision annuelle non relevée.",
+    "d": "11/2025",
+    "fait": "Programme de rachat d'actions autorisé (jusqu'à 1,7 million d'actions) et dividende maintenu à 60 ¥ pour 2026 malgré une prévision en baisse.",
     "impact": "positif",
-    "horizon": "court",
-    "lecture": "Sauf trimestre très faible, l'objectif annuel sera dépassé ; la société explique une partie de l'amélioration par le yen faible."
-   },
-   {
-    "d": "24/04",
-    "fait": "Premier semestre au-dessus des prévisions (résultat ordinaire de 4,54 Md¥).",
-    "impact": "positif",
-    "horizon": "court",
-    "lecture": "Premier signe que la baisse des volumes de 2024 et 2025 est terminée."
+    "horizon": "moyen",
+    "lecture": "La société commence à utiliser sa trésorerie pour ses actionnaires, avec un ratio de distribution visé de 50 %."
    },
    {
     "d": "14/11/2025",
@@ -1137,11 +1130,18 @@
     "lecture": "Montre que l'activité est cyclique ; la marge est restée très élevée (27,5 %) même dans une mauvaise année."
    },
    {
-    "d": "11/2025",
-    "fait": "Programme de rachat d'actions autorisé (jusqu'à 1,7 million d'actions) et dividende maintenu à 60 ¥ pour 2026 malgré une prévision en baisse.",
+    "d": "01/10",
+    "fait": "Nouvelle grille de prix au Japon : hausse des prix catalogue justifiée par les coûts des matières et de la logistique.",
     "impact": "positif",
     "horizon": "moyen",
-    "lecture": "La société commence à utiliser sa trésorerie pour ses actionnaires, avec un ratio de distribution visé de 50 %."
+    "lecture": "Nouvelle preuve du pouvoir de prix ; reste à voir si les volumes tiennent."
+   },
+   {
+    "d": "31/07",
+    "fait": "9 mois : CA +6,2 % à 24,3 Md¥, résultat opérationnel 7,33 Md¥ (88 % de l'objectif annuel), bénéfice net 5,20 Md¥ ; prévision annuelle non relevée.",
+    "impact": "positif",
+    "horizon": "court",
+    "lecture": "Sauf trimestre très faible, l'objectif annuel sera dépassé ; la société explique une partie de l'amélioration par le yen faible."
    }
   ],
   "scenarios": [
@@ -1187,6 +1187,7 @@
    "Weinstein (stades)"
   ],
   "sources": [
+   "https://www.shoei.com/news/",
    "https://finance.matsui.co.jp/stock/7839/settlement/index",
    "https://www.shoei.com/en/ir/library/",
    "https://www.tipranks.com/news/company-announcements/shoeis-third-quarter-earnings-rise-on-strong-sales-and-favorable-fx",
@@ -1324,7 +1325,7 @@
    "Comment la trésorerie abondante (environ 20 Md¥, sans dette) sera-t-elle utilisée : dividende, rachats d'actions ou nouvelles capacités de production ?"
   ],
   "suivi": {
-   "le": "2026-10-01",
+   "le": "2026-10-02",
    "bilan": "Les trois conditions tiennent ; le doute principal est la part du yen faible dans la reprise, qui sera mieux mesurée avec les résultats annuels de novembre.",
    "croire": [
     {
@@ -1338,9 +1339,9 @@
     {
      "c": "Que SHOEI garde son pouvoir de prix (environ 60 % du marché mondial du casque premium selon la société) et peut répercuter les droits de douane américains et les hausses de coûts.",
      "etat": "ok",
-     "reponse": "Oui : les hausses de prix ont compensé une partie de la baisse des volumes en 2025, et l'impact des droits de douane américains de 15 % a été intégré dans la prévision.",
-     "preuve": "Présentation des résultats 2025 : hausse du prix unitaire, part de marché d'environ 60 % dans le premium.",
-     "source": "https://www.shoei.com/ir/docs/35a515003510b12a84a7bb6660321a65977d1cda.pdf",
+     "reponse": "La société applique une hausse de prix au Japon depuis le 01/10 pour répercuter les coûts.",
+     "preuve": "Avis de révision des prix publié le 27/07, effectif au 01/10/2026.",
+     "source": "https://www.shoei.com/news/",
      "prochain": "Résultats annuels"
     },
     {

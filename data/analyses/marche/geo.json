@@ -1,6 +1,6 @@
 {
- "lecture": "Le budget 2027 n'a pas rassuré : l'écart avec le Bund dépasse 130 pb et l'OAT 10 ans touche son plus haut depuis 2002, ce qui fait reculer les banques et le CAC 40 sous 7 900 points. À Ormuz, les discussions sont bloquées et le Brent repasse au-dessus de 100 $. Pétrole cher et taux en hausse pèsent d'abord sur les petites valeurs françaises de la liste.",
- "majLe": "2026-10-01",
+ "lecture": "L'inflation de la zone euro à 3,8 % confirme que le choc pétrolier se diffuse et rend plus probables de nouvelles hausses de taux de la BCE. En France, le budget 2027 n'a calmé ni les partis ni le marché obligataire, et l'écart avec le Bund reste au plus haut depuis 2012. À Ormuz les discussions sont bloquées mais le pétrole du Golfe circule de nouveau, ce qui maintient le Brent autour de 100 $.",
+ "majLe": "2026-10-02",
  "matieres": {
   "ALU": {
    "moteurs": "L'aluminium reste haut (environ 3 260 $/t, +22 % sur un an) car la production du Golfe s'est effondrée avec la guerre, mais le dollar fort et les exportations chinoises le plafonnent.",
@@ -69,6 +69,10 @@
   {
    "faits": [
     {
+     "d": "02/10",
+     "t": "Pas de reprise des discussions ; les exportations du Golfe sont revenues près du niveau d'avant-guerre mais 13 navires ont été touchés depuis le 10/09. Brent juste sous 100 $."
+    },
+    {
      "d": "01/10",
      "t": "Les discussions entre Washington et Téhéran sont au point mort : la délégation iranienne à l'ONU doit quitter New York. Le Brent repasse au-dessus de 100 $ (environ 100,5 $, +2,6 %)."
     },
@@ -87,10 +91,6 @@
     {
      "d": "06/09",
      "t": "L'OPEP+ laisse sa production inchangée pour octobre ; un analyste de Rystad rappelle que l'OPEP+ a très peu de prise sur le marché physique tant qu'Ormuz est bloqué."
-    },
-    {
-     "d": "23/09",
-     "t": "Le vraquier Cape Dao (pavillon Antigua-et-Barbuda) est touché par un projectile d'origine inconnue près du Musandam (Oman) ; un marin indien tué, 27 rescapés. L'OMI recense 83 incidents et 23 marins tués depuis le début du conflit."
     }
    ],
    "id": "ormuz",
@@ -120,6 +120,7 @@
    "region": "Moyen-Orient / Golfe",
    "resume": "La guerre avec l'Iran, commencée fin février 2026, bloque toujours le détroit d'Ormuz par où passait environ un cinquième du pétrole mondial, et les États-Unis maintiennent un blocus des ports iraniens. Fin septembre, Trump a rejeté le plan iranien de réouverture et un vraquier a encore été touché près d'Oman. Le Brent est repassé au-dessus de 100 $ et c'est le premier moteur de l'inflation et des taux en ce moment.",
    "sources": [
+    "https://www.inquirer.com/news/nation-world/iran-strait-of-hormuz-oil-20261002.html",
     "https://www.axios.com/2026/10/01/rubio-iran-unga-delegation-kicked-out",
     "https://timesofisrael.com/iran-indicates-it-received-official-us-response-to-latest-offer-on-ending-war",
     "https://www.intellinews.com/ukmto-reports-three-tankers-struck-in-strait-of-hormuz-472319/",
@@ -136,7 +137,7 @@
     "Toute reprise de négociation États-Unis / Iran via le Qatar",
     "03/11 : élections de mi-mandat américaines, que Téhéran juge peu propices à un accord avant"
    ],
-   "tendance": "hausse",
+   "tendance": "stable",
    "titre": "Iran, États-Unis et détroit d'Ormuz",
    "valeurs": [
     {
@@ -174,6 +175,10 @@
   {
    "faits": [
     {
+     "d": "02/10",
+     "t": "L'inflation de la zone euro grimpe à 3,8 % sur un an en septembre (3,2 % en août), plus haut depuis 2023, tirée par l'énergie ; l'inflation de fond reste à 2,5 % (Eurostat)."
+    },
+    {
      "d": "01/10",
      "t": "L'OAT 10 ans monte vers 4,9 %, son plus haut depuis 2002. Chômage de la zone euro stable à 6,4 % en août."
     },
@@ -192,10 +197,6 @@
     {
      "d": "16/09",
      "t": "La Fed relève ses taux de 0,25 point à 3,75-4,00 %, à l'unanimité (12-0), invoquant une inflation « toujours élevée »."
-    },
-    {
-     "d": "29/09",
-     "t": "Les marchés intègrent environ 70 % de probabilité d'une nouvelle hausse de la Fed en octobre et environ 100 pb de hausses BCE d'ici fin 2027."
     }
    ],
    "id": "taux",
@@ -217,6 +218,7 @@
    "region": "Zone euro / États-Unis",
    "resume": "Le choc pétrolier relance l'inflation, et les deux grandes banques centrales ont remonté leurs taux en septembre au lieu de les baisser. Les marchés anticipent encore des hausses. C'est un vent contraire pour les petites et moyennes valeurs, pour l'immobilier et pour l'or.",
    "sources": [
+    "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-02102026-ap",
     "https://www.abcbourse.com/marches/newsContent/703529",
     "https://www.abcbourse.com/marches/les-taux-baissent-les-anticipations-d-une-hausse-des-taux-de-la-fed-en-octobre_703415",
     "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.mp260910~314e508016.en.html",
@@ -257,6 +259,10 @@
   {
    "faits": [
     {
+     "d": "02/10",
+     "t": "Le budget 2027 est critiqué de toutes parts : écologistes prêts à censurer, PS et RN hostiles, Medef opposé aux taxes sur les entreprises, Haut conseil des finances publiques qui juge la croissance de 1 % optimiste."
+    },
+    {
      "d": "01/10",
      "t": "Budget 2027 présenté : 43 Md€ de mesures nouvelles, gel des salaires publics et de la plupart des pensions, déficit visé à 5 % du PIB, 340 Md€ d'emprunts. L'écart OAT/Bund dépasse 130 pb en séance, les banques françaises reculent d'environ 3 %."
     },
@@ -288,6 +294,7 @@
    "region": "France",
    "resume": "Le gouvernement Lecornu présente un budget 2027 avec 54 Md€ d'effort pour ramener le déficit vers 4,8 à 5 % du PIB, mais la gauche promet la censure et le RN reste l'arbitre. L'écart de taux avec l'Allemagne est élevé mais s'est un peu détendu en fin de semaine dernière. C'est le risque principal pour les valeurs très françaises de ta liste.",
    "sources": [
+    "https://www.lessentiel.lu/fr/story/france-provocation-insupportable-le-budget-2027-deja-critique-103642655",
     "https://www.investing.com/news/economy-news/france-unveils-2027-budget-with-plan-to-cut-deficit-93CH-4926886",
     "https://www.newsquawk.com/headlines/market-update-oat-bund-10yr-yield-spread-hits-120bps-the-highest-since-2012",
     "https://www.journaldunet.com/business/action-publique/1555599-la-france-va-emprunter-un-montant-record-de-340-milliards-d-euros-sur-les-marches-en-2027/",

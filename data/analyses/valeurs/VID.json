@@ -90,6 +90,7 @@
    }
   ],
   "sources": [
+   "https://www.vidrala.com/en/investors/regulatory-filings/",
    "https://www.vidrala.com/es/actualidad/noticias/nace-vidrala-marinha-grande.html",
    "https://www.pressdigital.es/articulo/economia/2026-09-26/6029616-vidrala-unifica-operaciones-portugal-bajo-nombre-vidrala-marinha",
    "https://www.zonebourse.com/cours/action/VIDRALA-S-A-75235/",
@@ -139,6 +140,10 @@
  "coursLe": "2026-10-01",
  "devise": "€",
  "faits": [
+  {
+   "d": "28/09",
+   "t": "Rachat d'actions : déclaration hebdomadaire pour la semaine du 21 au 25/09."
+  },
   {
    "d": "26/09",
    "t": "Les deux usines portugaises sont regroupées sous le nom Vidrala Marinha : 900 salariés, 2,6 milliards d'emballages par an."
@@ -1417,13 +1422,13 @@
     {
      "c": "Que la direction utilise son bilan presque sans dette de façon intelligente (acquisitions, rachats d'actions, dividende en hausse).",
      "etat": "ok",
-     "preuve": "S1 2026 : dette nette 252,3 M€ (0,6 fois l'EBITDA) ; dividende +15 % ; rachat d'actions porté à 3 % du capital (90 M€ maximum) ; plus de 150 M€ rendus aux actionnaires en 2026.",
+     "preuve": "Déclarations à la CNMV des 07, 14, 21 et 28/09/2026.",
      "prochain": "Résultats T3 le 28/10/2026",
-     "reponse": "Oui : rachat ciblé au Chili, rachat d'actions élargi et dividende en forte hausse, tout en gardant une dette très faible.",
-     "source": "https://www.vidrala.com/en/press-room/news/vidrala-grows-earnings-despite-challenging-market-conditions-supported-by-internal-management-initiatives-and-south-americas-contribution.html"
+     "reponse": "Oui, le rachat d'actions continue chaque semaine.",
+     "source": "https://www.vidrala.com/en/investors/regulatory-filings/"
     }
    ],
-   "le": "2026-09-29",
+   "le": "2026-10-02",
    "questions": [
     {
      "etat": "watch",

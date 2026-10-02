@@ -14,6 +14,10 @@
  "risque": "Valorisation d'environ 35 fois les bénéfices des 12 derniers mois alors que le BPA ne progresse que d'environ 8 % et a manqué le consensus deux trimestres de suite ; dépendance encore forte au pétrole, au gaz et à la pétrochimie ; risque d'exécution sur les très grosses commandes ; risque de change sur le dollar.",
  "faits": [
   {
+   "d": "01/10",
+   "t": "Cantor Fitzgerald confirme sa note neutre et son objectif de 235 $ ; le titre gagne 3,3 % à 190,60 $."
+  },
+  {
    "d": "19/08",
    "t": "Détachement du dividende trimestriel (environ 0,09 $ par action après la division)."
   },
@@ -24,10 +28,6 @@
   {
    "d": "03/08",
    "t": "T3 2026 (au 30/06) : CA 312 M$ (+9 %), bénéfice net 52,2 M$ (+8 %), BPA 1,42 $ ; commandes 934 M$ (+158 %), carnet 2,4 Md$ (+69 %). Titre en baisse d'environ 14 %."
-  },
-  {
-   "d": "02/04",
-   "t": "Division de l'action par trois."
   }
  ],
  "pub": null,
@@ -1116,11 +1116,11 @@
   },
   "actu": [
    {
-    "d": "03/08",
-    "fait": "T3 2026 : CA de 312 M$ (+9 %), BPA de 1,42 $ (+8 %, sous le consensus de 1,49 $) ; commandes record de 934 M$ (+158 %), dont une commande data center de plus de 400 M$, une commande GNL d'environ 60 M$ et une commande pétrochimie et engrais d'environ 75 M$.",
-    "impact": "positif",
-    "horizon": "long",
-    "lecture": "La demande est exceptionnelle et se diversifie vers les data centers ; le marché a pourtant sanctionné le titre (environ -14 %) car le bénéfice ne suit pas encore."
+    "d": "01/10",
+    "fait": "Cantor Fitzgerald réitère sa note neutre (objectif 235 $) en citant une demande toujours forte ; le titre gagne 3,3 %.",
+    "impact": "neutre",
+    "horizon": "court",
+    "lecture": "L'analyste reconnaît la demande mais reste prudent sur la valorisation et la conversion du carnet en bénéfices."
    },
    {
     "d": "14/08",
@@ -1130,11 +1130,11 @@
     "lecture": "Réduit le risque d'exécution, mais confirme que la hausse du chiffre d'affaires sera progressive et non explosive."
    },
    {
-    "d": "mai à septembre",
-    "fait": "Le cours est passé de 322 $ en mai à environ 170 $ mi-septembre, puis 184 $ fin septembre.",
-    "impact": "negatif",
-    "horizon": "court",
-    "lecture": "Une partie de la prime liée à l'IA et aux data centers s'est dégonflée ; la valorisation reste pourtant élevée."
+    "d": "03/08",
+    "fait": "T3 2026 : CA de 312 M$ (+9 %), BPA de 1,42 $ (+8 %, sous le consensus de 1,49 $) ; commandes record de 934 M$ (+158 %), dont une commande data center de plus de 400 M$, une commande GNL d'environ 60 M$ et une commande pétrochimie et engrais d'environ 75 M$.",
+    "impact": "positif",
+    "horizon": "long",
+    "lecture": "La demande est exceptionnelle et se diversifie vers les data centers ; le marché a pourtant sanctionné le titre (environ -14 %) car le bénéfice ne suit pas encore."
    },
    {
     "d": "02/04",
@@ -1187,6 +1187,7 @@
    "Weinstein (stades)"
   ],
   "sources": [
+   "https://marketbeat.com/instant-alerts/analyst-cantor-fitzgerald-reaffirms-neutral-rating-for-powell-industries-nasdaq-powl-2026-10-01",
    "https://www.globenewswire.com/news-release/2026/08/03/3337870/0/en/Powell-Industries-Announces-Third-Quarter-Fiscal-2026-Results.html",
    "https://www.sec.gov/Archives/edgar/data/80420/000008042025000145/ex991-powlq4xfy2025earning.htm",
    "https://www.barchart.com/story/news/29669617/powell-industries-reports-strong-fourth-quarter-and-fiscal-2024-results-with-significant-revenue-and-net-income-growth",

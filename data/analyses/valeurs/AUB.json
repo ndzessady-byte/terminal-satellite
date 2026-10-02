@@ -89,6 +89,7 @@
    }
   ],
   "sources": [
+   "https://www.financialcontent.com/article/actus-2026-10-1-aubay-dclaration-des-droits-de-vote-au-30-septembre-2026",
    "https://www.financialcontent.com/article/actus-2026-9-29-aubay-mise-a-disposition-du-rapport-financier-semestriel-2026",
    "https://www.abcbourse.com/marches/newsContent/702648",
    "https://www.finanzwire.fr/article/aubay-epa-aub-les-resultats-semestriels-2026-daubay-affichent-une-croissance-significative-kv2doonfq76",
@@ -138,6 +139,10 @@
  "coursLe": "2026-10-01",
  "devise": "€",
  "faits": [
+  {
+   "d": "01/10",
+   "t": "Déclaration mensuelle des droits de vote au 30/09 (formalité)."
+  },
   {
    "d": "29/09",
    "t": "Rapport financier semestriel 2026 déposé auprès de l'AMF et mis en ligne."
