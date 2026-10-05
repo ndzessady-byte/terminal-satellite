@@ -1,6 +1,6 @@
 {
- "lecture": "L'inflation de la zone euro à 3,8 % confirme que le choc pétrolier se diffuse et rend plus probables de nouvelles hausses de taux de la BCE. En France, le budget 2027 n'a calmé ni les partis ni le marché obligataire, et l'écart avec le Bund reste au plus haut depuis 2012. À Ormuz les discussions sont bloquées mais le pétrole du Golfe circule de nouveau, ce qui maintient le Brent autour de 100 $.",
- "majLe": "2026-10-02",
+ "lecture": "L'OPEP+ ne change rien : tant qu'Ormuz reste perturbé, ce sont les flux et les attaques qui font le prix du pétrole, et les frappes revendiquées sur Aramco remettent une prime de risque. En France, le PS durcit le ton sur le budget et l'écart de taux avec l'Allemagne repart à la hausse. Paris sous-performe l'Europe, pénalisé par le risque budgétaire plus que par le pétrole.",
+ "majLe": "2026-10-05",
  "matieres": {
   "ALU": {
    "moteurs": "L'aluminium reste haut (environ 3 260 $/t, +22 % sur un an) car la production du Golfe s'est effondrée avec la guerre, mais le dollar fort et les exportations chinoises le plafonnent.",
@@ -69,6 +69,10 @@
   {
    "faits": [
     {
+     "d": "04/10",
+     "t": "L'OPEP+ laisse ses objectifs inchangés pour novembre, production toujours environ 5 millions de barils/jour sous l'avant-guerre. Les Houthis revendiquent des frappes sur des sites d'Aramco (Riyad conteste) et l'Iran rejette les dernières propositions américaines."
+    },
+    {
      "d": "02/10",
      "t": "Pas de reprise des discussions ; les exportations du Golfe sont revenues près du niveau d'avant-guerre mais 13 navires ont été touchés depuis le 10/09. Brent juste sous 100 $."
     },
@@ -87,10 +91,6 @@
     {
      "d": "fin 02",
      "t": "Début de la guerre avec l'Iran et fermeture du détroit d'Ormuz (environ 20 % du pétrole mondial). Pic du Brent à 118,35 $ le 31/03."
-    },
-    {
-     "d": "06/09",
-     "t": "L'OPEP+ laisse sa production inchangée pour octobre ; un analyste de Rystad rappelle que l'OPEP+ a très peu de prise sur le marché physique tant qu'Ormuz est bloqué."
     }
    ],
    "id": "ormuz",
@@ -120,6 +120,7 @@
    "region": "Moyen-Orient / Golfe",
    "resume": "La guerre avec l'Iran, commencée fin février 2026, bloque toujours le détroit d'Ormuz par où passait environ un cinquième du pétrole mondial, et les États-Unis maintiennent un blocus des ports iraniens. Fin septembre, Trump a rejeté le plan iranien de réouverture et un vraquier a encore été touché près d'Oman. Le Brent est repassé au-dessus de 100 $ et c'est le premier moteur de l'inflation et des taux en ce moment.",
    "sources": [
+    "https://www.cnbc.com/2026/10/04/opec-agrees-to-keep-november-oil-output-targets-steady.html",
     "https://www.inquirer.com/news/nation-world/iran-strait-of-hormuz-oil-20261002.html",
     "https://www.axios.com/2026/10/01/rubio-iran-unga-delegation-kicked-out",
     "https://timesofisrael.com/iran-indicates-it-received-official-us-response-to-latest-offer-on-ending-war",
@@ -137,7 +138,7 @@
     "Toute reprise de négociation États-Unis / Iran via le Qatar",
     "03/11 : élections de mi-mandat américaines, que Téhéran juge peu propices à un accord avant"
    ],
-   "tendance": "stable",
+   "tendance": "hausse",
    "titre": "Iran, États-Unis et détroit d'Ormuz",
    "valeurs": [
     {
@@ -259,6 +260,10 @@
   {
    "faits": [
     {
+     "d": "05/10",
+     "t": "Le PS juge le budget 2027 « pas acceptable », réclame une lettre rectificative et maintient la menace de censure ; Paris sous-performe l'Europe ce matin."
+    },
+    {
      "d": "02/10",
      "t": "Le budget 2027 est critiqué de toutes parts : écologistes prêts à censurer, PS et RN hostiles, Medef opposé aux taxes sur les entreprises, Haut conseil des finances publiques qui juge la croissance de 1 % optimiste."
     },
@@ -277,10 +282,6 @@
     {
      "d": "18/09",
      "t": "Lecornu annonce environ 54 Md€ d'effort, un déficit 2027 visé à 4,8-5 % du PIB (contre 6,5 % sans mesures), pas de hausse d'impôts, une surtaxe sur les grandes entreprises ramenée à 5 Md€ par an et les ETI sorties du champ."
-    },
-    {
-     "d": "25/09",
-     "t": "OAT 10 ans à 4,63 %, Bund à 3,58 %, écart à 105,4 pb (-4,5 pb sur la journée). Plus haut sur un an : 109,9 pb."
     }
    ],
    "id": "france",
@@ -294,6 +295,7 @@
    "region": "France",
    "resume": "Le gouvernement Lecornu présente un budget 2027 avec 54 Md€ d'effort pour ramener le déficit vers 4,8 à 5 % du PIB, mais la gauche promet la censure et le RN reste l'arbitre. L'écart de taux avec l'Allemagne est élevé mais s'est un peu détendu en fin de semaine dernière. C'est le risque principal pour les valeurs très françaises de ta liste.",
    "sources": [
+    "https://echosplus.com/2026/10/03/budget-2027-le-ps-presse-lecornu-de-revoir-sa-copie-et-maintient-la-menace-de-censure/",
     "https://www.lessentiel.lu/fr/story/france-provocation-insupportable-le-budget-2027-deja-critique-103642655",
     "https://www.investing.com/news/economy-news/france-unveils-2027-budget-with-plan-to-cut-deficit-93CH-4926886",
     "https://www.newsquawk.com/headlines/market-update-oat-bund-10yr-yield-spread-hits-120bps-the-highest-since-2012",

@@ -14,6 +14,10 @@
  "risque": "Valorisation d'environ 35 fois les bénéfices des 12 derniers mois alors que le BPA ne progresse que d'environ 8 % et a manqué le consensus deux trimestres de suite ; dépendance encore forte au pétrole, au gaz et à la pétrochimie ; risque d'exécution sur les très grosses commandes ; risque de change sur le dollar.",
  "faits": [
   {
+   "d": "03/10",
+   "t": "Petites ventes d'actions du PDG et d'un vice-président (déclarations SEC)."
+  },
+  {
    "d": "01/10",
    "t": "Cantor Fitzgerald confirme sa note neutre et son objectif de 235 $ ; le titre gagne 3,3 % à 190,60 $."
   },
@@ -24,10 +28,6 @@
   {
    "d": "14/08",
    "t": "Cantor Fitzgerald abaisse son objectif de 320 $ à 235 $ (neutre) après la mise à jour sur les capacités de production."
-  },
-  {
-   "d": "03/08",
-   "t": "T3 2026 (au 30/06) : CA 312 M$ (+9 %), bénéfice net 52,2 M$ (+8 %), BPA 1,42 $ ; commandes 934 M$ (+158 %), carnet 2,4 Md$ (+69 %). Titre en baisse d'environ 14 %."
   }
  ],
  "pub": null,
@@ -1187,6 +1187,7 @@
    "Weinstein (stades)"
   ],
   "sources": [
+   "https://www.marketbeat.com/stocks/NASDAQ/POWL/news",
    "https://marketbeat.com/instant-alerts/analyst-cantor-fitzgerald-reaffirms-neutral-rating-for-powell-industries-nasdaq-powl-2026-10-01",
    "https://www.globenewswire.com/news-release/2026/08/03/3337870/0/en/Powell-Industries-Announces-Third-Quarter-Fiscal-2026-Results.html",
    "https://www.sec.gov/Archives/edgar/data/80420/000008042025000145/ex991-powlq4xfy2025earning.htm",

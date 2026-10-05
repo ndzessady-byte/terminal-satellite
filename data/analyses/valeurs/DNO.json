@@ -14,6 +14,10 @@
  "risque": "Très dépendant du prix du pétrole et du gaz ; Kurdistan irakien à l'arrêt ou vendu à bas prix ; fiscalité norvégienne lourde et risque de change entre dollar et couronne.",
  "faits": [
   {
+   "d": "02/10",
+   "t": "Capricorn confirme son rachat par Genel, clôture attendue au T4 2026 : DNO sort de la course sans avoir surenchéri."
+  },
+  {
    "d": "28/09",
    "t": "Capricorn : DNO déclare finale son offre de 5,214 $ par action et ne suit pas Genel (5,74 $ par action, environ 436 M$), qui a l'appui du conseil de Capricorn."
   },
@@ -24,10 +28,6 @@
   {
    "d": "21/08",
    "t": "Détachement du dividende trimestriel de 0,375 NOK par action (versé en septembre)."
-  },
-  {
-   "d": "13/08",
-   "t": "T2 : CA record de 760,5 M$, résultat opérationnel 439 M$, bénéfice net 83,4 M$, trésorerie libre 289,5 M$, dette nette ramenée à 552,9 M$ (790 M$ fin mars). Objectif de production en mer du Nord relevé à 85 000 barils par jour."
   }
  ],
  "pub": "2026-10-29",
@@ -1116,6 +1116,13 @@
   },
   "actu": [
    {
+    "d": "02/10",
+    "fait": "Capricorn indique que le rachat par Genel avance (accord égyptien obtenu, clôture attendue au T4) et rappelle que DNO a déclaré son offre finale le 28/09.",
+    "impact": "neutre",
+    "horizon": "moyen",
+    "lecture": "Pas de croissance en Égypte, mais pas de dépense non plus : l'argent reste disponible pour le dividende et la baisse de la dette."
+   },
+   {
     "d": "28/09",
     "fait": "DNO refuse de relever son offre sur Capricorn Energy (actifs en Égypte), déclarée finale à 5,214 $ par action, face à Genel qui propose 5,74 $ et a l'appui du conseil et d'environ 39 % des actionnaires.",
     "impact": "positif",
@@ -1135,13 +1142,6 @@
     "impact": "positif",
     "horizon": "court",
     "lecture": "La mer du Nord compense seule l'arrêt du Kurdistan grâce aux prix élevés : la thèse de diversification fonctionne. Le revers est une dépendance accrue au prix du pétrole."
-   },
-   {
-    "d": "fin févr. à juil.",
-    "fait": "Arrêt de la production au Kurdistan après les frappes américaines et israéliennes sur l'Iran ; reprise à Tawke le 28/06 et à Peshkabir le 11/07, pétrole vendu sur place vers 35 à 39 $ le baril faute de route d'exportation.",
-    "impact": "negatif",
-    "horizon": "moyen",
-    "lecture": "Le Kurdistan, qui produisait 39 600 barils par jour au T1, devient une option : s'il revient, c'est un bonus ; sinon, la valeur repose sur la mer du Nord."
    }
   ],
   "scenarios": [
@@ -1188,6 +1188,7 @@
    "Weinstein (stades)"
   ],
   "sources": [
+   "https://www.investegate.co.uk/announcement/rns/capricorn-energy--cne/update-on-recommended-cash-acquisition-by-genel/9803017",
    "https://www.globenewswire.com/news-release/2026/08/13/3344212/0/en/dno-reports-record-revenue-as-it-chases-new-growth.html",
    "https://www.nasdaq.com/press-release/dno-reports-record-revenue-it-chases-new-growth-2026-08-13",
    "https://www.globenewswire.com/news-release/2026/09/04/3356409/0/en/no-intention-to-make-an-offer-for-genel-energy-plc.html",
@@ -1331,7 +1332,7 @@
    "Le dividende de 1,50 NOK par an peut-il être relevé, ou la direction privilégiera-t-elle la dette et les rachats ?"
   ],
   "suivi": {
-   "le": "2026-10-01",
+   "le": "2026-10-05",
    "bilan": "Les trois conditions tiennent : la mer du Nord porte le groupe, les prix sont élevés et la direction a refusé de surpayer ; le point fragile reste la dépendance totale au prix du pétrole.",
    "croire": [
     {
@@ -1353,9 +1354,9 @@
     {
      "c": "Que la direction reste disciplinée sur les rachats (elle n'a pas surenchéri sur Capricorn et a renoncé à Genel) et continue de réduire la dette nette vers environ 200 à 350 M$.",
      "etat": "ok",
-     "reponse": "Oui : DNO a renoncé à Genel et déclaré finale son offre sur Capricorn sans suivre la surenchère de Genel ; la dette nette a baissé de 333 M$ en six mois.",
-     "preuve": "Dette nette 885,9 M$ fin 2025, 790 M$ fin mars, 552,9 M$ fin juin 2026 ; offre Capricorn finale à 5,214 $ contre 5,74 $ pour Genel.",
-     "source": "https://www.investegate.co.uk/announcement/rns/capricorn-energy--cne/statement-regarding-final-offer-for-capricorn/9792659",
+     "reponse": "Oui : DNO n'a pas relevé son offre, Capricorn confirme le 02/10 que l'opération se fera avec Genel.",
+     "preuve": "Communiqué Capricorn du 02/10/2026.",
+     "source": "https://www.investegate.co.uk/announcement/rns/capricorn-energy--cne/update-on-recommended-cash-acquisition-by-genel/9803017",
      "prochain": "Résultats du T3 le 29/10/2026 (dette nette)"
     }
    ],

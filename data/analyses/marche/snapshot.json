@@ -1,9 +1,9 @@
 {
- "asOf": "2026-10-02",
+ "asOf": "2026-10-05",
  "attention": [
-  "Quatre valeurs sont entrées dans leur zone d'intérêt sans mauvaise nouvelle propre : Trigano (125,20 €, depuis le 01/10), Vidrala (84,80 €), Aubay (50,00 €) et Jacquet Metals (19,50 €). La baisse vient du marché (taux, risque France).",
-  "Proches de leur zone : USS, Globus Medical, Thermador, Virbac, Viscofan, Wavestone.",
-  "OPEP+ le 04/10, puis les publications du T3 : Thermador le 15/10, Virbac le 19/10, Vusion le 20/10, Aalberts, Kitron et Viscofan le 22/10."
+  "Budget 2027 : le PS exige une lettre rectificative, la menace de censure reste. Les quatre valeurs entrées en zone d'intérêt vendredi (Trigano, Vidrala, Aubay, Jacquet Metals) peuvent encore baisser avec le marché français.",
+  "Golfe : dégâts réels chez Aramco à confirmer, Brent au-dessus de 100 $. Compte rendu de la Fed mercredi.",
+  "Publications à venir : Thermador le 15/10, Virbac le 19/10, Vusion le 20/10, Aalberts, Kitron et Viscofan le 22/10, Medistim le 23/10."
  ],
  "etf": {
   "nom": "Amundi PEA Monde MSCI World (DCAM)",
@@ -56,12 +56,11 @@
    "note": "source unique ; les petites valeurs restent à la traîne"
   }
  ],
- "majLe": "2026-10-02T19:55:00+02:00",
- "semaine": "28 septembre au 2 octobre 2026",
+ "majLe": "2026-10-05T14:10:00+02:00",
+ "semaine": "5 au 9 octobre 2026",
  "semaineTexte": [
-  "Lundi à jeudi : budget 2027 mal reçu, OAT 10 ans à son plus haut depuis 2002, écart avec le Bund au plus large depuis 2012, Brent au-dessus de 100 $.",
-  "Vendredi 02/10 : inflation zone euro à 3,8 %, mais seulement 29 000 emplois créés aux États-Unis, ce qui éloigne une hausse de la Fed.",
-  "Le CAC 40 regagne 0,79 % à 7 897 pts vendredi mais perd 2,2 % sur la semaine."
+  "Week-end : l'OPEP+ ne bouge pas, les Houthis revendiquent des frappes sur Aramco, l'Iran rejette les propositions américaines.",
+  "Lundi 05/10 midi : CAC 40 vers -0,6 % à 7 851 pts quand l'Europe monte, freiné par le budget et les taux français ; Brent vers 102 $."
  ],
  "watchlistValidee": false
 }
