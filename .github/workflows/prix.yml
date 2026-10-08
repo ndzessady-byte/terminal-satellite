@@ -2,6 +2,8 @@ name: Cours du soir
 on:
   schedule:
     - cron: "35 16 * * 1-5"   # 18h35 à Paris l'été, 17h35 l'hiver (après la clôture)
+    - cron: "10 18 * * 1-5"   # deuxième passage de secours
+    - cron: "40 20 * * 1-5"   # troisième passage (clôture américaine)
   workflow_dispatch: {}        # bouton « Run workflow » pour lancer à la main
 permissions:
   contents: write
