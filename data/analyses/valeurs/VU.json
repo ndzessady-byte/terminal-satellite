@@ -109,18 +109,18 @@
   ],
   "tech": {
    "bas52": 101.2,
-   "cours": 129.2,
-   "coursLe": "2026-10-02",
+   "cours": 120.0,
+   "coursLe": "2026-10-08",
    "haut52": 249.8,
-   "lecture": "Cours de 129,20 au-dessus de sa moyenne 50 jours (126,72) et en dessous de sa moyenne 200 jours (130,68). RSI 54,8 : élan neutre. Il se situe à 19 % de sa fourchette sur un an (de 101,20 à 249,80), performance sur 12 mois de -47,9 %. Clôture du 02/10/2026.",
-   "mm200": 130.68,
-   "mm50": 126.72,
+   "lecture": "Cours de 120,00 en dessous de sa moyenne 50 jours (126,09) et en dessous de sa moyenne 200 jours (129,20). RSI 42,9 : élan neutre. Il se situe à 13 % de sa fourchette sur un an (de 101,20 à 249,80), performance sur 12 mois de -50,7 %. Clôture du 08/10/2026.",
+   "mm200": 129.2,
+   "mm50": 126.09,
    "resistance": 144,
-   "rsi14": 54.8,
+   "rsi14": 42.9,
    "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json",
-   "stade": 1,
+   "stade": 4,
    "support": 114,
-   "tendance": "neutre"
+   "tendance": "baissiere"
   },
   "verdict": "Vusion croît très vite (CA S1 +34 %, EBITDA +48 %), a une trésorerie nette et se paie environ 15 fois les bénéfices 2026, soit bien moins que ses propres multiples passés. Le vrai débat porte sur 2027 : la fin du grand déploiement Walmart et la consommation de trésorerie du S1 doivent être compensées par de nouvelles commandes, ce qui rend le dossier attractif mais encore risqué.",
   "zones": {
@@ -139,8 +139,8 @@
   }
  },
  "capi": "2,06 Md€",
- "cours": 129.2,
- "coursLe": "2026-10-02",
+ "cours": 120.0,
+ "coursLe": "2026-10-08",
  "devise": "€",
  "faits": [
   {
@@ -161,22 +161,6 @@
   }
  ],
  "histo": [
-  [
-   "26/09",
-   249.8
-  ],
-  [
-   "29/09",
-   254.6
-  ],
-  [
-   "30/09",
-   255.0
-  ],
-  [
-   "01/10",
-   250.0
-  ],
   [
    "02/10",
    253.2
@@ -1200,6 +1184,22 @@
   [
    "02/10",
    129.2
+  ],
+  [
+   "05/10",
+   128.5
+  ],
+  [
+   "06/10",
+   127.5
+  ],
+  [
+   "07/10",
+   123.8
+  ],
+  [
+   "08/10",
+   120.0
   ]
  ],
  "nom": "Vusion",
@@ -1208,9 +1208,9 @@
  "per26": 15.3,
  "per27": 12.5,
  "perf": {
-  "m1": 6.2,
-  "m3": -6.5,
-  "m12": -47.9
+  "m1": 2.9,
+  "m3": -10.6,
+  "m12": -50.7
  },
  "pub": "2026-10-20",
  "pubLabel": "CA du T3",

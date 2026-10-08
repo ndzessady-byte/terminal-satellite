@@ -3,8 +3,8 @@
  "nom": "USS",
  "pays": "JP",
  "secteur": "Enchères de voitures d'occasion",
- "cours": 1831.0,
- "coursLe": "2026-10-01",
+ "cours": 1794.0,
+ "coursLe": "2026-10-08",
  "devise": "JPY",
  "capi": "environ 815 Md¥ (environ 4,6 Md€)",
  "per26": 18.4,
@@ -37,26 +37,6 @@
  "yahoo": "4732.T",
  "compte": "CTO",
  "histo": [
-  [
-   "04/09",
-   1820.0
-  ],
-  [
-   "05/09",
-   1827.0
-  ],
-  [
-   "08/09",
-   1809.0
-  ],
-  [
-   "09/09",
-   1798.0
-  ],
-  [
-   "10/09",
-   1807.5
-  ],
   [
    "11/09",
    1803.0
@@ -1076,12 +1056,32 @@
   [
    "01/10",
    1831.0
+  ],
+  [
+   "02/10",
+   1816.0
+  ],
+  [
+   "05/10",
+   1805.0
+  ],
+  [
+   "06/10",
+   1804.0
+  ],
+  [
+   "07/10",
+   1800.0
+  ],
+  [
+   "08/10",
+   1794.0
   ]
  ],
  "perf": {
-  "m1": -7.4,
-  "m3": -3.9,
-  "m12": 1.0
+  "m1": -9.4,
+  "m3": -8.2,
+  "m12": 4.2
  },
  "analyse": {
   "majLe": "2026-10-01",
@@ -1100,18 +1100,18 @@
    "greenblatt": "Rendement bénéficiaire calculé (résultat opérationnel prévu de 61 Md¥ / valeur d'entreprise de 718 Md¥) d'environ 8,5 % et rendement du capital d'environ 31 % (Stockopedia) : profil favorable sur la formule magique."
   },
   "tech": {
-   "cours": 1831.0,
-   "coursLe": "2026-10-01",
-   "mm50": 1958.14,
-   "mm200": 1825.72,
-   "rsi14": 34.2,
+   "cours": 1794.0,
+   "coursLe": "2026-10-08",
+   "mm50": 1940.84,
+   "mm200": 1828.09,
+   "rsi14": 29.3,
    "haut52": 2064.0,
    "bas52": 1643.5,
    "support": 1795,
    "resistance": 1910,
    "tendance": "neutre",
    "stade": 3,
-   "lecture": "Cours de 1 831,00 en dessous de sa moyenne 50 jours (1 958,14) et au-dessus de sa moyenne 200 jours (1 825,72). RSI 34,2 : élan neutre. Il se situe à 45 % de sa fourchette sur un an (de 1 643,50 à 2 064,00), performance sur 12 mois de 1,0 %. Clôture du 01/10/2026.",
+   "lecture": "Cours de 1 794,00 en dessous de sa moyenne 50 jours (1 940,84) et en dessous de sa moyenne 200 jours (1 828,09). RSI 29,3 : élan faible. Il se situe à 36 % de sa fourchette sur un an (de 1 643,50 à 2 064,00), performance sur 12 mois de 4,2 %. Clôture du 08/10/2026.",
    "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json"
   },
   "actu": [

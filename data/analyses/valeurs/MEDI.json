@@ -3,8 +3,8 @@
  "nom": "Medistim",
  "pays": "NO",
  "secteur": "Santé : contrôle du flux sanguin en chirurgie cardiaque",
- "cours": 250.0,
- "coursLe": "2026-10-02",
+ "cours": 271.0,
+ "coursLe": "2026-10-08",
  "devise": "NOK",
  "capi": "environ 4,6 Md NOK (18,3 millions d'actions)",
  "per26": null,
@@ -37,22 +37,6 @@
  "yahoo": "MEDI.OL",
  "compte": "PEA",
  "histo": [
-  [
-   "19/09",
-   250.0
-  ],
-  [
-   "22/09",
-   249.0
-  ],
-  [
-   "23/09",
-   231.0
-  ],
-  [
-   "24/09",
-   233.0
-  ],
   [
    "25/09",
    231.0
@@ -1076,12 +1060,28 @@
   [
    "02/10",
    250.0
+  ],
+  [
+   "05/10",
+   259.0
+  ],
+  [
+   "06/10",
+   272.0
+  ],
+  [
+   "07/10",
+   268.0
+  ],
+  [
+   "08/10",
+   271.0
   ]
  ],
  "perf": {
-  "m1": -0.4,
-  "m3": 6.8,
-  "m12": 11.1
+  "m1": 8.8,
+  "m3": 19.4,
+  "m12": 10.6
  },
  "analyse": {
   "majLe": "2026-10-01",
@@ -1100,18 +1100,18 @@
    "greenblatt": "Rendement bénéficiaire (résultat opérationnel 2025 de 196,2 M NOK sur une valeur d'entreprise d'environ 4,4 Md NOK) proche de 4,5 % : faible, l'action est chère sur ce critère ; le rendement du capital est en revanche très élevé (non calculé précisément)."
   },
   "tech": {
-   "cours": 250.0,
-   "coursLe": "2026-10-02",
-   "mm50": 242.5,
-   "mm200": 231.62,
-   "rsi14": 53.6,
+   "cours": 271.0,
+   "coursLe": "2026-10-08",
+   "mm50": 245.82,
+   "mm200": 231.97,
+   "rsi14": 69.1,
    "haut52": 284.0,
    "bas52": 188.0,
    "support": 240,
    "resistance": 263,
    "tendance": "haussiere",
    "stade": 2,
-   "lecture": "Cours de 250,00 au-dessus de sa moyenne 50 jours (242,50) et au-dessus de sa moyenne 200 jours (231,62). RSI 53,6 : élan neutre. Il se situe à 65 % de sa fourchette sur un an (de 188,00 à 284,00), performance sur 12 mois de 11,1 %. Clôture du 02/10/2026.",
+   "lecture": "Cours de 271,00 au-dessus de sa moyenne 50 jours (245,82) et au-dessus de sa moyenne 200 jours (231,97). RSI 69,1 : élan neutre. Il se situe à 86 % de sa fourchette sur un an (de 188,00 à 284,00), performance sur 12 mois de 10,6 %. Clôture du 08/10/2026.",
    "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json"
   },
   "actu": [

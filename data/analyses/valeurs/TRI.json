@@ -105,14 +105,14 @@
   ],
   "tech": {
    "bas52": 125.2,
-   "cours": 125.2,
-   "coursLe": "2026-10-02",
+   "cours": 126.7,
+   "coursLe": "2026-10-08",
    "haut52": 178.2,
-   "lecture": "Cours de 125,20 en dessous de sa moyenne 50 jours (147,54) et en dessous de sa moyenne 200 jours (154,51). RSI 18,2 : élan faible. Il se situe à 0 % de sa fourchette sur un an (de 125,20 à 178,20), performance sur 12 mois de -14,4 %. Clôture du 02/10/2026.",
-   "mm200": 154.51,
-   "mm50": 147.54,
+   "lecture": "Cours de 126,70 en dessous de sa moyenne 50 jours (145,60) et en dessous de sa moyenne 200 jours (153,60). RSI 26,0 : élan faible. Il se situe à 3 % de sa fourchette sur un an (de 125,20 à 178,20), performance sur 12 mois de -13,0 %. Clôture du 08/10/2026.",
+   "mm200": 153.6,
+   "mm50": 145.6,
    "resistance": 139.2,
-   "rsi14": 18.2,
+   "rsi14": 26.0,
    "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json",
    "stade": 4,
    "support": 126,
@@ -135,8 +135,8 @@
   }
  },
  "capi": "2,53 Md€",
- "cours": 125.2,
- "coursLe": "2026-10-02",
+ "cours": 126.7,
+ "coursLe": "2026-10-08",
  "devise": "€",
  "faits": [
   {
@@ -157,22 +157,6 @@
   }
  ],
  "histo": [
-  [
-   "26/09",
-   147.6
-  ],
-  [
-   "29/09",
-   150.3
-  ],
-  [
-   "30/09",
-   148.3
-  ],
-  [
-   "01/10",
-   147.6
-  ],
   [
    "02/10",
    149.3
@@ -1196,6 +1180,22 @@
   [
    "02/10",
    125.2
+  ],
+  [
+   "05/10",
+   127.3
+  ],
+  [
+   "06/10",
+   128.0
+  ],
+  [
+   "07/10",
+   127.0
+  ],
+  [
+   "08/10",
+   126.7
   ]
  ],
  "nom": "Trigano",
@@ -1204,9 +1204,9 @@
  "per26": 9.09,
  "per27": 8.3,
  "perf": {
-  "m1": -18.5,
-  "m3": -13.8,
-  "m12": -14.4
+  "m1": -16.1,
+  "m3": -13.9,
+  "m12": -13.0
  },
  "pub": "2026-11-24",
  "pubLabel": "Résultats annuels (indicatif)",

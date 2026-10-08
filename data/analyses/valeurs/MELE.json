@@ -103,18 +103,18 @@
   ],
   "tech": {
    "bas52": 49.86,
-   "cours": 69.5,
-   "coursLe": "2026-10-02",
+   "cours": 66.05,
+   "coursLe": "2026-10-08",
    "haut52": 85.8,
-   "lecture": "Cours de 69,50 au-dessus de sa moyenne 50 jours (67,63) et au-dessus de sa moyenne 200 jours (66,73). RSI 56,7 : élan neutre. Il se situe à 55 % de sa fourchette sur un an (de 49,86 à 85,80), performance sur 12 mois de 4,7 %. Clôture du 02/10/2026.",
-   "mm200": 66.73,
-   "mm50": 67.63,
+   "lecture": "Cours de 66,05 en dessous de sa moyenne 50 jours (67,59) et en dessous de sa moyenne 200 jours (66,95). RSI 45,0 : élan neutre. Il se situe à 45 % de sa fourchette sur un an (de 49,86 à 85,80), performance sur 12 mois de 4,1 %. Clôture du 08/10/2026.",
+   "mm200": 66.95,
+   "mm50": 67.59,
    "resistance": 70.8,
-   "rsi14": 56.7,
+   "rsi14": 45.0,
    "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json",
-   "stade": 2,
+   "stade": 3,
    "support": 62.8,
-   "tendance": "haussiere"
+   "tendance": "neutre"
   },
   "verdict": "Melexis est un specialiste tres rentable des capteurs et puces pour l'automobile qui sort d'un creux de cycle : les marges remontent (17,8 % de marge operationnelle au T2) et le consensus attend un fort rebond du benefice en 2027. Le prix actuel (PER 2026 de 22) integre deja une partie de ce rebond, le graphique reste fragile sous ses moyennes, et le dividende eleve depasse aujourd'hui le benefice, ce qui limite la marge d'erreur.",
   "zones": {
@@ -134,8 +134,8 @@
   }
  },
  "capi": "2,7 Md€",
- "cours": 69.5,
- "coursLe": "2026-10-02",
+ "cours": 66.05,
+ "coursLe": "2026-10-08",
  "devise": "€",
  "faits": [
   {
@@ -156,22 +156,6 @@
   }
  ],
  "histo": [
-  [
-   "26/09",
-   67.6
-  ],
-  [
-   "29/09",
-   67.7
-  ],
-  [
-   "30/09",
-   67.45
-  ],
-  [
-   "01/10",
-   67.15
-  ],
   [
    "02/10",
    68.4
@@ -1195,6 +1179,22 @@
   [
    "02/10",
    69.5
+  ],
+  [
+   "05/10",
+   68.5
+  ],
+  [
+   "06/10",
+   69.3
+  ],
+  [
+   "07/10",
+   67.4
+  ],
+  [
+   "08/10",
+   66.05
   ]
  ],
  "nom": "Melexis",
@@ -1203,9 +1203,9 @@
  "per26": 22,
  "per27": 16.9,
  "perf": {
-  "m1": 6.8,
-  "m3": -4.4,
-  "m12": 4.7
+  "m1": 0.2,
+  "m3": -12.6,
+  "m12": 4.1
  },
  "pub": "2026-10-28",
  "pubLabel": "Résultats du T3",

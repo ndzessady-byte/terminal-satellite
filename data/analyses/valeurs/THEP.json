@@ -104,19 +104,19 @@
    "https://www.boursorama.com/bourse/actualites/la-bce-releve-ses-taux-pour-la-deuxieme-fois-cette-annee-8646994bbc091afc77809cc582993d85"
   ],
   "tech": {
-   "bas52": 67.5,
-   "cours": 67.5,
-   "coursLe": "2026-10-02",
+   "bas52": 65.0,
+   "cours": 65.0,
+   "coursLe": "2026-10-08",
    "haut52": 81.8,
-   "lecture": "Cours de 67,50 en dessous de sa moyenne 50 jours (74,11) et en dessous de sa moyenne 200 jours (73,92). RSI 30,5 : élan neutre. Il se situe à 0 % de sa fourchette sur un an (de 67,50 à 81,80), performance sur 12 mois de -6,0 %. Clôture du 02/10/2026.",
-   "mm200": 73.92,
-   "mm50": 74.11,
+   "lecture": "Cours de 65,00 en dessous de sa moyenne 50 jours (73,29) et en dessous de sa moyenne 200 jours (73,72). RSI 24,9 : élan faible. Il se situe à 0 % de sa fourchette sur un an (de 65,00 à 81,80), performance sur 12 mois de -7,9 %. Clôture du 08/10/2026.",
+   "mm200": 73.72,
+   "mm50": 73.29,
    "resistance": 71.7,
-   "rsi14": 30.5,
+   "rsi14": 24.9,
    "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json",
-   "stade": 3,
+   "stade": 4,
    "support": 66.76,
-   "tendance": "neutre"
+   "tendance": "baissiere"
   },
   "verdict": "Thermador est un distributeur familial rentable, avec une trésorerie nette et une valorisation basse (13 fois les bénéfices 2026, rendement du cash-flow libre vers 8 %), qui a renoué avec la croissance au S1 (résultat opérationnel +17 %). Le cours reste pourtant bloqué dans une zone de 67 à 81 € tant que le marché du bâtiment et les taux ne se détendent pas.",
   "zones": {
@@ -135,10 +135,14 @@
   }
  },
  "capi": "642 M€",
- "cours": 67.5,
- "coursLe": "2026-10-02",
+ "cours": 65.0,
+ "coursLe": "2026-10-08",
  "devise": "€",
  "faits": [
+  {
+   "d": "08/10",
+   "t": "Clôture à 65,00 €, au plus bas de la séance, sans nouvelle propre : le titre entre dans sa zone d'intérêt avec le climat français (taux, budget logement)."
+  },
   {
    "d": "01/10",
    "t": "Le projet de budget 2027 est présenté ; le montant prévu pour MaPrimeRénov' n'est pas encore confirmé par deux sources."
@@ -150,29 +154,9 @@
   {
    "d": "17/09",
    "t": "Budget 2027 : 54 Md€ d'économies visées, y compris sur les aides au logement. Le sort de MaPrimeRénov' n'est pas encore précisé."
-  },
-  {
-   "d": "29/07",
-   "t": "Résultats S1 publiés. Aucun fait marquant trouvé en septembre."
   }
  ],
  "histo": [
-  [
-   "26/09",
-   72.5
-  ],
-  [
-   "29/09",
-   73.1
-  ],
-  [
-   "30/09",
-   74.4
-  ],
-  [
-   "01/10",
-   72.9
-  ],
   [
    "02/10",
    72.9
@@ -1196,6 +1180,22 @@
   [
    "02/10",
    67.5
+  ],
+  [
+   "05/10",
+   66.2
+  ],
+  [
+   "06/10",
+   66.4
+  ],
+  [
+   "07/10",
+   65.6
+  ],
+  [
+   "08/10",
+   65.0
   ]
  ],
  "nom": "Thermador Groupe",
@@ -1204,9 +1204,9 @@
  "per26": 13,
  "per27": 12.3,
  "perf": {
-  "m1": -7.2,
-  "m3": -14.6,
-  "m12": -6.0
+  "m1": -9.8,
+  "m3": -16.7,
+  "m12": -7.9
  },
  "pub": "2026-10-15",
  "pubLabel": "CA du T3",

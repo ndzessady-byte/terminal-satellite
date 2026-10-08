@@ -106,14 +106,14 @@
   ],
   "tech": {
    "bas52": 71.7,
-   "cours": 84.8,
-   "coursLe": "2026-10-02",
+   "cours": 87.9,
+   "coursLe": "2026-10-08",
    "haut52": 92.1,
-   "lecture": "Cours de 84,80 en dessous de sa moyenne 50 jours (88,42) et au-dessus de sa moyenne 200 jours (83,83). RSI 31,4 : élan neutre. Il se situe à 64 % de sa fourchette sur un an (de 71,70 à 92,10), performance sur 12 mois de -5,3 %. Clôture du 02/10/2026.",
-   "mm200": 83.83,
-   "mm50": 88.42,
+   "lecture": "Cours de 87,90 en dessous de sa moyenne 50 jours (88,21) et au-dessus de sa moyenne 200 jours (83,78). RSI 51,1 : élan neutre. Il se situe à 79 % de sa fourchette sur un an (de 71,70 à 92,10), performance sur 12 mois de 3,2 %. Clôture du 08/10/2026.",
+   "mm200": 83.78,
+   "mm50": 88.21,
    "resistance": 91.7,
-   "rsi14": 31.4,
+   "rsi14": 51.1,
    "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json",
    "stade": 3,
    "support": 86.8,
@@ -136,8 +136,8 @@
   }
  },
  "capi": "3,1 Md€",
- "cours": 84.8,
- "coursLe": "2026-10-02",
+ "cours": 87.9,
+ "coursLe": "2026-10-08",
  "devise": "€",
  "faits": [
   {
@@ -154,22 +154,6 @@
   }
  ],
  "histo": [
-  [
-   "26/09",
-   90.0
-  ],
-  [
-   "29/09",
-   89.7
-  ],
-  [
-   "30/09",
-   90.0
-  ],
-  [
-   "01/10",
-   89.8
-  ],
   [
    "02/10",
    90.3
@@ -1193,6 +1177,22 @@
   [
    "02/10",
    84.8
+  ],
+  [
+   "05/10",
+   83.7
+  ],
+  [
+   "06/10",
+   86.8
+  ],
+  [
+   "07/10",
+   88.0
+  ],
+  [
+   "08/10",
+   87.9
   ]
  ],
  "nom": "Vidrala",
@@ -1201,9 +1201,9 @@
  "per26": 13.7,
  "per27": 12.8,
  "perf": {
-  "m1": -4.4,
-  "m3": -6.1,
-  "m12": -5.3
+  "m1": -0.2,
+  "m3": -2.0,
+  "m12": 3.2
  },
  "pub": "2026-10-28",
  "pubLabel": "Résultats du T3",

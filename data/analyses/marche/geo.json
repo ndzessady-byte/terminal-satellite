@@ -1,6 +1,6 @@
 {
  "lecture": "L'OPEP+ ne change rien : tant qu'Ormuz reste perturbé, ce sont les flux et les attaques qui font le prix du pétrole, et les frappes revendiquées sur Aramco remettent une prime de risque. En France, le PS durcit le ton sur le budget et l'écart de taux avec l'Allemagne repart à la hausse. Paris sous-performe l'Europe, pénalisé par le risque budgétaire plus que par le pétrole.",
- "majLe": "2026-10-05",
+ "majLe": "2026-10-08",
  "matieres": {
   "ALU": {
    "moteurs": "L'aluminium reste haut (environ 3 260 $/t, +22 % sur un an) car la production du Golfe s'est effondrée avec la guerre, mais le dollar fort et les exportations chinoises le plafonnent.",
@@ -69,6 +69,10 @@
   {
    "faits": [
     {
+     "d": "08/10",
+     "t": "Pas d'accord durable entre les États-Unis et l'Iran malgré des flux revenus près de l'avant-guerre ; Brent au-dessus de 104 $."
+    },
+    {
      "d": "04/10",
      "t": "L'OPEP+ laisse ses objectifs inchangés pour novembre, production toujours environ 5 millions de barils/jour sous l'avant-guerre. Les Houthis revendiquent des frappes sur des sites d'Aramco (Riyad conteste) et l'Iran rejette les dernières propositions américaines."
     },
@@ -87,10 +91,6 @@
     {
      "d": "29/09",
      "t": "L'agence britannique UKMTO signale trois pétroliers touchés par des projectiles d'origine inconnue dans le détroit d'Ormuz."
-    },
-    {
-     "d": "fin 02",
-     "t": "Début de la guerre avec l'Iran et fermeture du détroit d'Ormuz (environ 20 % du pétrole mondial). Pic du Brent à 118,35 $ le 31/03."
     }
    ],
    "id": "ormuz",
@@ -176,6 +176,10 @@
   {
    "faits": [
     {
+     "d": "08/10",
+     "t": "OAT 10 ans à 4,90 %, plus haut depuis 2008 ; Bund à 3,50 %, écart vers 140 pb, le plus large depuis 2012."
+    },
+    {
      "d": "02/10",
      "t": "L'inflation de la zone euro grimpe à 3,8 % sur un an en septembre (3,2 % en août), plus haut depuis 2023, tirée par l'énergie ; l'inflation de fond reste à 2,5 % (Eurostat)."
     },
@@ -194,10 +198,6 @@
     {
      "d": "10/09",
      "t": "Projections BCE : inflation 3,0 % en 2026, 2,5 % en 2027, 2,1 % en 2028 (2027 et 2028 revues en hausse)."
-    },
-    {
-     "d": "16/09",
-     "t": "La Fed relève ses taux de 0,25 point à 3,75-4,00 %, à l'unanimité (12-0), invoquant une inflation « toujours élevée »."
     }
    ],
    "id": "taux",
@@ -260,6 +260,10 @@
   {
    "faits": [
     {
+     "d": "07/10",
+     "t": "Budget 2027 : la commission des finances modifie le texte ; débat en séance à partir du 13/10, vote final prévu le 17/11. Les banques européennes chutent de 3,8 % mercredi avec la tension sur la dette française."
+    },
+    {
      "d": "05/10",
      "t": "Le PS juge le budget 2027 « pas acceptable », réclame une lettre rectificative et maintient la menace de censure ; Paris sous-performe l'Europe ce matin."
     },
@@ -278,10 +282,6 @@
     {
      "d": "13/09",
      "t": "LFI, écologistes, communistes et socialistes annoncent qu'ils voteront la censure du budget ; le RN (122 députés) reste non engagé."
-    },
-    {
-     "d": "18/09",
-     "t": "Lecornu annonce environ 54 Md€ d'effort, un déficit 2027 visé à 4,8-5 % du PIB (contre 6,5 % sans mesures), pas de hausse d'impôts, une surtaxe sur les grandes entreprises ramenée à 5 Md€ par an et les ETI sorties du champ."
     }
    ],
    "id": "france",

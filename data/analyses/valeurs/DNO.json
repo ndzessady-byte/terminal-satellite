@@ -3,8 +3,8 @@
  "nom": "DNO ASA",
  "pays": "NO",
  "secteur": "Pétrole et gaz",
- "cours": 19.0,
- "coursLe": "2026-10-02",
+ "cours": 19.42,
+ "coursLe": "2026-10-08",
  "devise": "NOK",
  "capi": "environ 18,6 Md NOK (environ 1,95 Md$)",
  "per26": 6.0,
@@ -37,22 +37,6 @@
  "yahoo": "DNO.OL",
  "compte": "PEA",
  "histo": [
-  [
-   "19/09",
-   14.88
-  ],
-  [
-   "22/09",
-   16.0
-  ],
-  [
-   "23/09",
-   16.06
-  ],
-  [
-   "24/09",
-   15.99
-  ],
   [
    "25/09",
    16.04
@@ -1076,12 +1060,28 @@
   [
    "02/10",
    19.0
+  ],
+  [
+   "05/10",
+   19.11
+  ],
+  [
+   "06/10",
+   18.75
+  ],
+  [
+   "07/10",
+   18.97
+  ],
+  [
+   "08/10",
+   19.42
   ]
  ],
  "perf": {
-  "m1": 3.7,
-  "m3": 17.1,
-  "m12": 24.9
+  "m1": 2.3,
+  "m3": 14.8,
+  "m12": 30.1
  },
  "analyse": {
   "majLe": "2026-10-01",
@@ -1100,18 +1100,18 @@
    "greenblatt": "Rendement bénéficiaire avant impôt (résultat opérationnel / valeur d'entreprise) très élevé, plus de 25 % sur la base du premier semestre 2026, mais trompeur : l'impôt norvégien d'environ 78 % ramène la rentabilité réelle pour l'actionnaire à un niveau bien plus modeste. Profil flatteur sur la formule magique à prendre avec prudence."
   },
   "tech": {
-   "cours": 19.0,
-   "coursLe": "2026-10-02",
-   "mm50": 18.25,
-   "mm200": 17.62,
-   "rsi14": 51.4,
+   "cours": 19.42,
+   "coursLe": "2026-10-08",
+   "mm50": 18.41,
+   "mm200": 17.7,
+   "rsi14": 57.0,
    "haut52": 21.92,
    "bas52": 12.6,
    "support": 18.1,
    "resistance": 19.75,
    "tendance": "haussiere",
    "stade": 2,
-   "lecture": "Cours de 19,00 au-dessus de sa moyenne 50 jours (18,25) et au-dessus de sa moyenne 200 jours (17,62). RSI 51,4 : élan neutre. Il se situe à 69 % de sa fourchette sur un an (de 12,60 à 21,92), performance sur 12 mois de 24,9 %. Clôture du 02/10/2026.",
+   "lecture": "Cours de 19,42 au-dessus de sa moyenne 50 jours (18,41) et au-dessus de sa moyenne 200 jours (17,70). RSI 57,0 : élan neutre. Il se situe à 73 % de sa fourchette sur un an (de 12,60 à 21,92), performance sur 12 mois de 30,1 %. Clôture du 08/10/2026.",
    "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json"
   },
   "actu": [

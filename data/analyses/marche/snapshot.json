@@ -1,38 +1,38 @@
 {
- "asOf": "2026-10-05",
+ "asOf": "2026-10-08",
  "attention": [
-  "Budget 2027 : le PS exige une lettre rectificative, la menace de censure reste. Les quatre valeurs entrées en zone d'intérêt vendredi (Trigano, Vidrala, Aubay, Jacquet Metals) peuvent encore baisser avec le marché français.",
-  "Golfe : dégâts réels chez Aramco à confirmer, Brent au-dessus de 100 $. Compte rendu de la Fed mercredi.",
-  "Publications à venir : Thermador le 15/10, Virbac le 19/10, Vusion le 20/10, Aalberts, Kitron et Viscofan le 22/10, Medistim le 23/10."
+  "Nouvelles entrées en zone d'intérêt cette semaine, sans mauvaise nouvelle propre trouvée : Theon (27,22 €, -8 % sur la semaine), Thermador (65,00 €), Globus Medical (73,50 $), USS (1 794 ¥). Trigano et Aubay y restent ; Vidrala et Jacquet Metals en sont ressorties.",
+  "Vusion -7 % sur la semaine sans nouvelle propre ; Medistim +8 % sans cause confirmée (assemblée extraordinaire du 05/10).",
+  "Publications : Thermador le 15/10, Virbac le 19/10, Vusion le 20/10, Aalberts, Kitron et Viscofan le 22/10, Medistim le 23/10."
  ],
  "etf": {
   "nom": "Amundi PEA Monde MSCI World (DCAM)",
-  "cours": 6.308,
-  "coursLe": "2026-10-02",
+  "cours": 6.355,
+  "coursLe": "2026-10-08",
   "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json"
  },
  "exclues": "Exail exclue : offre de Thales à 134 € par action, le cours suit le prix de l'offre.",
  "macro": [
   {
    "label": "CAC 40",
-   "valeur": "7 897,19",
-   "var": "+0,79 %",
-   "sens": 1,
-   "note": "rebond grâce au recul du pétrole et à un emploi américain faible ; -2,2 % sur la semaine"
+   "valeur": "7 729,69",
+   "var": "-0,51 %",
+   "sens": -1,
+   "note": "clôture du 08/10 ; -1,22 % mercredi avec la tension sur la dette française"
   },
   {
    "label": "OAT 10 ans",
-   "valeur": "vers 4,9 %",
+   "valeur": "4,90 %",
    "var": "n.c.",
-   "sens": 0,
-   "note": "4,90 % le 01/10, plus haut depuis 2002 ; clôture du 02/10 non confirmée par deux sources"
+   "sens": -1,
+   "note": "plus haut depuis 2008 (deux sources proches de 4,9 %)"
   },
   {
    "label": "Écart OAT / Bund",
-   "valeur": "vers 130 pb",
+   "valeur": "vers 140 pb",
    "var": "n.c.",
    "sens": -1,
-   "note": "130 pb le 01/10, plus large depuis 2012 ; clôture du 02/10 non confirmée"
+   "note": "Bund à 3,50 % le 08/10 ; plus large depuis 2012, chiffre exact selon les sources"
   },
   {
    "label": "BCE taux de dépôt",
@@ -43,24 +43,25 @@
   },
   {
    "label": "Brent",
-   "valeur": "101,1 à 101,5 $",
-   "var": "-0,8 %",
-   "sens": 1,
-   "note": "le G7 annonce jusqu'à 100 millions de barils de stocks libérés"
+   "valeur": "104 à 105 $",
+   "var": "n.c.",
+   "sens": -1,
+   "note": "il était vers 101 $ le 02/10"
   },
   {
    "label": "CAC Mid & Small",
-   "valeur": "vers 13 809",
-   "var": "-0,20 %",
-   "sens": -1,
-   "note": "source unique ; les petites valeurs restent à la traîne"
+   "valeur": "n.c.",
+   "var": "n.c.",
+   "sens": 0,
+   "note": "niveau non trouvé cette semaine"
   }
  ],
- "majLe": "2026-10-05T14:10:00+02:00",
+ "majLe": "2026-10-08T21:45:00+02:00",
  "semaine": "5 au 9 octobre 2026",
  "semaineTexte": [
-  "Week-end : l'OPEP+ ne bouge pas, les Houthis revendiquent des frappes sur Aramco, l'Iran rejette les propositions américaines.",
-  "Lundi 05/10 midi : CAC 40 vers -0,6 % à 7 851 pts quand l'Europe monte, freiné par le budget et les taux français ; Brent vers 102 $."
+  "Lundi à jeudi : semaine en baisse à Paris, chute de 1,22 % mercredi avec la tension sur la dette française (banques européennes -3,8 %).",
+  "OAT 10 ans vers 4,9 %, plus haut depuis 2008, écart avec le Bund vers 140 pb ; Brent au-dessus de 104 $.",
+  "Jeudi 08/10 : CAC 40 -0,51 % à 7 730 pts. Budget en séance à l'Assemblée dès le 13/10."
  ],
  "watchlistValidee": false
 }
