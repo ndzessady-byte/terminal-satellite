@@ -2,11 +2,18 @@
  "analyse": {
   "actu": [
    {
-    "d": "05/08",
-    "fait": "Résultats T2 2026 : CA de 561,4 M€ (+1,1 %, organique -0,7 %), EBITDA de 128,4 M€ (-2,8 %, marge 22,9 %), bénéfice net +6,6 %, dette nette de 305,7 M€. Objectifs 2026 confirmés. Le titre a gagné environ 4 % le jour même.",
+    "d": "en continu",
+    "fait": "Cycle industriel européen et américain faible (machines agricoles, construction, hydraulique) et incertitudes sur les droits de douane.",
     "horizon": "moyen",
+    "impact": "negatif",
+    "lecture": "Interpump fait environ 25 % de son CA en Amérique du Nord : une reprise du cycle ou un apaisement commercial serait le principal moteur de hausse."
+   },
+   {
+    "d": "06/10",
+    "fait": "Interpump annonce la fin du contrat de Riccardo Mastronardi, dirigeant avec responsabilités stratégiques, au 05/10, sans en donner la raison.",
     "impact": "neutre",
-    "lecture": "Pas encore de reprise, mais pas de nouvelle dégradation : le point bas du cycle semble proche, ce qui est la condition pour que la valorisation remonte."
+    "horizon": "moyen",
+    "lecture": "Un départ de plus pendant la transition après le fondateur : seul, il ne change pas la thèse, mais d'autres départs seraient un signal."
    },
    {
     "d": "06/08",
@@ -16,18 +23,11 @@
     "lecture": "Les analystes voient un potentiel d'environ 30 %, mais ils avaient aussi été pris de court en février."
    },
    {
-    "d": "13/02",
-    "fait": "Chute de 18,7 % en une séance après les comptes 2025 et des prévisions 2026 prudentes (plus ancien que trois mois, mais explique la situation actuelle).",
+    "d": "05/08",
+    "fait": "Résultats T2 2026 : CA de 561,4 M€ (+1,1 %, organique -0,7 %), EBITDA de 128,4 M€ (-2,8 %, marge 22,9 %), bénéfice net +6,6 %, dette nette de 305,7 M€. Objectifs 2026 confirmés. Le titre a gagné environ 4 % le jour même.",
     "horizon": "moyen",
-    "impact": "negatif",
-    "lecture": "Le marché a cessé de payer Interpump comme une valeur de croissance ; il faut maintenant que la croissance organique revienne pour justifier un PER plus élevé."
-   },
-   {
-    "d": "en continu",
-    "fait": "Cycle industriel européen et américain faible (machines agricoles, construction, hydraulique) et incertitudes sur les droits de douane.",
-    "horizon": "moyen",
-    "impact": "negatif",
-    "lecture": "Interpump fait environ 25 % de son CA en Amérique du Nord : une reprise du cycle ou un apaisement commercial serait le principal moteur de hausse."
+    "impact": "neutre",
+    "lecture": "Pas encore de reprise, mais pas de nouvelle dégradation : le point bas du cycle semble proche, ce qui est la condition pour que la valorisation remonte."
    }
   ],
   "cadres": [
@@ -90,6 +90,7 @@
    }
   ],
   "sources": [
+   "https://www.borsaitaliana.it/borsa/notizie/teleborsa/finanza/interpump-cessato-il-rapporto-di-lavoro-con-il-dirigente-riccardo-mastronardi-189_2026-10-06_TLB.html?lang=it",
    "https://www.zonebourse.com/cours/action/INTERPUMP-GROUP-S-P-A-408413/",
    "https://www.zonebourse.com/cours/action/INTERPUMP-GROUP-S-P-A-408413/finances/",
    "https://www.zonebourse.com/cours/action/INTERPUMP-GROUP-S-P-A-408413/valorisation/",
@@ -104,14 +105,14 @@
   ],
   "tech": {
    "bas52": 30.98,
-   "cours": 35.18,
-   "coursLe": "2026-10-08",
+   "cours": 36.18,
+   "coursLe": "2026-10-09",
    "haut52": 51.0,
-   "lecture": "Cours de 35,18 en dessous de sa moyenne 50 jours (36,30) et en dessous de sa moyenne 200 jours (37,67). RSI 45,4 : élan neutre. Il se situe à 21 % de sa fourchette sur un an (de 30,98 à 51,00), performance sur 12 mois de -8,8 %. Clôture du 08/10/2026.",
-   "mm200": 37.67,
-   "mm50": 36.3,
+   "lecture": "Cours de 36,18 en dessous de sa moyenne 50 jours (36,32) et en dessous de sa moyenne 200 jours (37,62). RSI 52,1 : élan neutre. Il se situe à 26 % de sa fourchette sur un an (de 30,98 à 51,00), performance sur 12 mois de -8,6 %. Clôture du 09/10/2026.",
+   "mm200": 37.62,
+   "mm50": 36.32,
    "resistance": 36.7,
-   "rsi14": 45.4,
+   "rsi14": 52.1,
    "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json",
    "stade": 4,
    "support": 33.7,
@@ -134,24 +135,24 @@
   }
  },
  "capi": "3,7 Md€",
- "cours": 35.18,
- "coursLe": "2026-10-08",
+ "cours": 36.18,
+ "coursLe": "2026-10-09",
  "devise": "€",
  "faits": [
   {
-   "d": "05/08",
-   "t": "S1 : CA 1,09 Md€ (+0,9 %), marge d'EBITDA 22,4 % contre 23,2 %, bénéfice net +3,8 %. Prévision 2026 : organique -2 % à +3 %."
+   "d": "06/10",
+   "t": "Départ de Riccardo Mastronardi, dirigeant avec responsabilités stratégiques, depuis le 05/10. Aucune raison donnée."
   },
   {
    "d": "21/09",
    "t": "Sortie de l'indice FTSE All-World. Titre en baisse d'environ 24 % depuis janvier."
+  },
+  {
+   "d": "05/08",
+   "t": "S1 : CA 1,09 Md€ (+0,9 %), marge d'EBITDA 22,4 % contre 23,2 %, bénéfice net +3,8 %. Prévision 2026 : organique -2 % à +3 %."
   }
  ],
  "histo": [
-  [
-   "30/09",
-   38.98
-  ],
   [
    "01/10",
    39.4
@@ -1187,6 +1188,10 @@
   [
    "08/10",
    35.18
+  ],
+  [
+   "09/10",
+   36.18
   ]
  ],
  "nom": "Interpump Group",
@@ -1195,9 +1200,9 @@
  "per26": 16.5,
  "per27": 14.8,
  "perf": {
-  "m1": -4.2,
-  "m3": 4.8,
-  "m12": -8.8
+  "m1": 2.5,
+  "m3": 3.0,
+  "m12": -8.6
  },
  "pub": "2026-11-13",
  "pubLabel": "Résultats du T3",
@@ -1404,13 +1409,13 @@
     {
      "c": "Que la transition après Fulvio Montipò préserve la culture de marges élevées et de discipline de prix.",
      "etat": "watch",
-     "preuve": "Marge d'EBITDA T2 2026 de 22,9 % contre 23,8 % ; objectif 2026 de 22 à 22,5 %.",
+     "preuve": "Communiqué relayé par Teleborsa le 06/10/2026.",
      "prochain": "Résultats du T3 2026 le 13/11/2026",
-     "reponse": "La transition n'a pas encore eu lieu. La marge reste élevée mais s'effrite un peu, et aucun calendrier de succession n'est public.",
-     "source": "https://www.investing.com/news/company-news/interpump-q2-2026-slides-hydraulics-strength-offsets-water-jetting-dip-93CH-4838555"
+     "reponse": "Un dirigeant stratégique part le 05/10 sans explication : rien ne montre un changement de discipline de prix, mais l'équipe de direction bouge encore.",
+     "source": "https://www.borsaitaliana.it/borsa/notizie/teleborsa/finanza/interpump-cessato-il-rapporto-di-lavoro-con-il-dirigente-riccardo-mastronardi-189_2026-10-06_TLB.html?lang=it"
     }
    ],
-   "le": "2026-09-29",
+   "le": "2026-10-09",
    "questions": [
     {
      "etat": "watch",

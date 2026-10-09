@@ -106,18 +106,18 @@
   ],
   "tech": {
    "bas52": 71.7,
-   "cours": 87.9,
-   "coursLe": "2026-10-08",
+   "cours": 88.7,
+   "coursLe": "2026-10-09",
    "haut52": 92.1,
-   "lecture": "Cours de 87,90 en dessous de sa moyenne 50 jours (88,21) et au-dessus de sa moyenne 200 jours (83,78). RSI 51,1 : élan neutre. Il se situe à 79 % de sa fourchette sur un an (de 71,70 à 92,10), performance sur 12 mois de 3,2 %. Clôture du 08/10/2026.",
-   "mm200": 83.78,
-   "mm50": 88.21,
+   "lecture": "Cours de 88,70 au-dessus de sa moyenne 50 jours (88,23) et au-dessus de sa moyenne 200 jours (83,77). RSI 54,5 : élan neutre. Il se situe à 83 % de sa fourchette sur un an (de 71,70 à 92,10), performance sur 12 mois de 3,9 %. Clôture du 09/10/2026.",
+   "mm200": 83.77,
+   "mm50": 88.23,
    "resistance": 91.7,
-   "rsi14": 51.1,
+   "rsi14": 54.5,
    "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json",
-   "stade": 3,
+   "stade": 2,
    "support": 86.8,
-   "tendance": "neutre"
+   "tendance": "haussiere"
   },
   "verdict": "Vidrala est un verrier très bien géré, avec des marges records (près de 30 % d'EBITDA) malgré une demande européenne faible, une dette très basse et un rachat d'actions en cours, pour un PER d'environ 13,7. La croissance reste modeste, donc le rendement futur viendra surtout de la régularité des profits, du dividende et des rachats, avec le coût de l'énergie comme risque principal.",
   "zones": {
@@ -136,8 +136,8 @@
   }
  },
  "capi": "3,1 Md€",
- "cours": 87.9,
- "coursLe": "2026-10-08",
+ "cours": 88.7,
+ "coursLe": "2026-10-09",
  "devise": "€",
  "faits": [
   {
@@ -154,10 +154,6 @@
   }
  ],
  "histo": [
-  [
-   "02/10",
-   90.3
-  ],
   [
    "03/10",
    90.4
@@ -1193,6 +1189,10 @@
   [
    "08/10",
    87.9
+  ],
+  [
+   "09/10",
+   88.7
   ]
  ],
  "nom": "Vidrala",
@@ -1201,9 +1201,9 @@
  "per26": 13.7,
  "per27": 12.8,
  "perf": {
-  "m1": -0.2,
-  "m3": -2.0,
-  "m12": 3.2
+  "m1": 1.4,
+  "m3": -1.9,
+  "m12": 3.9
  },
  "pub": "2026-10-28",
  "pubLabel": "Résultats du T3",

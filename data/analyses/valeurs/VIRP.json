@@ -103,14 +103,14 @@
   ],
   "tech": {
    "bas52": 302.0,
-   "cours": 315.5,
-   "coursLe": "2026-10-08",
+   "cours": 317.5,
+   "coursLe": "2026-10-09",
    "haut52": 384.0,
-   "lecture": "Cours de 315,50 en dessous de sa moyenne 50 jours (320,93) et en dessous de sa moyenne 200 jours (343,93). RSI 52,7 : élan neutre. Il se situe à 16 % de sa fourchette sur un an (de 302,00 à 384,00), performance sur 12 mois de 2,6 %. Clôture du 08/10/2026.",
-   "mm200": 343.93,
-   "mm50": 320.93,
+   "lecture": "Cours de 317,50 en dessous de sa moyenne 50 jours (320,53) et en dessous de sa moyenne 200 jours (343,73). RSI 54,9 : élan neutre. Il se situe à 19 % de sa fourchette sur un an (de 302,00 à 384,00), performance sur 12 mois de 3,1 %. Clôture du 09/10/2026.",
+   "mm200": 343.73,
+   "mm50": 320.53,
    "resistance": 317,
-   "rsi14": 52.7,
+   "rsi14": 54.9,
    "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json",
    "stade": 4,
    "support": 296,
@@ -133,8 +133,8 @@
   }
  },
  "capi": "2,54 Md€",
- "cours": 315.5,
- "coursLe": "2026-10-08",
+ "cours": 317.5,
+ "coursLe": "2026-10-09",
  "devise": "€",
  "faits": [
   {
@@ -155,10 +155,6 @@
   }
  ],
  "histo": [
-  [
-   "02/10",
-   321.5
-  ],
   [
    "03/10",
    323.0
@@ -1194,6 +1190,10 @@
   [
    "08/10",
    315.5
+  ],
+  [
+   "09/10",
+   317.5
   ]
  ],
  "nom": "Virbac",
@@ -1202,9 +1202,9 @@
  "per26": 14.7,
  "per27": 13.2,
  "perf": {
-  "m1": 2.4,
-  "m3": -2.8,
-  "m12": 2.6
+  "m1": 5.1,
+  "m3": -1.4,
+  "m12": 3.1
  },
  "pub": "2026-10-19",
  "pubLabel": "CA du T3",

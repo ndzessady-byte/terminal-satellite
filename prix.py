@@ -86,6 +86,16 @@ for code, m in etfs.items():
         }
     except Exception as e:
         out["erreurs"]["ETF_" + code] = f"{sym} : {e}"
+# Yahoo renvoie parfois une série en retard d'un jour : on garde alors la version précédente, plus récente.
+try:
+    ancien = json.load(open("data/prices.json"))
+    for rub in ("series", "matieres", "etfs"):
+        for code, s in ancien.get(rub, {}).items():
+            n = out[rub].get(code)
+            if n is None or (s.get("dernierLe") or "") > (n.get("dernierLe") or ""):
+                out[rub][code] = s
+except Exception:
+    pass
 os.makedirs("data", exist_ok=True)
 json.dump(out, open("data/prices.json", "w"), ensure_ascii=False, separators=(",", ":"))
 print(f"{len(out['series'])} valeurs OK, {len(out['matieres'])} matières, {len(out['etfs'])} ETF, {len(out['erreurs'])} erreurs", out["erreurs"])

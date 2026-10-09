@@ -105,18 +105,18 @@
   ],
   "tech": {
    "bas52": 31.8,
-   "cours": 43.45,
-   "coursLe": "2026-10-08",
+   "cours": 44.15,
+   "coursLe": "2026-10-09",
    "haut52": 45.7,
-   "lecture": "Cours de 43,45 en dessous de sa moyenne 50 jours (43,60) et au-dessus de sa moyenne 200 jours (40,09). RSI 51,2 : élan neutre. Il se situe à 84 % de sa fourchette sur un an (de 31,80 à 45,70), performance sur 12 mois de 23,6 %. Clôture du 08/10/2026.",
+   "lecture": "Cours de 44,15 au-dessus de sa moyenne 50 jours (43,66) et au-dessus de sa moyenne 200 jours (40,09). RSI 55,6 : élan neutre. Il se situe à 89 % de sa fourchette sur un an (de 31,80 à 45,70), performance sur 12 mois de 18,8 %. Clôture du 09/10/2026.",
    "mm200": 40.09,
-   "mm50": 43.6,
+   "mm50": 43.66,
    "resistance": 47.65,
-   "rsi14": 51.2,
+   "rsi14": 55.6,
    "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json",
-   "stade": 3,
+   "stade": 2,
    "support": 39.9,
-   "tendance": "neutre"
+   "tendance": "haussiere"
   },
   "verdict": "Harvia est le leader mondial des saunas, tres rentable et peu endette, avec une croissance forte tiree par l'Amerique du Nord (+38,6 % au T2, 44 % des ventes). Le prix (PER 2026 de 24,7) paie deja cette croissance et le trimestre a montre une marge plus faible (16,2 %) a cause d'un chantier informatique en usine et d'un produit mix moins favorable.",
   "zones": {
@@ -136,8 +136,8 @@
   }
  },
  "capi": "0,8 Md€",
- "cours": 43.45,
- "coursLe": "2026-10-08",
+ "cours": 44.15,
+ "coursLe": "2026-10-09",
  "devise": "€",
  "faits": [
   {
@@ -158,10 +158,6 @@
   }
  ],
  "histo": [
-  [
-   "25/09",
-   34.7
-  ],
   [
    "26/09",
    33.95
@@ -1197,6 +1193,10 @@
   [
    "08/10",
    43.45
+  ],
+  [
+   "09/10",
+   44.15
   ]
  ],
  "nom": "Harvia",
@@ -1205,9 +1205,9 @@
  "per26": 23.8,
  "per27": 19.4,
  "perf": {
-  "m1": -0.8,
-  "m3": 8.5,
-  "m12": 23.6
+  "m1": 1.6,
+  "m3": 11.2,
+  "m12": 18.8
  },
  "pub": "2026-10-29",
  "pubLabel": "Résultats 9 mois",

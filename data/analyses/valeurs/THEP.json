@@ -3,6 +3,13 @@
   "aVerifier": "Montant du CA S1 2026 contradictoire selon les sources (273,2 M€ ou 287,95 M€), seule la croissance a été retenue. Date de publication du CA du T3 non trouvée dans le calendrier lu. Nom et taille des sociétés acquises qui expliquent la croissance externe non trouvés. ROE calculé à partir des ratios Zonebourse. Couverture des intérêts, PER moyen sur 5 ans complet, comparaison avec les pairs et Piotroski non trouvés.",
   "actu": [
    {
+    "d": "02/10",
+    "fait": "L'aide de l'État à l'Anah baisse de 200 M€ en 2027 (1,2 Md€ contre 1,4 Md€). MaPrimeRénov' se recentre sur les rénovations complètes des ménages modestes et certains travaux comme la pompe à chaleur ; la plupart des petits travaux isolés passent aux certificats d'économies d'énergie.",
+    "impact": "negatif",
+    "horizon": "moyen",
+    "lecture": "Le soutien public à la rénovation baisse encore, ce qui repousse la reprise attendue par la thèse ; le maintien de l'aide aux pompes à chaleur limite l'effet pour Thermador."
+   },
+   {
     "d": "01/10",
     "fait": "Le gouvernement présente le projet de loi de finances 2027. Une seule source parle de 500 M€ de moins pour MaPrimeRénov', chiffre non retenu à ce stade.",
     "impact": "negatif",
@@ -22,13 +29,6 @@
     "impact": "negatif",
     "horizon": "moyen",
     "lecture": "Un budget de rigueur rend peu probable une relance des aides à la rénovation en 2027, le point le plus fragile de la thèse."
-   },
-   {
-    "d": "10/09",
-    "fait": "La BCE relève ses taux pour la deuxième fois de l'année.",
-    "horizon": "moyen",
-    "impact": "negatif",
-    "lecture": "Le crédit immobilier plus cher freine la construction et la rénovation, principaux débouchés de Thermador."
    }
   ],
   "cadres": [
@@ -90,6 +90,8 @@
    }
   ],
   "sources": [
+   "https://www.batiweb.com/actualites/legislation/budget-2027-anah-baisse-200-millions-maprimerenov-49378",
+   "https://www.sudradio.fr/societe/maprimerenov-le-budget-de-lanah-en-baisse-de-200-millions-deuros",
    "https://www.toutsurmesfinances.com/argent/a/loi-de-finances-2027",
    "https://www.thermador-groupe.fr/en/shareholders/regulated-information/",
    "https://www.banquedesterritoires.fr/budget-2027-le-gouvernement-prevoit-un-effort-inedit-de-54-milliards-deuros",
@@ -105,14 +107,14 @@
   ],
   "tech": {
    "bas52": 65.0,
-   "cours": 65.0,
-   "coursLe": "2026-10-08",
+   "cours": 66.5,
+   "coursLe": "2026-10-09",
    "haut52": 81.8,
-   "lecture": "Cours de 65,00 en dessous de sa moyenne 50 jours (73,29) et en dessous de sa moyenne 200 jours (73,72). RSI 24,9 : élan faible. Il se situe à 0 % de sa fourchette sur un an (de 65,00 à 81,80), performance sur 12 mois de -7,9 %. Clôture du 08/10/2026.",
-   "mm200": 73.72,
-   "mm50": 73.29,
+   "lecture": "Cours de 66,50 en dessous de sa moyenne 50 jours (73,10) et en dessous de sa moyenne 200 jours (73,66). RSI 34,7 : élan neutre. Il se situe à 9 % de sa fourchette sur un an (de 65,00 à 81,80), performance sur 12 mois de -4,2 %. Clôture du 09/10/2026.",
+   "mm200": 73.66,
+   "mm50": 73.1,
    "resistance": 71.7,
-   "rsi14": 24.9,
+   "rsi14": 34.7,
    "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json",
    "stade": 4,
    "support": 66.76,
@@ -135,13 +137,17 @@
   }
  },
  "capi": "642 M€",
- "cours": 65.0,
- "coursLe": "2026-10-08",
+ "cours": 66.5,
+ "coursLe": "2026-10-09",
  "devise": "€",
  "faits": [
   {
    "d": "08/10",
    "t": "Clôture à 65,00 €, au plus bas de la séance, sans nouvelle propre : le titre entre dans sa zone d'intérêt avec le climat français (taux, budget logement)."
+  },
+  {
+   "d": "02/10",
+   "t": "Budget 2027 : l'aide de l'État à l'Anah, qui verse MaPrimeRénov', passe de 1,4 à 1,2 Md€ selon une annexe au projet de loi de finances ; les pompes à chaleur restent aidées."
   },
   {
    "d": "01/10",
@@ -150,17 +156,9 @@
   {
    "d": "28/09",
    "t": "Le rachat d'actions tourne : déclarations hebdomadaires publiées les 14, 22 et 28/09."
-  },
-  {
-   "d": "17/09",
-   "t": "Budget 2027 : 54 Md€ d'économies visées, y compris sur les aides au logement. Le sort de MaPrimeRénov' n'est pas encore précisé."
   }
  ],
  "histo": [
-  [
-   "02/10",
-   72.9
-  ],
   [
    "03/10",
    73.9
@@ -1196,6 +1194,10 @@
   [
    "08/10",
    65.0
+  ],
+  [
+   "09/10",
+   66.5
   ]
  ],
  "nom": "Thermador Groupe",
@@ -1204,9 +1206,9 @@
  "per26": 13,
  "per27": 12.3,
  "perf": {
-  "m1": -9.8,
-  "m3": -16.7,
-  "m12": -7.9
+  "m1": -7.3,
+  "m3": -17.0,
+  "m12": -4.2
  },
  "pub": "2026-10-15",
  "pubLabel": "CA du T3",
@@ -1413,10 +1415,10 @@
     {
      "c": "Que le bâtiment et la rénovation énergétique en France vont repartir (aides, pompes à chaleur, objectifs de construction) après trois années difficiles.",
      "etat": "watch",
-     "preuve": "Présentation du projet de loi de finances 2027 le 01/10/2026 ; une seule source annonce 500 M€ de moins pour MaPrimeRénov'.",
+     "preuve": "Annexe au PLF 2027 reprise par l'AFP (02/10) et Batiweb (05/10).",
      "prochain": "CA du T3 le 15/10/2026 (webconférence le 19/10)",
-     "reponse": "Toujours pas tranché : le budget 2027 est présenté le 01/10, mais le montant de MaPrimeRénov' n'est pas encore confirmé par deux sources.",
-     "source": "https://www.toutsurmesfinances.com/argent/a/loi-de-finances-2027"
+     "reponse": "Le budget 2027 réduit encore l'aide à l'Anah (-200 M€), les pompes à chaleur restent aidées : pas de coup de pouce public pour une reprise rapide.",
+     "source": "https://www.batiweb.com/actualites/legislation/budget-2027-anah-baisse-200-millions-maprimerenov-49378"
     },
     {
      "c": "Que la baisse des prix est terminée et que l'effet prix redevient positif en 2026, comme l'annonce la direction.",
@@ -1435,7 +1437,7 @@
      "source": "https://www.thermador-groupe.fr/communique-de-presse/publication-des-resultats-semestriels-2026/"
     }
    ],
-   "le": "2026-10-01",
+   "le": "2026-10-09",
    "questions": [
     {
      "etat": "watch",

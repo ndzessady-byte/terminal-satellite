@@ -104,15 +104,15 @@
    "https://www.estrategiasdeinversion.com/actualidad/noticias/bolsa-espana/viscofan-espera-alcanzar-1800-millones-de-euros-n-894213"
   ],
   "tech": {
-   "bas52": 51.1,
-   "cours": 54.4,
-   "coursLe": "2026-10-08",
+   "bas52": 51.6,
+   "cours": 53.6,
+   "coursLe": "2026-10-09",
    "haut52": 62.1,
-   "lecture": "Cours de 54,40 en dessous de sa moyenne 50 jours (55,75) et en dessous de sa moyenne 200 jours (57,22). RSI 48,5 : élan neutre. Il se situe à 30 % de sa fourchette sur un an (de 51,10 à 62,10), performance sur 12 mois de 6,5 %. Clôture du 08/10/2026.",
+   "lecture": "Cours de 53,60 en dessous de sa moyenne 50 jours (55,67) et en dessous de sa moyenne 200 jours (57,22). RSI 42,2 : élan neutre. Il se situe à 19 % de sa fourchette sur un an (de 51,60 à 62,10), performance sur 12 mois de 0,0 %. Clôture du 09/10/2026.",
    "mm200": 57.22,
-   "mm50": 55.75,
+   "mm50": 55.67,
    "resistance": 57.8,
-   "rsi14": 48.5,
+   "rsi14": 42.2,
    "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json",
    "stade": 4,
    "support": 53.11,
@@ -135,8 +135,8 @@
   }
  },
  "capi": "2,5 Md€",
- "cours": 54.4,
- "coursLe": "2026-10-08",
+ "cours": 53.6,
+ "coursLe": "2026-10-09",
  "devise": "€",
  "faits": [
   {
@@ -153,10 +153,6 @@
   }
  ],
  "histo": [
-  [
-   "02/10",
-   58.0
-  ],
   [
    "03/10",
    57.6
@@ -1192,6 +1188,10 @@
   [
    "08/10",
    54.4
+  ],
+  [
+   "09/10",
+   53.6
   ]
  ],
  "nom": "Viscofan",
@@ -1201,8 +1201,8 @@
  "per27": 14.2,
  "perf": {
   "m1": -3.2,
-  "m3": -1.4,
-  "m12": 6.5
+  "m3": -2.5,
+  "m12": 0.0
  },
  "pub": "2026-10-22",
  "pubLabel": "Résultats du T3 2026 (après la clôture)",

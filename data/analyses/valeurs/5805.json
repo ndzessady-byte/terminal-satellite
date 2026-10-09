@@ -3,8 +3,8 @@
  "nom": "SWCC",
  "pays": "JP",
  "secteur": "Câbles électriques et de communication",
- "cours": 2834.0,
- "coursLe": "2026-10-08",
+ "cours": 2740.0,
+ "coursLe": "2026-10-09",
  "devise": "JPY",
  "capi": "environ 408 Md¥ (environ 2,3 Md€)",
  "per26": 17.4,
@@ -37,10 +37,6 @@
  "yahoo": "5805.T",
  "compte": "CTO",
  "histo": [
-  [
-   "11/09",
-   1718.0
-  ],
   [
    "12/09",
    1748.0
@@ -1076,12 +1072,16 @@
   [
    "08/10",
    2834.0
+  ],
+  [
+   "09/10",
+   2740.0
   ]
  ],
  "perf": {
-  "m1": 3.1,
-  "m3": 14.5,
-  "m12": 80.7
+  "m1": -2.8,
+  "m3": 15.0,
+  "m12": 71.7
  },
  "analyse": {
   "majLe": "2026-10-01",
@@ -1100,18 +1100,18 @@
    "greenblatt": "Rendement bénéficiaire calculé (résultat opérationnel prévu de 33 Md¥ / valeur d'entreprise de 433 Md¥) d'environ 7,6 % et ROIC visé de 13,8 % cette année : profil correct sur la formule magique, sans être exceptionnel."
   },
   "tech": {
-   "cours": 2834.0,
-   "coursLe": "2026-10-08",
-   "mm50": 2681.4,
-   "mm200": 2659.46,
-   "rsi14": 54.7,
+   "cours": 2740.0,
+   "coursLe": "2026-10-09",
+   "mm50": 2690.28,
+   "mm200": 2662.32,
+   "rsi14": 49.5,
    "haut52": 3806.0,
    "bas52": 1412.0,
    "support": 2580,
    "resistance": 2940,
    "tendance": "haussiere",
    "stade": 2,
-   "lecture": "Cours de 2 834,00 au-dessus de sa moyenne 50 jours (2 681,40) et au-dessus de sa moyenne 200 jours (2 659,46). RSI 54,7 : élan neutre. Il se situe à 59 % de sa fourchette sur un an (de 1 412,00 à 3 806,00), performance sur 12 mois de 80,7 %. Clôture du 08/10/2026.",
+   "lecture": "Cours de 2 740,00 au-dessus de sa moyenne 50 jours (2 690,28) et au-dessus de sa moyenne 200 jours (2 662,32). RSI 49,5 : élan neutre. Il se situe à 55 % de sa fourchette sur un an (de 1 412,00 à 3 806,00), performance sur 12 mois de 71,7 %. Clôture du 09/10/2026.",
    "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json"
   },
   "actu": [

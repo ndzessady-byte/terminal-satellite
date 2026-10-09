@@ -109,14 +109,14 @@
   ],
   "tech": {
    "bas52": 101.2,
-   "cours": 120.0,
-   "coursLe": "2026-10-08",
+   "cours": 122.0,
+   "coursLe": "2026-10-09",
    "haut52": 249.8,
-   "lecture": "Cours de 120,00 en dessous de sa moyenne 50 jours (126,09) et en dessous de sa moyenne 200 jours (129,20). RSI 42,9 : élan neutre. Il se situe à 13 % de sa fourchette sur un an (de 101,20 à 249,80), performance sur 12 mois de -50,7 %. Clôture du 08/10/2026.",
-   "mm200": 129.2,
-   "mm50": 126.09,
+   "lecture": "Cours de 122,00 en dessous de sa moyenne 50 jours (125,94) et en dessous de sa moyenne 200 jours (128,78). RSI 45,8 : élan neutre. Il se situe à 14 % de sa fourchette sur un an (de 101,20 à 249,80), performance sur 12 mois de -49,7 %. Clôture du 09/10/2026.",
+   "mm200": 128.78,
+   "mm50": 125.94,
    "resistance": 144,
-   "rsi14": 42.9,
+   "rsi14": 45.8,
    "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json",
    "stade": 4,
    "support": 114,
@@ -139,8 +139,8 @@
   }
  },
  "capi": "2,06 Md€",
- "cours": 120.0,
- "coursLe": "2026-10-08",
+ "cours": 122.0,
+ "coursLe": "2026-10-09",
  "devise": "€",
  "faits": [
   {
@@ -161,10 +161,6 @@
   }
  ],
  "histo": [
-  [
-   "02/10",
-   253.2
-  ],
   [
    "03/10",
    253.6
@@ -1200,6 +1196,10 @@
   [
    "08/10",
    120.0
+  ],
+  [
+   "09/10",
+   122.0
   ]
  ],
  "nom": "Vusion",
@@ -1208,9 +1208,9 @@
  "per26": 15.3,
  "per27": 12.5,
  "perf": {
-  "m1": 2.9,
-  "m3": -10.6,
-  "m12": -50.7
+  "m1": 4.8,
+  "m3": -7.5,
+  "m12": -49.7
  },
  "pub": "2026-10-20",
  "pubLabel": "CA du T3",

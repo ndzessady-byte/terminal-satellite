@@ -3,8 +3,8 @@
  "nom": "Theon International",
  "pays": "CY",
  "secteur": "Défense (vision nocturne et optronique)",
- "cours": 27.22,
- "coursLe": "2026-10-08",
+ "cours": 27.78,
+ "coursLe": "2026-10-09",
  "devise": "€",
  "capi": "environ 2,3 Md€",
  "per26": 19.5,
@@ -37,10 +37,6 @@
  "yahoo": "THEON.AS",
  "compte": "PEA",
  "histo": [
-  [
-   "02/10",
-   34.3
-  ],
   [
    "03/10",
    35.25
@@ -1076,12 +1072,16 @@
   [
    "08/10",
    27.22
+  ],
+  [
+   "09/10",
+   27.78
   ]
  ],
  "perf": {
-  "m1": -14.9,
-  "m3": -14.5,
-  "m12": -18.0
+  "m1": -14.4,
+  "m3": -11.6,
+  "m12": -6.6
  },
  "analyse": {
   "majLe": "2026-10-01",
@@ -1100,18 +1100,18 @@
    "greenblatt": "Rendement bénéficiaire (EBIT 2026 attendu / valeur d'entreprise) d'environ 6,2 % et rendement du capital élevé hors participations (peu d'investissements industriels) : profil correct mais pas exceptionnel sur la formule magique, car la valeur d'entreprise intègre désormais une dette et des participations financières."
   },
   "tech": {
-   "cours": 27.22,
-   "coursLe": "2026-10-08",
-   "mm50": 32.72,
+   "cours": 27.78,
+   "coursLe": "2026-10-09",
+   "mm50": 32.62,
    "mm200": 31.81,
-   "rsi14": 29.0,
+   "rsi14": 33.8,
    "haut52": 38.32,
    "bas52": 23.8,
    "support": 27.25,
    "resistance": 31.8,
    "tendance": "neutre",
    "stade": 3,
-   "lecture": "Cours de 27,22 en dessous de sa moyenne 50 jours (32,72) et en dessous de sa moyenne 200 jours (31,81). RSI 29,0 : élan faible. Il se situe à 24 % de sa fourchette sur un an (de 23,80 à 38,32), performance sur 12 mois de -18,0 %. Clôture du 08/10/2026.",
+   "lecture": "Cours de 27,78 en dessous de sa moyenne 50 jours (32,62) et en dessous de sa moyenne 200 jours (31,81). RSI 33,8 : élan neutre. Il se situe à 27 % de sa fourchette sur un an (de 23,80 à 38,32), performance sur 12 mois de -6,6 %. Clôture du 09/10/2026.",
    "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json"
   },
   "actu": [

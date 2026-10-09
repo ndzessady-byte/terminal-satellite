@@ -3,6 +3,13 @@
   "aVerifier": "Moyenne 200 jours non lue. Couverture des interets, F-score de Piotroski et multiples des concurrents non trouves. PER 2026 : 18,7 chez Zonebourse contre 15,2 chez Boursorama (definitions de BPA differentes). Date de fin du rachat d'actions (9/10) lue sur un site secondaire, a confirmer. Objectif moyen des analystes (45,36 €) date du 18/08.",
   "actu": [
    {
+    "d": "06/10",
+    "fait": "Le rachat d'actions de 75 M€ arrive à son terme : 71,4 M€ réalisés au 02/10, soit environ 95 % du programme.",
+    "impact": "neutre",
+    "horizon": "court",
+    "lecture": "Rien sur l'activité ; le point qui compte reste le chiffre d'affaires du T3 le 22/10."
+   },
+   {
     "d": "30/09",
     "fait": "Selon une seule source, ING garde sa recommandation à l'achat et relève nettement son objectif de cours après le premier semestre. Montants non repris faute de seconde source.",
     "impact": "positif",
@@ -22,13 +29,6 @@
     "horizon": "court",
     "impact": "positif",
     "lecture": "Soutient le BPA par action et le cours a court terme, mais reste modeste face a une capitalisation d'environ 4,5 Md€."
-   },
-   {
-    "d": "04/08",
-    "fait": "Le bureau d'analyse AlphaValue/Baader reste negatif sur le titre (opinion passee de vente a allegement la veille).",
-    "horizon": "court",
-    "impact": "negatif",
-    "lecture": "Signale qu'une partie des analystes juge le rebond deja largement integre dans le cours."
    }
   ],
   "cadres": [
@@ -89,6 +89,7 @@
    }
   ],
   "sources": [
+   "https://www.globenewswire.com/news-release/2026/10/06/3375263/0/en/aalberts-reports-the-progress-of-its-share-buyback-programme-28-september-2-october-2026.html",
    "https://www.ad-hoc-news.de/boerse/news/corporate-news/ing-raises-target-for-aalberts-stock-from-eur-39-50-to-eur-47-25/70209918",
    "https://www.globenewswire.com/news-release/2026/09/29/3370608/0/en/aalberts-reports-the-progress-of-its-share-buyback-programme-21-september-25-september-2026.html",
    "https://ml-eu.globenewswire.com/Resource/Download/f4dfb894-080f-4a11-a7af-1c2c585a91a9",
@@ -103,14 +104,14 @@
   ],
   "tech": {
    "bas52": 26.04,
-   "cours": 41.52,
-   "coursLe": "2026-10-08",
+   "cours": 42.16,
+   "coursLe": "2026-10-09",
    "haut52": 45.08,
-   "lecture": "Cours de 41,52 en dessous de sa moyenne 50 jours (42,79) et au-dessus de sa moyenne 200 jours (36,85). RSI 44,7 : élan neutre. Il se situe à 81 % de sa fourchette sur un an (de 26,04 à 45,08), performance sur 12 mois de 52,3 %. Clôture du 08/10/2026.",
-   "mm200": 36.85,
-   "mm50": 42.79,
+   "lecture": "Cours de 42,16 en dessous de sa moyenne 50 jours (42,78) et au-dessus de sa moyenne 200 jours (36,92). RSI 48,8 : élan neutre. Il se situe à 85 % de sa fourchette sur un an (de 26,04 à 45,08), performance sur 12 mois de 54,7 %. Clôture du 09/10/2026.",
+   "mm200": 36.92,
+   "mm50": 42.78,
    "resistance": 45.5,
-   "rsi14": 44.7,
+   "rsi14": 48.8,
    "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json",
    "stade": 3,
    "support": 38.78,
@@ -134,10 +135,14 @@
   }
  },
  "capi": "4,5 Md€",
- "cours": 41.52,
- "coursLe": "2026-10-08",
+ "cours": 42.16,
+ "coursLe": "2026-10-09",
  "devise": "€",
  "faits": [
+  {
+   "d": "06/10",
+   "t": "Rachat d'actions : 81 500 actions achetées du 28/09 au 02/10 à 42,92 € en moyenne ; 71,4 M€ réalisés sur 75 M€ au total, fin prévue au plus tard le 09/10."
+  },
   {
    "d": "30/09",
    "t": "ING reste à l'achat et relève son objectif de cours (une seule source, montant non repris)."
@@ -149,17 +154,9 @@
   {
    "d": "22/09",
    "t": "Rachat d'actions : 64,5 M€ sur 75 M€ réalisés au 18/09 (prix moyen de la semaine 40,52 €), fin au plus tard le 09/10."
-  },
-  {
-   "d": "23/07",
-   "t": "S1 : CA 1 560 M€, croissance organique +5,0 %, marge EBITA 14,4 %. Vise mieux que 2025 sur l'année."
   }
  ],
  "histo": [
-  [
-   "02/10",
-   28.8
-  ],
   [
    "03/10",
    28.88
@@ -1195,6 +1192,10 @@
   [
    "08/10",
    41.52
+  ],
+  [
+   "09/10",
+   42.16
   ]
  ],
  "nom": "Aalberts",
@@ -1203,9 +1204,9 @@
  "per26": 18.7,
  "per27": 15.8,
  "perf": {
-  "m1": -3.4,
-  "m3": 4.8,
-  "m12": 52.3
+  "m1": 0.7,
+  "m3": 5.4,
+  "m12": 54.7
  },
  "pub": "2026-10-22",
  "pubLabel": "Point d'activité du T3",

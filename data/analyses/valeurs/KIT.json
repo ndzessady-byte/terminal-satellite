@@ -105,14 +105,14 @@
   ],
   "tech": {
    "bas52": 56.7,
-   "cours": 103.8,
-   "coursLe": "2026-10-08",
+   "cours": 103.9,
+   "coursLe": "2026-10-09",
    "haut52": 114.3,
-   "lecture": "Cours de 103,80 au-dessus de sa moyenne 50 jours (94,28) et au-dessus de sa moyenne 200 jours (95,75). RSI 63,4 : élan neutre. Il se situe à 82 % de sa fourchette sur un an (de 56,70 à 114,30), performance sur 12 mois de 73,6 %. Clôture du 08/10/2026.",
-   "mm200": 95.75,
-   "mm50": 94.28,
+   "lecture": "Cours de 103,90 au-dessus de sa moyenne 50 jours (94,62) et au-dessus de sa moyenne 200 jours (95,93). RSI 63,6 : élan neutre. Il se situe à 82 % de sa fourchette sur un an (de 56,70 à 114,30), performance sur 12 mois de 75,1 %. Clôture du 09/10/2026.",
+   "mm200": 95.93,
+   "mm50": 94.62,
    "resistance": 101.2,
-   "rsi14": 63.4,
+   "rsi14": 63.6,
    "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json",
    "stade": 1,
    "support": 89.3,
@@ -135,8 +135,8 @@
   }
  },
  "capi": "1,98 Md€",
- "cours": 103.8,
- "coursLe": "2026-10-08",
+ "cours": 103.9,
+ "coursLe": "2026-10-09",
  "devise": "NOK",
  "faits": [
   {
@@ -149,10 +149,6 @@
   }
  ],
  "histo": [
-  [
-   "25/09",
-   59.5
-  ],
   [
    "26/09",
    59.15
@@ -1188,6 +1184,10 @@
   [
    "08/10",
    103.8
+  ],
+  [
+   "09/10",
+   103.9
   ]
  ],
  "nom": "Kitron",
@@ -1196,9 +1196,9 @@
  "per26": 23.8,
  "per27": 19.7,
  "perf": {
-  "m1": 8.8,
+  "m1": 10.2,
   "m3": 18.6,
-  "m12": 73.6
+  "m12": 75.1
  },
  "pub": "2026-10-22",
  "pubLabel": "Résultats T3",

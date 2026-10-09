@@ -105,14 +105,14 @@
   ],
   "tech": {
    "bas52": 40.5,
-   "cours": 48.5,
-   "coursLe": "2026-10-08",
+   "cours": 49.7,
+   "coursLe": "2026-10-09",
    "haut52": 61.3,
-   "lecture": "Cours de 48,50 en dessous de sa moyenne 50 jours (53,83) et en dessous de sa moyenne 200 jours (52,17). RSI 33,2 : élan neutre. Il se situe à 38 % de sa fourchette sur un an (de 40,50 à 61,30), performance sur 12 mois de 5,4 %. Clôture du 08/10/2026.",
-   "mm200": 52.17,
-   "mm50": 53.83,
+   "lecture": "Cours de 49,70 en dessous de sa moyenne 50 jours (53,72) et en dessous de sa moyenne 200 jours (52,14). RSI 41,0 : élan neutre. Il se situe à 44 % de sa fourchette sur un an (de 40,50 à 61,30), performance sur 12 mois de 9,8 %. Clôture du 09/10/2026.",
+   "mm200": 52.14,
+   "mm50": 53.72,
    "resistance": 52.3,
-   "rsi14": 33.2,
+   "rsi14": 41.0,
    "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json",
    "stade": 3,
    "support": 46.47,
@@ -135,8 +135,8 @@
   }
  },
  "capi": "647 M€",
- "cours": 48.5,
- "coursLe": "2026-10-08",
+ "cours": 49.7,
+ "coursLe": "2026-10-09",
  "devise": "€",
  "faits": [
   {
@@ -153,10 +153,6 @@
   }
  ],
  "histo": [
-  [
-   "02/10",
-   49.2
-  ],
   [
    "03/10",
    48.4
@@ -1192,6 +1188,10 @@
   [
    "08/10",
    48.5
+  ],
+  [
+   "09/10",
+   49.7
   ]
  ],
  "nom": "Aubay",
@@ -1200,9 +1200,9 @@
  "per26": 13.6,
  "per27": 12.4,
  "perf": {
-  "m1": -7.4,
-  "m3": -9.9,
-  "m12": 5.4
+  "m1": -5.2,
+  "m3": -8.8,
+  "m12": 9.8
  },
  "pub": "2026-10-28",
  "pubLabel": "CA du T3",

@@ -2,6 +2,20 @@
  "analyse": {
   "actu": [
    {
+    "d": "févr. à sept.",
+    "fait": "Le titre était tombé vers 97 € en février 2026 (contre 160 € un an plus tôt) sur la crainte que l'IA menace les sociétés de services informatiques, puis a rebondi d'environ 50 % en six mois.",
+    "horizon": "long",
+    "impact": "neutre",
+    "lecture": "C'est le vrai débat du dossier : si l'IA réduit le nombre de jours facturés, la croissance ralentira ; si Reply vend l'IA à ses clients, elle en profitera."
+   },
+   {
+    "d": "10/08",
+    "fait": "Finalisation de l'acquisition de Fedtec.",
+    "horizon": "moyen",
+    "impact": "neutre",
+    "lecture": "Acquisition ciblée dans la lignée du modèle habituel (petites sociétés spécialisées), sans risque pour le bilan."
+   },
+   {
     "d": "31/07",
     "fait": "Résultats du premier semestre 2026 : CA de 1,31 Md€ (+7,4 %), EBIT stable à 189,7 M€, bénéfice net de 131,8 M€ (+5,7 %), marge d'EBITDA de 17,8 % contre 18,3 %.",
     "horizon": "moyen",
@@ -14,20 +28,6 @@
     "horizon": "long",
     "impact": "positif",
     "lecture": "Montre que Reply transforme l'IA en projets facturables chez de grands clients, ce qui répond à la crainte d'être dépassé par l'IA."
-   },
-   {
-    "d": "10/08",
-    "fait": "Finalisation de l'acquisition de Fedtec.",
-    "horizon": "moyen",
-    "impact": "neutre",
-    "lecture": "Acquisition ciblée dans la lignée du modèle habituel (petites sociétés spécialisées), sans risque pour le bilan."
-   },
-   {
-    "d": "févr. à sept.",
-    "fait": "Le titre était tombé vers 97 € en février 2026 (contre 160 € un an plus tôt) sur la crainte que l'IA menace les sociétés de services informatiques, puis a rebondi d'environ 50 % en six mois.",
-    "horizon": "long",
-    "impact": "neutre",
-    "lecture": "C'est le vrai débat du dossier : si l'IA réduit le nombre de jours facturés, la croissance ralentira ; si Reply vend l'IA à ses clients, elle en profitera."
    }
   ],
   "cadres": [
@@ -90,6 +90,8 @@
    }
   ],
   "sources": [
+   "https://www.reply.com/it/newsroom/financial-news/reply-launch-of-a-share-buyback-program-for-a-maximum-number-of-3607950-shares",
+   "https://www.reply.com/it/newsroom/financial-news/share-buyback-program-july-2026",
    "https://www.zonebourse.com/cours/action/REPLY-S-P-A-38135655/",
    "https://www.zonebourse.com/cours/action/REPLY-S-P-A-38135655/finances/",
    "https://www.zonebourse.com/cours/action/REPLY-S-P-A-38135655/valorisation/",
@@ -102,14 +104,14 @@
   ],
   "tech": {
    "bas52": 77.15,
-   "cours": 123.2,
-   "coursLe": "2026-10-08",
+   "cours": 125.5,
+   "coursLe": "2026-10-09",
    "haut52": 126.5,
-   "lecture": "Cours de 123,20 au-dessus de sa moyenne 50 jours (118,99) et au-dessus de sa moyenne 200 jours (102,75). RSI 57,0 : élan neutre. Il se situe à 93 % de sa fourchette sur un an (de 77,15 à 126,50), performance sur 12 mois de 1,1 %. Clôture du 08/10/2026.",
-   "mm200": 102.75,
-   "mm50": 118.99,
+   "lecture": "Cours de 125,50 au-dessus de sa moyenne 50 jours (119,30) et au-dessus de sa moyenne 200 jours (102,80). RSI 60,6 : élan neutre. Il se situe à 98 % de sa fourchette sur un an (de 77,15 à 126,50), performance sur 12 mois de 4,2 %. Clôture du 09/10/2026.",
+   "mm200": 102.8,
+   "mm50": 119.3,
    "resistance": 118.6,
-   "rsi14": 57.0,
+   "rsi14": 60.6,
    "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json",
    "stade": 2,
    "support": 114.4,
@@ -132,24 +134,28 @@
   }
  },
  "capi": "4,4 Md€",
- "cours": 123.2,
- "coursLe": "2026-10-08",
+ "cours": 125.5,
+ "coursLe": "2026-10-09",
  "devise": "€",
  "faits": [
+  {
+   "d": "10/08",
+   "t": "Rachat de FedTec (États-Unis, environ 100 M$ de CA, 400 salariés), prix non communiqué."
+  },
+  {
+   "d": "03/08",
+   "t": "Rachat en juillet : 203 146 actions à 97,14 € en moyenne ; Reply détient 2,90 % de son capital au 31/07."
+  },
   {
    "d": "30/07",
    "t": "S1 : CA 1 311,9 M€ (+7,4 %), marge d'EBITDA 17,8 %, résultat avant impôt +8,2 %, trésorerie nette 402 M€."
   },
   {
-   "d": "10/08",
-   "t": "Rachat de FedTec (États-Unis, environ 100 M$ de CA, 400 salariés), prix non communiqué."
+   "d": "09/04",
+   "t": "Rachat d'actions lancé : jusqu'à 3 607 950 actions (9,64 % du capital) et 550 M€ au maximum, du 13/04 au 23/10/2026, sans annulation prévue."
   }
  ],
  "histo": [
-  [
-   "30/09",
-   121.2
-  ],
   [
    "01/10",
    121.2
@@ -1185,6 +1191,10 @@
   [
    "08/10",
    123.2
+  ],
+  [
+   "09/10",
+   125.5
   ]
  ],
  "nom": "Reply",
@@ -1193,9 +1203,9 @@
  "per26": 16.2,
  "per27": 14.8,
  "perf": {
-  "m1": 8.9,
-  "m3": 27.3,
-  "m12": 1.1
+  "m1": 12.0,
+  "m3": 30.9,
+  "m12": 4.2
  },
  "pub": "2026-11-12",
  "pubLabel": "Résultats du T3",

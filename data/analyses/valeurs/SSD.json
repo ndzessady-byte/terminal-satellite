@@ -3,8 +3,8 @@
  "nom": "Simpson Manufacturing",
  "pays": "US",
  "secteur": "Industrie (produits de construction)",
- "cours": 172.025,
- "coursLe": "2026-10-08",
+ "cours": 170.545,
+ "coursLe": "2026-10-09",
  "devise": "USD",
  "capi": "7,0 Md USD (environ 6,2 Md EUR)",
  "per26": null,
@@ -37,10 +37,6 @@
  "yahoo": "SSD",
  "compte": "CTO",
  "histo": [
-  [
-   "26/09",
-   171.2
-  ],
   [
    "29/09",
    167.56
@@ -1075,13 +1071,17 @@
   ],
   [
    "08/10",
-   172.03
+   171.95
+  ],
+  [
+   "09/10",
+   170.54
   ]
  ],
  "perf": {
-  "m1": -2.6,
-  "m3": -8.9,
-  "m12": -0.6
+  "m1": -1.1,
+  "m3": -8.1,
+  "m12": 0.6
  },
  "analyse": {
   "majLe": "2026-10-01",
@@ -1100,18 +1100,18 @@
    "greenblatt": "Rendement bénéficiaire (résultat opérationnel 2025 de 458,1 M$ / valeur d'entreprise d'environ 6,9 Md$) proche de 6,6 % et rendement du capital élevé : profil correct mais pas exceptionnel sur la formule magique. Piotroski non calculé (bilan 2024 complet non vérifié)."
   },
   "tech": {
-   "cours": 172.025,
-   "coursLe": "2026-10-08",
-   "mm50": 182.02,
-   "mm200": 184.66,
-   "rsi14": 42.5,
+   "cours": 170.545,
+   "coursLe": "2026-10-09",
+   "mm50": 181.69,
+   "mm200": 184.67,
+   "rsi14": 40.1,
    "haut52": 210.06,
    "bas52": 158.0,
    "support": 158.0,
    "resistance": 184.0,
    "tendance": "baissiere",
    "stade": 4,
-   "lecture": "Cours de 172,03 en dessous de sa moyenne 50 jours (182,02) et en dessous de sa moyenne 200 jours (184,66). RSI 42,5 : élan neutre. Il se situe à 27 % de sa fourchette sur un an (de 158,00 à 210,06), performance sur 12 mois de -0,6 %. Clôture du 08/10/2026.",
+   "lecture": "Cours de 170,54 en dessous de sa moyenne 50 jours (181,69) et en dessous de sa moyenne 200 jours (184,67). RSI 40,1 : élan neutre. Il se situe à 24 % de sa fourchette sur un an (de 158,00 à 210,06), performance sur 12 mois de 0,6 %. Clôture du 09/10/2026.",
    "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json"
   },
   "actu": [

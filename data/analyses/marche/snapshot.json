@@ -1,38 +1,38 @@
 {
  "asOf": "2026-10-09",
  "attention": [
-  "Réponse de l'Iran attendue sous quelques jours ; budget 2027 en séance à l'Assemblée dès le 13/10 sous menace de censure.",
-  "En zone d'intérêt : Theon, Thermador, Globus Medical, USS, Trigano, Aubay. Thermador publie le 15/10, c'est le premier test.",
-  "Publications : Thermador le 15/10, Virbac le 19/10, Vusion le 20/10, Aalberts, Kitron et Viscofan le 22/10, Medistim le 23/10."
+  "Ormuz : les Gardiens de la révolution revendiquent une frappe sur un transporteur de GPL au sud du détroit (non confirmé) ; réponse de l'Iran à la proposition américaine attendue.",
+  "Budget 2027 en séance à l'Assemblée dès le 13/10 sous menace de censure ; il réduit l'aide à l'Anah de 200 M€, à suivre pour Thermador.",
+  "En zone d'intérêt : Theon, Thermador, USS, Trigano, Aubay. Globus Medical en est ressorti (75 $). Publications : Thermador 15/10, Virbac 19/10, Vusion 20/10, Aalberts, Kitron et Viscofan 22/10, Medistim 23/10."
  ],
  "etf": {
   "nom": "Amundi PEA Monde MSCI World (DCAM)",
-  "cours": 6.355,
-  "coursLe": "2026-10-08",
+  "cours": 6.389,
+  "coursLe": "2026-10-09",
   "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json"
  },
  "exclues": "Exail exclue : offre de Thales à 134 € par action, le cours suit le prix de l'offre.",
  "macro": [
   {
    "label": "CAC 40",
-   "valeur": "7 729,69",
-   "var": "-0,51 %",
-   "sens": -1,
-   "note": "clôture du 08/10 ; -1,22 % mercredi avec la tension sur la dette française"
+   "valeur": "7 803,33",
+   "var": "+0,95 %",
+   "sens": 1,
+   "note": "clôture du 09/10 ; -1,2 % sur la semaine"
   },
   {
    "label": "OAT 10 ans",
-   "valeur": "4,90 %",
-   "var": "n.c.",
-   "sens": -1,
-   "note": "plus haut depuis 2008 (deux sources proches de 4,9 %)"
+   "valeur": "4,82 à 4,85 %",
+   "var": "environ -6 pb",
+   "sens": 1,
+   "note": "4,90 % le 08/10 ; les sources divergent sur le chiffre exact"
   },
   {
    "label": "Écart OAT / Bund",
-   "valeur": "vers 140 pb",
-   "var": "n.c.",
-   "sens": -1,
-   "note": "Bund à 3,50 % le 08/10 ; plus large depuis 2012, chiffre exact selon les sources"
+   "valeur": "vers 136 pb",
+   "var": "environ -4 pb",
+   "sens": 1,
+   "note": "Bund vers 3,48 % le 09/10"
   },
   {
    "label": "BCE taux de dépôt",
@@ -43,25 +43,25 @@
   },
   {
    "label": "Brent",
-   "valeur": "104 à 105 $",
-   "var": "n.c.",
+   "valeur": "104,4 à 104,7 $",
+   "var": "stable",
    "sens": -1,
-   "note": "il était vers 101 $ le 02/10"
+   "note": "passé vers 102,7 $ en milieu de journée puis remonté"
   },
   {
-   "label": "CAC Mid & Small",
-   "valeur": "n.c.",
-   "var": "n.c.",
+   "label": "EUR/USD",
+   "valeur": "1,119",
+   "var": "-0,2 %",
    "sens": 0,
-   "note": "niveau non trouvé cette semaine"
+   "note": "cinquième semaine de baisse de suite"
   }
  ],
- "majLe": "2026-10-09T14:10:00+02:00",
+ "majLe": "2026-10-09T20:15:00+02:00",
  "semaine": "5 au 9 octobre 2026",
  "semaineTexte": [
   "Lundi à jeudi : semaine en baisse à Paris, chute de 1,22 % mercredi avec la tension sur la dette française (banques européennes -3,8 %).",
-  "OAT 10 ans vers 4,9 %, plus haut depuis 2008, écart avec le Bund vers 140 pb ; Brent au-dessus de 104 $.",
-  "Vendredi 09/10 midi : CAC 40 vers +0,9 % à 7 800 pts, porté par le recul du pétrole (Brent vers 103 $) après la promesse de Trump sur l'Iran."
+  "Vendredi 09/10 : CAC 40 +0,95 % à 7 803 pts, mais -1,2 % sur la semaine. L'OAT reflue vers 4,8 % et le Brent reste au-dessus de 104 $ malgré la promesse de Trump sur l'Iran.",
+  "Aux États-Unis, le moral des ménages tombe à 46,3 (première estimation d'octobre, une seule source) et la Fed laisse ouverte une hausse avant la fin de l'année."
  ],
  "watchlistValidee": false
 }
