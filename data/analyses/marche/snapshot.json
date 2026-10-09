@@ -1,8 +1,8 @@
 {
- "asOf": "2026-10-08",
+ "asOf": "2026-10-09",
  "attention": [
-  "Nouvelles entrées en zone d'intérêt cette semaine, sans mauvaise nouvelle propre trouvée : Theon (27,22 €, -8 % sur la semaine), Thermador (65,00 €), Globus Medical (73,50 $), USS (1 794 ¥). Trigano et Aubay y restent ; Vidrala et Jacquet Metals en sont ressorties.",
-  "Vusion -7 % sur la semaine sans nouvelle propre ; Medistim +8 % sans cause confirmée (assemblée extraordinaire du 05/10).",
+  "Réponse de l'Iran attendue sous quelques jours ; budget 2027 en séance à l'Assemblée dès le 13/10 sous menace de censure.",
+  "En zone d'intérêt : Theon, Thermador, Globus Medical, USS, Trigano, Aubay. Thermador publie le 15/10, c'est le premier test.",
   "Publications : Thermador le 15/10, Virbac le 19/10, Vusion le 20/10, Aalberts, Kitron et Viscofan le 22/10, Medistim le 23/10."
  ],
  "etf": {
@@ -56,12 +56,12 @@
    "note": "niveau non trouvé cette semaine"
   }
  ],
- "majLe": "2026-10-08T21:45:00+02:00",
+ "majLe": "2026-10-09T14:10:00+02:00",
  "semaine": "5 au 9 octobre 2026",
  "semaineTexte": [
   "Lundi à jeudi : semaine en baisse à Paris, chute de 1,22 % mercredi avec la tension sur la dette française (banques européennes -3,8 %).",
   "OAT 10 ans vers 4,9 %, plus haut depuis 2008, écart avec le Bund vers 140 pb ; Brent au-dessus de 104 $.",
-  "Jeudi 08/10 : CAC 40 -0,51 % à 7 730 pts. Budget en séance à l'Assemblée dès le 13/10."
+  "Vendredi 09/10 midi : CAC 40 vers +0,9 % à 7 800 pts, porté par le recul du pétrole (Brent vers 103 $) après la promesse de Trump sur l'Iran."
  ],
  "watchlistValidee": false
 }

@@ -14,6 +14,10 @@
  "risque": "Très petite société concentrée sur une seule niche (les pontages) et dépendante du marché américain ; double risque de change (couronne et dollar), droits de douane possibles, valorisation déjà élevée (environ 29 fois le bénéfice 2025).",
  "faits": [
   {
+   "d": "05/10",
+   "t": "L'assemblée extraordinaire autorise à l'unanimité le conseil à verser des dividendes plusieurs fois par an, y compris chaque trimestre, jusqu'à l'assemblée 2027. Aucun montant fixé."
+  },
+  {
    "d": "02/10",
    "t": "Résultats du T3 2026 prévus le 23/10 selon le calendrier de la société ; assemblée extraordinaire le 05/10."
   },
@@ -24,10 +28,6 @@
   {
    "d": "21/08",
    "t": "T2 2026 : ventes record de 202,0 M NOK (+19,5 %, +33,6 % à change constant pour les produits maison), résultat opérationnel 65,3 M NOK (+20,6 %), marge de 32,3 %."
-  },
-  {
-   "d": "21/08",
-   "t": "Amériques +46,3 % à change constant au T2 ; premier trimestre de vente directe au Japon."
   }
  ],
  "pub": "2026-10-23",
@@ -1116,6 +1116,13 @@
   },
   "actu": [
    {
+    "d": "05/10",
+    "fait": "Assemblée extraordinaire (62 % du capital représenté) : le conseil pourra verser des dividendes en plusieurs fois, y compris chaque trimestre. Aucun montant voté.",
+    "impact": "neutre",
+    "horizon": "moyen",
+    "lecture": "Cela peut lisser le revenu de l'actionnaire sans rien changer à la thèse de croissance ; à voir aux résultats du 23/10 si le conseil s'en sert."
+   },
+   {
     "d": "14/09",
     "fait": "Convocation d'une assemblée générale extraordinaire le 05/10/2026.",
     "impact": "neutre",
@@ -1135,13 +1142,6 @@
     "impact": "positif",
     "horizon": "long",
     "lecture": "C'est le cœur de la thèse : l'adoption américaine progresse vite, avec encore environ 60 % des pontages non équipés."
-   },
-   {
-    "d": "03/02",
-    "fait": "Ouverture d'une filiale de vente directe au Japon, active depuis le 16/03/2026.",
-    "impact": "positif",
-    "horizon": "moyen",
-    "lecture": "Le Japon est déjà équipé à plus de 90 % : vendre en direct plutôt que via un distributeur doit améliorer la marge sur ce marché."
    }
   ],
   "scenarios": [
@@ -1187,6 +1187,7 @@
    "Weinstein (stades)"
   ],
   "sources": [
+   "https://financialfilings.com/filings/medistim/declaration-of-voting-results-voting-rights-announcements/2026/66262236/",
    "https://www.medistim.com/investor-relations",
    "https://www.medistim.com/investor-news/results-for-the-second-quarter-first-half-2026",
    "https://live.euronext.com/sites/default/files/company_press_releases/attachments_oslo/2026/02/27/667094_Q4%202025%20Financial%20Report-Final%2026.02.2026.pdf",

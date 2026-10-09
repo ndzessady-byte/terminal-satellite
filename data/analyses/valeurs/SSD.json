@@ -14,6 +14,10 @@
  "risque": "Très dépendante de la construction de logements neufs aux États-Unis et des taux d'intérêt ; volumes en baisse compensés par les prix ; cours sous ses moyennes 50 et 200 jours ; risque de change euro/dollar.",
  "faits": [
   {
+   "d": "06/10",
+   "t": "La vente du terrain de Stockton est repoussée du T3 au T4 2026 ; prévisions annuelles inchangées (déclaration SEC)."
+  },
+  {
    "d": "01/10",
    "t": "Date d'enregistrement du dividende trimestriel de 0,30 $, versé le 22/10."
   },
@@ -24,10 +28,6 @@
   {
    "d": "27/07",
    "t": "Prévision 2026 de marge opérationnelle relevée à 19,7 à 20,5 % (dont un gain de 10 à 12 M$ sur une vente de terrain)."
-  },
-  {
-   "d": "27/07",
-   "t": "Trésorerie de 450,5 M$ pour 336,7 M$ de dette au 30/06 ; 48,7 M$ de rachats d'actions au T2 ; dividende de 0,30 $ par trimestre."
   }
  ],
  "pub": null,
@@ -1123,6 +1123,13 @@
     "lecture": "Le marché doute d'une reprise rapide du logement neuf américain ; la valorisation redevient plus raisonnable."
    },
    {
+    "d": "06/10",
+    "fait": "La vente d'un terrain à Stockton passe du T3 au T4 : le gain sera comptabilisé au T4, les prévisions 2026 sont confirmées.",
+    "impact": "neutre",
+    "horizon": "court",
+    "lecture": "Simple effet de calendrier : la marge du T3 paraîtra plus basse sans ce gain, il faudra la lire hors éléments exceptionnels."
+   },
+   {
     "d": "27/07",
     "fait": "T2 2026 : CA de 671,1 M$ (+6,3 %), marge brute de 47,4 %, marge opérationnelle record de 25,2 %, BPA de 3,09 $ (+25,1 %). Europe : marge record de 13,7 %.",
     "impact": "positif",
@@ -1179,6 +1186,7 @@
    "Weinstein (stades)"
   ],
   "sources": [
+   "https://www.sec.gov/Archives/edgar/data/0000920371/000162828026065254/ssd-20261006.htm",
    "https://www.prnewswire.com/news-releases/simpson-manufacturing-co-inc-declares-quarterly-dividend-302833697.html",
    "https://www.prnewswire.com/news-releases/simpson-manufacturing-co-inc-announces-2026-second-quarter-financial-results-and-updates-2026-guidance-302835215.html",
    "https://www.prnewswire.com/news-releases/simpson-manufacturing-co-inc-announces-2025-fourth-quarter-and-full-year-financial-results-provides-2026-outlook-302682948.html",

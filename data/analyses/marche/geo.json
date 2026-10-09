@@ -1,6 +1,6 @@
 {
- "lecture": "L'OPEP+ ne change rien : tant qu'Ormuz reste perturbé, ce sont les flux et les attaques qui font le prix du pétrole, et les frappes revendiquées sur Aramco remettent une prime de risque. En France, le PS durcit le ton sur le budget et l'écart de taux avec l'Allemagne repart à la hausse. Paris sous-performe l'Europe, pénalisé par le risque budgétaire plus que par le pétrole.",
- "majLe": "2026-10-08",
+ "lecture": "La promesse de Trump de ne pas frapper l'Iran avant le 3 novembre fait retomber un peu la prime de risque, alors que les attaques de navires s'étendent hors du détroit. Le pétrole et le gaz reculent et les taux français respirent, mais l'écart avec l'Allemagne reste près de 140 pb. Le débat sur le budget à l'Assemblée dès le 13/10 reste le principal frein pour Paris.",
+ "majLe": "2026-10-09",
  "matieres": {
   "ALU": {
    "moteurs": "L'aluminium reste haut (environ 3 260 $/t, +22 % sur un an) car la production du Golfe s'est effondrée avec la guerre, mais le dollar fort et les exportations chinoises le plafonnent.",
@@ -69,6 +69,10 @@
   {
    "faits": [
     {
+     "d": "09/10",
+     "t": "Trump assure que les États-Unis n'attaqueront pas l'Iran avant les élections du 3 novembre ; l'Iran étudie la réponse américaine sur la réouverture d'Ormuz. Un pétrolier a pourtant été touché au large du Qatar le 07/10. Brent vers 103 $."
+    },
+    {
      "d": "08/10",
      "t": "Pas d'accord durable entre les États-Unis et l'Iran malgré des flux revenus près de l'avant-guerre ; Brent au-dessus de 104 $."
     },
@@ -87,10 +91,6 @@
     {
      "d": "30/09",
      "t": "L'Iran confirme avoir reçu, via le Qatar, la réponse américaine à son offre ; les deux camps s'accorderaient sur les étapes mais pas sur leur ordre. Nouvelles sanctions américaines. Les flux de brut du Golfe remontent à environ 80 % du niveau d'avant-guerre."
-    },
-    {
-     "d": "29/09",
-     "t": "L'agence britannique UKMTO signale trois pétroliers touchés par des projectiles d'origine inconnue dans le détroit d'Ormuz."
     }
    ],
    "id": "ormuz",
@@ -120,6 +120,7 @@
    "region": "Moyen-Orient / Golfe",
    "resume": "La guerre avec l'Iran, commencée fin février 2026, bloque toujours le détroit d'Ormuz par où passait environ un cinquième du pétrole mondial, et les États-Unis maintiennent un blocus des ports iraniens. Fin septembre, Trump a rejeté le plan iranien de réouverture et un vraquier a encore été touché près d'Oman. Le Brent est repassé au-dessus de 100 $ et c'est le premier moteur de l'inflation et des taux en ce moment.",
    "sources": [
+    "https://www.aljazeera.com/news/2026/10/9/trump-says-us-will-not-strike-iran-before-midterm-elections",
     "https://www.cnbc.com/2026/10/04/opec-agrees-to-keep-november-oil-output-targets-steady.html",
     "https://www.inquirer.com/news/nation-world/iran-strait-of-hormuz-oil-20261002.html",
     "https://www.axios.com/2026/10/01/rubio-iran-unga-delegation-kicked-out",
@@ -138,7 +139,7 @@
     "Toute reprise de négociation États-Unis / Iran via le Qatar",
     "03/11 : élections de mi-mandat américaines, que Téhéran juge peu propices à un accord avant"
    ],
-   "tendance": "hausse",
+   "tendance": "stable",
    "titre": "Iran, États-Unis et détroit d'Ormuz",
    "valeurs": [
     {
@@ -176,6 +177,10 @@
   {
    "faits": [
     {
+     "d": "09/10",
+     "t": "Détente vendredi : l'OAT 10 ans recule en séance avec le pétrole, mais l'écart avec le Bund reste près de 140 pb (139,8 pb jeudi soir)."
+    },
+    {
      "d": "08/10",
      "t": "OAT 10 ans à 4,90 %, plus haut depuis 2008 ; Bund à 3,50 %, écart vers 140 pb, le plus large depuis 2012."
     },
@@ -194,10 +199,6 @@
     {
      "d": "10/09",
      "t": "La BCE relève ses trois taux de 0,25 point : dépôt à 2,50 %, refinancement à 2,65 %, prêt marginal à 2,90 % (effet au 16/09). Elle cite le conflit au Moyen-Orient comme source de pressions inflationnistes."
-    },
-    {
-     "d": "10/09",
-     "t": "Projections BCE : inflation 3,0 % en 2026, 2,5 % en 2027, 2,1 % en 2028 (2027 et 2028 revues en hausse)."
     }
    ],
    "id": "taux",
@@ -219,6 +220,7 @@
    "region": "Zone euro / États-Unis",
    "resume": "Le choc pétrolier relance l'inflation, et les deux grandes banques centrales ont remonté leurs taux en septembre au lieu de les baisser. Les marchés anticipent encore des hausses. C'est un vent contraire pour les petites et moyennes valeurs, pour l'immobilier et pour l'or.",
    "sources": [
+    "https://www.ideal-investisseur.fr/en/markets/oat-bund-spread.html",
     "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-02102026-ap",
     "https://www.abcbourse.com/marches/newsContent/703529",
     "https://www.abcbourse.com/marches/les-taux-baissent-les-anticipations-d-une-hausse-des-taux-de-la-fed-en-octobre_703415",
@@ -232,7 +234,7 @@
     "Prochaine réunion BCE fin octobre (date à confirmer)",
     "Chiffres d'inflation zone euro et États-Unis début octobre"
    ],
-   "tendance": "hausse",
+   "tendance": "stable",
    "titre": "Inflation énergie : BCE et Fed remontent les taux",
    "valeurs": [
     {
@@ -535,6 +537,10 @@
   {
    "faits": [
     {
+     "d": "07/10",
+     "t": "Grève à la mine de cuivre de Centinela (Antofagasta, Chili) après l'échec de la médiation ; le cuivre reste proche de son record."
+    },
+    {
      "d": "28/09",
      "t": "Escondida reprend progressivement son activité après l'accident mortel du 23/09."
     },
@@ -570,6 +576,7 @@
    "region": "Monde (États-Unis, Chili)",
    "resume": "Le cuivre a battu son record au LME début septembre, porté par des achats américains avant d'éventuels droits sur le cuivre raffiné et par la demande IA et électrification. L'arrêt d'Escondida, première mine mondiale, après un accident mortel ajoute un risque d'offre. Les droits américains sur l'acier, l'aluminium et le cuivre européens restent élevés.",
    "sources": [
+    "https://www.miningweekly.com/article/workers-at-chiles-centinela-copper-mine-strike-after-talks-fail-2026-10-07",
     "https://news.metal.com/newscontent/104136981-bhps-escondida-copper-mine-gradually-resumes-operations-following-fatal-accident",
     "https://www.scmp.com/economy/global-economy/article/3366787/copper-rally-sets-record-price-lme-us-tariff-fears-fuel-scramble-stockpiles",
     "https://mining.com.au/copper-price-hits-lme-record-on-tariff-supply-concerns/",

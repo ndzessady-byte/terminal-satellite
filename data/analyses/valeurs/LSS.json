@@ -90,6 +90,7 @@
    }
   ],
   "sources": [
+   "https://www.24matins.fr/pr/lectra-programme-de-rachat-dactions-declaration-agregee-des-transactions-sur-actions-propres-realisees-du-28-septembre-au-2-octobre-2026",
    "https://www.globenewswire.com/news-release/2026/09/28/3370149/0/fr/lectra-programme-de-rachat-d-actions-d%C3%A9claration-agr%C3%A9g%C3%A9e-des-transactions-sur-actions-propres-r%C3%A9alis%C3%A9es-du-21-au-25-septembre-2026.html",
    "https://www.globenewswire.com/news-release/2026/07/30/3336282/0/fr/LECTRA-Premier-semestre-2026-am%C3%A9lioration-de-la-performance-au-deuxi%C3%A8me-trimestre-ambitions-2026-2028-confirm%C3%A9es.html",
    "https://www.optionfinance.fr/info-financiere-en-continu/d/2026-07-30-lectra-confirme-ses-objectifs-a-horizon-2028.html",
@@ -138,6 +139,10 @@
  "coursLe": "2026-10-08",
  "devise": "€",
  "faits": [
+  {
+   "d": "05/10",
+   "t": "Le rachat d'actions continue : 47 384 actions achetées du 28/09 au 02/10 à 20,99 € en moyenne."
+  },
   {
    "d": "28/09",
    "t": "Le rachat d'actions continue : 51 095 actions achetées du 21 au 25/09 à 21,19 € en moyenne."
