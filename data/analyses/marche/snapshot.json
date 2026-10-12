@@ -1,9 +1,9 @@
 {
- "asOf": "2026-10-09",
+ "asOf": "2026-10-12",
  "attention": [
-  "Ormuz : les Gardiens de la révolution revendiquent une frappe sur un transporteur de GPL au sud du détroit (non confirmé) ; réponse de l'Iran à la proposition américaine attendue.",
-  "Budget 2027 en séance à l'Assemblée dès le 13/10 sous menace de censure ; il réduit l'aide à l'Anah de 200 M€, à suivre pour Thermador.",
-  "En zone d'intérêt : Theon, Thermador, USS, Trigano, Aubay. Globus Medical en est ressorti (75 $). Publications : Thermador 15/10, Virbac 19/10, Vusion 20/10, Aalberts, Kitron et Viscofan 22/10, Medistim 23/10."
+  "Ormuz : nouvelles attaques de navires ce week-end, Téhéran ne cède rien ; Brent vers 105,6 $.",
+  "Budget 2027 : recettes rejetées en commission, débat dans l'hémicycle dès le 13/10 sous menace de censure en cas de 49.3.",
+  "En zone d'intérêt : Theon, Thermador, USS, Trigano, Aubay. Publications : Thermador 15/10, Virbac 19/10, Vusion 20/10, Aalberts, Kitron et Viscofan 22/10, Medistim 23/10."
  ],
  "etf": {
   "nom": "Amundi PEA Monde MSCI World (DCAM)",
@@ -56,12 +56,12 @@
    "note": "cinquième semaine de baisse de suite"
   }
  ],
- "majLe": "2026-10-09T20:15:00+02:00",
+ "majLe": "2026-10-12T13:50:00+02:00",
  "semaine": "5 au 9 octobre 2026",
  "semaineTexte": [
-  "Lundi à jeudi : semaine en baisse à Paris, chute de 1,22 % mercredi avec la tension sur la dette française (banques européennes -3,8 %).",
-  "Vendredi 09/10 : CAC 40 +0,95 % à 7 803 pts, mais -1,2 % sur la semaine. L'OAT reflue vers 4,8 % et le Brent reste au-dessus de 104 $ malgré la promesse de Trump sur l'Iran.",
-  "Aux États-Unis, le moral des ménages tombe à 46,3 (première estimation d'octobre, une seule source) et la Fed laisse ouverte une hausse avant la fin de l'année."
+  "Semaine du 12/10 : débats budgétaires à l'Assemblée dès mardi, inflation allemande mardi et américaine mercredi.",
+  "Lundi 12/10 midi : CAC 40 vers +0,2 % à 7 820 pts, moins bien que le DAX ; Brent en hausse vers 105,6 $ avec les attaques à Ormuz.",
+  "Bourse de Tokyo fermée lundi (jour férié) : pas de séance pour les quatre valeurs japonaises."
  ],
  "watchlistValidee": false
 }

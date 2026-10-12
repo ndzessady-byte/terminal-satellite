@@ -1,6 +1,6 @@
 {
- "lecture": "La promesse de Trump de ne pas frapper l'Iran avant le 3 novembre fait retomber un peu la prime de risque, alors que les attaques de navires s'étendent hors du détroit. Le pétrole et le gaz reculent et les taux français respirent, mais l'écart avec l'Allemagne reste près de 140 pb. Le débat sur le budget à l'Assemblée dès le 13/10 reste le principal frein pour Paris.",
- "majLe": "2026-10-09",
+ "lecture": "Ormuz se tend à nouveau : les attaques de navires reprennent et l'Iran ne cède rien, le Brent remonte vers 105,6 $. L'annonce d'un cessez-le-feu énergétique en Ukraine reste floue faute de confirmation russe. À Paris, le budget rejeté en commission arrive à l'Assemblée le 13/10 sous menace de censure, ce qui garde les taux français près de leurs plus hauts depuis 2008.",
+ "majLe": "2026-10-12",
  "matieres": {
   "ALU": {
    "moteurs": "L'aluminium reste haut (environ 3 260 $/t, +22 % sur un an) car la production du Golfe s'est effondrée avec la guerre, mais le dollar fort et les exportations chinoises le plafonnent.",
@@ -69,6 +69,10 @@
   {
    "faits": [
     {
+     "d": "11/10",
+     "t": "Les attaques de navires s'intensifient : un superpétrolier aurait touché une mine le 10/10 (revendication des Gardiens de la révolution), un projectile touche un pétrolier sortant du détroit le 11/10 et l'armée américaine immobilise un cargo dans le golfe d'Oman. Téhéran ne cède rien, aucune percée attendue avant le 3/11. Brent vers 105,6 $ lundi midi."
+    },
+    {
      "d": "09/10",
      "t": "Trump assure que les États-Unis n'attaqueront pas l'Iran avant les élections du 3 novembre ; l'Iran étudie la réponse américaine sur la réouverture d'Ormuz. Un pétrolier a pourtant été touché au large du Qatar le 07/10. Brent vers 103 $."
     },
@@ -87,10 +91,6 @@
     {
      "d": "01/10",
      "t": "Les discussions entre Washington et Téhéran sont au point mort : la délégation iranienne à l'ONU doit quitter New York. Le Brent repasse au-dessus de 100 $ (environ 100,5 $, +2,6 %)."
-    },
-    {
-     "d": "30/09",
-     "t": "L'Iran confirme avoir reçu, via le Qatar, la réponse américaine à son offre ; les deux camps s'accorderaient sur les étapes mais pas sur leur ordre. Nouvelles sanctions américaines. Les flux de brut du Golfe remontent à environ 80 % du niveau d'avant-guerre."
     }
    ],
    "id": "ormuz",
@@ -120,6 +120,7 @@
    "region": "Moyen-Orient / Golfe",
    "resume": "La guerre avec l'Iran, commencée fin février 2026, bloque toujours le détroit d'Ormuz par où passait environ un cinquième du pétrole mondial, et les États-Unis maintiennent un blocus des ports iraniens. Fin septembre, Trump a rejeté le plan iranien de réouverture et un vraquier a encore été touché près d'Oman. Le Brent est repassé au-dessus de 100 $ et c'est le premier moteur de l'inflation et des taux en ce moment.",
    "sources": [
+    "https://aljazeera.com/news/2026/10/11/hormuz-attacks-intensify-as-efforts-to-end-war-on-iran-stall",
     "https://www.aljazeera.com/news/2026/10/9/trump-says-us-will-not-strike-iran-before-midterm-elections",
     "https://www.cnbc.com/2026/10/04/opec-agrees-to-keep-november-oil-output-targets-steady.html",
     "https://www.inquirer.com/news/nation-world/iran-strait-of-hormuz-oil-20261002.html",
@@ -139,7 +140,7 @@
     "Toute reprise de négociation États-Unis / Iran via le Qatar",
     "03/11 : élections de mi-mandat américaines, que Téhéran juge peu propices à un accord avant"
    ],
-   "tendance": "stable",
+   "tendance": "hausse",
    "titre": "Iran, États-Unis et détroit d'Ormuz",
    "valeurs": [
     {
@@ -177,6 +178,10 @@
   {
    "faits": [
     {
+     "d": "12/10",
+     "t": "L'OAT 10 ans reste quasi stable lundi, toujours près de ses plus hauts depuis 2008, en attendant l'ouverture des débats budgétaires."
+    },
+    {
      "d": "09/10",
      "t": "Détente vendredi : l'OAT 10 ans recule en séance avec le pétrole, mais l'écart avec le Bund reste près de 140 pb (139,8 pb jeudi soir)."
     },
@@ -195,10 +200,6 @@
     {
      "d": "30/09",
      "t": "L'inflation française accélère à 3,0 % sur un an en septembre (2,4 % en août), tirée par l'énergie ; la Fed de New York évoque une prochaine hausse plutôt en décembre."
-    },
-    {
-     "d": "10/09",
-     "t": "La BCE relève ses trois taux de 0,25 point : dépôt à 2,50 %, refinancement à 2,65 %, prêt marginal à 2,90 % (effet au 16/09). Elle cite le conflit au Moyen-Orient comme source de pressions inflationnistes."
     }
    ],
    "id": "taux",
@@ -220,6 +221,7 @@
    "region": "Zone euro / États-Unis",
    "resume": "Le choc pétrolier relance l'inflation, et les deux grandes banques centrales ont remonté leurs taux en septembre au lieu de les baisser. Les marchés anticipent encore des hausses. C'est un vent contraire pour les petites et moyennes valeurs, pour l'immobilier et pour l'or.",
    "sources": [
+    "https://tradingeconomics.com/france/government-bond-yield",
     "https://www.ideal-investisseur.fr/en/markets/oat-bund-spread.html",
     "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-02102026-ap",
     "https://www.abcbourse.com/marches/newsContent/703529",
@@ -262,6 +264,10 @@
   {
    "faits": [
     {
+     "d": "10/10",
+     "t": "La commission des finances rejette la partie recettes du budget 2027 (31 voix contre 3). La séance du 13/10 repartira du texte du gouvernement ; LFI promet la censure en cas de 49.3 et le RN refuse les hausses d'impôts."
+    },
+    {
      "d": "07/10",
      "t": "Budget 2027 : la commission des finances modifie le texte ; débat en séance à partir du 13/10, vote final prévu le 17/11. Les banques européennes chutent de 3,8 % mercredi avec la tension sur la dette française."
     },
@@ -280,10 +286,6 @@
     {
      "d": "30/09",
      "t": "L'écart OAT/Bund atteint 120 pb, plus haut depuis 2012 ; l'État prévoit d'emprunter un record de 340 Md€ en 2027. Budget présenté le 01/10, examen à l'Assemblée à partir du 13/10."
-    },
-    {
-     "d": "13/09",
-     "t": "LFI, écologistes, communistes et socialistes annoncent qu'ils voteront la censure du budget ; le RN (122 députés) reste non engagé."
     }
    ],
    "id": "france",
@@ -297,6 +299,7 @@
    "region": "France",
    "resume": "Le gouvernement Lecornu présente un budget 2027 avec 54 Md€ d'effort pour ramener le déficit vers 4,8 à 5 % du PIB, mais la gauche promet la censure et le RN reste l'arbitre. L'écart de taux avec l'Allemagne est élevé mais s'est un peu détendu en fin de semaine dernière. C'est le risque principal pour les valeurs très françaises de ta liste.",
    "sources": [
+    "https://lcp.fr/actualites/budget-2027-les-deputes-rejettent-en-commission-la-partie-recettes-du-projet-de-loi-de",
     "https://echosplus.com/2026/10/03/budget-2027-le-ps-presse-lecornu-de-revoir-sa-copie-et-maintient-la-menace-de-censure/",
     "https://www.lessentiel.lu/fr/story/france-provocation-insupportable-le-budget-2027-deja-critique-103642655",
     "https://www.investing.com/news/economy-news/france-unveils-2027-budget-with-plan-to-cut-deficit-93CH-4926886",
@@ -410,6 +413,10 @@
   {
    "faits": [
     {
+     "d": "11/10",
+     "t": "Trump annonce un cessez-le-feu énergétique immédiat entre la Russie et l'Ukraine. Kyiv le soutient mais demande des précisions, Moscou ne confirme pas et frappe encore des centrales à Kyiv et Kharkiv le jour même."
+    },
+    {
      "d": "début 09",
      "t": "Les émissaires Kushner et Witkoff se rendent à Moscou et Kyiv ; Zelensky rejette le projet d'accord."
     },
@@ -441,6 +448,7 @@
    "region": "Europe de l'Est",
    "resume": "Les pourparlers menés par les États-Unis ont repris début septembre mais Zelensky a rejeté le projet d'accord et Moscou pose des conditions territoriales jugées inacceptables. Les frappes de drones en mer Noire ont quasi stoppé les exportations maritimes de céréales des deux pays. Le blé reste nerveux mais recule quand l'espoir de cessez-le-feu revient.",
    "sources": [
+    "https://www.euronews.com/2026/10/12/energy-ceasefire-confusion-in-kyiv-support-from-allies-silence-from-moscow-and-fresh-strik",
     "https://www.csmonitor.com/World/Europe/2026/0926/russia-ukraine-peace-talks-donbas-europe-trump",
     "https://www.maritimeprofessional.com/news/wheat-prices-rise-black-tensions-423084",
     "https://tradingeconomics.com/commodity/wheat"
@@ -450,7 +458,7 @@
     "Reprise ou non du trafic céréalier en mer Noire",
     "Frappes sur les raffineries et ports russes"
    ],
-   "tendance": "stable",
+   "tendance": "baisse",
    "titre": "Russie / Ukraine et mer Noire",
    "valeurs": [
     {
