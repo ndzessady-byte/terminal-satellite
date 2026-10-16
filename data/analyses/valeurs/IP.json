@@ -105,18 +105,18 @@
   ],
   "tech": {
    "bas52": 30.98,
-   "cours": 36.18,
-   "coursLe": "2026-10-09",
+   "cours": 37.14,
+   "coursLe": "2026-10-16",
    "haut52": 51.0,
-   "lecture": "Cours de 36,18 en dessous de sa moyenne 50 jours (36,32) et en dessous de sa moyenne 200 jours (37,62). RSI 52,1 : élan neutre. Il se situe à 26 % de sa fourchette sur un an (de 30,98 à 51,00), performance sur 12 mois de -8,6 %. Clôture du 09/10/2026.",
-   "mm200": 37.62,
-   "mm50": 36.32,
+   "lecture": "Cours de 37,14 au-dessus de sa moyenne 50 jours (36,22) et en dessous de sa moyenne 200 jours (37,35). RSI 58,4 : élan neutre. Il se situe à 31 % de sa fourchette sur un an (de 30,98 à 51,00), performance sur 12 mois de -11,0 %. Clôture du 16/10/2026.",
+   "mm200": 37.35,
+   "mm50": 36.22,
    "resistance": 36.7,
-   "rsi14": 52.1,
+   "rsi14": 58.4,
    "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json",
-   "stade": 4,
+   "stade": 1,
    "support": 33.7,
-   "tendance": "baissiere"
+   "tendance": "neutre"
   },
   "verdict": "Interpump reste un bel acteur industriel (pompes haute pression et hydraulique), bien géré et peu endetté, mais sa croissance est à l'arrêt depuis 2023 et le titre a perdu environ 23 % depuis janvier après des prévisions 2026 jugées prudentes. La valorisation est redevenue basse par rapport à son histoire ; il manque encore le signal de reprise de l'activité et une tendance boursière qui se retourne.",
   "zones": {
@@ -135,8 +135,8 @@
   }
  },
  "capi": "3,7 Md€",
- "cours": 36.18,
- "coursLe": "2026-10-09",
+ "cours": 37.14,
+ "coursLe": "2026-10-16",
  "devise": "€",
  "faits": [
   {
@@ -153,26 +153,6 @@
   }
  ],
  "histo": [
-  [
-   "01/10",
-   39.4
-  ],
-  [
-   "02/10",
-   40.08
-  ],
-  [
-   "03/10",
-   40.4
-  ],
-  [
-   "06/10",
-   39.98
-  ],
-  [
-   "07/10",
-   39.74
-  ],
   [
    "08/10",
    40.0
@@ -1192,6 +1172,26 @@
   [
    "09/10",
    36.18
+  ],
+  [
+   "12/10",
+   35.7
+  ],
+  [
+   "13/10",
+   35.96
+  ],
+  [
+   "14/10",
+   35.88
+  ],
+  [
+   "15/10",
+   36.06
+  ],
+  [
+   "16/10",
+   37.14
   ]
  ],
  "nom": "Interpump Group",
@@ -1200,9 +1200,9 @@
  "per26": 16.5,
  "per27": 14.8,
  "perf": {
-  "m1": 2.5,
-  "m3": 3.0,
-  "m12": -8.6
+  "m1": 6.5,
+  "m3": 7.1,
+  "m12": -11.0
  },
  "pub": "2026-11-13",
  "pubLabel": "Résultats du T3",

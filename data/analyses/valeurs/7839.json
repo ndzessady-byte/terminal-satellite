@@ -3,8 +3,8 @@
  "nom": "SHOEI",
  "pays": "JP",
  "secteur": "Casques moto haut de gamme",
- "cours": 2217.0,
- "coursLe": "2026-10-09",
+ "cours": 2306.0,
+ "coursLe": "2026-10-16",
  "devise": "JPY",
  "capi": "environ 112 Md¥ (environ 630 M€)",
  "per26": 17.0,
@@ -37,22 +37,6 @@
  "yahoo": "7839.T",
  "compte": "CTO",
  "histo": [
-  [
-   "12/09",
-   1846.0
-  ],
-  [
-   "16/09",
-   1872.0
-  ],
-  [
-   "17/09",
-   1852.0
-  ],
-  [
-   "18/09",
-   1856.0
-  ],
   [
    "19/09",
    1844.0
@@ -1075,13 +1059,29 @@
   ],
   [
    "09/10",
-   2217.0
+   2262.0
+  ],
+  [
+   "13/10",
+   2267.0
+  ],
+  [
+   "14/10",
+   2274.0
+  ],
+  [
+   "15/10",
+   2279.0
+  ],
+  [
+   "16/10",
+   2306.0
   ]
  ],
  "perf": {
-  "m1": 4.8,
-  "m3": 21.3,
-  "m12": 20.8
+  "m1": 12.7,
+  "m3": 25.7,
+  "m12": 36.9
  },
  "analyse": {
   "majLe": "2026-10-01",
@@ -1100,18 +1100,18 @@
    "greenblatt": "Rendement bénéficiaire calculé (résultat opérationnel 2025 de 8,9 Md¥ / valeur d'entreprise d'environ 90 Md¥) proche de 10 % et rendement du capital très élevé (environ 20 % de ROE avec beaucoup de trésorerie inutilisée) : profil favorable sur la formule magique."
   },
   "tech": {
-   "cours": 2217.0,
-   "coursLe": "2026-10-09",
-   "mm50": 2083.24,
-   "mm200": 1840.04,
-   "rsi14": 62.3,
-   "haut52": 2259.0,
+   "cours": 2306.0,
+   "coursLe": "2026-10-16",
+   "mm50": 2108.18,
+   "mm200": 1849.06,
+   "rsi14": 71.5,
+   "haut52": 2306.0,
    "bas52": 1580.0,
    "support": 2040,
    "resistance": 2161,
    "tendance": "haussiere",
    "stade": 2,
-   "lecture": "Cours de 2 217,00 au-dessus de sa moyenne 50 jours (2 083,24) et au-dessus de sa moyenne 200 jours (1 840,04). RSI 62,3 : élan neutre. Il se situe à 94 % de sa fourchette sur un an (de 1 580,00 à 2 259,00), performance sur 12 mois de 20,8 %. Clôture du 09/10/2026.",
+   "lecture": "Cours de 2 306,00 au-dessus de sa moyenne 50 jours (2 108,18) et au-dessus de sa moyenne 200 jours (1 849,06). RSI 71,5 : élan fort. Il se situe à 100 % de sa fourchette sur un an (de 1 580,00 à 2 306,00), performance sur 12 mois de 36,9 %. Clôture du 16/10/2026.",
    "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json"
   },
   "actu": [

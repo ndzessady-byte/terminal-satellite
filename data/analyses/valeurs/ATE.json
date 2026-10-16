@@ -104,14 +104,14 @@
   ],
   "tech": {
    "bas52": 51.6,
-   "cours": 80.5,
-   "coursLe": "2026-10-09",
-   "haut52": 82.7,
-   "lecture": "Cours de 80,50 au-dessus de sa moyenne 50 jours (74,69) et au-dessus de sa moyenne 200 jours (65,18). RSI 61,8 : élan neutre. Il se situe à 93 % de sa fourchette sur un an (de 51,60 à 82,70), performance sur 12 mois de 16,2 %. Clôture du 09/10/2026.",
-   "mm200": 65.18,
-   "mm50": 74.69,
+   "cours": 84.0,
+   "coursLe": "2026-10-16",
+   "haut52": 84.5,
+   "lecture": "Cours de 84,00 au-dessus de sa moyenne 50 jours (75,38) et au-dessus de sa moyenne 200 jours (65,45). RSI 66,7 : élan neutre. Il se situe à 98 % de sa fourchette sur un an (de 51,60 à 84,50), performance sur 12 mois de 19,3 %. Clôture du 16/10/2026.",
+   "mm200": 65.45,
+   "mm50": 75.38,
    "resistance": 83.2,
-   "rsi14": 61.8,
+   "rsi14": 66.7,
    "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json",
    "stade": 2,
    "support": 75.3,
@@ -134,8 +134,8 @@
   }
  },
  "capi": "2,65 Md€",
- "cours": 80.5,
- "coursLe": "2026-10-09",
+ "cours": 84.0,
+ "coursLe": "2026-10-16",
  "devise": "€",
  "faits": [
   {
@@ -152,26 +152,6 @@
   }
  ],
  "histo": [
-  [
-   "03/10",
-   72.05
-  ],
-  [
-   "06/10",
-   69.75
-  ],
-  [
-   "07/10",
-   70.5
-  ],
-  [
-   "08/10",
-   69.85
-  ],
-  [
-   "09/10",
-   71.05
-  ],
   [
    "10/10",
    69.05
@@ -1191,6 +1171,26 @@
   [
    "09/10",
    80.5
+  ],
+  [
+   "12/10",
+   81.2
+  ],
+  [
+   "13/10",
+   83.3
+  ],
+  [
+   "14/10",
+   84.5
+  ],
+  [
+   "15/10",
+   84.4
+  ],
+  [
+   "16/10",
+   84.0
   ]
  ],
  "nom": "Alten",
@@ -1199,9 +1199,9 @@
  "per26": 11.3,
  "per27": 10.1,
  "perf": {
-  "m1": 17.4,
-  "m3": 45.3,
-  "m12": 16.2
+  "m1": 23.8,
+  "m3": 51.9,
+  "m12": 19.3
  },
  "pub": "2026-10-27",
  "pubLabel": "CA du T3",

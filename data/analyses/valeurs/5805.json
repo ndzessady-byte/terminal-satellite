@@ -3,8 +3,8 @@
  "nom": "SWCC",
  "pays": "JP",
  "secteur": "Câbles électriques et de communication",
- "cours": 2740.0,
- "coursLe": "2026-10-09",
+ "cours": 2496.0,
+ "coursLe": "2026-10-16",
  "devise": "JPY",
  "capi": "environ 408 Md¥ (environ 2,3 Md€)",
  "per26": 17.4,
@@ -13,6 +13,10 @@
  "these": "Fabricant japonais de câbles haute tension, de câbles optiques et de composants, porté par le renouvellement du réseau électrique et les data centers. Après un premier trimestre très fort (bénéfice net presque doublé), la prévision annuelle et le dividende ont été relevés ; le titre se paie environ 17 fois les bénéfices de l'exercice en cours, environ 28 % sous son sommet de mai.",
  "risque": "Prix du cuivre (gonfle le chiffre d'affaires puis peut le dégonfler), retournement des investissements dans les data centers, cours très volatil (de 1 412 à 3 806 ¥ en un an, après division).",
  "faits": [
+  {
+   "d": "15/10",
+   "t": "Chute de -11,8 % : forte baisse des valeurs japonaises liées à l'IA et aux data centers après la chute des obligations de CoreWeave et une inflation américaine plus forte que prévu. Aucun communiqué propre à SWCC."
+  },
   {
    "d": "01/10",
    "t": "Division de l'action par 5 effective : environ 154 millions d'actions émises au lieu de 30,8 millions."
@@ -24,10 +28,6 @@
   {
    "d": "07/08",
    "t": "T1 : CA 77,7 Md¥ (+24,9 %), résultat opérationnel 8,7 Md¥ (+80 %), bénéfice net 5,7 Md¥ (+92 %) ; prévision annuelle relevée (bénéfice net 23 Md¥, +22 %) et dividende porté à 311 ¥ avant division."
-  },
-  {
-   "d": "28/05",
-   "t": "Annonce de la cession de la filiale informatique AXIO."
   }
  ],
  "pub": null,
@@ -37,22 +37,6 @@
  "yahoo": "5805.T",
  "compte": "CTO",
  "histo": [
-  [
-   "12/09",
-   1748.0
-  ],
-  [
-   "16/09",
-   1676.0
-  ],
-  [
-   "17/09",
-   1606.0
-  ],
-  [
-   "18/09",
-   1612.0
-  ],
   [
    "19/09",
    1596.0
@@ -1075,13 +1059,29 @@
   ],
   [
    "09/10",
-   2740.0
+   2847.0
+  ],
+  [
+   "13/10",
+   2774.0
+  ],
+  [
+   "14/10",
+   2835.0
+  ],
+  [
+   "15/10",
+   2501.0
+  ],
+  [
+   "16/10",
+   2496.0
   ]
  ],
  "perf": {
-  "m1": -2.8,
-  "m3": 15.0,
-  "m12": 71.7
+  "m1": -8.2,
+  "m3": 9.6,
+  "m12": 67.3
  },
  "analyse": {
   "majLe": "2026-10-01",
@@ -1100,27 +1100,27 @@
    "greenblatt": "Rendement bénéficiaire calculé (résultat opérationnel prévu de 33 Md¥ / valeur d'entreprise de 433 Md¥) d'environ 7,6 % et ROIC visé de 13,8 % cette année : profil correct sur la formule magique, sans être exceptionnel."
   },
   "tech": {
-   "cours": 2740.0,
-   "coursLe": "2026-10-09",
-   "mm50": 2690.28,
-   "mm200": 2662.32,
-   "rsi14": 49.5,
+   "cours": 2496.0,
+   "coursLe": "2026-10-16",
+   "mm50": 2731.9,
+   "mm200": 2673.24,
+   "rsi14": 38.8,
    "haut52": 3806.0,
    "bas52": 1412.0,
    "support": 2580,
    "resistance": 2940,
-   "tendance": "haussiere",
-   "stade": 2,
-   "lecture": "Cours de 2 740,00 au-dessus de sa moyenne 50 jours (2 690,28) et au-dessus de sa moyenne 200 jours (2 662,32). RSI 49,5 : élan neutre. Il se situe à 55 % de sa fourchette sur un an (de 1 412,00 à 3 806,00), performance sur 12 mois de 71,7 %. Clôture du 09/10/2026.",
+   "tendance": "neutre",
+   "stade": 3,
+   "lecture": "Cours de 2 496,00 en dessous de sa moyenne 50 jours (2 731,90) et en dessous de sa moyenne 200 jours (2 673,24). RSI 38,8 : élan neutre. Il se situe à 45 % de sa fourchette sur un an (de 1 412,00 à 3 806,00), performance sur 12 mois de 67,3 %. Clôture du 16/10/2026.",
    "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json"
   },
   "actu": [
    {
-    "d": "07/08",
-    "fait": "T1 : CA +24,9 %, résultat opérationnel +80 %, bénéfice net +92 % ; prévision annuelle relevée (résultat opérationnel 33 Md¥ au lieu de 28,5, bénéfice net 23 Md¥ au lieu de 18,5) et dividende relevé de 250 à 311 ¥ avant division.",
-    "impact": "positif",
-    "horizon": "moyen",
-    "lecture": "La société explique la hausse par l'énergie, les communications à l'étranger, les semi-conducteurs, la demande liée à l'IA et le prix du cuivre : le dernier point est moins durable que les autres."
+    "d": "15/10",
+    "fait": "Le Nikkei chute fortement après l'effondrement le 14/10 des obligations de CoreWeave, qui fait craindre pour le financement des data centers d'IA, et un indice des prix américain au-dessus des attentes. SWCC termine vers 2 500 ¥. Aucune publication ni changement de prévision propre à la société.",
+    "impact": "negatif",
+    "horizon": "court",
+    "lecture": "La baisse vient du secteur, pas de la société, mais montre qu'une partie du cours repose sur l'enthousiasme pour les data centers. La partie câbles haute tension pour le réseau japonais n'est pas concernée."
    },
    {
     "d": "31/08",
@@ -1130,18 +1130,18 @@
     "lecture": "Ne change pas la valeur de l'entreprise ; rend l'action plus accessible aux particuliers japonais."
    },
    {
+    "d": "07/08",
+    "fait": "T1 : CA +24,9 %, résultat opérationnel +80 %, bénéfice net +92 % ; prévision annuelle relevée (résultat opérationnel 33 Md¥ au lieu de 28,5, bénéfice net 23 Md¥ au lieu de 18,5) et dividende relevé de 250 à 311 ¥ avant division.",
+    "impact": "positif",
+    "horizon": "moyen",
+    "lecture": "La société explique la hausse par l'énergie, les communications à l'étranger, les semi-conducteurs, la demande liée à l'IA et le prix du cuivre : le dernier point est moins durable que les autres."
+   },
+   {
     "d": "14/05",
     "fait": "Exercice clos en mars 2026 : bénéfice net 18,8 Md¥ (+65 %), ROE 20,7 % ; mais prévision initiale d'un bénéfice net en léger recul (-1,8 %), sous les attentes.",
     "impact": "negatif",
     "horizon": "court",
     "lecture": "La prévision prudente a fait chuter le titre depuis son sommet ; elle a été largement relevée trois mois plus tard."
-   },
-   {
-    "d": "27/02",
-    "fait": "Nouveau plan à moyen terme « Transformation for Growth SWCC 2030 » : résultat opérationnel d'au moins 40 Md¥, marge d'au moins 12 %, ROIC d'au moins 15 %, ROE d'au moins 20 %, distribution d'au moins 40 % du bénéfice.",
-    "impact": "positif",
-    "horizon": "long",
-    "lecture": "Donne une feuille de route chiffrée pour juger la direction ; l'enveloppe d'acquisitions de 80 Md¥ sera à surveiller."
    }
   ],
   "scenarios": [
@@ -1187,6 +1187,8 @@
    "Weinstein (stades)"
   ],
   "sources": [
+   "https://media.rakuten-sec.net/articles/-/53766",
+   "https://www.nikkei.com/article/DGXZQOUB150HLTV11C26A0000000/",
    "https://www.daiwair.co.jp/td_download.cgi?c=5805&i=3274037",
    "https://pdf.irpocket.com/C5805/WUpy/ZFzz/GvVX.pdf",
    "https://www.zaikei.co.jp/article/20260901/868066.html",
@@ -1300,15 +1302,15 @@
    "Comment seront utilisés les 80 Md¥ prévus pour des acquisitions d'ici 2030, sans dégrader le bilan ?"
   ],
   "suivi": {
-   "le": "2026-10-01",
+   "le": "2026-10-16",
    "bilan": "Les trois conditions tiennent pour l'instant ; le point le plus fragile est la part du cuivre dans la croissance, que la société ne chiffre pas.",
    "croire": [
     {
      "c": "Que la demande de câbles haute tension (renouvellement du réseau électrique japonais) et de câbles optiques pour data centers reste forte plusieurs années, au-delà de l'effet du prix du cuivre.",
-     "etat": "ok",
-     "reponse": "Oui pour l'instant : la société cite une demande forte dans l'énergie, les communications à l'étranger et les semi-conducteurs, en partie liée à l'IA.",
-     "preuve": "T1 : énergie et infrastructures +22,8 % de CA et +77 % de résultat ; communication et composants +27,2 % et +86 %.",
-     "source": "https://www.daiwair.co.jp/td_download.cgi?c=5805&i=3274037",
+     "etat": "watch",
+     "reponse": "Pas de donnée nouvelle de la société, mais le marché doute du financement des data centers d'IA après le choc CoreWeave ; la partie haute tension n'est pas concernée.",
+     "preuve": "15/10/2026 : obligations de CoreWeave en chute, fort recul du Nikkei.",
+     "source": "https://media.rakuten-sec.net/articles/-/53766",
      "prochain": "Résultats du premier semestre (mi-novembre 2026, date non confirmée)"
     },
     {

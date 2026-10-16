@@ -90,6 +90,7 @@
    }
   ],
   "sources": [
+   "https://www.lesoleil.com/communiques-de-presse/2026/10/12/lectra-programme-de-rachat-dactions-declaration-agregee-des-transactions-sur-actions-propres-realisees-du-5-au-9-octobre-2026-G2TQ5MLILRA4TESFNVBPKNM5TY/",
    "https://www.24matins.fr/pr/lectra-programme-de-rachat-dactions-declaration-agregee-des-transactions-sur-actions-propres-realisees-du-28-septembre-au-2-octobre-2026",
    "https://www.globenewswire.com/news-release/2026/09/28/3370149/0/fr/lectra-programme-de-rachat-d-actions-d%C3%A9claration-agr%C3%A9g%C3%A9e-des-transactions-sur-actions-propres-r%C3%A9alis%C3%A9es-du-21-au-25-septembre-2026.html",
    "https://www.globenewswire.com/news-release/2026/07/30/3336282/0/fr/LECTRA-Premier-semestre-2026-am%C3%A9lioration-de-la-performance-au-deuxi%C3%A8me-trimestre-ambitions-2026-2028-confirm%C3%A9es.html",
@@ -106,13 +107,13 @@
   "tech": {
    "bas52": 15.2,
    "cours": 20.85,
-   "coursLe": "2026-10-09",
+   "coursLe": "2026-10-16",
    "haut52": 25.5,
-   "lecture": "Cours de 20,85 en dessous de sa moyenne 50 jours (21,82) et au-dessus de sa moyenne 200 jours (19,39). RSI 47,8 : élan neutre. Il se situe à 55 % de sa fourchette sur un an (de 15,20 à 25,50), performance sur 12 mois de -10,9 %. Clôture du 09/10/2026.",
-   "mm200": 19.39,
-   "mm50": 21.82,
+   "lecture": "Cours de 20,85 en dessous de sa moyenne 50 jours (21,68) et au-dessus de sa moyenne 200 jours (19,28). RSI 48,3 : élan neutre. Il se situe à 55 % de sa fourchette sur un an (de 15,20 à 25,50), performance sur 12 mois de -10,1 %. Clôture du 16/10/2026.",
+   "mm200": 19.28,
+   "mm50": 21.68,
    "resistance": 23.4,
-   "rsi14": 47.8,
+   "rsi14": 48.3,
    "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json",
    "stade": 3,
    "support": 20.5,
@@ -136,9 +137,13 @@
  },
  "capi": "903 M€",
  "cours": 20.85,
- "coursLe": "2026-10-09",
+ "coursLe": "2026-10-16",
  "devise": "€",
  "faits": [
+  {
+   "d": "12/10",
+   "t": "Rachat d'actions : 40 581 actions achetées du 05 au 09/10 à 20,82 € en moyenne."
+  },
   {
    "d": "05/10",
    "t": "Le rachat d'actions continue : 47 384 actions achetées du 28/09 au 02/10 à 20,99 € en moyenne."
@@ -150,33 +155,9 @@
   {
    "d": "16/09",
    "t": "Lancement d'Apogy, logiciel en ligne de développement produit pour la mode."
-  },
-  {
-   "d": "01/09",
-   "t": "Mandat de rachat d'actions relevé de 20 à 25 M€."
   }
  ],
  "histo": [
-  [
-   "03/10",
-   24.4
-  ],
-  [
-   "06/10",
-   24.15
-  ],
-  [
-   "07/10",
-   24.1
-  ],
-  [
-   "08/10",
-   23.65
-  ],
-  [
-   "09/10",
-   23.75
-  ],
   [
    "10/10",
    23.35
@@ -1196,6 +1177,26 @@
   [
    "09/10",
    20.85
+  ],
+  [
+   "12/10",
+   20.7
+  ],
+  [
+   "13/10",
+   20.7
+  ],
+  [
+   "14/10",
+   20.75
+  ],
+  [
+   "15/10",
+   20.85
+  ],
+  [
+   "16/10",
+   20.85
   ]
  ],
  "nom": "Lectra",
@@ -1204,9 +1205,9 @@
  "per26": 30.4,
  "per27": 23.4,
  "perf": {
-  "m1": -2.1,
-  "m3": 24.0,
-  "m12": -10.9
+  "m1": 0.5,
+  "m3": 14.1,
+  "m12": -10.1
  },
  "pub": "2026-10-28",
  "pubLabel": "CA du T3",

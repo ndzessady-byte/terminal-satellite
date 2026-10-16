@@ -1,6 +1,6 @@
 {
- "lecture": "Ormuz se tend à nouveau : les attaques de navires reprennent et l'Iran ne cède rien, le Brent remonte vers 105,6 $. L'annonce d'un cessez-le-feu énergétique en Ukraine reste floue faute de confirmation russe. À Paris, le budget rejeté en commission arrive à l'Assemblée le 13/10 sous menace de censure, ce qui garde les taux français près de leurs plus hauts depuis 2008.",
- "majLe": "2026-10-12",
+ "lecture": "Le risque immédiat sur le budget français a reculé après l'échec de la motion de rejet, et les taux se sont un peu détendus (OAT 4,79 %). Le danger se déplace vers l'énergie : gaz européen au plus haut depuis 2022 et Brent au-dessus de 105 $ avec la multiplication des attaques à Ormuz. Cela entretient l'inflation et le risque d'une nouvelle hausse de la BCE le 29/10.",
+ "majLe": "2026-10-16",
  "matieres": {
   "ALU": {
    "moteurs": "L'aluminium reste haut (environ 3 260 $/t, +22 % sur un an) car la production du Golfe s'est effondrée avec la guerre, mais le dollar fort et les exportations chinoises le plafonnent.",
@@ -69,6 +69,14 @@
   {
    "faits": [
     {
+     "d": "15/10",
+     "t": "Les frappes de drones iraniens sur les navires se multiplient et le trafic des pétroliers ralentit."
+    },
+    {
+     "d": "13/10",
+     "t": "Selon l'UKMTO, quatre navires attaqués le 11/10 dans le détroit, au moins 18 attaques depuis début octobre. Aucune avancée diplomatique entre Washington et Téhéran."
+    },
+    {
      "d": "11/10",
      "t": "Les attaques de navires s'intensifient : un superpétrolier aurait touché une mine le 10/10 (revendication des Gardiens de la révolution), un projectile touche un pétrolier sortant du détroit le 11/10 et l'armée américaine immobilise un cargo dans le golfe d'Oman. Téhéran ne cède rien, aucune percée attendue avant le 3/11. Brent vers 105,6 $ lundi midi."
     },
@@ -83,14 +91,6 @@
     {
      "d": "04/10",
      "t": "L'OPEP+ laisse ses objectifs inchangés pour novembre, production toujours environ 5 millions de barils/jour sous l'avant-guerre. Les Houthis revendiquent des frappes sur des sites d'Aramco (Riyad conteste) et l'Iran rejette les dernières propositions américaines."
-    },
-    {
-     "d": "02/10",
-     "t": "Pas de reprise des discussions ; les exportations du Golfe sont revenues près du niveau d'avant-guerre mais 13 navires ont été touchés depuis le 10/09. Brent juste sous 100 $."
-    },
-    {
-     "d": "01/10",
-     "t": "Les discussions entre Washington et Téhéran sont au point mort : la délégation iranienne à l'ONU doit quitter New York. Le Brent repasse au-dessus de 100 $ (environ 100,5 $, +2,6 %)."
     }
    ],
    "id": "ormuz",
@@ -120,6 +120,7 @@
    "region": "Moyen-Orient / Golfe",
    "resume": "La guerre avec l'Iran, commencée fin février 2026, bloque toujours le détroit d'Ormuz par où passait environ un cinquième du pétrole mondial, et les États-Unis maintiennent un blocus des ports iraniens. Fin septembre, Trump a rejeté le plan iranien de réouverture et un vraquier a encore été touché près d'Oman. Le Brent est repassé au-dessus de 100 $ et c'est le premier moteur de l'inflation et des taux en ce moment.",
    "sources": [
+    "https://seatrade-maritime.com/security/ukmto-issues-four-hormuz-attack-reports-iran-claims-adnoc-tanker-strike",
     "https://aljazeera.com/news/2026/10/11/hormuz-attacks-intensify-as-efforts-to-end-war-on-iran-stall",
     "https://www.aljazeera.com/news/2026/10/9/trump-says-us-will-not-strike-iran-before-midterm-elections",
     "https://www.cnbc.com/2026/10/04/opec-agrees-to-keep-november-oil-output-targets-steady.html",
@@ -178,6 +179,10 @@
   {
    "faits": [
     {
+     "d": "16/10",
+     "t": "L'OAT 10 ans finit la semaine à 4,79 % (4,86 % le 12/10), le Bund à 3,42 % : écart resserré à 137 pb (données Banque de France et Bundesbank)."
+    },
+    {
      "d": "12/10",
      "t": "L'OAT 10 ans reste quasi stable lundi, toujours près de ses plus hauts depuis 2008, en attendant l'ouverture des débats budgétaires."
     },
@@ -196,10 +201,6 @@
     {
      "d": "01/10",
      "t": "L'OAT 10 ans monte vers 4,9 %, son plus haut depuis 2002. Chômage de la zone euro stable à 6,4 % en août."
-    },
-    {
-     "d": "30/09",
-     "t": "L'inflation française accélère à 3,0 % sur un an en septembre (2,4 % en août), tirée par l'énergie ; la Fed de New York évoque une prochaine hausse plutôt en décembre."
     }
    ],
    "id": "taux",
@@ -221,6 +222,7 @@
    "region": "Zone euro / États-Unis",
    "resume": "Le choc pétrolier relance l'inflation, et les deux grandes banques centrales ont remonté leurs taux en septembre au lieu de les baisser. Les marchés anticipent encore des hausses. C'est un vent contraire pour les petites et moyennes valeurs, pour l'immobilier et pour l'or.",
    "sources": [
+    "https://www.ideal-investisseur.fr/marches/macro/spread-oat-bund.html",
     "https://tradingeconomics.com/france/government-bond-yield",
     "https://www.ideal-investisseur.fr/en/markets/oat-bund-spread.html",
     "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-02102026-ap",
@@ -264,6 +266,10 @@
   {
    "faits": [
     {
+     "d": "13/10",
+     "t": "La motion de rejet du PS contre le budget 2027 est repoussée (236 voix contre 149) grâce au RN ; l'examen des recettes se poursuit jusqu'au 19/10. Le 49.3 reste possible, LFI promet alors la censure, Marine Le Pen dit préférer un budget « imparfait » adopté."
+    },
+    {
      "d": "10/10",
      "t": "La commission des finances rejette la partie recettes du budget 2027 (31 voix contre 3). La séance du 13/10 repartira du texte du gouvernement ; LFI promet la censure en cas de 49.3 et le RN refuse les hausses d'impôts."
     },
@@ -282,10 +288,6 @@
     {
      "d": "01/10",
      "t": "Budget 2027 présenté : 43 Md€ de mesures nouvelles, gel des salaires publics et de la plupart des pensions, déficit visé à 5 % du PIB, 340 Md€ d'emprunts. L'écart OAT/Bund dépasse 130 pb en séance, les banques françaises reculent d'environ 3 %."
-    },
-    {
-     "d": "30/09",
-     "t": "L'écart OAT/Bund atteint 120 pb, plus haut depuis 2012 ; l'État prévoit d'emprunter un record de 340 Md€ en 2027. Budget présenté le 01/10, examen à l'Assemblée à partir du 13/10."
     }
    ],
    "id": "france",
@@ -299,6 +301,7 @@
    "region": "France",
    "resume": "Le gouvernement Lecornu présente un budget 2027 avec 54 Md€ d'effort pour ramener le déficit vers 4,8 à 5 % du PIB, mais la gauche promet la censure et le RN reste l'arbitre. L'écart de taux avec l'Allemagne est élevé mais s'est un peu détendu en fin de semaine dernière. C'est le risque principal pour les valeurs très françaises de ta liste.",
    "sources": [
+    "https://lcp.fr/actualites/la-motion-de-rejet-des-socialistes-n-ayant-pas-ete-adoptee-l-examen-du-budget-pour-2027",
     "https://lcp.fr/actualites/budget-2027-les-deputes-rejettent-en-commission-la-partie-recettes-du-projet-de-loi-de",
     "https://echosplus.com/2026/10/03/budget-2027-le-ps-presse-lecornu-de-revoir-sa-copie-et-maintient-la-menace-de-censure/",
     "https://www.lessentiel.lu/fr/story/france-provocation-insupportable-le-budget-2027-deja-critique-103642655",
@@ -316,7 +319,7 @@
     "Position du RN sur la censure",
     "Écart OAT/Bund : au-dessus de 110 pb, signal d'alerte ; non atteint au 25/09"
    ],
-   "tendance": "hausse",
+   "tendance": "stable",
    "titre": "Budget 2027 et risque politique français",
    "valeurs": [
     {
@@ -349,6 +352,10 @@
   {
    "faits": [
     {
+     "d": "13/10",
+     "t": "Le TTF monte à 86,80 €/MWh, plus haut depuis décembre 2022 : le Qatar exporte moins d'un quart de son niveau d'avant-guerre et les stocks européens sont à environ 74 % (89 % en moyenne sur 5 ans)."
+    },
+    {
      "d": "30/09",
      "t": "Le gaz européen (TTF) rebondit à 72,21 €/MWh (+3,9 %) ; stocks vers 71 % contre 87 % en moyenne sur 5 ans (une seule source)."
     },
@@ -376,6 +383,7 @@
    "region": "Europe",
    "resume": "Les stocks de gaz européens sont nettement en retard sur la normale, surtout en Allemagne, alors que le GNL du Golfe arrive mal. Le TTF tient autour de 70 €/MWh, plus du double d'il y a un an. Un hiver froid ou une nouvelle escalade à Ormuz peut faire flamber le prix.",
    "sources": [
+    "https://www.connaissancedesenergies.org/afp/le-gaz-europeen-au-plus-haut-depuis-2022-le-petrole-hesite-261013",
     "https://tradingeconomics.com/commodity/eu-natural-gas",
     "https://www.euronews.com/business/2026/08/31/european-gas-prices-spike-above-70-amid-renewed-middle-east-fighting",
     "https://en.wikipedia.org/wiki/2026_Iran_war_fuel_crisis"
@@ -385,7 +393,7 @@
     "Durée de la force majeure qatarie (Italie jusqu'en décembre)",
     "Premières vagues de froid en Europe"
    ],
-   "tendance": "stable",
+   "tendance": "hausse",
    "titre": "Stocks de gaz européens bas avant l'hiver",
    "valeurs": [
     {
@@ -412,6 +420,10 @@
   },
   {
    "faits": [
+    {
+     "d": "12/10",
+     "t": "Le Kremlin dément tout cessez-le-feu énergétique et frappe encore six sites énergétiques ukrainiens ; Washington lève une partie des sanctions sur le pétrole russe le 13/10."
+    },
     {
      "d": "11/10",
      "t": "Trump annonce un cessez-le-feu énergétique immédiat entre la Russie et l'Ukraine. Kyiv le soutient mais demande des précisions, Moscou ne confirme pas et frappe encore des centrales à Kyiv et Kharkiv le jour même."
@@ -448,6 +460,7 @@
    "region": "Europe de l'Est",
    "resume": "Les pourparlers menés par les États-Unis ont repris début septembre mais Zelensky a rejeté le projet d'accord et Moscou pose des conditions territoriales jugées inacceptables. Les frappes de drones en mer Noire ont quasi stoppé les exportations maritimes de céréales des deux pays. Le blé reste nerveux mais recule quand l'espoir de cessez-le-feu revient.",
    "sources": [
+    "https://www.criticalthreats.org/analysis/russian-offensive-campaign-assessment-october-12-2026",
     "https://www.euronews.com/2026/10/12/energy-ceasefire-confusion-in-kyiv-support-from-allies-silence-from-moscow-and-fresh-strik",
     "https://www.csmonitor.com/World/Europe/2026/0926/russia-ukraine-peace-talks-donbas-europe-trump",
     "https://www.maritimeprofessional.com/news/wheat-prices-rise-black-tensions-423084",
@@ -458,7 +471,7 @@
     "Reprise ou non du trafic céréalier en mer Noire",
     "Frappes sur les raffineries et ports russes"
    ],
-   "tendance": "baisse",
+   "tendance": "stable",
    "titre": "Russie / Ukraine et mer Noire",
    "valeurs": [
     {

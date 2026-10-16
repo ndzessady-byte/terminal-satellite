@@ -3,8 +3,8 @@
  "nom": "Simpson Manufacturing",
  "pays": "US",
  "secteur": "Industrie (produits de construction)",
- "cours": 170.545,
- "coursLe": "2026-10-09",
+ "cours": 175.79,
+ "coursLe": "2026-10-16",
  "devise": "USD",
  "capi": "7,0 Md USD (environ 6,2 Md EUR)",
  "per26": null,
@@ -13,6 +13,10 @@
  "these": "Numéro un nord-américain des connecteurs métalliques et fixations pour charpentes bois (marque Strong-Tie), que les ingénieurs prescrivent et que les codes du bâtiment imposent. Malgré un marché du logement faible, la marge opérationnelle monte (19,6 % en 2025, 22,5 % au S1 2026, record de 25,2 % au T2) et le BPA du S1 progresse de 20,6 %, avec une trésorerie supérieure à la dette.",
  "risque": "Très dépendante de la construction de logements neufs aux États-Unis et des taux d'intérêt ; volumes en baisse compensés par les prix ; cours sous ses moyennes 50 et 200 jours ; risque de change euro/dollar.",
  "faits": [
+  {
+   "d": "12/10",
+   "t": "Résultats du T3 le lundi 26/10 après la clôture."
+  },
   {
    "d": "06/10",
    "t": "La vente du terrain de Stockton est repoussée du T3 au T4 2026 ; prévisions annuelles inchangées (déclaration SEC)."
@@ -24,39 +28,15 @@
   {
    "d": "27/07",
    "t": "T2 2026 : CA 671,1 M$ (+6,3 %), marge opérationnelle record de 25,2 % (contre 22,2 %), BPA dilué 3,09 $ (+25,1 %)."
-  },
-  {
-   "d": "27/07",
-   "t": "Prévision 2026 de marge opérationnelle relevée à 19,7 à 20,5 % (dont un gain de 10 à 12 M$ sur une vente de terrain)."
   }
  ],
- "pub": null,
- "pubLabel": "Résultats du T3 2026 (fin octobre ; 26/10 selon StockAnalysis, date non encore annoncée par la société)",
+ "pub": "2026-10-26",
+ "pubLabel": "Résultats du T3 (après la clôture)",
  "src": "https://www.prnewswire.com/news-releases/simpson-manufacturing-co-inc-announces-2026-second-quarter-financial-results-and-updates-2026-guidance-302835215.html",
  "notes": "PER 2026 d'environ 19 (BPA 2026 attendu de 9,06 $, 5 analystes) selon une seule source (StockAnalysis), non retenu. Clôture du 30/09/2026 à 170,88 $ (flux de cours Yahoo, confirmée par WallStreetZen).",
  "yahoo": "SSD",
  "compte": "CTO",
  "histo": [
-  [
-   "29/09",
-   167.56
-  ],
-  [
-   "30/09",
-   167.46
-  ],
-  [
-   "01/10",
-   167.34
-  ],
-  [
-   "02/10",
-   169.23
-  ],
-  [
-   "03/10",
-   171.22
-  ],
   [
    "06/10",
    169.67
@@ -1075,13 +1055,33 @@
   ],
   [
    "09/10",
-   170.54
+   171.12
+  ],
+  [
+   "12/10",
+   170.14
+  ],
+  [
+   "13/10",
+   172.19
+  ],
+  [
+   "14/10",
+   171.08
+  ],
+  [
+   "15/10",
+   175.12
+  ],
+  [
+   "16/10",
+   175.79
   ]
  ],
  "perf": {
-  "m1": -1.1,
-  "m3": -8.1,
-  "m12": 0.6
+  "m1": 1.9,
+  "m3": -5.3,
+  "m12": 2.4
  },
  "analyse": {
   "majLe": "2026-10-01",
@@ -1100,18 +1100,18 @@
    "greenblatt": "Rendement bénéficiaire (résultat opérationnel 2025 de 458,1 M$ / valeur d'entreprise d'environ 6,9 Md$) proche de 6,6 % et rendement du capital élevé : profil correct mais pas exceptionnel sur la formule magique. Piotroski non calculé (bilan 2024 complet non vérifié)."
   },
   "tech": {
-   "cours": 170.545,
-   "coursLe": "2026-10-09",
-   "mm50": 181.69,
-   "mm200": 184.67,
-   "rsi14": 40.1,
+   "cours": 175.79,
+   "coursLe": "2026-10-16",
+   "mm50": 179.65,
+   "mm200": 184.85,
+   "rsi14": 52.2,
    "haut52": 210.06,
    "bas52": 158.0,
    "support": 158.0,
    "resistance": 184.0,
    "tendance": "baissiere",
    "stade": 4,
-   "lecture": "Cours de 170,54 en dessous de sa moyenne 50 jours (181,69) et en dessous de sa moyenne 200 jours (184,67). RSI 40,1 : élan neutre. Il se situe à 24 % de sa fourchette sur un an (de 158,00 à 210,06), performance sur 12 mois de 0,6 %. Clôture du 09/10/2026.",
+   "lecture": "Cours de 175,79 en dessous de sa moyenne 50 jours (179,65) et en dessous de sa moyenne 200 jours (184,85). RSI 52,2 : élan neutre. Il se situe à 34 % de sa fourchette sur un an (de 158,00 à 210,06), performance sur 12 mois de 2,4 %. Clôture du 16/10/2026.",
    "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json"
   },
   "actu": [
@@ -1186,6 +1186,7 @@
    "Weinstein (stades)"
   ],
   "sources": [
+   "https://finviz.com/news/401256/simpson-manufacturing-co-inc-to-announce-third-quarter-2026-financial-results-on-monday-october-26th",
    "https://www.sec.gov/Archives/edgar/data/0000920371/000162828026065254/ssd-20261006.htm",
    "https://www.prnewswire.com/news-releases/simpson-manufacturing-co-inc-declares-quarterly-dividend-302833697.html",
    "https://www.prnewswire.com/news-releases/simpson-manufacturing-co-inc-announces-2026-second-quarter-financial-results-and-updates-2026-guidance-302835215.html",

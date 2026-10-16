@@ -3,8 +3,8 @@
  "nom": "USS",
  "pays": "JP",
  "secteur": "Enchères de voitures d'occasion",
- "cours": 1798.5,
- "coursLe": "2026-10-09",
+ "cours": 1817.5,
+ "coursLe": "2026-10-16",
  "devise": "JPY",
  "capi": "environ 815 Md¥ (environ 4,6 Md€)",
  "per26": 18.4,
@@ -37,22 +37,6 @@
  "yahoo": "4732.T",
  "compte": "CTO",
  "histo": [
-  [
-   "12/09",
-   1814.0
-  ],
-  [
-   "16/09",
-   1814.0
-  ],
-  [
-   "17/09",
-   1812.5
-  ],
-  [
-   "18/09",
-   1812.0
-  ],
   [
    "19/09",
    1809.5
@@ -1075,13 +1059,29 @@
   ],
   [
    "09/10",
-   1798.5
+   1797.5
+  ],
+  [
+   "13/10",
+   1815.5
+  ],
+  [
+   "14/10",
+   1778.0
+  ],
+  [
+   "15/10",
+   1790.5
+  ],
+  [
+   "16/10",
+   1817.5
   ]
  ],
  "perf": {
-  "m1": -8.2,
-  "m3": -8.4,
-  "m12": 3.7
+  "m1": -5.2,
+  "m3": -8.0,
+  "m12": 8.2
  },
  "analyse": {
   "majLe": "2026-10-01",
@@ -1100,18 +1100,18 @@
    "greenblatt": "Rendement bénéficiaire calculé (résultat opérationnel prévu de 61 Md¥ / valeur d'entreprise de 718 Md¥) d'environ 8,5 % et rendement du capital d'environ 31 % (Stockopedia) : profil favorable sur la formule magique."
   },
   "tech": {
-   "cours": 1798.5,
-   "coursLe": "2026-10-09",
-   "mm50": 1936.79,
-   "mm200": 1828.6,
-   "rsi14": 30.9,
+   "cours": 1817.5,
+   "coursLe": "2026-10-16",
+   "mm50": 1917.49,
+   "mm200": 1829.9,
+   "rsi14": 42.0,
    "haut52": 2064.0,
    "bas52": 1643.5,
    "support": 1795,
    "resistance": 1910,
    "tendance": "neutre",
    "stade": 3,
-   "lecture": "Cours de 1 798,50 en dessous de sa moyenne 50 jours (1 936,79) et en dessous de sa moyenne 200 jours (1 828,60). RSI 30,9 : élan neutre. Il se situe à 37 % de sa fourchette sur un an (de 1 643,50 à 2 064,00), performance sur 12 mois de 3,7 %. Clôture du 09/10/2026.",
+   "lecture": "Cours de 1 817,50 en dessous de sa moyenne 50 jours (1 917,49) et en dessous de sa moyenne 200 jours (1 829,90). RSI 42,0 : élan neutre. Il se situe à 41 % de sa fourchette sur un an (de 1 643,50 à 2 064,00), performance sur 12 mois de 8,2 %. Clôture du 16/10/2026.",
    "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json"
   },
   "actu": [

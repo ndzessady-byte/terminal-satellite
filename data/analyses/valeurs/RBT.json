@@ -93,18 +93,18 @@
   ],
   "tech": {
    "bas52": 727.0,
-   "cours": 774.0,
-   "coursLe": "2026-10-09",
+   "cours": 776.0,
+   "coursLe": "2026-10-16",
    "haut52": 910.0,
-   "lecture": "Cours de 774,00 en dessous de sa moyenne 50 jours (778,12) et en dessous de sa moyenne 200 jours (816,27). RSI 55,3 : élan neutre. Il se situe à 26 % de sa fourchette sur un an (de 727,00 à 910,00), performance sur 12 mois de -5,4 %. Clôture du 09/10/2026.",
-   "mm200": 816.27,
-   "mm50": 778.12,
+   "lecture": "Cours de 776,00 au-dessus de sa moyenne 50 jours (775,06) et en dessous de sa moyenne 200 jours (813,71). RSI 55,6 : élan neutre. Il se situe à 27 % de sa fourchette sur un an (de 727,00 à 910,00), performance sur 12 mois de -6,6 %. Clôture du 16/10/2026.",
+   "mm200": 813.71,
+   "mm50": 775.06,
    "resistance": 775,
-   "rsi14": 55.3,
+   "rsi14": 55.6,
    "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json",
-   "stade": 4,
+   "stade": 1,
    "support": 710,
-   "tendance": "baissiere"
+   "tendance": "neutre"
   },
   "verdict": "Robertet reste un leader rentable des ingrédients naturels, avec une dette quasi nulle et une valorisation redescendue vers 16,5 fois les bénéfices 2026, mais il vient de réduire son objectif de croissance 2026 et sa marge recule. Le titre est en tendance baissière sous sa moyenne 200 jours, et la thèse doit être revalidée par un retour de la croissance.",
   "zones": {
@@ -123,8 +123,8 @@
   }
  },
  "capi": "1,64 Md€",
- "cours": 774.0,
- "coursLe": "2026-10-09",
+ "cours": 776.0,
+ "coursLe": "2026-10-16",
  "devise": "€",
  "faits": [
   {
@@ -141,26 +141,6 @@
   }
  ],
  "histo": [
-  [
-   "03/10",
-   804.0
-  ],
-  [
-   "06/10",
-   799.0
-  ],
-  [
-   "07/10",
-   803.0
-  ],
-  [
-   "08/10",
-   814.0
-  ],
-  [
-   "09/10",
-   817.0
-  ],
   [
    "10/10",
    804.0
@@ -1180,6 +1160,26 @@
   [
    "09/10",
    774.0
+  ],
+  [
+   "12/10",
+   769.0
+  ],
+  [
+   "13/10",
+   776.0
+  ],
+  [
+   "14/10",
+   773.0
+  ],
+  [
+   "15/10",
+   775.0
+  ],
+  [
+   "16/10",
+   776.0
   ]
  ],
  "nom": "Robertet",
@@ -1188,9 +1188,9 @@
  "per26": 16.6,
  "per27": 14.9,
  "perf": {
-  "m1": 1.3,
-  "m3": -6.4,
-  "m12": -5.4
+  "m1": 1.4,
+  "m3": -3.7,
+  "m12": -6.6
  },
  "pub": "2027-02-11",
  "pubLabel": "Résultats annuels",

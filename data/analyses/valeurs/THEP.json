@@ -3,32 +3,32 @@
   "aVerifier": "Montant du CA S1 2026 contradictoire selon les sources (273,2 M€ ou 287,95 M€), seule la croissance a été retenue. Date de publication du CA du T3 non trouvée dans le calendrier lu. Nom et taille des sociétés acquises qui expliquent la croissance externe non trouvés. ROE calculé à partir des ratios Zonebourse. Couverture des intérêts, PER moyen sur 5 ans complet, comparaison avec les pairs et Piotroski non trouvés.",
   "actu": [
    {
+    "d": "15/10",
+    "fait": "Croissance faible au T3 : +3,7 % en publié, +0,6 % à périmètre constant (129,0 M€). La direction l'explique par des commandes avancées fin juin avant les hausses de prix et une base de comparaison moins favorable ; activité très calme l'été, reprise sur les deux dernières semaines.",
+    "impact": "negatif",
+    "horizon": "court",
+    "lecture": "La reprise à périmètre constant du premier semestre (+4,2 % au T1, +7,0 % au T2) cale au T3 : ce sont surtout les acquisitions qui portent la croissance."
+   },
+   {
+    "d": "15/10",
+    "fait": "Pompes à chaleur et ventilation tiennent (Axelair +28,2 %), mais la rénovation et l'entretien sont en retrait et la sécheresse pèse sur l'irrigation (Odrea -7,6 %). La direction craint que la hausse des taux interrompe la reprise du neuf.",
+    "impact": "negatif",
+    "horizon": "moyen",
+    "lecture": "Le cœur de la thèse, la reprise du bâtiment et de la rénovation, n'est pas au rendez-vous : seule la niche pompes à chaleur et ventilation tient."
+   },
+   {
+    "d": "15/10",
+    "fait": "L'effet prix passe de -0,9 % fin juin à -0,2 % ; les fournisseurs annoncent de fortes hausses et la taxe carbone européenne touchera certains aciers importés.",
+    "impact": "positif",
+    "horizon": "court",
+    "lecture": "La baisse des prix touche à sa fin, mais un effet prix positif viendra de la hausse des coûts plutôt que d'une demande plus forte."
+   },
+   {
     "d": "02/10",
     "fait": "L'aide de l'État à l'Anah baisse de 200 M€ en 2027 (1,2 Md€ contre 1,4 Md€). MaPrimeRénov' se recentre sur les rénovations complètes des ménages modestes et certains travaux comme la pompe à chaleur ; la plupart des petits travaux isolés passent aux certificats d'économies d'énergie.",
     "impact": "negatif",
     "horizon": "moyen",
     "lecture": "Le soutien public à la rénovation baisse encore, ce qui repousse la reprise attendue par la thèse ; le maintien de l'aide aux pompes à chaleur limite l'effet pour Thermador."
-   },
-   {
-    "d": "01/10",
-    "fait": "Le gouvernement présente le projet de loi de finances 2027. Une seule source parle de 500 M€ de moins pour MaPrimeRénov', chiffre non retenu à ce stade.",
-    "impact": "negatif",
-    "horizon": "moyen",
-    "lecture": "Le détail du budget va dire si les aides à la rénovation baissent encore en 2027 : c'est le point le plus fragile de la thèse."
-   },
-   {
-    "d": "28/09",
-    "fait": "Thermador publie chaque semaine ses achats d'actions propres, dernière déclaration pour la semaine du 21 au 25/09.",
-    "impact": "neutre",
-    "horizon": "court",
-    "lecture": "Le programme est bien appliqué, mais sa taille (0,33 % du capital au plus) reste symbolique."
-   },
-   {
-    "d": "17/09",
-    "fait": "Grandes lignes du budget 2027 : 54 Md€ d'économies pour ramener le déficit vers 5 % du PIB, avec des économies sur les aides au logement et une forte baisse du budget de l'ADEME. Aucun chiffre sur MaPrimeRénov' confirmé par deux sources.",
-    "impact": "negatif",
-    "horizon": "moyen",
-    "lecture": "Un budget de rigueur rend peu probable une relance des aides à la rénovation en 2027, le point le plus fragile de la thèse."
    }
   ],
   "cadres": [
@@ -53,7 +53,7 @@
    "score": 7,
    "valo": "PER 13 fois 2026 et 12,3 fois 2027, VE/EBITDA 7,35 fois 2026, rendement 3,4 %, rendement du cash-flow libre 8,4 % (Zonebourse, cours 70 € le 25/09). Moyenne 2023-2025 de Zonebourse : PER 14,1 à 17 fois et VE/EBITDA 8,6 à 9,4 fois, donc le titre est sous ses multiples récents. Moyenne sur 5 ans complète et comparaison avec les pairs non trouvées. Consensus : 3 analystes, objectif moyen 92,67 € (91 à 94 €)."
   },
-  "majLe": "2026-09-28",
+  "majLe": "2026-10-16",
   "revisions": "Stables : BPA 2026 attendu à 5,46 €, identique il y a 1 et 3 mois (3 analystes, Boursorama, page peut-être datée du 23/09).",
   "scenarios": [
    {
@@ -90,6 +90,9 @@
    }
   ],
   "sources": [
+   "https://www.webdisclosure.com/press-release/thermador-groupe-epa-thep-thermador-groupe-ca-t3-2026-v3CtcnDZ8n7",
+   "https://www.optionfinance.fr/info-financiere-en-continu/d/2026-10-16-thermador-groupe-legere-croissance-au-troisieme-trimestre-prudence-pour-la-suite.html",
+   "https://www.abcbourse.com/marches/newsContent/704110",
    "https://www.batiweb.com/actualites/legislation/budget-2027-anah-baisse-200-millions-maprimerenov-49378",
    "https://www.sudradio.fr/societe/maprimerenov-le-budget-de-lanah-en-baisse-de-200-millions-deuros",
    "https://www.toutsurmesfinances.com/argent/a/loi-de-finances-2027",
@@ -106,15 +109,15 @@
    "https://www.boursorama.com/bourse/actualites/la-bce-releve-ses-taux-pour-la-deuxieme-fois-cette-annee-8646994bbc091afc77809cc582993d85"
   ],
   "tech": {
-   "bas52": 65.0,
-   "cours": 66.5,
-   "coursLe": "2026-10-09",
+   "bas52": 63.2,
+   "cours": 63.2,
+   "coursLe": "2026-10-16",
    "haut52": 81.8,
-   "lecture": "Cours de 66,50 en dessous de sa moyenne 50 jours (73,10) et en dessous de sa moyenne 200 jours (73,66). RSI 34,7 : élan neutre. Il se situe à 9 % de sa fourchette sur un an (de 65,00 à 81,80), performance sur 12 mois de -4,2 %. Clôture du 09/10/2026.",
-   "mm200": 73.66,
-   "mm50": 73.1,
+   "lecture": "Cours de 63,20 en dessous de sa moyenne 50 jours (71,84) et en dessous de sa moyenne 200 jours (73,36). RSI 27,6 : élan faible. Il se situe à 0 % de sa fourchette sur un an (de 63,20 à 81,80), performance sur 12 mois de -12,3 %. Clôture du 16/10/2026.",
+   "mm200": 73.36,
+   "mm50": 71.84,
    "resistance": 71.7,
-   "rsi14": 34.7,
+   "rsi14": 27.6,
    "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json",
    "stade": 4,
    "support": 66.76,
@@ -137,48 +140,28 @@
   }
  },
  "capi": "642 M€",
- "cours": 66.5,
- "coursLe": "2026-10-09",
+ "cours": 63.2,
+ "coursLe": "2026-10-16",
  "devise": "€",
  "faits": [
   {
-   "d": "08/10",
-   "t": "Clôture à 65,00 €, au plus bas de la séance, sans nouvelle propre : le titre entre dans sa zone d'intérêt avec le climat français (taux, budget logement)."
+   "d": "16/10",
+   "t": "Clôture à 63,2 € (-3,8 %) au lendemain du chiffre d'affaires."
   },
   {
-   "d": "02/10",
-   "t": "Budget 2027 : l'aide de l'État à l'Anah, qui verse MaPrimeRénov', passe de 1,4 à 1,2 Md€ selon une annexe au projet de loi de finances ; les pompes à chaleur restent aidées."
+   "d": "15/10",
+   "t": "CA du T3 : 129,0 M€ (+3,7 %, +0,6 % à périmètre constant). Sur 9 mois : 417,0 M€ (+8,8 %, +4,0 % à périmètre constant). Effet prix -0,2 % (-0,9 % fin juin)."
   },
   {
-   "d": "01/10",
-   "t": "Le projet de budget 2027 est présenté ; le montant prévu pour MaPrimeRénov' n'est pas encore confirmé par deux sources."
+   "d": "15/10",
+   "t": "La direction voit une demande au mieux stable dans les mois à venir ; acquisitions cherchées en priorité à l'international, politique de dividende maintenue."
   },
   {
-   "d": "28/09",
-   "t": "Le rachat d'actions tourne : déclarations hebdomadaires publiées les 14, 22 et 28/09."
+   "d": "15/10",
+   "t": "Stock à 171 jours (180,9 M€), trésorerie 113,9 M€, dette bancaire 38,8 M€. Fin du pacte Dutreil sur 25,14 % du capital."
   }
  ],
  "histo": [
-  [
-   "03/10",
-   73.9
-  ],
-  [
-   "06/10",
-   72.2
-  ],
-  [
-   "07/10",
-   72.3
-  ],
-  [
-   "08/10",
-   71.8
-  ],
-  [
-   "09/10",
-   71.4
-  ],
   [
    "10/10",
    71.0
@@ -1198,6 +1181,26 @@
   [
    "09/10",
    66.5
+  ],
+  [
+   "12/10",
+   66.3
+  ],
+  [
+   "13/10",
+   65.3
+  ],
+  [
+   "14/10",
+   66.1
+  ],
+  [
+   "15/10",
+   65.7
+  ],
+  [
+   "16/10",
+   63.2
   ]
  ],
  "nom": "Thermador Groupe",
@@ -1206,12 +1209,12 @@
  "per26": 13,
  "per27": 12.3,
  "perf": {
-  "m1": -7.3,
-  "m3": -17.0,
-  "m12": -4.2
+  "m1": -11.1,
+  "m3": -20.1,
+  "m12": -12.3
  },
- "pub": "2026-10-15",
- "pubLabel": "CA du T3",
+ "pub": "2026-10-19",
+ "pubLabel": "Webconférence sur l'activité du T3 le 19/10 à 18h",
  "risque": "Marché du bâtiment encore mou.",
  "secteur": "Distribution plomberie / chauffage",
  "societe": {
@@ -1410,50 +1413,50 @@
    "https://www.zonebourse.com/cours/action/THERMADOR-GROUPE-43328026/societe/"
   ],
   "suivi": {
-   "bilan": "2 conditions sur 3 ne sont pas encore acquises : les acquisitions tiennent, mais le marché de la rénovation (aides en baisse) et le retour d'un effet prix positif, toujours à -0,9 % au S1, restent les points fragiles.",
+   "bilan": "Le T3 déçoit à périmètre constant (+0,6 %) : la rénovation n'a pas redémarré, seules les pompes à chaleur tiennent ; les acquisitions et un effet prix bientôt positif soutiennent la croissance, et le bilan reste très solide. Thèse sous surveillance, pas cassée.",
    "croire": [
     {
      "c": "Que le bâtiment et la rénovation énergétique en France vont repartir (aides, pompes à chaleur, objectifs de construction) après trois années difficiles.",
      "etat": "watch",
-     "preuve": "Annexe au PLF 2027 reprise par l'AFP (02/10) et Batiweb (05/10).",
+     "preuve": "T3 2026 : +0,6 % à périmètre constant ; Axelair +28,2 %, Odrea -7,6 %.",
      "prochain": "CA du T3 le 15/10/2026 (webconférence le 19/10)",
-     "reponse": "Le budget 2027 réduit encore l'aide à l'Anah (-200 M€), les pompes à chaleur restent aidées : pas de coup de pouce public pour une reprise rapide.",
-     "source": "https://www.batiweb.com/actualites/legislation/budget-2027-anah-baisse-200-millions-maprimerenov-49378"
+     "reponse": "Pas encore : pompes à chaleur et ventilation vont bien, rénovation et entretien en retrait ; la direction attend une demande au mieux stable et craint l'effet des taux.",
+     "source": "https://www.webdisclosure.com/press-release/thermador-groupe-epa-thep-thermador-groupe-ca-t3-2026-v3CtcnDZ8n7"
     },
     {
      "c": "Que la baisse des prix est terminée et que l'effet prix redevient positif en 2026, comme l'annonce la direction.",
      "etat": "watch",
-     "preuve": "Effet prix : -1,4 % au T1 2026, -0,9 % au S1 2026.",
+     "preuve": "Effet prix -0,2 % sur 9 mois, contre -0,9 % fin juin et -1,4 % au T1.",
      "prochain": "CA du T3 le 15/10/2026 (webconférence le 19/10)",
-     "reponse": "L'effet prix reste négatif à mi-année, même s'il s'améliore. La direction annonçait des hausses de prix de plus de 2 % en 2026, elles ne se voient pas encore.",
-     "source": "https://www.thermador-groupe.fr/en/press-release/publication-of-2026-1st-quarter-turnover/"
+     "reponse": "Presque : effet prix encore négatif mais proche de zéro, et les hausses des fournisseurs devraient le faire passer en positif.",
+     "source": "https://www.webdisclosure.com/press-release/thermador-groupe-epa-thep-thermador-groupe-ca-t3-2026-v3CtcnDZ8n7"
     },
     {
      "c": "Que les acquisitions régulières, notamment en Europe, continueront d'ajouter de la croissance sans dégrader la rentabilité.",
      "etat": "ok",
-     "preuve": "S1 2026 : CA +11,3 % dont +5,6 % à périmètre constant, donc environ 5,7 points venant des acquisitions ; résultat opérationnel +17,3 %.",
+     "preuve": "9 mois : 417,0 M€ publié contre 398,5 M€ à périmètre constant.",
      "prochain": "CA du T3 le 15/10/2026 (webconférence le 19/10)",
-     "reponse": "Oui pour l'instant : les rachats de 2025 ajoutent de la croissance et la marge remonte en même temps.",
-     "source": "https://www.thermador-groupe.fr/communique-de-presse/publication-des-resultats-semestriels-2026/"
+     "reponse": "Oui pour la croissance : sur 9 mois, les acquisitions font passer la croissance de +4,0 % à +8,8 %. Pas de marge publiée au T3.",
+     "source": "https://www.webdisclosure.com/press-release/thermador-groupe-epa-thep-thermador-groupe-ca-t3-2026-v3CtcnDZ8n7"
     }
    ],
-   "le": "2026-10-09",
+   "le": "2026-10-16",
    "questions": [
     {
      "etat": "watch",
-     "preuve": "S1 2026 : CA +5,6 % à périmètre constant ; marge opérationnelle 12,2 % contre 11,6 % au S1 2025 (15,0 % en 2021, 14,4 % en 2022).",
+     "preuve": "T3 2026 : 125,2 M€ à périmètre constant contre 124,4 M€.",
      "prochain": "CA du T3 le 15/10/2026 (webconférence le 19/10)",
      "q": "Les ventes à nombre de sociétés constant repartent-elles, et la marge opérationnelle remonte-t-elle vers ses niveaux passés de 14-15 % ?",
-     "reponse": "Les ventes à périmètre constant repartent et la marge remonte, mais elle reste nettement sous les 14 à 15 % d'avant 2023. La direction prévient que le T3 aura une base de comparaison moins favorable.",
-     "source": "https://www.thermador-groupe.fr/communique-de-presse/publication-des-resultats-semestriels-2026/"
+     "reponse": "La croissance à périmètre constant ralentit nettement au T3 (+0,6 % contre +7,0 % au T2), en partie à cause de commandes avancées en juin. Pas de marge publiée.",
+     "source": "https://www.optionfinance.fr/info-financiere-en-continu/d/2026-10-16-thermador-groupe-legere-croissance-au-troisieme-trimestre-prudence-pour-la-suite.html"
     },
     {
      "etat": "ok",
-     "preuve": "30/06/2026 : stocks -5,6 % en valeur, 181 jours d'achats contre 209 un an plus tôt ; BFR 38,1 % du CA contre 43,6 % ; trésorerie nette 104,2 M€.",
+     "preuve": "Stock 180,9 M€ ; trésorerie 113,9 M€, dette bancaire 38,8 M€.",
      "prochain": "CA du T3 le 15/10/2026 (webconférence le 19/10)",
      "q": "Le niveau de stock (plus de 200 jours) reste-t-il maîtrisé, ou pèse-t-il sur la trésorerie ?",
-     "reponse": "Oui : le stock a baissé et passe sous les 200 jours, ce qui libère de la trésorerie.",
-     "source": "https://www.thermador-groupe.fr/communique-de-presse/publication-des-resultats-semestriels-2026/"
+     "reponse": "Oui : stock à 171 jours, et la trésorerie reste largement supérieure à la dette bancaire.",
+     "source": "https://www.webdisclosure.com/press-release/thermador-groupe-epa-thep-thermador-groupe-ca-t3-2026-v3CtcnDZ8n7"
     },
     {
      "etat": "nc",
@@ -1468,7 +1471,7 @@
   "verifieLe": "2026-09-29"
  },
  "src": "https://www.boursorama.com/cours/actualites/1rPTHEP/",
- "statut": "intacte",
+ "statut": "surveiller",
  "these": "Gestion familiale, bilan solide, qualité à prix raisonnable.",
  "ticker": "THEP",
  "yahoo": "THEP.PA",

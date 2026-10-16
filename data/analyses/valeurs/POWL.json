@@ -3,8 +3,8 @@
  "nom": "Powell Industries",
  "pays": "US",
  "secteur": "Équipements électriques (data centers, énergie)",
- "cours": 193.36,
- "coursLe": "2026-10-09",
+ "cours": 165.04,
+ "coursLe": "2026-10-16",
  "devise": "USD",
  "capi": "environ 6,7 Md$ (environ 5,9 Md€)",
  "per26": null,
@@ -14,20 +14,20 @@
  "risque": "Valorisation d'environ 35 fois les bénéfices des 12 derniers mois alors que le BPA ne progresse que d'environ 8 % et a manqué le consensus deux trimestres de suite ; dépendance encore forte au pétrole, au gaz et à la pétrochimie ; risque d'exécution sur les très grosses commandes ; risque de change sur le dollar.",
  "faits": [
   {
+   "d": "15/10",
+   "t": "Les valeurs liées aux data centers d'IA reculent avec le choc CoreWeave et une inflation américaine plus forte que prévu."
+  },
+  {
+   "d": "13/10",
+   "t": "JP Morgan garde « surpondérer » mais abaisse son objectif de 300 $ à 250 $."
+  },
+  {
    "d": "03/10",
    "t": "Petites ventes d'actions du PDG et d'un vice-président (déclarations SEC)."
   },
   {
    "d": "01/10",
    "t": "Cantor Fitzgerald confirme sa note neutre et son objectif de 235 $ ; le titre gagne 3,3 % à 190,60 $."
-  },
-  {
-   "d": "19/08",
-   "t": "Détachement du dividende trimestriel (environ 0,09 $ par action après la division)."
-  },
-  {
-   "d": "14/08",
-   "t": "Cantor Fitzgerald abaisse son objectif de 320 $ à 235 $ (neutre) après la mise à jour sur les capacités de production."
   }
  ],
  "pub": null,
@@ -37,26 +37,6 @@
  "yahoo": "POWL",
  "compte": "CTO",
  "histo": [
-  [
-   "29/09",
-   101.01
-  ],
-  [
-   "30/09",
-   101.6
-  ],
-  [
-   "01/10",
-   105.74
-  ],
-  [
-   "02/10",
-   102.51
-  ],
-  [
-   "03/10",
-   101.35
-  ],
   [
    "06/10",
    103.9
@@ -1075,13 +1055,33 @@
   ],
   [
    "09/10",
-   193.36
+   191.93
+  ],
+  [
+   "12/10",
+   185.38
+  ],
+  [
+   "13/10",
+   182.79
+  ],
+  [
+   "14/10",
+   169.53
+  ],
+  [
+   "15/10",
+   170.82
+  ],
+  [
+   "16/10",
+   165.04
   ]
  ],
  "perf": {
-  "m1": 9.3,
-  "m3": -14.3,
-  "m12": 87.4
+  "m1": -6.6,
+  "m3": -27.7,
+  "m12": 46.3
  },
  "analyse": {
   "majLe": "2026-10-01",
@@ -1100,21 +1100,28 @@
    "greenblatt": "Rendement bénéficiaire (résultat opérationnel 2025 de 217,9 M$ / valeur d'entreprise d'environ 6,1 Md$) d'environ 3,6 % : profil défavorable sur la formule magique malgré un rendement du capital élevé. Piotroski non calculé (bilan complet non vérifié)."
   },
   "tech": {
-   "cours": 193.36,
-   "coursLe": "2026-10-09",
-   "mm50": 192.68,
-   "mm200": 209.82,
-   "rsi14": 51.6,
+   "cours": 165.04,
+   "coursLe": "2026-10-16",
+   "mm50": 189.02,
+   "mm200": 211.38,
+   "rsi14": 33.7,
    "haut52": 322.05,
    "bas52": 94.02,
    "support": 170.5,
    "resistance": 195.0,
-   "tendance": "neutre",
-   "stade": 1,
-   "lecture": "Cours de 193,36 au-dessus de sa moyenne 50 jours (192,68) et en dessous de sa moyenne 200 jours (209,82). RSI 51,6 : élan neutre. Il se situe à 44 % de sa fourchette sur un an (de 94,02 à 322,05), performance sur 12 mois de 87,4 %. Clôture du 09/10/2026.",
+   "tendance": "baissiere",
+   "stade": 4,
+   "lecture": "Cours de 165,04 en dessous de sa moyenne 50 jours (189,02) et en dessous de sa moyenne 200 jours (211,38). RSI 33,7 : élan neutre. Il se situe à 31 % de sa fourchette sur un an (de 94,02 à 322,05), performance sur 12 mois de 46,3 %. Clôture du 16/10/2026.",
    "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json"
   },
   "actu": [
+   {
+    "d": "15/10",
+    "fait": "La chute des obligations de CoreWeave et un indice des prix américain au-dessus des attentes font plonger les valeurs d'infrastructure pour l'IA ; JP Morgan avait ramené son objectif à 250 $ le 13/10. Aucune annulation de commande annoncée.",
+    "impact": "negatif",
+    "horizon": "court",
+    "lecture": "La plus grosse commande récente de Powell vient d'un data center : un doute sur le financement des data centers touche directement la partie du dossier qui portait le cours."
+   },
    {
     "d": "01/10",
     "fait": "Cantor Fitzgerald réitère sa note neutre (objectif 235 $) en citant une demande toujours forte ; le titre gagne 3,3 %.",
@@ -1135,13 +1142,6 @@
     "impact": "positif",
     "horizon": "long",
     "lecture": "La demande est exceptionnelle et se diversifie vers les data centers ; le marché a pourtant sanctionné le titre (environ -14 %) car le bénéfice ne suit pas encore."
-   },
-   {
-    "d": "02/04",
-    "fait": "Division de l'action par trois.",
-    "impact": "neutre",
-    "horizon": "court",
-    "lecture": "Sans effet sur la valeur, mais tous les montants par action anciens doivent être divisés par trois."
    }
   ],
   "scenarios": [
@@ -1187,6 +1187,8 @@
    "Weinstein (stades)"
   ],
   "sources": [
+   "https://www.gurufocus.com/news/9121564/powl-maintained-by-jp-morgan-price-target-lowered-to-250",
+   "https://www.ad-hoc-news.de/boerse/news/nebenwerte/jpmorgan-cuts-target-for-powell-industries-stock-to-usd-250-00/70333385",
    "https://www.marketbeat.com/stocks/NASDAQ/POWL/news",
    "https://marketbeat.com/instant-alerts/analyst-cantor-fitzgerald-reaffirms-neutral-rating-for-powell-industries-nasdaq-powl-2026-10-01",
    "https://www.globenewswire.com/news-release/2026/08/03/3337870/0/en/Powell-Industries-Announces-Third-Quarter-Fiscal-2026-Results.html",
@@ -1328,7 +1330,7 @@
    "La nouvelle usine de 275 000 à 300 000 pieds carrés sera-t-elle financée sans dette et sans écraser le flux de trésorerie ?"
   ],
   "suivi": {
-   "le": "2026-10-01",
+   "le": "2026-10-16",
    "bilan": "La demande et la diversification vers les data centers sont largement confirmées ; ce qui reste à prouver, c'est la transformation du carnet en bénéfices.",
    "croire": [
     {
@@ -1341,10 +1343,10 @@
     },
     {
      "c": "Que les data centers et les réseaux électriques deviennent un moteur durable, qui réduit la dépendance historique au pétrole, au gaz et à la pétrochimie.",
-     "etat": "ok",
-     "reponse": "Oui : la plus grosse commande du trimestre (plus de 400 M$) vient d'un data center, et les ventes aux compagnies d'électricité progressent.",
-     "preuve": "T3 2026 : commercial et autres industries +54 %, électricité +18 %, pétrochimie -49 %.",
-     "source": "https://www.globenewswire.com/news-release/2026/08/03/3337870/0/en/Powell-Industries-Announces-Third-Quarter-Fiscal-2026-Results.html",
+     "etat": "watch",
+     "reponse": "Les chiffres de la société n'ont pas changé, mais le marché s'inquiète de la solidité financière des clients data centers d'IA.",
+     "preuve": "14-15/10/2026 : chute des obligations de CoreWeave ; JP Morgan ramène son objectif à 250 $ le 13/10.",
+     "source": "https://www.gurufocus.com/news/9121564/powl-maintained-by-jp-morgan-price-target-lowered-to-250",
      "prochain": "Résultats de l'exercice 2026"
     },
     {
