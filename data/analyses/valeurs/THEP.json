@@ -3,6 +3,13 @@
   "aVerifier": "Montant du CA S1 2026 contradictoire selon les sources (273,2 M€ ou 287,95 M€), seule la croissance a été retenue. Date de publication du CA du T3 non trouvée dans le calendrier lu. Nom et taille des sociétés acquises qui expliquent la croissance externe non trouvés. ROE calculé à partir des ratios Zonebourse. Couverture des intérêts, PER moyen sur 5 ans complet, comparaison avec les pairs et Piotroski non trouvés.",
   "actu": [
    {
+    "d": "19/10",
+    "fait": "Clôture à 61,4 €, plus bas sur un an et sous le seuil technique de 62 € qui sert d'invalidation (« clôture durable sous 62 € »), dans une séance où Paris perd 1,1 % après les émeutes.",
+    "impact": "negatif",
+    "horizon": "court",
+    "lecture": "Une seule clôture ne fait pas une sortie durable : si le titre reste sous 62 € plusieurs séances, la partie technique de la thèse sera cassée et le statut réexaminé. Webconférence sur le T3 ce soir à 18h."
+   },
+   {
     "d": "15/10",
     "fait": "Croissance faible au T3 : +3,7 % en publié, +0,6 % à périmètre constant (129,0 M€). La direction l'explique par des commandes avancées fin juin avant les hausses de prix et une base de comparaison moins favorable ; activité très calme l'été, reprise sur les deux dernières semaines.",
     "impact": "negatif",
@@ -22,13 +29,6 @@
     "impact": "positif",
     "horizon": "court",
     "lecture": "La baisse des prix touche à sa fin, mais un effet prix positif viendra de la hausse des coûts plutôt que d'une demande plus forte."
-   },
-   {
-    "d": "02/10",
-    "fait": "L'aide de l'État à l'Anah baisse de 200 M€ en 2027 (1,2 Md€ contre 1,4 Md€). MaPrimeRénov' se recentre sur les rénovations complètes des ménages modestes et certains travaux comme la pompe à chaleur ; la plupart des petits travaux isolés passent aux certificats d'économies d'énergie.",
-    "impact": "negatif",
-    "horizon": "moyen",
-    "lecture": "Le soutien public à la rénovation baisse encore, ce qui repousse la reprise attendue par la thèse ; le maintien de l'aide aux pompes à chaleur limite l'effet pour Thermador."
    }
   ],
   "cadres": [
@@ -145,6 +145,10 @@
  "devise": "€",
  "faits": [
   {
+   "d": "19/10",
+   "t": "Clôture à 61,4 €, plus bas sur un an, sous le seuil d'invalidation technique de 62 €."
+  },
+  {
    "d": "16/10",
    "t": "Clôture à 63,2 € (-3,8 %) au lendemain du chiffre d'affaires."
   },
@@ -155,10 +159,6 @@
   {
    "d": "15/10",
    "t": "La direction voit une demande au mieux stable dans les mois à venir ; acquisitions cherchées en priorité à l'international, politique de dividende maintenue."
-  },
-  {
-   "d": "15/10",
-   "t": "Stock à 171 jours (180,9 M€), trésorerie 113,9 M€, dette bancaire 38,8 M€. Fin du pacte Dutreil sur 25,14 % du capital."
   }
  ],
  "histo": [

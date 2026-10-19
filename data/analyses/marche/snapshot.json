@@ -1,9 +1,9 @@
 {
  "asOf": "2026-10-19",
  "attention": [
-  "Émeutes contre la vie chère ce week-end à Paris, Lyon et Marseille : cellule de crise du gouvernement, pression sur les taux français et les valeurs tournées vers le marché intérieur.",
-  "Budget 2027 toujours sans majorité claire ; 49.3 et censure restent possibles.",
-  "En zone d'intérêt : Melexis, SWCC, Thermador, USS, Aubay. Virbac publie ce soir son CA du T3 : point complet prévu ce soir."
+  "Crise sociale : couvre-feux localisés, prise de parole de Macron attendue ; risque de nouvelle tension sur la dette française.",
+  "Thermador à 61,4 €, sous son seuil d'invalidation de 62 € : à confirmer sur plusieurs séances.",
+  "En zone d'intérêt : Melexis (57,35 €), SWCC, Aubay. Virbac publie ce soir, Vusion le 20/10."
  ],
  "etf": {
   "nom": "Amundi PEA Monde MSCI World (DCAM)",
@@ -15,24 +15,24 @@
  "macro": [
   {
    "label": "CAC 40",
-   "valeur": "7 956,70",
-   "var": "+0,28 %",
-   "sens": 1,
-   "note": "clôture du 16/10 ; environ +2 % sur la semaine (chiffre exact selon les sources)"
+   "valeur": "7 868,05",
+   "var": "-1,11 %",
+   "sens": -1,
+   "note": "clôture du 19/10 ; banques en tête de baisse après les émeutes"
   },
   {
    "label": "OAT 10 ans",
-   "valeur": "4,79 %",
-   "var": "-7 pb sur la semaine",
-   "sens": 1,
-   "note": "Banque de France, 16/10"
+   "valeur": "4,85 à 4,93 %",
+   "var": "hausse",
+   "sens": -1,
+   "note": "les sources divergent sur la clôture ; 4,79 % le 16/10"
   },
   {
    "label": "Écart OAT / Bund",
-   "valeur": "137 pb",
-   "var": "-2 pb sur la semaine",
-   "sens": 1,
-   "note": "Bund à 3,42 % le 16/10"
+   "valeur": "144 à 147 pb",
+   "var": "+7 à +10 pb",
+   "sens": -1,
+   "note": "137 pb le 16/10 ; chiffre exact selon les sources"
   },
   {
    "label": "BCE taux de dépôt",
@@ -43,25 +43,25 @@
   },
   {
    "label": "Brent",
-   "valeur": "vers 105,7 $",
+   "valeur": "108,5 à 110 $",
    "var": "n.c.",
    "sens": -1,
-   "note": "dernier chiffre confirmé : 105,69 $ le 13/10"
+   "note": "au-dessus de 110 $ la semaine dernière ; clôture d'une seule source"
   },
   {
    "label": "EUR/USD",
-   "valeur": "n.c.",
+   "valeur": "1,121",
    "var": "n.c.",
    "sens": 0,
-   "note": "non confirmé cette semaine"
+   "note": "deux sources concordent sur le niveau"
   }
  ],
- "majLe": "2026-10-19T13:50:00+02:00",
+ "majLe": "2026-10-19T21:15:00+02:00",
  "semaine": "5 au 9 octobre 2026",
  "semaineTexte": [
-  "Lundi 19/10 midi : Paris recule nettement (CAC 40 vers -1 à -1,5 % en matinée, une seule source) après les émeutes du week-end, plus que le reste de l'Europe.",
-  "Taux français en hausse (OAT vers 4,85 %, écart avec le Bund vers 142 pb, à confirmer) ; Brent en léger recul après un pic au-dessus de 110 $ la semaine dernière.",
-  "Semaine chargée en publications : Virbac ce soir, Vusion le 20/10, Aalberts, Kitron et Viscofan le 22/10, Medistim le 23/10."
+  "Lundi 19/10 : CAC 40 -1,11 % à 7 868 pts après les émeutes du week-end ; Société Générale -3,4 %, Crédit Agricole -2,6 %, BNP -2,5 %.",
+  "Le gouvernement annonce des couvre-feux localisés, du chômage partiel et un fonds de soutien pour les commerces ; le vote sur les recettes du budget serait reporté (une seule source).",
+  "Écart OAT/Bund rouvert vers 144 à 147 pb (137 pb vendredi)."
  ],
  "watchlistValidee": false
 }

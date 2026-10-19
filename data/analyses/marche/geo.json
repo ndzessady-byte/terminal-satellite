@@ -268,6 +268,10 @@
   {
    "faits": [
     {
+     "d": "19/10",
+     "t": "Lecornu annonce des couvre-feux localisés, du chômage partiel et un fonds de soutien pour les commerces touchés (au moins 3 000 enseignes visées selon le ministre Serge Papin). Le CAC 40 perd 1,11 %, les banques sont en tête de baisse."
+    },
+    {
      "d": "18/10",
      "t": "Les manifestations contre la vie chère tournent à l'émeute samedi et dimanche à Paris, Lyon et Marseille (pillages, dégradations). Lundi, Macron refuse la démission du ministre de l'Intérieur et Lecornu préside une cellule de crise ; Amélie de Montchalin prévient que la charge de la dette atteindra 90 Md€ en 2027."
     },
@@ -286,10 +290,6 @@
     {
      "d": "05/10",
      "t": "Le PS juge le budget 2027 « pas acceptable », réclame une lettre rectificative et maintient la menace de censure ; Paris sous-performe l'Europe ce matin."
-    },
-    {
-     "d": "02/10",
-     "t": "Le budget 2027 est critiqué de toutes parts : écologistes prêts à censurer, PS et RN hostiles, Medef opposé aux taxes sur les entreprises, Haut conseil des finances publiques qui juge la croissance de 1 % optimiste."
     }
    ],
    "id": "france",
