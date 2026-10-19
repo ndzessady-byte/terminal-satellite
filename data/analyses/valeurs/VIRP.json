@@ -3,32 +3,32 @@
   "aVerifier": "Cours du 28/09 non lu (dernier cours confirmé 303,5 € le 25/09, la fiche d'origine indique environ 309 €). MM50, MM200 et RSI non disponibles à jour (page Investing.com figée au 05/08), mis à null. Haut et bas sur 52 semaines lus sur Investing.com au 05/08. ROE et dette nette/EBITDA calculés à partir des ratios Zonebourse. Couverture des intérêts, comparaison avec les pairs et Piotroski non trouvés.",
   "actu": [
    {
+    "d": "19/10",
+    "fait": "Le T3 accélère : +8,8 % à change et périmètre constants (400 M€), après +7,7 % au T1 et +7,2 % au T2. Les plateformes de soins (mobilité, dentaire, otologie) progressent d'environ 11 %, les animaux de compagnie de 8,8 % et l'élevage de 7,0 %. L'effet change coûte environ 2 points en publié.",
+    "impact": "positif",
+    "horizon": "moyen",
+    "lecture": "La croissance dépasse le haut de la fourchette annuelle sur le trimestre, partout dans le monde : c'est le cœur de la thèse (gagner des parts dans une santé animale qui croît) qui se confirme."
+   },
+   {
+    "d": "19/10",
+    "fait": "Objectifs 2026 confirmés et relevés dans le ton : croissance visée dans le haut de la fourchette (+5,5 % à +7,5 %), marge d'EBIT ajusté vers 17 %, trésorerie générée vers 80 M€.",
+    "impact": "positif",
+    "horizon": "moyen",
+    "lecture": "Le seuil d'invalidation (objectif abaissé sous +5,5 %) s'éloigne nettement. Le prochain vrai test sera la marge réelle de l'année, publiée en mars."
+   },
+   {
+    "d": "19/10",
+    "fait": "Amérique du Nord : +9,5 % au T3, environ +17 % en sous-jacent hors déstockage des distributeurs, avec la reprise en juillet d'un contrat de façonnage suspendu pour raisons réglementaires. Moyen-Orient : moins de 0,5 % du CA, peu d'effet attendu grâce à la couverture énergétique.",
+    "impact": "positif",
+    "horizon": "moyen",
+    "lecture": "Les États-Unis, point faible du premier semestre, repartent : c'était une des questions de la thèse."
+   },
+   {
     "d": "24/09",
     "fait": "Lancement progressif en Europe de Floragest, friandise à base de prébiotiques pour le confort digestif des chiens et chats.",
     "impact": "positif",
     "horizon": "moyen",
     "lecture": "Un produit de plus dans la gamme animaux de compagnie, moteur de la croissance ; taille modeste, aucun chiffre de ventes attendu."
-   },
-   {
-    "d": "18/09",
-    "fait": "Zonebourse souligne un retour à des niveaux de valorisation attractifs (15 fois les bénéfices 2026) après une baisse d'environ 15 % depuis janvier.",
-    "horizon": "moyen",
-    "impact": "neutre",
-    "lecture": "La valorisation n'est plus un frein, mais le marché reste méfiant sur la santé animale après l'avertissement de Zoetis en mai (baisse des visites vétérinaires)."
-   },
-   {
-    "d": "17/09",
-    "fait": "Résultats S1 : marge opérationnelle ajustée de 18,8 % contre 18,3 %, résultat net 87,4 M€ (+6 %), options d'achat sur de nouveaux produits (Porus-One, Vetcare) pour des lancements en 2027. Titre +2,5 %.",
-    "horizon": "long",
-    "impact": "positif",
-    "lecture": "La marge progresse malgré l'inflation et la gamme se renforce pour les années suivantes."
-   },
-   {
-    "d": "20/07",
-    "fait": "CA du S1 2026 de 768 M€, +7,4 % à changes constants. Virbac vise désormais le haut de sa fourchette 2026 (+5,5 à +7,5 %).",
-    "horizon": "moyen",
-    "impact": "positif",
-    "lecture": "La croissance tient mieux que chez le leader Zoetis, signe de gains de parts de marché."
    }
   ],
   "cadres": [
@@ -52,7 +52,7 @@
    "score": 7.5,
    "valo": "PER 15,4 fois 2026 et 13,9 fois 2027, VE/EBITDA 8,7 fois 2026, rendement du cash-flow libre 2,9 % en 2026 puis 4,4 % en 2027 (Zonebourse, cours 314,5 € le 18/09). Sur 2023-2025, le PER était de 18 à 25 fois et le VE/EBITDA de 10 à 12,8 fois : le titre est nettement sous ses multiples récents. Zonebourse note moins de 9 fois l'EBITDA, sous les prix des rachats dans le secteur. Consensus : 8 analystes, objectif moyen 412,75 € (360 à 440 €)."
   },
-  "majLe": "2026-09-28",
+  "majLe": "2026-10-19",
   "revisions": "Stables : BPA 2026 attendu à 20,74 € (comme il y a 1 mois, niveau proche il y a 3 mois), 22,92 € en 2027 (Boursorama).",
   "scenarios": [
    {
@@ -89,6 +89,9 @@
    }
   ],
   "sources": [
+   "https://www.globenewswire.com/news-release/2026/10/19/3383692/0/fr/virbac-solide-croissance-de-7-9-%C3%A0-tcc-%C3%A0-fin-septembre-2026-port%C3%A9e-par-la-croissance-%C3%A0-deux-chiffres-de-nos-plateformes-supercharge.html",
+   "https://www.boursorama.com/bourse/actualites/virbac-ca-a-8-8-au-t3-confirmation-de-ses-objectifs-2026-7fb489030febdf3592b9399aa6776133",
+   "https://www.abcbourse.com/marches/virbac-affiche-1-168-milliard-deuros-de-chiffre-daffaires-a-fin-septembre-2026_704443",
    "https://www.ideal-investisseur.fr/actions-b/65-en-un-mois-laction-virbac-gagne-encore-2-avant-ses-ventes-trimestrielles/27095.html",
    "https://corporate.virbac.com/home/news-media.html",
    "https://www.globenewswire.com/news-release/2026/09/17/3364214/0/fr/virbac-une-marge-op%C3%A9rationnelle2-solide-de-18-8-port%C3%A9e-par-une-croissance-soutenue-du-chiffre-d-affaires-de-7-4.html",
@@ -139,20 +142,20 @@
  "devise": "€",
  "faits": [
   {
+   "d": "19/10",
+   "t": "CA du T3 : 400 M€ (+9,8 % publié, +8,8 % à change et périmètre constants). Sur 9 mois : 1 168 M€ (+5,9 % publié, +7,9 % à change constant)."
+  },
+  {
+   "d": "19/10",
+   "t": "Objectifs 2026 confirmés, croissance visée dans le haut de la fourchette de +5,5 % à +7,5 % ; marge d'EBIT ajusté vers 17 % confirmée."
+  },
+  {
+   "d": "19/10",
+   "t": "Amérique du Nord : +9,5 % au T3 à change constant, environ +17 % en sous-jacent hors déstockage des distributeurs ; IMEA +17,8 %, Europe +8,7 %."
+  },
+  {
    "d": "14/10",
    "t": "Le titre remonte vers 332 € (environ +7 % sur la semaine) avant le CA du T3 attendu le 19/10."
-  },
-  {
-   "d": "28/09",
-   "t": "Conseil d'administration : Eline Madelpuech nommée censeur, Olivier Charmeil rejoint le comité d'audit."
-  },
-  {
-   "d": "24/09",
-   "t": "Lancement en Europe de Floragest, complément pour le confort digestif des chiens et chats."
-  },
-  {
-   "d": "21/09",
-   "t": "Bernstein passe à Surperformance, objectif 426 € (contre 419 €)."
   }
  ],
  "histo": [
@@ -1207,8 +1210,8 @@
   "m3": -3.7,
   "m12": -5.9
  },
- "pub": "2026-10-19",
- "pubLabel": "CA du T3",
+ "pub": null,
+ "pubLabel": "Résultats annuels 2026 (date non encore publiée)",
  "risque": "Peu de marge d'erreur sur l'exécution.",
  "secteur": "Santé animale",
  "societe": {
@@ -1408,42 +1411,42 @@
    "https://www.zonebourse.com/cours/action/VIRBAC-5234/societe/"
   ],
   "suivi": {
-   "bilan": "2 conditions sur 3 tiennent nettement (croissance et marge) ; le plus fragile est le manque de visibilité sur la rentabilité de Sasaeah et Mopsan, et une R&D dont le poids recule au S1.",
+   "bilan": "Le T3 accélère (+8,8 % à change constant), les États-Unis repartent et l'objectif 2026 est visé dans le haut de la fourchette : thèse renforcée. Reste à voir la marge réelle aux résultats annuels et l'apport de Sasaeah et Mopsan.",
    "croire": [
     {
      "c": "Que la santé animale, en particulier pour les chiens et chats, continuera de croître plus vite que l'économie, et que Virbac gagnera des parts de marché (objectif 2026 : +5,5 % à +7,5 % à taux et périmètre constants).",
      "etat": "ok",
-     "preuve": "S1 2026 : +7,4 % à taux et périmètre constants, animaux de compagnie +10,0 %, élevage +6,7 % ; objectif : haut de la fourchette +5,5 % à +7,5 %.",
+     "preuve": "Communiqué du 19/10/2026 : CA T3 400 M€, 9 mois 1 168 M€.",
      "prochain": "CA T3 le 19/10/2026",
-     "reponse": "Oui : la croissance tient et le groupe vise désormais le haut de sa fourchette, tirée par les chiens et chats.",
-     "source": "https://www.globenewswire.com/news-release/2026/09/17/3364214/0/fr/virbac-une-marge-op%C3%A9rationnelle2-solide-de-18-8-port%C3%A9e-par-une-croissance-soutenue-du-chiffre-d-affaires-de-7-4.html"
+     "reponse": "Oui, et plus fort : +8,8 % au T3 et +7,9 % sur 9 mois à change constant, objectif visé dans le haut de la fourchette.",
+     "source": "https://www.globenewswire.com/news-release/2026/10/19/3383692/0/fr/virbac-solide-croissance-de-7-9-%C3%A0-tcc-%C3%A0-fin-septembre-2026-port%C3%A9e-par-la-croissance-%C3%A0-deux-chiffres-de-nos-plateformes-supercharge.html"
     },
     {
      "c": "Que le nouveau directeur général Paul Martingell saura faire monter la marge vers environ 17 % comme annoncé pour 2026.",
      "etat": "ok",
-     "preuve": "Marge opérationnelle ajustée 18,8 % au S1 2026, objectif annuel confirmé à environ 17 % à taux et périmètre constants.",
+     "preuve": "Communiqué du 19/10/2026, perspectives.",
      "prochain": "CA T3 le 19/10/2026",
-     "reponse": "Oui pour l'instant : un an après son arrivée, Paul Martingell confirme l'objectif d'environ 17 % et dit privilégier le moyen et long terme.",
-     "source": "https://fr.investing.com/news/transcripts/transcript-dappel-aux-resultats--virbac-affiche-74-au-s1-2026-93CH-3601561"
+     "reponse": "Objectif de marge d'EBIT ajusté vers 17 % confirmé ; pas de chiffre de marge au T3, le vrai test viendra avec les résultats annuels.",
+     "source": "https://www.globenewswire.com/news-release/2026/10/19/3383692/0/fr/virbac-solide-croissance-de-7-9-%C3%A0-tcc-%C3%A0-fin-septembre-2026-port%C3%A9e-par-la-croissance-%C3%A0-deux-chiffres-de-nos-plateformes-supercharge.html"
     },
     {
      "c": "Que les acquisitions (Sasaeah au Japon, Mopsan en Turquie, Thyronorm) seront bien intégrées et rentabilisées.",
      "etat": "watch",
-     "preuve": "Thyronorm (racheté 107,8 M€ en décembre 2025) : environ +1 point de croissance attendu en 2026 et +3,7 points sur les plateformes Supercharge au S1.",
+     "preuve": "Communiqué du 19/10/2026.",
      "prochain": "CA T3 le 19/10/2026",
-     "reponse": "Thyronorm s'intègre plus vite que prévu. Pour Sasaeah (Japon) et Mopsan (Turquie), aucun chiffre récent n'a été publié dans les documents lus, donc on ne peut pas juger leur rentabilité.",
-     "source": "https://www.lesoleil.com/communiques-de-presse/2026/03/17/virbac-resultats-annuels-2025-KB2AFMVCKFB7JMM45BKJ5UD4KU/"
+     "reponse": "Thyronorm apporte environ 1 point de croissance et 0,5 point d'EBIT ; rien de chiffré sur Sasaeah et Mopsan, l'Asie de l'Est reste stable au T3 et la Turquie tire l'Europe.",
+     "source": "https://www.globenewswire.com/news-release/2026/10/19/3383692/0/fr/virbac-solide-croissance-de-7-9-%C3%A0-tcc-%C3%A0-fin-septembre-2026-port%C3%A9e-par-la-croissance-%C3%A0-deux-chiffres-de-nos-plateformes-supercharge.html"
     }
    ],
-   "le": "2026-09-29",
+   "le": "2026-10-19",
    "questions": [
     {
      "etat": "ok",
-     "preuve": "S1 2026 : +7,4 % à taux et périmètre constants, dont Amérique du Nord +10,1 %.",
+     "preuve": "Communiqué du 19/10/2026, Amérique du Nord.",
      "prochain": "CA T3 le 19/10/2026",
      "q": "La croissance organique reste-t-elle supérieure à celle du marché, notamment aux États-Unis ?",
-     "reponse": "Oui : selon la direction, Virbac fait mieux que son marché pour le troisième trimestre d'affilée, avec une croissance à deux chiffres aux États-Unis malgré un marché américain des animaux de compagnie qui ralentit.",
-     "source": "https://fr.investing.com/news/transcripts/transcript-dappel-aux-resultats--virbac-affiche-74-au-s1-2026-93CH-3601561"
+     "reponse": "Oui : Amérique du Nord +9,5 % au T3 et environ +17 % en sous-jacent hors déstockage, après un premier semestre gêné par l'approvisionnement.",
+     "source": "https://www.globenewswire.com/news-release/2026/10/19/3383692/0/fr/virbac-solide-croissance-de-7-9-%C3%A0-tcc-%C3%A0-fin-septembre-2026-port%C3%A9e-par-la-croissance-%C3%A0-deux-chiffres-de-nos-plateformes-supercharge.html"
     },
     {
      "etat": "ok",
