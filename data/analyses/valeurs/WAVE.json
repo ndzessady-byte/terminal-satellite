@@ -107,13 +107,13 @@
   "tech": {
    "bas52": 28.95,
    "cours": 30.1,
-   "coursLe": "2026-10-16",
+   "coursLe": "2026-10-19",
    "haut52": 61.8,
-   "lecture": "Cours de 30,10 en dessous de sa moyenne 50 jours (31,41) et en dessous de sa moyenne 200 jours (42,50). RSI 49,0 : élan neutre. Il se situe à 4 % de sa fourchette sur un an (de 28,95 à 61,80), performance sur 12 mois de -39,9 %. Clôture du 16/10/2026.",
-   "mm200": 42.5,
-   "mm50": 31.41,
+   "lecture": "Cours de 30,10 en dessous de sa moyenne 50 jours (31,31) et en dessous de sa moyenne 200 jours (42,37). RSI 49,1 : élan neutre. Il se situe à 4 % de sa fourchette sur un an (de 28,95 à 61,80), performance sur 12 mois de -40,7 %. Clôture du 19/10/2026.",
+   "mm200": 42.37,
+   "mm50": 31.31,
    "resistance": 31.65,
-   "rsi14": 49.0,
+   "rsi14": 49.1,
    "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json",
    "stade": 4,
    "support": 28.65,
@@ -137,7 +137,7 @@
  },
  "capi": "730 M€",
  "cours": 30.1,
- "coursLe": "2026-10-16",
+ "coursLe": "2026-10-19",
  "devise": "€",
  "faits": [
   {
@@ -158,10 +158,6 @@
   }
  ],
  "histo": [
-  [
-   "10/10",
-   46.0
-  ],
   [
    "13/10",
    47.5
@@ -1197,6 +1193,10 @@
   [
    "16/10",
    30.1
+  ],
+  [
+   "19/10",
+   30.1
   ]
  ],
  "nom": "Wavestone",
@@ -1205,9 +1205,9 @@
  "per26": 9.38,
  "per27": 8.09,
  "perf": {
-  "m1": 3.1,
-  "m3": -22.3,
-  "m12": -39.9
+  "m1": 4.0,
+  "m3": -23.5,
+  "m12": -40.7
  },
  "pub": "2026-10-29",
  "pubLabel": "CA du T2",

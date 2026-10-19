@@ -3,8 +3,8 @@
  "nom": "DNO ASA",
  "pays": "NO",
  "secteur": "Pétrole et gaz",
- "cours": 22.0,
- "coursLe": "2026-10-16",
+ "cours": 22.3,
+ "coursLe": "2026-10-19",
  "devise": "NOK",
  "capi": "environ 18,6 Md NOK (environ 1,95 Md$)",
  "per26": 6.0,
@@ -37,10 +37,6 @@
  "yahoo": "DNO.OL",
  "compte": "PEA",
  "histo": [
-  [
-   "03/10",
-   14.88
-  ],
   [
    "06/10",
    15.2
@@ -1076,12 +1072,16 @@
   [
    "16/10",
    22.0
+  ],
+  [
+   "19/10",
+   22.3
   ]
  ],
  "perf": {
-  "m1": 13.5,
-  "m3": 26.9,
-  "m12": 59.3
+  "m1": 13.7,
+  "m3": 27.2,
+  "m12": 71.4
  },
  "analyse": {
   "majLe": "2026-10-01",
@@ -1100,18 +1100,18 @@
    "greenblatt": "Rendement bénéficiaire avant impôt (résultat opérationnel / valeur d'entreprise) très élevé, plus de 25 % sur la base du premier semestre 2026, mais trompeur : l'impôt norvégien d'environ 78 % ramène la rentabilité réelle pour l'actionnaire à un niveau bien plus modeste. Profil flatteur sur la formule magique à prendre avec prudence."
   },
   "tech": {
-   "cours": 22.0,
-   "coursLe": "2026-10-16",
-   "mm50": 18.9,
-   "mm200": 17.86,
-   "rsi14": 77.2,
-   "haut52": 22.0,
+   "cours": 22.3,
+   "coursLe": "2026-10-19",
+   "mm50": 19.0,
+   "mm200": 17.89,
+   "rsi14": 78.7,
+   "haut52": 22.3,
    "bas52": 12.6,
    "support": 18.1,
    "resistance": 19.75,
    "tendance": "haussiere",
    "stade": 2,
-   "lecture": "Cours de 22,00 au-dessus de sa moyenne 50 jours (18,90) et au-dessus de sa moyenne 200 jours (17,86). RSI 77,2 : élan fort. Il se situe à 100 % de sa fourchette sur un an (de 12,60 à 22,00), performance sur 12 mois de 59,3 %. Clôture du 16/10/2026.",
+   "lecture": "Cours de 22,30 au-dessus de sa moyenne 50 jours (19,00) et au-dessus de sa moyenne 200 jours (17,89). RSI 78,7 : élan fort. Il se situe à 100 % de sa fourchette sur un an (de 12,60 à 22,30), performance sur 12 mois de 71,4 %. Clôture du 19/10/2026.",
    "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json"
   },
   "actu": [
