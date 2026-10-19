@@ -1,9 +1,9 @@
 {
- "asOf": "2026-10-16",
+ "asOf": "2026-10-19",
  "attention": [
-  "Entrées en zone d'intérêt : Melexis (57,75 €) et SWCC (2 496 ¥), après une baisse de secteur et non une nouvelle de société. Sorties : Theon (29,5 €) et Trigano (128,9 €).",
-  "Thermador : T3 décevant à périmètre constant (+0,6 %), thèse sous surveillance ; webconférence le 19/10.",
-  "Semaine prochaine : Virbac le 19/10, Vusion le 20/10, Aalberts, Kitron et Viscofan le 22/10, Medistim le 23/10 ; fin du débat sur les recettes du budget vers le 19/10."
+  "Émeutes contre la vie chère ce week-end à Paris, Lyon et Marseille : cellule de crise du gouvernement, pression sur les taux français et les valeurs tournées vers le marché intérieur.",
+  "Budget 2027 toujours sans majorité claire ; 49.3 et censure restent possibles.",
+  "En zone d'intérêt : Melexis, SWCC, Thermador, USS, Aubay. Virbac publie ce soir son CA du T3 : point complet prévu ce soir."
  ],
  "etf": {
   "nom": "Amundi PEA Monde MSCI World (DCAM)",
@@ -56,12 +56,12 @@
    "note": "non confirmé cette semaine"
   }
  ],
- "majLe": "2026-10-16T23:00:00+02:00",
+ "majLe": "2026-10-19T13:50:00+02:00",
  "semaine": "5 au 9 octobre 2026",
  "semaineTexte": [
-  "Semaine du 12/10 : CAC 40 vers 7 957 pts vendredi ; la motion de rejet du budget a échoué et l'OAT recule à 4,79 %.",
-  "Choc sur l'IA mercredi : la chute des obligations de CoreWeave et une inflation américaine à 3,7 % font plonger les valeurs liées aux data centers et aux puces (SWCC -11,8 %, Powell -14 % sur la semaine, Melexis -10 %).",
-  "Gaz européen au plus haut depuis 2022 (vers 87 €/MWh) et Brent au-dessus de 105 $ avec les attaques à Ormuz."
+  "Lundi 19/10 midi : Paris recule nettement (CAC 40 vers -1 à -1,5 % en matinée, une seule source) après les émeutes du week-end, plus que le reste de l'Europe.",
+  "Taux français en hausse (OAT vers 4,85 %, écart avec le Bund vers 142 pb, à confirmer) ; Brent en léger recul après un pic au-dessus de 110 $ la semaine dernière.",
+  "Semaine chargée en publications : Virbac ce soir, Vusion le 20/10, Aalberts, Kitron et Viscofan le 22/10, Medistim le 23/10."
  ],
  "watchlistValidee": false
 }

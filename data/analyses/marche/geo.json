@@ -1,6 +1,6 @@
 {
- "lecture": "Le risque immédiat sur le budget français a reculé après l'échec de la motion de rejet, et les taux se sont un peu détendus (OAT 4,79 %). Le danger se déplace vers l'énergie : gaz européen au plus haut depuis 2022 et Brent au-dessus de 105 $ avec la multiplication des attaques à Ormuz. Cela entretient l'inflation et le risque d'une nouvelle hausse de la BCE le 29/10.",
- "majLe": "2026-10-16",
+ "lecture": "Le risque français repasse au premier plan : les émeutes du week-end s'ajoutent à un budget sans majorité, et l'écart de taux avec l'Allemagne se rouvre vers 142 pb. Le pétrole se détend un peu après un pic au-dessus de 110 $ la semaine dernière, mais Ormuz reste le premier moteur de l'inflation. Il faut s'attendre à plus de volatilité sur les valeurs françaises tournées vers le marché intérieur tant que la crise sociale et le budget ne sont pas réglés.",
+ "majLe": "2026-10-19",
  "matieres": {
   "ALU": {
    "moteurs": "L'aluminium reste haut (environ 3 260 $/t, +22 % sur un an) car la production du Golfe s'est effondrée avec la guerre, mais le dollar fort et les exportations chinoises le plafonnent.",
@@ -69,6 +69,10 @@
   {
    "faits": [
     {
+     "d": "19/10",
+     "t": "Le Brent recule lundi matin après être passé la semaine dernière au-dessus de 110 $ pour la première fois depuis mai. Pas de nouvelle attaque ni d'avancée diplomatique trouvée ce week-end (une seule source)."
+    },
+    {
      "d": "15/10",
      "t": "Les frappes de drones iraniens sur les navires se multiplient et le trafic des pétroliers ralentit."
     },
@@ -87,10 +91,6 @@
     {
      "d": "08/10",
      "t": "Pas d'accord durable entre les États-Unis et l'Iran malgré des flux revenus près de l'avant-guerre ; Brent au-dessus de 104 $."
-    },
-    {
-     "d": "04/10",
-     "t": "L'OPEP+ laisse ses objectifs inchangés pour novembre, production toujours environ 5 millions de barils/jour sous l'avant-guerre. Les Houthis revendiquent des frappes sur des sites d'Aramco (Riyad conteste) et l'Iran rejette les dernières propositions américaines."
     }
    ],
    "id": "ormuz",
@@ -120,6 +120,7 @@
    "region": "Moyen-Orient / Golfe",
    "resume": "La guerre avec l'Iran, commencée fin février 2026, bloque toujours le détroit d'Ormuz par où passait environ un cinquième du pétrole mondial, et les États-Unis maintiennent un blocus des ports iraniens. Fin septembre, Trump a rejeté le plan iranien de réouverture et un vraquier a encore été touché près d'Oman. Le Brent est repassé au-dessus de 100 $ et c'est le premier moteur de l'inflation et des taux en ce moment.",
    "sources": [
+    "https://www.abcbourse.com/marches/le-cac-40-attendu-en-baisse-ce-lundi-les-violences-en-france-ravivent-les-crain_704391",
     "https://seatrade-maritime.com/security/ukmto-issues-four-hormuz-attack-reports-iran-claims-adnoc-tanker-strike",
     "https://aljazeera.com/news/2026/10/11/hormuz-attacks-intensify-as-efforts-to-end-war-on-iran-stall",
     "https://www.aljazeera.com/news/2026/10/9/trump-says-us-will-not-strike-iran-before-midterm-elections",
@@ -179,6 +180,10 @@
   {
    "faits": [
     {
+     "d": "19/10",
+     "t": "Lundi matin, l'OAT 10 ans remonte vers 4,85 % après les émeutes et l'écart avec le Bund se rouvre vers 142 pb (136 pb vendredi soir). Chiffres d'une seule source, à confirmer."
+    },
+    {
      "d": "16/10",
      "t": "L'OAT 10 ans finit la semaine à 4,79 % (4,86 % le 12/10), le Bund à 3,42 % : écart resserré à 137 pb (données Banque de France et Bundesbank)."
     },
@@ -197,10 +202,6 @@
     {
      "d": "02/10",
      "t": "L'inflation de la zone euro grimpe à 3,8 % sur un an en septembre (3,2 % en août), plus haut depuis 2023, tirée par l'énergie ; l'inflation de fond reste à 2,5 % (Eurostat)."
-    },
-    {
-     "d": "01/10",
-     "t": "L'OAT 10 ans monte vers 4,9 %, son plus haut depuis 2002. Chômage de la zone euro stable à 6,4 % en août."
     }
    ],
    "id": "taux",
@@ -222,6 +223,7 @@
    "region": "Zone euro / États-Unis",
    "resume": "Le choc pétrolier relance l'inflation, et les deux grandes banques centrales ont remonté leurs taux en septembre au lieu de les baisser. Les marchés anticipent encore des hausses. C'est un vent contraire pour les petites et moyennes valeurs, pour l'immobilier et pour l'or.",
    "sources": [
+    "https://www.abcbourse.com/marches/le-taux-de-l-oat-a-dix-ans-remonte-a-4-85-apres-les-emeutes-en-france_704409",
     "https://www.ideal-investisseur.fr/marches/macro/spread-oat-bund.html",
     "https://tradingeconomics.com/france/government-bond-yield",
     "https://www.ideal-investisseur.fr/en/markets/oat-bund-spread.html",
@@ -238,7 +240,7 @@
     "Prochaine réunion BCE fin octobre (date à confirmer)",
     "Chiffres d'inflation zone euro et États-Unis début octobre"
    ],
-   "tendance": "stable",
+   "tendance": "hausse",
    "titre": "Inflation énergie : BCE et Fed remontent les taux",
    "valeurs": [
     {
@@ -266,6 +268,10 @@
   {
    "faits": [
     {
+     "d": "18/10",
+     "t": "Les manifestations contre la vie chère tournent à l'émeute samedi et dimanche à Paris, Lyon et Marseille (pillages, dégradations). Lundi, Macron refuse la démission du ministre de l'Intérieur et Lecornu préside une cellule de crise ; Amélie de Montchalin prévient que la charge de la dette atteindra 90 Md€ en 2027."
+    },
+    {
      "d": "13/10",
      "t": "La motion de rejet du PS contre le budget 2027 est repoussée (236 voix contre 149) grâce au RN ; l'examen des recettes se poursuit jusqu'au 19/10. Le 49.3 reste possible, LFI promet alors la censure, Marine Le Pen dit préférer un budget « imparfait » adopté."
     },
@@ -284,10 +290,6 @@
     {
      "d": "02/10",
      "t": "Le budget 2027 est critiqué de toutes parts : écologistes prêts à censurer, PS et RN hostiles, Medef opposé aux taxes sur les entreprises, Haut conseil des finances publiques qui juge la croissance de 1 % optimiste."
-    },
-    {
-     "d": "01/10",
-     "t": "Budget 2027 présenté : 43 Md€ de mesures nouvelles, gel des salaires publics et de la plupart des pensions, déficit visé à 5 % du PIB, 340 Md€ d'emprunts. L'écart OAT/Bund dépasse 130 pb en séance, les banques françaises reculent d'environ 3 %."
     }
    ],
    "id": "france",
@@ -301,6 +303,7 @@
    "region": "France",
    "resume": "Le gouvernement Lecornu présente un budget 2027 avec 54 Md€ d'effort pour ramener le déficit vers 4,8 à 5 % du PIB, mais la gauche promet la censure et le RN reste l'arbitre. L'écart de taux avec l'Allemagne est élevé mais s'est un peu détendu en fin de semaine dernière. C'est le risque principal pour les valeurs très françaises de ta liste.",
    "sources": [
+    "https://www.abcbourse.com/marches/l-europe-attendue-en-baisse-la-situation-en-france-scrutee-apres-les-emeutes_704394",
     "https://lcp.fr/actualites/la-motion-de-rejet-des-socialistes-n-ayant-pas-ete-adoptee-l-examen-du-budget-pour-2027",
     "https://lcp.fr/actualites/budget-2027-les-deputes-rejettent-en-commission-la-partie-recettes-du-projet-de-loi-de",
     "https://echosplus.com/2026/10/03/budget-2027-le-ps-presse-lecornu-de-revoir-sa-copie-et-maintient-la-menace-de-censure/",
@@ -319,7 +322,7 @@
     "Position du RN sur la censure",
     "Écart OAT/Bund : au-dessus de 110 pb, signal d'alerte ; non atteint au 25/09"
    ],
-   "tendance": "stable",
+   "tendance": "hausse",
    "titre": "Budget 2027 et risque politique français",
    "valeurs": [
     {
@@ -421,6 +424,10 @@
   {
    "faits": [
     {
+     "d": "19/10",
+     "t": "Selon le Wall Street Journal, Poutine propose un sommet avec Trump et Xi le mois prochain. Trump avait annoncé le 16/10 la levée de plusieurs sanctions visant la Russie ; le 18/10, des drones ukrainiens frappent un terminal pétrolier à Saint-Pétersbourg."
+    },
+    {
      "d": "12/10",
      "t": "Le Kremlin dément tout cessez-le-feu énergétique et frappe encore six sites énergétiques ukrainiens ; Washington lève une partie des sanctions sur le pétrole russe le 13/10."
     },
@@ -439,10 +446,6 @@
     {
      "d": "26/09",
      "t": "Moscou mise sur sa stratégie militaire et exige la reconnaissance de ses conquêtes avant tout cessez-le-feu ; l'Ukraine continue de frapper des raffineries russes."
-    },
-    {
-     "d": "29/09",
-     "t": "Le blé de Chicago recule d'environ 9 % sur un mois : un cessez-le-feu pourrait rendre à la Russie jusqu'à 80 % de sa capacité portuaire céréalière."
     }
    ],
    "id": "russie-ukraine",
@@ -460,6 +463,7 @@
    "region": "Europe de l'Est",
    "resume": "Les pourparlers menés par les États-Unis ont repris début septembre mais Zelensky a rejeté le projet d'accord et Moscou pose des conditions territoriales jugées inacceptables. Les frappes de drones en mer Noire ont quasi stoppé les exportations maritimes de céréales des deux pays. Le blé reste nerveux mais recule quand l'espoir de cessez-le-feu revient.",
    "sources": [
+    "https://www.abcbourse.com/marches/l-europe-attendue-en-baisse-la-situation-en-france-scrutee-apres-les-emeutes_704394",
     "https://www.criticalthreats.org/analysis/russian-offensive-campaign-assessment-october-12-2026",
     "https://www.euronews.com/2026/10/12/energy-ceasefire-confusion-in-kyiv-support-from-allies-silence-from-moscow-and-fresh-strik",
     "https://www.csmonitor.com/World/Europe/2026/0926/russia-ukraine-peace-talks-donbas-europe-trump",
