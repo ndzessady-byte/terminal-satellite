@@ -107,14 +107,14 @@
   ],
   "tech": {
    "bas52": 17.2,
-   "cours": 20.1,
-   "coursLe": "2026-10-19",
+   "cours": 20.0,
+   "coursLe": "2026-10-20",
    "haut52": 25.15,
-   "lecture": "Cours de 20,10 en dessous de sa moyenne 50 jours (20,67) et en dessous de sa moyenne 200 jours (21,75). RSI 46,3 : élan neutre. Il se situe à 36 % de sa fourchette sur un an (de 17,20 à 25,15), performance sur 12 mois de 11,2 %. Clôture du 19/10/2026.",
-   "mm200": 21.75,
-   "mm50": 20.67,
+   "lecture": "Cours de 20,00 en dessous de sa moyenne 50 jours (20,65) et en dessous de sa moyenne 200 jours (21,74). RSI 45,1 : élan neutre. Il se situe à 35 % de sa fourchette sur un an (de 17,20 à 25,15), performance sur 12 mois de 10,4 %. Clôture du 20/10/2026.",
+   "mm200": 21.74,
+   "mm50": 20.65,
    "resistance": 21.6,
-   "rsi14": 46.3,
+   "rsi14": 45.1,
    "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json",
    "stade": 4,
    "support": 19.58,
@@ -137,8 +137,8 @@
   }
  },
  "capi": "420 M€",
- "cours": 20.1,
- "coursLe": "2026-10-19",
+ "cours": 20.0,
+ "coursLe": "2026-10-20",
  "devise": "€",
  "faits": [
   {
@@ -147,10 +147,6 @@
   }
  ],
  "histo": [
-  [
-   "13/10",
-   18.94
-  ],
   [
    "14/10",
    18.72
@@ -1186,6 +1182,10 @@
   [
    "19/10",
    20.1
+  ],
+  [
+   "20/10",
+   20.0
   ]
  ],
  "nom": "Jacquet Metals",
@@ -1194,9 +1194,9 @@
  "per26": 15.4,
  "per27": 9.88,
  "perf": {
-  "m1": -6.1,
-  "m3": -7.6,
-  "m12": 11.2
+  "m1": -6.8,
+  "m3": -9.5,
+  "m12": 10.4
  },
  "pub": "2026-11-04",
  "pubLabel": "Résultats du T3",

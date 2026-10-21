@@ -93,18 +93,18 @@
   ],
   "tech": {
    "bas52": 727.0,
-   "cours": 777.0,
-   "coursLe": "2026-10-19",
+   "cours": 770.0,
+   "coursLe": "2026-10-20",
    "haut52": 910.0,
-   "lecture": "Cours de 777,00 au-dessus de sa moyenne 50 jours (774,76) et en dessous de sa moyenne 200 jours (813,24). RSI 56,2 : élan neutre. Il se situe à 27 % de sa fourchette sur un an (de 727,00 à 910,00), performance sur 12 mois de -7,7 %. Clôture du 19/10/2026.",
-   "mm200": 813.24,
-   "mm50": 774.76,
+   "lecture": "Cours de 770,00 en dessous de sa moyenne 50 jours (774,30) et en dessous de sa moyenne 200 jours (812,72). RSI 51,5 : élan neutre. Il se situe à 23 % de sa fourchette sur un an (de 727,00 à 910,00), performance sur 12 mois de -10,4 %. Clôture du 20/10/2026.",
+   "mm200": 812.72,
+   "mm50": 774.3,
    "resistance": 775,
-   "rsi14": 56.2,
+   "rsi14": 51.5,
    "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json",
-   "stade": 1,
+   "stade": 4,
    "support": 710,
-   "tendance": "neutre"
+   "tendance": "baissiere"
   },
   "verdict": "Robertet reste un leader rentable des ingrédients naturels, avec une dette quasi nulle et une valorisation redescendue vers 16,5 fois les bénéfices 2026, mais il vient de réduire son objectif de croissance 2026 et sa marge recule. Le titre est en tendance baissière sous sa moyenne 200 jours, et la thèse doit être revalidée par un retour de la croissance.",
   "zones": {
@@ -123,8 +123,8 @@
   }
  },
  "capi": "1,64 Md€",
- "cours": 777.0,
- "coursLe": "2026-10-19",
+ "cours": 770.0,
+ "coursLe": "2026-10-20",
  "devise": "€",
  "faits": [
   {
@@ -141,10 +141,6 @@
   }
  ],
  "histo": [
-  [
-   "13/10",
-   810.0
-  ],
   [
    "14/10",
    805.0
@@ -1180,6 +1176,10 @@
   [
    "19/10",
    777.0
+  ],
+  [
+   "20/10",
+   770.0
   ]
  ],
  "nom": "Robertet",
@@ -1188,9 +1188,9 @@
  "per26": 16.6,
  "per27": 14.9,
  "perf": {
-  "m1": 6.9,
-  "m3": -3.6,
-  "m12": -7.7
+  "m1": 1.9,
+  "m3": -3.1,
+  "m12": -10.4
  },
  "pub": "2027-02-11",
  "pubLabel": "Résultats annuels",

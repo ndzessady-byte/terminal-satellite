@@ -106,14 +106,14 @@
   ],
   "tech": {
    "bas52": 49.86,
-   "cours": 57.35,
-   "coursLe": "2026-10-19",
+   "cours": 57.65,
+   "coursLe": "2026-10-20",
    "haut52": 85.8,
-   "lecture": "Cours de 57,35 en dessous de sa moyenne 50 jours (66,09) et en dessous de sa moyenne 200 jours (66,98). RSI 29,4 : élan faible. Il se situe à 21 % de sa fourchette sur un an (de 49,86 à 85,80), performance sur 12 mois de -7,6 %. Clôture du 19/10/2026.",
-   "mm200": 66.98,
-   "mm50": 66.09,
+   "lecture": "Cours de 57,65 en dessous de sa moyenne 50 jours (65,80) et en dessous de sa moyenne 200 jours (66,96). RSI 30,6 : élan neutre. Il se situe à 22 % de sa fourchette sur un an (de 49,86 à 85,80), performance sur 12 mois de -7,1 %. Clôture du 20/10/2026.",
+   "mm200": 66.96,
+   "mm50": 65.8,
    "resistance": 70.8,
-   "rsi14": 29.4,
+   "rsi14": 30.6,
    "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json",
    "stade": 4,
    "support": 62.8,
@@ -137,8 +137,8 @@
   }
  },
  "capi": "2,7 Md€",
- "cours": 57.35,
- "coursLe": "2026-10-19",
+ "cours": 57.65,
+ "coursLe": "2026-10-20",
  "devise": "€",
  "faits": [
   {
@@ -159,10 +159,6 @@
   }
  ],
  "histo": [
-  [
-   "13/10",
-   65.5
-  ],
   [
    "14/10",
    63.45
@@ -1198,6 +1194,10 @@
   [
    "19/10",
    57.35
+  ],
+  [
+   "20/10",
+   57.65
   ]
  ],
  "nom": "Melexis",
@@ -1206,9 +1206,9 @@
  "per26": 22,
  "per27": 16.9,
  "perf": {
-  "m1": -13.6,
-  "m3": -22.6,
-  "m12": -7.6
+  "m1": -15.2,
+  "m3": -20.3,
+  "m12": -7.1
  },
  "pub": "2026-10-28",
  "pubLabel": "Résultats du T3",
