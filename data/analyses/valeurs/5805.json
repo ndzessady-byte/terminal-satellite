@@ -14,6 +14,10 @@
  "risque": "Prix du cuivre (gonfle le chiffre d'affaires puis peut le dégonfler), retournement des investissements dans les data centers, cours très volatil (de 1 412 à 3 806 ¥ en un an, après division).",
  "faits": [
   {
+   "d": "20/10",
+   "t": "Clôture à 2 279 ¥ (-7,3 %), entraînée par la baisse des fabricants de câbles (Fujikura -6,5 %). Aucune publication de la société."
+  },
+  {
    "d": "15/10",
    "t": "Chute de -11,8 % : forte baisse des valeurs japonaises liées à l'IA et aux data centers après la chute des obligations de CoreWeave et une inflation américaine plus forte que prévu. Aucun communiqué propre à SWCC."
   },
@@ -24,14 +28,10 @@
   {
    "d": "31/08",
    "t": "Annonce de la division par 5 (date d'enregistrement 30/09) ; dividende annuel inchangé, soit 62,2 ¥ par action après division."
-  },
-  {
-   "d": "07/08",
-   "t": "T1 : CA 77,7 Md¥ (+24,9 %), résultat opérationnel 8,7 Md¥ (+80 %), bénéfice net 5,7 Md¥ (+92 %) ; prévision annuelle relevée (bénéfice net 23 Md¥, +22 %) et dividende porté à 311 ¥ avant division."
   }
  ],
- "pub": null,
- "pubLabel": "Résultats du premier semestre (date non publiée, mi-novembre probable : le 12/11 l'an dernier)",
+ "pub": "2026-11-11",
+ "pubLabel": "Résultats du premier semestre (date d'une seule source)",
  "src": "https://www.daiwair.co.jp/td_download.cgi?c=5805&i=3274037",
  "notes": "Cours et BPA exprimés après la division par 5 du 01/10/2026. BPA prévu par la société : 776,43 ¥ avant division, soit 155,3 ¥ après ; PER calculé de 17,7 au cours de 2 754 ¥, PER consensus 17,4 (exercice clos en mars 2027) et 15,7 (mars 2028) selon MarketScreener. per26 = exercice avril 2026 à mars 2027. Cours, moyennes mobiles et RSI issus du flux de cours (clôture du 01/10/2026).",
  "yahoo": "5805.T",
@@ -1116,6 +1116,13 @@
   },
   "actu": [
    {
+    "d": "20/10",
+    "fait": "SWCC perd 7,3 % à 2 279 ¥ avec tout le secteur des câbles (Fujikura -6,5 %), sans communiqué ni révision propre à la société.",
+    "impact": "negatif",
+    "horizon": "court",
+    "lecture": "Baisse sectorielle, comme le 15/10 : le cours reste très lié à l'enthousiasme pour les câbles et les data centers."
+   },
+   {
     "d": "15/10",
     "fait": "Le Nikkei chute fortement après l'effondrement le 14/10 des obligations de CoreWeave, qui fait craindre pour le financement des data centers d'IA, et un indice des prix américain au-dessus des attentes. SWCC termine vers 2 500 ¥. Aucune publication ni changement de prévision propre à la société.",
     "impact": "negatif",
@@ -1135,13 +1142,6 @@
     "impact": "positif",
     "horizon": "moyen",
     "lecture": "La société explique la hausse par l'énergie, les communications à l'étranger, les semi-conducteurs, la demande liée à l'IA et le prix du cuivre : le dernier point est moins durable que les autres."
-   },
-   {
-    "d": "14/05",
-    "fait": "Exercice clos en mars 2026 : bénéfice net 18,8 Md¥ (+65 %), ROE 20,7 % ; mais prévision initiale d'un bénéfice net en léger recul (-1,8 %), sous les attentes.",
-    "impact": "negatif",
-    "horizon": "court",
-    "lecture": "La prévision prudente a fait chuter le titre depuis son sommet ; elle a été largement relevée trois mois plus tard."
    }
   ],
   "scenarios": [
@@ -1187,6 +1187,7 @@
    "Weinstein (stades)"
   ],
   "sources": [
+   "https://jp.investing.com/news/stock-market-news/article-1718505",
    "https://media.rakuten-sec.net/articles/-/53766",
    "https://www.nikkei.com/article/DGXZQOUB150HLTV11C26A0000000/",
    "https://www.daiwair.co.jp/td_download.cgi?c=5805&i=3274037",

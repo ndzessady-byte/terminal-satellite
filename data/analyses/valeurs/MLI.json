@@ -14,20 +14,20 @@
  "risque": "Bénéfices sans doute proches d'un haut de cycle (cuivre cher, droits de douane favorables) ; seulement 2 analystes suivent la valeur ; ventes d'actions par des dirigeants ; risque de change euro/dollar.",
  "faits": [
   {
-   "d": "07/08",
-   "t": "Gary Gladstein, administrateur, quittera le conseil le 31/12/2026."
-  },
-  {
-   "d": "06/08",
-   "t": "Dividende du T3 déclaré (après la hausse de 40 % annoncée en février)."
-  },
-  {
-   "d": "21/07",
-   "t": "T2 2026 : CA 1 427 M$ (+25,4 %), résultat opérationnel 310,0 M$ (+1,9 %), BPA dilué 1,13 $ (+1,8 %), division d'action par 2 au 30/06."
-  },
-  {
    "d": "06/2026",
    "t": "Rachat de Chicago Extruded Metals, après Bison Metals Technologies en mars (138,3 M$)."
+  },
+  {
+   "d": "20/10",
+   "t": "T3 : CA 1,42 Md$ (+32 %), résultat opérationnel 281,6 M$ (276,1 M$ un an plus tôt), BPA 1,00 $ (0,94 $). Cuivre moyen +34 %."
+  },
+  {
+   "d": "20/10",
+   "t": "Le titre recule de 6,6 % à 56,81 $ : BPA jugé décevant malgré des ventes bien supérieures aux prévisions."
+  },
+  {
+   "d": "20/10",
+   "t": "201,9 M$ de rachats d'actions au T3, trésorerie d'environ 1,48 Md$, carnets de commandes en hausse dans les trois divisions."
   }
  ],
  "pub": null,
@@ -1116,20 +1116,6 @@
   },
   "actu": [
    {
-    "d": "21/07",
-    "fait": "T2 2026 : CA de 1 427 M$ (+25,4 %), résultat opérationnel de 310,0 M$ (+1,9 %), bénéfice net de 249,7 M$ (+1,5 %).",
-    "impact": "neutre",
-    "horizon": "moyen",
-    "lecture": "Le cuivre cher gonfle les ventes, mais la marge recule : le marché veut voir si le bénéfice continue de monter au second semestre."
-   },
-   {
-    "d": "21/07",
-    "fait": "Division de l'action par deux effective au 30/06/2026 et dividende trimestriel porté à 0,175 $ après division (+40 % sur un an).",
-    "impact": "positif",
-    "horizon": "long",
-    "lecture": "Le dividende reste faible en rendement (environ 1,2 %) mais sa hausse montre la confiance de la direction."
-   },
-   {
     "d": "mars à juin",
     "fait": "Rachats de Bison Metals Technologies (138,3 M$) et de Chicago Extruded Metals.",
     "impact": "neutre",
@@ -1137,11 +1123,25 @@
     "lecture": "Petites acquisitions payées en cash, dans la ligne du modèle ; à surveiller si les montants grossissent."
    },
    {
-    "d": "07/08",
-    "fait": "Annonce du départ de l'administrateur Gary Gladstein au 31/12/2026 ; ventes d'actions d'initiés d'environ 18,9 M$ en trois mois (MarketBeat).",
-    "impact": "neutre",
+    "d": "20/10",
+    "fait": "Ventes +32 % mais résultat opérationnel presque stable : marge d'environ 19,8 % contre environ 25,6 % un an plus tôt (calcul à partir du communiqué), avec des frais d'acquisition et un gain de cession dans la base 2025.",
+    "impact": "negatif",
     "horizon": "court",
-    "lecture": "Rien d'alarmant en soi, mais aucun achat d'initié pour contrebalancer."
+    "lecture": "Point fragile de la thèse : le cuivre cher gonfle les ventes, mais la marge baisse et le bénéfice ne suit pas."
+   },
+   {
+    "d": "20/10",
+    "fait": "Le titre perd 6,6 % à 56,81 $, plus bas depuis quatre mois : le marché sanctionne la marge, pas les ventes.",
+    "impact": "negatif",
+    "horizon": "court",
+    "lecture": "La baisse vient des résultats du T3, pas d'une note d'analyste."
+   },
+   {
+    "d": "20/10",
+    "fait": "Carnets de commandes en hausse dans chaque division (data centers, bâtiment commercial), logement toujours faible ; 201,9 M$ de rachats d'actions et dividende trimestriel de 0,175 $.",
+    "impact": "positif",
+    "horizon": "moyen",
+    "lecture": "La demande non résidentielle compense le logement et la discipline financière est confirmée."
    }
   ],
   "scenarios": [
@@ -1187,6 +1187,8 @@
    "Weinstein (stades)"
   ],
   "sources": [
+   "https://www.sec.gov/Archives/edgar/data/0000089439/000008943926000038/exhibit991q32026earningsre.htm",
+   "https://www.gurufocus.com/news/9132124/mueller-industries-mli-stock-drops-to-fourmonth-low-after-mixed-q3-earnings",
    "https://www.sec.gov/Archives/edgar/data/89439/000008943926000029/exhibit991q22026earningsre.htm",
    "https://www.sec.gov/Archives/edgar/data/89439/000008943926000002/exhibit991q42025earningsre.htm",
    "https://www.sec.gov/Archives/edgar/data/89439/000008943925000003/exhibit991q42024earningsre.htm",
@@ -1321,31 +1323,31 @@
    "Pourquoi les dirigeants et administrateurs vendent-ils des actions (environ 18,9 M$ en trois mois selon MarketBeat) sans aucun achat ?"
   ],
   "suivi": {
-   "le": "2026-10-01",
+   "le": "2026-10-21",
    "bilan": "La discipline financière et la tenue des marchés non résidentiels sont confirmées ; le point fragile est la marge, qui a reculé au T2 2026 malgré des ventes en forte hausse.",
    "croire": [
     {
      "c": "Que Mueller garde une marge opérationnelle supérieure à 18 % même si le prix du cuivre baisse, preuve que ses hausses de marge viennent de l'efficacité et pas seulement du cuivre cher.",
      "etat": "watch",
-     "reponse": "Pour l'instant oui sur l'année (23,7 % au S1 2026), mais la marge du T2 tombe à 21,7 % contre 26,7 % un an plus tôt : la hausse du cuivre gonfle les ventes sans faire monter le bénéfice.",
-     "preuve": "T2 2026 : résultat opérationnel 310,0 M$ pour 1 427 M$ de CA, contre 304,2 M$ pour 1 138 M$ au T2 2025.",
-     "source": "https://www.sec.gov/Archives/edgar/data/89439/000008943926000029/exhibit991q22026earningsre.htm",
+     "reponse": "Encore au-dessus de 18 %, mais de peu et en baisse : environ 19,8 % au T3 contre environ 25,6 % un an plus tôt, alors que le cuivre est au plus haut.",
+     "preuve": "T3 2026 : résultat opérationnel 281,6 M$ pour 1,42 Md$ de CA.",
+     "source": "https://www.sec.gov/Archives/edgar/data/0000089439/000008943926000038/exhibit991q32026earningsre.htm",
      "prochain": "Résultats du T3 2026 (fin octobre)"
     },
     {
      "c": "Que la direction continue d'utiliser sa trésorerie (environ 1,4 Md$) avec discipline : rachats d'actions, dividende en hausse et acquisitions ciblées payées sans dette.",
      "etat": "ok",
-     "reponse": "Oui : trésorerie intacte malgré deux acquisitions, rachats d'actions et dividende en forte hausse.",
-     "preuve": "S1 2026 : 76,4 M$ de rachats, 76,1 M$ de dividendes, 138,3 M$ pour Bison Metals ; trésorerie de 1,42 Md$ et dette de 5,2 M$ au 30/06.",
-     "source": "https://www.sec.gov/Archives/edgar/data/89439/000008943926000029/exhibit991q22026earningsre.htm",
+     "reponse": "Oui : 201,9 M$ de rachats au T3 et une trésorerie qui monte encore, à environ 1,48 Md$.",
+     "preuve": "T3 2026 : 3,2 millions d'actions rachetées, flux d'exploitation 337,0 M$.",
+     "source": "https://www.sec.gov/Archives/edgar/data/0000089439/000008943926000038/exhibit991q32026earningsre.htm",
      "prochain": "Résultats du T3 2026"
     },
     {
      "c": "Que la demande des marchés non résidentiels (bâtiment commercial, industrie, réseaux électriques) compense la faiblesse de la construction de logements aux États-Unis.",
      "etat": "ok",
-     "reponse": "Oui selon la direction : la demande se renforce dans le commercial, l'industrie et l'électrique, avec des carnets solides, alors que le logement reste mou.",
-     "preuve": "Commentaire du CEO au T2 2026 ; Industrial Metals : résultat opérationnel +39,8 % au T2.",
-     "source": "https://www.sec.gov/Archives/edgar/data/89439/000008943926000029/exhibit991q22026earningsre.htm",
+     "reponse": "Oui selon la direction : carnets en hausse dans les trois divisions grâce aux data centers et au bâtiment commercial.",
+     "preuve": "Commentaire du PDG au T3 2026.",
+     "source": "https://www.sec.gov/Archives/edgar/data/0000089439/000008943926000038/exhibit991q32026earningsre.htm",
      "prochain": "Résultats du T3 2026"
     }
    ],

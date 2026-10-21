@@ -3,6 +3,13 @@
   "aVerifier": "Cours du 28/09 non lu (dernier cours confirmé 303,5 € le 25/09, la fiche d'origine indique environ 309 €). MM50, MM200 et RSI non disponibles à jour (page Investing.com figée au 05/08), mis à null. Haut et bas sur 52 semaines lus sur Investing.com au 05/08. ROE et dette nette/EBITDA calculés à partir des ratios Zonebourse. Couverture des intérêts, comparaison avec les pairs et Piotroski non trouvés.",
   "actu": [
    {
+    "d": "20/10",
+    "fait": "Le titre réagit peu le matin puis finit à 345 € (+2,4 %). Le consensus visait déjà le haut de la fourchette ; il attend une marge de 16,8 %, un peu sous les 17 % visés par Virbac.",
+    "impact": "neutre",
+    "horizon": "court",
+    "lecture": "La bonne nouvelle était en partie attendue. Si la marge d'environ 17 % est tenue, le consensus devra un peu monter."
+   },
+   {
     "d": "19/10",
     "fait": "Le T3 accélère : +8,8 % à change et périmètre constants (400 M€), après +7,7 % au T1 et +7,2 % au T2. Les plateformes de soins (mobilité, dentaire, otologie) progressent d'environ 11 %, les animaux de compagnie de 8,8 % et l'élevage de 7,0 %. L'effet change coûte environ 2 points en publié.",
     "impact": "positif",
@@ -22,13 +29,6 @@
     "impact": "positif",
     "horizon": "moyen",
     "lecture": "Les États-Unis, point faible du premier semestre, repartent : c'était une des questions de la thèse."
-   },
-   {
-    "d": "24/09",
-    "fait": "Lancement progressif en Europe de Floragest, friandise à base de prébiotiques pour le confort digestif des chiens et chats.",
-    "impact": "positif",
-    "horizon": "moyen",
-    "lecture": "Un produit de plus dans la gamme animaux de compagnie, moteur de la croissance ; taille modeste, aucun chiffre de ventes attendu."
    }
   ],
   "cadres": [
@@ -89,6 +89,8 @@
    }
   ],
   "sources": [
+   "https://www.tradingsat.com/virbac-FR0000031577/actualites/virbac-apres-un-troisieme-trimestre-dynamique-virbac-vise-toujours-le-haut-de-ses-objectifs-mais-la-bourse-reste-impassible-1172065.html",
+   "https://www.optionfinance.fr/info-financiere-en-continu/d/2026-10-20-peu-de-reaction-du-titre-virbac-malgre-une-bonne-publication-et-des-objectifs-desormais-vises-dans-le-haut-de-la-fourchette.html",
    "https://www.globenewswire.com/news-release/2026/10/19/3383692/0/fr/virbac-solide-croissance-de-7-9-%C3%A0-tcc-%C3%A0-fin-septembre-2026-port%C3%A9e-par-la-croissance-%C3%A0-deux-chiffres-de-nos-plateformes-supercharge.html",
    "https://www.boursorama.com/bourse/actualites/virbac-ca-a-8-8-au-t3-confirmation-de-ses-objectifs-2026-7fb489030febdf3592b9399aa6776133",
    "https://www.abcbourse.com/marches/virbac-affiche-1-168-milliard-deuros-de-chiffre-daffaires-a-fin-septembre-2026_704443",
@@ -142,6 +144,10 @@
  "devise": "€",
  "faits": [
   {
+   "d": "20/10",
+   "t": "Réaction modeste au CA du T3 en séance ; Stifel reste à l'achat, Jefferies à conserver. Clôture à 345 € (+2,4 %)."
+  },
+  {
    "d": "19/10",
    "t": "CA du T3 : 400 M€ (+9,8 % publié, +8,8 % à change et périmètre constants). Sur 9 mois : 1 168 M€ (+5,9 % publié, +7,9 % à change constant)."
   },
@@ -152,10 +158,6 @@
   {
    "d": "19/10",
    "t": "Amérique du Nord : +9,5 % au T3 à change constant, environ +17 % en sous-jacent hors déstockage des distributeurs ; IMEA +17,8 %, Europe +8,7 %."
-  },
-  {
-   "d": "14/10",
-   "t": "Le titre remonte vers 332 € (environ +7 % sur la semaine) avant le CA du T3 attendu le 19/10."
   }
  ],
  "histo": [

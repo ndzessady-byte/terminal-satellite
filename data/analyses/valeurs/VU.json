@@ -3,32 +3,32 @@
   "aVerifier": "MM50, MM200 et RSI datent du 18/09 (Investing.com, avant la hausse post-résultats). Haut sur 52 semaines : 212,4 € selon Zonebourse mais 262 € selon Investing.com, retenu 212,4 €. ROE et ROCE issus d'estimations EuroLand de février 2026. Couverture des intérêts, PER moyen sur 5 ans, comparaison avec les pairs et Piotroski non trouvés. Chiffres de la guidance 2027 non lus dans une source.",
   "actu": [
    {
-    "d": "29/09",
-    "fait": "L'enseigne australienne JB Hi-Fi (355 magasins en Australie et Nouvelle-Zélande) choisit Vusion pour déployer en Australie ses étiquettes électroniques, après un pilote et un déploiement complet en Nouvelle-Zélande. Ni le montant ni le calendrier ne sont publiés.",
+    "d": "21/10",
+    "fait": "Le titre gagne environ 14 à 15 % en matinée après un recul de 2 % la veille ; Stifel et Oddo BHF saluent la trajectoire des commandes pour 2027. Le titre reste en baisse d'environ 32 % depuis janvier.",
     "impact": "positif",
-    "horizon": "moyen",
-    "lecture": "Un relais de plus pour l'après Walmart, mais de taille bien inférieure : sans montant, on ne sait pas quelle part du milliard d'euros de commandes attendu au S2 il représente."
-   },
-   {
-    "d": "22/09",
-    "fait": "Le titre prend plus de 9 % à 128 €, meilleure performance du SBF 120. Oddo BHF vise 190 €.",
     "horizon": "court",
-    "impact": "positif",
-    "lecture": "Le marché commence à croire que le trou d'air post Walmart sera moins profond que redouté."
+    "lecture": "Le marché est rassuré sur l'après Walmart, mais la hausse part d'un niveau bas. La journée investisseurs du 18/11 devient le prochain test."
    },
    {
-    "d": "21/09",
-    "fait": "S1 2026 : CA 820 M€ (+34 %), EBITDA ajusté 160 M€ (+48 %, marge 19,1 %), cash-flow opérationnel 127 M€, trésorerie nette 197 M€. Objectifs 2026 confirmés, rachat d'In-Store Media (Espagne).",
-    "horizon": "long",
+    "d": "20/10",
+    "fait": "Commandes du T3 : 462 M€ (+10 %), meilleur T3 de l'histoire, ratio commandes sur ventes au-dessus de 1. Objectif d'environ 1 Md€ de commandes au S2 maintenu (il faut plus de 500 M€ au T4). Walmart Canada s'ajoute au Mexique pour 2027.",
     "impact": "positif",
-    "lecture": "La montée des logiciels et des revenus récurrents améliore durablement la qualité du modèle."
-   },
-   {
-    "d": "10/09",
-    "fait": "La BCE relève ses taux pour la deuxième fois de l'année, l'inflation persiste.",
     "horizon": "moyen",
-    "impact": "negatif",
-    "lecture": "Des taux plus hauts pèsent sur les valeurs de croissance et peuvent freiner les investissements des distributeurs."
+    "lecture": "C'est le point clé de la thèse : les commandes repartent et de nouveaux relais apparaissent chez Walmart hors États-Unis, mais l'objectif du S2 reste à prouver au T4."
+   },
+   {
+    "d": "20/10",
+    "fait": "CA du T3 de 445 M€ ajustés (+25 %), au-dessus du consensus selon BFM Bourse ; services 77 M€ (+45 %). Objectifs 2026 confirmés (CA +15 à +20 %, marge d'EBITDA ajusté en hausse de plus de 100 points de base).",
+    "impact": "positif",
+    "horizon": "court",
+    "lecture": "La croissance reste forte alors que le déploiement Walmart aux États-Unis touche à sa fin, et la part des services monte encore."
+   },
+   {
+    "d": "20/10",
+    "fait": "Coût des droits de douane d'environ 100 M€ sur l'année, en partie compensé par des crédits clients ; pression sur les prix des contrats limités au matériel, notamment en Allemagne.",
+    "impact": "neutre",
+    "horizon": "moyen",
+    "lecture": "La marge dépend de plus en plus des services, ce qui rend leur montée encore plus importante pour la thèse."
    }
   ],
   "cadres": [
@@ -53,7 +53,7 @@
    "score": 7,
    "valo": "PER 15,3 fois 2026 et 12,5 fois 2027 (Zonebourse, cours 125,5 € le 28/09). VE/CA 1,2 fois 2026. En février 2026, EuroLand Corporate calculait un PER 2025 de 23,9 fois : le titre est donc nettement moins cher qu'avant, après une baisse de 38,6 % depuis janvier. Oddo BHF parle d'environ 5,3 fois l'EBITDA 2027 en valeur d'entreprise. Moyenne sur 5 ans et comparaison chiffrée avec les pairs non trouvées. Consensus Zonebourse : 6 analystes, objectif moyen 203 € (fourchette 170 à 260 €)."
   },
-  "majLe": "2026-09-28",
+  "majLe": "2026-10-21",
   "revisions": "Non trouvé ce soir (page consensus inaccessible).",
   "scenarios": [
    {
@@ -90,6 +90,10 @@
    }
   ],
   "sources": [
+   "https://www.actusnews.com/en/vusiongroup/pr/2026/10/20/chiffre-d_affaires-du-3eme-trimestre-2026-forte-croissance-au-troisieme-trimestre-portee-par-la-dynamique-commerciale-et",
+   "https://www.abcbourse.com/marches/vusion-accelere-au-troisieme-trimestre-avec-un-chiffre-d-affaires-en-hausse-de-2_704512",
+   "https://fr.investing.com/news/stock-market-news/pourquoi-laction-vusiongroup-senvoletelle-aujourdhui--93CH-3644801",
+   "https://www.shango.media/bfm-bourse-vusion-ex-ses-imagotag-en-pleine-operation-de-reconquete-dun-marche-anxieux-de-lapres-contrat-avec-walmart-vusion-rassure-sur-ses-commandes-et-bondit-de-15-en-bourse-11969383",
    "https://www.boursorama.com/bourse/actualites/vusion-invitation-immersion-au-coeur-de-l-innovation-7cbade4196873be140c6cdc161cb654c",
    "https://www.actusnews.com/fr/vusiongroup/cp/2026/09/29/l_enseigne-australienne-jb-hi-fi-choisit-vusion-pour-accelerer-sa-strategie-de-magasin-connecte",
    "https://www.optionfinance.fr/info-financiere-en-continu/d/2026-09-29-vusion-va-deployer-ses-technologies-chez-jb-hi-fi-en-australie.html",
@@ -144,20 +148,20 @@
  "devise": "€",
  "faits": [
   {
+   "d": "21/10",
+   "t": "Le titre bondit d'environ 14 à 15 % en matinée, vers 138 à 139 €, meilleure performance du SBF 120."
+  },
+  {
+   "d": "20/10",
+   "t": "CA du T3 : 445 M€ ajustés (+25 %, +49 % à change et droits de douane constants). Commandes 462 M€ (+10 %), meilleur T3 de l'histoire. Services (VAS) 77 M€ (+45 %). Objectifs 2026 confirmés."
+  },
+  {
+   "d": "20/10",
+   "t": "Sur 9 mois : CA ajusté 1 284 M€ (+28 %), VAS récurrents 100 M€ (+77 %). Objectif d'environ 1 Md€ de commandes au S2 maintenu ; Walmart Canada ajouté pour 2027."
+  },
+  {
    "d": "30/09",
    "t": "Matinée de présentation de ses solutions dans son centre d'innovation de Nanterre prévue le 23/10."
-  },
-  {
-   "d": "29/09",
-   "t": "JB Hi-Fi étend le déploiement de Vusion à ses magasins en Australie, après la Nouvelle-Zélande. Montant non publié."
-  },
-  {
-   "d": "22/09",
-   "t": "Titre +8 % vers 126 € après les résultats. Oddo BHF reste positif, objectif 190 €."
-  },
-  {
-   "d": "21/09",
-   "t": "S1 : CA 820 M€ (+34 %), EBITDA ajusté 160 M€ (+48 %), marge 19,1 %, free cash-flow 127 M€. Objectifs 2026 confirmés."
   }
  ],
  "histo": [
@@ -1212,8 +1216,8 @@
   "m3": -4.0,
   "m12": -48.7
  },
- "pub": "2026-10-20",
- "pubLabel": "CA du T3",
+ "pub": "2026-11-18",
+ "pubLabel": "Journée investisseurs à Paris (objectifs à horizon 2030)",
  "risque": "Dépendance à quelques très gros clients de la distribution.",
  "secteur": "Étiquettes électroniques retail",
  "societe": {
@@ -1398,18 +1402,18 @@
     {
      "c": "Que Vusion saura remplacer le volume de la phase actuelle de Walmart (qui se termine fin 2026) par de nouveaux grands contrats, comme les plus d'un milliard d'euros de commandes attendues au second semestre 2026.",
      "etat": "watch",
-     "preuve": "29/09/2026 : JB Hi-Fi (355 magasins) étend le déploiement à l'Australie ; montant non communiqué.",
+     "preuve": "T3 2026 : commandes 462 M€ (+10 %) ; objectif S2 maintenu.",
      "prochain": "CA T3 le 20/10/2026, puis Investor Day le 18/11/2026",
-     "reponse": "Un nouveau contrat est signé en Australie avec JB Hi-Fi, mais sans montant publié et loin de la taille de Walmart : l'objectif d'un milliard d'euros de commandes au S2 reste à prouver.",
-     "source": "https://www.actusnews.com/fr/vusiongroup/cp/2026/09/29/l_enseigne-australienne-jb-hi-fi-choisit-vusion-pour-accelerer-sa-strategie-de-magasin-connecte"
+     "reponse": "Mieux qu'au S1 : commandes en hausse au T3 (+10 %) et Walmart ajoute le Canada au Mexique pour 2027. Mais il faut plus de 500 M€ de commandes au T4 pour tenir le milliard du S2.",
+     "source": "https://www.abcbourse.com/marches/vusion-accelere-au-troisieme-trimestre-avec-un-chiffre-d-affaires-en-hausse-de-2_704512"
     },
     {
      "c": "Que les services récurrents (logiciel, caméras, données, publicité) vont monter en puissance et relever durablement les marges.",
      "etat": "ok",
-     "preuve": "S1 2026 : marge d'EBITDA ajustée 19,1 % contre 16,7 % un an plus tôt ; marge brute passée de 30,8 % à 32 %.",
+     "preuve": "T3 2026 : VAS 77 M€ (+45 %) ; revenu récurrent annualisé 154 M€ (+82 %).",
      "prochain": "Investor Day le 18/11/2026",
-     "reponse": "Oui pour l'instant : la part des logiciels et services fait monter les marges, et la hausse ne vient pas des prix du matériel.",
-     "source": "https://www.home.saxo/fr-fr/content/articles/equities/vusion-en-1-chiffre-22092026"
+     "reponse": "Oui : les VAS accélèrent (+77 % sur 9 mois en récurrent) et le rachat d'In-Store Media doit les porter à environ 400 M€ par an.",
+     "source": "https://fr.investing.com/news/stock-market-news/pourquoi-laction-vusiongroup-senvoletelle-aujourdhui--93CH-3644801"
     },
     {
      "c": "Que les chiffres publiés sont fiables et que les attaques de vendeurs à découvert resteront sans fondement.",
@@ -1420,7 +1424,7 @@
      "source": "https://www.abcbourse.com/marches/vusion-chute-de-11-en-bourse-apres-une-recommandation-de-vente-d-alphavalue_699713"
     }
    ],
-   "le": "2026-09-30",
+   "le": "2026-10-21",
    "questions": [
     {
      "etat": "watch",
@@ -1432,11 +1436,11 @@
     },
     {
      "etat": "watch",
-     "preuve": "S1 2026 : services (VAS) 125 M€ (+39 %), dont 61 M€ récurrents (+73 %).",
+     "preuve": "9 mois 2026 : VAS récurrents 100 M€ (+77 %).",
      "prochain": "Investor Day le 18/11/2026 (nouvelles ambitions attendues, notamment en retail media)",
      "q": "Les revenus VAS récurrents progressent-ils vraiment et avec quelle marge une fois tous les coûts comptés ?",
-     "reponse": "Oui, les revenus récurrents montent vite. Mais la marge des services une fois tous les coûts comptés n'est pas publiée, et AlphaValue reproche justement au groupe de présenter une marge brute proche de 100 % sur ces services.",
-     "source": "https://www.home.saxo/fr-fr/content/articles/equities/vusion-en-1-chiffre-22092026"
+     "reponse": "Les revenus récurrents progressent vite (+77 % sur 9 mois), mais leur marge complète n'est toujours pas publiée.",
+     "source": "https://www.abcbourse.com/marches/vusion-accelere-au-troisieme-trimestre-avec-un-chiffre-d-affaires-en-hausse-de-2_704512"
     },
     {
      "etat": "watch",
