@@ -182,6 +182,10 @@
    "faits": [
     {
      "d": "21/10",
+     "t": "L'OAT 10 ans passe au-dessus de 5 % en clôture, une première depuis 2002 (AFP ; chiffre exact de la Banque de France pas encore publié)."
+    },
+    {
+     "d": "21/10",
      "t": "L'OAT 10 ans passe brièvement au-dessus de 5 % en fin de matinée."
     },
     {
@@ -199,10 +203,6 @@
     {
      "d": "12/10",
      "t": "L'OAT 10 ans reste quasi stable lundi, toujours près de ses plus hauts depuis 2008, en attendant l'ouverture des débats budgétaires."
-    },
-    {
-     "d": "09/10",
-     "t": "Détente vendredi : l'OAT 10 ans recule en séance avec le pétrole, mais l'écart avec le Bund reste près de 140 pb (139,8 pb jeudi soir)."
     }
    ],
    "id": "taux",
@@ -270,6 +270,10 @@
   {
    "faits": [
     {
+     "d": "21/10",
+     "t": "Lecornu reçoit les syndicats, qui sortent déçus ; couvre-feux à Marseille et Toulouse, 557 gardes à vue à Paris. Carrefour chute de 13,8 % (magasins pillés, prévisions abaissées)."
+    },
+    {
      "d": "20/10",
      "t": "Couvre-feux reconduits à Lyon et Marseille, restrictions à Paris, Bordeaux, Lille et Nice ; près de 150 incarcérations. Nouvelles manifestations annoncées les 24 et 31/10."
     },
@@ -288,10 +292,6 @@
     {
      "d": "13/10",
      "t": "La motion de rejet du PS contre le budget 2027 est repoussée (236 voix contre 149) grâce au RN ; l'examen des recettes se poursuit jusqu'au 19/10. Le 49.3 reste possible, LFI promet alors la censure, Marine Le Pen dit préférer un budget « imparfait » adopté."
-    },
-    {
-     "d": "10/10",
-     "t": "La commission des finances rejette la partie recettes du budget 2027 (31 voix contre 3). La séance du 13/10 repartira du texte du gouvernement ; LFI promet la censure en cas de 49.3 et le RN refuse les hausses d'impôts."
     }
    ],
    "id": "france",

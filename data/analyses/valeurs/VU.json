@@ -149,6 +149,10 @@
  "faits": [
   {
    "d": "21/10",
+   "t": "Forte hausse en séance (pic vers 139,8 €, +15,6 %), puis prises de bénéfices. Notre flux de cours affiche 125,6 € à la clôture (+3,9 %), alors que la presse parle d'une forte hausse en fin de journée : clôture exacte à confirmer demain."
+  },
+  {
+   "d": "21/10",
    "t": "Le titre bondit d'environ 14 à 15 % en matinée, vers 138 à 139 €, meilleure performance du SBF 120."
   },
   {
@@ -158,10 +162,6 @@
   {
    "d": "20/10",
    "t": "Sur 9 mois : CA ajusté 1 284 M€ (+28 %), VAS récurrents 100 M€ (+77 %). Objectif d'environ 1 Md€ de commandes au S2 maintenu ; Walmart Canada ajouté pour 2027."
-  },
-  {
-   "d": "30/09",
-   "t": "Matinée de présentation de ses solutions dans son centre d'innovation de Nanterre prévue le 23/10."
   }
  ],
  "histo": [
@@ -1207,7 +1207,7 @@
   ]
  ],
  "nom": "Vusion",
- "notes": "Clôture du 28/09 à 123,70 (Boursorama, 17h35). ABC Bourse (25/09) : le titre a cassé 128 € et vise le support de 114 €. CA T3 le 20/10.",
+ "notes": "Clôture du 28/09 à 123,70 (Boursorama, 17h35). ABC Bourse (25/09) : le titre a cassé 128 € et vise le support de 114 €. CA T3 le 20/10. 21/10 : écart entre le flux Yahoo (125,6 €) et la presse sur la clôture, à vérifier au passage suivant.",
  "pays": "FR",
  "per26": 15.3,
  "per27": 12.5,
