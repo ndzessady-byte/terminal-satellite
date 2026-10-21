@@ -3,8 +3,8 @@
  "nom": "Globus Medical",
  "pays": "US",
  "secteur": "Santé : implants rachidiens et robotique chirurgicale",
- "cours": 78.96,
- "coursLe": "2026-10-20",
+ "cours": 78.695,
+ "coursLe": "2026-10-21",
  "devise": "USD",
  "capi": "environ 10,0 Md$ (134,3 millions d'actions)",
  "per26": 14.9,
@@ -37,10 +37,6 @@
  "yahoo": "GMED",
  "compte": "CTO",
  "histo": [
-  [
-   "08/10",
-   60.42
-  ],
   [
    "09/10",
    59.61
@@ -1076,12 +1072,16 @@
   [
    "20/10",
    78.96
+  ],
+  [
+   "21/10",
+   78.69
   ]
  ],
  "perf": {
-  "m1": 6.3,
-  "m3": 4.6,
-  "m12": 28.2
+  "m1": 4.7,
+  "m3": 4.3,
+  "m12": 25.5
  },
  "analyse": {
   "majLe": "2026-10-01",
@@ -1100,18 +1100,18 @@
    "greenblatt": "Rendement bénéficiaire (résultat opérationnel comptable 2025 de 479,8 M$ sur une valeur d'entreprise d'environ 9,2 Md$) proche de 5 % : moyen, car le résultat comptable est réduit par l'amortissement des actifs de NuVasive. Rendement du capital non calculé."
   },
   "tech": {
-   "cours": 78.96,
-   "coursLe": "2026-10-20",
-   "mm50": 78.45,
-   "mm200": 83.95,
-   "rsi14": 57.9,
+   "cours": 78.695,
+   "coursLe": "2026-10-21",
+   "mm50": 78.32,
+   "mm200": 83.89,
+   "rsi14": 56.9,
    "haut52": 96.82,
    "bas52": 60.39,
    "support": 73.5,
    "resistance": 80,
    "tendance": "neutre",
    "stade": 1,
-   "lecture": "Cours de 78,96 au-dessus de sa moyenne 50 jours (78,45) et en dessous de sa moyenne 200 jours (83,95). RSI 57,9 : élan neutre. Il se situe à 51 % de sa fourchette sur un an (de 60,39 à 96,82), performance sur 12 mois de 28,2 %. Clôture du 20/10/2026.",
+   "lecture": "Cours de 78,69 au-dessus de sa moyenne 50 jours (78,32) et en dessous de sa moyenne 200 jours (83,89). RSI 56,9 : élan neutre. Il se situe à 50 % de sa fourchette sur un an (de 60,39 à 96,82), performance sur 12 mois de 25,5 %. Clôture du 21/10/2026.",
    "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json"
   },
   "actu": [

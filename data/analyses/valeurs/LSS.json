@@ -106,18 +106,18 @@
   ],
   "tech": {
    "bas52": 15.2,
-   "cours": 21.2,
-   "coursLe": "2026-10-20",
+   "cours": 22.15,
+   "coursLe": "2026-10-21",
    "haut52": 25.5,
-   "lecture": "Cours de 21,20 en dessous de sa moyenne 50 jours (21,60) et au-dessus de sa moyenne 200 jours (19,25). RSI 52,8 : élan neutre. Il se situe à 58 % de sa fourchette sur un an (de 15,20 à 25,50), performance sur 12 mois de -8,6 %. Clôture du 20/10/2026.",
-   "mm200": 19.25,
-   "mm50": 21.6,
+   "lecture": "Cours de 22,15 au-dessus de sa moyenne 50 jours (21,57) et au-dessus de sa moyenne 200 jours (19,24). RSI 63,1 : élan neutre. Il se situe à 67 % de sa fourchette sur un an (de 15,20 à 25,50), performance sur 12 mois de -4,9 %. Clôture du 21/10/2026.",
+   "mm200": 19.24,
+   "mm50": 21.57,
    "resistance": 23.4,
-   "rsi14": 52.8,
+   "rsi14": 63.1,
    "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json",
-   "stade": 3,
+   "stade": 2,
    "support": 20.5,
-   "tendance": "neutre"
+   "tendance": "haussiere"
   },
   "verdict": "Lectra transforme son modèle vers le logiciel par abonnement (79 % de revenus récurrents, SaaS +14 %) et procède à des rachats d'actions, mais sa rentabilité reste faible et la croissance totale est négative sur le semestre. À environ 30 fois les bénéfices 2026, le cours intègre déjà une bonne partie du redressement promis.",
   "zones": {
@@ -136,8 +136,8 @@
   }
  },
  "capi": "903 M€",
- "cours": 21.2,
- "coursLe": "2026-10-20",
+ "cours": 22.15,
+ "coursLe": "2026-10-21",
  "devise": "€",
  "faits": [
   {
@@ -158,10 +158,6 @@
   }
  ],
  "histo": [
-  [
-   "14/10",
-   23.35
-  ],
   [
    "15/10",
    23.4
@@ -1197,6 +1193,10 @@
   [
    "20/10",
    21.2
+  ],
+  [
+   "21/10",
+   22.15
   ]
  ],
  "nom": "Lectra",
@@ -1205,9 +1205,9 @@
  "per26": 30.4,
  "per27": 23.4,
  "perf": {
-  "m1": 0.7,
-  "m3": 21.3,
-  "m12": -8.6
+  "m1": 5.2,
+  "m3": 20.4,
+  "m12": -4.9
  },
  "pub": "2026-10-28",
  "pubLabel": "CA du T3",
