@@ -1,6 +1,6 @@
 {
- "lecture": "La crise française passe par les taux : l'écart avec l'Allemagne atteint un record depuis 2011, l'OAT a touché 5 % et le budget n'avance pas avant le 27/10, avec Moody's vendredi. L'énergie reste chère (gaz au-dessus de 90 €, Brent vers 108 à 111 $), ce qui pèse sur l'industrie européenne cet hiver. La seule vraie détente vient de l'Ukraine, où Washington multiplie les rencontres, sans rien de signé.",
- "majLe": "2026-10-21",
+ "lecture": "La crise française reste le premier sujet : l'OAT bat un record depuis 24 ans et l'écart avec l'Allemagne se creuse encore à la veille de Moody's, une dégradation est donc en bonne partie attendue. Le pétrole remonte au-dessus de 110 $ avec les attaques à Ormuz, ce qui nourrit l'inflation et les taux. L'Ukraine reste la seule piste de détente, avec des pourparlers prévus après le 10/11.",
+ "majLe": "2026-10-22",
  "matieres": {
   "ALU": {
    "moteurs": "L'aluminium reste haut (environ 3 260 $/t, +22 % sur un an) car la production du Golfe s'est effondrée avec la guerre, mais le dollar fort et les exportations chinoises le plafonnent.",
@@ -69,6 +69,10 @@
   {
    "faits": [
     {
+     "d": "22/10",
+     "t": "Les Gardiens de la révolution affirment avoir touché sept navires ; un pétrolier koweïtien frappé près du détroit. Le Brent repasse au-dessus de 110 $ (une seule source pour le chiffre)."
+    },
+    {
      "d": "21/10",
      "t": "Araghchi confirme des contacts indirects avec Washington par le Pakistan et le Qatar ; son plan prévoit une réouverture du détroit au sixième jour si les conditions sont respectées. Les Houthis revendiquent des frappes sur des sites saoudiens. Brent vers 108,5 $ le 20/10."
     },
@@ -87,10 +91,6 @@
     {
      "d": "11/10",
      "t": "Les attaques de navires s'intensifient : un superpétrolier aurait touché une mine le 10/10 (revendication des Gardiens de la révolution), un projectile touche un pétrolier sortant du détroit le 11/10 et l'armée américaine immobilise un cargo dans le golfe d'Oman. Téhéran ne cède rien, aucune percée attendue avant le 3/11. Brent vers 105,6 $ lundi midi."
-    },
-    {
-     "d": "09/10",
-     "t": "Trump assure que les États-Unis n'attaqueront pas l'Iran avant les élections du 3 novembre ; l'Iran étudie la réponse américaine sur la réouverture d'Ormuz. Un pétrolier a pourtant été touché au large du Qatar le 07/10. Brent vers 103 $."
     }
    ],
    "id": "ormuz",
@@ -120,6 +120,7 @@
    "region": "Moyen-Orient / Golfe",
    "resume": "La guerre avec l'Iran, commencée fin février 2026, bloque toujours le détroit d'Ormuz par où passait environ un cinquième du pétrole mondial, et les États-Unis maintiennent un blocus des ports iraniens. Fin septembre, Trump a rejeté le plan iranien de réouverture et un vraquier a encore été touché près d'Oman. Le Brent est repassé au-dessus de 100 $ et c'est le premier moteur de l'inflation et des taux en ce moment.",
    "sources": [
+    "https://straits.live/briefs/2026-10-22",
     "https://www.samaa.tv/2087358840-iran-us-talks-continue-through-pakistan-qatar-araghchi",
     "https://www.abcbourse.com/marches/le-cac-40-attendu-en-baisse-ce-lundi-les-violences-en-france-ravivent-les-crain_704391",
     "https://seatrade-maritime.com/security/ukmto-issues-four-hormuz-attack-reports-iran-claims-adnoc-tanker-strike",
@@ -181,6 +182,10 @@
   {
    "faits": [
     {
+     "d": "22/10",
+     "t": "L'OAT 10 ans monte encore vers 5,1 % ce matin, plus haut depuis 24 ans ; l'écart avec le Bund atteindrait 169 pb (une seule source), à la veille de Moody's."
+    },
+    {
      "d": "21/10",
      "t": "L'OAT 10 ans passe au-dessus de 5 % en clôture, une première depuis 2002 (AFP ; chiffre exact de la Banque de France pas encore publié)."
     },
@@ -199,10 +204,6 @@
     {
      "d": "16/10",
      "t": "L'OAT 10 ans finit la semaine à 4,79 % (4,86 % le 12/10), le Bund à 3,42 % : écart resserré à 137 pb (données Banque de France et Bundesbank)."
-    },
-    {
-     "d": "12/10",
-     "t": "L'OAT 10 ans reste quasi stable lundi, toujours près de ses plus hauts depuis 2008, en attendant l'ouverture des débats budgétaires."
     }
    ],
    "id": "taux",
@@ -224,6 +225,7 @@
    "region": "Zone euro / États-Unis",
    "resume": "Le choc pétrolier relance l'inflation, et les deux grandes banques centrales ont remonté leurs taux en septembre au lieu de les baisser. Les marchés anticipent encore des hausses. C'est un vent contraire pour les petites et moyennes valeurs, pour l'immobilier et pour l'or.",
    "sources": [
+    "https://www.boursorama.com/bourse/actualites/taux-france-le-rendement-de-l-oat-a-dix-ans-grimpe-a-5-14-actualise-784f4f19fe052c6a20a06ce358d9c9c3",
     "https://www.boursorama.com/bourse/actualites/l-oat-franchit-5-la-france-paie-le-prix-de-l-instabilite-politique-ec667f7ba1e1a83d49cdb2271378bbd3",
     "https://www.abcbourse.com/marches/le-taux-de-l-oat-a-dix-ans-remonte-a-4-85-apres-les-emeutes-en-france_704409",
     "https://www.ideal-investisseur.fr/marches/macro/spread-oat-bund.html",
@@ -270,6 +272,10 @@
   {
    "faits": [
     {
+     "d": "22/10",
+     "t": "Lecornu reçoit les partis à Matignon sur l'ordre public ; Moody's rend sa décision sur la note de la France vendredi 23/10."
+    },
+    {
      "d": "21/10",
      "t": "Lecornu reçoit les syndicats, qui sortent déçus ; couvre-feux à Marseille et Toulouse, 557 gardes à vue à Paris. Carrefour chute de 13,8 % (magasins pillés, prévisions abaissées)."
     },
@@ -288,10 +294,6 @@
     {
      "d": "18/10",
      "t": "Les manifestations contre la vie chère tournent à l'émeute samedi et dimanche à Paris, Lyon et Marseille (pillages, dégradations). Lundi, Macron refuse la démission du ministre de l'Intérieur et Lecornu préside une cellule de crise ; Amélie de Montchalin prévient que la charge de la dette atteindra 90 Md€ en 2027."
-    },
-    {
-     "d": "13/10",
-     "t": "La motion de rejet du PS contre le budget 2027 est repoussée (236 voix contre 149) grâce au RN ; l'examen des recettes se poursuit jusqu'au 19/10. Le 49.3 reste possible, LFI promet alors la censure, Marine Le Pen dit préférer un budget « imparfait » adopté."
     }
    ],
    "id": "france",
@@ -305,6 +307,7 @@
    "region": "France",
    "resume": "Le gouvernement Lecornu présente un budget 2027 avec 54 Md€ d'effort pour ramener le déficit vers 4,8 à 5 % du PIB, mais la gauche promet la censure et le RN reste l'arbitre. L'écart de taux avec l'Allemagne est élevé mais s'est un peu détendu en fin de semaine dernière. C'est le risque principal pour les valeurs très françaises de ta liste.",
    "sources": [
+    "https://www.lejdd.fr/politique/sebastien-lecornu-reunit-les-partis-cloture-du-vote-des-adherents-rn-les-4-infos-dont-vous-allez-entendre-parler-demain-186636",
     "https://www.lematin.ch/story/emeutes-en-france-mesures-policieres-et-aide-aux-victimes-voici-ce-que-l-on-sait-103652715",
     "https://www.abcbourse.com/marches/l-europe-attendue-en-baisse-la-situation-en-france-scrutee-apres-les-emeutes_704394",
     "https://lcp.fr/actualites/la-motion-de-rejet-des-socialistes-n-ayant-pas-ete-adoptee-l-examen-du-budget-pour-2027",
@@ -433,6 +436,10 @@
    "faits": [
     {
      "d": "21/10",
+     "t": "Après trois heures avec Witkoff, Moscou se dit prêt à reprendre des pourparlers à trois après le 10/11, sans reculer sur ses exigences."
+    },
+    {
+     "d": "21/10",
      "t": "Witkoff rencontre Zelensky à Oslo puis Poutine à Saint-Pétersbourg ; Poutine propose de rencontrer Trump en Chine. Les frappes continuent des deux côtés."
     },
     {
@@ -450,10 +457,6 @@
     {
      "d": "début 09",
      "t": "Les émissaires Kushner et Witkoff se rendent à Moscou et Kyiv ; Zelensky rejette le projet d'accord."
-    },
-    {
-     "d": "21/09",
-     "t": "Blé Euronext décembre à 243,75 €/t (+0,9 %) ; les exportations maritimes russes et ukrainiennes par la mer Noire sont quasi suspendues après de fortes attaques de drones."
     }
    ],
    "id": "russie-ukraine",
@@ -471,6 +474,7 @@
    "region": "Europe de l'Est",
    "resume": "Les pourparlers menés par les États-Unis ont repris début septembre mais Zelensky a rejeté le projet d'accord et Moscou pose des conditions territoriales jugées inacceptables. Les frappes de drones en mer Noire ont quasi stoppé les exportations maritimes de céréales des deux pays. Le blé reste nerveux mais recule quand l'espoir de cessez-le-feu revient.",
    "sources": [
+    "https://abc17news.com/news/national-world/cnn-world/2026/10/22/us-envoy-witkoff-meets-with-putin-in-effort-to-advance-proposals-to-end-war-in-ukraine/",
     "https://www.aljazeera.com/news/2026/10/21/witkoff-in-russia-for-putin-meeting-after-positive-talks-with-zelenskyy",
     "https://www.abcbourse.com/marches/l-europe-attendue-en-baisse-la-situation-en-france-scrutee-apres-les-emeutes_704394",
     "https://www.criticalthreats.org/analysis/russian-offensive-campaign-assessment-october-12-2026",

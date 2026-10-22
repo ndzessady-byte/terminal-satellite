@@ -9,6 +9,13 @@
     "lecture": "Le cycle de réarmement peut durer des années, mais Kitron devient plus dépendant d'un seul moteur politique et budgétaire."
    },
    {
+    "d": "22/10",
+    "fait": "T3 solide (CA +59 %, marge 9,5 %, carnet +41 %), croissance plus large hors défense ; mais CA en baisse par rapport au T2 (295,7 M€), objectif 2026 confirmé sans nouveau relèvement, et flux de trésorerie presque nul à cause des stocks (une seule source). Le titre perd environ 4,5 %.",
+    "impact": "neutre",
+    "horizon": "court",
+    "lecture": "La rentabilité tient et la croissance s'élargit, mais le marché espérait un troisième relèvement de l'objectif."
+   },
+   {
     "d": "29/09",
     "fait": "Kitron lance la construction de sa nouvelle usine d'Örnsköldsvik, prévue en avril pour début 2027. Kitron sera propriétaire du bâtiment, qui double à peu près la surface actuelle. Le projet est porté par la demande défense, notamment de BAE Systems Hägglunds.",
     "impact": "positif",
@@ -21,13 +28,6 @@
     "horizon": "long",
     "impact": "positif",
     "lecture": "Plus de capacité en Europe pour servir la défense, mais aussi plus d'investissements : il faudra que les commandes suivent pour que le rendement du capital reste élevé."
-   },
-   {
-    "d": "24/08",
-    "fait": "Relèvement des objectifs 2026 : CA de 1 050 à 1 150 M€ (contre 900 à 1 050 M€) et EBIT de 97 à 112 M€ (contre 84 à 108 M€), grâce à une meilleure visibilité sur les composants.",
-    "horizon": "court",
-    "impact": "positif",
-    "lecture": "Deuxième hausse des objectifs en 2026 : la direction tient ses promesses, ce qui renforce la crédibilité du plan à 1,5 Md€ de CA."
    }
   ],
   "cadres": [
@@ -90,6 +90,8 @@
    }
   ],
   "sources": [
+   "https://www.globenewswire.com/news-release/2026/10/22/3386014/0/en/kitron-strong-and-broad-based-growth.html",
+   "https://e24.no/boers-og-finans/i/GrA2Wx/komplett-og-yara-faller-kraftig-paa-oslo-boers-etter-tallslipp",
    "https://evertiq.com/news/2026-09-29-kitron-breaks-ground-on-new-factory-in-ornskoldsvik",
    "https://www.globenewswire.com/news-release/2026/04/24/3280572/0/en/Kitron-to-expand-Swedish-manufacturing-footprint.html",
    "https://www.zonebourse.com/cours/action/KITRON-ASA-1413186/",
@@ -139,6 +141,14 @@
  "coursLe": "2026-10-21",
  "devise": "NOK",
  "faits": [
+  {
+   "d": "22/10",
+   "t": "T3 : CA 266,8 M€ (+59 %), EBIT 25,2 M€ (+73 %), marge 9,5 % (8,7 %), carnet 843,3 M€ (+41 %). Objectif 2026 inchangé : CA 1 050 à 1 150 M€, EBIT 97 à 112 M€."
+  },
+  {
+   "d": "22/10",
+   "t": "Le titre recule d'environ 4,5 % en début de séance à Oslo."
+  },
   {
    "d": "29/09",
    "t": "Premier coup de pioche de la nouvelle usine d'Örnsköldsvik (Suède), plus tôt que prévu : 7 300 m² et un effectif qui doit passer d'environ 120 à 300 personnes."
@@ -1393,10 +1403,10 @@
     {
      "c": "Que le réarmement européen dure plusieurs années et que Kitron reste un fournisseur clé des industriels de la défense.",
      "etat": "ok",
-     "preuve": "29/09/2026 : début du chantier d'Örnsköldsvik (7 300 m², de 120 à environ 300 salariés à terme), prévu en avril pour début 2027.",
+     "preuve": "T3 2026 : carnet 843,3 M€.",
      "prochain": "Résultats T3 le 22/10/2026",
-     "reponse": "Oui : Kitron avance la construction de son usine suédoise dédiée surtout à la défense, après Longum (Norvège) et Horsens (Danemark).",
-     "source": "https://evertiq.com/news/2026-09-29-kitron-breaks-ground-on-new-factory-in-ornskoldsvik"
+     "reponse": "Oui : hausse exceptionnelle en défense et aéronautique, carnet +41 %.",
+     "source": "https://www.globenewswire.com/news-release/2026/10/22/3386014/0/en/kitron-strong-and-broad-based-growth.html"
     },
     {
      "c": "Que la direction atteigne son objectif 2026 (900 à 1 050 M€ de ventes, marge proche de 10 %) et intègre bien DeltaNordic.",
@@ -1415,7 +1425,7 @@
      "source": "https://www.investing.com/news/company-news/kitron-q2-2026-slides-defence-revenue-triples-margins-top-9-93CH-4785419"
     }
    ],
-   "le": "2026-09-30",
+   "le": "2026-10-22",
    "questions": [
     {
      "etat": "ok",
@@ -1427,11 +1437,11 @@
     },
     {
      "etat": "ok",
-     "preuve": "T2 2026 : EBIT 28,3 M€, marge 9,6 % (8,7 % un an plus tôt) ; objectif 2026 relevé à 97 à 112 M€ d'EBIT pour 1 050 à 1 150 M€ de CA, soit environ 9,2 à 9,7 % (calcul).",
+     "preuve": "T3 2026 : EBIT 25,2 M€.",
      "prochain": "Résultats T3 le 22/10/2026",
      "q": "La marge opérationnelle approche-t-elle vraiment 10 % en 2026, ou la croissance se fait-elle au prix de marges plus faibles ?",
-     "reponse": "La croissance ne se fait pas au prix des marges : la marge atteint 9,6 % au T2. La directrice financière voit 10 % comme le haut d'une fourchette de 9,5 à 10 %.",
-     "source": "https://www.globenewswire.com/news-release/2026/07/10/3325306/0/en/Kitron-Record-Q2-results-and-broad-based-growth.html"
+     "reponse": "La marge reste au-dessus de 9 % (9,5 % au T3), en hausse sur un an, sans atteindre 10 %.",
+     "source": "https://www.globenewswire.com/news-release/2026/10/22/3386014/0/en/kitron-strong-and-broad-based-growth.html"
     },
     {
      "etat": "watch",

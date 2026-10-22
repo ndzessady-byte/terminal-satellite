@@ -3,18 +3,18 @@
   "aVerifier": "Cours lu en seance le 28/09 a 11h29 (cloture du 25/09 non lue). Moyenne 200 jours datee du 14/09. RSI de 60 affiche par Boursorama peu coherent avec la baisse recente, a verifier. Plus haut et plus bas annuels differents selon la place (109,20/55,10 € Xetra, 108,40/55,65 € Tradegate). PEG calcule sur la croissance 2025-2028 (environ 9 %/an) car le BPA est quasi plat apres 2026. Couverture des interets sans objet (tresorerie nette), F-score de Piotroski et multiples des concurrents non trouves. Montant du rachat de Meter-Q non verifie.",
   "actu": [
    {
-    "d": "05/06",
-    "fait": "Le gouvernement allemand oriente l'extension du reseau electrique vers des lignes aeriennes moins couteuses plutot que des cables enterres, metier cle de Vorwerk ; le titre perd plus de 30 % en un mois.",
-    "horizon": "long",
-    "impact": "negatif",
-    "lecture": "C'est le principal risque de la these : si les grands corridors passent en aerien, la croissance des commandes apres les projets en cours ralentit fortement."
+    "d": "21/10",
+    "fait": "Objectif 2026 relevé une deuxième fois après un T3 record ; marges portées par la baisse du coût des matières et la transition énergétique. Le carnet recule d'environ un cinquième sur un an ; Jefferies s'interroge sur la durée de ces bénéfices.",
+    "impact": "positif",
+    "horizon": "court",
+    "lecture": "Les marges restent bien au-dessus de la normale visée par la direction, mais la baisse du carnet renforce la crainte d'un sommet de cycle."
    },
    {
-    "d": "22/07",
-    "fait": "Resultats du premier semestre : EBITDA +70 % a 92,6 M€, ventes +11 %, carnet de commandes d'environ 1 Md€, tresorerie nette de 212 M€ ; objectif d'EBITDA 2026 releve de 160-180 M€ a 180-200 M€.",
-    "horizon": "moyen",
-    "impact": "positif",
-    "lecture": "Montre que les projets deja signes sont tres rentables et donnent de la visibilite sur 2026 et 2027."
+    "d": "24/09",
+    "fait": "Berenberg reste positif avec un objectif de 110 € en citant le plan de relance budgetaire allemand, alors que Jefferies (26/08) reste neutre a 72 € en jugeant l'avenir incertain.",
+    "horizon": "court",
+    "impact": "neutre",
+    "lecture": "Ecart tres large entre analystes : le marche attend des signaux concrets (nouvelles commandes, texte de loi) pour trancher."
    },
    {
     "d": "12/08",
@@ -24,11 +24,11 @@
     "lecture": "Petite acquisition qui peut diversifier l'activite, montant non verifie."
    },
    {
-    "d": "24/09",
-    "fait": "Berenberg reste positif avec un objectif de 110 € en citant le plan de relance budgetaire allemand, alors que Jefferies (26/08) reste neutre a 72 € en jugeant l'avenir incertain.",
-    "horizon": "court",
-    "impact": "neutre",
-    "lecture": "Ecart tres large entre analystes : le marche attend des signaux concrets (nouvelles commandes, texte de loi) pour trancher."
+    "d": "22/07",
+    "fait": "Resultats du premier semestre : EBITDA +70 % a 92,6 M€, ventes +11 %, carnet de commandes d'environ 1 Md€, tresorerie nette de 212 M€ ; objectif d'EBITDA 2026 releve de 160-180 M€ a 180-200 M€.",
+    "horizon": "moyen",
+    "impact": "positif",
+    "lecture": "Montre que les projets deja signes sont tres rentables et donnent de la visibilite sur 2026 et 2027."
    }
   ],
   "cadres": [
@@ -89,6 +89,8 @@
    }
   ],
   "sources": [
+   "https://onvista.de/news/2026/10-21-roundup-friedrich-vorwerk-und-grossaktionaer-mbb-heben-erneut-jahresziele-0-10-26566672",
+   "https://www.finanzen.at/nachrichten/aktien/aktien-im-fokus-friedrich-vorwerk-nach-prognoseerhoehung-stark-mbb-zieht-mit-1036648789",
    "https://www.webdisclosure.com/article/friedrich-vorwerk-group-se-epa-friedrich-vorwerk-reports-70-ebitda-growth-in-h1-2026-raises-full-year-forecast-SFVdRSynTAo",
    "https://www.zonebourse.com/cours/action/FRIEDRICH-VORWERK-GROUP-S-120380247/",
    "https://www.zonebourse.com/cours/action/FRIEDRICH-VORWERK-GROUP-S-120380247/valorisation/",
@@ -137,6 +139,14 @@
  "coursLe": "2026-10-21",
  "devise": "€",
  "faits": [
+  {
+   "d": "21/10",
+   "t": "Deuxième relèvement de l'objectif 2026 : EBITDA 220 à 230 M€ (180 à 200 M€), CA 760 à 790 M€. T3 provisoire record : CA 228,3 M€ (+13 %), résultat opérationnel près de 81 M€ (51,3 M€). Le titre bondit de 8,8 %."
+  },
+  {
+   "d": "21/10",
+   "t": "Carnet après 9 mois d'environ 1,25 Md€, près d'un cinquième de moins qu'un an plus tôt. Chiffres définitifs le 12/11."
+  },
   {
    "d": "25/09",
    "t": "Berenberg maintient Achat, objectif 110 € : la relance allemande l'emporte sur le bruit politique."
@@ -1199,7 +1209,7 @@
   "m12": -29.4
  },
  "pub": "2026-11-12",
- "pubLabel": "Point trimestriel T3",
+ "pubLabel": "Résultats définitifs du T3",
  "risque": "Dépend de grands projets publics dont le calendrier peut glisser ; croissance des bénéfices qui pourrait plafonner après 2026.",
  "secteur": "Infrastructures énergétiques",
  "societe": {
@@ -1408,10 +1418,10 @@
     {
      "c": "Que les marges très élevées de 2025 et 2026 ne sont pas un sommet passager et que la société ne retombera pas dans le creux de 2022-2023.",
      "etat": "watch",
-     "preuve": "Marge EBITDA 23,2 % en 2025 et 27,4 % au S1 2026 ; objectif EBITDA 2026 relevé à 180-200 M€ pour 730-780 M€ de CA.",
+     "preuve": "21/10/2026 : T3 provisoire et objectif relevé.",
      "prochain": "Point trimestriel T3 le 12/11/2026",
-     "reponse": "La direction elle-même juge le niveau actuel exceptionnel et vise une marge d'EBITDA normale de 21 à 22 %, contre 27,4 % au S1 2026. Une baisse vers ce niveau est donc attendue, mais pas un retour au creux de 2023.",
-     "source": "https://www.investing.com/news/transcripts/earnings-call-transcript-friedrich-vorwerk-group-ses-strong-q4-2025-results-93CH-4590105"
+     "reponse": "Les marges montent encore, mais le carnet baisse d'environ un cinquième sur un an.",
+     "source": "https://onvista.de/news/2026/10-21-roundup-friedrich-vorwerk-und-grossaktionaer-mbb-heben-erneut-jahresziele-0-10-26566672"
     },
     {
      "c": "Que la loi sur la priorité aux câbles enterrés ne sera pas vidée de sa substance.",
@@ -1422,7 +1432,7 @@
      "source": "https://www.zfk.de/politik/deutschland/energiegesetze-ticker-deutschland-reiche"
     }
    ],
-   "le": "2026-09-29",
+   "le": "2026-10-22",
    "questions": [
     {
      "etat": "watch",
