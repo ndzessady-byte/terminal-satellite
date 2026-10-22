@@ -1,9 +1,9 @@
 {
  "asOf": "2026-10-22",
  "attention": [
-  "Moody's rend sa décision vendredi 23/10 ; manifestations samedi 24/10.",
-  "Viscofan publie ce soir, Medistim demain matin ; Melexis et Lectra le 28/10.",
-  "En zone d'intérêt : Melexis, Mueller, Nakanishi, Theon, Trigano, Aubay. Thermador juste au-dessus de son seuil de 62 €."
+  "Moody's ce vendredi 23/10 ; manifestations samedi 24/10.",
+  "Entrées en zone d'intérêt : Kitron (85,45 NOK) et Powell (vers 153 $), après de fortes baisses. Thermador encore sous 62 € (61,0 €) : la clôture de vendredi tranchera.",
+  "Medistim publie demain matin ; Viscofan réagira à l'ouverture à son objectif d'EBITDA abaissé."
  ],
  "etf": {
   "nom": "Amundi PEA Monde MSCI World (DCAM)",
@@ -15,24 +15,24 @@
  "macro": [
   {
    "label": "CAC 40",
-   "valeur": "7 921,68",
-   "var": "+1,06 %",
-   "sens": 1,
-   "note": "clôture du 21/10 (AFP et JKN) ; EssilorLuxottica +15,5 %, Carrefour -13,8 %"
+   "valeur": "7 811,26",
+   "var": "-1,39 %",
+   "sens": -1,
+   "note": "clôture du 22/10 ; Hermès -4,9 %, BNP -4,9 %"
   },
   {
    "label": "OAT 10 ans",
-   "valeur": "vers 5 %",
-   "var": "hausse",
+   "valeur": "5,07 à 5,08 %",
+   "var": "+7 pb",
    "sens": -1,
-   "note": "au-dessus de 5 % le 21/10, une première depuis 2002 ; 4,93 % le 20/10 (Banque de France)"
+   "note": "clôture du 22/10, trois sources proches ; plus haut depuis 2002"
   },
   {
    "label": "Écart OAT / Bund",
-   "valeur": "151 à 159 pb",
+   "valeur": "plus de 160 pb",
    "var": "hausse",
    "sens": -1,
-   "note": "151 pb le 20/10 (Banque de France) ; environ 159 pb le 21/10 selon l'AFP, une seule source"
+   "note": "chiffre exact selon les sources (jusqu'à environ 172 pb)"
   },
   {
    "label": "BCE taux de dépôt",
@@ -43,10 +43,10 @@
   },
   {
    "label": "Brent",
-   "valeur": "108,5 $",
-   "var": "-1 %",
+   "valeur": "vers 111 $",
+   "var": "hausse",
    "sens": -1,
-   "note": "clôture du 20/10, deux sources"
+   "note": "au-dessus de 110 $, chiffre de clôture d'une seule source"
   },
   {
    "label": "EUR/USD",
@@ -56,12 +56,12 @@
    "note": "deux sources concordent sur le niveau"
   }
  ],
- "majLe": "2026-10-22T14:00:00+02:00",
+ "majLe": "2026-10-22T21:30:00+02:00",
  "semaine": "5 au 9 octobre 2026",
  "semaineTexte": [
-  "Jeudi 22/10 midi : Paris recule d'environ 1,3 à 1,6 % ; l'OAT 10 ans vers 5,1 %, plus haut depuis 24 ans, la veille de Moody's.",
-  "Aalberts accélère (+13 % en organique au T3) ; Kitron solide mais sans nouveau relèvement (-4,5 % le matin) ; Friedrich Vorwerk relève encore ses objectifs (+8,8 % mercredi).",
-  "Brent au-dessus de 110 $ après de nouvelles attaques revendiquées à Ormuz."
+  "Jeudi 22/10 : CAC 40 -1,39 % à 7 811 pts ; OAT à 5,08 %, plus haut depuis 2002, la veille de Moody's.",
+  "Kitron chute de 10,1 % après un T3 sans relèvement ; Powell perd environ 10 % avec les équipements électriques liés à l'IA ; Viscofan abaisse son objectif d'EBITDA à cause de l'énergie.",
+  "Brent vers 111 $ après de nouvelles attaques à Ormuz ; Hermès déçoit (-4,9 %)."
  ],
  "watchlistValidee": false
 }

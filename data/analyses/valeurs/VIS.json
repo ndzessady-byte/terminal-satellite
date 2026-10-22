@@ -9,6 +9,13 @@
     "lecture": "Ces pressions sont en partie temporaires ; si l'énergie se détend, les marges peuvent remonter vers 23 à 24 % comme l'ont connu 2024 et 2025."
    },
    {
+    "d": "22/10",
+    "fait": "Ventes en hausse et T3 record (335,7 M€), bénéfice net +2,9 % sur 9 mois, mais EBITDA 2026 abaissé une deuxième fois, à 290 à 295 M€ : le coût de l'énergie et des matières dérivées du pétrole n'est compensé qu'en partie par les hausses de prix. Publication après la clôture, le titre n'a pas encore réagi.",
+    "impact": "negatif",
+    "horizon": "court",
+    "lecture": "La marge reste le point faible de la thèse et repousse encore le redressement attendu avec Beat'30. Pour tenir 290 M€, le T4 doit faire au moins 82 M€ d'EBITDA, contre 73 M€ au T3."
+   },
+   {
     "d": "22/09",
     "fait": "Le groupe continue de racheter ses propres actions, avec une déclaration publiée chaque semaine auprès de la CNMV depuis fin juillet.",
     "impact": "neutre",
@@ -21,13 +28,6 @@
     "impact": "neutre",
     "horizon": "court",
     "lecture": "Premier point de contrôle après l'avertissement sur le bas de fourchette d'EBITDA : on verra si les hausses de prix du S2 compensent les coûts et le dollar."
-   },
-   {
-    "d": "29/07",
-    "fait": "Résultats du premier semestre 2026 : CA de 629,8 M€ (+1,8 %, +4,8 % hors devises), EBITDA de 134,5 M€ (-7,4 %), bénéfice net de 71,3 M€ (+2,2 %), dette nette de 283 M€. L'EBITDA a dépassé de 3 % le consensus selon Renta 4.",
-    "horizon": "moyen",
-    "impact": "neutre",
-    "lecture": "Les volumes et les prix tiennent bien, preuve de la solidité du métier, mais les devises et les coûts rognent les marges cette année."
    }
   ],
   "cadres": [
@@ -53,7 +53,7 @@
    "score": 6.5,
    "valo": "PER 15,6 en 2026 et 14,2 en 2027, VE/EBITDA 9,0 en 2026 et 8,4 en 2027 (Zonebourse). Moyenne 2021 à 2025 calculée : PER environ 18 et VE/EBITDA environ 10,3. L'action est donc moins chère que son historique. Dividende 2025 de 3,25 € (2,25 € ordinaire et 1 € exceptionnel), soit environ 6 % au cours actuel, dont environ 4,1 % pour la part ordinaire. Rendement du flux de trésorerie libre attendu de 5,5 % en 2026."
   },
-  "majLe": "2026-09-28",
+  "majLe": "2026-10-22",
   "revisions": "Non trouvé. Dernier avis repéré : JB Capital Achat, objectif 70 € (27/07).",
   "scenarios": [
    {
@@ -90,6 +90,9 @@
    }
   ],
   "sources": [
+   "https://www.bolsamania.com/noticias/resultados-anuncios/viscofan-gana-1117-millones-septiembre-mantiene-objetivos--23908918.html",
+   "https://www.pressdigital.es/articulo/economia/2026-10-22/6062505-viscofan-logra-beneficio-1118-millones-hasta-septiembre-29",
+   "https://www.eleconomista.es/retail-consumo/noticias/14022984/10/26/viscofan-eleva-un-29-su-beneficio-hasta-septiembre-con-ventas-record-de-965-millones.html",
    "https://www.cnmv.es/portal/otra-informacion-relevante/resultado-oir?nif=A-31065501&lang=en",
    "https://www.zonebourse.com/cours/action/VISCOFAN-S-A-75245/",
    "https://www.zonebourse.com/cours/action/VISCOFAN-S-A-75245/finances/",
@@ -140,16 +143,20 @@
  "devise": "€",
  "faits": [
   {
+   "d": "22/10",
+   "t": "9 mois : CA 965,4 M€ (+3,1 %, +4,5 % en comparable), EBITDA 207,7 M€ (-4,9 %), bénéfice net 111,8 M€ (+2,9 %). T3 : CA record de 335,7 M€ (+5,5 %), EBITDA 73,2 M€ (stable)."
+  },
+  {
+   "d": "22/10",
+   "t": "Objectifs 2026 de CA et de bénéfice net maintenus, mais EBITDA 2026 abaissé de 10 à 15 M€, à 290 à 295 M€, à cause du coût de l'énergie lié au Moyen-Orient."
+  },
+  {
+   "d": "22/10",
+   "t": "Acompte sur dividende d'au moins 1,40 € par action le 21/12/2026, en actions ou en espèces au choix."
+  },
+  {
    "d": "22/09",
    "t": "Le programme de rachat d'actions se poursuit, avec une déclaration chaque semaine à la CNMV."
-  },
-  {
-   "d": "21/09",
-   "t": "Viscofan publiera ses résultats du T3 2026 le 22/10 après la clôture."
-  },
-  {
-   "d": "29/07",
-   "t": "S1 : CA 629,8 M€ (+4,8 % en comparable), EBITDA -7,4 % (+3,1 % en comparable), volumes +5,5 %. Bas de fourchette d'EBITDA 2026 jugé plus probable."
   }
  ],
  "histo": [
@@ -1391,34 +1398,34 @@
    "https://krokerequityresearch.substack.com/p/102-viscofan-a-stock-analysis"
   ],
   "suivi": {
-   "bilan": "Sur 6 conditions, 2 tiennent (volumes, demande dans les pays émergents) et 4 sont à surveiller ; le plus fragile est la marge, rognée par le dollar et les coûts, qui retarde le démarrage du plan Beat'30.",
+   "bilan": "Ventes et bénéfice tiennent, mais l'EBITDA 2026 est abaissé une deuxième fois à cause de l'énergie : la question de la marge passe en rouge, thèse sous surveillance.",
    "croire": [
     {
      "c": "Que la consommation mondiale de saucisses et de charcuterie industrielle continue de croître, surtout dans les pays émergents.",
      "etat": "ok",
-     "preuve": "S1 2026, à changes constants : Amérique du Sud +14,7 %, Asie-Pacifique +7,3 %, Amérique du Nord +5,8 % ; volumes de boyaux +5,5 %.",
+     "preuve": "CA 9 mois par zone.",
      "prochain": "Résultats T3 : date non publiée par Viscofan (le T3 2025 était sorti le 23/10/2025)",
-     "reponse": "Les volumes de Viscofan croissent dans toutes les régions, plus vite dans les pays émergents. Ce sont les ventes du groupe, pas une mesure directe de la consommation mondiale, mais le signal va dans le bon sens.",
-     "source": "https://www.marketscreener.com/news/viscofan-s-a-financial-report-january-june-2026-ce7f51d3db88f02d"
+     "reponse": "La demande reste portée par les pays émergents (Amérique du Sud +11,4 %, Asie-Pacifique +7,4 % sur 9 mois), l'Europe stagne.",
+     "source": "https://www.bolsamania.com/noticias/resultados-anuncios/viscofan-gana-1117-millones-septiembre-mantiene-objetivos--23908918.html"
     },
     {
      "c": "Que le plan Beat'30 et ses 600 M€ d'investissements (collagène, santé, alimentation animale) débouchent vraiment sur 1,8 milliard d'euros de ventes en 2030.",
      "etat": "watch",
-     "preuve": "S1 2026 : EBITDA -7,4 % publié ; investissements de 34,5 M€ au S1 pour environ 100 M€ prévus sur l'année ; EBITDA 2026 attendu en bas de fourchette.",
+     "preuve": "EBITDA 9 mois 207,7 M€ (-4,9 %) ; objectif 290 à 295 M€.",
      "prochain": "Résultats T3 : date non publiée par Viscofan (le T3 2025 était sorti le 23/10/2025)",
-     "reponse": "Début hésitant : l'EBITDA recule en 2026 et la direction vise le bas de sa fourchette annuelle, alors que le plan suppose environ 9 % de croissance par an. Les chantiers de capacité (collagène au New Jersey, cellulose au Mexique, usine tchèque en 2028) sont lancés.",
-     "source": "https://www.bolsamania.com/noticias/mercados/hechos-relevantes-viscofan-sa-presentacion-explicativa-resultados-primer-semestre-2026--23150951.html"
+     "reponse": "Départ difficile : EBITDA 2026 encore abaissé et en recul sur 9 mois, alors que les ventes progressent.",
+     "source": "https://www.pressdigital.es/articulo/economia/2026-10-22/6062505-viscofan-logra-beneficio-1118-millones-hasta-septiembre-29"
     },
     {
      "c": "Que Viscofan garde son avance technologique et son pouvoir de prix face aux concurrents chinois et au boyau naturel.",
      "etat": "watch",
-     "preuve": "S1 2026 : hausses de prix appliquées à la clientèle, effet plus fort attendu au S2 ; marge brute 68,0 % (-1,6 point).",
+     "preuve": "EBITDA du T3 stable malgré un CA en hausse de 5,5 %.",
      "prochain": "Résultats T3 : date non publiée par Viscofan (le T3 2025 était sorti le 23/10/2025)",
-     "reponse": "Le boyau en collagène continue de remplacer le boyau naturel chez des clients, et le groupe a passé des hausses de prix. Mais ces hausses ne compensent pas encore les coûts (marge brute en baisse) et aucune donnée récente sur la concurrence chinoise n'a été trouvée.",
-     "source": "https://www.bolsamania.com/noticias/resultados-anuncios/viscofan-gano-713-millones-hasta-julio-22-y-crece-gracias-al-negocio-de-las-envolturas--23145764.html"
+     "reponse": "Les hausses de prix passent mais n'absorbent pas tout le nouveau choc de coûts de l'énergie.",
+     "source": "https://www.bolsamania.com/noticias/resultados-anuncios/viscofan-gana-1117-millones-septiembre-mantiene-objetivos--23908918.html"
     }
    ],
-   "le": "2026-09-29",
+   "le": "2026-10-22",
    "questions": [
     {
      "etat": "ok",
@@ -1429,12 +1436,12 @@
      "source": "https://www.bolsamania.com/noticias/resultados-anuncios/viscofan-gano-713-millones-hasta-julio-22-y-crece-gracias-al-negocio-de-las-envolturas--23145764.html"
     },
     {
-     "etat": "watch",
-     "preuve": "S1 2026 : marge d'EBITDA 21,4 % contre 23,5 % (23,1 % à changes constants) ; EBITDA 134,5 M€ (-7,4 % publié, +3,1 % comparable) ; effet devises de -3,3 points sur le CA ; Amérique du Nord 194,3 M€ (-0,2 % publié, +5,8 % comparable).",
+     "etat": "ko",
+     "preuve": "EBITDA 9 mois 207,7 M€ sur 965,4 M€ de CA ; objectif réduit de 10 à 15 M€.",
      "prochain": "Résultats T3 : date non publiée par Viscofan (le T3 2025 était sorti le 23/10/2025)",
      "q": "Quel est l'impact du dollar et du coût de l'énergie sur la marge, alors qu'environ un tiers des ventes est en Amérique du Nord ?",
-     "reponse": "L'impact est net : la baisse du dollar et la hausse du gaz et des matières premières font reculer la marge d'environ 2 points. Sans les devises, la marge serait restée proche de celle de 2025.",
-     "source": "https://www.marketscreener.com/news/viscofan-s-a-financial-report-january-june-2026-ce7f51d3db88f02d"
+     "reponse": "Le dollar aide désormais, mais l'énergie prend le relais comme frein : marge sur 9 mois vers 21,5 % (calcul) et objectif d'EBITDA abaissé.",
+     "source": "https://www.pressdigital.es/articulo/economia/2026-10-22/6062505-viscofan-logra-beneficio-1118-millones-hasta-septiembre-29"
     },
     {
      "etat": "watch",

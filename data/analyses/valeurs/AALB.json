@@ -89,6 +89,7 @@
    }
   ],
   "sources": [
+   "https://cashcow.nl/beursblik-kbc-securities-verhoogt-koersdoel-aalberts-stevig/",
    "https://www.globenewswire.com/news-release/2026/10/22/3386031/0/en/aalberts-n-v-aalberts-reports-third-quarter-2026-results.html",
    "https://uk.investing.com/news/stock-market-news/aalberts-reports-third-quarter-results-above-expectations-93CH-4924336",
    "https://www.globenewswire.com/news-release/2026/10/06/3375263/0/en/aalberts-reports-the-progress-of-its-share-buyback-programme-28-september-2-october-2026.html",
@@ -143,6 +144,10 @@
  "faits": [
   {
    "d": "22/10",
+   "t": "KBC Securities relève son objectif de 39 à 49 € (Accumuler) ; Degroof Petercam relève aussi le sien."
+  },
+  {
+   "d": "22/10",
    "t": "T3 : CA 823,3 M€, croissance organique +13,0 % (contre +7,1 % au T2), EBITA 113,8 M€ (marge 13,8 %). Perspectives 2026 maintenues : croissance organique et marge en hausse."
   },
   {
@@ -152,10 +157,6 @@
   {
    "d": "06/10",
    "t": "Rachat d'actions : 81 500 actions achetées du 28/09 au 02/10 à 42,92 € en moyenne ; 71,4 M€ réalisés sur 75 M€ au total, fin prévue au plus tard le 09/10."
-  },
-  {
-   "d": "30/09",
-   "t": "ING reste à l'achat et relève son objectif de cours (une seule source, montant non repris)."
   }
  ],
  "histo": [

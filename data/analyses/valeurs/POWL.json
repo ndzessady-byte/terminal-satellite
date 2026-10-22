@@ -14,6 +14,10 @@
  "risque": "Valorisation d'environ 35 fois les bénéfices des 12 derniers mois alors que le BPA ne progresse que d'environ 8 % et a manqué le consensus deux trimestres de suite ; dépendance encore forte au pétrole, au gaz et à la pétrochimie ; risque d'exécution sur les très grosses commandes ; risque de change sur le dollar.",
  "faits": [
   {
+   "d": "22/10",
+   "t": "Recul d'environ 8 à 10 % en séance vers 153 $, sans communiqué : baisse générale des équipements électriques liés à l'IA (GE Vernova -11 %, Vertiv -14 % sur la semaine)."
+  },
+  {
    "d": "15/10",
    "t": "Les valeurs liées aux data centers d'IA reculent avec le choc CoreWeave et une inflation américaine plus forte que prévu."
   },
@@ -24,10 +28,6 @@
   {
    "d": "03/10",
    "t": "Petites ventes d'actions du PDG et d'un vice-président (déclarations SEC)."
-  },
-  {
-   "d": "01/10",
-   "t": "Cantor Fitzgerald confirme sa note neutre et son objectif de 235 $ ; le titre gagne 3,3 % à 190,60 $."
   }
  ],
  "pub": null,
@@ -1116,6 +1116,13 @@
   },
   "actu": [
    {
+    "d": "22/10",
+    "fait": "Forte baisse en séance sans nouvelle propre à Powell, dans une semaine de repli des valeurs d'équipements électriques liées à l'IA, sur fond de doutes sur le financement des data centers.",
+    "impact": "negatif",
+    "horizon": "court",
+    "lecture": "Mouvement de secteur : le titre est très exposé au thème data centers et réseaux, donc aux doutes sur les dépenses d'IA."
+   },
+   {
     "d": "15/10",
     "fait": "La chute des obligations de CoreWeave et un indice des prix américain au-dessus des attentes font plonger les valeurs d'infrastructure pour l'IA ; JP Morgan avait ramené son objectif à 250 $ le 13/10. Aucune annulation de commande annoncée.",
     "impact": "negatif",
@@ -1135,13 +1142,6 @@
     "impact": "neutre",
     "horizon": "moyen",
     "lecture": "Réduit le risque d'exécution, mais confirme que la hausse du chiffre d'affaires sera progressive et non explosive."
-   },
-   {
-    "d": "03/08",
-    "fait": "T3 2026 : CA de 312 M$ (+9 %), BPA de 1,42 $ (+8 %, sous le consensus de 1,49 $) ; commandes record de 934 M$ (+158 %), dont une commande data center de plus de 400 M$, une commande GNL d'environ 60 M$ et une commande pétrochimie et engrais d'environ 75 M$.",
-    "impact": "positif",
-    "horizon": "long",
-    "lecture": "La demande est exceptionnelle et se diversifie vers les data centers ; le marché a pourtant sanctionné le titre (environ -14 %) car le bénéfice ne suit pas encore."
    }
   ],
   "scenarios": [
@@ -1187,6 +1187,7 @@
    "Weinstein (stades)"
   ],
   "sources": [
+   "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-sinks-11-vertiv-134456087.html",
    "https://www.gurufocus.com/news/9121564/powl-maintained-by-jp-morgan-price-target-lowered-to-250",
    "https://www.ad-hoc-news.de/boerse/news/nebenwerte/jpmorgan-cuts-target-for-powell-industries-stock-to-usd-250-00/70333385",
    "https://www.marketbeat.com/stocks/NASDAQ/POWL/news",

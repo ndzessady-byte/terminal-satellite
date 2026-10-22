@@ -10,6 +10,13 @@
    },
    {
     "d": "22/10",
+    "fait": "La baisse se creuse en séance jusqu'à -10,1 % (85,45 NOK) : BPA en ligne sans bonne surprise, trésorerie absorbée par les stocks, tensions d'approvisionnement possibles jusqu'en 2027 et commandes défense irrégulières.",
+    "impact": "negatif",
+    "horizon": "court",
+    "lecture": "Le marché sanctionne l'absence de nouveau relèvement ; croissance et marge du groupe (9,5 %) restent solides, mais la valorisation reposait sur une suite de bonnes surprises."
+   },
+   {
+    "d": "22/10",
     "fait": "T3 solide (CA +59 %, marge 9,5 %, carnet +41 %), croissance plus large hors défense ; mais CA en baisse par rapport au T2 (295,7 M€), objectif 2026 confirmé sans nouveau relèvement, et flux de trésorerie presque nul à cause des stocks (une seule source). Le titre perd environ 4,5 %.",
     "impact": "neutre",
     "horizon": "court",
@@ -21,13 +28,6 @@
     "impact": "positif",
     "horizon": "long",
     "lecture": "Avancer le chantier montre que les commandes défense arrivent plus vite que prévu. Mais c'est une troisième extension en quelques semaines, après Longum et Horsens : les investissements et la dépendance à la défense augmentent."
-   },
-   {
-    "d": "01/09",
-    "fait": "Annonce d'une nouvelle usine à Horsens (Danemark), après l'inauguration du site de Longum près d'Arendal (Norvège) le 25/08.",
-    "horizon": "long",
-    "impact": "positif",
-    "lecture": "Plus de capacité en Europe pour servir la défense, mais aussi plus d'investissements : il faudra que les commandes suivent pour que le rendement du capital reste élevé."
    }
   ],
   "cadres": [
@@ -90,8 +90,8 @@
    }
   ],
   "sources": [
-   "https://www.globenewswire.com/news-release/2026/10/22/3386014/0/en/kitron-strong-and-broad-based-growth.html",
    "https://e24.no/boers-og-finans/i/GrA2Wx/komplett-og-yara-faller-kraftig-paa-oslo-boers-etter-tallslipp",
+   "https://www.globenewswire.com/news-release/2026/10/22/3386014/0/en/kitron-strong-and-broad-based-growth.html",
    "https://evertiq.com/news/2026-09-29-kitron-breaks-ground-on-new-factory-in-ornskoldsvik",
    "https://www.globenewswire.com/news-release/2026/04/24/3280572/0/en/Kitron-to-expand-Swedish-manufacturing-footprint.html",
    "https://www.zonebourse.com/cours/action/KITRON-ASA-1413186/",
@@ -143,6 +143,10 @@
  "faits": [
   {
    "d": "22/10",
+   "t": "Clôture à 85,45 NOK (-10,1 %) après le T3 : pas de relèvement d'objectif, flux de trésorerie opérationnel faible (3,1 M€) à cause des stocks."
+  },
+  {
+   "d": "22/10",
    "t": "T3 : CA 266,8 M€ (+59 %), EBIT 25,2 M€ (+73 %), marge 9,5 % (8,7 %), carnet 843,3 M€ (+41 %). Objectif 2026 inchangé : CA 1 050 à 1 150 M€, EBIT 97 à 112 M€."
   },
   {
@@ -152,10 +156,6 @@
   {
    "d": "29/09",
    "t": "Premier coup de pioche de la nouvelle usine d'Örnsköldsvik (Suède), plus tôt que prévu : 7 300 m² et un effectif qui doit passer d'environ 120 à 300 personnes."
-  },
-  {
-   "d": "15/09",
-   "t": "Petit rachat d'actions pour la rémunération des administrateurs."
   }
  ],
  "histo": [

@@ -145,6 +145,10 @@
  "devise": "€",
  "faits": [
   {
+   "d": "22/10",
+   "t": "Clôture à 61,0 € : troisième clôture sous 62 € en quatre séances. Si la clôture de vendredi 23/10 est encore sous 62 €, le seuil d'invalidation technique sera considéré comme franchi."
+  },
+  {
    "d": "19/10",
    "t": "Clôture à 61,4 €, plus bas sur un an, sous le seuil d'invalidation technique de 62 €."
   },
@@ -155,10 +159,6 @@
   {
    "d": "15/10",
    "t": "CA du T3 : 129,0 M€ (+3,7 %, +0,6 % à périmètre constant). Sur 9 mois : 417,0 M€ (+8,8 %, +4,0 % à périmètre constant). Effet prix -0,2 % (-0,9 % fin juin)."
-  },
-  {
-   "d": "15/10",
-   "t": "La direction voit une demande au mieux stable dans les mois à venir ; acquisitions cherchées en priorité à l'international, politique de dividende maintenue."
   }
  ],
  "histo": [
