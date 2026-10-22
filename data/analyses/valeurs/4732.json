@@ -3,8 +3,8 @@
  "nom": "USS",
  "pays": "JP",
  "secteur": "Enchères de voitures d'occasion",
- "cours": 1802.0,
- "coursLe": "2026-10-20",
+ "cours": 1804.0,
+ "coursLe": "2026-10-21",
  "devise": "JPY",
  "capi": "environ 815 Md¥ (environ 4,6 Md€)",
  "per26": 18.4,
@@ -37,10 +37,6 @@
  "yahoo": "4732.T",
  "compte": "CTO",
  "histo": [
-  [
-   "24/09",
-   1699.5
-  ],
   [
    "25/09",
    1721.5
@@ -1076,12 +1072,16 @@
   [
    "20/10",
    1802.0
+  ],
+  [
+   "21/10",
+   1804.0
   ]
  ],
  "perf": {
   "m1": -5.5,
-  "m3": -9.2,
-  "m12": 6.2
+  "m3": -8.7,
+  "m12": 6.3
  },
  "analyse": {
   "majLe": "2026-10-01",
@@ -1100,18 +1100,18 @@
    "greenblatt": "Rendement bénéficiaire calculé (résultat opérationnel prévu de 61 Md¥ / valeur d'entreprise de 718 Md¥) d'environ 8,5 % et rendement du capital d'environ 31 % (Stockopedia) : profil favorable sur la formule magique."
   },
   "tech": {
-   "cours": 1802.0,
-   "coursLe": "2026-10-20",
-   "mm50": 1910.5,
-   "mm200": 1830.14,
-   "rsi14": 39.5,
+   "cours": 1804.0,
+   "coursLe": "2026-10-21",
+   "mm50": 1907.69,
+   "mm200": 1830.44,
+   "rsi14": 40.0,
    "haut52": 2064.0,
    "bas52": 1643.5,
    "support": 1795,
    "resistance": 1910,
    "tendance": "neutre",
    "stade": 3,
-   "lecture": "Cours de 1 802,00 en dessous de sa moyenne 50 jours (1 910,50) et en dessous de sa moyenne 200 jours (1 830,14). RSI 39,5 : élan neutre. Il se situe à 38 % de sa fourchette sur un an (de 1 643,50 à 2 064,00), performance sur 12 mois de 6,2 %. Clôture du 20/10/2026.",
+   "lecture": "Cours de 1 804,00 en dessous de sa moyenne 50 jours (1 907,69) et en dessous de sa moyenne 200 jours (1 830,44). RSI 40,0 : élan neutre. Il se situe à 38 % de sa fourchette sur un an (de 1 643,50 à 2 064,00), performance sur 12 mois de 6,3 %. Clôture du 21/10/2026.",
    "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json"
   },
   "actu": [

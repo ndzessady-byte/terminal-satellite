@@ -104,14 +104,14 @@
   ],
   "tech": {
    "bas52": 77.15,
-   "cours": 131.1,
-   "coursLe": "2026-10-21",
+   "cours": 129.8,
+   "coursLe": "2026-10-22",
    "haut52": 131.1,
-   "lecture": "Cours de 131,10 au-dessus de sa moyenne 50 jours (121,13) et au-dessus de sa moyenne 200 jours (103,30). RSI 66,3 : élan neutre. Il se situe à 100 % de sa fourchette sur un an (de 77,15 à 131,10), performance sur 12 mois de 8,9 %. Clôture du 21/10/2026.",
-   "mm200": 103.3,
-   "mm50": 121.13,
+   "lecture": "Cours de 129,80 au-dessus de sa moyenne 50 jours (121,36) et au-dessus de sa moyenne 200 jours (103,36). RSI 62,7 : élan neutre. Il se situe à 98 % de sa fourchette sur un an (de 77,15 à 131,10), performance sur 12 mois de 7,0 %. Clôture du 22/10/2026.",
+   "mm200": 103.36,
+   "mm50": 121.36,
    "resistance": 118.6,
-   "rsi14": 66.3,
+   "rsi14": 62.7,
    "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json",
    "stade": 2,
    "support": 114.4,
@@ -134,8 +134,8 @@
   }
  },
  "capi": "4,4 Md€",
- "cours": 131.1,
- "coursLe": "2026-10-21",
+ "cours": 129.8,
+ "coursLe": "2026-10-22",
  "devise": "€",
  "faits": [
   {
@@ -156,10 +156,6 @@
   }
  ],
  "histo": [
-  [
-   "13/10",
-   120.4
-  ],
   [
    "14/10",
    118.3
@@ -1195,6 +1191,10 @@
   [
    "21/10",
    131.1
+  ],
+  [
+   "22/10",
+   129.8
   ]
  ],
  "nom": "Reply",
@@ -1203,9 +1203,9 @@
  "per26": 16.2,
  "per27": 14.8,
  "perf": {
-  "m1": 10.4,
-  "m3": 31.2,
-  "m12": 8.9
+  "m1": 8.2,
+  "m3": 24.0,
+  "m12": 7.0
  },
  "pub": "2026-11-12",
  "pubLabel": "Résultats du T3",
