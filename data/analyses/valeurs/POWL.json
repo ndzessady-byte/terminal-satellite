@@ -3,8 +3,8 @@
  "nom": "Powell Industries",
  "pays": "US",
  "secteur": "Équipements électriques (data centers, énergie)",
- "cours": 152.84,
- "coursLe": "2026-10-22",
+ "cours": 152.725,
+ "coursLe": "2026-10-23",
  "devise": "USD",
  "capi": "environ 6,7 Md$ (environ 5,9 Md€)",
  "per26": null,
@@ -37,10 +37,6 @@
  "yahoo": "POWL",
  "compte": "CTO",
  "histo": [
-  [
-   "10/10",
-   100.35
-  ],
   [
    "13/10",
    105.33
@@ -1075,13 +1071,17 @@
   ],
   [
    "22/10",
-   152.84
+   150.71
+  ],
+  [
+   "23/10",
+   152.72
   ]
  ],
  "perf": {
-  "m1": -20.7,
-  "m3": -34.2,
-  "m12": 37.7
+  "m1": -20.3,
+  "m3": -30.3,
+  "m12": 34.1
  },
  "analyse": {
   "majLe": "2026-10-01",
@@ -1100,18 +1100,18 @@
    "greenblatt": "Rendement bénéficiaire (résultat opérationnel 2025 de 217,9 M$ / valeur d'entreprise d'environ 6,1 Md$) d'environ 3,6 % : profil défavorable sur la formule magique malgré un rendement du capital élevé. Piotroski non calculé (bilan complet non vérifié)."
   },
   "tech": {
-   "cours": 152.84,
-   "coursLe": "2026-10-22",
-   "mm50": 185.39,
-   "mm200": 212.33,
-   "rsi14": 30.4,
+   "cours": 152.725,
+   "coursLe": "2026-10-23",
+   "mm50": 184.32,
+   "mm200": 212.49,
+   "rsi14": 31.5,
    "haut52": 322.05,
    "bas52": 94.02,
    "support": 170.5,
    "resistance": 195.0,
    "tendance": "baissiere",
    "stade": 4,
-   "lecture": "Cours de 152,84 en dessous de sa moyenne 50 jours (185,39) et en dessous de sa moyenne 200 jours (212,33). RSI 30,4 : élan neutre. Il se situe à 26 % de sa fourchette sur un an (de 94,02 à 322,05), performance sur 12 mois de 37,7 %. Clôture du 22/10/2026.",
+   "lecture": "Cours de 152,72 en dessous de sa moyenne 50 jours (184,32) et en dessous de sa moyenne 200 jours (212,49). RSI 31,5 : élan neutre. Il se situe à 26 % de sa fourchette sur un an (de 94,02 à 322,05), performance sur 12 mois de 34,1 %. Clôture du 23/10/2026.",
    "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json"
   },
   "actu": [

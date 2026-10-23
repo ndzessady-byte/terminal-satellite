@@ -3,8 +3,8 @@
  "nom": "Nakanishi (NSK)",
  "pays": "JP",
  "secteur": "Santé : instruments dentaires et chirurgicaux",
- "cours": 1395.0,
- "coursLe": "2026-10-21",
+ "cours": 1393.0,
+ "coursLe": "2026-10-22",
  "devise": "JPY",
  "capi": "environ 246 Md¥ (environ 166 millions d'actions après la division par deux)",
  "per26": 18.2,
@@ -37,10 +37,6 @@
  "yahoo": "7716.T",
  "compte": "CTO",
  "histo": [
-  [
-   "25/09",
-   1015.0
-  ],
   [
    "26/09",
    1026.5
@@ -1076,12 +1072,16 @@
   [
    "21/10",
    1395.0
+  ],
+  [
+   "22/10",
+   1393.0
   ]
  ],
  "perf": {
-  "m1": -8.8,
-  "m3": -8.5,
-  "m12": 31.4
+  "m1": -9.4,
+  "m3": -8.7,
+  "m12": 32.7
  },
  "analyse": {
   "majLe": "2026-10-01",
@@ -1100,18 +1100,18 @@
    "greenblatt": "Rendement bénéficiaire (résultat opérationnel 2026 visé de 18,6 Md¥ sur une valeur d'entreprise d'environ 220 Md¥) proche de 8,5 % : bon niveau. Rendement du capital non calculé."
   },
   "tech": {
-   "cours": 1395.0,
-   "coursLe": "2026-10-21",
-   "mm50": 1524.19,
-   "mm200": 1397.13,
-   "rsi14": 38.9,
+   "cours": 1393.0,
+   "coursLe": "2026-10-22",
+   "mm50": 1520.75,
+   "mm200": 1399.2,
+   "rsi14": 38.7,
    "haut52": 1672.5,
    "bas52": 957.5,
    "support": 1450,
    "resistance": 1550,
    "tendance": "neutre",
    "stade": 3,
-   "lecture": "Cours de 1 395,00 en dessous de sa moyenne 50 jours (1 524,19) et en dessous de sa moyenne 200 jours (1 397,13). RSI 38,9 : élan neutre. Il se situe à 61 % de sa fourchette sur un an (de 957,50 à 1 672,50), performance sur 12 mois de 31,4 %. Clôture du 21/10/2026.",
+   "lecture": "Cours de 1 393,00 en dessous de sa moyenne 50 jours (1 520,75) et en dessous de sa moyenne 200 jours (1 399,20). RSI 38,7 : élan neutre. Il se situe à 61 % de sa fourchette sur un an (de 957,50 à 1 672,50), performance sur 12 mois de 32,7 %. Clôture du 22/10/2026.",
    "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json"
   },
   "actu": [
