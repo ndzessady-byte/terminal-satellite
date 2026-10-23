@@ -3,6 +3,13 @@
   "aVerifier": "Montant du CA S1 2026 contradictoire selon les sources (273,2 M€ ou 287,95 M€), seule la croissance a été retenue. Date de publication du CA du T3 non trouvée dans le calendrier lu. Nom et taille des sociétés acquises qui expliquent la croissance externe non trouvés. ROE calculé à partir des ratios Zonebourse. Couverture des intérêts, PER moyen sur 5 ans complet, comparaison avec les pairs et Piotroski non trouvés.",
   "actu": [
    {
+    "d": "23/10",
+    "fait": "Le titre clôture à 60,6 €, sous 62 € pour la quatrième fois en cinq séances et à son plus bas sur un an. Le seuil d'invalidation fixé dès le départ (« clôture durable sous 62 € ») est franchi, après un T3 décevant à périmètre constant (+0,6 %) et une direction qui attend une demande au mieux stable.",
+    "impact": "negatif",
+    "horizon": "moyen",
+    "lecture": "La règle fixée à l'avance s'applique : la thèse est cassée. Le bilan reste solide et la société n'est pas en danger, mais le scénario de reprise du bâtiment ne se réalise pas et le marché le confirme. Pour revenir, il faudrait une reprise organique visible et un retour durable au-dessus de 63-67 €."
+   },
+   {
     "d": "19/10",
     "fait": "Clôture à 61,4 €, plus bas sur un an et sous le seuil technique de 62 € qui sert d'invalidation (« clôture durable sous 62 € »), dans une séance où Paris perd 1,1 % après les émeutes.",
     "impact": "negatif",
@@ -22,13 +29,6 @@
     "impact": "negatif",
     "horizon": "moyen",
     "lecture": "Le cœur de la thèse, la reprise du bâtiment et de la rénovation, n'est pas au rendez-vous : seule la niche pompes à chaleur et ventilation tient."
-   },
-   {
-    "d": "15/10",
-    "fait": "L'effet prix passe de -0,9 % fin juin à -0,2 % ; les fournisseurs annoncent de fortes hausses et la taxe carbone européenne touchera certains aciers importés.",
-    "impact": "positif",
-    "horizon": "court",
-    "lecture": "La baisse des prix touche à sa fin, mais un effet prix positif viendra de la hausse des coûts plutôt que d'une demande plus forte."
    }
   ],
   "cadres": [
@@ -53,7 +53,7 @@
    "score": 7,
    "valo": "PER 13 fois 2026 et 12,3 fois 2027, VE/EBITDA 7,35 fois 2026, rendement 3,4 %, rendement du cash-flow libre 8,4 % (Zonebourse, cours 70 € le 25/09). Moyenne 2023-2025 de Zonebourse : PER 14,1 à 17 fois et VE/EBITDA 8,6 à 9,4 fois, donc le titre est sous ses multiples récents. Moyenne sur 5 ans complète et comparaison avec les pairs non trouvées. Consensus : 3 analystes, objectif moyen 92,67 € (91 à 94 €)."
   },
-  "majLe": "2026-10-16",
+  "majLe": "2026-10-23",
   "revisions": "Stables : BPA 2026 attendu à 5,46 €, identique il y a 1 et 3 mois (3 analystes, Boursorama, page peut-être datée du 23/09).",
   "scenarios": [
    {
@@ -123,7 +123,7 @@
    "support": 66.76,
    "tendance": "baissiere"
   },
-  "verdict": "Thermador est un distributeur familial rentable, avec une trésorerie nette et une valorisation basse (13 fois les bénéfices 2026, rendement du cash-flow libre vers 8 %), qui a renoué avec la croissance au S1 (résultat opérationnel +17 %). Le cours reste pourtant bloqué dans une zone de 67 à 81 € tant que le marché du bâtiment et les taux ne se détendent pas.",
+  "verdict": "Thèse cassée le 23/10/2026 : clôture durable sous 62 € (seuil d'invalidation) après un T3 sans reprise à périmètre constant. Société saine, mais le scénario de reprise du bâtiment n'est pas au rendez-vous.",
   "zones": {
    "catalyseurs": [
     "Mi-octobre 2026 : CA du T3 (date du 15/10 non confirmée par une source lue).",
@@ -145,8 +145,8 @@
  "devise": "€",
  "faits": [
   {
-   "d": "22/10",
-   "t": "Clôture à 61,0 € : troisième clôture sous 62 € en quatre séances. Si la clôture de vendredi 23/10 est encore sous 62 €, le seuil d'invalidation technique sera considéré comme franchi."
+   "d": "23/10",
+   "t": "Clôture à 60,6 €, quatrième clôture sous 62 € en cinq séances : le seuil d'invalidation technique (clôture durable sous 62 €) est franchi. Thèse cassée."
   },
   {
    "d": "19/10",
@@ -1413,7 +1413,7 @@
    "https://www.zonebourse.com/cours/action/THERMADOR-GROUPE-43328026/societe/"
   ],
   "suivi": {
-   "bilan": "Le T3 déçoit à périmètre constant (+0,6 %) : la rénovation n'a pas redémarré, seules les pompes à chaleur tiennent ; les acquisitions et un effet prix bientôt positif soutiennent la croissance, et le bilan reste très solide. Thèse sous surveillance, pas cassée.",
+   "bilan": "Thèse cassée le 23/10 : le cours reste sous 62 € (seuil d'invalidation) et la reprise de la rénovation ne vient pas. Bilan toujours très solide ; à réexaminer seulement si la croissance à périmètre constant repart nettement.",
    "croire": [
     {
      "c": "Que le bâtiment et la rénovation énergétique en France vont repartir (aides, pompes à chaleur, objectifs de construction) après trois années difficiles.",
@@ -1440,7 +1440,7 @@
      "source": "https://www.webdisclosure.com/press-release/thermador-groupe-epa-thep-thermador-groupe-ca-t3-2026-v3CtcnDZ8n7"
     }
    ],
-   "le": "2026-10-16",
+   "le": "2026-10-23",
    "questions": [
     {
      "etat": "watch",
@@ -1471,7 +1471,7 @@
   "verifieLe": "2026-09-29"
  },
  "src": "https://www.boursorama.com/cours/actualites/1rPTHEP/",
- "statut": "surveiller",
+ "statut": "cassee",
  "these": "Gestion familiale, bilan solide, qualité à prix raisonnable.",
  "ticker": "THEP",
  "yahoo": "THEP.PA",
