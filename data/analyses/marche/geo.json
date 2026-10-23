@@ -1,6 +1,6 @@
 {
- "lecture": "La crise française reste le premier sujet : l'OAT bat un record depuis 24 ans et l'écart avec l'Allemagne se creuse encore à la veille de Moody's, une dégradation est donc en bonne partie attendue. Le pétrole remonte au-dessus de 110 $ avec les attaques à Ormuz, ce qui nourrit l'inflation et les taux. L'Ukraine reste la seule piste de détente, avec des pourparlers prévus après le 10/11.",
- "majLe": "2026-10-22",
+ "lecture": "La guerre s'étend au Golfe avec des frappes houthies en Arabie saoudite, ce qui maintient le Brent au-dessus de 110 $ et le gaz près de ses plus hauts. En France, le marché a déjà anticipé une baisse de note (OAT au-dessus de 5 %, banques en chute), donc un simple passage à A1 ce soir pourrait même soulager un peu. L'Ukraine reste la seule piste de détente, avec des pourparlers mi-novembre.",
+ "majLe": "2026-10-23",
  "matieres": {
   "ALU": {
    "moteurs": "L'aluminium reste haut (environ 3 260 $/t, +22 % sur un an) car la production du Golfe s'est effondrée avec la guerre, mais le dollar fort et les exportations chinoises le plafonnent.",
@@ -70,6 +70,14 @@
    "faits": [
     {
      "d": "22/10",
+     "t": "Escalade en Arabie saoudite : les Houthis frappent l'aéroport de Dammam (2 morts) et Yanbu, Aramco fait évacuer son siège de Dhahran et Washington retire son personnel non essentiel. Les Gardiens revendiquent de nouvelles frappes sur des navires ; Brent vers 112 à 113 $."
+    },
+    {
+     "d": "22/10",
+     "t": "Selon le NYT et ABC, Washington et Israël préparent des frappes possibles sur l'Iran après le 03/11 ; aucune avancée de la médiation du Qatar."
+    },
+    {
+     "d": "22/10",
      "t": "Les Gardiens de la révolution affirment avoir touché sept navires ; un pétrolier koweïtien frappé près du détroit. Le Brent repasse au-dessus de 110 $ (une seule source pour le chiffre)."
     },
     {
@@ -83,14 +91,6 @@
     {
      "d": "15/10",
      "t": "Les frappes de drones iraniens sur les navires se multiplient et le trafic des pétroliers ralentit."
-    },
-    {
-     "d": "13/10",
-     "t": "Selon l'UKMTO, quatre navires attaqués le 11/10 dans le détroit, au moins 18 attaques depuis début octobre. Aucune avancée diplomatique entre Washington et Téhéran."
-    },
-    {
-     "d": "11/10",
-     "t": "Les attaques de navires s'intensifient : un superpétrolier aurait touché une mine le 10/10 (revendication des Gardiens de la révolution), un projectile touche un pétrolier sortant du détroit le 11/10 et l'armée américaine immobilise un cargo dans le golfe d'Oman. Téhéran ne cède rien, aucune percée attendue avant le 3/11. Brent vers 105,6 $ lundi midi."
     }
    ],
    "id": "ormuz",
@@ -183,6 +183,10 @@
    "faits": [
     {
      "d": "22/10",
+     "t": "OAT 10 ans à 5,07-5,08 % en clôture, au-dessus du taux américain à 10 ans ; écart avec le Bund au-dessus de 160 pb. Léger repli vers 5,04 % ce vendredi matin (une seule source)."
+    },
+    {
+     "d": "22/10",
      "t": "L'OAT 10 ans monte encore vers 5,1 % ce matin, plus haut depuis 24 ans ; l'écart avec le Bund atteindrait 169 pb (une seule source), à la veille de Moody's."
     },
     {
@@ -200,10 +204,6 @@
     {
      "d": "19/10",
      "t": "Lundi matin, l'OAT 10 ans remonte vers 4,85 % après les émeutes et l'écart avec le Bund se rouvre vers 142 pb (136 pb vendredi soir). Chiffres d'une seule source, à confirmer."
-    },
-    {
-     "d": "16/10",
-     "t": "L'OAT 10 ans finit la semaine à 4,79 % (4,86 % le 12/10), le Bund à 3,42 % : écart resserré à 137 pb (données Banque de France et Bundesbank)."
     }
    ],
    "id": "taux",
@@ -272,6 +272,10 @@
   {
    "faits": [
     {
+     "d": "23/10",
+     "t": "Moody's rend sa décision ce soir : note actuelle Aa3 avec perspective négative (S&P et Fitch déjà à A+). Une baisse d'un cran à A1 est largement attendue."
+    },
+    {
      "d": "22/10",
      "t": "Lecornu reçoit les partis à Matignon sur l'ordre public ; Moody's rend sa décision sur la note de la France vendredi 23/10."
     },
@@ -290,10 +294,6 @@
     {
      "d": "19/10",
      "t": "Lecornu annonce des couvre-feux localisés, du chômage partiel et un fonds de soutien pour les commerces touchés (au moins 3 000 enseignes visées selon le ministre Serge Papin). Le CAC 40 perd 1,11 %, les banques sont en tête de baisse."
-    },
-    {
-     "d": "18/10",
-     "t": "Les manifestations contre la vie chère tournent à l'émeute samedi et dimanche à Paris, Lyon et Marseille (pillages, dégradations). Lundi, Macron refuse la démission du ministre de l'Intérieur et Lecornu préside une cellule de crise ; Amélie de Montchalin prévient que la charge de la dette atteindra 90 Md€ en 2027."
     }
    ],
    "id": "france",
@@ -435,6 +435,10 @@
   {
    "faits": [
     {
+     "d": "22/10",
+     "t": "Nuit de frappes après la visite de Witkoff (7 morts côté ukrainien) ; le Kremlin accepte en principe des pourparlers à trois mi-novembre, Trump reporte de nouvelles sanctions."
+    },
+    {
      "d": "21/10",
      "t": "Après trois heures avec Witkoff, Moscou se dit prêt à reprendre des pourparlers à trois après le 10/11, sans reculer sur ses exigences."
     },
@@ -453,10 +457,6 @@
     {
      "d": "11/10",
      "t": "Trump annonce un cessez-le-feu énergétique immédiat entre la Russie et l'Ukraine. Kyiv le soutient mais demande des précisions, Moscou ne confirme pas et frappe encore des centrales à Kyiv et Kharkiv le jour même."
-    },
-    {
-     "d": "début 09",
-     "t": "Les émissaires Kushner et Witkoff se rendent à Moscou et Kyiv ; Zelensky rejette le projet d'accord."
     }
    ],
    "id": "russie-ukraine",

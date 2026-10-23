@@ -1,9 +1,9 @@
 {
- "asOf": "2026-10-22",
+ "asOf": "2026-10-23",
  "attention": [
-  "Moody's ce vendredi 23/10 ; manifestations samedi 24/10.",
-  "Entrées en zone d'intérêt : Kitron (85,45 NOK) et Powell (vers 153 $), après de fortes baisses. Thermador encore sous 62 € (61,0 €) : la clôture de vendredi tranchera.",
-  "Medistim publie demain matin ; Viscofan réagira à l'ouverture à son objectif d'EBITDA abaissé."
+  "Moody's ce soir : une baisse à A1 est attendue ; plusieurs crans ou une perspective négative pèseraient sur l'OAT lundi.",
+  "Thermador : la clôture de ce soir dira si le seuil de 62 € est franchi durablement.",
+  "En zone d'intérêt : Kitron, Powell, Mueller, Melexis, Nakanishi, Theon, Trigano, Aubay."
  ],
  "etf": {
   "nom": "Amundi PEA Monde MSCI World (DCAM)",
@@ -56,12 +56,12 @@
    "note": "deux sources concordent sur le niveau"
   }
  ],
- "majLe": "2026-10-22T21:30:00+02:00",
+ "majLe": "2026-10-23T14:00:00+02:00",
  "semaine": "5 au 9 octobre 2026",
  "semaineTexte": [
-  "Jeudi 22/10 : CAC 40 -1,39 % à 7 811 pts ; OAT à 5,08 %, plus haut depuis 2002, la veille de Moody's.",
-  "Kitron chute de 10,1 % après un T3 sans relèvement ; Powell perd environ 10 % avec les équipements électriques liés à l'IA ; Viscofan abaisse son objectif d'EBITDA à cause de l'énergie.",
-  "Brent vers 111 $ après de nouvelles attaques à Ormuz ; Hermès déçoit (-4,9 %)."
+  "Vendredi 23/10 midi : Paris recule légèrement en matinée (une seule source) en attendant Moody's ce soir.",
+  "Medistim bondit d'environ 9 % après un T3 record (ventes +26 %, marge 30 %) et un premier dividende trimestriel.",
+  "Le conflit gagne l'Arabie saoudite (Dammam, Yanbu, évacuation d'Aramco à Dhahran) ; Brent vers 112 à 113 $."
  ],
  "watchlistValidee": false
 }

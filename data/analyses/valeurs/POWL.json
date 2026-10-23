@@ -15,6 +15,10 @@
  "faits": [
   {
    "d": "22/10",
+   "t": "Clôture à 150,71 $, près du plus bas de la séance (149,25 $), sans communiqué."
+  },
+  {
+   "d": "22/10",
    "t": "Recul d'environ 8 à 10 % en séance vers 153 $, sans communiqué : baisse générale des équipements électriques liés à l'IA (GE Vernova -11 %, Vertiv -14 % sur la semaine)."
   },
   {
@@ -24,10 +28,6 @@
   {
    "d": "13/10",
    "t": "JP Morgan garde « surpondérer » mais abaisse son objectif de 300 $ à 250 $."
-  },
-  {
-   "d": "03/10",
-   "t": "Petites ventes d'actions du PDG et d'un vice-président (déclarations SEC)."
   }
  ],
  "pub": null,
@@ -1187,6 +1187,7 @@
    "Weinstein (stades)"
   ],
   "sources": [
+   "https://markets.financialcontent.com/bpas/quote/nq:powl",
    "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-sinks-11-vertiv-134456087.html",
    "https://www.gurufocus.com/news/9121564/powl-maintained-by-jp-morgan-price-target-lowered-to-250",
    "https://www.ad-hoc-news.de/boerse/news/nebenwerte/jpmorgan-cuts-target-for-powell-industries-stock-to-usd-250-00/70333385",

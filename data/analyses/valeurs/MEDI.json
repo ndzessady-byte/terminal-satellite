@@ -14,20 +14,20 @@
  "risque": "Très petite société concentrée sur une seule niche (les pontages) et dépendante du marché américain ; double risque de change (couronne et dollar), droits de douane possibles, valorisation déjà élevée (environ 29 fois le bénéfice 2025).",
  "faits": [
   {
-   "d": "05/10",
-   "t": "L'assemblée extraordinaire autorise à l'unanimité le conseil à verser des dividendes plusieurs fois par an, y compris chaque trimestre, jusqu'à l'assemblée 2027. Aucun montant fixé."
+   "d": "23/10",
+   "t": "T3 record : ventes 210,0 M NOK (+25,9 %, +34,6 % à change constant pour les produits maison) ; Amériques +51,7 % à change constant."
   },
   {
-   "d": "02/10",
-   "t": "Résultats du T3 2026 prévus le 23/10 selon le calendrier de la société ; assemblée extraordinaire le 05/10."
+   "d": "23/10",
+   "t": "T3 : EBIT 63,1 M NOK (+55,7 %), marge 30,1 % (24,3 % un an plus tôt). 9 mois : ventes 613,7 M NOK (+18,6 %), marge 30,2 %."
   },
   {
-   "d": "14/09",
-   "t": "Convocation d'une assemblée générale extraordinaire le 05/10/2026 (ordre du jour non détaillé dans le communiqué)."
+   "d": "23/10",
+   "t": "Premier dividende trimestriel : 2,50 NOK par action, payé le 02/11. Trésorerie 175,6 M NOK, sans dette bancaire."
   },
   {
-   "d": "21/08",
-   "t": "T2 2026 : ventes record de 202,0 M NOK (+19,5 %, +33,6 % à change constant pour les produits maison), résultat opérationnel 65,3 M NOK (+20,6 %), marge de 32,3 %."
+   "d": "23/10",
+   "t": "Le titre gagne environ 8,9 % vers 306 NOK (une seule source), malgré le détachement du dividende."
   }
  ],
  "pub": "2026-10-23",
@@ -1116,32 +1116,32 @@
   },
   "actu": [
    {
+    "d": "23/10",
+    "fait": "T3 record : ventes +25,9 % (+34,6 % à change constant pour les produits maison), Amériques +51,7 % ; EBIT +55,7 %, marge 30,1 %.",
+    "impact": "positif",
+    "horizon": "moyen",
+    "lecture": "La croissance à change constant accélère encore et l'adoption américaine reste le moteur : c'est le cœur de la thèse."
+   },
+   {
+    "d": "23/10",
+    "fait": "Premier dividende trimestriel de 2,50 NOK, payé le 02/11, après l'autorisation votée le 05/10.",
+    "impact": "positif",
+    "horizon": "moyen",
+    "lecture": "La société a les moyens de verser en continu sans freiner sa croissance."
+   },
+   {
+    "d": "23/10",
+    "fait": "Selon le compte rendu de la conférence (une seule source) : recul des procédures de mesure de débit aux États-Unis au T3, compensé par les prix ; droits de douane compensés par les hausses de prix.",
+    "impact": "neutre",
+    "horizon": "moyen",
+    "lecture": "À vérifier dans le rapport complet : si les prix portent plus la croissance que l'adoption, la thèse s'affaiblirait."
+   },
+   {
     "d": "05/10",
     "fait": "Assemblée extraordinaire (62 % du capital représenté) : le conseil pourra verser des dividendes en plusieurs fois, y compris chaque trimestre. Aucun montant voté.",
     "impact": "neutre",
     "horizon": "moyen",
     "lecture": "Cela peut lisser le revenu de l'actionnaire sans rien changer à la thèse de croissance ; à voir aux résultats du 23/10 si le conseil s'en sert."
-   },
-   {
-    "d": "14/09",
-    "fait": "Convocation d'une assemblée générale extraordinaire le 05/10/2026.",
-    "impact": "neutre",
-    "horizon": "court",
-    "lecture": "Objet non détaillé dans le communiqué consulté (changement au conseil, dividende ou rachat d'actions possibles) : à lire après l'assemblée."
-   },
-   {
-    "d": "21/08",
-    "fait": "T2 2026 : ventes record de 202,0 M NOK (+19,5 %, +33,6 % à change constant pour les produits maison) et résultat opérationnel record de 65,3 M NOK (marge 32,3 %).",
-    "impact": "positif",
-    "horizon": "moyen",
-    "lecture": "La croissance à change constant accélère nettement ; la faiblesse du dollar contre la couronne masque une partie de la performance."
-   },
-   {
-    "d": "21/08",
-    "fait": "Amériques +46,3 % à change constant au T2.",
-    "impact": "positif",
-    "horizon": "long",
-    "lecture": "C'est le cœur de la thèse : l'adoption américaine progresse vite, avec encore environ 60 % des pontages non équipés."
    }
   ],
   "scenarios": [
@@ -1187,6 +1187,9 @@
    "Weinstein (stades)"
   ],
   "sources": [
+   "https://www.inderes.dk/releases/medi-financial-report-and-presentation-for-third-quarter-for-medistim-asa",
+   "https://www.inderes.dk/releases/medi-quarterly-dividend-key-information",
+   "https://www.investing.com/news/transcripts/earnings-call-transcript-medistim-posts-strong-q3-2026-growth-shares-jump-89-93CH-4968256",
    "https://financialfilings.com/filings/medistim/declaration-of-voting-results-voting-rights-announcements/2026/66262236/",
    "https://www.medistim.com/investor-relations",
    "https://www.medistim.com/investor-news/results-for-the-second-quarter-first-half-2026",
@@ -1348,23 +1351,23 @@
    "Quel est l'objet de l'assemblée générale extraordinaire du 05/10/2026 ?"
   ],
   "suivi": {
-   "le": "2026-10-01",
+   "le": "2026-10-23",
    "bilan": "3 conditions sur 4 tiennent nettement (adoption américaine, imagerie, position concurrentielle) ; l'essai SmartFlow reste une inconnue.",
    "croire": [
     {
      "c": "Que le contrôle du débit sanguin pendant les pontages devient la norme aux États-Unis, où seulement environ 40 % des opérations l'utilisent contre plus de 80 % en Allemagne et plus de 90 % au Japon.",
      "etat": "ok",
-     "reponse": "Oui : l'adoption américaine accélère fortement.",
-     "preuve": "Procédures vendues aux États-Unis +44,6 % en 2025 (100 221) ; Amériques +46,3 % à change constant au T2 2026.",
-     "source": "https://www.medistim.com/investor-news/results-for-the-second-quarter-first-half-2026",
+     "reponse": "Oui en valeur : Amériques +51,7 % à change constant. Mais un recul des procédures de débit aux États-Unis au T3 est signalé en conférence : à vérifier.",
+     "preuve": "T3 2026 : Amériques +51,7 % à change constant.",
+     "source": "https://www.inderes.dk/releases/medi-financial-report-and-presentation-for-third-quarter-for-medistim-asa",
      "prochain": "Résultats du T3 2026 (fin octobre, date non confirmée)"
     },
     {
      "c": "Que l'imagerie par ultrasons (vendue en plus de la mesure de débit) continue de croître fortement et tire la marge vers le haut.",
      "etat": "ok",
-     "reponse": "Oui : l'imagerie est l'activité la plus dynamique et la marge progresse.",
-     "preuve": "Imagerie +47,4 % en 2025 (183,9 M NOK) ; marge opérationnelle 28,0 % en 2025 puis 32,3 % au T2 2026.",
-     "source": "https://live.euronext.com/sites/default/files/company_press_releases/attachments_oslo/2026/02/27/667094_Q4%202025%20Financial%20Report-Final%2026.02.2026.pdf",
+     "reponse": "Oui : marge EBIT de 30,1 % contre 24,3 % un an plus tôt, l'imagerie est décrite comme le principal moteur.",
+     "preuve": "T3 2026.",
+     "source": "https://www.inderes.dk/releases/medi-financial-report-and-presentation-for-third-quarter-for-medistim-asa",
      "prochain": "Résultats du T3 2026"
     },
     {
@@ -1378,9 +1381,9 @@
     {
      "c": "Que Medistim garde sa position quasi unique face à un seul concurrent direct, sans arrivée d'un grand groupe.",
      "etat": "ok",
-     "reponse": "Oui : aucun nouveau concurrent significatif signalé.",
-     "preuve": "Rapport annuel 2025 : un seul concurrent direct, Medistim détient environ 89 % du marché déjà équipé.",
-     "source": "https://cdn.prod.website-files.com/647f3c507cb92c6f6cdbec2b/69de375d7cafb1274f025458_Annual%20Report%202025-FINAL-final.pdf",
+     "reponse": "Aucun nouveau concurrent signalé.",
+     "preuve": "Conférence du T3 2026.",
+     "source": "https://www.investing.com/news/transcripts/earnings-call-transcript-medistim-posts-strong-q3-2026-growth-shares-jump-89-93CH-4968256",
      "prochain": "Rapport annuel 2026"
     }
    ],
@@ -1396,17 +1399,17 @@
     {
      "q": "Les droits de douane américains vont-ils peser sur la marge, alors que les produits sont fabriqués en Norvège ?",
      "etat": "watch",
-     "reponse": "Pour l'instant la marge monte malgré les droits de douane, selon un résumé de la publication du T2 ; l'effet n'a pas été chiffré dans le communiqué consulté.",
-     "preuve": "Marge opérationnelle de 32,3 % au T2 2026, record.",
-     "source": "https://www.medistim.com/investor-news/results-for-the-second-quarter-first-half-2026",
+     "reponse": "La marge progresse fortement sur un an ; les droits de douane seraient compensés par les hausses de prix (montants non confirmés).",
+     "preuve": "Marge EBIT 30,1 % au T3 2026.",
+     "source": "https://www.inderes.dk/releases/medi-financial-report-and-presentation-for-third-quarter-for-medistim-asa",
      "prochain": "Résultats du T3 2026"
     },
     {
      "q": "Quel est l'objet de l'assemblée générale extraordinaire du 05/10/2026 ?",
-     "etat": "nc",
-     "reponse": "Non connu : le communiqué de convocation ne détaille pas l'ordre du jour.",
-     "preuve": "Convocation publiée le 14/09/2026 pour une assemblée le 05/10/2026.",
-     "source": "https://www.inderes.fi/en/releases/medi-notice-of-extraordinary-general-meeting-in-medistim-asa",
+     "etat": "ok",
+     "reponse": "Réglé : dividendes trimestriels autorisés, premier versement de 2,50 NOK.",
+     "preuve": "Dividende décidé le 22/10.",
+     "source": "https://www.inderes.dk/releases/medi-quarterly-dividend-key-information",
      "prochain": "Procès-verbal de l'assemblée du 05/10/2026"
     }
    ]
