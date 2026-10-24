@@ -182,6 +182,10 @@
   {
    "faits": [
     {
+     "d": "23/10",
+     "t": "Moody's maintient la note de la France à Aa3 avec perspective négative, contre l'avis de la plupart des économistes qui attendaient une baisse à A1. La France reste un cran au-dessus des notes de S&P et Fitch (A+)."
+    },
+    {
      "d": "22/10",
      "t": "OAT 10 ans à 5,07-5,08 % en clôture, au-dessus du taux américain à 10 ans ; écart avec le Bund au-dessus de 160 pb. Léger repli vers 5,04 % ce vendredi matin (une seule source)."
     },
@@ -200,10 +204,6 @@
     {
      "d": "20/10",
      "t": "OAT 4,93 %, Bund 3,42 % : écart de 151 pb (Banque de France et Bundesbank), plus haut de clôture depuis 2011 selon l'AFP. Moody's rend sa décision sur la note de la France le 23/10."
-    },
-    {
-     "d": "19/10",
-     "t": "Lundi matin, l'OAT 10 ans remonte vers 4,85 % après les émeutes et l'écart avec le Bund se rouvre vers 142 pb (136 pb vendredi soir). Chiffres d'une seule source, à confirmer."
     }
    ],
    "id": "taux",
@@ -225,6 +225,8 @@
    "region": "Zone euro / États-Unis",
    "resume": "Le choc pétrolier relance l'inflation, et les deux grandes banques centrales ont remonté leurs taux en septembre au lieu de les baisser. Les marchés anticipent encore des hausses. C'est un vent contraire pour les petites et moyennes valeurs, pour l'immobilier et pour l'or.",
    "sources": [
+    "https://www.cnbc.com/2026/10/23/moodys-holds-steady-on-frances-credit-rating-as-country-grapples-with-turmoil-and-higher-yields.html",
+    "https://www.gurufocus.com/news/9140775/france-avoids-credit-rating-downgrade-amid-economic-turmoil",
     "https://www.boursorama.com/bourse/actualites/taux-france-le-rendement-de-l-oat-a-dix-ans-grimpe-a-5-14-actualise-784f4f19fe052c6a20a06ce358d9c9c3",
     "https://www.boursorama.com/bourse/actualites/l-oat-franchit-5-la-france-paie-le-prix-de-l-instabilite-politique-ec667f7ba1e1a83d49cdb2271378bbd3",
     "https://www.abcbourse.com/marches/le-taux-de-l-oat-a-dix-ans-remonte-a-4-85-apres-les-emeutes-en-france_704409",
@@ -273,6 +275,10 @@
    "faits": [
     {
      "d": "23/10",
+     "t": "Moody's maintient la note de la France à Aa3 avec perspective négative, contre l'avis de la plupart des économistes qui attendaient une baisse à A1. La France reste un cran au-dessus des notes de S&P et Fitch (A+)."
+    },
+    {
+     "d": "23/10",
      "t": "Moody's rend sa décision ce soir : note actuelle Aa3 avec perspective négative (S&P et Fitch déjà à A+). Une baisse d'un cran à A1 est largement attendue."
     },
     {
@@ -290,10 +296,6 @@
     {
      "d": "19/10",
      "t": "Le vote sur les recettes du budget 2027 est reporté : l'Assemblée passe au budget de la Sécu, les recettes reprennent le 27/10 ; date limite le 17/11. 49.3, censure, loi spéciale ou ordonnances restent possibles."
-    },
-    {
-     "d": "19/10",
-     "t": "Lecornu annonce des couvre-feux localisés, du chômage partiel et un fonds de soutien pour les commerces touchés (au moins 3 000 enseignes visées selon le ministre Serge Papin). Le CAC 40 perd 1,11 %, les banques sont en tête de baisse."
     }
    ],
    "id": "france",
@@ -307,6 +309,8 @@
    "region": "France",
    "resume": "Le gouvernement Lecornu présente un budget 2027 avec 54 Md€ d'effort pour ramener le déficit vers 4,8 à 5 % du PIB, mais la gauche promet la censure et le RN reste l'arbitre. L'écart de taux avec l'Allemagne est élevé mais s'est un peu détendu en fin de semaine dernière. C'est le risque principal pour les valeurs très françaises de ta liste.",
    "sources": [
+    "https://www.cnbc.com/2026/10/23/moodys-holds-steady-on-frances-credit-rating-as-country-grapples-with-turmoil-and-higher-yields.html",
+    "https://www.gurufocus.com/news/9140775/france-avoids-credit-rating-downgrade-amid-economic-turmoil",
     "https://www.lejdd.fr/politique/sebastien-lecornu-reunit-les-partis-cloture-du-vote-des-adherents-rn-les-4-infos-dont-vous-allez-entendre-parler-demain-186636",
     "https://www.lematin.ch/story/emeutes-en-france-mesures-policieres-et-aide-aux-victimes-voici-ce-que-l-on-sait-103652715",
     "https://www.abcbourse.com/marches/l-europe-attendue-en-baisse-la-situation-en-france-scrutee-apres-les-emeutes_704394",
