@@ -1,0 +1,420 @@
+{
+ "analyse": {
+  "aVerifier": "PER 2026 et 2027 du consensus non confirmés : 16,5 et 14,3 (ABC Bourse, 23/10) contre 17,7 et 16,2 (Zonebourse, 22/10), d'où per26 et per27 laissés vides. PER moyen sur 10 ans non trouvé (seuls repères : 19,2 en 2022 et plus de 33 en 2024, une seule source). Croissance par zone au T3 (Asie hors Japon -5 %, Japon +6 %, Europe +4 %) lue dans une seule source (Journal du Luxe) ; seul États-Unis +5 % est confirmé par une deuxième source (CNBC cité par Culture Financière) ; le communiqué LVMH ne donne pas de chiffre par zone ni pour la Chine. Plus haut et plus bas sur un an en séance d'ABC Bourse (654,70 et 375,65 €), en clôture 652,10 et 378,55 € selon Culture Financière. MM50, MM200 et RSI à jour non disponibles. Rendement du cash-flow fin 2025 calculé avec le cours de 645 € et environ 493 millions d'actions (estimation). Effet exact des droits de douane américains sur LVMH non publié. Chiffres 2026 de Kering, Richemont et Prada non vérifiés.",
+  "actu": [
+   {
+    "d": "13/10",
+    "fait": "Réaction en Bourse : ouverture en repli d'environ 1,5 % vers 378,70 €, près du plus bas annuel ; baisse de plus de 41 % sur l'année.",
+    "horizon": "court",
+    "impact": "negatif",
+    "lecture": "Le marché attendait mieux de la mode (8,40 Md€ attendus selon Dow Jones, 8,245 Md€ réalisés) : la déception confirme que la reprise du luxe n'est pas encore là."
+   },
+   {
+    "d": "12/10",
+    "fait": "CA du T3 de 18 504 M€, +1 % en organique après +3 % au T2. Mode et Maroquinerie -5 % (après +1 % au T2), Distribution sélective +8 %, Vins et Spiritueux +6 %, Montres et Joaillerie +6 %, Parfums et Cosmétiques +1 %.",
+    "horizon": "moyen",
+    "impact": "negatif",
+    "lecture": "Le cœur des profits recule de nouveau ; les autres divisions compensent en ventes mais sont bien moins rentables. Le T4 et les résultats annuels de fin janvier diront si la marge tient."
+   },
+   {
+    "d": "12/10",
+    "fait": "Par zone au T3 (organique) : Asie hors Japon -5 % (après +4 % au T2), États-Unis +5 %, Japon +6 %, Europe +4 %. Sur 9 mois, l'Asie hors Japon pèse 27 % des ventes et les États-Unis 25 %.",
+    "horizon": "moyen",
+    "impact": "negatif",
+    "lecture": "La Chine redevient le point faible, alors que les États-Unis portent la croissance : l'exposition aux droits de douane américains devient plus importante."
+   },
+   {
+    "d": "27/07",
+    "fait": "S1 2026 : ventes de 38 644 M€ (+2 % organique), résultat opérationnel courant de 8 691 M€ (-4 %), marge de 22,5 %, résultat net part du groupe de 5 697 M€ (stable), cash-flow disponible d'exploitation de 4 100 M€ (+2 %), dette nette de 8 245 M€. Acompte sur dividende de 5,50 € le 3 décembre.",
+    "horizon": "moyen",
+    "impact": "neutre",
+    "lecture": "La marge résiste malgré environ 5 points d'effet de change négatif sur les ventes ; le groupe a montré qu'il sait tenir ses coûts."
+   }
+  ],
+  "cadres": [
+   "Buffett (qualité, marques, rentabilité)",
+   "Fisher (position concurrentielle)",
+   "Graham (bilan)",
+   "Greenblatt (formule magique)",
+   "Théorie de Dow",
+   "Stades de Weinstein"
+  ],
+  "conviction": "moyenne",
+  "fonda": {
+   "bilan": "Dette financière nette de 8 245 M€ au 30/06/2026 (10 176 M€ un an plus tôt) et 6 857 M€ fin 2025, hors dettes locatives, pour 69 694 M€ de capitaux propres et un cash-flow disponible d'exploitation de 11 333 M€ en 2025 : la dette est remboursable en moins d'un an de cash-flow (Graham). Zonebourse, qui inclut les loyers, estime la dette nette 2026 à 23,2 Md€.",
+   "croissance": "Ventes 2025 de 80 807 M€ (-1 % organique), après 84 683 M€ en 2024 et 86 153 M€ en 2023. En 2026 : +1 % organique au T1, +3 % au T2, +1 % au T3 ; 9 mois +2 % organique mais -2 % publié (change -3 points, cessions -1 point). Résultat net part du groupe : 15 174 M€ (2023), 12 550 M€ (2024), 10 878 M€ (2025), 5 697 M€ au S1 2026 (stable). La croissance du bénéfice est quasi nulle depuis trois ans, d'où un PEG non pertinent.",
+   "greenblatt": "Rendement bénéficiaire d'environ 5,7 à 6 % (1/PER 2026) avec une rentabilité des capitaux élevée et une marge de 22 % : bon couple pour un leader mondial, mais la formule magique favorise aujourd'hui le titre surtout parce que les bénéfices ont baissé de 28 % depuis 2023.",
+   "justif": "Qualité exceptionnelle (marques, marges, cash-flow, bilan) et valorisation au plus bas depuis des années, freinées par une croissance en panne dans la mode et une forte exposition à la Chine.",
+   "peg": null,
+   "piotroski": null,
+   "qualite": "Marge opérationnelle courante de 22,5 % au S1 2026 (8 691 M€ pour 38 644 M€ de ventes), 22,0 % en 2025, 23,1 % en 2024 et 26,5 % en 2023 (calcul) : la marge baisse mais reste très élevée pour un groupe de cette taille. La Mode et Maroquinerie dégage 6 195 M€ de résultat opérationnel courant au S1, soit 34 % de marge (calcul). Portefeuille unique de marques (Louis Vuitton, Dior, Tiffany, Bvlgari, Sephora, Moët, Hennessy) et réseau de boutiques mondial (critère Fisher).",
+   "score": 7,
+   "valo": "Cours 383 € le 23/10/2026, capitalisation 188,8 Md€. PER 2026 de 16,5 et 2027 de 14,3 (ABC Bourse) ou 17,7 et 16,2 (Zonebourse, cours de référence 388,6 €) ; PER d'environ 17,5 sur le BPA 2025 publié de 21,85 € (calcul). Historiquement, le PER est descendu à 19,2 en 2022 au plus bas et a dépassé 33 en 2024 (Tout sur mes finances) : le titre est sous le bas de cette fourchette. Moyenne sur 10 ans non trouvée. Rendement du cash-flow libre : 6,0 % sur le cash-flow 2025 de 11 333 M€ (calcul), 5,3 % attendu en 2026 par Zonebourse, contre environ 3,5 % au cours de fin 2025 (645 €, calcul). VE/EBITDA 2026 de 8,95 contre environ 13,9 pour le secteur (Zonebourse). Rendement du dividende d'environ 3,4 % (13 €)."
+  },
+  "majLe": "2026-10-25",
+  "revisions": "En baisse nette : l'objectif moyen des analystes est passé d'environ 646,7 € en mars (Tout sur mes finances) à 424,13 € (ABC Bourse, 23/10). Avant les ventes du T3, BofA a abaissé son objectif de 640 à 520 €, UBS de 645 à 525 € (achat maintenu) ; Goldman Sachs a démarré à l'achat avec 500 € ; RBC est neutre. Le BPA 2026 attendu était de 23,18 € en mars ; les chiffres actuels diffèrent selon les sources (environ 22 à 23,2 €).",
+  "scenarios": [
+   {
+    "bas": 320,
+    "central": 425,
+    "haut": 520,
+    "horizon": "12 mois",
+    "hypotheses": "Central : BPA 2027 vers 23 € et PER qui remonte vers 18 fois, proche de l'objectif moyen des analystes (424 €). Haut : la mode redevient positive, PER vers 21 fois, proche des objectifs de BofA et UBS (520 à 525 €). Bas : nouveau recul de la Chine et de la marge, PER vers 14 fois sur un BPA de 22 €.",
+    "unite": "€"
+   },
+   {
+    "bas": 0,
+    "central": 8,
+    "haut": 13,
+    "horizon": "5 ans",
+    "hypotheses": "Central : BPA +5 %/an, dividende 3,4 %, PER stable à légèrement en hausse : environ 8 %/an. Haut : reprise du luxe avec BPA +8 %/an et PER vers 22 fois. Bas : bénéfices stables et PER bloqué vers 15 fois, seul le dividende rapporte, compensé par une nouvelle baisse du multiple.",
+    "unite": "%/an"
+   }
+  ],
+  "sources": [
+   "https://www.lvmh.com/en/publications/continued-growth-in-the-third-quarter-of-2026",
+   "https://www.lvmh.com/fr/publications/acceleration-de-la-croissance-au-2eme-trimestre---resultats-semestriels-solides",
+   "https://www.lvmh.com/en/publications/solid-performance-in-a-disrupted-global-economic-and-geopolitical-environment",
+   "https://www.lvmh.com/en/publications/lvmh-achieves-a-solid-performance-despite-an-unfavorable-global-economic-environment",
+   "https://www.lvmh.com/en/publications/2023-dividend",
+   "https://www.abcbourse.com/cotation/MCp",
+   "https://www.zonebourse.com/cours/action/LVMH-4669/valorisation/",
+   "https://www.france-epargne.fr/news/lvmh-la-mode-et-la-maroquinerie-reculent-de-5-au-troisieme-trimestre-sous-les-attentes",
+   "https://www.journalduluxe.fr/fr/business/lvmh-chiffres-de-vente-troisieme-trimestre-2026",
+   "https://www.boursedirect.fr/fr/actualites/categorie/chiffre-d-affaires/lvmh-la-croissance-se-poursuit-au-3e-trimestre-boursier-bf0efe402a6932a62fc61ab5b79c4c78d3599b78",
+   "https://culture-financiere.com/action-jour-lvmh-plus-bas-un-an-chine/",
+   "https://quartr.com/events/lvmh-mo-t-hennessy-louis-vuitton-soci-t-europ-enne-mc-q3-2026_3eduNT8W",
+   "https://www.toutsurmesfinances.com/bourse/a/action-lvmh-faut-il-investir",
+   "https://www.lalibre.be/economie/entreprises-startup/2026/04/23/succession-de-bernard-arnault-on-reparlera-de-tout-ca-dans-7-8-ans-lance-le-pdg-de-lvmh-devant-les-actionnaires-YFDMTCD4LVEZXAGX3JPYQKCJ44/",
+   "https://fortune.com/asia/2025/07/04/china-exempts-major-eu-brandy-makers-from-anti-dumping-duty",
+   "https://fashionunited.com/news/business/luxury-sector-faces-challenges-tariffs-declining-sales-and-economic-headwinds/2025073067426",
+   "https://www.luxurytribune.com/hermes-reste-lexception-du-luxe-avec-une-croissance-solide-au-premier-semestre-2026",
+   "https://bourse.fortuneo.fr/actualites/hermes-une-rentabilite-operationnelle-courante-a-41-des-ventes-au-1er-semestre-1380764",
+   "https://www.zonebourse.com/cours/action/LVMH-124598502/agenda/"
+  ],
+  "tech": {
+   "bas52": 375.65,
+   "cours": 383.0,
+   "coursLe": "2026-10-23",
+   "haut52": 654.7,
+   "lecture": "Le titre a perdu plus de 40 % depuis son record de janvier (652,10 € en clôture le 9 janvier) et reste collé à son plus bas sur un an (375,65 € en séance selon ABC Bourse). Le 13/10, il est passé sous ses moyennes 20, 50 et 200 jours avec un RSI vers 32 (Culture Financière). Clôtures récentes : 390,00 (19/10), 386,75 (20/10), 388,60 (21/10), 387,80 (22/10), 383,00 (23/10). Support au plus bas annuel ; résistance vers 390 € (clôture du 19/10). Tendance de fond baissière (stade 4 de Weinstein), sans signe de retournement.",
+   "mm200": null,
+   "mm50": null,
+   "resistance": 390,
+   "rsi14": null,
+   "source": "https://www.abcbourse.com/cotation/MCp",
+   "stade": 4,
+   "support": 375.65,
+   "tendance": "baissiere"
+  },
+  "verdict": "LVMH reste le leader mondial du luxe avec une marge opérationnelle de 22,5 % au S1 2026, une dette faible et un cash-flow solide, mais sa Mode et Maroquinerie est retombée à -5 % en organique au T3 à cause de la Chine. Après une baisse de plus de 40 % depuis janvier, le titre se paie environ 16,5 à 17,7 fois les bénéfices 2026 et offre un rendement du cash-flow libre d'environ 5 à 6 %, contre environ 3,5 % fin 2025. Le cours de 383 € reste au-dessus de la zone d'intérêt (330 à 350 €) et la tendance est baissière : la patience est de mise tant que la mode ne se redresse pas.",
+  "zones": {
+   "catalyseurs": [
+    "01/12/2026 : détachement de l'acompte sur dividende de 5,50 € (versement le 03/12).",
+    "Fin janvier 2027 (date non confirmée) : résultats annuels 2026, marge et dividende.",
+    "Avril 2027 (date non confirmée) : ventes du T1 2027 et premier test du renouveau créatif chez Dior et Celine.",
+    "Évolution de la consommation en Chine et des droits de douane américains."
+   ],
+   "interet": "330 à 350 € : environ 14,5 à 15 fois les bénéfices 2026 attendus (environ 22 à 23 €) et un rendement du cash-flow libre de 6,5 à 7 % (cash-flow 2025 de 11,3 Md€), nettement sous le PER le plus bas de 2022 (19,2) et un rendement du cash-flow environ deux fois supérieur à celui de fin 2025 (environ 3,5 %). Le cours actuel (383 €) est au-dessus de cette zone, d'environ 9 à 16 %.",
+   "invalidation": "Marge opérationnelle courante annuelle 2026 sous 20 %, ou Mode et Maroquinerie en recul organique pendant encore deux trimestres de suite après le T3, ou clôture durable sous 330 € sans explication liée au marché.",
+   "sortie": [
+    "Marge opérationnelle courante sous 20 % sur un exercice complet.",
+    "Mode et Maroquinerie en baisse organique sur toute l'année 2027.",
+    "Dette financière nette au-dessus de 20 Md€ après une grosse acquisition.",
+    "PER au-dessus de 25 fois sans retour de la croissance."
+   ]
+  }
+ },
+ "capi": "188,8 Md€",
+ "compte": "PEA",
+ "cours": 383.0,
+ "coursLe": "2026-10-23",
+ "devise": "€",
+ "faits": [
+  {
+   "d": "13/10",
+   "t": "Le titre ouvre en repli d'environ 1,5 % vers 378,70 € après les ventes du T3, près de son plus bas sur un an ; baisse de plus de 40 % depuis le 1er janvier."
+  },
+  {
+   "d": "12/10",
+   "t": "CA du T3 : 18 504 M€ (+1 % en organique, +1,2 % publié). Sur 9 mois : 57 148 M€ (-2 % publié, +2 % en organique)."
+  },
+  {
+   "d": "12/10",
+   "t": "T3 en organique : Mode et Maroquinerie -5 %, Distribution sélective +8 %, Vins et Spiritueux +6 %, Montres et Joaillerie +6 %, Parfums et Cosmétiques +1 %. La Chine freine, États-Unis, Europe et Japon progressent."
+  },
+  {
+   "d": "27/07",
+   "t": "S1 2026 : résultat opérationnel courant de 8 691 M€ (-4 %), marge de 22,5 %, résultat net part du groupe stable à 5 697 M€, dette financière nette en baisse à 8 245 M€."
+  }
+ ],
+ "histo": [],
+ "nom": "LVMH Moët Hennessy Louis Vuitton",
+ "notes": "Clôture du 23/10/2026 à 383,00 € (ABC Bourse, 17h35). LVMH est une très grande capitalisation (près de 190 Md€), hors du cœur du satellite consacré aux petites et moyennes valeurs, et elle est déjà présente avec un petit poids dans l'ETF Monde de Dylan (Amundi PEA Monde, MSCI World). PER 2026 du consensus entre 16,5 (ABC Bourse) et 17,7 (Zonebourse) selon la source, donc laissé vide.",
+ "pays": "FR",
+ "per26": null,
+ "per27": null,
+ "perf": {},
+ "pub": null,
+ "pubLabel": "Résultats annuels 2026 (fin janvier 2027, date non encore publiée) ; détachement de l'acompte de 5,50 € le 01/12/2026",
+ "risque": "La mode recule à nouveau (-5 % au T3) et la Chine ralentit.",
+ "secteur": "Luxe",
+ "societe": {
+  "aVerifier": "Vérifié le 25/10/2026 sur les communiqués LVMH des résultats 2024 et 2025, du S1 2026 et du T3 2026, et sur la page du dividende 2023. Confirmés par la société : CA, résultat net part du groupe, résultat opérationnel courant (margeOp 2023 et 2025 calculées : 22 802 / 86 153 et 17 755 / 80 807), dette financière nette hors dettes locatives, dividendes de 13 € pour 2023, 2024 et 2025, effectif de plus de 211 000 personnes fin 2025, Bernard Arnault PDG depuis 1989. Restent à confirmer : part de la famille au capital (50,01 %) et en droits de vote (65,94 %), une seule source (La Libre Belgique) ; dates d'entrée en fonction des enfants Arnault ; répartition géographique sur 9 mois (résumé Quartr) ; consensus 2026e de CA, résultat et marge (sources divergentes, laissé vide) ; dividende 2026e de 13 € (ABC Bourse, 12,93 € selon Zonebourse) ; nombre de maisons (environ 75, non vérifié).",
+  "actionnariat": "Contrôlé par la famille Arnault (via Groupe Arnault) : 50,01 % du capital et 65,94 % des droits de vote selon les chiffres cités à l'assemblée générale d'avril 2026. Flottant d'environ 49 % (Zonebourse). Quatre des cinq enfants de Bernard Arnault siègent au conseil ; aucun successeur n'est désigné.",
+  "avantage": "Un portefeuille de marques centenaires impossible à recréer, une taille qui donne un pouvoir unique en publicité, en emplacements et en talents, et un contrôle familial qui pense à long terme. Face à Hermès, plus petit mais plus exclusif (+6 % à change constant et marge opérationnelle de 41 % au S1 2026), LVMH dépend davantage de la clientèle aspirationnelle et de la Chine, plus sensibles à la conjoncture. Ce qui pourrait l'éroder : la lassitude face aux hausses de prix, une Chine durablement faible et les droits de douane.",
+  "chiffres": [
+   {
+    "annee": "2023",
+    "ca": 86153,
+    "detteNette": 10746,
+    "dividende": 13.0,
+    "margeOp": 26.5,
+    "rn": 15174
+   },
+   {
+    "annee": "2024",
+    "ca": 84683,
+    "detteNette": 9228,
+    "dividende": 13.0,
+    "margeOp": 23.1,
+    "rn": 12550
+   },
+   {
+    "annee": "2025",
+    "ca": 80807,
+    "detteNette": 6857,
+    "dividende": 13.0,
+    "margeOp": 22.0,
+    "rn": 10878
+   },
+   {
+    "annee": "2026e",
+    "ca": null,
+    "detteNette": null,
+    "dividende": 13.0,
+    "margeOp": null,
+    "rn": null
+   }
+  ],
+  "clients": "Des millions de clients particuliers aisés dans le monde, des très riches aux clients dits aspirationnels qui s'offrent un produit de luxe de temps en temps ; vente surtout en boutiques propres et en ligne, plus des distributeurs pour les vins, spiritueux et parfums. Aucun client dominant.",
+  "concurrents": [
+   "Hermès",
+   "Kering",
+   "Richemont",
+   "Prada",
+   "Chanel (non coté)"
+  ],
+  "corrections": [],
+  "croire": [
+   "Que la Mode et Maroquinerie (Louis Vuitton, Dior, Celine, environ 46 % des ventes) retrouve une croissance organique positive en 2027 grâce au renouveau créatif (Jonathan Anderson chez Dior, Michael Rider chez Celine).",
+   "Que la marge opérationnelle courante du groupe reste au-dessus d'environ 21 à 22 % malgré la baisse des ventes de mode et un change défavorable.",
+   "Que la demande chinoise se stabilise, l'Asie hors Japon pesant encore 27 % des ventes sur 9 mois 2026.",
+   "Que la famille Arnault garde le contrôle et prépare une succession ordonnée, sans rupture de la stratégie de long terme."
+  ],
+  "devise": "€",
+  "dirigeants": [
+   {
+    "depuis": 1989,
+    "nom": "Bernard Arnault",
+    "role": "Président-directeur général"
+   },
+   {
+    "depuis": null,
+    "nom": "Delphine Arnault",
+    "role": "PDG de Christian Dior, membre du comité exécutif et du conseil"
+   },
+   {
+    "depuis": null,
+    "nom": "Antoine Arnault",
+    "role": "Image et communication du groupe, membre du comité exécutif"
+   },
+   {
+    "depuis": null,
+    "nom": "Alexandre Arnault",
+    "role": "Directeur général de Moët Hennessy"
+   },
+   {
+    "depuis": null,
+    "nom": "Frédéric Arnault",
+    "role": "Directeur général de Loro Piana"
+   }
+  ],
+  "effectifs": 211000,
+  "fondee": 1987,
+  "geo": [
+   {
+    "part": 27,
+    "zone": "Asie hors Japon"
+   },
+   {
+    "part": 25,
+    "zone": "États-Unis"
+   },
+   {
+    "part": 18,
+    "zone": "Europe hors France"
+   },
+   {
+    "part": 14,
+    "zone": "Autres marchés"
+   },
+   {
+    "part": 8,
+    "zone": "France"
+   },
+   {
+    "part": 8,
+    "zone": "Japon"
+   }
+  ],
+  "histoire": [
+   {
+    "annee": 1987,
+    "fait": "Naissance de LVMH par le rapprochement de Moët Hennessy et de Louis Vuitton."
+   },
+   {
+    "annee": 1989,
+    "fait": "Bernard Arnault devient actionnaire majoritaire et PDG du groupe."
+   },
+   {
+    "annee": 2023,
+    "fait": "Année record : 86 153 M€ de ventes et 15 174 M€ de résultat net part du groupe."
+   },
+   {
+    "annee": 2025,
+    "fait": "Ventes de 80 807 M€ (-1 % en organique) et résultat net de 10 878 M€, troisième année de baisse du bénéfice ; dividende maintenu à 13 €."
+   },
+   {
+    "annee": 2026,
+    "fait": "Cession de Marc Jacobs à WHP Global (1er septembre) et de la plupart des activités de DFS ; 9 mois à 57 148 M€ (+2 % en organique) ; l'action perd plus de 40 % depuis janvier."
+   }
+  ],
+  "modele": "LVMH vend des produits de luxe à forte marque, surtout dans ses propres boutiques (Louis Vuitton, Dior) ou via Sephora, ce qui lui permet de fixer ses prix et de contrôler l'image de ses marques. La taille du groupe lui donne un poids unique pour obtenir les meilleurs emplacements, payer la publicité et attirer les créateurs. Résultat : une marge opérationnelle autour de 22 % et plus de 11 Md€ de cash-flow disponible par an.",
+  "questions": [
+   "Le recul de la Mode et Maroquinerie au T3 (-5 % en organique) est-il passager ou le début d'une nouvelle phase de baisse ?",
+   "Quel sera l'effet du change et des droits de douane américains sur la marge du second semestre 2026 et de 2027 ?",
+   "Les Vins et Spiritueux (cognac Hennessy) retrouvent-ils une croissance durable, en Chine comme aux États-Unis ?"
+  ],
+  "resume": "LVMH, basé à Paris, est le premier groupe de luxe au monde avec environ 75 maisons réparties en cinq métiers : mode et maroquinerie, vins et spiritueux, parfums et cosmétiques, montres et joaillerie, et distribution sélective. Concrètement, un sac Louis Vuitton, un parfum Dior, une bague Tiffany, une bouteille de Moët & Chandon ou de cognac Hennessy, et un rouge à lèvres acheté chez Sephora rapportent tous de l'argent à LVMH. La mode et la maroquinerie font près de la moitié des ventes et l'essentiel des profits.",
+  "segments": [
+   {
+    "detail": "Louis Vuitton, Christian Dior, Celine, Loewe, Fendi, Loro Piana : 26 391 M€ sur 9 mois 2026, l'essentiel des profits (marge d'environ 34 % au S1).",
+    "nom": "Mode et Maroquinerie",
+    "part": 46.2
+   },
+   {
+    "detail": "Sephora et Le Bon Marché : 12 476 M€ sur 9 mois, la division la plus dynamique en 2026.",
+    "nom": "Distribution sélective",
+    "part": 21.8
+   },
+   {
+    "detail": "Tiffany, Bvlgari, TAG Heuer, Hublot : 7 725 M€ sur 9 mois, +8 % en organique.",
+    "nom": "Montres et Joaillerie",
+    "part": 13.5
+   },
+   {
+    "detail": "Parfums Christian Dior, Guerlain, Givenchy : 5 922 M€ sur 9 mois, stable en organique.",
+    "nom": "Parfums et Cosmétiques",
+    "part": 10.4
+   },
+   {
+    "detail": "Moët & Chandon, Dom Pérignon, Veuve Clicquot, Hennessy : 4 027 M€ sur 9 mois, +5 % en organique.",
+    "nom": "Vins et Spiritueux",
+    "part": 7.0
+   },
+   {
+    "detail": "Médias, hôtellerie et éliminations.",
+    "nom": "Autres activités",
+    "part": 1.1
+   }
+  ],
+  "siege": "Paris, France",
+  "site": "https://www.lvmh.com",
+  "sources": [
+   "https://www.lvmh.com/en/publications/solid-performance-in-a-disrupted-global-economic-and-geopolitical-environment",
+   "https://www.lvmh.com/en/publications/lvmh-achieves-a-solid-performance-despite-an-unfavorable-global-economic-environment",
+   "https://www.lvmh.com/en/publications/2023-dividend",
+   "https://www.lvmh.com/fr/publications/acceleration-de-la-croissance-au-2eme-trimestre---resultats-semestriels-solides",
+   "https://www.lvmh.com/en/publications/continued-growth-in-the-third-quarter-of-2026",
+   "https://quartr.com/events/lvmh-mo-t-hennessy-louis-vuitton-soci-t-europ-enne-mc-q3-2026_3eduNT8W",
+   "https://www.lvmh.com/en/our-group/governance/bernard-arnault",
+   "https://www.lalibre.be/economie/entreprises-startup/2026/04/23/succession-de-bernard-arnault-on-reparlera-de-tout-ca-dans-7-8-ans-lance-le-pdg-de-lvmh-devant-les-actionnaires-YFDMTCD4LVEZXAGX3JPYQKCJ44/",
+   "https://www.luxurytribune.com/hermes-reste-lexception-du-luxe-avec-une-croissance-solide-au-premier-semestre-2026",
+   "https://bourse.fortuneo.fr/actualites/hermes-une-rentabilite-operationnelle-courante-a-41-des-ventes-au-1er-semestre-1380764",
+   "https://fashionunited.com/news/business/luxury-sector-faces-challenges-tariffs-declining-sales-and-economic-headwinds/2025073067426",
+   "https://fortune.com/asia/2025/07/04/china-exempts-major-eu-brandy-makers-from-anti-dumping-duty"
+  ],
+  "suivi": {
+   "bilan": "La rentabilité et le bilan tiennent (marge de 22,5 % au S1, dette nette de 8,2 Md€), mais la Mode et Maroquinerie retombe à -5 % au T3 avec une Chine en recul : la thèse de reprise n'est pas encore confirmée.",
+   "croire": [
+    {
+     "c": "Que la Mode et Maroquinerie (Louis Vuitton, Dior, Celine, environ 46 % des ventes) retrouve une croissance organique positive en 2027 grâce au renouveau créatif (Jonathan Anderson chez Dior, Michael Rider chez Celine).",
+     "etat": "ko",
+     "preuve": "Communiqué LVMH du 12/10/2026 : Mode et Maroquinerie T3 -5 % organique, 9 mois -2 %.",
+     "prochain": "Résultats annuels 2026 fin janvier 2027 (date non confirmée)",
+     "reponse": "Non pour l'instant : après -2 % au T1 et +1 % au T2, la division retombe à -5 % en organique au T3 (8 245 M€), sous les attentes, à cause de la Chine. Dior (Jonathan Anderson) et Celine (Michael Rider) sont cités comme des succès, mais Louis Vuitton déçoit.",
+     "source": "https://www.lvmh.com/en/publications/continued-growth-in-the-third-quarter-of-2026"
+    },
+    {
+     "c": "Que la marge opérationnelle courante du groupe reste au-dessus d'environ 21 à 22 % malgré la baisse des ventes de mode et un change défavorable.",
+     "etat": "ok",
+     "preuve": "Communiqué semestriel du 27/07/2026 : résultat opérationnel courant 8 691 M€ pour 38 644 M€ de ventes ; résumé Quartr de la conférence du T3.",
+     "prochain": "Résultats annuels 2026 fin janvier 2027 (date non confirmée)",
+     "reponse": "Oui à ce stade : 22,5 % au S1 2026 contre environ 22,6 % au S1 2025, malgré la baisse des ventes publiées de 3 %. La direction prévoit un effet de change d'environ 70 points de base sur la marge du second semestre.",
+     "source": "https://www.lvmh.com/fr/publications/acceleration-de-la-croissance-au-2eme-trimestre---resultats-semestriels-solides"
+    },
+    {
+     "c": "Que la demande chinoise se stabilise, l'Asie hors Japon pesant encore 27 % des ventes sur 9 mois 2026.",
+     "etat": "watch",
+     "preuve": "Communiqué du 12/10/2026 (commentaire qualitatif) ; chiffre par zone selon Journal du Luxe ; répartition 9 mois selon Quartr.",
+     "prochain": "Résultats annuels 2026 fin janvier 2027 (date non confirmée)",
+     "reponse": "Pas encore : l'Asie hors Japon repasse à -5 % au T3 après +4 % au T2, et LVMH évoque un environnement moins porteur en Chine. Seul Hennessy montre une bonne dynamique en Asie.",
+     "source": "https://www.journalduluxe.fr/fr/business/lvmh-chiffres-de-vente-troisieme-trimestre-2026"
+    },
+    {
+     "c": "Que la famille Arnault garde le contrôle et prépare une succession ordonnée, sans rupture de la stratégie de long terme.",
+     "etat": "ok",
+     "preuve": "Assemblée générale du 23/04/2026 (La Libre Belgique).",
+     "prochain": "Assemblée générale 2027 (date non confirmée)",
+     "reponse": "Oui : la famille détient 50,01 % du capital et 65,94 % des droits de vote. Les cinq enfants occupent des postes clés (Delphine à la tête de Dior, Antoine à l'image du groupe, Alexandre chez Moët Hennessy, Frédéric chez Loro Piana, Jean chez Louis Vuitton). Bernard Arnault, 77 ans, ne désigne pas de successeur et renvoie le sujet à « 7-8 ans ».",
+     "source": "https://www.lalibre.be/economie/entreprises-startup/2026/04/23/succession-de-bernard-arnault-on-reparlera-de-tout-ca-dans-7-8-ans-lance-le-pdg-de-lvmh-devant-les-actionnaires-YFDMTCD4LVEZXAGX3JPYQKCJ44/"
+    }
+   ],
+   "le": "2026-10-25",
+   "questions": [
+    {
+     "etat": "watch",
+     "preuve": "Communiqué du 12/10/2026 ; consensus Dow Jones de 8,40 Md€ pour la division contre 8,245 Md€ publiés (France Épargne).",
+     "prochain": "Résultats annuels 2026 fin janvier 2027 (date non confirmée)",
+     "q": "Le recul de la Mode et Maroquinerie au T3 (-5 % en organique) est-il passager ou le début d'une nouvelle phase de baisse ?",
+     "reponse": "Pas de réponse nette : la baisse vient surtout de la Chine, alors que les États-Unis restent porteurs pour la mode. Le T4 et les commentaires de fin janvier seront décisifs.",
+     "source": "https://www.france-epargne.fr/news/lvmh-la-mode-et-la-maroquinerie-reculent-de-5-au-troisieme-trimestre-sous-les-attentes"
+    },
+    {
+     "etat": "watch",
+     "preuve": "Communiqués S1 et T3 2026 ; résumé Quartr ; FashionUnited du 30/07/2025.",
+     "prochain": "Résultats annuels 2026 fin janvier 2027 (date non confirmée)",
+     "q": "Quel sera l'effet du change et des droits de douane américains sur la marge du second semestre 2026 et de 2027 ?",
+     "reponse": "Le change a retiré environ 5 points aux ventes du S1 et 3 points sur 9 mois ; la direction attend environ 70 points de base d'effet négatif sur la marge du S2 et un change moins pénalisant en 2027. Les droits de douane américains (15 % sur la plupart des produits européens depuis l'accord de juillet 2025) ne sont pas chiffrés par LVMH, alors que les États-Unis pèsent 25 % des ventes.",
+     "source": "https://quartr.com/events/lvmh-mo-t-hennessy-louis-vuitton-soci-t-europ-enne-mc-q3-2026_3eduNT8W"
+    },
+    {
+     "etat": "watch",
+     "preuve": "Communiqué du 12/10/2026 ; Fortune du 04/07/2025 ; résumé Quartr.",
+     "prochain": "Résultats annuels 2026 fin janvier 2027 (date non confirmée)",
+     "q": "Les Vins et Spiritueux (cognac Hennessy) retrouvent-ils une croissance durable, en Chine comme aux États-Unis ?",
+     "reponse": "Amélioration : +6 % en organique au T3 et +5 % sur 9 mois, avec un champagne qui se redresse en Europe et Hennessy en progrès en Asie et aux États-Unis (cocktail VS prêt à boire). La Chine applique depuis juillet 2025 des droits antidumping jusqu'à 34,9 % sur le cognac européen, dont Hennessy est exempté grâce à un engagement de prix minimum. Le rebond de la marge de la division est retardé selon la direction.",
+     "source": "https://www.lvmh.com/en/publications/continued-growth-in-the-third-quarter-of-2026"
+    }
+   ]
+  },
+  "verifieLe": "2026-10-25"
+ },
+ "src": "https://www.lvmh.com/en/publications/continued-growth-in-the-third-quarter-of-2026",
+ "statut": "surveiller",
+ "these": "Numéro un mondial du luxe, très rentable, au plus bas depuis plusieurs années.",
+ "ticker": "MC",
+ "yahoo": "MC.PA",
+ "zb": "https://www.zonebourse.com/cours/action/LVMH-4669/"
+}
