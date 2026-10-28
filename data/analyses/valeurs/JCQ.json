@@ -107,18 +107,18 @@
   ],
   "tech": {
    "bas52": 17.2,
-   "cours": 19.92,
-   "coursLe": "2026-10-23",
+   "cours": 20.9,
+   "coursLe": "2026-10-27",
    "haut52": 25.15,
-   "lecture": "Cours de 19,92 en dessous de sa moyenne 50 jours (20,60) et en dessous de sa moyenne 200 jours (21,73). RSI 44,7 : élan neutre. Il se situe à 34 % de sa fourchette sur un an (de 17,20 à 25,15), performance sur 12 mois de 12,8 %. Clôture du 23/10/2026.",
+   "lecture": "Cours de 20,90 au-dessus de sa moyenne 50 jours (20,59) et en dessous de sa moyenne 200 jours (21,73). RSI 57,8 : élan neutre. Il se situe à 47 % de sa fourchette sur un an (de 17,20 à 25,15), performance sur 12 mois de 19,3 %. Clôture du 27/10/2026.",
    "mm200": 21.73,
-   "mm50": 20.6,
+   "mm50": 20.59,
    "resistance": 21.6,
-   "rsi14": 44.7,
+   "rsi14": 57.8,
    "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json",
-   "stade": 4,
+   "stade": 1,
    "support": 19.58,
-   "tendance": "baissiere"
+   "tendance": "neutre"
   },
   "verdict": "Jacquet Metals est un distributeur d'aciers spéciaux dont les bénéfices remontent depuis un point bas en 2025 (résultat net semestriel de 22 M€ contre 6 M€), avec une action qui se paie environ 0,6 fois ses fonds propres, mais sa rentabilité reste faible, son endettement a augmenté et la visibilité est réduite par la faiblesse de l'industrie allemande. C'est un pari cyclique sur une reprise industrielle européenne, soutenu par les nouvelles protections douanières de l'UE, plus qu'une valeur de qualité.",
   "zones": {
@@ -137,8 +137,8 @@
   }
  },
  "capi": "420 M€",
- "cours": 19.92,
- "coursLe": "2026-10-23",
+ "cours": 20.9,
+ "coursLe": "2026-10-27",
  "devise": "€",
  "faits": [
   {
@@ -147,14 +147,6 @@
   }
  ],
  "histo": [
-  [
-   "17/10",
-   17.68
-  ],
-  [
-   "20/10",
-   17.6
-  ],
   [
    "21/10",
    17.5
@@ -1186,6 +1178,14 @@
   [
    "23/10",
    19.92
+  ],
+  [
+   "26/10",
+   20.35
+  ],
+  [
+   "27/10",
+   20.9
   ]
  ],
  "nom": "Jacquet Metals",
@@ -1194,9 +1194,9 @@
  "per26": 15.4,
  "per27": 9.88,
  "perf": {
-  "m1": -6.3,
-  "m3": -8.0,
-  "m12": 12.8
+  "m1": 3.5,
+  "m3": -1.9,
+  "m12": 19.3
  },
  "pub": "2026-11-04",
  "pubLabel": "Résultats du T3",

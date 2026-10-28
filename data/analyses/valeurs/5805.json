@@ -3,8 +3,8 @@
  "nom": "SWCC",
  "pays": "JP",
  "secteur": "Câbles électriques et de communication",
- "cours": 2223.0,
- "coursLe": "2026-10-22",
+ "cours": 2257.0,
+ "coursLe": "2026-10-27",
  "devise": "JPY",
  "capi": "environ 408 Md¥ (environ 2,3 Md€)",
  "per26": 17.4,
@@ -37,18 +37,6 @@
  "yahoo": "5805.T",
  "compte": "CTO",
  "histo": [
-  [
-   "26/09",
-   1596.0
-  ],
-  [
-   "29/09",
-   1584.0
-  ],
-  [
-   "30/09",
-   1554.0
-  ],
   [
    "01/10",
    1514.0
@@ -1076,12 +1064,24 @@
   [
    "22/10",
    2223.0
+  ],
+  [
+   "23/10",
+   2203.0
+  ],
+  [
+   "26/10",
+   2219.0
+  ],
+  [
+   "27/10",
+   2257.0
   ]
  ],
  "perf": {
-  "m1": -14.0,
-  "m3": 6.2,
-  "m12": 39.6
+  "m1": -16.7,
+  "m3": -1.3,
+  "m12": 52.7
  },
  "analyse": {
   "majLe": "2026-10-01",
@@ -1100,18 +1100,18 @@
    "greenblatt": "Rendement bénéficiaire calculé (résultat opérationnel prévu de 33 Md¥ / valeur d'entreprise de 433 Md¥) d'environ 7,6 % et ROIC visé de 13,8 % cette année : profil correct sur la formule magique, sans être exceptionnel."
   },
   "tech": {
-   "cours": 2223.0,
-   "coursLe": "2026-10-22",
-   "mm50": 2727.14,
-   "mm200": 2677.64,
-   "rsi14": 32.5,
+   "cours": 2257.0,
+   "coursLe": "2026-10-27",
+   "mm50": 2699.92,
+   "mm200": 2679.18,
+   "rsi14": 35.4,
    "haut52": 3806.0,
    "bas52": 1412.0,
    "support": 2580,
    "resistance": 2940,
    "tendance": "neutre",
    "stade": 3,
-   "lecture": "Cours de 2 223,00 en dessous de sa moyenne 50 jours (2 727,14) et en dessous de sa moyenne 200 jours (2 677,64). RSI 32,5 : élan neutre. Il se situe à 34 % de sa fourchette sur un an (de 1 412,00 à 3 806,00), performance sur 12 mois de 39,6 %. Clôture du 22/10/2026.",
+   "lecture": "Cours de 2 257,00 en dessous de sa moyenne 50 jours (2 699,92) et en dessous de sa moyenne 200 jours (2 679,18). RSI 35,4 : élan neutre. Il se situe à 35 % de sa fourchette sur un an (de 1 412,00 à 3 806,00), performance sur 12 mois de 52,7 %. Clôture du 27/10/2026.",
    "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json"
   },
   "actu": [

@@ -3,8 +3,8 @@
  "nom": "Globus Medical",
  "pays": "US",
  "secteur": "Santé : implants rachidiens et robotique chirurgicale",
- "cours": 81.41,
- "coursLe": "2026-10-23",
+ "cours": 80.9,
+ "coursLe": "2026-10-27",
  "devise": "USD",
  "capi": "environ 10,0 Md$ (134,3 millions d'actions)",
  "per26": 14.9,
@@ -37,14 +37,6 @@
  "yahoo": "GMED",
  "compte": "CTO",
  "histo": [
-  [
-   "13/10",
-   57.49
-  ],
-  [
-   "14/10",
-   58.09
-  ],
   [
    "15/10",
    58.33
@@ -1076,12 +1068,20 @@
   [
    "23/10",
    81.41
+  ],
+  [
+   "26/10",
+   81.83
+  ],
+  [
+   "27/10",
+   80.9
   ]
  ],
  "perf": {
-  "m1": 9.6,
-  "m3": 4.0,
-  "m12": 29.6
+  "m1": 8.2,
+  "m3": -0.6,
+  "m12": 27.9
  },
  "analyse": {
   "majLe": "2026-10-01",
@@ -1100,18 +1100,18 @@
    "greenblatt": "Rendement bénéficiaire (résultat opérationnel comptable 2025 de 479,8 M$ sur une valeur d'entreprise d'environ 9,2 Md$) proche de 5 % : moyen, car le résultat comptable est réduit par l'amortissement des actifs de NuVasive. Rendement du capital non calculé."
   },
   "tech": {
-   "cours": 81.41,
-   "coursLe": "2026-10-23",
-   "mm50": 78.15,
-   "mm200": 83.79,
-   "rsi14": 63.1,
+   "cours": 80.9,
+   "coursLe": "2026-10-27",
+   "mm50": 77.98,
+   "mm200": 83.66,
+   "rsi14": 60.3,
    "haut52": 96.82,
    "bas52": 60.39,
    "support": 73.5,
    "resistance": 80,
    "tendance": "neutre",
    "stade": 1,
-   "lecture": "Cours de 81,41 au-dessus de sa moyenne 50 jours (78,15) et en dessous de sa moyenne 200 jours (83,79). RSI 63,1 : élan neutre. Il se situe à 58 % de sa fourchette sur un an (de 60,39 à 96,82), performance sur 12 mois de 29,6 %. Clôture du 23/10/2026.",
+   "lecture": "Cours de 80,90 au-dessus de sa moyenne 50 jours (77,98) et en dessous de sa moyenne 200 jours (83,66). RSI 60,3 : élan neutre. Il se situe à 56 % de sa fourchette sur un an (de 60,39 à 96,82), performance sur 12 mois de 27,9 %. Clôture du 27/10/2026.",
    "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json"
   },
   "actu": [

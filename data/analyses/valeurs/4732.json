@@ -3,8 +3,8 @@
  "nom": "USS",
  "pays": "JP",
  "secteur": "Enchères de voitures d'occasion",
- "cours": 1797.0,
- "coursLe": "2026-10-22",
+ "cours": 1812.0,
+ "coursLe": "2026-10-27",
  "devise": "JPY",
  "capi": "environ 815 Md¥ (environ 4,6 Md€)",
  "per26": 18.4,
@@ -37,18 +37,6 @@
  "yahoo": "4732.T",
  "compte": "CTO",
  "histo": [
-  [
-   "26/09",
-   1733.5
-  ],
-  [
-   "29/09",
-   1701.5
-  ],
-  [
-   "30/09",
-   1697.5
-  ],
   [
    "01/10",
    1696.0
@@ -1076,12 +1064,24 @@
   [
    "22/10",
    1797.0
+  ],
+  [
+   "23/10",
+   1797.5
+  ],
+  [
+   "26/10",
+   1810.5
+  ],
+  [
+   "27/10",
+   1812.0
   ]
  ],
  "perf": {
-  "m1": -6.9,
-  "m3": -10.4,
-  "m12": 5.4
+  "m1": -3.4,
+  "m3": -7.1,
+  "m12": 6.9
  },
  "analyse": {
   "majLe": "2026-10-01",
@@ -1100,18 +1100,18 @@
    "greenblatt": "Rendement bénéficiaire calculé (résultat opérationnel prévu de 61 Md¥ / valeur d'entreprise de 718 Md¥) d'environ 8,5 % et rendement du capital d'environ 31 % (Stockopedia) : profil favorable sur la formule magique."
   },
   "tech": {
-   "cours": 1797.0,
-   "coursLe": "2026-10-22",
-   "mm50": 1904.28,
-   "mm200": 1830.58,
-   "rsi14": 38.6,
+   "cours": 1812.0,
+   "coursLe": "2026-10-27",
+   "mm50": 1892.91,
+   "mm200": 1831.61,
+   "rsi14": 43.6,
    "haut52": 2064.0,
    "bas52": 1643.5,
    "support": 1795,
    "resistance": 1910,
    "tendance": "neutre",
    "stade": 3,
-   "lecture": "Cours de 1 797,00 en dessous de sa moyenne 50 jours (1 904,28) et en dessous de sa moyenne 200 jours (1 830,58). RSI 38,6 : élan neutre. Il se situe à 37 % de sa fourchette sur un an (de 1 643,50 à 2 064,00), performance sur 12 mois de 5,4 %. Clôture du 22/10/2026.",
+   "lecture": "Cours de 1 812,00 en dessous de sa moyenne 50 jours (1 892,91) et en dessous de sa moyenne 200 jours (1 831,61). RSI 43,6 : élan neutre. Il se situe à 40 % de sa fourchette sur un an (de 1 643,50 à 2 064,00), performance sur 12 mois de 6,9 %. Clôture du 27/10/2026.",
    "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json"
   },
   "actu": [

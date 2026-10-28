@@ -113,18 +113,18 @@
   ],
   "tech": {
    "bas52": 101.2,
-   "cours": 124.5,
-   "coursLe": "2026-10-23",
+   "cours": 129.9,
+   "coursLe": "2026-10-27",
    "haut52": 241.6,
-   "lecture": "Cours de 124,50 en dessous de sa moyenne 50 jours (124,67) et en dessous de sa moyenne 200 jours (125,06). RSI 50,6 : élan neutre. Il se situe à 17 % de sa fourchette sur un an (de 101,20 à 241,60), performance sur 12 mois de -44,6 %. Clôture du 23/10/2026.",
-   "mm200": 125.06,
-   "mm50": 124.67,
+   "lecture": "Cours de 129,90 au-dessus de sa moyenne 50 jours (124,53) et au-dessus de sa moyenne 200 jours (124,81). RSI 58,9 : élan neutre. Il se situe à 20 % de sa fourchette sur un an (de 101,20 à 241,60), performance sur 12 mois de -46,2 %. Clôture du 27/10/2026.",
+   "mm200": 124.81,
+   "mm50": 124.53,
    "resistance": 144,
-   "rsi14": 50.6,
+   "rsi14": 58.9,
    "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json",
-   "stade": 4,
+   "stade": 1,
    "support": 114,
-   "tendance": "baissiere"
+   "tendance": "neutre"
   },
   "verdict": "Vusion croît très vite (CA S1 +34 %, EBITDA +48 %), a une trésorerie nette et se paie environ 15 fois les bénéfices 2026, soit bien moins que ses propres multiples passés. Le vrai débat porte sur 2027 : la fin du grand déploiement Walmart et la consommation de trésorerie du S1 doivent être compensées par de nouvelles commandes, ce qui rend le dossier attractif mais encore risqué.",
   "zones": {
@@ -143,8 +143,8 @@
   }
  },
  "capi": "2,06 Md€",
- "cours": 124.5,
- "coursLe": "2026-10-23",
+ "cours": 129.9,
+ "coursLe": "2026-10-27",
  "devise": "€",
  "faits": [
   {
@@ -165,14 +165,6 @@
   }
  ],
  "histo": [
-  [
-   "17/10",
-   240.2
-  ],
-  [
-   "20/10",
-   242.4
-  ],
   [
    "21/10",
    240.8
@@ -1204,6 +1196,14 @@
   [
    "23/10",
    124.5
+  ],
+  [
+   "26/10",
+   124.3
+  ],
+  [
+   "27/10",
+   129.9
   ]
  ],
  "nom": "Vusion",
@@ -1212,9 +1212,9 @@
  "per26": 15.3,
  "per27": 12.5,
  "perf": {
-  "m1": -3.4,
-  "m3": -4.5,
-  "m12": -44.6
+  "m1": 5.0,
+  "m3": -3.2,
+  "m12": -46.2
  },
  "pub": "2026-11-18",
  "pubLabel": "Journée investisseurs à Paris (objectifs à horizon 2030)",
