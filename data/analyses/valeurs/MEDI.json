@@ -14,6 +14,10 @@
  "risque": "Très petite société concentrée sur une seule niche (les pontages) et dépendante du marché américain ; double risque de change (couronne et dollar), droits de douane possibles, valorisation déjà élevée (environ 29 fois le bénéfice 2025).",
  "faits": [
   {
+   "d": "26/10",
+   "t": "Danske Bank et DNB Carnegie relèvent leur objectif de cours et gardent une recommandation positive après le T3 (une seule source)."
+  },
+  {
    "d": "23/10",
    "t": "T3 record : ventes 210,0 M NOK (+25,9 %, +34,6 % à change constant pour les produits maison) ; Amériques +51,7 % à change constant."
   },
@@ -24,10 +28,6 @@
   {
    "d": "23/10",
    "t": "Premier dividende trimestriel : 2,50 NOK par action, payé le 02/11. Trésorerie 175,6 M NOK, sans dette bancaire."
-  },
-  {
-   "d": "23/10",
-   "t": "Le titre gagne environ 8,9 % vers 306 NOK (une seule source), malgré le détachement du dividende."
   }
  ],
  "pub": "2026-10-23",
@@ -1084,7 +1084,7 @@
   "m12": 12.8
  },
  "analyse": {
-  "majLe": "2026-10-01",
+  "majLe": "2026-10-28",
   "verdict": "Medistim est une très belle petite entreprise : quasi seule sur sa niche, sans dette, avec une marge opérationnelle qui dépasse 30 % et une croissance de plus de 20 % portée par les États-Unis et l'imagerie. Le potentiel reste grand car seulement 40 % des pontages américains utilisent sa technologie. En contrepartie, l'action se paie environ 29 fois le bénéfice 2025 et la société dépend d'une seule application et d'un essai clinique (SmartFlow) dont l'issue n'est pas connue.",
   "conviction": "moyenne",
   "revisions": "Non confirmées : seuls 2 analystes suivent la valeur (objectif moyen de 332,50 NOK selon un agrégateur). Les publications récentes ont dépassé le rythme de 2025 en marge (32,3 % au T2 contre 28,0 % sur 2025), ce qui plaide pour des estimations orientées à la hausse, sans chiffre vérifiable.",
@@ -1116,6 +1116,13 @@
   },
   "actu": [
    {
+    "d": "26/10",
+    "fait": "Deux courtiers norvégiens (Danske Bank, DNB Carnegie) relèvent leur objectif de cours après le T3 record. Montants non repris faute de seconde source.",
+    "impact": "positif",
+    "horizon": "court",
+    "lecture": "Les analystes intègrent l'accélération américaine et la hausse de marge ; le point à vérifier reste la part des prix dans la croissance aux États-Unis."
+   },
+   {
     "d": "23/10",
     "fait": "T3 record : ventes +25,9 % (+34,6 % à change constant pour les produits maison), Amériques +51,7 % ; EBIT +55,7 %, marge 30,1 %.",
     "impact": "positif",
@@ -1135,13 +1142,6 @@
     "impact": "neutre",
     "horizon": "moyen",
     "lecture": "À vérifier dans le rapport complet : si les prix portent plus la croissance que l'adoption, la thèse s'affaiblirait."
-   },
-   {
-    "d": "05/10",
-    "fait": "Assemblée extraordinaire (62 % du capital représenté) : le conseil pourra verser des dividendes en plusieurs fois, y compris chaque trimestre. Aucun montant voté.",
-    "impact": "neutre",
-    "horizon": "moyen",
-    "lecture": "Cela peut lisser le revenu de l'actionnaire sans rien changer à la thèse de croissance ; à voir aux résultats du 23/10 si le conseil s'en sert."
    }
   ],
   "scenarios": [
@@ -1187,6 +1187,7 @@
    "Weinstein (stades)"
   ],
   "sources": [
+   "https://www.nordnet.no/aksjer/kurser/medistim-medi-xosl",
    "https://www.inderes.dk/releases/medi-financial-report-and-presentation-for-third-quarter-for-medistim-asa",
    "https://www.inderes.dk/releases/medi-quarterly-dividend-key-information",
    "https://www.investing.com/news/transcripts/earnings-call-transcript-medistim-posts-strong-q3-2026-growth-shares-jump-89-93CH-4968256",
@@ -1216,7 +1217,8 @@
     "effet": "Double risque de change.",
     "point": null
    }
-  ]
+  ],
+  "veilleLe": "2026-10-28"
  },
  "societe": {
   "resume": "Medistim est une petite société norvégienne qui fabrique des appareils et des sondes à usage unique permettant au chirurgien de vérifier, pendant l'opération, que le sang circule bien dans un vaisseau qu'il vient de recoudre. Concrètement, lors d'un pontage coronarien, le chirurgien greffe un nouveau vaisseau pour contourner une artère bouchée du cœur ; avec la sonde Medistim, il mesure le débit sanguin et peut corriger un pontage défectueux avant de refermer le thorax. Ses appareils ajoutent aussi une imagerie par ultrasons pour voir l'intérieur du vaisseau.",

@@ -157,7 +157,8 @@
     "effet": "Renchérit les produits, peut gonfler les prix de vente.",
     "point": "metaux"
    }
-  ]
+  ],
+  "veilleLe": "2026-10-28"
  },
  "capi": "642 M€",
  "cours": 60.7,

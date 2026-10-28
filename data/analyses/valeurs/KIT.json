@@ -2,6 +2,13 @@
  "analyse": {
   "actu": [
    {
+    "d": "23/10",
+    "fait": "Au lendemain de la baisse de 10 %, trois courtiers (DNB Carnegie, Danske Bank, Arctic) relèvent leur recommandation ; Pareto l'abaisse à neutre et ABG Sundal Collier reste neutre en baissant son objectif. Montants non repris faute de seconde source.",
+    "impact": "positif",
+    "horizon": "court",
+    "lecture": "Les analystes jugent la baisse excessive par rapport à un T3 solide : l'avis reste partagé sur la valorisation, pas sur l'activité."
+   },
+   {
     "d": "22/10",
     "fait": "La baisse se creuse en séance jusqu'à -10,1 % (85,45 NOK) : BPA en ligne sans bonne surprise, trésorerie absorbée par les stocks, tensions d'approvisionnement possibles jusqu'en 2027 et commandes défense irrégulières.",
     "impact": "negatif",
@@ -21,13 +28,6 @@
     "impact": "positif",
     "horizon": "long",
     "lecture": "Avancer le chantier montre que les commandes défense arrivent plus vite que prévu. Mais c'est une troisième extension en quelques semaines, après Longum et Horsens : les investissements et la dépendance à la défense augmentent."
-   },
-   {
-    "d": "en continu",
-    "fait": "Hausse durable des budgets de défense en Europe, principal moteur de la croissance du groupe.",
-    "horizon": "long",
-    "impact": "positif",
-    "lecture": "Le cycle de réarmement peut durer des années, mais Kitron devient plus dépendant d'un seul moteur politique et budgétaire."
    }
   ],
   "cadres": [
@@ -53,7 +53,7 @@
    "score": 7,
    "valo": "PER 23,8 en 2026 et 19,7 en 2027, VE/EBITDA 14,6 en 2026 et 12,1 en 2027 (Zonebourse). Moyenne 2021 à 2025 calculée : PER environ 22 et VE/EBITDA environ 12,3. L'action est donc un peu plus chère que sa moyenne, ce qui se justifie par la croissance. Rendement du flux de trésorerie libre attendu faible en 2026 (1,7 %) à cause des investissements, puis 3,9 % en 2027. Comparaison avec les pairs nordiques (Scanfil, Incap) non vérifiée chiffre par chiffre."
   },
-  "majLe": "2026-09-28",
+  "majLe": "2026-10-28",
   "revisions": "Non chiffré. Signes récents plutôt positifs : Pareto à Achat (objectif 100 NOK, 25/08), Danske Bank à Conserver (96 NOK, 14/08).",
   "scenarios": [
    {
@@ -90,6 +90,7 @@
    }
   ],
   "sources": [
+   "https://www.nordnet.no/aksjer/kurser/kitron-kit-xosl",
    "https://e24.no/boers-og-finans/i/GrA2Wx/komplett-og-yara-faller-kraftig-paa-oslo-boers-etter-tallslipp",
    "https://www.globenewswire.com/news-release/2026/10/22/3386014/0/en/kitron-strong-and-broad-based-growth.html",
    "https://evertiq.com/news/2026-09-29-kitron-breaks-ground-on-new-factory-in-ornskoldsvik",
@@ -154,13 +155,18 @@
     "effet": "Composants plus chers.",
     "point": "metaux"
    }
-  ]
+  ],
+  "veilleLe": "2026-10-28"
  },
  "capi": "1,98 Md€",
  "cours": 89.4,
  "coursLe": "2026-10-28",
  "devise": "NOK",
  "faits": [
+  {
+   "d": "23/10",
+   "t": "Après la chute du 22/10, DNB Carnegie, Danske Bank et Arctic passent à une recommandation positive ; Pareto passe à neutre, ABG reste neutre (une seule source)."
+  },
   {
    "d": "22/10",
    "t": "Clôture à 85,45 NOK (-10,1 %) après le T3 : pas de relèvement d'objectif, flux de trésorerie opérationnel faible (3,1 M€) à cause des stocks."
@@ -172,10 +178,6 @@
   {
    "d": "22/10",
    "t": "Le titre recule d'environ 4,5 % en début de séance à Oslo."
-  },
-  {
-   "d": "29/09",
-   "t": "Premier coup de pioche de la nouvelle usine d'Örnsköldsvik (Suède), plus tôt que prévu : 7 300 m² et un effectif qui doit passer d'environ 120 à 300 personnes."
   }
  ],
  "histo": [

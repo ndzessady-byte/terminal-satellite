@@ -31,7 +31,7 @@
   }
  ],
  "pub": "2026-11-11",
- "pubLabel": "Résultats du premier semestre (date d'une seule source)",
+ "pubLabel": "Résultats du premier semestre (11/11 à 14 h)",
  "src": "https://www.daiwair.co.jp/td_download.cgi?c=5805&i=3274037",
  "notes": "Cours et BPA exprimés après la division par 5 du 01/10/2026. BPA prévu par la société : 776,43 ¥ avant division, soit 155,3 ¥ après ; PER calculé de 17,7 au cours de 2 754 ¥, PER consensus 17,4 (exercice clos en mars 2027) et 15,7 (mars 2028) selon MarketScreener. per26 = exercice avril 2026 à mars 2027. Cours, moyennes mobiles et RSI issus du flux de cours (clôture du 01/10/2026).",
  "yahoo": "5805.T",
@@ -1219,7 +1219,8 @@
     "effet": "Change euro/yen sur ton rendement.",
     "point": null
    }
-  ]
+  ],
+  "veilleLe": "2026-10-28"
  },
  "societe": {
   "resume": "SWCC (anciennement Showa Electric Wire & Cable) fabrique des câbles électriques, notamment haute tension, des accessoires de raccordement, des câbles optiques et des composants pour l'électronique. Concrètement, quand un opérateur électrique japonais remplace une vieille ligne enterrée ou qu'un data center a besoin de milliers de fibres dans un espace réduit, SWCC fournit les câbles et les connecteurs. Elle vend aussi des sondes de test utilisées dans la fabrication des semi-conducteurs.",
