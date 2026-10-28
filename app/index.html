@@ -203,7 +203,7 @@ function vJour(){
  const s=APP.snapshot||{},g=APP.geo||{};const macro=k=>(s.macro||[]).find(m=>m.label===k);
  const br=macro("Brent"),oat=macro("OAT 10 ans");const lead=(g.lecture||"").split(/(?<=\.)\s/)[0];
  const F=favs().map(t=>V[t]).filter(Boolean);
- const watch=[];APP.valeurs.forEach(v=>{suivi(v).items.filter(i=>i.etat==="ko").forEach(i=>watch.push({tag:"✗",c:"ko",txt:`${v.nom} : ${i.reponse||i.t}`,t:v.ticker,o:0}));const d=daysTo(v.pub);if(d!=null&&d>=0&&d<=30)watch.push({tag:"J-"+d,c:"watch",txt:`${v.nom} : ${v.pubLabel||"publication"} le ${dFR(v.pub)}.`,t:v.ticker,o:1+d})});
+ const watch=[];APP.valeurs.forEach(v=>{suivi(v).items.filter(i=>i.etat==="ko").forEach(i=>watch.push({tag:"✗",c:"ko",txt:`${v.nom} : ${i.reponse||i.t}`,t:v.ticker,o:0}));const d=daysTo(v.pub);if(d!=null&&d<0&&d>=-7){const dern=Math.max(0,...(v.faits||[]).map(x=>dk(x.d)));if(dern<+v.pub.replace(/-/g,"").slice(0,8))watch.push({tag:"!",c:"ko",txt:`${v.nom} : ${v.pubLabel||"publication"} du ${dFR(v.pub)}, pas encore intégrée à la fiche.`,t:v.ticker,o:-1})}if(d!=null&&d>=0&&d<=30)watch.push({tag:"J-"+d,c:"watch",txt:`${v.nom} : ${v.pubLabel||"publication"} le ${dFR(v.pub)}.`,t:v.ticker,o:1+d})});
  watch.sort((a,b)=>a.o-b.o);
  const fil=[];APP.valeurs.forEach(v=>(v.faits||[]).forEach(x=>{const k=dk(x.d);if(k)fil.push({k,d:x.d,t:x.t,v})}));fil.sort((a,b)=>b.k-a.k);
  return head()+`
@@ -432,7 +432,19 @@ function afterCarnet(){
  document.querySelectorAll("[data-fd]").forEach(b=>b.onclick=()=>{const L=store.get("sat.fictif",[]);L.splice(+b.dataset.fd,1);store.set("sat.fictif",L);render()});
  $("#bkc").onclick=async()=>{const t=$("#bk");try{await navigator.clipboard.writeText(t.value);$("#bkc").textContent="Copié"}catch(e){t.select()}};
  $("#bkr").onclick=()=>{try{const o=JSON.parse($("#bk").value);if(Array.isArray(o.favs))store.set("sat.favs",o.favs);if(Array.isArray(o.port))store.set("sat.port",o.port);if(Array.isArray(o.journal))store.set("sat.journal",o.journal);if(Array.isArray(o.fictif))store.set("sat.fictif",o.fictif);render()}catch(e){$("#bkr").textContent="Texte invalide"}}}
-function foot(){return `<p class="foot">Des analyses, pas des conseils : c'est toi qui décides et qui passes les ordres. Analyses du ${esc(dFR(APP.geo?.majLe||APP.snapshot?.asOf||""))}, cours du ${esc(dFR(PX?.genere?.slice(0,10)||""))}.</p>`}
+function ouvres(iso){if(!iso)return 99;const a=new Date(iso.slice(0,10)+"T12:00:00"),b=new Date(today);let n=0;for(const d=new Date(a);d<b;d.setDate(d.getDate()+1)){const w=d.getDay();if(w&&w<6)n++}return n}
+function vVeille(){
+ const C={v:"var(--up)",o:"var(--amber)",r:"var(--verm)"};const dot=c=>`<span style="display:inline-block;width:9px;height:9px;border-radius:50%;background:${C[c]};margin-right:8px"></span>`;
+ const vals=APP.valeurs.map(v=>{const le=[v.analyse?.veilleLe,v.analyse?.majLe,v.societe?.suivi?.le].filter(Boolean).sort().pop(),n=ouvres(le);return {v,le,n,c:n<=1?"v":n<=3?"o":"r"}}).sort((a,b)=>b.n-a.n);
+ const pts=(APP.geo?.points||[]).map(p=>{const k=Math.max(0,...(p.faits||[]).map(x=>dk(x.d)));const ds=k?String(k):"";const iso=ds?ds.slice(0,4)+"-"+ds.slice(4,6)+"-"+ds.slice(6,8):"";const j=iso?Math.round((today-new Date(iso+"T12:00:00"))/864e5):99;return {p,iso,j,c:j<=3?"v":j<=7?"o":"r"}}).sort((a,b)=>b.j-a.j);
+ const pc=ouvres(PX?.genere);const nb=c=>vals.filter(x=>x.c===c).length;
+ return head("État de la veille")+`<p style="margin-top:14px;color:var(--tx2)">Quand chaque valeur et chaque point chaud a été vérifié pour la dernière fois. Vert : vérifié aujourd'hui ou au dernier jour de bourse. Orange : 2 ou 3 jours. Rouge : plus, la veille a décroché.</p>
+ <div class="strip"><div><span class="l">À jour</span><span class="v upc">${nb("v")}</span></div><div><span class="l">En retard</span><span class="v" style="color:var(--amber)">${nb("o")}</span></div><div><span class="l">Décrochées</span><span class="v dnc">${nb("r")}</span></div></div>
+ <div class="sec"><div class="k">Cours</div><p style="margin-top:8px">${dot(pc<=1?"v":pc<=3?"o":"r")}Cours du ${esc(dFR(PX?.genere?.slice(0,10)||""))}</p></div>
+ <div class="sec"><div class="k">Valeurs</div><div class="list" style="margin-top:8px">${vals.map(x=>`<a class="li" href="#/v/${esc(x.v.ticker)}">${dot(x.c)}<span style="font-size:14px">${esc(x.v.nom)}</span><span class="mono mut" style="margin-left:auto;font-size:12px">${x.le?esc(dFR(x.le)):"jamais"}</span></a>`).join("")}</div></div>
+ <div class="sec"><div class="k">Points chauds</div><div class="list" style="margin-top:8px">${pts.map(x=>`<a class="li" href="#/monde">${dot(x.c)}<span style="font-size:14px">${esc(x.p.titre)}</span><span class="mono mut" style="margin-left:auto;font-size:12px">${x.iso?esc(dFR(x.iso)):"aucun fait"}</span></a>`).join("")}</div></div>
+ ${foot()}`}
+function foot(){return `<p class="foot">Des analyses, pas des conseils : c'est toi qui décides et qui passes les ordres. Analyses du ${esc(dFR(APP.geo?.majLe||APP.snapshot?.asOf||""))}, cours du ${esc(dFR(PX?.genere?.slice(0,10)||""))}. <a href="#/veille" style="color:var(--amber)">État de la veille</a></p>`}
 
 /* ---------- Routeur ---------- */
 const TABS=[["#/","jour","Aujourd'hui"],["#/valeurs","val","Valeurs"],["#/monde","monde","Monde"],["#/comparer","cmp","Comparer"],["#/carnet","carnet","Carnet"]];
@@ -445,6 +457,7 @@ function render(){
  else if(r==="etf"){html=vEtf();after=afterEtf;tab="#/valeurs"}
  else if(r==="idees"){html=vIdees();tab="#/valeurs"}
  else if(r==="monde"){html=vMonde();tab="#/monde"}
+ else if(r==="veille"){html=vVeille();tab="#/monde"}
  else if(r==="comparer"){html=vComparer(arg);after=afterComparer;tab="#/comparer"}
  else if(r==="carnet"){html=vCarnet(arg);after=afterCarnet;tab="#/carnet"}
  else {html=vJour();tab="#/"}
