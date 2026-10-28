@@ -3,18 +3,11 @@
   "aVerifier": "Moyenne mobile 200 jours et RSI 14 non confirmés (la page technique Investing lue n'était pas datée et affichait un cours de 73 € ; son chiffre de 67,04 € pour la moyenne 200 jours n'a pas été retenu). Les estimations de bénéfice par action diffèrent selon les pages Zonebourse (6,27 € ou environ 6,75 € pour 2026). ROE estimée par calcul. Date des résultats annuels à confirmer.",
   "actu": [
    {
-    "d": "29/07",
-    "fait": "Chiffre d'affaires du 2e trimestre en hausse de 3,2 % en organique et premier relèvement des objectifs 2026 (croissance organique de +1,4 à +1,8 % contre 0 à -0,5 %). Le titre bondit de 20 %, meilleure performance du SBF 120 ce jour-là.",
-    "horizon": "moyen",
+    "d": "27/10",
+    "fait": "T3 : +3,6 % en organique (France +4,3 %, international +3,2 %, accélération en Amérique du Nord et en Asie) ; 9 mois +2,3 %. Troisième relèvement des objectifs 2026 : organique vers 2 %, marge opérationnelle d'activité proche de 9,3 %.",
     "impact": "positif",
-    "lecture": "C'est le signal de fin de la baisse d'activité de 2025 : sans retour de la croissance, la thèse de redressement ne tenait pas."
-   },
-   {
-    "d": "24/09",
-    "fait": "Résultats semestriels : marge opérationnelle d'activité 8,9 % (7,3 % un an plus tôt), résultat net 113,8 M€ (+38 %), trésorerie nette 313 M€. Deuxième relèvement des objectifs : croissance organique de +1,7 à +1,9 % et marge d'environ 9,2 %. Moteurs : aéronautique, défense, sécurité, naval, ferroviaire et énergie ; Benelux et pays nordiques en baisse de plus de 5 %.",
     "horizon": "moyen",
-    "impact": "positif",
-    "lecture": "La hausse des dépenses de défense en Europe profite directement à Alten, ce qui peut soutenir la croissance plusieurs années."
+    "lecture": "La croissance accélère et l'international, point faible de la thèse, se reprend. Aéronautique, défense, naval et ferroviaire tirent ; l'automobile baisse moins vite."
    },
    {
     "d": "28/09",
@@ -22,6 +15,13 @@
     "horizon": "court",
     "impact": "positif",
     "lecture": "Les analystes suivent le redressement, mais l'écart entre objectifs (55 à 141 € selon Zonebourse) montre qu'il n'y a pas de consensus sur l'ampleur de la reprise."
+   },
+   {
+    "d": "24/09",
+    "fait": "Résultats semestriels : marge opérationnelle d'activité 8,9 % (7,3 % un an plus tôt), résultat net 113,8 M€ (+38 %), trésorerie nette 313 M€. Deuxième relèvement des objectifs : croissance organique de +1,7 à +1,9 % et marge d'environ 9,2 %. Moteurs : aéronautique, défense, sécurité, naval, ferroviaire et énergie ; Benelux et pays nordiques en baisse de plus de 5 %.",
+    "horizon": "moyen",
+    "impact": "positif",
+    "lecture": "La hausse des dépenses de défense en Europe profite directement à Alten, ce qui peut soutenir la croissance plusieurs années."
    },
    {
     "d": "18/09",
@@ -52,7 +52,7 @@
    "score": 6,
    "valo": "Au cours de 79,25 € : PER d'environ 12,6 fois pour 2026 et 11 fois pour 2027 (bénéfices par action de 6,27 € et 7,18 € ; la page d'accueil Zonebourse indique 11,3 et 10,1 fois au cours de 76,25 €, les estimations variant selon les pages). Valeur d'entreprise sur EBITDA d'environ 5 fois et rendement du flux de trésorerie disponible d'environ 11 % (Zonebourse). Le PER moyen des cinq années 2021 à 2025 est d'environ 19 fois, mais il est faussé par des bénéfices exceptionnels ou déprimés ; sur un bénéfice normal, le titre reste sous sa moyenne historique."
   },
-  "majLe": "2026-09-28",
+  "majLe": "2026-10-28",
   "revisions": "Pas de chiffre de révision sur 3 mois trouvé. Les analystes relèvent leurs objectifs après le 2e relèvement des prévisions 2026 (Oddo, Kepler, CIC, Bernstein, Invest Securities à 132 €) : sens probable à la hausse, non chiffré.",
   "scenarios": [
    {
@@ -89,6 +89,8 @@
    }
   ],
   "sources": [
+   "https://www.abcbourse.com/marches/alten-releve-ses-objectifs-pour-la-troisieme-fois-en-2026_704992",
+   "https://www.webdisclosure.fr/press-release/alten-epa-ate-alten-activite-a-fin-septembre-2026-t4IIOCZkTmL",
    "https://www.alten.com/fr/resultats-semestriels-2026/",
    "https://www.zonebourse.com/actualite-bourse/alten-releve-une-nouvelle-fois-ses-objectifs-annuels-apres-un-bond-de-ses-resultats-au-1er-semestre-ce785aded08ff027",
    "https://www.tradingsat.com/alten-FR0000071946/actualites/alten-la-croissance-du-groupe-d-ingenierie-alten-prend-le-marche-de-vitesse-l-action-flambe-de-20-1167693.html",
@@ -138,6 +140,10 @@
  "coursLe": "2026-10-27",
  "devise": "€",
  "faits": [
+  {
+   "d": "27/10",
+   "t": "T3 : CA 1 055,2 M€ (+6,4 %, +3,6 % en organique). Objectifs 2026 relevés pour la 3e fois : organique vers +2 %, marge vers 9,3 %."
+  },
   {
    "d": "28/09",
    "t": "Clôture à 79,75 € (+4,59 %). Invest Securities reste à l'achat, objectif 132 €."
@@ -1203,8 +1209,8 @@
   "m3": 16.6,
   "m12": 23.8
  },
- "pub": "2026-10-27",
- "pubLabel": "CA du T3",
+ "pub": null,
+ "pubLabel": "Résultats annuels 2026 (février 2027, date non confirmée)",
  "risque": "Automobile encore faible.",
  "secteur": "Ingénierie",
  "societe": {
@@ -1424,18 +1430,18 @@
     {
      "c": "Que les industriels continuent d'externaliser leur R&D, et que la défense, l'aéronautique et l'énergie compensent durablement l'automobile.",
      "etat": "ok",
-     "preuve": "S1 2026 : croissance organique +1,6 % (après -4,5 % en 2025) ; objectif 2026 relevé à +1,7 à +1,9 %.",
+     "preuve": "T3 2026 : +3,6 % en organique.",
      "prochain": "CA du T3 le 27/10/2026",
-     "reponse": "Oui pour l'instant : l'aéronautique, la défense, le naval, le ferroviaire et l'énergie tirent la croissance, qui redevient positive malgré l'automobile.",
-     "source": "https://www.alten.com/fr/resultats-semestriels-2026/"
+     "reponse": "Oui : forte croissance en aéronautique, défense, naval et ferroviaire, automobile en baisse moins forte.",
+     "source": "https://www.webdisclosure.fr/press-release/alten-epa-ate-alten-activite-a-fin-septembre-2026-t4IIOCZkTmL"
     },
     {
      "c": "Que le nouveau directeur général Cyril Malargé ramène la marge vers 10 % et la croissance organique en territoire positif.",
      "etat": "ok",
-     "preuve": "S1 2026 : marge opérationnelle d'activité 8,9 % contre 7,3 % ; objectif 2026 d'environ 9,2 % (8,5 % en 2025).",
+     "preuve": "Objectifs 2026 : organique vers 2 %, marge proche de 9,3 %.",
      "prochain": "Résultats annuels 2026 (février 2027)",
-     "reponse": "Le redressement est en cours : la marge remonte nettement et la croissance organique est redevenue positive, mais on reste encore loin des 10 %.",
-     "source": "https://www.alten.com/fr/resultats-semestriels-2026/"
+     "reponse": "Le redressement continue : objectifs relevés une troisième fois, marge encore sous 10 %.",
+     "source": "https://www.webdisclosure.fr/press-release/alten-epa-ate-alten-activite-a-fin-septembre-2026-t4IIOCZkTmL"
     },
     {
      "c": "Que le résultat net 2025 était un point bas exceptionnel (dépréciations, impôt anormalement élevé) et qu'il rebondit fortement dès 2026.",
@@ -1446,7 +1452,7 @@
      "source": "https://www.alten.com/fr/resultats-semestriels-2026/"
     }
    ],
-   "le": "2026-09-29",
+   "le": "2026-10-28",
    "questions": [
     {
      "etat": "watch",

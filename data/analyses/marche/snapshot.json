@@ -1,9 +1,9 @@
 {
  "asOf": "2026-10-28",
  "attention": [
-  "Publications : Melexis, Lectra, Aubay et Vidrala le 28/10 ; Harvia et DNO le 29/10 ; BCE le 29/10.",
-  "Nouvelle mobilisation le 31/10 ; budget 2027 toujours sans majorité.",
-  "En zone d'intérêt : Kitron, Melexis, Mueller, Trigano, Aubay. Thermador : thèse cassée (61,4 €)."
+  "Fed ce soir, BCE demain ; Harvia et DNO publient le 29/10.",
+  "Budget : vote solennel sur les recettes le 03/11, 49.3 possible ; élections américaines le 03/11.",
+  "En zone d'intérêt : Kitron, Melexis, Mueller, Trigano, Aubay. Lectra publie ce soir."
  ],
  "etf": {
   "nom": "Amundi PEA Monde MSCI World (DCAM)",
@@ -56,12 +56,12 @@
    "note": "deux sources concordent sur le niveau"
   }
  ],
- "majLe": "2026-10-28T08:00:00+01:00",
+ "majLe": "2026-10-28T14:00:00+01:00",
  "semaine": "5 au 9 octobre 2026",
  "semaineTexte": [
-  "Lundi et mardi : CAC 40 +0,83 % puis +0,51 % à 7 887 pts après le maintien de la note par Moody's ; OAT repassée sous 5 %.",
-  "Simpson : T3 correct (marge 22,1 %), prévision de marge relevée et rachat d'actions porté à 1 Md$.",
-  "Moral des ménages au plus bas depuis 2013 ; Brent vers 114 $."
+  "Mercredi 28/10 midi : CAC 40 stable vers 7 890 pts avant la Fed ce soir et la BCE demain ; OAT vers 4,95 %.",
+  "Résultats : Alten relève ses objectifs pour la 3e fois, Vidrala confirme et rachète encore, Melexis en ligne mais marge toujours vers 18 %.",
+  "Brent vers 115 $ après une frappe revendiquée sur Ras Tanura (Arabie saoudite)."
  ],
  "watchlistValidee": false
 }

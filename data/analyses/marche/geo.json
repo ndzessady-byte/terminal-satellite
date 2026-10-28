@@ -1,5 +1,5 @@
 {
- "lecture": "Le pire n'est pas arrivé avec Moody's et le marché français reprend un peu d'air, mais la menace sur la note reste entière tant que le budget n'est pas voté. La crise sociale et le moral des ménages au plus bas depuis 2013 pèsent sur la consommation intérieure. Le pétrole au-dessus de 110 $ reste le premier risque ; une détente avec l'Iran serait le meilleur catalyseur, mais des frappes sont évoquées après le 03/11.",
+ "lecture": "Paris fait du surplace en attendant la Fed ce soir et la BCE demain, qui devraient maintenir leurs taux. Le pétrole repart vers 115 $ après une attaque revendiquée sur la plus grande raffinerie saoudienne, ce qui entretient l'inflation. L'OAT reste proche de 5 % et les votes chaotiques sur le budget laissent le risque français entier jusqu'au 03/11.",
  "majLe": "2026-10-28",
  "matieres": {
   "ALU": {
@@ -70,6 +70,10 @@
    "faits": [
     {
      "d": "27/10",
+     "t": "Les Houthis revendiquent une frappe de missile sur Ras Tanura, la plus grande raffinerie d'Arabie saoudite (Reuters, Middle East Eye) ; Riyad ne confirme pas. Téhéran promet une riposte plus dévastatrice à toute nouvelle attaque américaine. Brent vers 115 à 116 $ le 28/10 au matin."
+    },
+    {
+     "d": "27/10",
      "t": "Le Brent recule vers 114 $ après un plus haut depuis juin 2022 vers 116 $ le 23/10, sur l'espoir de discussions entre les États-Unis et l'Iran."
     },
     {
@@ -87,10 +91,6 @@
     {
      "d": "21/10",
      "t": "Araghchi confirme des contacts indirects avec Washington par le Pakistan et le Qatar ; son plan prévoit une réouverture du détroit au sixième jour si les conditions sont respectées. Les Houthis revendiquent des frappes sur des sites saoudiens. Brent vers 108,5 $ le 20/10."
-    },
-    {
-     "d": "19/10",
-     "t": "Le Brent recule lundi matin après être passé la semaine dernière au-dessus de 110 $ pour la première fois depuis mai. Pas de nouvelle attaque ni d'avancée diplomatique trouvée ce week-end (une seule source)."
     }
    ],
    "id": "ormuz",
@@ -120,6 +120,7 @@
    "region": "Moyen-Orient / Golfe",
    "resume": "La guerre avec l'Iran, commencée fin février 2026, bloque toujours le détroit d'Ormuz par où passait environ un cinquième du pétrole mondial, et les États-Unis maintiennent un blocus des ports iraniens. Fin septembre, Trump a rejeté le plan iranien de réouverture et un vraquier a encore été touché près d'Oman. Le Brent est repassé au-dessus de 100 $ et c'est le premier moteur de l'inflation et des taux en ce moment.",
    "sources": [
+    "https://www.middleeasteye.net/news/houthis-hit-saudi-oil-refinery-iran-warns-more-devastating-response-further-us-israeli",
     "https://straits.live/briefs/2026-10-22",
     "https://www.samaa.tv/2087358840-iran-us-talks-continue-through-pakistan-qatar-araghchi",
     "https://www.abcbourse.com/marches/le-cac-40-attendu-en-baisse-ce-lundi-les-violences-en-france-ravivent-les-crain_704391",
@@ -144,7 +145,7 @@
     "Toute reprise de négociation États-Unis / Iran via le Qatar",
     "03/11 : élections de mi-mandat américaines, que Téhéran juge peu propices à un accord avant"
    ],
-   "tendance": "stable",
+   "tendance": "hausse",
    "titre": "Iran, États-Unis et détroit d'Ormuz",
    "valeurs": [
     {
@@ -182,6 +183,10 @@
   {
    "faits": [
     {
+     "d": "28/10",
+     "t": "L'OAT 10 ans remonte vers 4,94 à 4,97 % (AFP et Reuters), écart avec le Bund vers 157 pb. Fed ce soir (maintien attendu), BCE demain (taux de dépôt à 2,50 % attendu)."
+    },
+    {
      "d": "27/10",
      "t": "Après le maintien de la note par Moody's, l'OAT 10 ans repasse sous 5 %, vers 4,92 % mardi (une seule source). BCE jeudi 29/10 : maintien attendu ; la Fed devrait aussi maintenir le 28/10 mais penche vers une hausse en décembre."
     },
@@ -200,10 +205,6 @@
     {
      "d": "21/10",
      "t": "L'OAT 10 ans passe au-dessus de 5 % en clôture, une première depuis 2002 (AFP ; chiffre exact de la Banque de France pas encore publié)."
-    },
-    {
-     "d": "21/10",
-     "t": "L'OAT 10 ans passe brièvement au-dessus de 5 % en fin de matinée."
     }
    ],
    "id": "taux",
@@ -225,6 +226,7 @@
    "region": "Zone euro / États-Unis",
    "resume": "Le choc pétrolier relance l'inflation, et les deux grandes banques centrales ont remonté leurs taux en septembre au lieu de les baisser. Les marchés anticipent encore des hausses. C'est un vent contraire pour les petites et moyennes valeurs, pour l'immobilier et pour l'or.",
    "sources": [
+    "https://www.boursorama.com/bourse/actualites/l-europe-vue-en-baisse-prudence-face-aux-resultats-et-au-petrole-1ab1d706b695c446bb1895f644dacef8",
     "https://www.cnbc.com/2026/10/23/moodys-holds-steady-on-frances-credit-rating-as-country-grapples-with-turmoil-and-higher-yields.html",
     "https://www.gurufocus.com/news/9140775/france-avoids-credit-rating-downgrade-amid-economic-turmoil",
     "https://www.boursorama.com/bourse/actualites/taux-france-le-rendement-de-l-oat-a-dix-ans-grimpe-a-5-14-actualise-784f4f19fe052c6a20a06ce358d9c9c3",
@@ -274,6 +276,10 @@
   {
    "faits": [
     {
+     "d": "28/10",
+     "t": "Débats chaotiques sur les recettes du budget : surtaxe des grandes entreprises supprimée (79 voix contre 77), taxe sur les multinationales adoptée de nuit (74 contre 72). Vote solennel sur les recettes le 03/11, sur l'ensemble le 17/11 ; un 49.3 est évoqué mais non confirmé."
+    },
+    {
      "d": "27/10",
      "t": "Le moral des ménages tombe à 80 en octobre, plus bas depuis juin 2013 (Insee). Deuxième samedi de mobilisation le 24/10 (135 interpellations) ; les gilets jaunes appellent à de nouveaux rassemblements le 31/10."
     },
@@ -292,10 +298,6 @@
     {
      "d": "21/10",
      "t": "Lecornu reçoit les syndicats, qui sortent déçus ; couvre-feux à Marseille et Toulouse, 557 gardes à vue à Paris. Carrefour chute de 13,8 % (magasins pillés, prévisions abaissées)."
-    },
-    {
-     "d": "20/10",
-     "t": "Couvre-feux reconduits à Lyon et Marseille, restrictions à Paris, Bordeaux, Lille et Nice ; près de 150 incarcérations. Nouvelles manifestations annoncées les 24 et 31/10."
     }
    ],
    "id": "france",
@@ -309,6 +311,7 @@
    "region": "France",
    "resume": "Le gouvernement Lecornu présente un budget 2027 avec 54 Md€ d'effort pour ramener le déficit vers 4,8 à 5 % du PIB, mais la gauche promet la censure et le RN reste l'arbitre. L'écart de taux avec l'Allemagne est élevé mais s'est un peu détendu en fin de semaine dernière. C'est le risque principal pour les valeurs très françaises de ta liste.",
    "sources": [
+    "https://elections2027.com/article/2026-10-27-david-amiel-cible-l-optimisation-fiscale-pour-le-budget-2027",
     "https://www.cnbc.com/2026/10/23/moodys-holds-steady-on-frances-credit-rating-as-country-grapples-with-turmoil-and-higher-yields.html",
     "https://www.gurufocus.com/news/9140775/france-avoids-credit-rating-downgrade-amid-economic-turmoil",
     "https://www.lejdd.fr/politique/sebastien-lecornu-reunit-les-partis-cloture-du-vote-des-adherents-rn-les-4-infos-dont-vous-allez-entendre-parler-demain-186636",
@@ -332,7 +335,7 @@
     "Position du RN sur la censure",
     "Écart OAT/Bund : au-dessus de 110 pb, signal d'alerte ; non atteint au 25/09"
    ],
-   "tendance": "stable",
+   "tendance": "hausse",
    "titre": "Budget 2027 et risque politique français",
    "valeurs": [
     {

@@ -2,11 +2,18 @@
  "analyse": {
   "actu": [
    {
-    "d": "en continu",
-    "fait": "Demande faible des consommateurs en Europe et hausse des coûts d'énergie liée au conflit au Moyen-Orient (Iran), citées par la société.",
-    "horizon": "court",
-    "impact": "negatif",
-    "lecture": "Le gaz est le premier coût d'un verrier : une flambée durable pèserait sur les marges, même si Vidrala a jusqu'ici su répercuter les hausses."
+    "d": "28/10",
+    "fait": "Résultats à fin septembre : CA +2 %, EBITDA +2,9 %, marge 29,5 %, BPA +6,4 %, dette nette 0,4 fois l'EBITDA. Objectifs 2026 confirmés (EBITDA proche de 450 M€, BPA en hausse de plus de 5 %, flux de trésorerie libre d'environ 200 M€). Le T3 seul ressort vers 28,8 % de marge (calcul).",
+    "impact": "positif",
+    "horizon": "moyen",
+    "lecture": "Vidrala augmente encore ses profits avec une demande faible, preuve de la qualité de gestion ; la marge du T3 seul est un peu sous 30 %."
+   },
+   {
+    "d": "28/10",
+    "fait": "Nouveau rachat d'actions jusqu'à 1 % du capital (jusqu'à 4 % depuis le début de l'année) et attribution d'une action gratuite pour vingt.",
+    "impact": "positif",
+    "horizon": "long",
+    "lecture": "Le retour à l'actionnaire augmente encore, financé par une dette très faible."
    },
    {
     "d": "26/09",
@@ -21,13 +28,6 @@
     "horizon": "moyen",
     "impact": "positif",
     "lecture": "Vidrala fait progresser ses profits même quand les volumes baissent : c'est la preuve de la qualité de gestion, point central de la thèse."
-   },
-   {
-    "d": "23/07",
-    "fait": "Rachat d'actions porté à 90 M€ (jusqu'à 3 % du capital) et dividende 2026 en hausse de 15 %.",
-    "horizon": "long",
-    "impact": "positif",
-    "lecture": "Le retour à l'actionnaire (dividende plus rachats, environ 5 % par an) soutient le rendement total même sans forte croissance."
    }
   ],
   "cadres": [
@@ -53,7 +53,7 @@
    "score": 7,
    "valo": "PER 13,7 en 2026 et 12,8 en 2027, VE/EBITDA 7,1 en 2026 et 6,5 en 2027 (Zonebourse). Moyenne 2021 à 2025 calculée : PER environ 14,5 et VE/EBITDA environ 8,7. L'action est donc légèrement moins chère que son historique. Rendement du flux de trésorerie libre attendu de 6 % en 2026 et 7,4 % en 2027, rendement du dividende d'environ 2 %. Comparaison chiffrée avec Verallia et O-I non vérifiée ici."
   },
-  "majLe": "2026-09-28",
+  "majLe": "2026-10-28",
   "revisions": "Non trouvé. Dernier avis repéré : Citigroup, objectif 95 € (21/07).",
   "scenarios": [
    {
@@ -90,6 +90,8 @@
    }
   ],
   "sources": [
+   "https://www.bolsamania.com/noticias/resultados-anuncios/vidrala-gana-1734-millones-a-septiembre-y-anuncia-una-nueva-recompra-de-hasta-el-1-del-capital--23936718.html",
+   "https://www.vidrala.com/es/actualidad/noticias/vidrala-crece-frente-a-las-adversidades.html",
    "https://www.vidrala.com/en/investors/regulatory-filings/",
    "https://www.vidrala.com/es/actualidad/noticias/nace-vidrala-marinha-grande.html",
    "https://www.pressdigital.es/articulo/economia/2026-09-26/6029616-vidrala-unifica-operaciones-portugal-bajo-nombre-vidrala-marinha",
@@ -140,6 +142,10 @@
  "coursLe": "2026-10-27",
  "devise": "€",
  "faits": [
+  {
+   "d": "28/10",
+   "t": "9 mois : CA 1 146,5 M€ (+2 %), EBITDA 338,5 M€ (+2,9 %, marge 29,5 %), BPA 4,99 € (+6,4 %), dette 0,4 fois l'EBITDA. Objectifs 2026 confirmés. Nouveau rachat jusqu'à 1 % du capital et 1 action gratuite pour 20."
+  },
   {
    "d": "28/09",
    "t": "Rachat d'actions : déclaration hebdomadaire pour la semaine du 21 au 25/09."
@@ -1205,8 +1211,8 @@
   "m3": 1.9,
   "m12": 10.7
  },
- "pub": "2026-10-28",
- "pubLabel": "Résultats du T3",
+ "pub": null,
+ "pubLabel": "Résultats annuels 2026 (février 2027, date non confirmée)",
  "risque": "Ventes qui stagnent en Europe et coût de l'énergie qui peut rogner les marges.",
  "secteur": "Emballage verre",
  "societe": {
@@ -1406,29 +1412,29 @@
     {
      "c": "Que la demande de bouteilles en verre se stabilise malgré la baisse de consommation de vin et d'alcool en Europe.",
      "etat": "watch",
-     "preuve": "T2 2026 : volumes Vidrala +1,5 % en Europe, -7 % au Royaume-Uni ; Verallia S1 2026 : volumes en hausse dans tous les pays d'Europe du Sud et de l'Ouest (bière, bocaux, spiritueux), faiblesse en Allemagne.",
+     "preuve": "Communiqué du 28/10/2026.",
      "prochain": "Résultats T3 le 28/10/2026",
-     "reponse": "Signes de stabilisation en Europe du Sud (Vidrala et Verallia voient leurs volumes remonter), mais pas encore au Royaume-Uni. La direction de Vidrala s'attend à une demande plate au S2.",
-     "source": "https://www.investing.com/news/transcripts/earnings-call-transcript-vidrala-posts-strong-h1-2026-margins-as-sales-stay-soft-93CH-4807860"
+     "reponse": "Pas encore : demande européenne encore faible, croissance tirée par l'Amérique du Sud.",
+     "source": "https://www.vidrala.com/es/actualidad/noticias/vidrala-crece-frente-a-las-adversidades.html"
     },
     {
      "c": "Que Vidrala garde sa marge d'environ 30 % grâce à son efficacité, même si les prix de l'énergie ou la concurrence repartent.",
      "etat": "ok",
-     "preuve": "S1 2026 : EBITDA 225,5 M€ (+4,4 %), marge 29,9 % (+110 points de base) ; objectif 2026 : EBITDA supérieur à 450 M€ confirmé.",
+     "preuve": "9 mois 2026 : EBITDA 338,5 M€.",
      "prochain": "Résultats T3 le 28/10/2026",
-     "reponse": "Oui jusqu'ici : malgré des prix en baisse en Europe du Sud et une énergie plus chère, la marge a encore progressé et l'objectif annuel est confirmé.",
-     "source": "https://www.vidrala.com/en/press-room/news/vidrala-grows-earnings-despite-challenging-market-conditions-supported-by-internal-management-initiatives-and-south-americas-contribution.html"
+     "reponse": "Oui sur 9 mois (29,5 %), un peu en dessous au T3 seul.",
+     "source": "https://www.vidrala.com/es/actualidad/noticias/vidrala-crece-frente-a-las-adversidades.html"
     },
     {
      "c": "Que la direction utilise son bilan presque sans dette de façon intelligente (acquisitions, rachats d'actions, dividende en hausse).",
      "etat": "ok",
-     "preuve": "Déclarations à la CNMV des 07, 14, 21 et 28/09/2026.",
+     "preuve": "Dette 0,4 fois l'EBITDA.",
      "prochain": "Résultats T3 le 28/10/2026",
-     "reponse": "Oui, le rachat d'actions continue chaque semaine.",
-     "source": "https://www.vidrala.com/en/investors/regulatory-filings/"
+     "reponse": "Oui : nouveau rachat, actions gratuites, dette en baisse.",
+     "source": "https://www.vidrala.com/es/actualidad/noticias/vidrala-crece-frente-a-las-adversidades.html"
     }
    ],
-   "le": "2026-10-02",
+   "le": "2026-10-28",
    "questions": [
     {
      "etat": "watch",

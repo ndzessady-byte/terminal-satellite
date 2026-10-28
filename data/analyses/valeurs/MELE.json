@@ -3,6 +3,20 @@
   "aVerifier": "Moyenne 200 jours non lue. RSI divergent selon les sources (39,4 chez Boursorama le 25/09, 54,6 chez Zonebourse le 23/09). Objectif moyen des analystes : 74,62 € chez Boursorama (18/08), un autre site cite 83,60 € et un objectif Bernstein a 97 € non verifies. ROE calcule (P/B / PER) et non publie. Couverture des interets, F-score de Piotroski et multiples des concurrents non trouves.",
   "actu": [
    {
+    "d": "28/10",
+    "fait": "T3 : ventes 223,7 M€ (+4 %), marge opérationnelle 18,5 %, résultat net 31,3 M€ (+14 %), BPA 0,78 € (un peu sous le consensus d'environ 0,83 €). Sur 9 mois : ventes 642,9 M€ (+3 %), résultat net 85,2 M€ (-5 %). Prévision du S2 maintenue (445 à 455 M€, marge opérationnelle vers 18 %).",
+    "impact": "neutre",
+    "horizon": "court",
+    "lecture": "La reprise des ventes continue, mais la marge reste vers 18 %, loin des 20 % visés, et le bénéfice de 9 mois (BPA d'environ 2,11 €) ne couvre toujours pas le dividende de 3,70 €."
+   },
+   {
+    "d": "28/10",
+    "fait": "La direction cite des ventes record en Chine, plus de contrats gagnés en Chine qu'en Europe et un nouvel accord-cadre avec BYD ; le prix de l'or pèse et les négociations de prix 2027 sont en cours.",
+    "impact": "neutre",
+    "horizon": "moyen",
+    "lecture": "La Chine porte la croissance, ce qui augmente la dépendance à un marché sous pression sur les prix."
+   },
+   {
     "d": "15/10",
     "fait": "La baisse d'environ 10 % sur la semaine ne vient d'aucune annonce de Melexis : détachement de l'acompte de 1,30 € le 13/10, puis vague de ventes sur tout le secteur européen des puces après une inflation américaine supérieure aux attentes et la correction des valeurs liées à l'IA.",
     "impact": "negatif",
@@ -15,20 +29,6 @@
     "impact": "neutre",
     "horizon": "court",
     "lecture": "Le programme avance à rythme régulier, sans changer la question de la couverture du dividende."
-   },
-   {
-    "d": "15/09",
-    "fait": "Melexis lance le MLX91241, un capteur de courant pour onduleurs de voitures électriques et systèmes 48 V, sa première puce fabriquée en Chine par le fondeur local HHGrace.",
-    "impact": "positif",
-    "horizon": "long",
-    "lecture": "Produire en Chine doit baisser les coûts face à des concurrents locaux moins chers, mais augmente la dépendance à la Chine."
-   },
-   {
-    "d": "31/08",
-    "fait": "Point d'etape sur le programme de rachat d'actions en cours (achats reguliers autour de 64 € mi septembre).",
-    "horizon": "court",
-    "impact": "positif",
-    "lecture": "Le rachat soutient le cours et montre que la direction juge l'action peu chere, mais il s'ajoute a un dividende deja superieur au benefice."
    }
   ],
   "cadres": [
@@ -52,7 +52,7 @@
    "score": 6,
    "valo": "PER 22 en 2026 et 16,9 en 2027 ; VE/EBITDA 14,2 puis 11,7 ; rendement du flux de tresorerie libre attendu a 7,3 % en 2026 ; rendement du dividende 5,5 %. Moyenne 2021-2025 : PER d'environ 20 et VE/EBITDA d'environ 13,8. L'action est donc un peu plus chere que sa moyenne sur 2026 mais moins chere sur 2027 si le rebond du benefice se confirme. Comparaison chiffree avec les concurrents (Infineon, STMicro, NXP) non verifiee."
   },
-  "majLe": "2026-09-28",
+  "majLe": "2026-10-28",
   "revisions": "Non trouvé ce soir.",
   "scenarios": [
    {
@@ -89,6 +89,8 @@
    }
   ],
   "sources": [
+   "https://www.investing.com/news/earnings/melexis-posts-inline-q3-results-maintains-h2-guidance-4977559",
+   "https://www.lalibre.be/dernieres-depeches/2026/10/28/le-benefice-net-de-lentreprise-melexis-progresse-de-14-au-troisieme-trimestre-3EL2VIB5IJBOFEXJJWJIZ2EAJ4/",
    "https://www.abcbourse.com/marches/les-fabricants-europeens-de-semi-conducteurs-pris-dans-la-tourmente-de-la-tech_704256",
    "https://www.boursorama.com/bourse/actualites/le-secteur-des-semi-conducteurs-a-la-peine-la-vague-de-ventes-liee-a-l-ia-s-etend-184c5bfb5242cf9a857d89739c0686c1",
    "https://www.ad-hoc-news.de/boerse/news/vorboerse/invesco-cuts-melexis-stake-below-5-percent-melexis-stock-pre-market-at-eur-60-68/70321038",
@@ -142,6 +144,10 @@
  "devise": "€",
  "faits": [
   {
+   "d": "28/10",
+   "t": "T3 : ventes 223,7 M€ (+4 % sur un an, +3 % sur un trimestre), marge brute 40,7 %, marge opérationnelle 18,5 %, résultat net 31,3 M€ (+14 %), BPA 0,78 €. Prévision S2 maintenue : 445 à 455 M€, marge brute vers 41 %, marge opérationnelle vers 18 %."
+  },
+  {
    "d": "16/10",
    "t": "Le titre finit la semaine vers 57,75 € (environ -10 %). Résultats du T3 le 28/10."
   },
@@ -152,10 +158,6 @@
   {
    "d": "13/10",
    "t": "Détachement de l'acompte sur dividende de 1,30 € ; Invesco passe sous 5 % du capital (4,99 %)."
-  },
-  {
-   "d": "21/09",
-   "t": "Rachat d'actions : 14 519 actions achetées du 14 au 18/09 à 64,29 € en moyenne, soit 253 537 actions sur 850 000 prévues."
   }
  ],
  "histo": [
@@ -1210,8 +1212,8 @@
   "m3": -14.0,
   "m12": -5.4
  },
- "pub": "2026-10-28",
- "pubLabel": "Résultats du T3",
+ "pub": null,
+ "pubLabel": "Résultats annuels 2026 et dividende (début février 2027, date non confirmée)",
  "risque": "Demande automobile fragile, effet euro/dollar, et un PER 2026 de 22x qui laisse peu de marge d'erreur.",
  "secteur": "Semi-conducteurs automobiles",
  "societe": {
@@ -1400,29 +1402,29 @@
     {
      "c": "Que la baisse de 2024-2025 n'était qu'un déstockage passager et que les ventes repartent avec la production automobile et l'électrification.",
      "etat": "ok",
-     "preuve": "T2 2026 : ventes 217,1 M€ (+3 % sur un an, +7 % sur un trimestre) ; objectif S2 2026 : 445 à 455 M€ contre 419,2 M€ au S1.",
+     "preuve": "T3 2026 : ventes 223,7 M€ (+4 %) ; 9 mois 642,9 M€ (+3 %).",
      "prochain": "Résultats T3 le 28/10/2026",
-     "reponse": "Oui, la reprise se confirme : les ventes remontent trimestre après trimestre et la direction attend un second semestre plus fort, porté par la Chine.",
-     "source": "https://www.melexis.com/en/news/2026/financial/melexis-q2-2026-results"
+     "reponse": "Oui : troisième trimestre de hausse d'affilée et prévision du S2 maintenue.",
+     "source": "https://www.lalibre.be/dernieres-depeches/2026/10/28/le-benefice-net-de-lentreprise-melexis-progresse-de-14-au-troisieme-trimestre-3EL2VIB5IJBOFEXJJWJIZ2EAJ4/"
     },
     {
      "c": "Que la marge opérationnelle peut remonter vers 20 % ou plus malgré la concurrence chinoise sur les prix.",
      "etat": "watch",
-     "preuve": "Communiqué produit du 15/09/2026 : structure de coûts optimisée grâce à la fabrication locale.",
+     "preuve": "T3 2026 : marge opérationnelle 18,5 %.",
      "prochain": "Résultats T3 le 28/10/2026",
-     "reponse": "La production locale en Chine vise des coûts plus bas, mais l'effet sur les marges ne sera visible que plus tard.",
-     "source": "https://www.semiconductorforu.com/melexis-delivers-on-china-localization-initiative-with-new-current-sensor/"
+     "reponse": "Pas encore : marge vers 18 %, et la prévision du S2 ne va pas plus haut.",
+     "source": "https://www.investing.com/news/transcripts/earnings-call-transcript-melexis-q3-2026-profit-miss-offsets-china-growth-93CH-4978185"
     },
     {
      "c": "Que le dividende de 3,70 € par action reste tenable alors que le bénéfice par action est tombé à 2,78 € en 2025.",
      "etat": "watch",
-     "preuve": "Consensus BPA 3,04 € en 2026 et 3,96 € en 2027 pour un dividende de 3,70 € ; dette nette 287 M€ fin 2025, soit environ 1,5 fois l'EBITDA (Zonebourse).",
+     "preuve": "BPA S1 1,33 € + T3 0,78 €.",
      "prochain": "Résultats annuels 2026 et proposition de dividende (début février 2027)",
-     "reponse": "Tenable à court terme grâce au flux de trésorerie et à une dette modérée, mais le bénéfice ne le couvre pas encore : il faut le rebond attendu de 2027.",
-     "source": "https://www.melexis.com/en/news/2026/financial/melexis-q2-2026-results"
+     "reponse": "Le bénéfice ne le couvre toujours pas : environ 2,11 € de BPA sur 9 mois.",
+     "source": "https://www.lalibre.be/dernieres-depeches/2026/10/28/le-benefice-net-de-lentreprise-melexis-progresse-de-14-au-troisieme-trimestre-3EL2VIB5IJBOFEXJJWJIZ2EAJ4/"
     }
    ],
-   "le": "2026-09-30",
+   "le": "2026-10-28",
    "questions": [
     {
      "etat": "watch",
@@ -1434,11 +1436,11 @@
     },
     {
      "etat": "watch",
-     "preuve": "15/09/2026 : lancement du capteur MLX91241, produit par HHGrace à Shanghai.",
+     "preuve": "Conférence du T3 2026.",
      "prochain": "Résultats T3 le 28/10/2026",
      "q": "Quelle part des ventes est exposée aux constructeurs chinois et aux concurrents chinois qui cassent les prix ?",
-     "reponse": "Pas de nouveau chiffre sur la part chinoise des ventes. Melexis répond à la concurrence locale en fabriquant une première puce en Chine.",
-     "source": "https://autonews.gasgoo.com/articles/news/2100127464792961024"
+     "reponse": "Pas de pourcentage publié, mais la Chine pèse de plus en plus (ventes record, accord-cadre avec BYD).",
+     "source": "https://www.investing.com/news/transcripts/earnings-call-transcript-melexis-q3-2026-profit-miss-offsets-china-growth-93CH-4978185"
     },
     {
      "etat": "watch",
