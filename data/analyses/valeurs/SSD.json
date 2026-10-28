@@ -14,20 +14,20 @@
  "risque": "Très dépendante de la construction de logements neufs aux États-Unis et des taux d'intérêt ; volumes en baisse compensés par les prix ; cours sous ses moyennes 50 et 200 jours ; risque de change euro/dollar.",
  "faits": [
   {
+   "d": "26/10",
+   "t": "T3 : CA 638,1 M$ (+2,3 %), marge opérationnelle 22,1 % (22,6 % un an plus tôt, 25,2 % au T2), BPA 2,68 $ (+3,9 %)."
+  },
+  {
+   "d": "26/10",
+   "t": "Prévision 2026 de marge opérationnelle resserrée vers le haut, à 20,0 à 20,5 % (dont environ 11 M$ de gain sur le terrain de Stockton). Nouvelles hausses de prix prévues en 2027."
+  },
+  {
+   "d": "26/10",
+   "t": "Autorisation de rachat d'actions portée de 200 M$ à 1,0 Md$ ; 66,3 M$ rachetés au T3."
+  },
+  {
    "d": "12/10",
    "t": "Résultats du T3 le lundi 26/10 après la clôture."
-  },
-  {
-   "d": "06/10",
-   "t": "La vente du terrain de Stockton est repoussée du T3 au T4 2026 ; prévisions annuelles inchangées (déclaration SEC)."
-  },
-  {
-   "d": "01/10",
-   "t": "Date d'enregistrement du dividende trimestriel de 0,30 $, versé le 22/10."
-  },
-  {
-   "d": "27/07",
-   "t": "T2 2026 : CA 671,1 M$ (+6,3 %), marge opérationnelle record de 25,2 % (contre 22,2 %), BPA dilué 3,09 $ (+25,1 %)."
   }
  ],
  "pub": "2026-10-26",
@@ -1123,25 +1123,25 @@
     "lecture": "Le marché doute d'une reprise rapide du logement neuf américain ; la valorisation redevient plus raisonnable."
    },
    {
+    "d": "26/10",
+    "fait": "T3 : CA +2,3 % (contre +6,3 % au T2), marge opérationnelle 22,1 %, volumes mondiaux à peu près stables ; Amérique du Nord +3,8 %, Europe -3,4 %. Prévision de marge annuelle resserrée vers le haut.",
+    "impact": "neutre",
+    "horizon": "moyen",
+    "lecture": "Le pouvoir de prix tient et la marge reste au-dessus de 20 %, mais la croissance ralentit, la marge record du T2 ne se répète pas et l'Europe recule."
+   },
+   {
+    "d": "26/10",
+    "fait": "Autorisation de rachat d'actions portée à 1,0 Md$ sans date limite.",
+    "impact": "positif",
+    "horizon": "long",
+    "lecture": "Priorité aux rachats : soutient le bénéfice par action même avec des volumes plats."
+   },
+   {
     "d": "06/10",
     "fait": "La vente d'un terrain à Stockton passe du T3 au T4 : le gain sera comptabilisé au T4, les prévisions 2026 sont confirmées.",
     "impact": "neutre",
     "horizon": "court",
     "lecture": "Simple effet de calendrier : la marge du T3 paraîtra plus basse sans ce gain, il faudra la lire hors éléments exceptionnels."
-   },
-   {
-    "d": "27/07",
-    "fait": "T2 2026 : CA de 671,1 M$ (+6,3 %), marge brute de 47,4 %, marge opérationnelle record de 25,2 %, BPA de 3,09 $ (+25,1 %). Europe : marge record de 13,7 %.",
-    "impact": "positif",
-    "horizon": "moyen",
-    "lecture": "Les hausses de prix et les économies font plus que compenser la baisse des volumes ; preuve du pouvoir de prix."
-   },
-   {
-    "d": "27/07",
-    "fait": "Prévision de marge opérationnelle 2026 relevée à 19,7 à 20,5 %, y compris un gain de 10 à 12 M$ sur une vente de terrain.",
-    "impact": "neutre",
-    "horizon": "court",
-    "lecture": "La prévision annuelle implique un second semestre nettement moins rentable que le T2 (environ 17 à 18 %), ce qui explique en partie le recul du cours."
    }
   ],
   "scenarios": [
@@ -1186,6 +1186,7 @@
    "Weinstein (stades)"
   ],
   "sources": [
+   "https://www.sec.gov/Archives/edgar/data/0000920371/000162828026067288/q32026ex991earningsrelease.htm",
    "https://finviz.com/news/401256/simpson-manufacturing-co-inc-to-announce-third-quarter-2026-financial-results-on-monday-october-26th",
    "https://www.sec.gov/Archives/edgar/data/0000920371/000162828026065254/ssd-20261006.htm",
    "https://www.prnewswire.com/news-releases/simpson-manufacturing-co-inc-declares-quarterly-dividend-302833697.html",
@@ -1334,39 +1335,39 @@
    "Que fera la société de sa trésorerie redevenue supérieure à sa dette : rachats d'actions, remboursement ou nouvelle acquisition ?"
   ],
   "suivi": {
-   "le": "2026-10-01",
+   "le": "2026-10-28",
    "bilan": "Le pouvoir de prix et la marge sont confirmés par le T2 2026 ; la reprise du logement américain reste attendue, c'est la condition la moins avancée.",
    "croire": [
     {
      "c": "Que Simpson garde son pouvoir de prix : ses connecteurs sont prescrits par les ingénieurs et exigés par les codes du bâtiment, ce qui lui permet de répercuter la hausse de l'acier et des droits de douane.",
      "etat": "ok",
-     "reponse": "Oui : la croissance du CA vient des hausses de prix de 2025 liées aux droits de douane, malgré des volumes plus faibles, et la marge brute monte.",
-     "preuve": "T2 2026 : CA +6,3 %, marge brute 47,4 % contre 46,4 % ; la direction cite les hausses de prix de 2025.",
-     "source": "https://www.prnewswire.com/news-releases/simpson-manufacturing-co-inc-announces-2026-second-quarter-financial-results-and-updates-2026-guidance-302835215.html",
+     "reponse": "Oui : la hausse du CA vient surtout des prix, et de nouvelles hausses sont prévues en 2027.",
+     "preuve": "T3 2026 : CA +2,3 %, volumes stables.",
+     "source": "https://www.sec.gov/Archives/edgar/data/0000920371/000162828026067288/q32026ex991earningsrelease.htm",
      "prochain": "Résultats du T3 2026 (fin octobre)"
     },
     {
      "c": "Que la marge opérationnelle reste au moins autour de 20 % même si les volumes restent faibles, grâce aux hausses de prix et aux économies de coûts.",
      "etat": "ok",
-     "reponse": "Oui en 2026 : marge de 22,5 % au S1 et prévision annuelle relevée à 19,7 à 20,5 %.",
-     "preuve": "S1 2026 : résultat opérationnel de 283,7 M$ pour 1 259,0 M$ de CA ; prévision annuelle 19,7 à 20,5 % (dont 10 à 12 M$ de gain sur terrain).",
-     "source": "https://www.prnewswire.com/news-releases/simpson-manufacturing-co-inc-announces-2026-second-quarter-financial-results-and-updates-2026-guidance-302835215.html",
+     "reponse": "Oui : 22,1 % au T3 et prévision annuelle de 20,0 à 20,5 %.",
+     "preuve": "Résultat opérationnel 141,0 M$ pour 638,1 M$ de CA.",
+     "source": "https://www.sec.gov/Archives/edgar/data/0000920371/000162828026067288/q32026ex991earningsrelease.htm",
      "prochain": "Résultats du T3 2026"
     },
     {
      "c": "Que la construction de logements neufs aux États-Unis finira par repartir (taux plus bas, déficit de logements), ce qui ferait remonter les volumes.",
      "etat": "watch",
-     "reponse": "Pas encore : la direction parle d'une demande plus faible et de volumes sous pression.",
-     "preuve": "Communiqué du T2 2026 : croissance tirée par les prix, volumes en baisse.",
-     "source": "https://www.prnewswire.com/news-releases/simpson-manufacturing-co-inc-announces-2026-second-quarter-financial-results-and-updates-2026-guidance-302835215.html",
+     "reponse": "Pas encore : volumes mondiaux à peu près stables.",
+     "preuve": "Commentaire du PDG au T3 2026.",
+     "source": "https://www.sec.gov/Archives/edgar/data/0000920371/000162828026067288/q32026ex991earningsrelease.htm",
      "prochain": "Statistiques mensuelles des mises en chantier aux États-Unis"
     },
     {
      "c": "Que l'Europe (Etanco, racheté en 2022) continue d'améliorer sa rentabilité et devienne un second moteur.",
-     "etat": "ok",
-     "reponse": "Oui : l'Europe progresse et atteint une marge record.",
-     "preuve": "Europe au T2 2026 : CA 143,5 M$ (+7,6 %), résultat opérationnel 19,7 M$ (+25,7 %), marge 13,7 %.",
-     "source": "https://www.prnewswire.com/news-releases/simpson-manufacturing-co-inc-announces-2026-second-quarter-financial-results-and-updates-2026-guidance-302835215.html",
+     "etat": "watch",
+     "reponse": "Recul au T3 : ventes -3,4 %, marge 11,8 %.",
+     "preuve": "Europe T3 2026 : CA 129,9 M$.",
+     "source": "https://www.sec.gov/Archives/edgar/data/0000920371/000162828026067288/q32026ex991earningsrelease.htm",
      "prochain": "Résultats du T3 2026"
     }
    ],

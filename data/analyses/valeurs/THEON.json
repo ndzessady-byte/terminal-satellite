@@ -14,6 +14,10 @@
  "risque": "Endettement en forte hausse après une série de rachats (levier vers 3 fois l'Ebitda), commandes publiques irrégulières et forte dépendance aux budgets de défense européens.",
  "faits": [
   {
+   "d": "20/10",
+   "t": "Nouveaux contrats de vision nocturne avec deux pays européens de l'OTAN, livraisons dès 2026 (montant d'une seule source)."
+  },
+  {
    "d": "30/09",
    "t": "Nouvelles commandes d'environ 50 M€ (lunettes NYX et ORION, systèmes KAPPA), dont le premier gros contrat ORION pour un pays d'Europe de l'Ouest membre de l'OTAN ; présélection sur plusieurs contrats plus importants."
   },
@@ -24,10 +28,6 @@
   {
    "d": "27/07",
    "t": "Annonce des rachats de 80 % de MERIO (nacelles optiques pour drones) et de HGH (anti-drones, valeur d'entreprise d'environ 300 M€, financée par dette) : levier pro forma d'environ 3 fois l'Ebitda."
-  },
-  {
-   "d": "26/06",
-   "t": "Versement du dividende 2025 de 0,31 € par action (24,4 M€, environ 30 % du bénéfice 2025)."
   }
  ],
  "pub": null,
@@ -1116,6 +1116,20 @@
   },
   "actu": [
    {
+    "d": "T1 2026",
+    "fait": "Achat de 9,8 % d'Exosens (fabricant français de tubes intensificateurs, à 54 € par action, 268,7 M€) et de Kappa Optronics (69,9 M€). Projet de siège au conseil et de hausse de la participation dans Exosens mis en pause.",
+    "impact": "neutre",
+    "horizon": "long",
+    "lecture": "Sécurise un fournisseur clé, mais immobilise beaucoup d'argent dans une participation minoritaire dont la valeur dépend de la Bourse."
+   },
+   {
+    "d": "20/10",
+    "fait": "Deux nouveaux contrats de vision nocturne en Europe, livraisons à partir de 2026.",
+    "impact": "positif",
+    "horizon": "moyen",
+    "lecture": "Confirme les commandes européennes attendues, pour un montant qui semble modeste face au chiffre d'affaires visé."
+   },
+   {
     "d": "30/09",
     "fait": "Commandes d'environ 50 M€ (NYX, ORION, KAPPA) en Europe et au Moyen-Orient, dont le premier contrat important ORION pour un pays d'Europe de l'Ouest de l'OTAN. La direction attend des commandes fortes au T4 2026 et au T1 2027.",
     "impact": "positif",
@@ -1128,20 +1142,6 @@
     "impact": "neutre",
     "horizon": "moyen",
     "lecture": "L'activité est excellente, mais les commandes du semestre ne font que remplacer les ventes et une partie du bénéfice est comptable. Le second semestre doit confirmer l'arrivée de grosses commandes."
-   },
-   {
-    "d": "27/07",
-    "fait": "Rachats annoncés : 80 % de MERIO (nacelles optiques pour drones, avec une coentreprise Safran) et HGH Systèmes Infrarouges (anti-drones, valeur d'entreprise d'environ 300 M€, entièrement par dette, clôture début 2027).",
-    "impact": "negatif",
-    "horizon": "long",
-    "lecture": "Stratégiquement logique (drones et anti-drones sont les marchés qui grandissent le plus), mais le levier passe vers 3 fois l'Ebitda : la société change de profil, d'un bilan en trésorerie nette à un groupe endetté qui finance sa croissance par des rachats."
-   },
-   {
-    "d": "T1 2026",
-    "fait": "Achat de 9,8 % d'Exosens (fabricant français de tubes intensificateurs, à 54 € par action, 268,7 M€) et de Kappa Optronics (69,9 M€). Projet de siège au conseil et de hausse de la participation dans Exosens mis en pause.",
-    "impact": "neutre",
-    "horizon": "long",
-    "lecture": "Sécurise un fournisseur clé, mais immobilise beaucoup d'argent dans une participation minoritaire dont la valeur dépend de la Bourse."
    }
   ],
   "scenarios": [
@@ -1189,6 +1189,7 @@
    "Weinstein (stades)"
   ],
   "sources": [
+   "https://www.ideal-investisseur.fr/actions-b/theon-international-decroche-45-m-de-contrats-de-vision-nocturne-aupres-de-deux-pays-de-lotan/27580.html",
    "https://www.globenewswire.com/news-release/2026/09/07/3357256/0/en/publication-of-h1-2026-report.html",
    "https://www.investegate.co.uk/announcement/gnw/theon-international-plc--theon/theon-announces-q2-2026-h1-2026-trading-upd-/9689775",
    "https://www.globenewswire.com/news-release/2026/09/30/3372250/0/en/theon-secures-new-orders-of-c-50-million-and-is-pre-selected-for-several-higher-value-contracts-and-options.html",

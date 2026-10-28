@@ -1,6 +1,6 @@
 {
- "lecture": "La guerre s'étend au Golfe avec des frappes houthies en Arabie saoudite, ce qui maintient le Brent au-dessus de 110 $ et le gaz près de ses plus hauts. En France, le marché a déjà anticipé une baisse de note (OAT au-dessus de 5 %, banques en chute), donc un simple passage à A1 ce soir pourrait même soulager un peu. L'Ukraine reste la seule piste de détente, avec des pourparlers mi-novembre.",
- "majLe": "2026-10-23",
+ "lecture": "Le pire n'est pas arrivé avec Moody's et le marché français reprend un peu d'air, mais la menace sur la note reste entière tant que le budget n'est pas voté. La crise sociale et le moral des ménages au plus bas depuis 2013 pèsent sur la consommation intérieure. Le pétrole au-dessus de 110 $ reste le premier risque ; une détente avec l'Iran serait le meilleur catalyseur, mais des frappes sont évoquées après le 03/11.",
+ "majLe": "2026-10-28",
  "matieres": {
   "ALU": {
    "moteurs": "L'aluminium reste haut (environ 3 260 $/t, +22 % sur un an) car la production du Golfe s'est effondrée avec la guerre, mais le dollar fort et les exportations chinoises le plafonnent.",
@@ -69,6 +69,10 @@
   {
    "faits": [
     {
+     "d": "27/10",
+     "t": "Le Brent recule vers 114 $ après un plus haut depuis juin 2022 vers 116 $ le 23/10, sur l'espoir de discussions entre les États-Unis et l'Iran."
+    },
+    {
      "d": "22/10",
      "t": "Escalade en Arabie saoudite : les Houthis frappent l'aéroport de Dammam (2 morts) et Yanbu, Aramco fait évacuer son siège de Dhahran et Washington retire son personnel non essentiel. Les Gardiens revendiquent de nouvelles frappes sur des navires ; Brent vers 112 à 113 $."
     },
@@ -87,10 +91,6 @@
     {
      "d": "19/10",
      "t": "Le Brent recule lundi matin après être passé la semaine dernière au-dessus de 110 $ pour la première fois depuis mai. Pas de nouvelle attaque ni d'avancée diplomatique trouvée ce week-end (une seule source)."
-    },
-    {
-     "d": "15/10",
-     "t": "Les frappes de drones iraniens sur les navires se multiplient et le trafic des pétroliers ralentit."
     }
    ],
    "id": "ormuz",
@@ -144,7 +144,7 @@
     "Toute reprise de négociation États-Unis / Iran via le Qatar",
     "03/11 : élections de mi-mandat américaines, que Téhéran juge peu propices à un accord avant"
    ],
-   "tendance": "hausse",
+   "tendance": "stable",
    "titre": "Iran, États-Unis et détroit d'Ormuz",
    "valeurs": [
     {
@@ -182,6 +182,10 @@
   {
    "faits": [
     {
+     "d": "27/10",
+     "t": "Après le maintien de la note par Moody's, l'OAT 10 ans repasse sous 5 %, vers 4,92 % mardi (une seule source). BCE jeudi 29/10 : maintien attendu ; la Fed devrait aussi maintenir le 28/10 mais penche vers une hausse en décembre."
+    },
+    {
      "d": "23/10",
      "t": "Moody's maintient la note de la France à Aa3 avec perspective négative, contre l'avis de la plupart des économistes qui attendaient une baisse à A1. La France reste un cran au-dessus des notes de S&P et Fitch (A+)."
     },
@@ -200,10 +204,6 @@
     {
      "d": "21/10",
      "t": "L'OAT 10 ans passe brièvement au-dessus de 5 % en fin de matinée."
-    },
-    {
-     "d": "20/10",
-     "t": "OAT 4,93 %, Bund 3,42 % : écart de 151 pb (Banque de France et Bundesbank), plus haut de clôture depuis 2011 selon l'AFP. Moody's rend sa décision sur la note de la France le 23/10."
     }
    ],
    "id": "taux",
@@ -246,7 +246,7 @@
     "Prochaine réunion BCE fin octobre (date à confirmer)",
     "Chiffres d'inflation zone euro et États-Unis début octobre"
    ],
-   "tendance": "hausse",
+   "tendance": "stable",
    "titre": "Inflation énergie : BCE et Fed remontent les taux",
    "valeurs": [
     {
@@ -274,6 +274,10 @@
   {
    "faits": [
     {
+     "d": "27/10",
+     "t": "Le moral des ménages tombe à 80 en octobre, plus bas depuis juin 2013 (Insee). Deuxième samedi de mobilisation le 24/10 (135 interpellations) ; les gilets jaunes appellent à de nouveaux rassemblements le 31/10."
+    },
+    {
      "d": "23/10",
      "t": "Moody's maintient la note de la France à Aa3 avec perspective négative, contre l'avis de la plupart des économistes qui attendaient une baisse à A1. La France reste un cran au-dessus des notes de S&P et Fitch (A+)."
     },
@@ -292,10 +296,6 @@
     {
      "d": "20/10",
      "t": "Couvre-feux reconduits à Lyon et Marseille, restrictions à Paris, Bordeaux, Lille et Nice ; près de 150 incarcérations. Nouvelles manifestations annoncées les 24 et 31/10."
-    },
-    {
-     "d": "19/10",
-     "t": "Le vote sur les recettes du budget 2027 est reporté : l'Assemblée passe au budget de la Sécu, les recettes reprennent le 27/10 ; date limite le 17/11. 49.3, censure, loi spéciale ou ordonnances restent possibles."
     }
    ],
    "id": "france",
@@ -332,7 +332,7 @@
     "Position du RN sur la censure",
     "Écart OAT/Bund : au-dessus de 110 pb, signal d'alerte ; non atteint au 25/09"
    ],
-   "tendance": "hausse",
+   "tendance": "stable",
    "titre": "Budget 2027 et risque politique français",
    "valeurs": [
     {

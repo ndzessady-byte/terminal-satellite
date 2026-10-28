@@ -1,9 +1,9 @@
 {
- "asOf": "2026-10-23",
+ "asOf": "2026-10-28",
  "attention": [
-  "Moody's maintient la France à Aa3, perspective négative (baisse à A1 attendue par la plupart) : petit soulagement possible lundi pour l'OAT et les banques, mais la menace reste et le budget doit encore passer.",
-  "Thermador : thèse cassée (clôture durable sous 62 €).",
-  "Semaine prochaine : reprise des débats sur les recettes du budget le 27/10, Melexis et Lectra le 28/10, DNO le 29/10, BCE le 29/10, Simpson le 26/10."
+  "Publications : Melexis, Lectra, Aubay et Vidrala le 28/10 ; Harvia et DNO le 29/10 ; BCE le 29/10.",
+  "Nouvelle mobilisation le 31/10 ; budget 2027 toujours sans majorité.",
+  "En zone d'intérêt : Kitron, Melexis, Mueller, Trigano, Aubay. Thermador : thèse cassée (61,4 €)."
  ],
  "etf": {
   "nom": "Amundi PEA Monde MSCI World (DCAM)",
@@ -15,24 +15,24 @@
  "macro": [
   {
    "label": "CAC 40",
-   "valeur": "7 782,82",
-   "var": "-0,36 %",
-   "sens": -1,
-   "note": "clôture du 23/10 ; environ -2,2 % sur la semaine (une seule source)"
+   "valeur": "7 887,14",
+   "var": "+0,51 %",
+   "sens": 1,
+   "note": "clôture du 27/10 ; +0,83 % le 26/10 après Moody's"
   },
   {
    "label": "OAT 10 ans",
-   "valeur": "5,03 à 5,04 %",
-   "var": "-4 pb",
-   "sens": 0,
-   "note": "clôture du 23/10, chiffre exact selon les sources"
+   "valeur": "vers 4,92 %",
+   "var": "baisse",
+   "sens": 1,
+   "note": "27/10, une seule source ; 5,03 % le 23/10"
   },
   {
    "label": "Écart OAT / Bund",
-   "valeur": "vers 168 pb",
-   "var": "n.c.",
-   "sens": -1,
-   "note": "une seule source ; pic au-dessus de 175 pb cette semaine, plus haut depuis 2011"
+   "valeur": "vers 154 pb",
+   "var": "baisse",
+   "sens": 1,
+   "note": "calcul, non confirmé par la Banque de France"
   },
   {
    "label": "BCE taux de dépôt",
@@ -43,10 +43,10 @@
   },
   {
    "label": "Brent",
-   "valeur": "115 à 116 $",
-   "var": "hausse",
+   "valeur": "vers 114 $",
+   "var": "-1,7 %",
    "sens": -1,
-   "note": "relevés à des heures différentes, pas de clôture confirmée"
+   "note": "27/10, une seule source ; plus haut depuis 2022 vers 116 $ le 23/10"
   },
   {
    "label": "EUR/USD",
@@ -56,12 +56,12 @@
    "note": "deux sources concordent sur le niveau"
   }
  ],
- "majLe": "2026-10-24T02:10:00+02:00",
+ "majLe": "2026-10-28T08:00:00+01:00",
  "semaine": "5 au 9 octobre 2026",
  "semaineTexte": [
-  "Semaine du 19/10 : CAC 40 vers -2,2 % à 7 783 pts ; émeutes, OAT au-dessus de 5 % et écart avec le Bund au plus haut depuis 2011.",
-  "Résultats : Virbac, Aalberts, Medistim et Vusion rassurent ; Kitron, Viscofan et Mueller déçoivent ; la thèse Thermador est cassée.",
-  "Brent vers 115 $ avec l'extension du conflit à l'Arabie saoudite ; gaz au-dessus de 90 €/MWh."
+  "Lundi et mardi : CAC 40 +0,83 % puis +0,51 % à 7 887 pts après le maintien de la note par Moody's ; OAT repassée sous 5 %.",
+  "Simpson : T3 correct (marge 22,1 %), prévision de marge relevée et rachat d'actions porté à 1 Md$.",
+  "Moral des ménages au plus bas depuis 2013 ; Brent vers 114 $."
  ],
  "watchlistValidee": false
 }
