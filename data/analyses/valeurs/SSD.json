@@ -30,8 +30,8 @@
    "t": "Résultats du T3 le lundi 26/10 après la clôture."
   }
  ],
- "pub": "2026-10-26",
- "pubLabel": "Résultats du T3 (après la clôture)",
+ "pub": null,
+ "pubLabel": "Résultats annuels 2026 (date non encore publiée)",
  "src": "https://www.prnewswire.com/news-releases/simpson-manufacturing-co-inc-announces-2026-second-quarter-financial-results-and-updates-2026-guidance-302835215.html",
  "notes": "PER 2026 d'environ 19 (BPA 2026 attendu de 9,06 $, 5 analystes) selon une seule source (StockAnalysis), non retenu. Clôture du 30/09/2026 à 170,88 $ (flux de cours Yahoo, confirmée par WallStreetZen).",
  "yahoo": "SSD",
@@ -1115,13 +1115,6 @@
    "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json"
   },
   "actu": [
-   {
-    "d": "juillet à septembre",
-    "fait": "Le titre a reculé de 210 $ fin juin à 171 $ fin septembre (-19 %).",
-    "impact": "negatif",
-    "horizon": "court",
-    "lecture": "Le marché doute d'une reprise rapide du logement neuf américain ; la valorisation redevient plus raisonnable."
-   },
    {
     "d": "26/10",
     "fait": "T3 : CA +2,3 % (contre +6,3 % au T2), marge opérationnelle 22,1 %, volumes mondiaux à peu près stables ; Amérique du Nord +3,8 %, Europe -3,4 %. Prévision de marge annuelle resserrée vers le haut.",

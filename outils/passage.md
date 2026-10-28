@@ -6,7 +6,9 @@ Ce fichier est la consigne complète d'un passage. Les passages sont programmés
 1. Si c'est un jour férié de la Bourse de Paris, arrête-toi là.
 2. Dans /home/claude/terminal-satellite (le recloner si absent) : git pull. Suis outils/procedure_maj.md et les règles détaillées du prompt de l'ancienne tâche trig_01Qzw1dmriNeg5GEg8cWVtvr (list_triggers pour la relire).
 3. Midi = veille actu + géopolitique (geo.json) + snapshot. Soir = vérifier que « Cours du soir » a tourné (sinon workflow_dispatch prix.yml via l'API GitHub, en-tête Content-Type: application/json), python3 outils/maj_flux.py, veille actu, snapshot avec macro.
-4. Recherche : sous-agents avec la consigne du scratchpad (consigne.txt, date à mettre à jour), 2 groupes de valeurs + 1 macro/géo, budgets serrés. Si les sous-agents échouent (limite d'utilisation), veille réduite soi-même, et publier quand même.
-5. Fusion par script (merge.py), export_app, commit « Analyses du <date> <midi|soir> » signé 3A Wealth sans mention de Claude ni Co-Authored-By, push, vérifier git log -1.
+4. Recherche : sous-agents avec la consigne outils/consigne_veille.txt (indique-leur la date du jour et la période à couvrir dans ton message), 2 groupes de valeurs + 1 macro/géo, budgets serrés. Si les sous-agents échouent (limite d'utilisation), veille réduite soi-même, et publier quand même.
+5. Fusion par script : python3 outils/merge.py <json> <YYYY-MM-DD> (le JSON des sous-agents à écrire dans le scratchpad), export_app, commit « Analyses du <date> <midi|soir> » signé 3A Wealth sans mention de Claude ni Co-Authored-By, push, vérifier git log -1.
 6. Alerte à Dylan via SendUserMessage seulement selon les critères (cassée, OPA, ±10 % séance, entrée en zone d'intérêt, suivi ko, point chaud passant à élevé).
 7. Rattrapage : si le dernier commit « Analyses du » date de plus de 30 heures de bourse, couvrir toute la période manquée.
+
+Fiche complète d'une nouvelle valeur : consigne outils/consigne_fiche.txt.
