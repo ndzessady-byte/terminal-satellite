@@ -15,6 +15,10 @@
  "faits": [
   {
    "d": "20/10",
+   "t": "Le communiqué de la société confirme le montant : environ 45 M€ de contrats de vision nocturne avec deux pays européens de l'OTAN, sous réserve des accords finaux des autorités."
+  },
+  {
+   "d": "20/10",
    "t": "Nouveaux contrats de vision nocturne avec deux pays européens de l'OTAN, livraisons dès 2026 (montant d'une seule source)."
   },
   {
@@ -24,10 +28,6 @@
   {
    "d": "07/09",
    "t": "S1 : CA 248,7 M€ (+35,4 %, +24,7 % sans les rachats), marge EBIT ajustée 26,2 %, bénéfice net 74,3 M€ (dont un gain de juste valeur), dette nette 237,9 M€. Objectif 2026 : environ 600 M€ de CA."
-  },
-  {
-   "d": "27/07",
-   "t": "Annonce des rachats de 80 % de MERIO (nacelles optiques pour drones) et de HGH (anti-drones, valeur d'entreprise d'environ 300 M€, financée par dette) : levier pro forma d'environ 3 fois l'Ebitda."
   }
  ],
  "pub": null,
@@ -1084,7 +1084,7 @@
   "m12": -6.3
  },
  "analyse": {
-  "majLe": "2026-10-01",
+  "majLe": "2026-10-28",
   "verdict": "Theon est une valeur de défense de grande qualité opérationnelle : croissance de plus de 30 %, marge EBIT ajustée de 26 % et carnet de commandes couvrant plus de deux ans de ventes. Le profil a pourtant changé en 2026 : la société est passée d'une trésorerie nette de 127 M€ à une dette nette de 238 M€ en six mois, et le rachat de HGH portera le levier vers 3 fois l'Ebitda. Le titre a reculé de 38 € à moins de 29 € depuis la mi-août, ce qui ramène la valorisation vers 17 fois les bénéfices 2027 attendus. La thèse tient tant que les commandes suivent et que la dette redescend comme promis.",
   "conviction": "moyenne",
   "revisions": "Sens non confirmé. Consensus MarketScreener : BPA 2026 de 1,476 €, 2027 de 1,721 €, 2028 de 2,048 € ; CA 2026 de 601 M€, en ligne avec l'objectif relevé à environ 600 M€. Objectif moyen des analystes d'environ 39,4 € (9 analystes, stockanalysis), non recoupé.",
@@ -1117,6 +1117,13 @@
   "actu": [
    {
     "d": "20/10",
+    "fait": "Communiqué officiel : contrats de vision nocturne d'environ 45 M€ avec deux pays européens membres de l'OTAN, livraisons dès 2026, sous réserve des accords finaux habituels. La direction attend toujours une hausse des commandes en fin d'année et au T1 2027.",
+    "impact": "positif",
+    "horizon": "moyen",
+    "lecture": "Avec environ 50 M€ le 30/09, cela fait environ 95 M€ de commandes annoncées en trois semaines : un début de confirmation de la reprise attendue des commandes, encore loin des 600 M€ de ventes visées sur l'année."
+   },
+   {
+    "d": "20/10",
     "fait": "Deux nouveaux contrats de vision nocturne en Europe, livraisons à partir de 2026.",
     "impact": "positif",
     "horizon": "moyen",
@@ -1135,13 +1142,6 @@
     "impact": "neutre",
     "horizon": "moyen",
     "lecture": "L'activité est excellente, mais les commandes du semestre ne font que remplacer les ventes et une partie du bénéfice est comptable. Le second semestre doit confirmer l'arrivée de grosses commandes."
-   },
-   {
-    "d": "T1 2026",
-    "fait": "Achat de 9,8 % d'Exosens (fabricant français de tubes intensificateurs, à 54 € par action, 268,7 M€) et de Kappa Optronics (69,9 M€). Projet de siège au conseil et de hausse de la participation dans Exosens mis en pause.",
-    "impact": "neutre",
-    "horizon": "long",
-    "lecture": "Sécurise un fournisseur clé, mais immobilise beaucoup d'argent dans une participation minoritaire dont la valeur dépend de la Bourse."
    }
   ],
   "scenarios": [
@@ -1189,6 +1189,7 @@
    "Weinstein (stades)"
   ],
   "sources": [
+   "https://www.trivano.com/persbericht/theon-awarded-night-vision-contracts-worth-ceur45-million-from-two-european-nato-member-states-768516.html",
    "https://www.ideal-investisseur.fr/actions-b/theon-international-decroche-45-m-de-contrats-de-vision-nocturne-aupres-de-deux-pays-de-lotan/27580.html",
    "https://www.globenewswire.com/news-release/2026/09/07/3357256/0/en/publication-of-h1-2026-report.html",
    "https://www.investegate.co.uk/announcement/gnw/theon-international-plc--theon/theon-announces-q2-2026-h1-2026-trading-upd-/9689775",
@@ -1216,7 +1217,8 @@
     "effet": "Un cessez-le-feu pourrait refroidir le secteur en bourse.",
     "point": "russie-ukraine"
    }
-  ]
+  ],
+  "veilleLe": "2026-10-28"
  },
  "societe": {
   "resume": "Theon International conçoit et fabrique des lunettes de vision nocturne et des systèmes d'imagerie thermique pour les soldats, les véhicules et les forces de sécurité. Concrètement, quand une armée européenne équipe ses fantassins de lunettes pour voir et tirer de nuit, Theon fait partie des fournisseurs de référence (lunettes NYX, ORION). Le groupe, d'origine grecque et immatriculé à Chypre, élargit son offre aux nacelles optiques pour drones et à la détection de drones.",
@@ -1348,15 +1350,15 @@
    "Les retards de décisions d'achat au Moyen-Orient et en Asie sont-ils passagers, ou la demande hors Europe ralentit-elle durablement ?"
   ],
   "suivi": {
-   "le": "2026-10-01",
+   "le": "2026-10-28",
    "bilan": "L'activité tient toutes ses promesses (croissance, marge), mais deux points sont à surveiller : les commandes du S1 ont seulement égalé les ventes et la dette monte vite avec les rachats.",
    "croire": [
     {
      "c": "Que les armées européennes continuent de commander assez d'équipements terrestres (commandes au moins égales aux ventes) pour tenir la trajectoire vers 1 Md€ de chiffre d'affaires en 2029.",
      "etat": "watch",
-     "reponse": "Le carnet reste très élevé, mais les commandes du S1 2026 (232,5 M€) n'ont fait que compenser les ventes ; la direction attend de grosses commandes au T4 2026 et au T1 2027, et a déjà annoncé environ 50 M€ fin septembre.",
-     "preuve": "S1 2026 : commandes 232,5 M€ (+38,5 %), rapport commandes sur ventes d'environ 1,0, carnet 1 455,9 M€ (+2,5 % depuis mars) et 902 M€ d'options.",
-     "source": "https://www.globenewswire.com/news-release/2026/09/07/3357256/0/en/publication-of-h1-2026-report.html",
+     "reponse": "Les commandes reprennent en Europe (environ 95 M€ annoncés depuis le 30/09), mais il faudra les chiffres du T3 et du T4 pour savoir si elles dépassent les ventes.",
+     "preuve": "Communiqué du 20/10/2026 : environ 45 M€ de contrats avec deux pays européens de l'OTAN ; communiqué du 30/09/2026 : environ 50 M€.",
+     "source": "https://www.trivano.com/persbericht/theon-awarded-night-vision-contracts-worth-ceur45-million-from-two-european-nato-member-states-768516.html",
      "prochain": "Point d'activité du T3 (début novembre 2026)"
     },
     {

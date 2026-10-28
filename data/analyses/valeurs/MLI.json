@@ -31,7 +31,7 @@
   }
  ],
  "pub": null,
- "pubLabel": "Résultats du T3 2026 (date estimée au 27/10/2026 par MarketBeat, non confirmée par la société)",
+ "pubLabel": "Résultats du T4 et de l'année 2026 (début février 2027, le 03/02 l'an dernier ; date non confirmée)",
  "src": "https://www.sec.gov/Archives/edgar/data/89439/000008943926000029/exhibit991q22026earningsre.htm",
  "notes": "Tous les montants par action sont ajustés de la division par 2 du 30/06/2026 (BPA 2025 publié 6,86 $, soit environ 3,43 $ après division). PER 2026 de 14,4 sur un consensus de 2 analystes seulement. Clôture du 30/09/2026 à 60,61 $ (flux de cours Yahoo).",
  "yahoo": "MLI",
@@ -1212,7 +1212,8 @@
     "effet": "Change euro/dollar sur ton rendement.",
     "point": null
    }
-  ]
+  ],
+  "veilleLe": "2026-10-28"
  },
  "societe": {
   "resume": "Mueller Industries fabrique des tubes en cuivre, des raccords, des vannes et des pièces en laiton ou en aluminium, surtout pour la plomberie, le chauffage et la climatisation. Concrètement, quand un plombier américain installe le réseau d'eau d'une maison ou qu'un frigoriste pose une climatisation, il utilise très souvent des tubes et raccords Mueller. La société vend aussi des barres et pièces en métal à l'industrie et des composants pour les réseaux électriques.",
