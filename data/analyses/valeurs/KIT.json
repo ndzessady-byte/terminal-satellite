@@ -2,13 +2,6 @@
  "analyse": {
   "actu": [
    {
-    "d": "en continu",
-    "fait": "Hausse durable des budgets de défense en Europe, principal moteur de la croissance du groupe.",
-    "horizon": "long",
-    "impact": "positif",
-    "lecture": "Le cycle de réarmement peut durer des années, mais Kitron devient plus dépendant d'un seul moteur politique et budgétaire."
-   },
-   {
     "d": "22/10",
     "fait": "La baisse se creuse en séance jusqu'à -10,1 % (85,45 NOK) : BPA en ligne sans bonne surprise, trésorerie absorbée par les stocks, tensions d'approvisionnement possibles jusqu'en 2027 et commandes défense irrégulières.",
     "impact": "negatif",
@@ -28,6 +21,13 @@
     "impact": "positif",
     "horizon": "long",
     "lecture": "Avancer le chantier montre que les commandes défense arrivent plus vite que prévu. Mais c'est une troisième extension en quelques semaines, après Longum et Horsens : les investissements et la dépendance à la défense augmentent."
+   },
+   {
+    "d": "en continu",
+    "fait": "Hausse durable des budgets de défense en Europe, principal moteur de la croissance du groupe.",
+    "horizon": "long",
+    "impact": "positif",
+    "lecture": "Le cycle de réarmement peut durer des années, mais Kitron devient plus dépendant d'un seul moteur politique et budgétaire."
    }
   ],
   "cadres": [

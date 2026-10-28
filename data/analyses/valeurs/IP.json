@@ -2,13 +2,6 @@
  "analyse": {
   "actu": [
    {
-    "d": "en continu",
-    "fait": "Cycle industriel européen et américain faible (machines agricoles, construction, hydraulique) et incertitudes sur les droits de douane.",
-    "horizon": "moyen",
-    "impact": "negatif",
-    "lecture": "Interpump fait environ 25 % de son CA en Amérique du Nord : une reprise du cycle ou un apaisement commercial serait le principal moteur de hausse."
-   },
-   {
     "d": "06/10",
     "fait": "Interpump annonce la fin du contrat de Riccardo Mastronardi, dirigeant avec responsabilités stratégiques, au 05/10, sans en donner la raison.",
     "impact": "neutre",
@@ -28,6 +21,13 @@
     "horizon": "moyen",
     "impact": "neutre",
     "lecture": "Pas encore de reprise, mais pas de nouvelle dégradation : le point bas du cycle semble proche, ce qui est la condition pour que la valorisation remonte."
+   },
+   {
+    "d": "en continu",
+    "fait": "Cycle industriel européen et américain faible (machines agricoles, construction, hydraulique) et incertitudes sur les droits de douane.",
+    "horizon": "moyen",
+    "impact": "negatif",
+    "lecture": "Interpump fait environ 25 % de son CA en Amérique du Nord : une reprise du cycle ou un apaisement commercial serait le principal moteur de hausse."
    }
   ],
   "cadres": [

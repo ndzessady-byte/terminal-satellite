@@ -2,13 +2,6 @@
  "analyse": {
   "actu": [
    {
-    "d": "en continu",
-    "fait": "Hausse des coûts d'énergie (gaz naturel) et des matières premières (peaux pour le collagène, plastiques), et effet devises négatif d'environ 10 points au premier semestre.",
-    "horizon": "court",
-    "impact": "negatif",
-    "lecture": "Ces pressions sont en partie temporaires ; si l'énergie se détend, les marges peuvent remonter vers 23 à 24 % comme l'ont connu 2024 et 2025."
-   },
-   {
     "d": "22/10",
     "fait": "Ventes en hausse et T3 record (335,7 M€), bénéfice net +2,9 % sur 9 mois, mais EBITDA 2026 abaissé une deuxième fois, à 290 à 295 M€ : le coût de l'énergie et des matières dérivées du pétrole n'est compensé qu'en partie par les hausses de prix. Publication après la clôture, le titre n'a pas encore réagi.",
     "impact": "negatif",
@@ -28,6 +21,13 @@
     "impact": "neutre",
     "horizon": "court",
     "lecture": "Premier point de contrôle après l'avertissement sur le bas de fourchette d'EBITDA : on verra si les hausses de prix du S2 compensent les coûts et le dollar."
+   },
+   {
+    "d": "en continu",
+    "fait": "Hausse des coûts d'énergie (gaz naturel) et des matières premières (peaux pour le collagène, plastiques), et effet devises négatif d'environ 10 points au premier semestre.",
+    "horizon": "court",
+    "impact": "negatif",
+    "lecture": "Ces pressions sont en partie temporaires ; si l'énergie se détend, les marges peuvent remonter vers 23 à 24 % comme l'ont connu 2024 et 2025."
    }
   ],
   "cadres": [

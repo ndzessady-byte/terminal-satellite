@@ -14,10 +14,6 @@
  "risque": "Bénéfices sans doute proches d'un haut de cycle (cuivre cher, droits de douane favorables) ; seulement 2 analystes suivent la valeur ; ventes d'actions par des dirigeants ; risque de change euro/dollar.",
  "faits": [
   {
-   "d": "06/2026",
-   "t": "Rachat de Chicago Extruded Metals, après Bison Metals Technologies en mars (138,3 M$)."
-  },
-  {
    "d": "20/10",
    "t": "T3 : CA 1,42 Md$ (+32 %), résultat opérationnel 281,6 M$ (276,1 M$ un an plus tôt), BPA 1,00 $ (0,94 $). Cuivre moyen +34 %."
   },
@@ -28,6 +24,10 @@
   {
    "d": "20/10",
    "t": "201,9 M$ de rachats d'actions au T3, trésorerie d'environ 1,48 Md$, carnets de commandes en hausse dans les trois divisions."
+  },
+  {
+   "d": "06/2026",
+   "t": "Rachat de Chicago Extruded Metals, après Bison Metals Technologies en mars (138,3 M$)."
   }
  ],
  "pub": null,
@@ -1116,13 +1116,6 @@
   },
   "actu": [
    {
-    "d": "mars à juin",
-    "fait": "Rachats de Bison Metals Technologies (138,3 M$) et de Chicago Extruded Metals.",
-    "impact": "neutre",
-    "horizon": "long",
-    "lecture": "Petites acquisitions payées en cash, dans la ligne du modèle ; à surveiller si les montants grossissent."
-   },
-   {
     "d": "20/10",
     "fait": "Ventes +32 % mais résultat opérationnel presque stable : marge d'environ 19,8 % contre environ 25,6 % un an plus tôt (calcul à partir du communiqué), avec des frais d'acquisition et un gain de cession dans la base 2025.",
     "impact": "negatif",
@@ -1142,6 +1135,13 @@
     "impact": "positif",
     "horizon": "moyen",
     "lecture": "La demande non résidentielle compense le logement et la discipline financière est confirmée."
+   },
+   {
+    "d": "mars à juin",
+    "fait": "Rachats de Bison Metals Technologies (138,3 M$) et de Chicago Extruded Metals.",
+    "impact": "neutre",
+    "horizon": "long",
+    "lecture": "Petites acquisitions payées en cash, dans la ligne du modèle ; à surveiller si les montants grossissent."
    }
   ],
   "scenarios": [

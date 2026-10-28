@@ -1116,13 +1116,6 @@
   },
   "actu": [
    {
-    "d": "T1 2026",
-    "fait": "Achat de 9,8 % d'Exosens (fabricant français de tubes intensificateurs, à 54 € par action, 268,7 M€) et de Kappa Optronics (69,9 M€). Projet de siège au conseil et de hausse de la participation dans Exosens mis en pause.",
-    "impact": "neutre",
-    "horizon": "long",
-    "lecture": "Sécurise un fournisseur clé, mais immobilise beaucoup d'argent dans une participation minoritaire dont la valeur dépend de la Bourse."
-   },
-   {
     "d": "20/10",
     "fait": "Deux nouveaux contrats de vision nocturne en Europe, livraisons à partir de 2026.",
     "impact": "positif",
@@ -1142,6 +1135,13 @@
     "impact": "neutre",
     "horizon": "moyen",
     "lecture": "L'activité est excellente, mais les commandes du semestre ne font que remplacer les ventes et une partie du bénéfice est comptable. Le second semestre doit confirmer l'arrivée de grosses commandes."
+   },
+   {
+    "d": "T1 2026",
+    "fait": "Achat de 9,8 % d'Exosens (fabricant français de tubes intensificateurs, à 54 € par action, 268,7 M€) et de Kappa Optronics (69,9 M€). Projet de siège au conseil et de hausse de la participation dans Exosens mis en pause.",
+    "impact": "neutre",
+    "horizon": "long",
+    "lecture": "Sécurise un fournisseur clé, mais immobilise beaucoup d'argent dans une participation minoritaire dont la valeur dépend de la Bourse."
    }
   ],
   "scenarios": [

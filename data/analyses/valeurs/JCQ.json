@@ -3,6 +3,13 @@
   "aVerifier": "Dette nette au 30/06/2026 non trouvée (dernière donnée : 166,3 M€ au 31/03). RSI 14 calculé par nous en moyenne simple sur les clôtures Investing (Investing affichait 13,5, valeur incohérente avec l'évolution des cours, donc écartée). PEG de 0,4 peu fiable car calculé sur un rebond cyclique. ROE estimée par calcul. Dates des résultats du 3e trimestre et annuels à confirmer.",
   "actu": [
    {
+    "d": "18/09",
+    "fait": "Hausse des taux souverains européens et américains (taux français à 10 ans à 4,55 %), dans un contexte de tensions au Moyen-Orient cité par la société.",
+    "horizon": "court",
+    "impact": "negatif",
+    "lecture": "Des taux plus hauts et l'incertitude géopolitique retardent les investissements industriels, principal moteur de la demande d'aciers spéciaux."
+   },
+   {
     "d": "09/09",
     "fait": "Résultats du 1er semestre 2026 : chiffre d'affaires 1 001 M€ (+1,4 %), EBITDA courant 60 M€ (6 % du chiffre d'affaires contre 4,9 %), résultat net 22 M€ contre 6 M€, flux de trésorerie opérationnel de 54 M€. Acquisition d'Energy Steel Products aux États-Unis (environ 25 M€ de chiffre d'affaires). Visibilité jugée réduite ; la division IMS reste pénalisée par l'Allemagne.",
     "horizon": "moyen",
@@ -22,13 +29,6 @@
     "horizon": "moyen",
     "impact": "negatif",
     "lecture": "Le groupe investit avant la reprise ; si elle tarde, la dette et les frais financiers pèseront sur des bénéfices encore faibles."
-   },
-   {
-    "d": "18/09",
-    "fait": "Hausse des taux souverains européens et américains (taux français à 10 ans à 4,55 %), dans un contexte de tensions au Moyen-Orient cité par la société.",
-    "horizon": "court",
-    "impact": "negatif",
-    "lecture": "Des taux plus hauts et l'incertitude géopolitique retardent les investissements industriels, principal moteur de la demande d'aciers spéciaux."
    }
   ],
   "cadres": [

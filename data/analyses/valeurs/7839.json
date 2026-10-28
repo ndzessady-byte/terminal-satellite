@@ -1116,20 +1116,6 @@
   },
   "actu": [
    {
-    "d": "11/2025",
-    "fait": "Programme de rachat d'actions autorisé (jusqu'à 1,7 million d'actions) et dividende maintenu à 60 ¥ pour 2026 malgré une prévision en baisse.",
-    "impact": "positif",
-    "horizon": "moyen",
-    "lecture": "La société commence à utiliser sa trésorerie pour ses actionnaires, avec un ratio de distribution visé de 50 %."
-   },
-   {
-    "d": "14/11/2025",
-    "fait": "Exercice 2025 : CA -9,6 %, résultat opérationnel -13,9 %, volumes -11,9 % (stocks trop élevés chez les distributeurs au Japon, changement de modèles en Europe, Chine en recul, droits de douane américains) ; dividende ramené de 70 à 60 ¥.",
-    "impact": "negatif",
-    "horizon": "moyen",
-    "lecture": "Montre que l'activité est cyclique ; la marge est restée très élevée (27,5 %) même dans une mauvaise année."
-   },
-   {
     "d": "01/10",
     "fait": "Nouvelle grille de prix au Japon : hausse des prix catalogue justifiée par les coûts des matières et de la logistique.",
     "impact": "positif",
@@ -1142,6 +1128,20 @@
     "impact": "positif",
     "horizon": "court",
     "lecture": "Sauf trimestre très faible, l'objectif annuel sera dépassé ; la société explique une partie de l'amélioration par le yen faible."
+   },
+   {
+    "d": "14/11/2025",
+    "fait": "Exercice 2025 : CA -9,6 %, résultat opérationnel -13,9 %, volumes -11,9 % (stocks trop élevés chez les distributeurs au Japon, changement de modèles en Europe, Chine en recul, droits de douane américains) ; dividende ramené de 70 à 60 ¥.",
+    "impact": "negatif",
+    "horizon": "moyen",
+    "lecture": "Montre que l'activité est cyclique ; la marge est restée très élevée (27,5 %) même dans une mauvaise année."
+   },
+   {
+    "d": "11/2025",
+    "fait": "Programme de rachat d'actions autorisé (jusqu'à 1,7 million d'actions) et dividende maintenu à 60 ¥ pour 2026 malgré une prévision en baisse.",
+    "impact": "positif",
+    "horizon": "moyen",
+    "lecture": "La société commence à utiliser sa trésorerie pour ses actionnaires, avec un ratio de distribution visé de 50 %."
    }
   ],
   "scenarios": [

@@ -2,13 +2,6 @@
  "analyse": {
   "actu": [
    {
-    "d": "févr. à sept.",
-    "fait": "Le titre était tombé vers 97 € en février 2026 (contre 160 € un an plus tôt) sur la crainte que l'IA menace les sociétés de services informatiques, puis a rebondi d'environ 50 % en six mois.",
-    "horizon": "long",
-    "impact": "neutre",
-    "lecture": "C'est le vrai débat du dossier : si l'IA réduit le nombre de jours facturés, la croissance ralentira ; si Reply vend l'IA à ses clients, elle en profitera."
-   },
-   {
     "d": "10/08",
     "fait": "Finalisation de l'acquisition de Fedtec.",
     "horizon": "moyen",
@@ -28,6 +21,13 @@
     "horizon": "long",
     "impact": "positif",
     "lecture": "Montre que Reply transforme l'IA en projets facturables chez de grands clients, ce qui répond à la crainte d'être dépassé par l'IA."
+   },
+   {
+    "d": "févr. à sept.",
+    "fait": "Le titre était tombé vers 97 € en février 2026 (contre 160 € un an plus tôt) sur la crainte que l'IA menace les sociétés de services informatiques, puis a rebondi d'environ 50 % en six mois.",
+    "horizon": "long",
+    "impact": "neutre",
+    "lecture": "C'est le vrai débat du dossier : si l'IA réduit le nombre de jours facturés, la croissance ralentira ; si Reply vend l'IA à ses clients, elle en profitera."
    }
   ],
   "cadres": [

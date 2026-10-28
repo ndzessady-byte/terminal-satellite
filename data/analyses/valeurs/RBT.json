@@ -3,18 +3,18 @@
   "aVerifier": "Croissance organique du S1 (+2,8 %) reprise de la fiche d'origine, non relue dans une source (les articles lus donnent -0,5 % en publié). Date du CA du T3 et des annuels 2027 non trouvée. Résistance fixée sur la moyenne 200 jours faute de niveau Investtech lu. ROE calculé à partir des ratios Zonebourse. Couverture des intérêts, comparaison avec les pairs et Piotroski non trouvés.",
   "actu": [
    {
-    "d": "17/09",
-    "fait": "S1 2026 : CA 444,3 M€ (-0,5 %), EBITDA 93,6 M€ (marge 21,1 % contre 22,5 %), résultat net 54,15 M€ (-7,4 %). Objectif de croissance organique 2026 abaissé à +3 à +5 %, en raison d'un marché plus modéré.",
-    "horizon": "moyen",
-    "impact": "negatif",
-    "lecture": "Premier accroc sur la trajectoire du plan 2030, qui suppose +5 à +7 % par an."
-   },
-   {
     "d": "18/09",
     "fait": "Le titre perd environ 5 à 6 % vers 718 €. Jefferies (930 €) et TP ICAP Midcap (896 €) restent positifs, soulignant la résistance de la rentabilité.",
     "horizon": "court",
     "impact": "neutre",
     "lecture": "Les analystes voient un ralentissement passager, pas une rupture du modèle."
+   },
+   {
+    "d": "17/09",
+    "fait": "S1 2026 : CA 444,3 M€ (-0,5 %), EBITDA 93,6 M€ (marge 21,1 % contre 22,5 %), résultat net 54,15 M€ (-7,4 %). Objectif de croissance organique 2026 abaissé à +3 à +5 %, en raison d'un marché plus modéré.",
+    "horizon": "moyen",
+    "impact": "negatif",
+    "lecture": "Premier accroc sur la trajectoire du plan 2030, qui suppose +5 à +7 % par an."
    },
    {
     "d": "10/09",
