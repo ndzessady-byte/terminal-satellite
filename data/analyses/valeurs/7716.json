@@ -18,20 +18,20 @@
    "t": "Division de l'action par deux (effet au 01/10/2026) : le cours passe d'environ 2 900 ¥ à environ 1 450 ¥, sans changement de valeur."
   },
   {
+   "d": "18/08",
+   "t": "Rachat de 1 244 100 actions propres (1,5 % du capital, avant division) pour environ 4,0 Md¥, en une seule opération en bourse."
+  },
+  {
    "d": "07/08",
    "t": "S1 2026 : ventes 47,2 Md¥ (+20,5 %), résultat opérationnel 10,0 Md¥ (+32,0 %), bénéfice net 8,1 Md¥ (+132 %). Objectif annuel relevé : ventes 94,5 Md¥, résultat opérationnel 18,6 Md¥, bénéfice net 13,5 Md¥."
   },
   {
    "d": "07/08",
    "t": "Rachats de deux fabricants américains d'instruments chirurgicaux, Acra Cut et Intech."
-  },
-  {
-   "d": "12/02",
-   "t": "Comptes 2025 : ventes 81,2 Md¥ (+5,4 %), résultat opérationnel 14,1 Md¥ (-3,5 %), perte nette de 2,4 Md¥ après une dépréciation de 13,8 Md¥ sur DCI ; dividende de 54 ¥ avant division."
   }
  ],
- "pub": null,
- "pubLabel": "Résultats du T3 2026, attendus vers la mi-novembre (date non confirmée)",
+ "pub": "2026-11-13",
+ "pubLabel": "Résultats du T3 (13/11 selon un calendrier boursier, pas encore confirmé par la société)",
  "src": "https://finance.biggo.jp/news/jpx_tdnet_140120260806511592",
  "notes": "Cours de clôture du 01/10/2026 (flux de cours, déjà ajusté de la division par deux). PER 2026 calculé sur le BPA prévu par la société après division (81,55 ¥) : 1 481 / 81,55 = 18,2, ce qui recoupe l'estimation d'environ 18 de la proposition. Pas de consensus d'analystes accessible pour 2027. Dividendes exprimés après division par deux. Action japonaise : compte-titres uniquement.",
  "yahoo": "7716.T",
@@ -1084,7 +1084,7 @@
   "m12": 39.4
  },
  "analyse": {
-  "majLe": "2026-10-01",
+  "majLe": "2026-10-28",
   "verdict": "Nakanishi est un champion mondial discret des instruments dentaires, très rentable et peu endetté, dont la croissance est repartie fortement en 2026 après une année 2025 plombée par la dépréciation de sa filiale américaine DCI. Valorisée environ 18 fois le bénéfice prévu pour 2026, l'action n'est pas chère pour sa qualité, mais elle a déjà progressé d'environ 43 % sur un an. Les points à suivre sont le redressement de DCI, l'effet des droits de douane américains et la part organique de la croissance.",
   "conviction": "moyenne",
   "revisions": "À la hausse côté société : l'objectif 2026 publié en février (ventes 88,2 Md¥, résultat opérationnel 15,6 Md¥, bénéfice net 10,9 Md¥) a été relevé en août à 94,5 Md¥, 18,6 Md¥ et 13,5 Md¥. Aucun consensus d'analystes vérifiable (réservé aux abonnés sur Yahoo Finance Japon).",
@@ -1123,6 +1123,13 @@
     "lecture": "Aucun effet sur la valeur ; rend le titre plus accessible aux particuliers japonais."
    },
    {
+    "d": "18/08",
+    "fait": "Rachat de 1,5 % du capital pour environ 4,0 Md¥, annoncé le 17/08 et réalisé le 18/08.",
+    "impact": "positif",
+    "horizon": "moyen",
+    "lecture": "Le groupe rend de l'argent aux actionnaires tout en finançant ses acquisitions américaines, ce qui montre une trésorerie encore confortable."
+   },
+   {
     "d": "07/08",
     "fait": "S1 2026 : ventes +20,5 %, résultat opérationnel +32,0 %, bénéfice net +132 %, objectif annuel relevé (bénéfice net 13,5 Md¥, BPA 81,55 ¥ après division).",
     "impact": "positif",
@@ -1135,13 +1142,6 @@
     "impact": "neutre",
     "horizon": "long",
     "lecture": "Renforce la chirurgie, l'activité la plus rentable, et la production aux États-Unis, ce qui peut limiter l'effet des droits de douane ; à surveiller après l'expérience DCI."
-   },
-   {
-    "d": "12/02",
-    "fait": "Dépréciation de 13,8 Md¥ de l'écart d'acquisition de DCI, d'où une perte nette de 2,4 Md¥ en 2025.",
-    "impact": "negatif",
-    "horizon": "long",
-    "lecture": "Reconnaissance d'avoir payé DCI trop cher ; l'effet est comptable (pas de sortie d'argent) mais montre le risque des acquisitions."
    }
   ],
   "scenarios": [
@@ -1186,6 +1186,7 @@
    "Weinstein (stades)"
   ],
   "sources": [
+   "https://japanir.jp/en/company/company-7716/",
    "https://www.nakanishi-inc.jp/app/wp-content/uploads/2026/02/FY2025Q4_FR.pdf",
    "https://finance.biggo.jp/news/jpx_tdnet_140120260806511592",
    "https://finance.yahoo.co.jp/quote/7716.T/performance",
@@ -1206,7 +1207,8 @@
     "effet": "Double risque de change.",
     "point": null
    }
-  ]
+  ],
+  "veilleLe": "2026-10-28"
  },
  "societe": {
   "resume": "Nakanishi est une société japonaise qui fabrique, sous la marque NSK, les instruments qui tournent à très grande vitesse dans la bouche du patient chez le dentiste (turbines, contre-angles, moteurs), ainsi que des fauteuils dentaires, des instruments pour la chirurgie et des broches pour l'industrie. Concrètement, quand un dentiste soigne une carie, la « fraise » qui siffle est souvent montée sur une turbine NSK. Elle vend dans le monde entier et réalise près de 90 % de ses ventes hors du Japon.",
@@ -1353,7 +1355,7 @@
    "La famille Nakanishi prépare-t-elle la succession d'Eiichi Nakanishi, président depuis 2000 ?"
   ],
   "suivi": {
-   "le": "2026-10-01",
+   "le": "2026-10-28",
    "bilan": "3 conditions sur 4 tiennent ou progressent ; le point fragile reste DCI, dont le redressement n'est pas encore prouvé par les chiffres consultés.",
    "croire": [
     {
@@ -1383,9 +1385,9 @@
     {
      "c": "Que les acquisitions restent de taille raisonnable et que la trésorerie nette est préservée.",
      "etat": "ok",
-     "reponse": "Oui pour l'instant : la trésorerie a peu baissé malgré deux acquisitions.",
-     "preuve": "Trésorerie de 40,4 Md¥ au 30/06/2026 contre 46,0 Md¥ fin 2025, pour environ 19 Md¥ de dettes financières fin 2025.",
-     "source": "https://finance.biggo.jp/news/jpx_tdnet_140120260806511592",
+     "reponse": "La société a pu racheter 1,5 % de son capital en plus des deux acquisitions américaines.",
+     "preuve": "1 244 100 actions rachetées le 18/08 pour environ 4,0 Md¥.",
+     "source": "https://japanir.jp/en/company/company-7716/",
      "prochain": "Résultats du T3 2026"
     }
    ],

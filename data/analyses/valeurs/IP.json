@@ -2,6 +2,13 @@
  "analyse": {
   "actu": [
    {
+    "d": "07/10",
+    "fait": "Equita garde sa recommandation positive mais réduit son objectif de cours avant les résultats du T3.",
+    "impact": "neutre",
+    "horizon": "court",
+    "lecture": "Les analystes restent positifs mais attendent toujours la reprise de la croissance organique ; le T3 sera le test."
+   },
+   {
     "d": "06/10",
     "fait": "Interpump annonce la fin du contrat de Riccardo Mastronardi, dirigeant avec responsabilités stratégiques, au 05/10, sans en donner la raison.",
     "impact": "neutre",
@@ -21,13 +28,6 @@
     "horizon": "moyen",
     "impact": "neutre",
     "lecture": "Pas encore de reprise, mais pas de nouvelle dégradation : le point bas du cycle semble proche, ce qui est la condition pour que la valorisation remonte."
-   },
-   {
-    "d": "en continu",
-    "fait": "Cycle industriel européen et américain faible (machines agricoles, construction, hydraulique) et incertitudes sur les droits de douane.",
-    "horizon": "moyen",
-    "impact": "negatif",
-    "lecture": "Interpump fait environ 25 % de son CA en Amérique du Nord : une reprise du cycle ou un apaisement commercial serait le principal moteur de hausse."
    }
   ],
   "cadres": [
@@ -53,7 +53,7 @@
    "score": 6,
    "valo": "PER 16,5 en 2026 et 14,8 en 2027, VE/EBITDA 8,1 en 2026 et 7,2 en 2027 (Zonebourse). Moyenne 2021 à 2025 calculée : PER environ 23 et VE/EBITDA environ 12. Zonebourse relève un plancher historique de valorisation vers 8 fois l'EBITDA, touché seulement lors du Covid et des craintes de droits de douane de 2025 : on y est. Rendement du flux de trésorerie libre attendu de 6,4 % en 2026. Le titre se paie moins cher que ses pairs américains cités par Zonebourse (IDEX, Graco), sans chiffres de pairs vérifiés ici."
   },
-  "majLe": "2026-09-28",
+  "majLe": "2026-10-28",
   "revisions": "Non chiffré (graphique MarketScreener seulement). Objectif moyen 46,81 € (8 analystes) ; Sadif passe à Conserver en septembre.",
   "scenarios": [
    {
@@ -90,6 +90,7 @@
    }
   ],
   "sources": [
+   "https://www.money.it/azioni-interpump-in-rialzo-del-3-per-gli-analisti-il-potenziale-supera-il-27",
    "https://www.borsaitaliana.it/borsa/notizie/teleborsa/finanza/interpump-cessato-il-rapporto-di-lavoro-con-il-dirigente-riccardo-mastronardi-189_2026-10-06_TLB.html?lang=it",
    "https://www.zonebourse.com/cours/action/INTERPUMP-GROUP-S-P-A-408413/",
    "https://www.zonebourse.com/cours/action/INTERPUMP-GROUP-S-P-A-408413/finances/",
@@ -146,7 +147,8 @@
     "effet": "Dépend de l'investissement industriel mondial.",
     "point": null
    }
-  ]
+  ],
+  "veilleLe": "2026-10-28"
  },
  "capi": "3,7 Md€",
  "cours": 37.72,
@@ -154,16 +156,20 @@
  "devise": "€",
  "faits": [
   {
+   "d": "26/10",
+   "t": "Le titre gagne environ 3 % sans nouvelle de la société, après deux séances de baisse."
+  },
+  {
+   "d": "07/10",
+   "t": "Equita confirme son avis positif mais abaisse son objectif de cours."
+  },
+  {
    "d": "06/10",
    "t": "Départ de Riccardo Mastronardi, dirigeant avec responsabilités stratégiques, depuis le 05/10. Aucune raison donnée."
   },
   {
    "d": "21/09",
    "t": "Sortie de l'indice FTSE All-World. Titre en baisse d'environ 24 % depuis janvier."
-  },
-  {
-   "d": "05/08",
-   "t": "S1 : CA 1,09 Md€ (+0,9 %), marge d'EBITDA 22,4 % contre 23,2 %, bénéfice net +3,8 %. Prévision 2026 : organique -2 % à +3 %."
   }
  ],
  "histo": [

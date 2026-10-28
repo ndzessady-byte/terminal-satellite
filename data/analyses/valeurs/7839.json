@@ -14,6 +14,10 @@
  "risque": "Petite capitalisation peu liquide, dépendante de la moto haut de gamme et de la conjoncture européenne ; production 100 % japonaise, donc sensible au yen et aux droits de douane américains.",
  "faits": [
   {
+   "d": "24/10",
+   "t": "Annonce de nouveaux casques pour janvier 2027, dont le casque de course X-Fifteen 02 conforme à la nouvelle norme FIM."
+  },
+  {
    "d": "01/10",
    "t": "Hausse des prix des casques au Japon en vigueur, avec le service d'ajustement P.F.S. désormais inclus."
   },
@@ -24,10 +28,6 @@
   {
    "d": "31/07",
    "t": "T3 seul (avril à juin) : CA 9,35 Md¥, résultat opérationnel 2,90 Md¥ (marge d'environ 31 %), aidé par un yen faible face au dollar et à l'euro."
-  },
-  {
-   "d": "01/05",
-   "t": "Tokai Tokyo relève sa recommandation à « surperformance », objectif 2 100 ¥."
   }
  ],
  "pub": null,
@@ -1084,7 +1084,7 @@
   "m12": 35.6
  },
  "analyse": {
-  "majLe": "2026-10-01",
+  "majLe": "2026-10-28",
   "verdict": "SHOEI est une petite entreprise de très grande qualité : marque de référence du casque moto premium, marge opérationnelle proche de 28 à 30 %, aucune dette et une trésorerie qui représente environ 18 % de sa capitalisation. Après deux années de baisse des volumes, l'exercice qui vient de se terminer s'annonce meilleur que la prévision officielle, en partie grâce au yen faible. À environ 17 fois les bénéfices, le prix est raisonnable, mais le titre est déjà au plus haut sur un an et les résultats de novembre devront confirmer la reprise.",
   "conviction": "moyenne",
   "revisions": "En hausse : le consensus IFIS attend un résultat ordinaire de 9,6 Md¥ (+7,9 %) contre 8,38 Md¥ (-5,8 %) dans la prévision de la société, non relevée au 31/07. Consensus MarketScreener (3 analystes) : bénéfice net de 6,62 Md¥ pour l'exercice clos en septembre 2026 et 7,0 Md¥ pour le suivant, objectif moyen 2 250 ¥ (environ +4 % au cours actuel). Un courtier japonais a relevé son objectif à 2 400 ¥ (IFIS).",
@@ -1116,6 +1116,13 @@
   },
   "actu": [
    {
+    "d": "24/10",
+    "fait": "SHOEI annonce pour janvier 2027 le X-Fifteen 02, version de son casque de course adaptée à la nouvelle norme de la fédération internationale de moto, et une nouvelle décoration du Z-9.",
+    "impact": "neutre",
+    "horizon": "moyen",
+    "lecture": "Le renouvellement des modèles haut de gamme entretient le pouvoir de prix ; effet limité tant que les volumes ne sont pas connus."
+   },
+   {
     "d": "01/10",
     "fait": "Nouvelle grille de prix au Japon : hausse des prix catalogue justifiée par les coûts des matières et de la logistique.",
     "impact": "positif",
@@ -1135,13 +1142,6 @@
     "impact": "negatif",
     "horizon": "moyen",
     "lecture": "Montre que l'activité est cyclique ; la marge est restée très élevée (27,5 %) même dans une mauvaise année."
-   },
-   {
-    "d": "11/2025",
-    "fait": "Programme de rachat d'actions autorisé (jusqu'à 1,7 million d'actions) et dividende maintenu à 60 ¥ pour 2026 malgré une prévision en baisse.",
-    "impact": "positif",
-    "horizon": "moyen",
-    "lecture": "La société commence à utiliser sa trésorerie pour ses actionnaires, avec un ratio de distribution visé de 50 %."
    }
   ],
   "scenarios": [
@@ -1187,6 +1187,8 @@
    "Weinstein (stades)"
   ],
   "sources": [
+   "https://www.shoei.com/ir/news/",
+   "https://response.jp/article/2026/10/24/418167.html",
    "https://www.shoei.com/news/",
    "https://finance.matsui.co.jp/stock/7839/settlement/index",
    "https://www.shoei.com/en/ir/library/",
@@ -1217,7 +1219,8 @@
     "effet": "Un yen faible aide la marge, il joue contre toi en euros.",
     "point": null
    }
-  ]
+  ],
+  "veilleLe": "2026-10-28"
  },
  "societe": {
   "resume": "SHOEI fabrique des casques de moto haut de gamme, conçus et produits uniquement au Japon, et vendus dans le monde entier par des réseaux de distributeurs. Concrètement, un motard européen qui s'offre un casque intégral à 600 ou 800 € chez un concessionnaire a de bonnes chances de choisir un SHOEI, et des pilotes de MotoGP comme Marc Márquez portent la marque. La société produit aussi des casques pour l'administration japonaise.",

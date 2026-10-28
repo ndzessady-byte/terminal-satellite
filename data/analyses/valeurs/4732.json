@@ -14,24 +14,24 @@
  "risque": "Croissance attendue modeste (environ +5 % de CA prévu), dépendance aux acheteurs étrangers des voitures exportées (sanctions, droits de douane, change), tendance de court terme baissière.",
  "faits": [
   {
+   "d": "05/10",
+   "t": "Enchères du T2 (juillet à septembre) : voitures présentées +14,7 %, voitures vendues +8,5 %, taux de vente 64,8 % contre 68,6 % un an plus tôt."
+  },
+  {
+   "d": "02/10",
+   "t": "La société annonce la fin d'une opération de rachat d'actions propres."
+  },
+  {
    "d": "04/08",
    "t": "T1 : CA 31,3 Md¥ (+14,1 %), résultat opérationnel +9,8 %, bénéfice net 10,9 Md¥ (environ +7 %), records ; prévisions annuelles et dividende relevés (montants non lus)."
   },
   {
    "d": "06/07",
    "t": "Volumes d'enchères du T1 en hausse (données mensuelles publiées par la société)."
-  },
-  {
-   "d": "12/05",
-   "t": "Exercice clos en mars 2026 : CA 113,9 Md¥ (+9,5 %), résultat opérationnel 59,8 Md¥ (+10,4 %), bénéfice net 41,4 Md¥ (+9,9 %), dividende 54,70 ¥ (26e hausse de suite)."
-  },
-  {
-   "d": "12/05",
-   "t": "Rachat d'actions de 18 Md¥ annoncé ; 3,50 millions de voitures présentées (+9,4 %), taux de vente de 67 %."
   }
  ],
- "pub": null,
- "pubLabel": "Résultats du premier semestre (date non publiée, début novembre probable : le 11/11 l'an dernier)",
+ "pub": "2026-11-10",
+ "pubLabel": "Résultats du premier semestre (10/11 selon les calendriers boursiers, pas encore confirmé par la société)",
  "src": "https://finance.biggo.jp/news/jpx_tdnet_140120260512524281",
  "notes": "Pas de division récente (la dernière, 1 pour 2, date d'avril 2024 ; chiffres antérieurs ajustés). PER 18,4 (exercice clos en mars 2027) et 17,5 (mars 2028) selon MarketScreener ; PER calculé de 20,0 sur la prévision initiale de BPA (91,35 ¥), relevée depuis en août. Cours, moyennes mobiles et RSI issus du flux de cours (clôture du 01/10/2026).",
  "yahoo": "4732.T",
@@ -1084,7 +1084,7 @@
   "m12": 6.9
  },
  "analyse": {
-  "majLe": "2026-10-01",
+  "majLe": "2026-10-28",
   "verdict": "USS est une entreprise de très grande qualité : quasi-monopole de fait sur les enchères professionnelles de voitures d'occasion au Japon, marge opérationnelle supérieure à 50 %, pas de dette et une politique de redistribution très généreuse. La croissance est lente mais régulière (bénéfice net +10 à 14 % par an ces trois dernières années, en partie grâce aux rachats d'actions). Autour de 18 fois les bénéfices attendus, le prix est correct sans être bon marché ; le principal risque vient de l'export, qui soutient les prix des voitures vendues.",
   "conviction": "moyenne",
   "revisions": "En hausse : la société a relevé ses prévisions annuelles et son dividende le 04/08 après un T1 record (montants exacts non lus). Le consensus MarketScreener (6 analystes) attend un bénéfice net de 44,4 Md¥ pour l'exercice en cours (contre 41,6 Md¥ guidés en mai) et 45,6 Md¥ pour le suivant. Objectif moyen 2 197 ¥ (environ +22 %).",
@@ -1116,6 +1116,13 @@
   },
   "actu": [
    {
+    "d": "05/10",
+    "fait": "Au T2, le nombre de voitures présentées aux enchères progresse de 14,7 % et le nombre de voitures vendues de 8,5 %, mais le taux de vente recule à 64,8 % contre 68,6 %.",
+    "impact": "neutre",
+    "horizon": "court",
+    "lecture": "Les volumes progressent toujours, ce qui soutient les commissions. La baisse du taux de vente peut traduire des acheteurs plus prudents, notamment à l'export, et c'est le point à suivre aux résultats semestriels."
+   },
+   {
     "d": "04/08",
     "fait": "T1 record (CA +14,1 %, résultat opérationnel +9,8 %, bénéfice net environ +7 %) ; prévisions annuelles, dividende et ratio de distribution relevés.",
     "impact": "positif",
@@ -1135,13 +1142,6 @@
     "impact": "negatif",
     "horizon": "court",
     "lecture": "L'export (dont le Moyen-Orient) pèse sur les prix des voitures vendues et donc sur l'activité ; c'est le risque principal à surveiller."
-   },
-   {
-    "d": "juil. à sept.",
-    "fait": "Le titre a reculé d'environ 11 % depuis son sommet du 30/07 (2 064 ¥) malgré le relèvement des prévisions.",
-    "impact": "neutre",
-    "horizon": "court",
-    "lecture": "Le marché paie déjà la qualité ; le repli rapproche le titre de sa moyenne 200 jours sans changer les fondamentaux."
    }
   ],
   "scenarios": [
@@ -1187,6 +1187,8 @@
    "Weinstein (stades)"
   ],
   "sources": [
+   "https://www.ad-hoc-news.de/boerse/news/nebenwerte/uss-reported-108-5-percent-q2-transactions-as-uss-stock-awaits-november-10-results/70407144",
+   "https://japanir.jp/en/company/company-4732/",
    "https://finance.biggo.jp/news/jpx_tdnet_140120260512524281",
    "https://finance.biggo.jp/news/JP_4732.T_2026-05-14",
    "https://www.tipranks.com/news/company-announcements/uss-co-lifts-earnings-and-dividend-forecasts-on-strong-auction-performance",
@@ -1210,7 +1212,8 @@
     "effet": "Valeur 100 % japonaise : le change euro/yen joue sur ton rendement.",
     "point": null
    }
-  ]
+  ],
+  "veilleLe": "2026-10-28"
  },
  "societe": {
   "resume": "USS organise chaque semaine des enchères de voitures d'occasion réservées aux professionnels de l'automobile au Japon, dans de grands centres et en ligne. Concrètement, un concessionnaire qui a repris la voiture d'un client la confie à USS, qui la fait inspecter puis la vend en quelques secondes à un autre garage ou à un exportateur ; USS touche une commission du vendeur et de l'acheteur. Le groupe reprend aussi des voitures aux particuliers (enseigne Rabbit) et recycle des véhicules.",
@@ -1318,7 +1321,7 @@
    "Les enchères en ligne et les plateformes concurrentes peuvent-elles faire baisser les commissions de USS ?"
   ],
   "suivi": {
-   "le": "2026-10-01",
+   "le": "2026-10-28",
    "bilan": "Les trois conditions tiennent ; le point à surveiller reste l'export, qui n'a pas encore pesé sur les volumes.",
    "croire": [
     {
@@ -1332,9 +1335,9 @@
     {
      "c": "Que le nombre de voitures mises aux enchères reste stable ou en hausse, même si la demande à l'export (Moyen-Orient, Afrique, Russie, Asie) se tasse.",
      "etat": "ok",
-     "reponse": "Oui pour l'instant : volumes records et T1 en hausse, mais la direction reste prudente sur le contexte international.",
-     "preuve": "3,50 millions de voitures présentées (+9,4 %) et 2,35 millions vendues ; T1 : CA +14,1 %.",
-     "source": "https://finance.biggo.jp/news/jpx_tdnet_140120260512524281",
+     "reponse": "Oui : les volumes du T2 sont encore en hausse, mais le taux de vente baisse, ce qui demande de surveiller la demande.",
+     "preuve": "T2 : voitures présentées +14,7 %, vendues +8,5 %, taux de vente 64,8 % contre 68,6 %.",
+     "source": "https://japanir.jp/en/company/company-4732/",
      "prochain": "Statistiques mensuelles d'enchères"
     },
     {

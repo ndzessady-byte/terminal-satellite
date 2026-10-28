@@ -3,6 +3,20 @@
   "aVerifier": "Moyenne 200 jours non lue. Moyennes 50 jours et RSI lus sur la cotation Tradegate (meme action en euros). Support et resistance deduits (moyenne 100 jours et plus haut annuel), pas publies par une source. Objectif moyen des analystes deduit de l'ecart de +12,63 % affiche par Zonebourse (environ 49 €). Couverture des interets, F-score de Piotroski et multiples des concurrents non trouves. Date du T3 (29/10) issue du calendrier publie en 2025.",
   "actu": [
    {
+    "d": "27/10",
+    "fait": "Inderes s'attend à une marge du T3 en nette hausse grâce aux livraisons décalées du T2 et à la croissance aux États-Unis.",
+    "impact": "neutre",
+    "horizon": "court",
+    "lecture": "Le marché attend la confirmation que la baisse de marge du T2 était temporaire ; c'est le point clé de la publication du 29/10."
+   },
+   {
+    "d": "15/10",
+    "fait": "Harvia annonce le versement d'un dividende de 0,38 € par action.",
+    "impact": "neutre",
+    "horizon": "court",
+    "lecture": "Versement prévu par l'assemblée d'avril, sans surprise."
+   },
+   {
     "d": "10/09",
     "fait": "Le directeur general evoque l'ambition de faire changer le groupe de taille (\"Mission a Billion\").",
     "horizon": "long",
@@ -15,20 +29,6 @@
     "impact": "neutre",
     "horizon": "court",
     "lecture": "Montant très faible, sans signal clair sur la confiance de la direction avant les résultats du 29/10."
-   },
-   {
-    "d": "07/08",
-    "fait": "Avis partages des analystes : OP Corporate Bank passe a allegement avec un objectif de 43 €, Nordea releve son objectif a 51 € et reste positif.",
-    "horizon": "court",
-    "impact": "neutre",
-    "lecture": "Le debat porte surtout sur le prix : la qualite n'est pas contestee, mais le titre est juge deja bien valorise par une partie des analystes."
-   },
-   {
-    "d": "06/08",
-    "fait": "Resultats du premier semestre 2026 : ventes de 111,4 M€ (+12,2 %), Amerique du Nord +38,6 %, mais marge ajustee du T2 a 16,2 % car un chantier informatique a l'usine de Muurame a decale environ 4 M€ de livraisons vers le T3.",
-    "horizon": "moyen",
-    "impact": "positif",
-    "lecture": "La croissance americaine valide la these du sauna comme produit de bien etre grand public ; la baisse de marge semble temporaire mais doit etre confirmee au T3."
    }
   ],
   "cadres": [
@@ -52,7 +52,7 @@
    "score": 7,
    "valo": "PER 24,7 en 2026 et 20,1 en 2027 ; VE/EBITDA 16 puis 13,3 ; rendement du flux de tresorerie libre de 2,6 % ; dividende 1,9 %. Moyenne 2021-2025 : PER d'environ 26 et VE/EBITDA d'environ 16,4. L'action est donc a peu pres dans sa moyenne historique, qui est elle meme elevee. Multiples des concurrents non verifies."
   },
-  "majLe": "2026-09-28",
+  "majLe": "2026-10-28",
   "revisions": "Non trouvé. Consensus Achat, 4 analystes, objectif moyen 49,50 € (MarketScreener).",
   "scenarios": [
    {
@@ -89,6 +89,8 @@
    }
   ],
   "sources": [
+   "https://www.inderes.fi/companies/Harvia",
+   "https://www.globenewswire.com/news-release/2026/10/22/3386121/0/fi/harvia-julkaisee-tammi-syyskuun-2026-osavuosikatsauksen-torstaina-29-10-2026-noin-klo-9-00.html",
    "https://easternherald.com/press-release/harvia-will-publish-its-interim-report-for-january-september-2026-on-thursday-29-october-2026-at-around-900-a-m-eet/",
    "https://www.globenewswire.com/news-release/2026/09/08/3357634/0/en/composition-of-the-shareholders-nomination-board-of-harvia-plc.html",
    "https://www.globenewswire.com/news-release/2026/09/01/3353929/0/en/harvia-plc-managers-transactions-w%C3%B6rmanseder.html",
@@ -148,7 +150,8 @@
     "effet": "38 % des ventes en Amérique du Nord.",
     "point": "chine-usa"
    }
-  ]
+  ],
+  "veilleLe": "2026-10-28"
  },
  "capi": "0,8 Md€",
  "cours": 44.05,
@@ -156,20 +159,20 @@
  "devise": "€",
  "faits": [
   {
+   "d": "22/10",
+   "t": "Rapport sur 9 mois confirmé le jeudi 29/10 vers 9 h, heure de Finlande."
+  },
+  {
+   "d": "15/10",
+   "t": "Versement d'un dividende de 0,38 € par action annoncé."
+  },
+  {
    "d": "08/09",
    "t": "Comité de nomination formé par les 4 plus gros actionnaires : Nordea Funds, Varma, Onvest et Evli."
   },
   {
    "d": "01/09",
    "t": "Un cadre dirigeant, Markus Wörmanseder, a vendu 1 873 actions le 31/08 à 45,23 € en moyenne."
-  },
-  {
-   "d": "07/08",
-   "t": "Analystes partagés : OP passe à Alléger (43 €), Nordea relève à 51 € (Achat)."
-  },
-  {
-   "d": "06/08",
-   "t": "S1 : CA 111,4 M€ (+12,2 %), marge ajustée 19,3 %, BPA +16,5 %. T2 : marge ajustée 16,2 %."
   }
  ],
  "histo": [
