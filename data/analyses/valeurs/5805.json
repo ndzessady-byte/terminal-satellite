@@ -1199,7 +1199,27 @@
    "https://www.swcc.co.jp/jpn/ir/meeting/calendar.html",
    "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json"
   ],
-  "aVerifier": "Date des résultats semestriels non publiée (le 12/11 est avancé par un agrégateur, non confirmé par le calendrier SWCC). Dette nette calculée à partir des emprunts à court et long terme du bilan résumé (hors éventuelles dettes de location). PER, objectif de cours et consensus d'une seule source (MarketScreener). Piotroski non calculé. Moyennes mobiles et RSI issus du flux de cours, non recoupés. Capitalisation en euros approximative (taux de change non vérifié)."
+  "aVerifier": "Date des résultats semestriels non publiée (le 12/11 est avancé par un agrégateur, non confirmé par le calendrier SWCC). Dette nette calculée à partir des emprunts à court et long terme du bilan résumé (hors éventuelles dettes de location). PER, objectif de cours et consensus d'une seule source (MarketScreener). Piotroski non calculé. Moyennes mobiles et RSI issus du flux de cours, non recoupés. Capitalisation en euros approximative (taux de change non vérifié).",
+  "expoGeo": [
+   {
+    "facteur": "Cuivre",
+    "sens": "mixte",
+    "effet": "Gonfle puis dégonfle le chiffre d'affaires.",
+    "point": "metaux"
+   },
+   {
+    "facteur": "IA et data centers",
+    "sens": "mixte",
+    "effet": "Un ralentissement des investissements toucherait les câbles.",
+    "point": "chine-usa"
+   },
+   {
+    "facteur": "Yen",
+    "sens": "mixte",
+    "effet": "Change euro/yen sur ton rendement.",
+    "point": null
+   }
+  ]
  },
  "societe": {
   "resume": "SWCC (anciennement Showa Electric Wire & Cable) fabrique des câbles électriques, notamment haute tension, des accessoires de raccordement, des câbles optiques et des composants pour l'électronique. Concrètement, quand un opérateur électrique japonais remplace une vieille ligne enterrée ou qu'un data center a besoin de milliers de fibres dans un espace réduit, SWCC fournit les câbles et les connecteurs. Elle vend aussi des sondes de test utilisées dans la fabrication des semi-conducteurs.",

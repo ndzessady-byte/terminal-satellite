@@ -131,7 +131,21 @@
     "Croissance du CA inférieure à 3 % sur un an",
     "PER au-dessus de 25 sans accélération de la croissance"
    ]
-  }
+  },
+  "expoGeo": [
+   {
+    "facteur": "Conjoncture européenne",
+    "sens": "mixte",
+    "effet": "Budgets IT des grands clients.",
+    "point": null
+   },
+   {
+    "facteur": "Dollar",
+    "sens": "mixte",
+    "effet": "Part des ventes aux États-Unis.",
+    "point": null
+   }
+  ]
  },
  "capi": "4,4 Md€",
  "cours": 131.1,

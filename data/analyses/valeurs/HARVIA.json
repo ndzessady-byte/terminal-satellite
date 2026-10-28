@@ -134,7 +134,21 @@
     "PER 2027 au dessus de 30 sans acceleration",
     "Dette nette au dessus de 2,5 fois l'EBITDA apres une grosse acquisition"
    ]
-  }
+  },
+  "expoGeo": [
+   {
+    "facteur": "Pétrole et consommation",
+    "sens": "mixte",
+    "effet": "Énergie chère : pouvoir d'achat sous pression mais intérêt pour le bien-être à domicile.",
+    "point": "ormuz"
+   },
+   {
+    "facteur": "Droits de douane américains",
+    "sens": "negatif",
+    "effet": "38 % des ventes en Amérique du Nord.",
+    "point": "chine-usa"
+   }
+  ]
  },
  "capi": "0,8 Md€",
  "cours": 44.05,

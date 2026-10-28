@@ -133,7 +133,21 @@
     "Marge opérationnelle d'activité qui repasse sous 8,5 %.",
     "PER au-dessus de 18 fois avec une croissance organique inférieure à 3 %."
    ]
-  }
+  },
+  "expoGeo": [
+   {
+    "facteur": "Politique française",
+    "sens": "mixte",
+    "effet": "35 % des ventes en France ; les clients industriels peuvent geler des budgets.",
+    "point": "france"
+   },
+   {
+    "facteur": "Défense",
+    "sens": "positif",
+    "effet": "L'aéronautique et la défense tirent la croissance.",
+    "point": "russie-ukraine"
+   }
+  ]
  },
  "capi": "2,65 Md€",
  "cours": 85.0,

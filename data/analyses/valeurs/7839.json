@@ -1197,7 +1197,27 @@
    "https://www.shoei.com/ir/docs/35a515003510b12a84a7bb6660321a65977d1cda.pdf",
    "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json"
   ],
-  "aVerifier": "Chiffres des 9 mois (résultat opérationnel 7 329 M¥, bénéfice net 5 200 M¥) lus sur Matsui Securities ; le CA (24 348 M¥) est confirmé par TipRanks et le résultat ordinaire (7 558 M¥) par IFIS, mais le document de la société n'a pas pu être ouvert. Date des résultats annuels non publiée. PER et objectifs d'une seule source (MarketScreener, cours du 01/09) ; capitalisation calculée avec environ 52 millions d'actions hors autocontrôle (rachats récents non intégrés). PEG approximatif (croissance attendue d'environ 6 %/an). Piotroski non calculé. Moyennes mobiles et RSI issus du flux de cours."
+  "aVerifier": "Chiffres des 9 mois (résultat opérationnel 7 329 M¥, bénéfice net 5 200 M¥) lus sur Matsui Securities ; le CA (24 348 M¥) est confirmé par TipRanks et le résultat ordinaire (7 558 M¥) par IFIS, mais le document de la société n'a pas pu être ouvert. Date des résultats annuels non publiée. PER et objectifs d'une seule source (MarketScreener, cours du 01/09) ; capitalisation calculée avec environ 52 millions d'actions hors autocontrôle (rachats récents non intégrés). PEG approximatif (croissance attendue d'environ 6 %/an). Piotroski non calculé. Moyennes mobiles et RSI issus du flux de cours.",
+  "expoGeo": [
+   {
+    "facteur": "Droits de douane américains",
+    "sens": "negatif",
+    "effet": "Production 100 % japonaise.",
+    "point": "chine-usa"
+   },
+   {
+    "facteur": "Europe",
+    "sens": "mixte",
+    "effet": "Près de la moitié des ventes : la conjoncture européenne compte.",
+    "point": null
+   },
+   {
+    "facteur": "Yen",
+    "sens": "mixte",
+    "effet": "Un yen faible aide la marge, il joue contre toi en euros.",
+    "point": null
+   }
+  ]
  },
  "societe": {
   "resume": "SHOEI fabrique des casques de moto haut de gamme, conçus et produits uniquement au Japon, et vendus dans le monde entier par des réseaux de distributeurs. Concrètement, un motard européen qui s'offre un casque intégral à 600 ou 800 € chez un concessionnaire a de bonnes chances de choisir un SHOEI, et des pilotes de MotoGP comme Marc Márquez portent la marque. La société produit aussi des casques pour l'administration japonaise.",

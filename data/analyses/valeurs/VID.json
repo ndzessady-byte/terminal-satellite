@@ -135,7 +135,21 @@
     "Grosse acquisition portant la dette au-dessus de 2 fois l'EBITDA",
     "PER au-dessus de 17 sans accélération de la croissance"
    ]
-  }
+  },
+  "expoGeo": [
+   {
+    "facteur": "Gaz",
+    "sens": "negatif",
+    "effet": "Les fours à verre consomment beaucoup d'énergie.",
+    "point": "gaz-hiver"
+   },
+   {
+    "facteur": "Pétrole",
+    "sens": "negatif",
+    "effet": "Énergie et transport plus chers.",
+    "point": "ormuz"
+   }
+  ]
  },
  "capi": "3,1 Md€",
  "cours": 91.7,

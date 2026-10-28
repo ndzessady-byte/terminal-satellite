@@ -133,7 +133,15 @@
     "Recul du taux d'occupation des consultants sous 70 % pendant deux trimestres.",
     "Retour du PER au-dessus de 15 fois sans reprise de la croissance organique."
    ]
-  }
+  },
+  "expoGeo": [
+   {
+    "facteur": "Politique française",
+    "sens": "negatif",
+    "effet": "54 % des ventes en France, clients publics et grands groupes prudents.",
+    "point": "france"
+   }
+  ]
  },
  "capi": "730 M€",
  "cours": 32.45,

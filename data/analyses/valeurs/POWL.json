@@ -1201,7 +1201,27 @@
    "https://stockanalysis.com/stocks/powl/",
    "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json"
   ],
-  "aVerifier": "PER 2026 et 2027 (une seule source). Date de publication du T4 (17/11 selon StockAnalysis). Consensus du T3 (1,49 $, une seule source). Objectif moyen des analystes (280 $, une seule source). Absence totale de dette (aucune dette mentionnée dans les communiqués lus, mais bilan complet non vérifié). Piotroski non calculé."
+  "aVerifier": "PER 2026 et 2027 (une seule source). Date de publication du T4 (17/11 selon StockAnalysis). Consensus du T3 (1,49 $, une seule source). Objectif moyen des analystes (280 $, une seule source). Absence totale de dette (aucune dette mentionnée dans les communiqués lus, mais bilan complet non vérifié). Piotroski non calculé.",
+  "expoGeo": [
+   {
+    "facteur": "Pétrole et gaz",
+    "sens": "mixte",
+    "effet": "Une partie des commandes vient de ce secteur.",
+    "point": "ormuz"
+   },
+   {
+    "facteur": "IA et data centers",
+    "sens": "mixte",
+    "effet": "Moteur de croissance, sensible au cycle technologique.",
+    "point": "chine-usa"
+   },
+   {
+    "facteur": "Cuivre et acier",
+    "sens": "negatif",
+    "effet": "Coûts de fabrication.",
+    "point": "metaux"
+   }
+  ]
  },
  "societe": {
   "resume": "Powell Industries conçoit et fabrique sur mesure les grosses armoires électriques, tableaux de distribution et postes électriques préfabriqués qui reçoivent le courant à haute tension et le répartissent dans un site. Concrètement, une raffinerie, un terminal de gaz naturel liquéfié, un poste d'une compagnie d'électricité ou un grand data center ont besoin de ces équipements pour alimenter leurs machines en toute sécurité. Chaque projet est unique et peut représenter des dizaines, voire des centaines de millions de dollars.",

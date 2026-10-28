@@ -132,7 +132,21 @@
     "Marge d'EBITDA sous 15 %",
     "Confirmation du passage en aerien des grands corridors avec annulation de projets deja attribues"
    ]
-  }
+  },
+  "expoGeo": [
+   {
+    "facteur": "Gaz et sécurité énergétique",
+    "sens": "positif",
+    "effet": "L'Allemagne investit dans ses réseaux de gaz et d'hydrogène.",
+    "point": "gaz-hiver"
+   },
+   {
+    "facteur": "Ormuz",
+    "sens": "positif",
+    "effet": "Une crise pétrolière renforce l'urgence de l'indépendance énergétique.",
+    "point": "ormuz"
+   }
+  ]
  },
  "capi": "1,3 Md€",
  "cours": 72.0,

@@ -1198,7 +1198,21 @@
    "https://finance.yahoo.com/markets/stocks/articles/globus-medical-gmed-pulls-back-111034250.html",
    "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json"
   ],
-  "aVerifier": "Date exacte des résultats du T3 (5/11 selon StockAnalysis, non confirmée par Globus). Consensus 2026 et 2027 (une seule source agrégée). Absence totale de dette fin 2025 et au 30/06/2026 (communiqué : convertibles réglées en 2025, aucune dette indiquée au T2). Piotroski non calculé. Raisons précises de la baisse de septembre 2026 non identifiées (pas de nouvelle négative trouvée)."
+  "aVerifier": "Date exacte des résultats du T3 (5/11 selon StockAnalysis, non confirmée par Globus). Consensus 2026 et 2027 (une seule source agrégée). Absence totale de dette fin 2025 et au 30/06/2026 (communiqué : convertibles réglées en 2025, aucune dette indiquée au T2). Piotroski non calculé. Raisons précises de la baisse de septembre 2026 non identifiées (pas de nouvelle négative trouvée).",
+  "expoGeo": [
+   {
+    "facteur": "Droits de douane",
+    "sens": "mixte",
+    "effet": "Surtout américain, peu exposé à l'export.",
+    "point": "chine-usa"
+   },
+   {
+    "facteur": "Dollar",
+    "sens": "mixte",
+    "effet": "Change euro/dollar sur ton rendement.",
+    "point": null
+   }
+  ]
  },
  "societe": {
   "resume": "Globus Medical est une société américaine qui fabrique des implants pour la colonne vertébrale (vis, tiges, cages entre les vertèbres), des implants pour les fractures et des robots qui guident le chirurgien pendant l'opération. Concrètement, quand un patient se fait opérer d'une hernie discale grave ou d'une scoliose, le chirurgien pose souvent des vis et des tiges : Globus vend ces pièces, et son robot ExcelsiusGPS l'aide à les placer au millimètre près. Depuis 2025, elle vend aussi, via Nevro, des stimulateurs électriques contre les douleurs chroniques.",

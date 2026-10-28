@@ -135,7 +135,21 @@
     "PER au-dessus de 35 fois sans accélération de la croissance.",
     "Dette nette qui dépasse 1,5 fois l'EBITDA à la suite d'une acquisition."
    ]
-  }
+  },
+  "expoGeo": [
+   {
+    "facteur": "Taux",
+    "sens": "mixte",
+    "effet": "Clients mode et auto qui repoussent leurs investissements.",
+    "point": "taux"
+   },
+   {
+    "facteur": "Chine et droits de douane",
+    "sens": "mixte",
+    "effet": "23 % des ventes en Asie-Pacifique, clients exportateurs.",
+    "point": "chine-usa"
+   }
+  ]
  },
  "capi": "903 M€",
  "cours": 22.9,

@@ -134,7 +134,27 @@
     "Dette nette au-dessus de 2,5 fois l'EBITDA.",
     "Cours au-dessus de 1 fois les fonds propres sans hausse durable des bénéfices."
    ]
-  }
+  },
+  "expoGeo": [
+   {
+    "facteur": "Gaz et énergie",
+    "sens": "negatif",
+    "effet": "Clients industriels européens fragilisés par l'énergie chère.",
+    "point": "gaz-hiver"
+   },
+   {
+    "facteur": "Acier et métaux",
+    "sens": "mixte",
+    "effet": "Des prix hauts gonflent les ventes, une baisse brutale crée des pertes sur stocks.",
+    "point": "metaux"
+   },
+   {
+    "facteur": "Ukraine",
+    "sens": "mixte",
+    "effet": "Une reconstruction soutiendrait l'acier européen.",
+    "point": "russie-ukraine"
+   }
+  ]
  },
  "capi": "420 M€",
  "cours": 20.9,

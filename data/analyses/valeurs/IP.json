@@ -132,7 +132,21 @@
     "Grosse acquisition qui porte la dette nette au-dessus de 2 fois l'EBITDA",
     "PER au-dessus de 24 sans retour de la croissance organique"
    ]
-  }
+  },
+  "expoGeo": [
+   {
+    "facteur": "Cuivre et métaux",
+    "sens": "negatif",
+    "effet": "Hausse des coûts de matières.",
+    "point": "metaux"
+   },
+   {
+    "facteur": "Cycle industriel",
+    "sens": "mixte",
+    "effet": "Dépend de l'investissement industriel mondial.",
+    "point": null
+   }
+  ]
  },
  "capi": "3,7 Md€",
  "cours": 37.72,

@@ -1193,7 +1193,27 @@
    "https://www.wallstreetzen.com/stocks/us/nyse/ssd",
    "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json"
   ],
-  "aVerifier": "PER 2026 et 2027 (une seule source, StockAnalysis). Date de publication du T3 2026 (26/10 selon StockAnalysis, non annoncée par la société). Piotroski non calculé. Moyenne historique de valorisation non vérifiée."
+  "aVerifier": "PER 2026 et 2027 (une seule source, StockAnalysis). Date de publication du T3 2026 (26/10 selon StockAnalysis, non annoncée par la société). Piotroski non calculé. Moyenne historique de valorisation non vérifiée.",
+  "expoGeo": [
+   {
+    "facteur": "Taux américains",
+    "sens": "negatif",
+    "effet": "Logement neuf freiné par le crédit cher.",
+    "point": "taux"
+   },
+   {
+    "facteur": "Acier",
+    "sens": "negatif",
+    "effet": "Matière première principale.",
+    "point": "metaux"
+   },
+   {
+    "facteur": "Dollar",
+    "sens": "mixte",
+    "effet": "Change euro/dollar sur ton rendement.",
+    "point": null
+   }
+  ]
  },
  "societe": {
   "resume": "Simpson Manufacturing fabrique les pièces métalliques qui tiennent ensemble les charpentes en bois : équerres, sabots, connecteurs, vis et ancrages, sous la marque Strong-Tie. Concrètement, dans une maison américaine en ossature bois, ce sont ces petites pièces qui empêchent le toit de s'envoler lors d'un ouragan ou les murs de se déformer lors d'un séisme. Elle vend aussi des produits d'ancrage et de réparation pour le béton.",

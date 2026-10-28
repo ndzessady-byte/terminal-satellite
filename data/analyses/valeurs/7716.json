@@ -1192,7 +1192,21 @@
    "https://minkabu.jp/stock/7716/settlement",
    "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json"
   ],
-  "aVerifier": "Résultats du S1 2026 et nouvel objectif lus via un résumé du dépôt TDnet (BigGo) et recoupés par Yahoo Finance Japon pour l'objectif ; le PDF officiel du S1 n'a pas pu être consulté. Date des résultats du T3 non confirmée. Aucun consensus d'analystes ni PER 2027 vérifiable. Part organique de la croissance 2026 non trouvée."
+  "aVerifier": "Résultats du S1 2026 et nouvel objectif lus via un résumé du dépôt TDnet (BigGo) et recoupés par Yahoo Finance Japon pour l'objectif ; le PDF officiel du S1 n'a pas pu être consulté. Date des résultats du T3 non confirmée. Aucun consensus d'analystes ni PER 2027 vérifiable. Part organique de la croissance 2026 non trouvée.",
+  "expoGeo": [
+   {
+    "facteur": "Droits de douane américains",
+    "sens": "negatif",
+    "effet": "40 % des ventes en Amérique du Nord, production au Japon.",
+    "point": "chine-usa"
+   },
+   {
+    "facteur": "Yen et dollar",
+    "sens": "mixte",
+    "effet": "Double risque de change.",
+    "point": null
+   }
+  ]
  },
  "societe": {
   "resume": "Nakanishi est une société japonaise qui fabrique, sous la marque NSK, les instruments qui tournent à très grande vitesse dans la bouche du patient chez le dentiste (turbines, contre-angles, moteurs), ainsi que des fauteuils dentaires, des instruments pour la chirurgie et des broches pour l'industrie. Concrètement, quand un dentiste soigne une carie, la « fraise » qui siffle est souvent montée sur une turbine NSK. Elle vend dans le monde entier et réalise près de 90 % de ses ventes hors du Japon.",

@@ -120,7 +120,21 @@
     "Abandon ou report du plan 2030.",
     "PER au-dessus de 25 fois sans reprise de la croissance."
    ]
-  }
+  },
+  "expoGeo": [
+   {
+    "facteur": "Dollar",
+    "sens": "mixte",
+    "effet": "32 % des ventes en Amérique du Nord.",
+    "point": null
+   },
+   {
+    "facteur": "Matières naturelles",
+    "sens": "mixte",
+    "effet": "Prix des récoltes et logistique mondiale.",
+    "point": null
+   }
+  ]
  },
  "capi": "1,64 Md€",
  "cours": 793.0,

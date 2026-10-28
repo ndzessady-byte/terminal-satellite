@@ -135,7 +135,27 @@
     "PER 2027 au dessus de 22 sans acceleration de la croissance",
     "Retournement du carnet de commandes Semicon"
    ]
-  }
+  },
+  "expoGeo": [
+   {
+    "facteur": "Taux",
+    "sens": "negatif",
+    "effet": "Le bâtiment ralentit quand le crédit est cher.",
+    "point": "taux"
+   },
+   {
+    "facteur": "Cuivre et métaux",
+    "sens": "negatif",
+    "effet": "Coûts de production plus élevés.",
+    "point": "metaux"
+   },
+   {
+    "facteur": "Semi-conducteurs",
+    "sens": "mixte",
+    "effet": "Exposé au cycle des puces et donc aux tensions Chine/États-Unis.",
+    "point": "chine-usa"
+   }
+  ]
  },
  "capi": "4,5 Md€",
  "cours": 41.9,

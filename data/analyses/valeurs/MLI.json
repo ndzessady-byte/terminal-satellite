@@ -1198,7 +1198,21 @@
    "https://www.businesswire.com/news/home/20260806173810/en/Mueller-Industries-Inc.-Declares-Cash-Dividend-for-Third-Quarter",
    "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json"
   ],
-  "aVerifier": "Date de publication du T3 2026 (27/10 estimée par MarketBeat, non confirmée). Consensus 2026 et 2027 (2 analystes, une seule source). Piotroski estimé (ratio de liquidité 2025 et marge brute non vérifiés). Ventes d'initiés (MarketBeat seul). Montant du dividende du T3 (supposé 0,175 $)."
+  "aVerifier": "Date de publication du T3 2026 (27/10 estimée par MarketBeat, non confirmée). Consensus 2026 et 2027 (2 analystes, une seule source). Piotroski estimé (ratio de liquidité 2025 et marge brute non vérifiés). Ventes d'initiés (MarketBeat seul). Montant du dividende du T3 (supposé 0,175 $).",
+  "expoGeo": [
+   {
+    "facteur": "Cuivre et droits de douane",
+    "sens": "mixte",
+    "effet": "Protègent les prix aujourd'hui, risque de retournement.",
+    "point": "metaux"
+   },
+   {
+    "facteur": "Dollar",
+    "sens": "mixte",
+    "effet": "Change euro/dollar sur ton rendement.",
+    "point": null
+   }
+  ]
  },
  "societe": {
   "resume": "Mueller Industries fabrique des tubes en cuivre, des raccords, des vannes et des pièces en laiton ou en aluminium, surtout pour la plomberie, le chauffage et la climatisation. Concrètement, quand un plombier américain installe le réseau d'eau d'une maison ou qu'un frigoriste pose une climatisation, il utilise très souvent des tubes et raccords Mueller. La société vend aussi des barres et pièces en métal à l'industrie et des composants pour les réseaux électriques.",

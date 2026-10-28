@@ -132,7 +132,27 @@
     "Marge opérationnelle courante sous 8 % sur un semestre.",
     "PER au-dessus de 14 fois sans hausse des volumes."
    ]
-  }
+  },
+  "expoGeo": [
+   {
+    "facteur": "Pétrole",
+    "sens": "negatif",
+    "effet": "Carburant cher, demande de camping-cars en baisse.",
+    "point": "ormuz"
+   },
+   {
+    "facteur": "Taux",
+    "sens": "negatif",
+    "effet": "Achats souvent financés à crédit.",
+    "point": "taux"
+   },
+   {
+    "facteur": "Politique française",
+    "sens": "mixte",
+    "effet": "35 % des ventes en France.",
+    "point": "france"
+   }
+  ]
  },
  "capi": "2,53 Md€",
  "cours": 125.0,

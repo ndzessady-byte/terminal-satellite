@@ -1196,7 +1196,21 @@
    "https://www.stockopedia.com/share-prices/uss-co-TYO:4732/",
    "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json"
   ],
-  "aVerifier": "Montants exacts des prévisions et du dividende relevés le 04/08 non lus (document TDnet inaccessible) : seuls le sens de la révision, le CA (31,3 Md¥) et le bénéfice net (10,9 Md¥) du T1 sont confirmés. Date des résultats semestriels non publiée. PER, objectif de cours et trésorerie nette actuelle d'une seule source (MarketScreener). PEG calculé sur la croissance du BPA attendue (environ 7 %/an), approximatif. Piotroski non calculé. Moyennes mobiles et RSI issus du flux de cours. Capitalisation en euros approximative."
+  "aVerifier": "Montants exacts des prévisions et du dividende relevés le 04/08 non lus (document TDnet inaccessible) : seuls le sens de la révision, le CA (31,3 Md¥) et le bénéfice net (10,9 Md¥) du T1 sont confirmés. Date des résultats semestriels non publiée. PER, objectif de cours et trésorerie nette actuelle d'une seule source (MarketScreener). PEG calculé sur la croissance du BPA attendue (environ 7 %/an), approximatif. Piotroski non calculé. Moyennes mobiles et RSI issus du flux de cours. Capitalisation en euros approximative.",
+  "expoGeo": [
+   {
+    "facteur": "Droits de douane et sanctions",
+    "sens": "negatif",
+    "effet": "Moins de voitures exportées si les pays acheteurs ferment leurs frontières.",
+    "point": "chine-usa"
+   },
+   {
+    "facteur": "Yen",
+    "sens": "mixte",
+    "effet": "Valeur 100 % japonaise : le change euro/yen joue sur ton rendement.",
+    "point": null
+   }
+  ]
  },
  "societe": {
   "resume": "USS organise chaque semaine des enchères de voitures d'occasion réservées aux professionnels de l'automobile au Japon, dans de grands centres et en ligne. Concrètement, un concessionnaire qui a repris la voiture d'un client la confie à USS, qui la fait inspecter puis la vend en quelques secondes à un autre garage ou à un exportateur ; USS touche une commission du vendeur et de l'acheteur. Le groupe reprend aussi des voitures aux particuliers (enseigne Rabbit) et recycle des véhicules.",

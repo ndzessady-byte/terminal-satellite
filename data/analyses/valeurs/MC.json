@@ -123,7 +123,27 @@
     "Dette financière nette au-dessus de 20 Md€ après une grosse acquisition.",
     "PER au-dessus de 25 fois sans retour de la croissance."
    ]
-  }
+  },
+  "expoGeo": [
+   {
+    "facteur": "Chine",
+    "sens": "negatif",
+    "effet": "Premier moteur de croissance du luxe, aujourd'hui en ralentissement.",
+    "point": "chine-usa"
+   },
+   {
+    "facteur": "Droits de douane américains",
+    "sens": "negatif",
+    "effet": "25 % des ventes aux États-Unis, produits fabriqués en Europe.",
+    "point": "chine-usa"
+   },
+   {
+    "facteur": "Dollar",
+    "sens": "mixte",
+    "effet": "Un dollar faible réduit les ventes converties en euros.",
+    "point": "taux"
+   }
+  ]
  },
  "capi": "188,8 Md€",
  "compte": "PEA",

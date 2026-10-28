@@ -177,6 +177,16 @@
      "effet": "12 % du CA en Inde, Afrique et Moyen-Orient : exposée au ralentissement régional et à la logistique, sans lien direct avec le pétrole.",
      "sens": "mixte",
      "ticker": "VIRP"
+    },
+    {
+     "effet": "Un pétrole cher gonfle directement les revenus de DNO, presque tout en mer du Nord, donc loin du détroit.",
+     "sens": "positif",
+     "ticker": "DNO"
+    },
+    {
+     "effet": "Une partie des commandes de Powell vient du pétrole, du gaz et de la pétrochimie : un baril cher soutient l'investissement, une récession le freine.",
+     "sens": "mixte",
+     "ticker": "POWL"
     }
    ]
   },
@@ -270,6 +280,16 @@
      "effet": "Les clients reportent leurs investissements en équipements quand les taux montent, mais le dollar plus fort aide la conversion du CA américain (32 %).",
      "sens": "mixte",
      "ticker": "LSS"
+    },
+    {
+     "effet": "Des taux hauts freinent la construction de logements neufs aux États-Unis, premier débouché de Simpson.",
+     "sens": "negatif",
+     "ticker": "SSD"
+    },
+    {
+     "effet": "Des taux hauts pèsent sur la valorisation des valeurs de qualité chères comme LVMH.",
+     "sens": "mixte",
+     "ticker": "MC"
     }
    ]
   },
@@ -512,6 +532,11 @@
      "effet": "Un accord pourrait détendre le gaz, mais la sécurisation des réseaux allemands reste un besoin de fond.",
      "sens": "mixte",
      "ticker": "VH2"
+    },
+    {
+     "effet": "La guerre soutient les budgets de défense européens, qui font l'essentiel des commandes de Theon.",
+     "sens": "positif",
+     "ticker": "THEON"
     }
    ]
   },
@@ -576,6 +601,46 @@
      "effet": "73 % du CA aux Amériques et en Asie : dépend des chaînes d'approvisionnement électroniques entre Chine et États-Unis.",
      "sens": "mixte",
      "ticker": "VU"
+    },
+    {
+     "effet": "La Chine et les États-Unis pèsent environ la moitié des ventes : ralentissement chinois et droits de douane touchent directement LVMH.",
+     "sens": "negatif",
+     "ticker": "MC"
+    },
+    {
+     "effet": "Société américaine à 80 % : peu exposée aux droits de douane à l'export, mais sensible aux tarifs sur les composants importés.",
+     "sens": "mixte",
+     "ticker": "GMED"
+    },
+    {
+     "effet": "Près de la moitié des ventes aux Amériques, produites en Norvège : des droits de douane américains rognent la marge.",
+     "sens": "negatif",
+     "ticker": "MEDI"
+    },
+    {
+     "effet": "40 % des ventes en Amérique du Nord avec une production japonaise : les droits de douane américains pèsent sur la marge.",
+     "sens": "negatif",
+     "ticker": "7716"
+    },
+    {
+     "effet": "Production 100 % japonaise vendue en Europe, en Asie et aux États-Unis : droits de douane et demande chinoise comptent.",
+     "sens": "negatif",
+     "ticker": "7839"
+    },
+    {
+     "effet": "Une partie des acheteurs exportent les voitures : droits de douane et sanctions peuvent réduire leur demande.",
+     "sens": "mixte",
+     "ticker": "4732"
+    },
+    {
+     "effet": "Les doutes sur les investissements dans l'IA et les data centers, liés à la rivalité technologique, peuvent freiner les commandes.",
+     "sens": "mixte",
+     "ticker": "POWL"
+    },
+    {
+     "effet": "Les câbles pour data centers dépendent du cycle d'investissement dans l'IA, très lié à la rivalité technologique.",
+     "sens": "mixte",
+     "ticker": "5805"
     }
    ]
   },
@@ -663,6 +728,26 @@
      "effet": "Cuivre présent dans les cartes et câblages électroniques : pression sur les coûts.",
      "sens": "negatif",
      "ticker": "KIT"
+    },
+    {
+     "effet": "Le cuivre cher et les droits de douane protègent les prix de Mueller aujourd'hui, mais un retournement ferait baisser ses bénéfices.",
+     "sens": "mixte",
+     "ticker": "MLI"
+    },
+    {
+     "effet": "Le cuivre cher gonfle le chiffre d'affaires de SWCC puis peut le dégonfler quand il baisse.",
+     "sens": "mixte",
+     "ticker": "5805"
+    },
+    {
+     "effet": "Le cuivre et l'acier chers renchérissent les équipements électriques de Powell.",
+     "sens": "negatif",
+     "ticker": "POWL"
+    },
+    {
+     "effet": "L'acier est la matière première principale de Simpson : un acier cher rogne la marge si les prix de vente ne suivent pas.",
+     "sens": "negatif",
+     "ticker": "SSD"
     }
    ]
   }

@@ -137,7 +137,27 @@
     "Acquisition importante financée par une dette nette supérieure à 2 fois l'EBITDA.",
     "PER au-dessus de 20 fois sans reprise nette du marché du bâtiment."
    ]
-  }
+  },
+  "expoGeo": [
+   {
+    "facteur": "Taux",
+    "sens": "negatif",
+    "effet": "Bâtiment freiné par le crédit cher.",
+    "point": "taux"
+   },
+   {
+    "facteur": "Politique française",
+    "sens": "negatif",
+    "effet": "83 % des ventes en France.",
+    "point": "france"
+   },
+   {
+    "facteur": "Cuivre",
+    "sens": "mixte",
+    "effet": "Renchérit les produits, peut gonfler les prix de vente.",
+    "point": "metaux"
+   }
+  ]
  },
  "capi": "642 M€",
  "cours": 60.7,

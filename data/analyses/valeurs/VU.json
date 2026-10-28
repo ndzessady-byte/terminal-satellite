@@ -140,7 +140,21 @@
     "Marge d'EBITDA qui repasse sous 16 % sur un semestre.",
     "PER au-dessus de 25 fois sans reprise des prises de commandes."
    ]
-  }
+  },
+  "expoGeo": [
+   {
+    "facteur": "Chine et droits de douane",
+    "sens": "mixte",
+    "effet": "Production asiatique, gros clients américains.",
+    "point": "chine-usa"
+   },
+   {
+    "facteur": "Dollar",
+    "sens": "mixte",
+    "effet": "73 % des ventes hors Europe.",
+    "point": null
+   }
+  ]
  },
  "capi": "2,06 Md€",
  "cours": 127.8,

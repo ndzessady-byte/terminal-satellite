@@ -134,7 +134,27 @@
     "Carnet de commandes en baisse deux trimestres de suite",
     "PER 2027 au-dessus de 30 sans relèvement des prévisions de bénéfice"
    ]
-  }
+  },
+  "expoGeo": [
+   {
+    "facteur": "Défense",
+    "sens": "positif",
+    "effet": "Commandes militaires en hausse en Europe.",
+    "point": "russie-ukraine"
+   },
+   {
+    "facteur": "Chine et composants",
+    "sens": "mixte",
+    "effet": "Dépend des chaînes d'approvisionnement asiatiques.",
+    "point": "chine-usa"
+   },
+   {
+    "facteur": "Métaux",
+    "sens": "negatif",
+    "effet": "Composants plus chers.",
+    "point": "metaux"
+   }
+  ]
  },
  "capi": "1,98 Md€",
  "cours": 89.4,

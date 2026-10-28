@@ -136,7 +136,21 @@
     "Marge opérationnelle ajustée annuelle sous 15 %.",
     "Acquisition importante qui fait passer la dette nette au-dessus de 2,5 fois l'EBITDA."
    ]
-  }
+  },
+  "expoGeo": [
+   {
+    "facteur": "Pétrole et transport",
+    "sens": "mixte",
+    "effet": "Coûts logistiques et matières.",
+    "point": "ormuz"
+   },
+   {
+    "facteur": "Devises émergentes",
+    "sens": "mixte",
+    "effet": "Amérique latine et Inde pèsent environ un quart des ventes.",
+    "point": null
+   }
+  ]
  },
  "capi": "2,54 Md€",
  "cours": 347.5,

@@ -135,7 +135,27 @@
     "Baisse du dividende ordinaire (2,25 €)",
     "Révision à la baisse des objectifs 2030 du plan Beat'30"
    ]
-  }
+  },
+  "expoGeo": [
+   {
+    "facteur": "Gaz et énergie",
+    "sens": "negatif",
+    "effet": "Coûts de production déjà en hausse.",
+    "point": "gaz-hiver"
+   },
+   {
+    "facteur": "Pétrole",
+    "sens": "negatif",
+    "effet": "Transport et matières plus chers.",
+    "point": "ormuz"
+   },
+   {
+    "facteur": "Dollar et devises",
+    "sens": "mixte",
+    "effet": "Ventes réparties sur plusieurs continents.",
+    "point": null
+   }
+  ]
  },
  "capi": "2,5 Md€",
  "cours": 53.9,

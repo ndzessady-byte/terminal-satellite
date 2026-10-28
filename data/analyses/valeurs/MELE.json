@@ -136,7 +136,21 @@
     "PER 2027 au dessus de 25 sans acceleration de la croissance",
     "Baisse du dividende non expliquee par un investissement de croissance"
    ]
-  }
+  },
+  "expoGeo": [
+   {
+    "facteur": "Chine",
+    "sens": "mixte",
+    "effet": "Ventes record en Chine mais forte pression sur les prix.",
+    "point": "chine-usa"
+   },
+   {
+    "facteur": "Dollar",
+    "sens": "negatif",
+    "effet": "Un dollar faible pèse sur la marge.",
+    "point": null
+   }
+  ]
  },
  "capi": "2,7 Md€",
  "cours": 57.05,

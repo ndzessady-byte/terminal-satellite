@@ -133,7 +133,15 @@
     "Croissance organique négative deux trimestres de suite.",
     "PER au-dessus de 20 fois sans accélération de la croissance."
    ]
-  }
+  },
+  "expoGeo": [
+   {
+    "facteur": "Politique française",
+    "sens": "negatif",
+    "effet": "Majorité des ventes en France et au Royaume-Uni, clients bancaires prudents si le pays se tend.",
+    "point": "france"
+   }
+  ]
  },
  "capi": "647 M€",
  "cours": 50.7,
