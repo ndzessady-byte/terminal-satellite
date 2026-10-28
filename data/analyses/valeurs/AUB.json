@@ -3,6 +3,13 @@
   "aVerifier": "Moyenne mobile 200 jours non confirmée (la page technique Investing lue n'était pas datée et affichait un cours ancien de 56,60 €). RSI 14 calculé par nous en moyenne simple sur les clôtures Investing. Support et résistance issus d'Investtech (analyse partielle, abonnement requis). ROE estimée par calcul. Taux d'intercontrat et effectifs non trouvés. Dates du chiffre d'affaires du 3e trimestre et annuel à confirmer.",
   "actu": [
    {
+    "d": "28/10",
+    "fait": "T3 : +8,5 % en organique (France +7,6 %, international +10 %), taux d'activité 93,3 % ; 9 mois +10,3 % en organique. Objectif de CA 2026 relevé à 705 à 710 M€ ; marge 9 à 10 % confirmée.",
+    "impact": "positif",
+    "horizon": "court",
+    "lecture": "La croissance organique reste forte, y compris à l'international, et l'objectif est relevé : la demande des banques et assureurs tient."
+   },
+   {
     "d": "29/09",
     "fait": "Aubay met à disposition son rapport financier semestriel 2026 (comptes au 30/06, rapport des commissaires aux comptes). Effectif de 9 406 salariés dans sept pays européens à mi 2026.",
     "impact": "neutre",
@@ -22,13 +29,6 @@
     "horizon": "moyen",
     "impact": "negatif",
     "lecture": "La France représente environ 62 % du chiffre d'affaires semestriel (217,2 M€ sur 351,9 M€) : un climat budgétaire tendu peut freiner les projets informatiques des clients français et pèse sur la valorisation des valeurs moyennes."
-   },
-   {
-    "d": "16/09",
-    "fait": "Résultats du 1er semestre 2026 : chiffre d'affaires 351,9 M€ (+30,8 %, +11,4 % en organique), marge opérationnelle 7,5 % (7,2 % un an plus tôt), résultat net 17,2 M€ (+22,9 %). Objectifs 2026 relevés : chiffre d'affaires 695 à 705 M€ (contre 676 à 690 M€) et marge de 9 à 10 % (contre 9 à 9,5 %).",
-    "horizon": "moyen",
-    "impact": "positif",
-    "lecture": "Une croissance organique à deux chiffres dans un secteur qui stagne prouve qu'Aubay gagne des parts de marché ; c'est le cœur de la thèse de long terme."
    }
   ],
   "cadres": [
@@ -52,7 +52,7 @@
    "score": 7,
    "valo": "Au cours de 51,9 € : PER d'environ 13,9 fois pour 2026 et 12,7 fois pour 2027, valeur d'entreprise sur EBITDA d'environ 7,7 fois pour 2026, rendement du dividende d'environ 2,9 % et rendement du flux de trésorerie disponible de 7,6 % (Zonebourse). Le PER moyen des cinq années 2021 à 2025 est d'environ 18,7 fois (24,2 ; 18,3 ; 16,4 ; 15,4 ; 19,4) : le titre se paie donc nettement moins cher que d'habitude malgré une croissance supérieure."
   },
-  "majLe": "2026-09-28",
+  "majLe": "2026-10-28",
   "revisions": "Non trouvé ce soir : aucune page de révisions lisible. Objectif moyen des analystes 68,08 € (Boursorama).",
   "scenarios": [
    {
@@ -89,6 +89,7 @@
    }
   ],
   "sources": [
+   "https://www.webdisclosure.fr/press-release/aubay-epa-aub-chiffre-daffaires-du-troisieme-trimestre-2026-85-objectif-de-chiffre-daffaires-annuel-releve-a-705-710-m-eur-cmNekhPjNym",
    "https://www.financialcontent.com/article/actus-2026-10-1-aubay-dclaration-des-droits-de-vote-au-30-septembre-2026",
    "https://www.financialcontent.com/article/actus-2026-9-29-aubay-mise-a-disposition-du-rapport-financier-semestriel-2026",
    "https://www.abcbourse.com/marches/newsContent/702648",
@@ -139,6 +140,10 @@
  "coursLe": "2026-10-28",
  "devise": "€",
  "faits": [
+  {
+   "d": "28/10",
+   "t": "T3 : CA 173,8 M€ (+8,5 %, tout en organique ; France +7,6 %, international +10 %). Objectif 2026 relevé à 705 à 710 M€, marge opérationnelle 9 à 10 % confirmée."
+  },
   {
    "d": "01/10",
    "t": "Déclaration mensuelle des droits de vote au 30/09 (formalité)."
@@ -1204,8 +1209,8 @@
   "m3": -8.2,
   "m12": 1.0
  },
- "pub": "2026-10-28",
- "pubLabel": "CA du T3",
+ "pub": "2027-01-27",
+ "pubLabel": "CA annuel 2026 (après bourse)",
  "risque": "Ralentissement des budgets IT des banques.",
  "secteur": "ESN (services informatiques)",
  "societe": {
@@ -1419,10 +1424,10 @@
     {
      "c": "Que les banques et assureurs européens continuent d'investir dans leurs systèmes informatiques malgré l'IA.",
      "etat": "ok",
-     "preuve": "S1 2026 : CA 351,9 M€ (+11,4 % en organique) ; objectif 2026 relevé à 695 à 705 M€.",
+     "preuve": "T3 2026 : CA 173,8 M€.",
      "prochain": "CA du T3 le 28/10/2026",
-     "reponse": "Oui pour l'instant : l'activité commerciale est soutenue et Aubay gagne des parts chez des clients qui réduisent leur nombre de prestataires, notamment dans les services financiers.",
-     "source": "https://www.abcbourse.com/marches/newsContent/700252"
+     "reponse": "Oui : services financiers et assurance parmi les moteurs, +8,5 % en organique au T3.",
+     "source": "https://www.webdisclosure.fr/press-release/aubay-epa-aub-chiffre-daffaires-du-troisieme-trimestre-2026-85-objectif-de-chiffre-daffaires-annuel-releve-a-705-710-m-eur-cmNekhPjNym"
     },
     {
      "c": "Que Solutec et les futures acquisitions apportent de la croissance sans dégrader la marge d'environ 9 %.",
@@ -1441,15 +1446,15 @@
      "source": "https://www.webdisclosure.fr/press-release/aubay-epa-aub-resultats-du-1er-semestre-2026-croissance-308-114-en-organique-amelioration-des-marges-operationnelles-relevement-confirme-des-objectifs-2026-Ol7hu90HdZu"
     }
    ],
-   "le": "2026-09-29",
+   "le": "2026-10-28",
    "questions": [
     {
      "etat": "ok",
-     "preuve": "S1 2026 : +11,4 % en organique (France +12,8 %, international +9,7 %) ; T2 : international +12,0 % en organique.",
+     "preuve": "International T3 : 67,6 M€.",
      "prochain": "CA du T3 le 28/10/2026",
      "q": "La croissance organique (seulement +1,2 % en 2025) repart-elle, notamment à l'international ?",
-     "reponse": "Oui, nettement : la croissance hors acquisitions est passée de +1,2 % en 2025 à plus de 11 %, et l'international accélère (Italie et péninsule ibérique).",
-     "source": "https://www.abcbourse.com/marches/newsContent/700252"
+     "reponse": "Oui : +10 % à l'international et +7,6 % en France au T3.",
+     "source": "https://www.webdisclosure.fr/press-release/aubay-epa-aub-chiffre-daffaires-du-troisieme-trimestre-2026-85-objectif-de-chiffre-daffaires-annuel-releve-a-705-710-m-eur-cmNekhPjNym"
     },
     {
      "etat": "nc",

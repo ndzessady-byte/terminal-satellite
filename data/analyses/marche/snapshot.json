@@ -1,9 +1,9 @@
 {
  "asOf": "2026-10-28",
  "attention": [
-  "Fed ce soir, BCE demain ; Harvia et DNO publient le 29/10.",
-  "Budget : vote solennel sur les recettes le 03/11, 49.3 possible ; élections américaines le 03/11.",
-  "En zone d'intérêt : Kitron, Melexis, Mueller, Trigano, Aubay. Lectra publie ce soir."
+  "BCE demain (maintien attendu) ; Harvia et DNO publient le 29/10.",
+  "Budget : vote sur les recettes le 03/11 ; élections américaines le 03/11 ; mobilisation le 31/10.",
+  "En zone d'intérêt : Melexis, Mueller, Trigano. Lectra passe en surveillance (SaaS et commandes)."
  ],
  "etf": {
   "nom": "Amundi PEA Monde MSCI World (DCAM)",
@@ -15,10 +15,10 @@
  "macro": [
   {
    "label": "CAC 40",
-   "valeur": "7 887,14",
-   "var": "+0,51 %",
-   "sens": 1,
-   "note": "clôture du 27/10 ; +0,83 % le 26/10 après Moody's"
+   "valeur": "7 886,96",
+   "var": "0,0 %",
+   "sens": 0,
+   "note": "clôture du 28/10, stable avant la Fed et la BCE ; Stellantis +15,4 %"
   },
   {
    "label": "OAT 10 ans",
@@ -56,12 +56,12 @@
    "note": "deux sources concordent sur le niveau"
   }
  ],
- "majLe": "2026-10-28T14:00:00+01:00",
+ "majLe": "2026-10-28T21:00:00+01:00",
  "semaine": "5 au 9 octobre 2026",
  "semaineTexte": [
-  "Mercredi 28/10 midi : CAC 40 stable vers 7 890 pts avant la Fed ce soir et la BCE demain ; OAT vers 4,95 %.",
-  "Résultats : Alten relève ses objectifs pour la 3e fois, Vidrala confirme et rachète encore, Melexis en ligne mais marge toujours vers 18 %.",
-  "Brent vers 115 $ après une frappe revendiquée sur Ras Tanura (Arabie saoudite)."
+  "Mercredi 28/10 : CAC 40 stable à 7 887 pts ; la Fed maintient ses taux entre 3,75 et 4 %, BCE demain.",
+  "Aubay relève son objectif (+8,5 % en organique au T3) ; Lectra améliore sa marge mais son SaaS ralentit et ses commandes de machines baissent encore.",
+  "Alten (-3,9 %) et Melexis (-3,5 %) reculent malgré des publications correctes ; Brent au-dessus de 110 $."
  ],
  "watchlistValidee": false
 }

@@ -141,6 +141,10 @@
  "devise": "€",
  "faits": [
   {
+   "d": "28/10",
+   "t": "Le lendemain du CA du T3, le titre recule de 3,9 % à 85,00 €."
+  },
+  {
    "d": "27/10",
    "t": "T3 : CA 1 055,2 M€ (+6,4 %, +3,6 % en organique). Objectifs 2026 relevés pour la 3e fois : organique vers +2 %, marge vers 9,3 %."
   },
@@ -151,10 +155,6 @@
   {
    "d": "25/09",
    "t": "+7,7 % à 76,25 € dans la séance."
-  },
-  {
-   "d": "24/09",
-   "t": "S1 : CA 2 109 M€ (+1,2 %), résultat opérationnel +27 %. Objectifs 2026 relevés : organique +1,7 à +1,9 %, marge vers 9,2 %."
   }
  ],
  "histo": [

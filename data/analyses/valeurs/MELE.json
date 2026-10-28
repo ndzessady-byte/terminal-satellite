@@ -145,6 +145,10 @@
  "faits": [
   {
    "d": "28/10",
+   "t": "Après le T3, le titre recule de 3,5 % à 57,05 €."
+  },
+  {
+   "d": "28/10",
    "t": "T3 : ventes 223,7 M€ (+4 % sur un an, +3 % sur un trimestre), marge brute 40,7 %, marge opérationnelle 18,5 %, résultat net 31,3 M€ (+14 %), BPA 0,78 €. Prévision S2 maintenue : 445 à 455 M€, marge brute vers 41 %, marge opérationnelle vers 18 %."
   },
   {
@@ -154,10 +158,6 @@
   {
    "d": "15/10",
    "t": "Chute du secteur européen des puces après une inflation américaine plus forte que prévu (Infineon -9,2 %, STMicro -7 % en matinée)."
-  },
-  {
-   "d": "13/10",
-   "t": "Détachement de l'acompte sur dividende de 1,30 € ; Invesco passe sous 5 % du capital (4,99 %)."
   }
  ],
  "histo": [
