@@ -388,6 +388,18 @@
   {
    "faits": [
     {
+     "d": "27/10",
+     "t": "Le prix du gaz européen (TTF) atteint son plus haut depuis décembre 2022. Wood Mackenzie juge que le marché mondial du GNL pourrait ne retrouver son équilibre qu'à l'automne 2028, même si le conflit s'arrête d'ici la fin de l'année."
+    },
+    {
+     "d": "24/10",
+     "t": "Les stocks européens restent presque à plat sur la semaine et certains pays puisent déjà dans leurs réserves. Selon l'IEEFA, c'est le plus bas niveau pour la saison depuis 2011. Aucun GNL du Moyen-Orient n'est arrivé depuis mai."
+    },
+    {
+     "d": "22/10",
+     "t": "Le TTF repasse au-dessus de 90 € le MWh, au plus haut depuis décembre 2022, alors que l'Europe vise 90 % de remplissage au 01/11."
+    },
+    {
      "d": "20/10",
      "t": "Le TTF dépasse 90 €/MWh, une première depuis décembre 2022 ; stocks européens à 74,6 % contre 89,2 % en moyenne (Allemagne 61 %, France 88 %)."
     },
@@ -398,18 +410,6 @@
     {
      "d": "30/09",
      "t": "Le gaz européen (TTF) rebondit à 72,21 €/MWh (+3,9 %) ; stocks vers 71 % contre 87 % en moyenne sur 5 ans (une seule source)."
-    },
-    {
-     "d": "29/09",
-     "t": "TTF à 70,20 €/MWh (-4,2 % sur la journée, plus bas d'un mois car la demande chinoise faiblit) ; stocks UE à environ 71 % contre 87 % en moyenne sur 5 ans, Allemagne un peu au-dessus de 57 %. Force majeure qatarie vers l'Italie prolongée jusqu'en décembre."
-    },
-    {
-     "d": "31/08",
-     "t": "TTF octobre à 70,85 €/MWh ; stocks UE à 64,7 %. Goldman Sachs évoque plus de 100 €/MWh en décembre si les exportations du Moyen-Orient ne reviennent que lentement."
-    },
-    {
-     "d": "mi-03",
-     "t": "Le TTF avait presque doublé à plus de 60 €/MWh après l'arrêt du GNL qatari (force majeure le 03/03)."
     }
    ],
    "id": "gaz-hiver",
@@ -423,6 +423,8 @@
    "region": "Europe",
    "resume": "Les stocks de gaz européens sont nettement en retard sur la normale, surtout en Allemagne, alors que le GNL du Golfe arrive mal. Le TTF tient autour de 70 €/MWh, plus du double d'il y a un an. Un hiver froid ou une nouvelle escalade à Ormuz peut faire flamber le prix.",
    "sources": [
+    "https://www.moncloa.com/2026/10/22/gas-ttf-europa-maximos-inflacion-3453622/",
+    "https://www.euronews.com/2026/10/27/european-natural-gas-prices-soar-what-it-means-for-your-winter-bills",
     "https://www.france-epargne.fr/news/gaz-le-ttf-depasse-90-euros-le-mwh-une-premiere-depuis-decembre-2022",
     "https://www.connaissancedesenergies.org/afp/le-gaz-europeen-au-plus-haut-depuis-2022-le-petrole-hesite-261013",
     "https://tradingeconomics.com/commodity/eu-natural-gas",
@@ -457,7 +459,8 @@
      "sens": "positif",
      "ticker": "VH2"
     }
-   ]
+   ],
+   "majLe": "2026-10-28"
   },
   {
    "faits": [
@@ -543,6 +546,14 @@
   {
    "faits": [
     {
+     "d": "28/10",
+     "t": "Washington impose de lourds droits sur les remorques chinoises pour protéger ses fabricants. C'est une mesure sectorielle qui ne remet pas en cause la trêve."
+    },
+    {
+     "d": "01/10",
+     "t": "Selon Reuters, le département américain du Commerce plafonne les licences d'export de pièces aéronautiques vers Comac (C919) et ralentit leur délivrance, pour faire pression sur Pékin au sujet des terres rares."
+    },
+    {
      "d": "28/09",
      "t": "Publication de listes réciproques d'environ 30 Md$ de produits à droits réduits ; semi-conducteurs, VE et batteries exclus. Droits américains moyens sur la Chine : d'environ 22 % à 20,5 % (contre environ 11 % avant 2025)."
     },
@@ -570,6 +581,8 @@
    "region": "Asie / États-Unis",
    "resume": "La visite de Xi à Washington a permis de prolonger la trêve commerciale jusqu'au 10/01/2027 et de baisser les droits sur environ 30 Md$ de produits de chaque côté. Mais les semi-conducteurs, les véhicules électriques et les batteries sont exclus, et Pékin garde la main sur les terres rares. La tension baisse, sans être réglée.",
    "sources": [
+    "https://www.bloomberg.com/news/articles/2026-10-28/us-hits-chinese-trailers-with-tariffs-to-aid-domestic-producers",
+    "https://asiatimes.com/2026/10/for-rare-earth-leverage-us-caps-aircraft-parts-licenses-to-china/",
     "https://www.mining.com/web/china-rare-earth-exports-to-us-drop-before-xi-trump-meet/",
     "https://www.pbs.org/newshour/world/u-s-and-china-release-product-lists-for-tariff-cuts-after-trump-xi-meeting",
     "https://tradingeconomics.com/commodity/copper"
@@ -642,10 +655,15 @@
      "sens": "mixte",
      "ticker": "5805"
     }
-   ]
+   ],
+   "majLe": "2026-10-28"
   },
   {
    "faits": [
+    {
+     "d": "27/10",
+     "t": "Le cuivre à trois mois monte d'environ 1 % au LME, vers 14 490 $ la tonne (Reuters), porté par le rebond des valeurs liées à l'IA et la demande chinoise ; le dollar ferme limite la hausse. Stocks en baisse de plus de 25 % sur la semaine à Shanghai. Aucune nouvelle décision américaine sur les droits de douane sur les métaux."
+    },
     {
      "d": "20/10",
      "t": "Mueller Industries chute de 6,6 % sur une marge en baisse malgré des ventes en hausse de 32 % ; SWCC perd 7,3 % avec les fabricants de câbles. Problèmes propres aux sociétés et au secteur, pas une baisse du cuivre."
@@ -665,10 +683,6 @@
     {
      "d": "08/09",
      "t": "Record historique du cuivre au LME à 14 533 $/t (clôture 14 510 $), porté par le stockage américain avant des droits attendus sur le cuivre raffiné l'an prochain."
-    },
-    {
-     "d": "24/07",
-     "t": "Selon un site spécialisé tarifs, un droit additionnel « Section 301 » allant jusqu'à 10 % s'applique aux produits de l'UE ; les droits Section 232 vont de 10 à 50 % sur l'acier, 15 à 50 % sur l'aluminium et le cuivre (source non officielle, à confirmer)."
     }
    ],
    "id": "metaux",
@@ -686,6 +700,8 @@
    "region": "Monde (États-Unis, Chili)",
    "resume": "Le cuivre a battu son record au LME début septembre, porté par des achats américains avant d'éventuels droits sur le cuivre raffiné et par la demande IA et électrification. L'arrêt d'Escondida, première mine mondiale, après un accident mortel ajoute un risque d'offre. Les droits américains sur l'acier, l'aluminium et le cuivre européens restent élevés.",
    "sources": [
+    "https://www.brecorder.com/news/40446174/copper-climbs-on-china-demand-strength",
+    "https://www.kitco.com/news/off-the-wire/2026-10-27/copper-price-climbs-ai-rebound-china-demand-strength",
     "https://www.tradingkey.com/news/market-movers/262226414-market-movers-mli-20261020",
     "https://www.miningweekly.com/article/workers-at-chiles-centinela-copper-mine-strike-after-talks-fail-2026-10-07",
     "https://news.metal.com/newscontent/104136981-bhps-escondida-copper-mine-gradually-resumes-operations-following-fatal-accident",
@@ -749,7 +765,8 @@
      "sens": "negatif",
      "ticker": "SSD"
     }
-   ]
+   ],
+   "majLe": "2026-10-28"
   }
  ]
 }
