@@ -14,24 +14,24 @@
  "risque": "Très dépendant du prix du pétrole et du gaz ; Kurdistan irakien à l'arrêt ou vendu à bas prix ; fiscalité norvégienne lourde et risque de change entre dollar et couronne.",
  "faits": [
   {
+   "d": "29/10",
+   "t": "T3 record : CA 1 023 M$ (760,5 M$ au T2), résultat opérationnel 641,1 M$ (439,0), résultat net 101,1 M$ (83,4), trésorerie libre 326,5 M$ (289,5)."
+  },
+  {
+   "d": "29/10",
+   "t": "Dette nette ramenée à 231,9 M$ (552,9 M$ au T2). Production 142 768 barils équivalent par jour (+61 % sur le trimestre)."
+  },
+  {
+   "d": "29/10",
+   "t": "Dividende trimestriel maintenu à 0,375 NOK : détachement le 06/11, paiement vers le 17/11."
+  },
+  {
    "d": "14/10",
    "t": "Point d'activité du T3 : Kurdistan à 54 914 barils équivalent par jour (273 au T2), mer du Nord à 85 364."
-  },
-  {
-   "d": "14/10",
-   "t": "Échange avec Vår Energi et vente de la Côte d'Ivoire à Panoro (86,5 M$) terminés. Résultats du T3 le 29/10."
-  },
-  {
-   "d": "02/10",
-   "t": "Capricorn confirme son rachat par Genel, clôture attendue au T4 2026 : DNO sort de la course sans avoir surenchéri."
-  },
-  {
-   "d": "28/09",
-   "t": "Capricorn : DNO déclare finale son offre de 5,214 $ par action et ne suit pas Genel (5,74 $ par action, environ 436 M$), qui a l'appui du conseil de Capricorn."
   }
  ],
- "pub": "2026-10-29",
- "pubLabel": "Résultats du T3",
+ "pub": null,
+ "pubLabel": "Résultats du T4 2026 (date non encore publiée)",
  "src": "https://www.globenewswire.com/news-release/2026/08/13/3344212/0/en/dno-reports-record-revenue-as-it-chases-new-growth.html",
  "notes": "Cours : clôture du 30/09/2026 en couronnes (flux de cours). Les comptes sont publiés en dollars, le dividende est versé en couronnes. PER 2026 et 2027 : MarketScreener (6,06 et 5,56 au cours de 19,28 NOK), ajustés au cours du 30/09 ; une seule source. Date du 29/10 confirmée par le calendrier financier publié par DNO (11/05/2026) et MarketScreener. Vérifier que le courtier accepte le titre en PEA.",
  "yahoo": "DNO.OL",
@@ -1084,7 +1084,7 @@
   "m12": 82.3
  },
  "analyse": {
-  "majLe": "2026-10-01",
+  "majLe": "2026-10-29",
   "verdict": "DNO est devenu en 2025 un producteur de la mer du Nord grâce au rachat de Sval Energi, et c'est ce qui l'a protégé en 2026 : malgré l'arrêt presque total du Kurdistan depuis février, le groupe a dégagé un CA record et 290 M$ de trésorerie libre au T2. Valorisé environ 6 fois les bénéfices 2026 attendus avec un rendement d'environ 7,9 %, le titre est bon marché, mais ce prix reflète une forte dépendance au pétrole et une fiscalité norvégienne très lourde. La discipline montrée sur Capricorn et Genel est un bon signe pour l'actionnaire.",
   "conviction": "moyenne",
   "revisions": "Sens non confirmé. Consensus MarketScreener au 25/09 : bénéfice net de 348 M$ en 2026 et 376 M$ en 2027, CA de 2,89 Md$ puis 2,84 Md$, dette nette de 362 M$ fin 2026 et 224 M$ fin 2027. Arctic et Clarksons Platou visent 23 NOK (opinion favorable), objectif moyen non trouvé.",
@@ -1116,32 +1116,32 @@
   },
   "actu": [
    {
+    "d": "29/10",
+    "fait": "Trimestre record porté par le retour du Kurdistan (54 914 barils par jour) et des prix plus élevés : CA 1 023 M$, résultat opérationnel 641,1 M$, trésorerie libre 326,5 M$, dette nette en baisse à 231,9 M$. Mer du Nord stable à 85 364 barils, prix obtenu 106,7 $ par baril équivalent.",
+    "impact": "positif",
+    "horizon": "moyen",
+    "lecture": "La trésorerie libre couvre très largement le dividende et la dette nette est déjà dans la fourchette visée : la thèse se confirme, mais elle reste suspendue au prix du pétrole."
+   },
+   {
+    "d": "29/10",
+    "fait": "Kurdistan : prix de vente local de 38,5 $ le baril au T3, relevé à 45 $ en octobre ; Tawke attendu à 50 000 barils par jour en moyenne en 2026. Mer du Nord attendue vers 86 000 barils en 2026, objectif 100 000 en 2030.",
+    "impact": "positif",
+    "horizon": "moyen",
+    "lecture": "Le Kurdistan rapporte davantage, mais toujours bien sous le prix international."
+   },
+   {
+    "d": "29/10",
+    "fait": "Le président dit rester tourné vers la croissance seulement si elle atteint les objectifs de rentabilité. Aucune nouvelle acquisition annoncée.",
+    "impact": "neutre",
+    "horizon": "long",
+    "lecture": "Le ton reste discipliné après les abandons de Genel et Capricorn."
+   },
+   {
     "d": "14/10",
     "fait": "Le Kurdistan repasse à 54 914 barils équivalent par jour nets (273 au T2), vendus 38,5 $ le baril en moyenne ; la mer du Nord produit 85 364 barils par jour. Chiffres provisoires.",
     "impact": "positif",
     "horizon": "moyen",
     "lecture": "Explication probable de la hausse de la semaine : le Kurdistan repart au-dessus de son niveau d'avant l'arrêt, alors que la mer du Nord finance déjà seule le dividende. Mais le baril kurde reste vendu loin du prix international."
-   },
-   {
-    "d": "02/10",
-    "fait": "Capricorn indique que le rachat par Genel avance (accord égyptien obtenu, clôture attendue au T4) et rappelle que DNO a déclaré son offre finale le 28/09.",
-    "impact": "neutre",
-    "horizon": "moyen",
-    "lecture": "Pas de croissance en Égypte, mais pas de dépense non plus : l'argent reste disponible pour le dividende et la baisse de la dette."
-   },
-   {
-    "d": "28/09",
-    "fait": "DNO refuse de relever son offre sur Capricorn Energy (actifs en Égypte), déclarée finale à 5,214 $ par action, face à Genel qui propose 5,74 $ et a l'appui du conseil et d'environ 39 % des actionnaires.",
-    "impact": "positif",
-    "horizon": "moyen",
-    "lecture": "DNO devrait perdre ce rachat, mais il évite de surpayer : c'est un signe de discipline, l'argent reste disponible pour le dividende et la baisse de la dette."
-   },
-   {
-    "d": "04/09",
-    "fait": "DNO renonce à faire une offre sur Genel Energy après une approche indicative à 69 pence par action le 07/08.",
-    "impact": "neutre",
-    "horizon": "moyen",
-    "lecture": "Deux tentatives de croissance externe abandonnées en un mois : la stratégie de rachat reste ouverte, il faudra voir la prochaine cible."
    }
   ],
   "scenarios": [
@@ -1188,6 +1188,8 @@
    "Weinstein (stades)"
   ],
   "sources": [
+   "https://www.globenewswire.com/news-release/2026/10/29/3390911/0/en/key-information-relating-to-cash-dividend.html",
+   "https://www.globenewswire.com/news-release/2026/10/29/3390922/0/en/dno-races-ahead-on-stronger-production-higher-prices.html",
    "https://www.globenewswire.com/news-release/2026/10/14/3380314/0/en/q3-2026-trading-update-and-invitation-to-earnings-call.html",
    "https://www.investegate.co.uk/announcement/rns/capricorn-energy--cne/update-on-recommended-cash-acquisition-by-genel/9803017",
    "https://www.globenewswire.com/news-release/2026/08/13/3344212/0/en/dno-reports-record-revenue-as-it-chases-new-growth.html",
@@ -1217,7 +1219,7 @@
     "point": null
    }
   ],
-  "veilleLe": "2026-10-28"
+  "veilleLe": "2026-10-29"
  },
  "societe": {
   "resume": "DNO est la plus ancienne compagnie pétrolière norvégienne. Elle produit du pétrole et du gaz, aujourd'hui surtout en mer du Nord (Norvège et Royaume-Uni), et possède aussi de grands gisements au Kurdistan irakien et des parts en Afrique de l'Ouest. Concrètement, quand une raffinerie européenne se procure un cargo de pétrole de la mer du Nord, une partie peut venir des champs où DNO détient des parts.",
@@ -1348,31 +1350,31 @@
    "Le dividende de 1,50 NOK par an peut-il être relevé, ou la direction privilégiera-t-elle la dette et les rachats ?"
   ],
   "suivi": {
-   "le": "2026-10-16",
+   "le": "2026-10-29",
    "bilan": "Les trois conditions tiennent : la mer du Nord porte le groupe, les prix sont élevés et la direction a refusé de surpayer ; le point fragile reste la dépendance totale au prix du pétrole.",
    "croire": [
     {
      "c": "Que la mer du Nord (environ 85 000 barils équivalent par jour) continue de produire comme prévu et de financer seule le dividende, même si le Kurdistan reste à l'arrêt.",
      "etat": "ok",
-     "reponse": "Oui : la mer du Nord tient environ 85 000 barils par jour, et le Kurdistan s'ajoute maintenant.",
-     "preuve": "T3 2026 : mer du Nord 85 364, Kurdistan 54 914 barils équivalent par jour.",
-     "source": "https://www.globenewswire.com/news-release/2026/10/14/3380314/0/en/q3-2026-trading-update-and-invitation-to-earnings-call.html",
+     "reponse": "Oui : 85 364 barils par jour au T3, environ 86 000 attendus en moyenne en 2026.",
+     "preuve": "Communiqué du T3 du 29/10/2026.",
+     "source": "https://www.globenewswire.com/news-release/2026/10/29/3390922/0/en/dno-races-ahead-on-stronger-production-higher-prices.html",
      "prochain": "Résultats du T3 le 29/10/2026"
     },
     {
      "c": "Que le prix du pétrole et du gaz européen reste assez élevé (Brent au-dessus d'environ 65 $) pour que la trésorerie libre couvre le dividende et la baisse de la dette.",
      "etat": "ok",
-     "reponse": "Oui pour l'instant : les prix élevés ont permis 289,5 M$ de trésorerie libre au T2, bien plus que le dividende trimestriel. Mais cela peut changer vite en cas de détente au Moyen-Orient.",
-     "preuve": "T2 2026 : CA 760,5 M$ (+21 % sur le trimestre), résultat opérationnel 439 M$, trésorerie libre 289,5 M$.",
-     "source": "https://www.nasdaq.com/press-release/dno-reports-record-revenue-it-chases-new-growth-2026-08-13",
+     "reponse": "Oui : trésorerie libre de 326,5 M$ au T3, nouveau record.",
+     "preuve": "T3 2026 : CA 1 023 M$, trésorerie libre 326,5 M$.",
+     "source": "https://www.globenewswire.com/news-release/2026/10/29/3390922/0/en/dno-races-ahead-on-stronger-production-higher-prices.html",
      "prochain": "Résultats du T3 le 29/10/2026 et évolution du Brent"
     },
     {
      "c": "Que la direction reste disciplinée sur les rachats (elle n'a pas surenchéri sur Capricorn et a renoncé à Genel) et continue de réduire la dette nette vers environ 200 à 350 M$.",
      "etat": "ok",
-     "reponse": "Oui : DNO n'a pas relevé son offre, Capricorn confirme le 02/10 que l'opération se fera avec Genel.",
-     "preuve": "Communiqué Capricorn du 02/10/2026.",
-     "source": "https://www.investegate.co.uk/announcement/rns/capricorn-energy--cne/update-on-recommended-cash-acquisition-by-genel/9803017",
+     "reponse": "Oui : la dette nette tombe à 231,9 M$, dans la fourchette visée.",
+     "preuve": "Dette nette 231,9 M$ fin septembre contre 552,9 M$ fin juin.",
+     "source": "https://www.globenewswire.com/news-release/2026/10/29/3390922/0/en/dno-races-ahead-on-stronger-production-higher-prices.html",
      "prochain": "Résultats du T3 le 29/10/2026 (dette nette)"
     }
    ],
@@ -1380,9 +1382,9 @@
     {
      "q": "Le Kurdistan peut-il revenir vers 40 000 barils par jour et retrouver des exportations au prix international, ou reste-t-il une option incertaine vendue autour de 35 $ le baril sur place ?",
      "etat": "watch",
-     "reponse": "La production dépasse 40 000 barils par jour, mais le prix obtenu (38,5 $) reste loin du prix international.",
-     "preuve": "T3 2026 : 54 914 produits, 28 058 vendus à 38,5 $ en moyenne.",
-     "source": "https://www.globenewswire.com/news-release/2026/10/14/3380314/0/en/q3-2026-trading-update-and-invitation-to-earnings-call.html",
+     "reponse": "La production est revenue et le prix local monte (38,5 $ au T3, 45 $ en octobre), mais aucune reprise des exportations au prix international.",
+     "preuve": "T3 2026 : 54 914 barils par jour.",
+     "source": "https://www.globenewswire.com/news-release/2026/10/29/3390922/0/en/dno-races-ahead-on-stronger-production-higher-prices.html",
      "prochain": "Résultats du T3 le 29/10/2026 (production du Kurdistan)"
     },
     {
@@ -1395,10 +1397,10 @@
     },
     {
      "q": "Le dividende de 1,50 NOK par an peut-il être relevé, ou la direction privilégiera-t-elle la dette et les rachats ?",
-     "etat": "nc",
-     "reponse": "Le dividende a été relevé deux fois en 2024 et 2025 (de 0,25 à 0,375 NOK par trimestre) puis maintenu en 2026 ; aucune annonce de hausse n'a été trouvée.",
-     "preuve": "Dividendes par année de versement : 1,00 NOK (2023), 1,125 NOK (2024), 1,375 NOK (2025), 0,375 NOK par trimestre en 2026.",
-     "source": "https://www.dno.no/en/investors/dividends/",
+     "etat": "watch",
+     "reponse": "Pas de hausse malgré un trimestre record : 0,375 NOK, comme les cinq trimestres précédents.",
+     "preuve": "Dividende de 0,375 NOK, détachement le 06/11/2026.",
+     "source": "https://www.globenewswire.com/news-release/2026/10/29/3390911/0/en/key-information-relating-to-cash-dividend.html",
      "prochain": "Résultats annuels 2026 (février 2027, date non confirmée)"
     }
    ]

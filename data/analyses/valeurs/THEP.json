@@ -158,7 +158,7 @@
     "point": "metaux"
    }
   ],
-  "veilleLe": "2026-10-28"
+  "veilleLe": "2026-10-29"
  },
  "capi": "642 M€",
  "cours": 60.7,
@@ -170,16 +170,16 @@
    "t": "Clôture à 60,6 €, quatrième clôture sous 62 € en cinq séances : le seuil d'invalidation technique (clôture durable sous 62 €) est franchi. Thèse cassée."
   },
   {
+   "d": "22/10",
+   "t": "Fin du programme de rachat d'actions lancé en août."
+  },
+  {
    "d": "19/10",
    "t": "Clôture à 61,4 €, plus bas sur un an, sous le seuil d'invalidation technique de 62 €."
   },
   {
    "d": "16/10",
    "t": "Clôture à 63,2 € (-3,8 %) au lendemain du chiffre d'affaires."
-  },
-  {
-   "d": "15/10",
-   "t": "CA du T3 : 129,0 M€ (+3,7 %, +0,6 % à périmètre constant). Sur 9 mois : 417,0 M€ (+8,8 %, +4,0 % à périmètre constant). Effet prix -0,2 % (-0,9 % fin juin)."
   }
  ],
  "histo": [

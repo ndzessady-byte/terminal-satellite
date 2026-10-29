@@ -89,6 +89,7 @@
    }
   ],
   "sources": [
+   "https://www.finanzwire.com/article/trigano-epa-tri-trigano-reports-transactions-on-own-shares-for-october-2026-PjW3iavtAaF",
    "https://www.tradingsat.com/actualites/avis-brokers/avis-d-analystes-france-trigano-covivio-et-du-luxe-au-programme-1170683.html",
    "https://www.abcbourse.com/marches/trigano-publie-un-chiffre-d-affaires-en-hausse-en-2025-2026-et-va-poursuivre-ses_703019",
    "https://www.boursorama.com/bourse/actualites/trigano-ca-2025-2026-en-hausse-porte-par-les-ventes-de-camping-cars-et-de-caravanes-5a635c1b20fc20a9ea36e4fe3fd1b790",
@@ -153,13 +154,17 @@
     "point": "france"
    }
   ],
-  "veilleLe": "2026-10-28"
+  "veilleLe": "2026-10-29"
  },
  "capi": "2,53 Md€",
  "cours": 125.0,
  "coursLe": "2026-10-28",
  "devise": "€",
  "faits": [
+  {
+   "d": "26/10",
+   "t": "Rachats d'actions : 13 479 actions achetées du 19 au 25/10, à 127,76 € en moyenne."
+  },
   {
    "d": "01/10",
    "t": "Le titre recule de 2,79 % à 125,50 € le jour où l'OAT 10 ans touche son plus haut depuis 2002, sans nouvelle propre à la société ; il entre dans sa zone d'intérêt."
@@ -171,10 +176,6 @@
   {
    "d": "24/09",
    "t": "Après le CA annuel, Oddo BHF et Portzamparc baissent aussi leur objectif de cours et restent positifs (en plus d'UBS)."
-  },
-  {
-   "d": "24/09",
-   "t": "UBS abaisse son objectif de 187 à 179 €, opinion positive maintenue."
   }
  ],
  "histo": [

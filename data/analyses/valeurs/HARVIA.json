@@ -3,32 +3,32 @@
   "aVerifier": "Moyenne 200 jours non lue. Moyennes 50 jours et RSI lus sur la cotation Tradegate (meme action en euros). Support et resistance deduits (moyenne 100 jours et plus haut annuel), pas publies par une source. Objectif moyen des analystes deduit de l'ecart de +12,63 % affiche par Zonebourse (environ 49 €). Couverture des interets, F-score de Piotroski et multiples des concurrents non trouves. Date du T3 (29/10) issue du calendrier publie en 2025.",
   "actu": [
    {
+    "d": "29/10",
+    "fait": "T3 en forte croissance (+17,0 %, tout en organique) grâce au rattrapage d'environ 4 M€ de livraisons décalées du T2, mais marge ajustée de 17,7 % contre 19,1 % un an plus tôt et environ 21,5 % attendus. Selon la direction, les frais de personnel et les autres charges augmentent plus vite que les ventes (marketing, gamme, projets stratégiques). La marge brute reste saine malgré la hausse des coûts de transport.",
+    "impact": "negatif",
+    "horizon": "moyen",
+    "lecture": "Même avec les livraisons rattrapées, la marge ne remonte pas vers 20 % : le point central de la thèse (croissance et marge vers 20 %) est contredit pour 2026."
+   },
+   {
+    "d": "29/10",
+    "fait": "Amérique du Nord : +18,1 % au T3 (+22,5 % hors ajustement comptable), après +38,6 % au T2. Europe du Nord +23,5 %, Europe continentale +12,1 %, Asie-Pacifique et Moyen-Orient +12,3 %. Fin de l'agrandissement de l'usine de Lewisburg (États-Unis) au T4.",
+    "impact": "neutre",
+    "horizon": "moyen",
+    "lecture": "La croissance américaine reste forte mais ralentit nettement par rapport au T2 : il faudra voir si c'est un effet de base ou un essoufflement."
+   },
+   {
+    "d": "29/10",
+    "fait": "Le titre recule d'environ 13 % en séance, vers 38 €, contre près de 44 € avant la publication.",
+    "impact": "negatif",
+    "horizon": "court",
+    "lecture": "Le marché sanctionne une marge et un BPA nettement sous les attentes, malgré la croissance des ventes. Le cours entre dans la zone d'intérêt (38 à 40 €), mais pour une raison qui touche la thèse."
+   },
+   {
     "d": "27/10",
     "fait": "Inderes s'attend à une marge du T3 en nette hausse grâce aux livraisons décalées du T2 et à la croissance aux États-Unis.",
     "impact": "neutre",
     "horizon": "court",
     "lecture": "Le marché attend la confirmation que la baisse de marge du T2 était temporaire ; c'est le point clé de la publication du 29/10."
-   },
-   {
-    "d": "15/10",
-    "fait": "Harvia annonce le versement d'un dividende de 0,38 € par action.",
-    "impact": "neutre",
-    "horizon": "court",
-    "lecture": "Versement prévu par l'assemblée d'avril, sans surprise."
-   },
-   {
-    "d": "10/09",
-    "fait": "Le directeur general evoque l'ambition de faire changer le groupe de taille (\"Mission a Billion\").",
-    "horizon": "long",
-    "impact": "positif",
-    "lecture": "Signale une strategie offensive (acquisitions possibles dans le sauna infrarouge) qui peut accelerer la croissance mais aussi augmenter la dette."
-   },
-   {
-    "d": "01/09",
-    "fait": "Déclaration de transaction de dirigeant : Markus Wörmanseder a cédé 1 873 actions le 31/08 au prix moyen de 45,23 €, soit environ 85 000 €.",
-    "impact": "neutre",
-    "horizon": "court",
-    "lecture": "Montant très faible, sans signal clair sur la confiance de la direction avant les résultats du 29/10."
    }
   ],
   "cadres": [
@@ -52,7 +52,7 @@
    "score": 7,
    "valo": "PER 24,7 en 2026 et 20,1 en 2027 ; VE/EBITDA 16 puis 13,3 ; rendement du flux de tresorerie libre de 2,6 % ; dividende 1,9 %. Moyenne 2021-2025 : PER d'environ 26 et VE/EBITDA d'environ 16,4. L'action est donc a peu pres dans sa moyenne historique, qui est elle meme elevee. Multiples des concurrents non verifies."
   },
-  "majLe": "2026-10-28",
+  "majLe": "2026-10-29",
   "revisions": "Non trouvé. Consensus Achat, 4 analystes, objectif moyen 49,50 € (MarketScreener).",
   "scenarios": [
    {
@@ -89,6 +89,9 @@
    }
   ],
   "sources": [
+   "https://za.investing.com/news/stock-market-news/earnings-call-transcript-harvia-q3-2026-revenue-rises-17-as-shares-fall-13-93CH-4534464",
+   "https://www.inderes.fi/analyst-comments/harvia-q326-ennakko-siirtyneet-toimitukset-ja-usa-siivittanevat-tuloskasvua",
+   "https://www.globenewswire.com/news-release/2026/10/29/3390951/0/en/harvia-s-interim-report-1-january-30-september-2026.html",
    "https://www.inderes.fi/companies/Harvia",
    "https://www.globenewswire.com/news-release/2026/10/22/3386121/0/fi/harvia-julkaisee-tammi-syyskuun-2026-osavuosikatsauksen-torstaina-29-10-2026-noin-klo-9-00.html",
    "https://easternherald.com/press-release/harvia-will-publish-its-interim-report-for-january-september-2026-on-thursday-29-october-2026-at-around-900-a-m-eet/",
@@ -151,7 +154,7 @@
     "point": "chine-usa"
    }
   ],
-  "veilleLe": "2026-10-28"
+  "veilleLe": "2026-10-29"
  },
  "capi": "0,8 Md€",
  "cours": 44.05,
@@ -159,20 +162,20 @@
  "devise": "€",
  "faits": [
   {
+   "d": "29/10",
+   "t": "T3 : CA 53,9 M€ (+17,0 %, 100 % organique, 46,0 M€ un an plus tôt), résultat opérationnel ajusté 9,5 M€ (8,8 M€), marge ajustée 17,7 % (19,1 %), BPA 0,37 € (0,33 €)."
+  },
+  {
+   "d": "29/10",
+   "t": "9 mois : CA 165,2 M€ (+13,8 %), marge ajustée 18,7 % (19,7 %), BPA 1,16 € (1,01 €), dette nette 60,8 M€ (1,2 fois l'EBITDA). Pas de prévision chiffrée."
+  },
+  {
+   "d": "29/10",
+   "t": "Chiffres sous le consensus de 7 analystes relevé par Inderes (CA 56,2 M€, marge 21,5 %, BPA 0,47 €). Le titre recule d'environ 13 %, vers 38 €."
+  },
+  {
    "d": "22/10",
    "t": "Rapport sur 9 mois confirmé le jeudi 29/10 vers 9 h, heure de Finlande."
-  },
-  {
-   "d": "15/10",
-   "t": "Versement d'un dividende de 0,38 € par action annoncé."
-  },
-  {
-   "d": "08/09",
-   "t": "Comité de nomination formé par les 4 plus gros actionnaires : Nordea Funds, Varma, Onvest et Evli."
-  },
-  {
-   "d": "01/09",
-   "t": "Un cadre dirigeant, Markus Wörmanseder, a vendu 1 873 actions le 31/08 à 45,23 € en moyenne."
   }
  ],
  "histo": [
@@ -1227,8 +1230,8 @@
   "m3": 6.8,
   "m12": 21.5
  },
- "pub": "2026-10-29",
- "pubLabel": "Rapport sur 9 mois (vers 8 h, heure de Paris)",
+ "pub": "2027-02-10",
+ "pubLabel": "Résultats annuels 2026",
  "risque": "Valorisation exigeante pour un produit de consommation discrétionnaire, marge du T2 retombée à 16,2 %.",
  "secteur": "Saunas et bien-être",
  "societe": {
@@ -1441,29 +1444,29 @@
     {
      "c": "Que la mode du sauna aux États-Unis est une tendance durable et non un effet de mode, avec une croissance forte pendant des années.",
      "etat": "ok",
-     "preuve": "Amérique du Nord : +58,8 % au T1 2025, +12,0 % au T1 2026, +38,6 % au T2 2026 ; environ 90 M$ de ventes en 2025. Vapeur -13,8 % au T2 2026.",
+     "preuve": "T3 2026 : Amérique du Nord +18,1 % publié, +22,5 % hors ajustement comptable.",
      "prochain": "Résultats 9 mois le 29/10/2026",
-     "reponse": "Les chiffres récents vont dans ce sens : la croissance américaine continue malgré une base de comparaison déjà élevée, et la direction vise plus de 100 M$ de ventes nord-américaines en 2026. La durabilité sur plusieurs années reste à prouver, d'autant que la vapeur (hammam) recule.",
-     "source": "https://www.saunanews.com/article/harvia-q2-2026-north-america-cabins-steam"
+     "reponse": "Toujours oui, mais avec un ralentissement : +18,1 % au T3 (+22,5 % hors ajustement comptable) après +38,6 % au T2.",
+     "source": "https://www.globenewswire.com/news-release/2026/10/29/3390951/0/en/harvia-s-interim-report-1-january-30-september-2026.html"
     },
     {
      "c": "Que Harvia peut atteindre son objectif de 10 % de croissance annuelle moyenne tout en gardant une marge ajustée supérieure à 20 %.",
-     "etat": "watch",
-     "preuve": "S1 2026 : ventes 111,4 M€ (+12,2 %, 100 % organique), marge ajustée 19,3 % ; T1 2026 : 22,0 % ; T2 2026 : 16,2 %.",
+     "etat": "ko",
+     "preuve": "T3 2026 : marge ajustée 17,7 % (19,1 %) ; 9 mois : 18,7 % (19,7 %).",
      "prochain": "Résultats 9 mois le 29/10/2026",
-     "reponse": "La croissance dépasse l'objectif, mais la marge est passée sous les 20 % : 19,6 % en 2025 et 19,3 % au S1 2026. Le rattrapage des livraisons au T3 doit montrer si la barre des 20 % peut être retrouvée.",
-     "source": "https://harviagroup.com/harvias-half-year-financial-review-1-january-30-june-2026/"
+     "reponse": "La croissance dépasse l'objectif (+13,8 % sur 9 mois), mais la marge recule encore : 17,7 % au T3 malgré le rattrapage, 18,7 % sur 9 mois contre 19,7 %. Les 20 % ne seront pas atteints en 2026 ; la direction parle d'un objectif de long terme.",
+     "source": "https://www.globenewswire.com/news-release/2026/10/29/3390951/0/en/harvia-s-interim-report-1-january-30-september-2026.html"
     },
     {
      "c": "Que les ratés de 2026 (chantier informatique, Moyen-Orient) sont passagers.",
-     "etat": "watch",
-     "preuve": "S1 2026 : zone Asie-Pacifique, Moyen-Orient, Afrique -4,9 % ; Golfe environ 4 M€ de ventes par an dont jusqu'à la moitié à risque, soit environ 1 point de croissance du groupe.",
+     "etat": "ok",
+     "preuve": "Communiqué du 29/10/2026.",
      "prochain": "Résultats 9 mois le 29/10/2026",
-     "reponse": "Le chantier informatique semble passager : la direction attend la majorité des 4 M€ de livraisons décalées au T3, avec un possible reliquat au T4. Le Moyen-Orient reste perturbé mais pèse peu (environ 2 % des ventes).",
-     "source": "https://ng.investing.com/news/transcripts/earnings-call-transcript-harvia-q2-2026-revenue-rises-as-stock-jumps-11-93CH-2642251"
+     "reponse": "Pour le chantier informatique, oui : environ 4 M€ de livraisons décalées rattrapées au T3, l'usine de poêles livre de nouveau normalement. Le Moyen-Orient reste perturbé mais pèse environ 2 % des ventes.",
+     "source": "https://www.globenewswire.com/news-release/2026/10/29/3390951/0/en/harvia-s-interim-report-1-january-30-september-2026.html"
     }
    ],
-   "le": "2026-09-29",
+   "le": "2026-10-29",
    "questions": [
     {
      "etat": "ok",
@@ -1475,19 +1478,19 @@
     },
     {
      "etat": "watch",
-     "preuve": "Marge opérationnelle ajustée de 16,2 % au T2 2026 (contre 17,3 % un an plus tôt) et 19,3 % au S1 2026 (-90 points de base) ; environ 4 M€ de livraisons repoussées au S2.",
+     "preuve": "T3 2026 : résultat opérationnel ajusté 9,5 M€ pour 53,9 M€ de CA (17,7 %).",
      "prochain": "Résultats 9 mois le 29/10/2026",
      "q": "Pourquoi la marge recule-t-elle légèrement alors que les ventes progressent (mix produits, coûts, prix) ?",
-     "reponse": "Surtout à cause de l'arrêt de trois semaines de l'usine de Muurame pour le nouveau logiciel de gestion, qui a décalé des poêles très rentables, et d'un mix moins favorable : les cabines, qui tirent la croissance américaine, ont une marge brute un peu plus faible que les poêles. Le premier effet est passager, le second peut durer.",
-     "source": "https://harviagroup.com/harvias-half-year-financial-review-1-january-30-june-2026/"
+     "reponse": "Au T3, ce n'est plus l'usine : ce sont les charges (personnel, marketing, salons, amortissements) qui montent plus vite que les ventes, plus un ajustement comptable de 0,8 M€ en Amérique du Nord. La marge brute tient.",
+     "source": "https://www.globenewswire.com/news-release/2026/10/29/3390951/0/en/harvia-s-interim-report-1-january-30-september-2026.html"
     },
     {
      "etat": "watch",
-     "preuve": "Dette nette de 1,2 fois l'EBITDA ajusté fin juin 2026 (plafond de long terme : 2,5 fois) ; aucun rachat réalisé au S1 2026, « plusieurs discussions en cours » selon la direction.",
+     "preuve": "Dette nette 60,8 M€, soit 1,2 fois l'EBITDA ; plafond visé 2,5 fois.",
      "prochain": "Annonce éventuelle d'un rachat à tout moment ; point sur la dette au 29/10/2026",
      "q": "Les rachats futurs resteront-ils petits et bien intégrés, sans alourdir la dette ?",
-     "reponse": "La dette est basse, mais la direction cherche désormais un acteur « significatif » de l'infrarouge en Amérique du Nord et accepte de dépasser temporairement son plafond de 2,5 fois l'EBITDA. Elle reconnaît aussi ne pas être pleinement satisfaite de ThermaSol, son dernier rachat américain.",
-     "source": "https://ng.investing.com/news/transcripts/earnings-call-transcript-harvia-q2-2026-revenue-rises-as-stock-jumps-11-93CH-2642251"
+     "reponse": "Aucun rachat annoncé au T3, la dette reste basse.",
+     "source": "https://www.globenewswire.com/news-release/2026/10/29/3390951/0/en/harvia-s-interim-report-1-january-30-september-2026.html"
     }
    ]
   },

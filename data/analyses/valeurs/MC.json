@@ -3,6 +3,13 @@
   "aVerifier": "PER 2026 et 2027 du consensus non confirmés : 16,5 et 14,3 (ABC Bourse, 23/10) contre 17,7 et 16,2 (Zonebourse, 22/10), d'où per26 et per27 laissés vides. PER moyen sur 10 ans non trouvé (seuls repères : 19,2 en 2022 et plus de 33 en 2024, une seule source). Croissance par zone au T3 (Asie hors Japon -5 %, Japon +6 %, Europe +4 %) lue dans une seule source (Journal du Luxe) ; seul États-Unis +5 % est confirmé par une deuxième source (CNBC cité par Culture Financière) ; le communiqué LVMH ne donne pas de chiffre par zone ni pour la Chine. Plus haut et plus bas sur un an en séance d'ABC Bourse (654,70 et 375,65 €), en clôture 652,10 et 378,55 € selon Culture Financière. MM50, MM200 et RSI à jour non disponibles. Rendement du cash-flow fin 2025 calculé avec le cours de 645 € et environ 493 millions d'actions (estimation). Effet exact des droits de douane américains sur LVMH non publié. Chiffres 2026 de Kering, Richemont et Prada non vérifiés.",
   "actu": [
    {
+    "d": "23/10",
+    "fait": "Les concurrents confirment un luxe à deux vitesses : Hermès ralentit à +4,3 % à changes constants au T3 (après +6,1 % au S1), Kering recule de 1 % en comparable avec Gucci à -6 %.",
+    "impact": "negatif",
+    "horizon": "moyen",
+    "lecture": "Même Hermès voit l'Asie stagner : la faiblesse chinoise touche tout le secteur, ce qui rend moins probable à court terme la reprise de la mode et maroquinerie de LVMH."
+   },
+   {
     "d": "13/10",
     "fait": "Réaction en Bourse : ouverture en repli d'environ 1,5 % vers 378,70 €, près du plus bas annuel ; baisse de plus de 41 % sur l'année.",
     "horizon": "court",
@@ -22,13 +29,6 @@
     "horizon": "moyen",
     "impact": "negatif",
     "lecture": "La Chine redevient le point faible, alors que les États-Unis portent la croissance : l'exposition aux droits de douane américains devient plus importante."
-   },
-   {
-    "d": "27/07",
-    "fait": "S1 2026 : ventes de 38 644 M€ (+2 % organique), résultat opérationnel courant de 8 691 M€ (-4 %), marge de 22,5 %, résultat net part du groupe de 5 697 M€ (stable), cash-flow disponible d'exploitation de 4 100 M€ (+2 %), dette nette de 8 245 M€. Acompte sur dividende de 5,50 € le 3 décembre.",
-    "horizon": "moyen",
-    "impact": "neutre",
-    "lecture": "La marge résiste malgré environ 5 points d'effet de change négatif sur les ventes ; le groupe a montré qu'il sait tenir ses coûts."
    }
   ],
   "cadres": [
@@ -51,7 +51,7 @@
    "score": 7,
    "valo": "Cours 383 € le 23/10/2026, capitalisation 188,8 Md€. PER 2026 de 16,5 et 2027 de 14,3 (ABC Bourse) ou 17,7 et 16,2 (Zonebourse, cours de référence 388,6 €) ; PER d'environ 17,5 sur le BPA 2025 publié de 21,85 € (calcul). Historiquement, le PER est descendu à 19,2 en 2022 au plus bas et a dépassé 33 en 2024 (Tout sur mes finances) : le titre est sous le bas de cette fourchette. Moyenne sur 10 ans non trouvée. Rendement du cash-flow libre : 6,0 % sur le cash-flow 2025 de 11 333 M€ (calcul), 5,3 % attendu en 2026 par Zonebourse, contre environ 3,5 % au cours de fin 2025 (645 €, calcul). VE/EBITDA 2026 de 8,95 contre environ 13,9 pour le secteur (Zonebourse). Rendement du dividende d'environ 3,4 % (13 €)."
   },
-  "majLe": "2026-10-25",
+  "majLe": "2026-10-29",
   "revisions": "En baisse nette : l'objectif moyen des analystes est passé d'environ 646,7 € en mars (Tout sur mes finances) à 424,13 € (ABC Bourse, 23/10). Avant les ventes du T3, BofA a abaissé son objectif de 640 à 520 €, UBS de 645 à 525 € (achat maintenu) ; Goldman Sachs a démarré à l'achat avec 500 € ; RBC est neutre. Le BPA 2026 attendu était de 23,18 € en mars ; les chiffres actuels diffèrent selon les sources (environ 22 à 23,2 €).",
   "scenarios": [
    {
@@ -72,6 +72,9 @@
    }
   ],
   "sources": [
+   "https://www.globenewswire.com/news-release/2026/10/27/3389483/0/en/lvmh-share-transactions-disclosure.html",
+   "https://www.optionfinance.fr/info-financiere-en-continu/d/2026-10-23-kering-degringole-penalise-par-gucci.html",
+   "https://www.journalduluxe.fr/fr/business/hermes-chiffres-ventes-troisieme-trimestre-2026",
    "https://www.lvmh.com/en/publications/continued-growth-in-the-third-quarter-of-2026",
    "https://www.lvmh.com/fr/publications/acceleration-de-la-croissance-au-2eme-trimestre---resultats-semestriels-solides",
    "https://www.lvmh.com/en/publications/solid-performance-in-a-disrupted-global-economic-and-geopolitical-environment",
@@ -144,7 +147,7 @@
     "point": "taux"
    }
   ],
-  "veilleLe": "2026-10-28"
+  "veilleLe": "2026-10-29"
  },
  "capi": "188,8 Md€",
  "compte": "PEA",
@@ -153,20 +156,20 @@
  "devise": "€",
  "faits": [
   {
+   "d": "27/10",
+   "t": "LVMH déclare des rachats de ses propres actions du 19 au 23/10."
+  },
+  {
+   "d": "23/10",
+   "t": "Kering recule d'environ 11 % après un T3 à -1 % en comparable (Gucci -6 %). Hermès ralentit à +4,3 % à changes constants au T3, avec une Asie hors Japon stable."
+  },
+  {
    "d": "13/10",
    "t": "Le titre ouvre en repli d'environ 1,5 % vers 378,70 € après les ventes du T3, près de son plus bas sur un an ; baisse de plus de 40 % depuis le 1er janvier."
   },
   {
    "d": "12/10",
    "t": "CA du T3 : 18 504 M€ (+1 % en organique, +1,2 % publié). Sur 9 mois : 57 148 M€ (-2 % publié, +2 % en organique)."
-  },
-  {
-   "d": "12/10",
-   "t": "T3 en organique : Mode et Maroquinerie -5 %, Distribution sélective +8 %, Vins et Spiritueux +6 %, Montres et Joaillerie +6 %, Parfums et Cosmétiques +1 %. La Chine freine, États-Unis, Europe et Japon progressent."
-  },
-  {
-   "d": "27/07",
-   "t": "S1 2026 : résultat opérationnel courant de 8 691 M€ (-4 %), marge de 22,5 %, résultat net part du groupe stable à 5 697 M€, dette financière nette en baisse à 8 245 M€."
   }
  ],
  "histo": [

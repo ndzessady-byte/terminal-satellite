@@ -4,6 +4,13 @@
   "actu": [
    {
     "d": "21/10",
+    "fait": "Après le T3, Jefferies garde son opinion Conserver et son objectif de 72 €, en citant la forte baisse des prises de commandes.",
+    "impact": "neutre",
+    "horizon": "moyen",
+    "lecture": "Le débat porte sur le carnet de commandes, pas sur les marges : c'est la condition la plus fragile de la thèse."
+   },
+   {
+    "d": "21/10",
     "fait": "Objectif 2026 relevé une deuxième fois après un T3 record ; marges portées par la baisse du coût des matières et la transition énergétique. Le carnet recule d'environ un cinquième sur un an ; Jefferies s'interroge sur la durée de ces bénéfices.",
     "impact": "positif",
     "horizon": "court",
@@ -22,13 +29,6 @@
     "horizon": "moyen",
     "impact": "neutre",
     "lecture": "Petite acquisition qui peut diversifier l'activite, montant non verifie."
-   },
-   {
-    "d": "22/07",
-    "fait": "Resultats du premier semestre : EBITDA +70 % a 92,6 M€, ventes +11 %, carnet de commandes d'environ 1 Md€, tresorerie nette de 212 M€ ; objectif d'EBITDA 2026 releve de 160-180 M€ a 180-200 M€.",
-    "horizon": "moyen",
-    "impact": "positif",
-    "lecture": "Montre que les projets deja signes sont tres rentables et donnent de la visibilite sur 2026 et 2027."
    }
   ],
   "cadres": [
@@ -52,7 +52,7 @@
    "score": 7,
    "valo": "PER 11,6 en 2026 et 11,3 en 2027 ; VE/EBITDA 5,0 puis 4,4 ; rendement du flux de tresorerie libre de 8,8 % ; dividende 2 %. Moyenne 2021-2025 : PER d'environ 22 et VE/EBITDA d'environ 7,7. L'action est donc nettement moins chere que son historique, ce qui reflete le doute sur les commandes futures. Multiples des concurrents non verifies."
   },
-  "majLe": "2026-09-28",
+  "majLe": "2026-10-29",
   "revisions": "Non trouvé. BPA 2026 attendu vers 5,25 € (onvista), objectif moyen 90 € (wallstreet-online).",
   "scenarios": [
    {
@@ -89,6 +89,8 @@
    }
   ],
   "sources": [
+   "https://www.boerse.de/nachrichten/JEFFERIES-Friedrich-Vorwerk-Group-hold/38680886",
+   "https://www.wallstreet-online.de/nachricht/21559142-jefferies-stuft-friedrich-vorwerk-hold",
    "https://onvista.de/news/2026/10-21-roundup-friedrich-vorwerk-und-grossaktionaer-mbb-heben-erneut-jahresziele-0-10-26566672",
    "https://www.finanzen.at/nachrichten/aktien/aktien-im-fokus-friedrich-vorwerk-nach-prognoseerhoehung-stark-mbb-zieht-mit-1036648789",
    "https://www.webdisclosure.com/article/friedrich-vorwerk-group-se-epa-friedrich-vorwerk-reports-70-ebitda-growth-in-h1-2026-raises-full-year-forecast-SFVdRSynTAo",
@@ -147,13 +149,17 @@
     "point": "ormuz"
    }
   ],
-  "veilleLe": "2026-10-28"
+  "veilleLe": "2026-10-29"
  },
  "capi": "1,3 Md€",
  "cours": 72.0,
  "coursLe": "2026-10-28",
  "devise": "€",
  "faits": [
+  {
+   "d": "21/10",
+   "t": "Jefferies reste à Conserver avec un objectif de 72 € : nouveau trimestre record, mais forte baisse des prises de commandes."
+  },
   {
    "d": "21/10",
    "t": "Deuxième relèvement de l'objectif 2026 : EBITDA 220 à 230 M€ (180 à 200 M€), CA 760 à 790 M€. T3 provisoire record : CA 228,3 M€ (+13 %), résultat opérationnel près de 81 M€ (51,3 M€). Le titre bondit de 8,8 %."
@@ -165,10 +171,6 @@
   {
    "d": "25/09",
    "t": "Berenberg maintient Achat, objectif 110 € : la relance allemande l'emporte sur le bruit politique."
-  },
-  {
-   "d": "22/07",
-   "t": "S1 : CA 337,3 M€ (+11 %), EBITDA 92,6 M€ (+70 %). Prévision d'EBITDA 2026 relevée à 180-200 M€. Carnet 1 005 M€."
   }
  ],
  "histo": [

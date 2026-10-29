@@ -89,6 +89,7 @@
    }
   ],
   "sources": [
+   "https://www.webdisclosure.fr/article/wavestone-epa-wave-wavestone-procede-a-un-rachat-dactions-en-octobre-2026-APtYuVCw2l2",
    "https://www.boursorama.com/bourse/actualites/les-resultats-d-accenture-propulsent-capgemini-en-tete-du-cac-40-7169cda288b8059734a2429c208def73",
    "https://www.cnbc.com/2026/10/01/accenture-rallies-more-than-20percent-after-earnings-beat-heads-for-best-day-ever.html",
    "https://www.wavestone.com/en/regul-information/q1-2026-27-revenue-down-2-annual-targets-adjusted-ai-builders-targeted-acquisition-of-a-french-ai-and-data-player/",
@@ -142,13 +143,17 @@
     "point": "france"
    }
   ],
-  "veilleLe": "2026-10-28"
+  "veilleLe": "2026-10-29"
  },
  "capi": "730 M€",
  "cours": 32.45,
  "coursLe": "2026-10-28",
  "devise": "€",
  "faits": [
+  {
+   "d": "19/10",
+   "t": "Les rachats d'actions continuent : déclarations publiées les 12/10 et 19/10 (dont 3 000 actions le 13/10 à 29,7 € en moyenne)."
+  },
   {
    "d": "01/10",
    "t": "Accenture publie des résultats meilleurs que prévu avec des commandes record ; son titre bondit de plus de 20 % et Capgemini de 7 à 9 % à Paris."
@@ -160,10 +165,6 @@
   {
    "d": "23/09",
    "t": "Nominations de nouveaux dirigeants."
-  },
-  {
-   "d": "14/09",
-   "t": "Rachat de Sand Cherry Associates (conseil, États-Unis) pour 35 M$."
   }
  ],
  "histo": [

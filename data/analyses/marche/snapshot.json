@@ -1,9 +1,9 @@
 {
- "asOf": "2026-10-28",
+ "asOf": "2026-10-29",
  "attention": [
-  "BCE demain (maintien attendu) ; Harvia et DNO publient le 29/10.",
-  "Budget : vote sur les recettes le 03/11 ; élections américaines le 03/11 ; mobilisation le 31/10.",
-  "En zone d'intérêt : Melexis, Mueller, Trigano. Lectra passe en surveillance (SaaS et commandes)."
+  "Wavestone publie son CA ce soir ; BCE cet après-midi.",
+  "Budget : vote sur les recettes le 03/11 ; élections américaines le 03/11 ; Washington évoquerait des frappes sur l'Iran après le 03/11.",
+  "En zone d'intérêt : Melexis, Mueller, Trigano, USS, et Harvia après sa chute (thèse touchée sur la marge)."
  ],
  "etf": {
   "nom": "Amundi PEA Monde MSCI World (DCAM)",
@@ -15,10 +15,10 @@
  "macro": [
   {
    "label": "CAC 40",
-   "valeur": "7 886,96",
-   "var": "0,0 %",
-   "sens": 0,
-   "note": "clôture du 28/10, stable avant la Fed et la BCE ; Stellantis +15,4 %"
+   "valeur": "vers 7 960",
+   "var": "+0,9 %",
+   "sens": 1,
+   "note": "29/10 en fin de matinée (AFP et cotation Boursorama) ; clôture du 28/10 à 7 886,96"
   },
   {
    "label": "OAT 10 ans",
@@ -39,14 +39,14 @@
    "valeur": "2,50 %",
    "var": "inchangé",
    "sens": 0,
-   "note": "prochaine réunion le 29/10"
+   "note": "décision du 29/10 à 14 h 15 (maintien attendu) ; Lagarde partira le 07/02/2027"
   },
   {
    "label": "Brent",
    "valeur": "vers 114 $",
-   "var": "-1,7 %",
+   "var": "-1 %",
    "sens": -1,
-   "note": "27/10, une seule source ; plus haut depuis 2022 vers 116 $ le 23/10"
+   "note": "29/10 midi, après une clôture à 115,32 $ le 28/10 ; deux sources concordent"
   },
   {
    "label": "EUR/USD",
@@ -59,9 +59,9 @@
  "majLe": "2026-10-28T21:00:00+01:00",
  "semaine": "5 au 9 octobre 2026",
  "semaineTexte": [
-  "Mercredi 28/10 : CAC 40 stable à 7 887 pts ; la Fed maintient ses taux entre 3,75 et 4 %, BCE demain.",
-  "Aubay relève son objectif (+8,5 % en organique au T3) ; Lectra améliore sa marge mais son SaaS ralentit et ses commandes de machines baissent encore.",
-  "Alten (-3,9 %) et Melexis (-3,5 %) reculent malgré des publications correctes ; Brent au-dessus de 110 $."
+  "Jeudi 29/10 midi : CAC 40 vers 7 960 pts (+0,9 %) porté par les résultats ; BCE à 14 h 15, et Christine Lagarde annonce son départ le 07/02.",
+  "Harvia chute d'environ 13 % : ventes +17 % mais marge de 17,7 % très sous les attentes. DNO signe un trimestre record (trésorerie libre de 326,5 M$, dette divisée par plus de deux).",
+  "Mercredi 28/10 : Aubay relève son objectif ; Lectra améliore sa marge mais son SaaS ralentit."
  ],
  "watchlistValidee": false
 }
