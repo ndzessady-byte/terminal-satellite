@@ -14,24 +14,24 @@
  "risque": "Endettement en forte hausse après une série de rachats (levier vers 3 fois l'Ebitda), commandes publiques irrégulières et forte dépendance aux budgets de défense européens.",
  "faits": [
   {
+   "d": "29/10",
+   "t": "Feu vert des autorités pour le rachat de 80 % de MERIO (France, nacelles optiques stabilisées pour drones et véhicules), prix non communiqué ; commande d'environ 5 M€ déjà gagnée. Le titre gagne environ 7 %, vers 30,64 €."
+  },
+  {
+   "d": "29/10",
+   "t": "Point d'activité du T3 2026 confirmé pour le 09/11 après la clôture."
+  },
+  {
    "d": "20/10",
    "t": "Le communiqué de la société confirme le montant : environ 45 M€ de contrats de vision nocturne avec deux pays européens de l'OTAN, sous réserve des accords finaux des autorités."
   },
   {
    "d": "20/10",
    "t": "Nouveaux contrats de vision nocturne avec deux pays européens de l'OTAN, livraisons dès 2026 (montant d'une seule source)."
-  },
-  {
-   "d": "30/09",
-   "t": "Nouvelles commandes d'environ 50 M€ (lunettes NYX et ORION, systèmes KAPPA), dont le premier gros contrat ORION pour un pays d'Europe de l'Ouest membre de l'OTAN ; présélection sur plusieurs contrats plus importants."
-  },
-  {
-   "d": "07/09",
-   "t": "S1 : CA 248,7 M€ (+35,4 %, +24,7 % sans les rachats), marge EBIT ajustée 26,2 %, bénéfice net 74,3 M€ (dont un gain de juste valeur), dette nette 237,9 M€. Objectif 2026 : environ 600 M€ de CA."
   }
  ],
- "pub": null,
- "pubLabel": "Point d'activité du T3 2026 (début novembre, date non confirmée)",
+ "pub": "2026-11-09",
+ "pubLabel": "Point d'activité du T3 2026 (après la clôture)",
  "src": "https://www.globenewswire.com/news-release/2026/09/07/3357256/0/en/publication-of-h1-2026-report.html",
  "notes": "Cours : clôture du 30/09/2026 (flux de cours, 28,76 €). PER 2026 et 2027 calculés avec le BPA du consensus MarketScreener (1,476 € et 1,721 €), une seule source : à confirmer. Marge opérationnelle = marge EBIT ajustée publiée par la société. Le bénéfice du S1 2026 contient un gain de juste valeur non récurrent.",
  "yahoo": "THEON.AS",
@@ -1084,7 +1084,7 @@
   "m12": 4.8
  },
  "analyse": {
-  "majLe": "2026-10-28",
+  "majLe": "2026-10-29",
   "verdict": "Theon est une valeur de défense de grande qualité opérationnelle : croissance de plus de 30 %, marge EBIT ajustée de 26 % et carnet de commandes couvrant plus de deux ans de ventes. Le profil a pourtant changé en 2026 : la société est passée d'une trésorerie nette de 127 M€ à une dette nette de 238 M€ en six mois, et le rachat de HGH portera le levier vers 3 fois l'Ebitda. Le titre a reculé de 38 € à moins de 29 € depuis la mi-août, ce qui ramène la valorisation vers 17 fois les bénéfices 2027 attendus. La thèse tient tant que les commandes suivent et que la dette redescend comme promis.",
   "conviction": "moyenne",
   "revisions": "Sens non confirmé. Consensus MarketScreener : BPA 2026 de 1,476 €, 2027 de 1,721 €, 2028 de 2,048 € ; CA 2026 de 601 M€, en ligne avec l'objectif relevé à environ 600 M€. Objectif moyen des analystes d'environ 39,4 € (9 analystes, stockanalysis), non recoupé.",
@@ -1116,6 +1116,13 @@
   },
   "actu": [
    {
+    "d": "29/10",
+    "fait": "Feu vert des autorités pour le rachat de 80 % de MERIO, nacelles optiques pour drones et véhicules terrestres. Commande d'environ 5 M€ déjà reçue, soit environ un tiers du CA 2026 prévu pour MERIO. La coentreprise avec Safran sur les nacelles est en cours de finalisation ; le rachat de HGH n'est pas encore bouclé.",
+    "impact": "positif",
+    "horizon": "moyen",
+    "lecture": "Ce rachat aide Theon à vendre autre chose que des lunettes de vision nocturne. Il est petit à l'échelle du groupe, mais la commande déjà reçue montre une demande réelle. Le prix payé n'est pas connu, alors que la dette a déjà beaucoup monté."
+   },
+   {
     "d": "20/10",
     "fait": "Communiqué officiel : contrats de vision nocturne d'environ 45 M€ avec deux pays européens membres de l'OTAN, livraisons dès 2026, sous réserve des accords finaux habituels. La direction attend toujours une hausse des commandes en fin d'année et au T1 2027.",
     "impact": "positif",
@@ -1135,13 +1142,6 @@
     "impact": "positif",
     "horizon": "moyen",
     "lecture": "Montre que les nouveaux produits (lunettes fusionnées ORION) commencent à se vendre en Europe de l'Ouest, ce qui soutient la diversification. Le montant reste modeste face aux 600 M€ de ventes annuelles."
-   },
-   {
-    "d": "07/09",
-    "fait": "S1 2026 : CA 248,7 M€ (+35,4 %), marge EBIT ajustée 26,2 %, bénéfice net 74,3 M€ incluant un gain de juste valeur, commandes de 232,5 M€ (rapport commandes sur ventes d'environ 1), objectif de marge relevé à au moins 26 %.",
-    "impact": "neutre",
-    "horizon": "moyen",
-    "lecture": "L'activité est excellente, mais les commandes du semestre ne font que remplacer les ventes et une partie du bénéfice est comptable. Le second semestre doit confirmer l'arrivée de grosses commandes."
    }
   ],
   "scenarios": [
@@ -1189,6 +1189,8 @@
    "Weinstein (stades)"
   ],
   "sources": [
+   "https://www.boursorama.com/bourse/actualites/defense-theon-autorise-a-prendre-le-controle-du-francais-merio-le-titre-gagne-4-e8fe05432e417f2b629ac117dcd0605b",
+   "https://www.finanznachrichten.de/nachrichten-2026-10/69970730-theon-international-plc-theon-moves-to-completes-merio-acquisition-following-receipt-of-required-approvals-new-orders-already-awarded-399.htm",
    "https://www.trivano.com/persbericht/theon-awarded-night-vision-contracts-worth-ceur45-million-from-two-european-nato-member-states-768516.html",
    "https://www.ideal-investisseur.fr/actions-b/theon-international-decroche-45-m-de-contrats-de-vision-nocturne-aupres-de-deux-pays-de-lotan/27580.html",
    "https://www.globenewswire.com/news-release/2026/09/07/3357256/0/en/publication-of-h1-2026-report.html",
@@ -1350,7 +1352,7 @@
    "Les retards de décisions d'achat au Moyen-Orient et en Asie sont-ils passagers, ou la demande hors Europe ralentit-elle durablement ?"
   ],
   "suivi": {
-   "le": "2026-10-28",
+   "le": "2026-10-29",
    "bilan": "L'activité tient toutes ses promesses (croissance, marge), mais deux points sont à surveiller : les commandes du S1 ont seulement égalé les ventes et la dette monte vite avec les rachats.",
    "croire": [
     {
@@ -1380,9 +1382,9 @@
     {
      "c": "Que Theon réussit à se diversifier au-delà des lunettes de vision nocturne (environ 85 % des ventes aujourd'hui) vers l'imagerie thermique, les nacelles optiques de drones et la lutte anti-drones.",
      "etat": "ok",
-     "reponse": "En bonne voie : les produits hors vision nocturne pèsent environ 15 % des ventes et devraient atteindre 19 à 20 % fin 2026 ; ORION a décroché un premier contrat important en Europe de l'Ouest.",
-     "preuve": "Conférence S1 2026 : vision nocturne environ 85 % du CA ; Kappa a gagné un contrat de 30 M€ ; commandes KAPPA d'un montant « à un chiffre élevé » en millions annoncées le 30/09.",
-     "source": "https://ca.investing.com/news/stock-market-news/earnings-call-transcript-theon-international-posts-h1-2026-beat-lifts-margin-outlook-93CH-4830941",
+     "reponse": "Nouveau pas : le rachat de MERIO (nacelles de drones) est autorisé et une commande d'environ 5 M€ est déjà gagnée.",
+     "preuve": "Communiqué du 29/10/2026 : 80 % de MERIO, commande d'environ 5 M€.",
+     "source": "https://www.finanznachrichten.de/nachrichten-2026-10/69970730-theon-international-plc-theon-moves-to-completes-merio-acquisition-following-receipt-of-required-approvals-new-orders-already-awarded-399.htm",
      "prochain": "Résultats annuels 2026 (part des nouveaux produits)"
     }
    ],
