@@ -4,6 +4,13 @@
   "actu": [
    {
     "d": "29/10",
+    "fait": "En conférence, pas de plan d'économies : les dépenses (marketing, salons, effectifs passés de 728 à 816 personnes, amortissements) doivent continuer. Le Moyen-Orient (environ 2 % du CA) pourrait perdre environ la moitié de ses ventes de l'an dernier. Aucune prévision chiffrée.",
+    "impact": "negatif",
+    "horizon": "moyen",
+    "lecture": "Si les coûts montent au même rythme que les ventes, la marge ne remontera pas vite vers 20 %. Prochain test : les résultats annuels du 10/02."
+   },
+   {
+    "d": "29/10",
     "fait": "T3 en forte croissance (+17,0 %, tout en organique) grâce au rattrapage d'environ 4 M€ de livraisons décalées du T2, mais marge ajustée de 17,7 % contre 19,1 % un an plus tôt et environ 21,5 % attendus. Selon la direction, les frais de personnel et les autres charges augmentent plus vite que les ventes (marketing, gamme, projets stratégiques). La marge brute reste saine malgré la hausse des coûts de transport.",
     "impact": "negatif",
     "horizon": "moyen",
@@ -22,13 +29,6 @@
     "impact": "negatif",
     "horizon": "court",
     "lecture": "Le marché sanctionne une marge et un BPA nettement sous les attentes, malgré la croissance des ventes. Le cours entre dans la zone d'intérêt (38 à 40 €), mais pour une raison qui touche la thèse."
-   },
-   {
-    "d": "27/10",
-    "fait": "Inderes s'attend à une marge du T3 en nette hausse grâce aux livraisons décalées du T2 et à la croissance aux États-Unis.",
-    "impact": "neutre",
-    "horizon": "court",
-    "lecture": "Le marché attend la confirmation que la baisse de marge du T2 était temporaire ; c'est le point clé de la publication du 29/10."
    }
   ],
   "cadres": [
@@ -89,6 +89,7 @@
    }
   ],
   "sources": [
+   "https://www.investing.com/news/transcripts/earnings-call-transcript-harvia-q3-2026-revenue-rises-17-as-shares-fall-13-93CH-4982426",
    "https://za.investing.com/news/stock-market-news/earnings-call-transcript-harvia-q3-2026-revenue-rises-17-as-shares-fall-13-93CH-4534464",
    "https://www.inderes.fi/analyst-comments/harvia-q326-ennakko-siirtyneet-toimitukset-ja-usa-siivittanevat-tuloskasvua",
    "https://www.globenewswire.com/news-release/2026/10/29/3390951/0/en/harvia-s-interim-report-1-january-30-september-2026.html",
@@ -163,6 +164,10 @@
  "faits": [
   {
    "d": "29/10",
+   "t": "Conférence : le directeur financier ne prévoit pas de baisse des coûts ; hors ajustement comptable, la marge du T3 aurait été de 18,9 %. Objectifs de long terme maintenus (croissance à deux chiffres, marge ajustée au-dessus de 20 %). Clôture à 38,15 €."
+  },
+  {
+   "d": "29/10",
    "t": "T3 : CA 53,9 M€ (+17,0 %, 100 % organique, 46,0 M€ un an plus tôt), résultat opérationnel ajusté 9,5 M€ (8,8 M€), marge ajustée 17,7 % (19,1 %), BPA 0,37 € (0,33 €)."
   },
   {
@@ -172,10 +177,6 @@
   {
    "d": "29/10",
    "t": "Chiffres sous le consensus de 7 analystes relevé par Inderes (CA 56,2 M€, marge 21,5 %, BPA 0,47 €). Le titre recule d'environ 13 %, vers 38 €."
-  },
-  {
-   "d": "22/10",
-   "t": "Rapport sur 9 mois confirmé le jeudi 29/10 vers 9 h, heure de Finlande."
   }
  ],
  "histo": [
@@ -1478,11 +1479,11 @@
     },
     {
      "etat": "watch",
-     "preuve": "T3 2026 : résultat opérationnel ajusté 9,5 M€ pour 53,9 M€ de CA (17,7 %).",
+     "preuve": "Conférence du T3 du 29/10/2026.",
      "prochain": "Résultats 9 mois le 29/10/2026",
      "q": "Pourquoi la marge recule-t-elle légèrement alors que les ventes progressent (mix produits, coûts, prix) ?",
-     "reponse": "Au T3, ce n'est plus l'usine : ce sont les charges (personnel, marketing, salons, amortissements) qui montent plus vite que les ventes, plus un ajustement comptable de 0,8 M€ en Amérique du Nord. La marge brute tient.",
-     "source": "https://www.globenewswire.com/news-release/2026/10/29/3390951/0/en/harvia-s-interim-report-1-january-30-september-2026.html"
+     "reponse": "Ce sont les charges d'investissement (marketing, effectifs surtout en Amérique du Nord, informatique, amortissements) qui pèsent, et la direction ne prévoit pas de les réduire. Hors ajustement comptable, la marge du T3 aurait été de 18,9 %.",
+     "source": "https://www.investing.com/news/transcripts/earnings-call-transcript-harvia-q3-2026-revenue-rises-17-as-shares-fall-13-93CH-4982426"
     },
     {
      "etat": "watch",

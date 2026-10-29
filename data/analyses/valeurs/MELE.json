@@ -3,6 +3,13 @@
   "aVerifier": "Moyenne 200 jours non lue. RSI divergent selon les sources (39,4 chez Boursorama le 25/09, 54,6 chez Zonebourse le 23/09). Objectif moyen des analystes : 74,62 € chez Boursorama (18/08), un autre site cite 83,60 € et un objectif Bernstein a 97 € non verifies. ROE calcule (P/B / PER) et non publie. Couverture des interets, F-score de Piotroski et multiples des concurrents non trouves.",
   "actu": [
    {
+    "d": "29/10",
+    "fait": "Plusieurs analystes baissent leur objectif après le T3 : Jefferies, et Deutsche Bank fortement (nouveaux objectifs d'une seule source, non repris). Degroof Petercam reste neutre avec 56 €, sous le cours.",
+    "impact": "negatif",
+    "horizon": "court",
+    "lecture": "Une marge bloquée vers 18 % et un BPA sous le consensus ne suffisent pas à soutenir la valorisation ni à rassurer sur le dividende."
+   },
+   {
     "d": "28/10",
     "fait": "T3 : ventes 223,7 M€ (+4 %), marge opérationnelle 18,5 %, résultat net 31,3 M€ (+14 %), BPA 0,78 € (un peu sous le consensus d'environ 0,83 €). Sur 9 mois : ventes 642,9 M€ (+3 %), résultat net 85,2 M€ (-5 %). Prévision du S2 maintenue (445 à 455 M€, marge opérationnelle vers 18 %).",
     "impact": "neutre",
@@ -22,13 +29,6 @@
     "impact": "negatif",
     "horizon": "court",
     "lecture": "Mouvement de marché et de secteur, pas de nouvelle sur l'activité. Le vrai test reste le T3 du 28/10, face à une prévision de 220 à 225 M€ de ventes et une marge vers 18 %."
-   },
-   {
-    "d": "21/09",
-    "fait": "Point sur le rachat d'actions : 253 537 actions rachetées au total sur les 850 000 autorisées.",
-    "impact": "neutre",
-    "horizon": "court",
-    "lecture": "Le programme avance à rythme régulier, sans changer la question de la couverture du dividende."
    }
   ],
   "cadres": [
@@ -52,7 +52,7 @@
    "score": 6,
    "valo": "PER 22 en 2026 et 16,9 en 2027 ; VE/EBITDA 14,2 puis 11,7 ; rendement du flux de tresorerie libre attendu a 7,3 % en 2026 ; rendement du dividende 5,5 %. Moyenne 2021-2025 : PER d'environ 20 et VE/EBITDA d'environ 13,8. L'action est donc un peu plus chere que sa moyenne sur 2026 mais moins chere sur 2027 si le rebond du benefice se confirme. Comparaison chiffree avec les concurrents (Infineon, STMicro, NXP) non verifiee."
   },
-  "majLe": "2026-10-28",
+  "majLe": "2026-10-29",
   "revisions": "Non trouvé ce soir.",
   "scenarios": [
    {
@@ -89,6 +89,8 @@
    }
   ],
   "sources": [
+   "https://www.deaandeelhouder.be/nieuws/2026/10/29/beursblik-deutsche-bank-verlaagt-koersdoel-melexis-stevig/",
+   "https://www.deaandeelhouder.be/nieuws/2026/10/29/beursblik-jefferies-verlaagt-koersdoel-melexis-3/",
    "https://www.investing.com/news/earnings/melexis-posts-inline-q3-results-maintains-h2-guidance-4977559",
    "https://www.lalibre.be/dernieres-depeches/2026/10/28/le-benefice-net-de-lentreprise-melexis-progresse-de-14-au-troisieme-trimestre-3EL2VIB5IJBOFEXJJWJIZ2EAJ4/",
    "https://www.abcbourse.com/marches/les-fabricants-europeens-de-semi-conducteurs-pris-dans-la-tourmente-de-la-tech_704256",
@@ -159,6 +161,10 @@
  "devise": "€",
  "faits": [
   {
+   "d": "29/10",
+   "t": "Après le T3, Jefferies et Deutsche Bank baissent leur objectif de cours (Deutsche Bank fortement) ; Degroof Petercam reste neutre avec 56 €. Titre stable vers 57,5 €."
+  },
+  {
    "d": "28/10",
    "t": "Après le T3, le titre recule de 3,5 % à 57,05 €."
   },
@@ -169,10 +175,6 @@
   {
    "d": "16/10",
    "t": "Le titre finit la semaine vers 57,75 € (environ -10 %). Résultats du T3 le 28/10."
-  },
-  {
-   "d": "15/10",
-   "t": "Chute du secteur européen des puces après une inflation américaine plus forte que prévu (Infineon -9,2 %, STMicro -7 % en matinée)."
   }
  ],
  "histo": [

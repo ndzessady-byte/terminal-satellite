@@ -15,19 +15,19 @@
  "faits": [
   {
    "d": "29/10",
+   "t": "Mer du Nord : les ressources d'Afrodite (DNO 10 %) sont plus que doublées (77 à 180 millions de barils équivalent) et le développement de Kjøttkake (DNO 40 %, premier pétrole en 2028) est lancé. Titre stable vers 24,1 NOK."
+  },
+  {
+   "d": "29/10",
+   "t": "Le conseil réexaminera la politique de versement aux actionnaires au T4 pour 2027 (rachats ou dividende exceptionnel possibles, rien de décidé)."
+  },
+  {
+   "d": "29/10",
    "t": "T3 record : CA 1 023 M$ (760,5 M$ au T2), résultat opérationnel 641,1 M$ (439,0), résultat net 101,1 M$ (83,4), trésorerie libre 326,5 M$ (289,5)."
   },
   {
    "d": "29/10",
    "t": "Dette nette ramenée à 231,9 M$ (552,9 M$ au T2). Production 142 768 barils équivalent par jour (+61 % sur le trimestre)."
-  },
-  {
-   "d": "29/10",
-   "t": "Dividende trimestriel maintenu à 0,375 NOK : détachement le 06/11, paiement vers le 17/11."
-  },
-  {
-   "d": "14/10",
-   "t": "Point d'activité du T3 : Kurdistan à 54 914 barils équivalent par jour (273 au T2), mer du Nord à 85 364."
   }
  ],
  "pub": null,
@@ -1117,6 +1117,20 @@
   "actu": [
    {
     "d": "29/10",
+    "fait": "Deux bonnes nouvelles en mer du Nord le jour des résultats : ressources d'Afrodite plus que doublées, développement de Kjøttkake lancé (environ 20 000 barils par jour au plateau, premier pétrole en 2028).",
+    "impact": "positif",
+    "horizon": "long",
+    "lecture": "Cela soutient l'objectif de 100 000 barils par jour en mer du Nord en 2030, donc la durée de la thèse au-delà du cycle actuel des prix."
+   },
+   {
+    "d": "29/10",
+    "fait": "En conférence : exports du Kurdistan possibles par la Syrie et la Turquie sans calendrier, acquisitions étudiées en Norvège, en Égypte et au Kurdistan, environ 230 M$ d'impôts à payer au T4. Le président ne veut pas augmenter les versements pour devoir les réduire ensuite.",
+    "impact": "neutre",
+    "horizon": "moyen",
+    "lecture": "Pas de hausse du dividende tout de suite, mais la porte est ouverte pour 2027. Le marché avait déjà intégré le trimestre record."
+   },
+   {
+    "d": "29/10",
     "fait": "Trimestre record porté par le retour du Kurdistan (54 914 barils par jour) et des prix plus élevés : CA 1 023 M$, résultat opérationnel 641,1 M$, trésorerie libre 326,5 M$, dette nette en baisse à 231,9 M$. Mer du Nord stable à 85 364 barils, prix obtenu 106,7 $ par baril équivalent.",
     "impact": "positif",
     "horizon": "moyen",
@@ -1128,20 +1142,6 @@
     "impact": "positif",
     "horizon": "moyen",
     "lecture": "Le Kurdistan rapporte davantage, mais toujours bien sous le prix international."
-   },
-   {
-    "d": "29/10",
-    "fait": "Le président dit rester tourné vers la croissance seulement si elle atteint les objectifs de rentabilité. Aucune nouvelle acquisition annoncée.",
-    "impact": "neutre",
-    "horizon": "long",
-    "lecture": "Le ton reste discipliné après les abandons de Genel et Capricorn."
-   },
-   {
-    "d": "14/10",
-    "fait": "Le Kurdistan repasse à 54 914 barils équivalent par jour nets (273 au T2), vendus 38,5 $ le baril en moyenne ; la mer du Nord produit 85 364 barils par jour. Chiffres provisoires.",
-    "impact": "positif",
-    "horizon": "moyen",
-    "lecture": "Explication probable de la hausse de la semaine : le Kurdistan repart au-dessus de son niveau d'avant l'arrêt, alors que la mer du Nord finance déjà seule le dividende. Mais le baril kurde reste vendu loin du prix international."
    }
   ],
   "scenarios": [
@@ -1188,6 +1188,8 @@
    "Weinstein (stades)"
   ],
   "sources": [
+   "https://www.investing.com/news/transcripts/earnings-call-transcript-dno-posts-record-q3-2026-revenue-as-shares-hover-near-high-93CH-4982250",
+   "https://www.globenewswire.com/news-release/2026/10/29/3390917/0/en/dno-scores-north-sea-double.html",
    "https://www.globenewswire.com/news-release/2026/10/29/3390911/0/en/key-information-relating-to-cash-dividend.html",
    "https://www.globenewswire.com/news-release/2026/10/29/3390922/0/en/dno-races-ahead-on-stronger-production-higher-prices.html",
    "https://www.globenewswire.com/news-release/2026/10/14/3380314/0/en/q3-2026-trading-update-and-invitation-to-earnings-call.html",
@@ -1398,9 +1400,9 @@
     {
      "q": "Le dividende de 1,50 NOK par an peut-il être relevé, ou la direction privilégiera-t-elle la dette et les rachats ?",
      "etat": "watch",
-     "reponse": "Pas de hausse malgré un trimestre record : 0,375 NOK, comme les cinq trimestres précédents.",
-     "preuve": "Dividende de 0,375 NOK, détachement le 06/11/2026.",
-     "source": "https://www.globenewswire.com/news-release/2026/10/29/3390911/0/en/key-information-relating-to-cash-dividend.html",
+     "reponse": "Pas de hausse pour l'instant ; le conseil réexaminera la politique au T4 pour 2027 (rachats ou dividende exceptionnel possibles).",
+     "preuve": "Conférence du T3 du 29/10/2026.",
+     "source": "https://www.investing.com/news/transcripts/earnings-call-transcript-dno-posts-record-q3-2026-revenue-as-shares-hover-near-high-93CH-4982250",
      "prochain": "Résultats annuels 2026 (février 2027, date non confirmée)"
     }
    ]
