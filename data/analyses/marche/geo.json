@@ -1,5 +1,5 @@
 {
- "lecture": "Paris monte d'environ 0,9 % ce midi grâce aux résultats d'entreprises et attend la BCE à 14 h 15. Christine Lagarde quittera la BCE le 07/02, neuf mois avant la fin de son mandat. Le pétrole reflue vers 114 $ sur une tentative américaine de renouer avec l'Iran, mais le gaz européen à 100 € le MWh et la menace de frappes après le 03/11 gardent la pression sur l'inflation.",
+ "lecture": "Paris finit en hausse d'environ 1 % à 7 970 points grâce aux résultats, et la BCE laisse ses taux à 2,50 % en prévenant que l'énergie fait monter le risque d'inflation : une hausse en décembre reste possible. L'euro recule vers son plus bas depuis mai 2025. Le pétrole reflue vers 114 $ sur l'espoir de discussions avec l'Iran, mais l'annonce iranienne de pétroliers touchés par des mines à Ormuz rappelle que le risque reste élevé.",
  "majLe": "2026-10-29",
  "matieres": {
   "ALU": {
@@ -70,6 +70,10 @@
    "faits": [
     {
      "d": "29/10",
+     "t": "Les Gardiens de la révolution affirment que trois pétroliers ont sauté sur des mines au sud du détroit en 24 heures ; l'AP n'a pas pu confirmer, et l'UKMTO signale un navire en feu dans le détroit. Le Brent recule quand même vers 113,7 $ en séance sur l'espoir de discussions."
+    },
+    {
+     "d": "29/10",
      "t": "Selon le Wall Street Journal, le vice-président JD Vance a écrit à un haut responsable iranien pour relancer des pourparlers ; Trump minimise l'initiative. Washington aurait prévenu des pays du Golfe d'une possible reprise des frappes après le 03/11. Le Brent reflue vers 114 $ après une clôture à 115,32 $ mercredi."
     },
     {
@@ -87,10 +91,6 @@
     {
      "d": "22/10",
      "t": "Selon le NYT et ABC, Washington et Israël préparent des frappes possibles sur l'Iran après le 03/11 ; aucune avancée de la médiation du Qatar."
-    },
-    {
-     "d": "22/10",
-     "t": "Les Gardiens de la révolution affirment avoir touché sept navires ; un pétrolier koweïtien frappé près du détroit. Le Brent repasse au-dessus de 110 $ (une seule source pour le chiffre)."
     }
    ],
    "id": "ormuz",
@@ -120,6 +120,8 @@
    "region": "Moyen-Orient / Golfe",
    "resume": "La guerre avec l'Iran, commencée fin février 2026, bloque toujours le détroit d'Ormuz par où passait environ un cinquième du pétrole mondial, et les États-Unis maintiennent un blocus des ports iraniens. Fin septembre, Trump a rejeté le plan iranien de réouverture et un vraquier a encore été touché près d'Oman. Le Brent est repassé au-dessus de 100 $ et c'est le premier moteur de l'inflation et des taux en ce moment.",
    "sources": [
+    "https://virginiabusiness.com/oil-prices-fall-middle-east-diplomacy-supply-fears/",
+    "https://www.kiro7.com/news/world/iran-says-3-oil/PLUPUARR4M2ENP7JXSYUZJNQTE/",
     "https://uk.advfn.com/market-news/article/25337/brent-falls-to-114-05-as-iran-peace-initiatives-and-supply-developments-influence-oil-trading",
     "https://thenationalnews.com/business/energy/2026/10/29/oil-prices-decline-after-diplomatic-push-in-iran-war",
     "https://www.middleeasteye.net/news/houthis-hit-saudi-oil-refinery-iran-warns-more-devastating-response-further-us-israeli",
@@ -196,6 +198,10 @@
    "faits": [
     {
      "d": "29/10",
+     "t": "La BCE maintient son taux de dépôt à 2,50 % à l'unanimité et voit un risque d'inflation plus élevé à cause de l'énergie (inflation de la zone euro à 3,8 % en septembre). Elle ne s'engage pas pour décembre, mais le marché attend une hausse. L'euro tombe à son plus bas depuis mai 2025."
+    },
+    {
+     "d": "29/10",
      "t": "Christine Lagarde quittera la présidence de la BCE le 07/02/2027, environ neuf mois avant la fin de son mandat (communiqué de la BCE). Les marchés ont peu réagi ; décision sur les taux attendue à 14 h 15, maintien du taux de dépôt à 2,50 % attendu."
     },
     {
@@ -213,10 +219,6 @@
     {
      "d": "23/10",
      "t": "Moody's maintient la note de la France à Aa3 avec perspective négative, contre l'avis de la plupart des économistes qui attendaient une baisse à A1. La France reste un cran au-dessus des notes de S&P et Fitch (A+)."
-    },
-    {
-     "d": "22/10",
-     "t": "OAT 10 ans à 5,07-5,08 % en clôture, au-dessus du taux américain à 10 ans ; écart avec le Bund au-dessus de 160 pb. Léger repli vers 5,04 % ce vendredi matin (une seule source)."
     }
    ],
    "id": "taux",
@@ -238,6 +240,8 @@
    "region": "Zone euro / États-Unis",
    "resume": "Le choc pétrolier relance l'inflation, et les deux grandes banques centrales ont remonté leurs taux en septembre au lieu de les baisser. Les marchés anticipent encore des hausses. C'est un vent contraire pour les petites et moyennes valeurs, pour l'immobilier et pour l'or.",
    "sources": [
+    "https://www.investing.com/news/economy-news/ecb-keeps-rates-unchanged-euro-slips-4984045",
+    "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.mp261029~9a493adf17.en.html",
     "https://www.cnn.com/2026/10/29/business/christine-lagarde-ecb-president-resigns-intl",
     "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr261029~abbb6dc64b.en.html",
     "https://www.boursorama.com/bourse/actualites/l-europe-vue-en-baisse-prudence-face-aux-resultats-et-au-petrole-1ab1d706b695c446bb1895f644dacef8",
@@ -472,6 +476,10 @@
    "faits": [
     {
      "d": "28/10",
+     "t": "Le Kremlin dit que les pourparlers à trois à Abou Dhabi dépendront de la situation sur le front et pourraient se tenir après le 04/11, sans date fixée ; Zelensky les attend plutôt mi-novembre."
+    },
+    {
+     "d": "28/10",
      "t": "Selon Bloomberg, Zelensky dit que des pourparlers entre l'Ukraine, les États-Unis et la Russie pourraient se tenir à Abou Dhabi dès la semaine prochaine. Les frappes continuent, notamment sur le réseau électrique ukrainien."
     },
     {
@@ -489,10 +497,6 @@
     {
      "d": "19/10",
      "t": "Selon le Wall Street Journal, Poutine propose un sommet avec Trump et Xi le mois prochain. Trump avait annoncé le 16/10 la levée de plusieurs sanctions visant la Russie ; le 18/10, des drones ukrainiens frappent un terminal pétrolier à Saint-Pétersbourg."
-    },
-    {
-     "d": "12/10",
-     "t": "Le Kremlin dément tout cessez-le-feu énergétique et frappe encore six sites énergétiques ukrainiens ; Washington lève une partie des sanctions sur le pétrole russe le 13/10."
     }
    ],
    "id": "russie-ukraine",
@@ -510,6 +514,7 @@
    "region": "Europe de l'Est",
    "resume": "Les pourparlers menés par les États-Unis ont repris début septembre mais Zelensky a rejeté le projet d'accord et Moscou pose des conditions territoriales jugées inacceptables. Les frappes de drones en mer Noire ont quasi stoppé les exportations maritimes de céréales des deux pays. Le blé reste nerveux mais recule quand l'espoir de cessez-le-feu revient.",
    "sources": [
+    "https://kyivindependent.com/russia-says-battlefield-situation-will-determine-when-ukraine-peace-talks-begin/",
     "https://www.bloomberg.com/news/articles/2026-10-28/zelenskyy-expects-us-ukraine-russia-talks-as-early-as-next-week",
     "https://abc17news.com/news/national-world/cnn-world/2026/10/22/us-envoy-witkoff-meets-with-putin-in-effort-to-advance-proposals-to-end-war-in-ukraine/",
     "https://www.aljazeera.com/news/2026/10/21/witkoff-in-russia-for-putin-meeting-after-positive-talks-with-zelenskyy",
@@ -554,6 +559,10 @@
    "faits": [
     {
      "d": "28/10",
+     "t": "Washington interdit les importations de trois groupes chinois de génomique (BGI Group, BGI Genomics, MGI Tech) pour des liens présumés avec le travail forcé : mesure ciblée qui ne remet pas en cause la trêve."
+    },
+    {
+     "d": "28/10",
      "t": "Washington impose de lourds droits sur les remorques chinoises pour protéger ses fabricants. C'est une mesure sectorielle qui ne remet pas en cause la trêve."
     },
     {
@@ -571,10 +580,6 @@
     {
      "d": "24/09",
      "t": "Début de la visite d'État de Xi à Washington ; la trêve commerciale, qui expirait en novembre, est prolongée jusqu'au 10/01/2027 selon le Trésor américain."
-    },
-    {
-     "d": "21/09",
-     "t": "Les exportations chinoises d'aimants en terres rares vers les États-Unis chutent de 21 % en août (512 t) ; les contrôles d'avril 2025 restent en place même assouplis."
     }
    ],
    "id": "chine-usa",
@@ -592,6 +597,8 @@
    "region": "Asie / États-Unis",
    "resume": "La visite de Xi à Washington a permis de prolonger la trêve commerciale jusqu'au 10/01/2027 et de baisser les droits sur environ 30 Md$ de produits de chaque côté. Mais les semi-conducteurs, les véhicules électriques et les batteries sont exclus, et Pékin garde la main sur les terres rares. La tension baisse, sans être réglée.",
    "sources": [
+    "https://www.investing.com/news/stock-market-news/us-bans-imports-from-three-chinese-genomics-companies-citing-forced-labor-4979357",
+    "https://abcnews.com/US/wireStory/us-bans-imports-3-chinese-biotech-companies-forced-137657166",
     "https://www.ttnews.com/articles/us-shipping-fee-truce-china",
     "https://bloomberg.com/news/articles/2026-10-27/us-plans-two-month-extension-to-shipping-fee-truce-with-china",
     "https://www.bloomberg.com/news/articles/2026-10-28/us-hits-chinese-trailers-with-tariffs-to-aid-domestic-producers",
