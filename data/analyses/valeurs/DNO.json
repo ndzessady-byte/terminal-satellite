@@ -3,8 +3,8 @@
  "nom": "DNO ASA",
  "pays": "NO",
  "secteur": "Pétrole et gaz",
- "cours": 24.1,
- "coursLe": "2026-10-28",
+ "cours": 24.08,
+ "coursLe": "2026-10-29",
  "devise": "NOK",
  "capi": "environ 18,6 Md NOK (environ 1,95 Md$)",
  "per26": 6.0,
@@ -37,10 +37,6 @@
  "yahoo": "DNO.OL",
  "compte": "PEA",
  "histo": [
-  [
-   "15/10",
-   13.81
-  ],
   [
    "16/10",
    13.01
@@ -1076,12 +1072,16 @@
   [
    "28/10",
    24.1
+  ],
+  [
+   "29/10",
+   24.08
   ]
  ],
  "perf": {
-  "m1": 25.3,
-  "m3": 44.1,
-  "m12": 82.3
+  "m1": 26.5,
+  "m3": 44.2,
+  "m12": 84.2
  },
  "analyse": {
   "majLe": "2026-10-29",
@@ -1100,18 +1100,18 @@
    "greenblatt": "Rendement bénéficiaire avant impôt (résultat opérationnel / valeur d'entreprise) très élevé, plus de 25 % sur la base du premier semestre 2026, mais trompeur : l'impôt norvégien d'environ 78 % ramène la rentabilité réelle pour l'actionnaire à un niveau bien plus modeste. Profil flatteur sur la formule magique à prendre avec prudence."
   },
   "tech": {
-   "cours": 24.1,
-   "coursLe": "2026-10-28",
-   "mm50": 19.77,
-   "mm200": 18.16,
-   "rsi14": 81.5,
+   "cours": 24.08,
+   "coursLe": "2026-10-29",
+   "mm50": 19.88,
+   "mm200": 18.2,
+   "rsi14": 81.2,
    "haut52": 24.1,
    "bas52": 13.07,
    "support": 18.1,
    "resistance": 19.75,
    "tendance": "haussiere",
    "stade": 2,
-   "lecture": "Cours de 24,10 au-dessus de sa moyenne 50 jours (19,77) et au-dessus de sa moyenne 200 jours (18,16). RSI 81,5 : élan fort. Il se situe à 100 % de sa fourchette sur un an (de 13,07 à 24,10), performance sur 12 mois de 82,3 %. Clôture du 28/10/2026.",
+   "lecture": "Cours de 24,08 au-dessus de sa moyenne 50 jours (19,88) et au-dessus de sa moyenne 200 jours (18,20). RSI 81,2 : élan fort. Il se situe à 100 % de sa fourchette sur un an (de 13,07 à 24,10), performance sur 12 mois de 84,2 %. Clôture du 29/10/2026.",
    "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json"
   },
   "actu": [

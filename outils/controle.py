@@ -52,6 +52,14 @@ for f in sorted(glob.glob("data/analyses/valeurs/*.json")):
     if max([x for x in (a.get("veilleLe"), a.get("majLe"), v.get("societe", {}).get("suivi", {}).get("le")) if x] or [""]) != jour.isoformat():
         trous.append(t)
 
+mouv = []
+for t, sr in sorted(px.items()):
+    h = sr.get("histo") or []
+    if len(h) > 1 and h[-1][0] == jour.isoformat() and h[-2][1]:
+        var = (h[-1][1] / h[-2][1] - 1) * 100
+        if abs(var) >= 5:
+            mouv.append(f"{t} {var:+.1f} %")
+
 geo = json.load(open("data/analyses/marche/geo.json"))
 points = []
 for p in geo.get("points", []):
@@ -61,6 +69,7 @@ for p in geo.get("points", []):
         points.append(f"{p['id']} (dernier fait il y a {age} j)")
 
 print("PRIORITÉS (à creuser en premier) :", "; ".join(prio) or "aucune")
+print("MOUVEMENTS DU JOUR ≥ 5 % (cause à trouver et à noter) :", "; ".join(mouv) or "aucun")
 print("PUBLICATIONS MANQUÉES :", "; ".join(pubs) or "aucune")
 print("POINTS CHAUDS EN RETARD (> 7 j) :", "; ".join(points) or "aucun")
 print("TROUS (valeurs non vérifiées aujourd'hui) :", ", ".join(trous) or "aucun")

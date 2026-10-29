@@ -3,6 +3,13 @@
   "aVerifier": "Capitalisation : 782 M€ selon Zonebourse (cours 21 €) contre 903 M€ dans la fiche d'origine. Plus bas sur 52 semaines de 15,02 € lu sur Investing.com et Zonebourse sans date précise. ROE calculé à partir des chiffres publiés, non donné par une source. Couverture des intérêts, PER moyen sur 5 ans, comparaison avec les pairs et Piotroski non trouvés. Détail de la sortie d'Apogy lu uniquement dans les titres Zonebourse.",
   "actu": [
    {
+    "d": "29/10",
+    "fait": "Le titre perd environ 20 % au lendemain du T3. Le CA (121,6 M€) ressort sous les 126,5 M€ attendus par TP ICAP Midcap, les commandes d'équipements (18,9 M€) sous les 21 M€ attendus par Oddo BHF, et le carnet d'équipements recule de 23,4 à 21,4 M€. Oddo BHF baisse son CA 2026 attendu de 4 % et juge trop ambitieuse la croissance de 15 % par an de l'ARR SaaS ; TP ICAP Midcap estime que la thèse est « quelque peu » fragilisée.",
+    "impact": "negatif",
+    "horizon": "moyen",
+    "lecture": "Le marché ne retient pas la hausse de marge mais le ralentissement du SaaS, cœur de la thèse. Le cours entre dans la zone d'intérêt (17 à 19 €) pour une raison qui touche la thèse : l'invalidation (ARR SaaS nettement sous +10 %) est proche, avec +8 % en comparable."
+   },
+   {
     "d": "28/10",
     "fait": "T3 : CA stable (-2 % en comparable), récurrent 78 % du CA, SaaS +12 %, commandes d'équipements -10 %, marge d'EBITDA courant 19,3 % (+200 points de base). 9 mois : CA -4 % en comparable, ARR SaaS 106,5 M€ (+8 % en comparable), cash-flow libre 36,4 M€. Lectra parle d'un environnement plus dégradé que prévu : la croissance du SaaS en 2026 sera sous la trajectoire de 15 %, mais la marge progressera plus que prévu.",
     "impact": "negatif",
@@ -22,13 +29,6 @@
     "horizon": "long",
     "impact": "positif",
     "lecture": "L'IA peut renforcer l'offre logicielle, mais c'est aussi un terrain où les concurrents avancent vite."
-   },
-   {
-    "d": "10/09",
-    "fait": "La BCE relève ses taux pour la deuxième fois de l'année.",
-    "horizon": "moyen",
-    "impact": "negatif",
-    "lecture": "Des taux plus hauts pèsent sur les investissements industriels des clients et sur les multiples élevés comme celui de Lectra."
    }
   ],
   "cadres": [
@@ -53,7 +53,7 @@
    "score": 5,
    "valo": "PER 30 fois 2026 et 23,1 fois 2027, VE/CA 1,69 fois 2026, rendement 1,7 % (Zonebourse, 24/09). VE/EBITDA 2026 d'environ 11 fois (calcul : VE 838 M€ / EBITDA 76 M€). PER moyen sur 5 ans et comparaison chiffrée avec les pairs non trouvés. Consensus Boursorama : 5 analystes, objectif médian 23,90 €, soit environ 12 % au-dessus du cours."
   },
-  "majLe": "2026-10-28",
+  "majLe": "2026-10-29",
   "revisions": "Stables sur 1 et 3 mois : BPA attendu 0,75 € en 2026 et 0,95 € en 2027 (Boursorama, lecture à confirmer).",
   "scenarios": [
    {
@@ -90,6 +90,7 @@
    }
   ],
   "sources": [
+   "https://www.tradingsat.com/lectra-FR0000065484/actualites/lectra-victime-de-l-attentisme-qui-frappe-les-groupes-de-logiciels-le-champion-des-systemes-de-decoupe-de-materiaux-pour-le-textile-et-l-automobile-lectra-plonge-de-19-en-bourse-1172747.html",
    "https://www.boursorama.com/bourse/actualites/le-benefice-de-lectra-bondit-au-3e-trimestre-24a2192ceec029d99b0f666beebcd628",
    "https://www.globenewswire.com/news-release/2026/10/28/3390645/0/fr/lectra-neuf-premiers-mois-2026-am%C3%A9lioration-structurelle-de-la-rentabilit%C3%A9.html",
    "https://www.lesoleil.com/communiques-de-presse/2026/10/12/lectra-programme-de-rachat-dactions-declaration-agregee-des-transactions-sur-actions-propres-realisees-du-5-au-9-octobre-2026-G2TQ5MLILRA4TESFNVBPKNM5TY/",
@@ -108,18 +109,18 @@
   ],
   "tech": {
    "bas52": 15.2,
-   "cours": 22.9,
-   "coursLe": "2026-10-28",
+   "cours": 18.24,
+   "coursLe": "2026-10-29",
    "haut52": 25.5,
-   "lecture": "Cours de 22,90 au-dessus de sa moyenne 50 jours (21,52) et au-dessus de sa moyenne 200 jours (19,19). RSI 69,0 : élan neutre. Il se situe à 75 % de sa fourchette sur un an (de 15,20 à 25,50), performance sur 12 mois de 0,7 %. Clôture du 28/10/2026.",
-   "mm200": 19.19,
-   "mm50": 21.52,
+   "lecture": "Cours de 18,24 en dessous de sa moyenne 50 jours (21,44) et en dessous de sa moyenne 200 jours (19,16). RSI 29,5 : élan faible. Il se situe à 30 % de sa fourchette sur un an (de 15,20 à 25,50), performance sur 12 mois de -20,7 %. Clôture du 29/10/2026.",
+   "mm200": 19.16,
+   "mm50": 21.44,
    "resistance": 23.4,
-   "rsi14": 69.0,
+   "rsi14": 29.5,
    "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json",
-   "stade": 2,
+   "stade": 3,
    "support": 20.5,
-   "tendance": "haussiere"
+   "tendance": "neutre"
   },
   "verdict": "Lectra transforme son modèle vers le logiciel par abonnement (79 % de revenus récurrents, SaaS +14 %) et procède à des rachats d'actions, mais sa rentabilité reste faible et la croissance totale est négative sur le semestre. À environ 30 fois les bénéfices 2026, le cours intègre déjà une bonne partie du redressement promis.",
   "zones": {
@@ -153,10 +154,14 @@
   "veilleLe": "2026-10-29"
  },
  "capi": "903 M€",
- "cours": 22.9,
- "coursLe": "2026-10-28",
+ "cours": 18.24,
+ "coursLe": "2026-10-29",
  "devise": "€",
  "faits": [
+  {
+   "d": "29/10",
+   "t": "Le titre chute d'environ 20 %, vers 18,2 €, au lendemain du T3 : la plus forte baisse du SRD du jour."
+  },
   {
    "d": "28/10",
    "t": "T3 : CA 121,6 M€ (stable, -2 % en comparable), SaaS +12 %, commandes d'équipements 18,9 M€ (-10 %), EBITDA courant 23,4 M€ (marge 19,3 % contre 17,4 %), résultat net 10,4 M€ (+45 %)."
@@ -168,17 +173,9 @@
   {
    "d": "12/10",
    "t": "Rachat d'actions : 40 581 actions achetées du 05 au 09/10 à 20,82 € en moyenne."
-  },
-  {
-   "d": "05/10",
-   "t": "Le rachat d'actions continue : 47 384 actions achetées du 28/09 au 02/10 à 20,99 € en moyenne."
   }
  ],
  "histo": [
-  [
-   "22/10",
-   23.2
-  ],
   [
    "23/10",
    23.2
@@ -1214,6 +1211,10 @@
   [
    "28/10",
    22.9
+  ],
+  [
+   "29/10",
+   18.24
   ]
  ],
  "nom": "Lectra",
@@ -1222,9 +1223,9 @@
  "per26": 30.4,
  "per27": 23.4,
  "perf": {
-  "m1": 9.0,
-  "m3": 11.7,
-  "m12": 0.7
+  "m1": -12.1,
+  "m3": -15.0,
+  "m12": -20.7
  },
  "pub": "2027-02-10",
  "pubLabel": "Résultats annuels 2026 (après bourse)",
