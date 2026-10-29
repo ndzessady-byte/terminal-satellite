@@ -14,6 +14,10 @@
  "risque": "Bénéfices sans doute proches d'un haut de cycle (cuivre cher, droits de douane favorables) ; seulement 2 analystes suivent la valeur ; ventes d'actions par des dirigeants ; risque de change euro/dollar.",
  "faits": [
   {
+   "d": "22/10",
+   "t": "Freedom Broker abaisse un peu son objectif de cours et garde sa recommandation positive (une seule source, date approximative, montant non repris)."
+  },
+  {
    "d": "20/10",
    "t": "T3 : CA 1,42 Md$ (+32 %), résultat opérationnel 281,6 M$ (276,1 M$ un an plus tôt), BPA 1,00 $ (0,94 $). Cuivre moyen +34 %."
   },
@@ -24,10 +28,6 @@
   {
    "d": "20/10",
    "t": "201,9 M$ de rachats d'actions au T3, trésorerie d'environ 1,48 Md$, carnets de commandes en hausse dans les trois divisions."
-  },
-  {
-   "d": "06/2026",
-   "t": "Rachat de Chicago Extruded Metals, après Bison Metals Technologies en mars (138,3 M$)."
   }
  ],
  "pub": null,
@@ -1084,7 +1084,7 @@
   "m12": 4.7
  },
  "analyse": {
-  "majLe": "2026-10-01",
+  "majLe": "2026-10-29",
   "verdict": "Mueller est une machine à cash : marge opérationnelle de plus de 20 %, aucune dette et 1,42 Md$ de trésorerie, avec une valorisation d'environ 14 fois les bénéfices 2026 attendus. La limite est que ces bénéfices sont gonflés par un cuivre très cher et par les droits de douane américains, donc proches d'un haut de cycle. Au T2 2026, le chiffre d'affaires bondit de 25 % mais le résultat opérationnel ne progresse que de 2 %, signe que la marge commence à plafonner. C'est un dossier de qualité à surveiller sur la marge plutôt que sur la croissance.",
   "conviction": "moyenne",
   "revisions": "Couverture très faible : 2 analystes, objectif moyen de 75 $ (MarketBeat). Au T2 2026, le BPA de 1,13 $ a dépassé le consensus de 1,09 $ ; au T4 2025, il l'avait manqué de 0,29 $ (avant division). Sens des révisions récentes non confirmé.",
@@ -1116,6 +1116,13 @@
   },
   "actu": [
    {
+    "d": "22/10",
+    "fait": "Après le T3, Freedom Broker baisse légèrement son objectif de cours mais garde son avis positif (une seule source, montant non repris). Aucun nouveau communiqué de la société depuis le 20/10, à part le dépôt du rapport trimestriel.",
+    "impact": "neutre",
+    "horizon": "court",
+    "lecture": "Un analyste prend acte de la marge plus faible sans changer d'avis sur le fond. Le point à surveiller reste la marge, qui recule alors que le cuivre est cher."
+   },
+   {
     "d": "20/10",
     "fait": "Ventes +32 % mais résultat opérationnel presque stable : marge d'environ 19,8 % contre environ 25,6 % un an plus tôt (calcul à partir du communiqué), avec des frais d'acquisition et un gain de cession dans la base 2025.",
     "impact": "negatif",
@@ -1135,13 +1142,6 @@
     "impact": "positif",
     "horizon": "moyen",
     "lecture": "La demande non résidentielle compense le logement et la discipline financière est confirmée."
-   },
-   {
-    "d": "mars à juin",
-    "fait": "Rachats de Bison Metals Technologies (138,3 M$) et de Chicago Extruded Metals.",
-    "impact": "neutre",
-    "horizon": "long",
-    "lecture": "Petites acquisitions payées en cash, dans la ligne du modèle ; à surveiller si les montants grossissent."
    }
   ],
   "scenarios": [
@@ -1187,6 +1187,7 @@
    "Weinstein (stades)"
   ],
   "sources": [
+   "https://www.sec.gov/Archives/edgar/data/0000089439/000008943926000041/mli-20260926.htm",
    "https://www.sec.gov/Archives/edgar/data/0000089439/000008943926000038/exhibit991q32026earningsre.htm",
    "https://www.gurufocus.com/news/9132124/mueller-industries-mli-stock-drops-to-fourmonth-low-after-mixed-q3-earnings",
    "https://www.sec.gov/Archives/edgar/data/89439/000008943926000029/exhibit991q22026earningsre.htm",
@@ -1213,7 +1214,7 @@
     "point": null
    }
   ],
-  "veilleLe": "2026-10-28"
+  "veilleLe": "2026-10-29"
  },
  "societe": {
   "resume": "Mueller Industries fabrique des tubes en cuivre, des raccords, des vannes et des pièces en laiton ou en aluminium, surtout pour la plomberie, le chauffage et la climatisation. Concrètement, quand un plombier américain installe le réseau d'eau d'une maison ou qu'un frigoriste pose une climatisation, il utilise très souvent des tubes et raccords Mueller. La société vend aussi des barres et pièces en métal à l'industrie et des composants pour les réseaux électriques.",
