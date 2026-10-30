@@ -3,6 +3,13 @@
   "aVerifier": "Moyenne 200 jours non lue. Moyennes 50 jours et RSI lus sur la cotation Tradegate (meme action en euros). Support et resistance deduits (moyenne 100 jours et plus haut annuel), pas publies par une source. Objectif moyen des analystes deduit de l'ecart de +12,63 % affiche par Zonebourse (environ 49 €). Couverture des interets, F-score de Piotroski et multiples des concurrents non trouves. Date du T3 (29/10) issue du calendrier publie en 2025.",
   "actu": [
    {
+    "d": "30/10",
+    "fait": "Après le T3, Inderes passe à Achat avec un objectif réduit à 46 € : il baisse ses prévisions de résultat (marge ajustée attendue 18,7 % en 2026, 20 % en 2027) mais juge que la chute du cours ouvre un point d'entrée. Nordea réduit aussi son objectif tout en restant positif.",
+    "impact": "neutre",
+    "horizon": "court",
+    "lecture": "Les analystes baissent leurs chiffres de résultat, ce qui confirme que la marge est le point faible, sans remettre en cause la croissance : la thèse dépend désormais du retour vers 20 % de marge en 2027."
+   },
+   {
     "d": "29/10",
     "fait": "En conférence, pas de plan d'économies : les dépenses (marketing, salons, effectifs passés de 728 à 816 personnes, amortissements) doivent continuer. Le Moyen-Orient (environ 2 % du CA) pourrait perdre environ la moitié de ses ventes de l'an dernier. Aucune prévision chiffrée.",
     "impact": "negatif",
@@ -22,13 +29,6 @@
     "impact": "neutre",
     "horizon": "moyen",
     "lecture": "La croissance américaine reste forte mais ralentit nettement par rapport au T2 : il faudra voir si c'est un effet de base ou un essoufflement."
-   },
-   {
-    "d": "29/10",
-    "fait": "Le titre recule d'environ 13 % en séance, vers 38 €, contre près de 44 € avant la publication.",
-    "impact": "negatif",
-    "horizon": "court",
-    "lecture": "Le marché sanctionne une marge et un BPA nettement sous les attentes, malgré la croissance des ventes. Le cours entre dans la zone d'intérêt (38 à 40 €), mais pour une raison qui touche la thèse."
    }
   ],
   "cadres": [
@@ -52,7 +52,7 @@
    "score": 7,
    "valo": "PER 24,7 en 2026 et 20,1 en 2027 ; VE/EBITDA 16 puis 13,3 ; rendement du flux de tresorerie libre de 2,6 % ; dividende 1,9 %. Moyenne 2021-2025 : PER d'environ 26 et VE/EBITDA d'environ 16,4. L'action est donc a peu pres dans sa moyenne historique, qui est elle meme elevee. Multiples des concurrents non verifies."
   },
-  "majLe": "2026-10-29",
+  "majLe": "2026-10-30",
   "revisions": "Non trouvé. Consensus Achat, 4 analystes, objectif moyen 49,50 € (MarketScreener).",
   "scenarios": [
    {
@@ -89,6 +89,7 @@
    }
   ],
   "sources": [
+   "https://www.inderes.fi/research/harvia-q326-heikko-q3-avasi-ostopaikan",
    "https://www.investing.com/news/transcripts/earnings-call-transcript-harvia-q3-2026-revenue-rises-17-as-shares-fall-13-93CH-4982426",
    "https://za.investing.com/news/stock-market-news/earnings-call-transcript-harvia-q3-2026-revenue-rises-17-as-shares-fall-13-93CH-4534464",
    "https://www.inderes.fi/analyst-comments/harvia-q326-ennakko-siirtyneet-toimitukset-ja-usa-siivittanevat-tuloskasvua",
@@ -155,13 +156,17 @@
     "point": "chine-usa"
    }
   ],
-  "veilleLe": "2026-10-29"
+  "veilleLe": "2026-10-30"
  },
  "capi": "0,8 Md€",
  "cours": 38.15,
  "coursLe": "2026-10-29",
  "devise": "€",
  "faits": [
+  {
+   "d": "30/10",
+   "t": "Inderes relève sa recommandation (Achat contre Accumuler) mais baisse son objectif de 47 à 46 € et son résultat opérationnel ajusté attendu de 8 % pour 2026 et 6 % pour 2027 ; Nordea baisse aussi son objectif en restant positif. Titre stable."
+  },
   {
    "d": "29/10",
    "t": "Conférence : le directeur financier ne prévoit pas de baisse des coûts ; hors ajustement comptable, la marge du T3 aurait été de 18,9 %. Objectifs de long terme maintenus (croissance à deux chiffres, marge ajustée au-dessus de 20 %). Clôture à 38,15 €."
@@ -173,10 +178,6 @@
   {
    "d": "29/10",
    "t": "9 mois : CA 165,2 M€ (+13,8 %), marge ajustée 18,7 % (19,7 %), BPA 1,16 € (1,01 €), dette nette 60,8 M€ (1,2 fois l'EBITDA). Pas de prévision chiffrée."
-  },
-  {
-   "d": "29/10",
-   "t": "Chiffres sous le consensus de 7 analystes relevé par Inderes (CA 56,2 M€, marge 21,5 %, BPA 0,47 €). Le titre recule d'environ 13 %, vers 38 €."
   }
  ],
  "histo": [

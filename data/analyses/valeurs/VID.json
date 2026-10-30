@@ -90,6 +90,7 @@
    }
   ],
   "sources": [
+   "https://quartr.com/events/vidrala-vid-q3-2026_3emlKURp",
    "https://www.bolsamania.com/noticias/resultados-anuncios/vidrala-gana-1734-millones-a-septiembre-y-anuncia-una-nueva-recompra-de-hasta-el-1-del-capital--23936718.html",
    "https://www.vidrala.com/es/actualidad/noticias/vidrala-crece-frente-a-las-adversidades.html",
    "https://www.vidrala.com/en/investors/regulatory-filings/",
@@ -150,13 +151,17 @@
     "point": "ormuz"
    }
   ],
-  "veilleLe": "2026-10-29"
+  "veilleLe": "2026-10-30"
  },
  "capi": "3,1 Md€",
  "cours": 86.8,
  "coursLe": "2026-10-29",
  "devise": "€",
  "faits": [
+  {
+   "d": "28/10",
+   "t": "Conférence du T3 : la direction n'attend pas de reprise de la demande en 2027, mais vise des volumes en légère hausse, des prix qui suivent l'inflation, des marges globalement stables et des investissements pas plus élevés qu'en 2026 (une seule source)."
+  },
   {
    "d": "28/10",
    "t": "9 mois : CA 1 146,5 M€ (+2 %), EBITDA 338,5 M€ (+2,9 %, marge 29,5 %), BPA 4,99 € (+6,4 %), dette 0,4 fois l'EBITDA. Objectifs 2026 confirmés. Nouveau rachat jusqu'à 1 % du capital et 1 action gratuite pour 20."
@@ -168,10 +173,6 @@
   {
    "d": "26/09",
    "t": "Les deux usines portugaises sont regroupées sous le nom Vidrala Marinha : 900 salariés, 2,6 milliards d'emballages par an."
-  },
-  {
-   "d": "23/07",
-   "t": "S1 : CA 754 M€ (+0,5 %), EBITDA 225,5 M€ (marge 29,9 %), BPA +9,9 %, dette nette 0,6 fois l'EBITDA. Objectifs 2026 confirmés (EBITDA > 450 M€)."
   }
  ],
  "histo": [

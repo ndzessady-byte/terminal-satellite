@@ -3,32 +3,32 @@
   "aVerifier": "Moyenne mobile 200 jours non confirmée (Investing affichait 33,51 € le 09/09, chiffre incohérent avec une moyenne 100 jours de 37,92 € chez Zonebourse, donc écarté). RSI 14 calculé par nous en moyenne simple sur les clôtures Investing, pas lu sur un site. ROE estimée par calcul. Prix exact de Sand Cherry et taille totale du programme de rachat d'actions non confirmés. Date des résultats semestriels à confirmer. Piotroski non calculable faute de bilan détaillé.",
   "actu": [
    {
+    "d": "30/10",
+    "fait": "Le titre gagne environ 5,4 % en séance, vers 34,2 €, au lendemain du CA semestriel.",
+    "impact": "positif",
+    "horizon": "court",
+    "lecture": "Le marché salue la fin de la baisse de l'activité et la confirmation des objectifs ; la hausse ne s'appuie sur aucune autre annonce."
+   },
+   {
+    "d": "29/10",
+    "fait": "S1 stable (-1 % à périmètre et change constants) mais T2 de nouveau en croissance (+1 %, aidé par un effet jours de +1,4 %). Taux d'activité remonté à 72 %, carnet de 4,1 mois, IA à 24 % du CA. La société parle d'un plan de redressement dont les effets viendront sur deux à trois trimestres.",
+    "impact": "positif",
+    "horizon": "court",
+    "lecture": "Premiers signes que le point bas est passé (activité, carnet, IA), mais la croissance reste quasi nulle hors effet jours et les prix baissent encore : le redressement n'est pas encore prouvé."
+   },
+   {
+    "d": "29/10",
+    "fait": "Marge opérationnelle récurrente du S1 attendue vers 9,1 %, alors que l'objectif annuel de 11 à 13 % est confirmé ; États-Unis et Royaume-Uni toujours en net recul ; France vers +5 %, Allemagne, Suisse et Autriche vers -5 %.",
+    "impact": "negatif",
+    "horizon": "moyen",
+    "lecture": "Pour tenir l'objectif, le S2 devra être nettement plus rentable que le S1 : la marge, point le plus fragile de la thèse, se jouera le 02/12 et au S2."
+   },
+   {
     "d": "29/10",
     "fait": "CA du 1er semestre 2026/27 publié : activité stable et objectifs annuels confirmés selon ABC Bourse ; une dépêche parle d'un semestre difficile et d'un nouveau souffle cherché dans l'IA. Communiqué officiel pas encore consulté.",
     "impact": "neutre",
     "horizon": "court",
     "lecture": "Pas de nouvelle baisse des objectifs, ce qui écarte le pire. Mais une activité seulement stable ne montre pas encore la reprise que la thèse attend ; taux d'activité, prix et croissance organique à vérifier dans le communiqué."
-   },
-   {
-    "d": "01/10",
-    "fait": "Accenture bat les attentes avec des commandes record et monte de plus de 20 % ; la presse y voit la preuve que l'IA crée de la demande de conseil.",
-    "impact": "positif",
-    "horizon": "court",
-    "lecture": "Signal de secteur favorable, mais il ne prouve rien pour Wavestone, dont l'activité reculait encore : le vrai test reste son CA du 29/10."
-   },
-   {
-    "d": "18/09",
-    "fait": "Le rendement de l'emprunt d'État français à 10 ans monte à 4,55 % et l'écart avec l'Allemagne dépasse 100 points de base pour la première fois depuis 2012, sur fond de dérapage budgétaire.",
-    "horizon": "moyen",
-    "impact": "negatif",
-    "lecture": "Des taux plus élevés et l'incertitude politique pèsent sur les petites et moyennes valeurs françaises et peuvent freiner les budgets de conseil des grandes entreprises."
-   },
-   {
-    "d": "14/09",
-    "fait": "Acquisition du cabinet américain Sand Cherry (Denver, environ 130 salariés, clients dans les télécoms, les médias et l'énergie), pour environ 35 M$ selon Zonebourse et jusqu'à 47 M$ selon Dealroom.",
-    "horizon": "long",
-    "impact": "neutre",
-    "lecture": "Cela renforce la présence aux États-Unis, zone clé du plan 2030, mais c'est justement une région où l'activité recule : l'intégration devra être prouvée."
    }
   ],
   "cadres": [
@@ -52,7 +52,7 @@
    "score": 6,
    "valo": "Au cours de 29,8 € : PER d'environ 9,4 fois pour 2026/27 et 8,1 fois pour 2027/28 (bénéfices par action de 3,17 € et 3,68 € selon Zonebourse), contre une moyenne d'environ 17 fois sur les cinq exercices 2021/22 à 2025/26 (18 ; 17,7 ; 20,7 ; 15,7 ; 13,7). Valeur d'entreprise sur EBITDA d'environ 4,7 fois pour 2026/27 et rendement du flux de trésorerie disponible proche de 13 % (Zonebourse). C'est l'une des valorisations les plus basses du secteur des services informatiques en France."
   },
-  "majLe": "2026-10-29",
+  "majLe": "2026-10-30",
   "revisions": "Stables : BPA 2026 attendu à 3,35 €, identique il y a 1 et 3 mois ; 3,28 € en 2027 (Boursorama).",
   "scenarios": [
    {
@@ -89,6 +89,8 @@
    }
   ],
   "sources": [
+   "https://www.boursorama.com/bourse/actualites/wavestone-chiffre-d-affaires-stable-au-1er-semestre-2026-27-457-2-m-eur-confirmation-des-objectifs-2026-27-revises-2a2174bd6e16e0f3c5faab8553506b1a",
+   "https://www.webdisclosure.fr/press-release/wavestone-epa-wave-chiffre-daffaires-stable-au-1er-semestre-202627-4572-m-eur-confirmation-des-objectifs-202627-revises-Nahja90fZ9L",
    "https://www.optionfinance.fr/info-financiere-en-continu/d/2026-10-29-wavestone-cherche-un-nouveau-souffle-dans-lia-apres-un-semestre-difficile.html",
    "https://www.abcbourse.com/marches/wavestone-affiche-un-chiffre-daffaires-stable-au-1er-semestre-202627-a-457-2-m_705223",
    "https://www.webdisclosure.fr/article/wavestone-epa-wave-wavestone-procede-a-un-rachat-dactions-en-octobre-2026-APtYuVCw2l2",
@@ -145,7 +147,7 @@
     "point": "france"
    }
   ],
-  "veilleLe": "2026-10-29"
+  "veilleLe": "2026-10-30"
  },
  "capi": "730 M€",
  "cours": 32.4,
@@ -153,20 +155,20 @@
  "devise": "€",
  "faits": [
   {
+   "d": "30/10",
+   "t": "Le titre monte d'environ 5,4 %, vers 34,2 € en début d'après-midi, au lendemain du CA semestriel (seule nouvelle de la société)."
+  },
+  {
+   "d": "29/10",
+   "t": "Communiqué officiel du S1 2026/27 : CA 457,2 M€ (458,1 M€), stable en publié et -1 % à périmètre et change constants ; T2 230,2 M€ (+1 % à périmètre et change constants, effet jours de +1,4 %), après -2 % au T1."
+  },
+  {
+   "d": "29/10",
+   "t": "Taux d'activité 72 % (71 % au T1), prix journalier 923 € (-1,6 %), carnet de 4,1 mois (3,6 un an plus tôt), IA 24 % du CA (17 % sur 2025/26). Marge opérationnelle récurrente du S1 attendue vers 9,1 % ; objectifs 2026/27 confirmés (CA de -1 % à légère croissance, marge de 11 à 13 %)."
+  },
+  {
    "d": "29/10",
    "t": "CA du 1er semestre 2026/27 publié après la clôture : selon ABC Bourse, activité stable, T2 un peu meilleur que le T1, objectifs annuels révisés en juillet confirmés. Chiffres non repris tant que le communiqué officiel n'est pas consulté (une seule source)."
-  },
-  {
-   "d": "19/10",
-   "t": "Les rachats d'actions continuent : déclarations publiées les 12/10 et 19/10 (dont 3 000 actions le 13/10 à 29,7 € en moyenne)."
-  },
-  {
-   "d": "01/10",
-   "t": "Accenture publie des résultats meilleurs que prévu avec des commandes record ; son titre bondit de plus de 20 % et Capgemini de 7 à 9 % à Paris."
-  },
-  {
-   "d": "28/09",
-   "t": "Déclaration des rachats d'actions du 21 au 25/09 publiée."
   }
  ],
  "histo": [
@@ -1459,37 +1461,37 @@
     {
      "c": "Que la vague de l'IA crée plus de missions de conseil (le groupe vise 25 % d'activité nouvelle) qu'elle n'en détruit.",
      "etat": "watch",
-     "preuve": "01/10/2026 : Accenture +20 % après ses résultats, Capgemini +7 à 9 %.",
+     "preuve": "S1 2026/27 : IA 24 % du CA, CA total 457,2 M€.",
      "prochain": "CA du T2 le 29/10/2026",
-     "reponse": "Signal de secteur positif (Accenture, commandes record portées par l'IA), mais le CA de Wavestone reculait encore au T1.",
-     "source": "https://www.boursorama.com/bourse/actualites/les-resultats-d-accenture-propulsent-capgemini-en-tete-du-cac-40-7169cda288b8059734a2429c208def73"
+     "reponse": "Les activités liées à l'IA montent vite (24 % du CA du S1 contre 17 %), mais le CA total reste stable : l'IA remplace surtout d'autres missions pour l'instant.",
+     "source": "https://www.webdisclosure.fr/press-release/wavestone-epa-wave-chiffre-daffaires-stable-au-1er-semestre-202627-4572-m-eur-confirmation-des-objectifs-202627-revises-Nahja90fZ9L"
     },
     {
      "c": "Que Wavestone réussisse sa percée aux États-Unis et au Royaume-Uni par acquisitions (400 à 500 M€ prévus d'ici 2030) sans surpayer.",
      "etat": "watch",
-     "preuve": "Sand Cherry payée 35 M$ pour environ 31,5 M$ de CA visé (environ 7,4 fois l'EBITDA, calcul fait à partir de la marge de 15 %) ; objectif 2030 de 350 M€ de CA aux États-Unis et au Royaume-Uni ; CA américain combiné d'environ 103 M€.",
+     "preuve": "Communiqué du 29/10/2026.",
      "prochain": "CA du T2 le 29/10/2026",
-     "reponse": "Les rachats se font à des prix raisonnables, mais la percée aux États-Unis et au Royaume-Uni n'est pas encore visible dans les chiffres, qui reculent.",
-     "source": "https://www.wavestone.com/en/regul-information/wavestone-continues-its-expansion-in-the-united-states-with-the-acquisition-of-sand-cherry/"
+     "reponse": "Pas encore visible : CA aux États-Unis et au Royaume-Uni en net recul sur le S1 ; Sand Cherry consolidée depuis le 01/09.",
+     "source": "https://www.webdisclosure.fr/press-release/wavestone-epa-wave-chiffre-daffaires-stable-au-1er-semestre-202627-4572-m-eur-confirmation-des-objectifs-202627-revises-Nahja90fZ9L"
     },
     {
      "c": "Que la marge remonte de 12,6 % vers 14 à 16 % en 2030 malgré une croissance organique faible.",
      "etat": "ko",
-     "preuve": "Objectif de marge 2026/27 ramené à 11 à 13 % (contre environ 13 %), après 12,6 % en 2025/26 ; objectif 2030 maintenu à 14 à 16 %.",
+     "preuve": "Communiqué du 29/10/2026.",
      "prochain": "Résultats semestriels le 02/12/2026",
-     "reponse": "Pour l'instant la marge va dans le mauvais sens : l'objectif de l'exercice a été abaissé, sous le niveau de l'an dernier en milieu de fourchette.",
-     "source": "https://www.wavestone.com/en/regul-information/q1-2026-27-revenue-down-2-annual-targets-adjusted-ai-builders-targeted-acquisition-of-a-french-ai-and-data-player/"
+     "reponse": "Toujours dans le mauvais sens : marge du S1 attendue vers 9,1 %, objectif annuel abaissé à 11 à 13 % confirmé. Chiffre définitif le 02/12.",
+     "source": "https://www.webdisclosure.fr/press-release/wavestone-epa-wave-chiffre-daffaires-stable-au-1er-semestre-202627-4572-m-eur-confirmation-des-objectifs-202627-revises-Nahja90fZ9L"
     }
    ],
-   "le": "2026-10-02",
+   "le": "2026-10-30",
    "questions": [
     {
-     "etat": "ko",
-     "preuve": "T1 2026/27 : taux d'activité 71 % (72 % sur 2025/26), prix journalier moyen 926 € (-1,3 %), CA -2 % à périmètre et change constants.",
+     "etat": "watch",
+     "preuve": "S1 2026/27 : taux d'activité 72 %, prix journalier 923 € (-1,6 %), CA -1 % à périmètre et change constants, T2 +1 %.",
      "prochain": "CA du T2 le 29/10/2026",
      "q": "Le taux d'occupation des consultants et les prix journaliers remontent-ils, ou la croissance organique reste-t-elle proche de zéro ?",
-     "reponse": "Non : les deux indicateurs baissent encore et l'activité recule hors acquisitions.",
-     "source": "https://www.wavestone.com/en/regul-information/q1-2026-27-revenue-down-2-annual-targets-adjusted-ai-builders-targeted-acquisition-of-a-french-ai-and-data-player/"
+     "reponse": "En partie : le taux d'activité remonte à 72 % après 71 % au T1 et le T2 repasse en croissance (+1 % à périmètre et change constants), mais le prix journalier baisse encore et la croissance reste proche de zéro.",
+     "source": "https://www.webdisclosure.fr/press-release/wavestone-epa-wave-chiffre-daffaires-stable-au-1er-semestre-202627-4572-m-eur-confirmation-des-objectifs-202627-revises-Nahja90fZ9L"
     },
     {
      "etat": "watch",
