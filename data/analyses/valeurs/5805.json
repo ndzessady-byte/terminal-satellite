@@ -3,8 +3,8 @@
  "nom": "SWCC",
  "pays": "JP",
  "secteur": "Câbles électriques et de communication",
- "cours": 2338.0,
- "coursLe": "2026-10-29",
+ "cours": 2297.5,
+ "coursLe": "2026-10-30",
  "devise": "JPY",
  "capi": "environ 408 Md¥ (environ 2,3 Md€)",
  "per26": 17.4,
@@ -37,10 +37,6 @@
  "yahoo": "5805.T",
  "compte": "CTO",
  "histo": [
-  [
-   "03/10",
-   1488.0
-  ],
   [
    "06/10",
    1542.0
@@ -1075,13 +1071,17 @@
   ],
   [
    "29/10",
-   2338.0
+   2378.0
+  ],
+  [
+   "30/10",
+   2297.5
   ]
  ],
  "perf": {
-  "m1": -9.9,
-  "m3": 1.8,
-  "m12": 59.0
+  "m1": -14.9,
+  "m3": 6.6,
+  "m12": 62.7
  },
  "analyse": {
   "majLe": "2026-10-30",
@@ -1100,18 +1100,18 @@
    "greenblatt": "Rendement bénéficiaire calculé (résultat opérationnel prévu de 33 Md¥ / valeur d'entreprise de 433 Md¥) d'environ 7,6 % et ROIC visé de 13,8 % cette année : profil correct sur la formule magique, sans être exceptionnel."
   },
   "tech": {
-   "cours": 2338.0,
-   "coursLe": "2026-10-29",
-   "mm50": 2679.64,
-   "mm200": 2681.46,
-   "rsi14": 40.5,
+   "cours": 2297.5,
+   "coursLe": "2026-10-30",
+   "mm50": 2667.67,
+   "mm200": 2682.19,
+   "rsi14": 39.5,
    "haut52": 3806.0,
    "bas52": 1412.0,
    "support": 2580,
    "resistance": 2940,
    "tendance": "baissiere",
    "stade": 4,
-   "lecture": "Cours de 2 338,00 en dessous de sa moyenne 50 jours (2 679,64) et en dessous de sa moyenne 200 jours (2 681,46). RSI 40,5 : élan neutre. Il se situe à 39 % de sa fourchette sur un an (de 1 412,00 à 3 806,00), performance sur 12 mois de 59,0 %. Clôture du 29/10/2026.",
+   "lecture": "Cours de 2 297,50 en dessous de sa moyenne 50 jours (2 667,67) et en dessous de sa moyenne 200 jours (2 682,19). RSI 39,5 : élan neutre. Il se situe à 37 % de sa fourchette sur un an (de 1 412,00 à 3 806,00), performance sur 12 mois de 62,7 %. Clôture du 30/10/2026.",
    "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json"
   },
   "actu": [

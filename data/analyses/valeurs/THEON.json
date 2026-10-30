@@ -3,8 +3,8 @@
  "nom": "Theon International",
  "pays": "CY",
  "secteur": "Défense (vision nocturne et optronique)",
- "cours": 30.64,
- "coursLe": "2026-10-29",
+ "cours": 30.42,
+ "coursLe": "2026-10-30",
  "devise": "€",
  "capi": "environ 2,3 Md€",
  "per26": 19.5,
@@ -37,10 +37,6 @@
  "yahoo": "THEON.AS",
  "compte": "PEA",
  "histo": [
-  [
-   "23/10",
-   28.6
-  ],
   [
    "24/10",
    28.35
@@ -1076,12 +1072,16 @@
   [
    "29/10",
    30.64
+  ],
+  [
+   "30/10",
+   30.42
   ]
  ],
  "perf": {
-  "m1": 6.5,
-  "m3": -9.9,
-  "m12": 4.8
+  "m1": 5.4,
+  "m3": -12.6,
+  "m12": -1.2
  },
  "analyse": {
   "majLe": "2026-10-29",
@@ -1100,18 +1100,18 @@
    "greenblatt": "Rendement bénéficiaire (EBIT 2026 attendu / valeur d'entreprise) d'environ 6,2 % et rendement du capital élevé hors participations (peu d'investissements industriels) : profil correct mais pas exceptionnel sur la formule magique, car la valeur d'entreprise intègre désormais une dette et des participations financières."
   },
   "tech": {
-   "cours": 30.64,
-   "coursLe": "2026-10-29",
-   "mm50": 30.54,
-   "mm200": 31.7,
-   "rsi14": 56.6,
+   "cours": 30.42,
+   "coursLe": "2026-10-30",
+   "mm50": 30.44,
+   "mm200": 31.69,
+   "rsi14": 55.3,
    "haut52": 38.32,
    "bas52": 23.8,
    "support": 27.25,
    "resistance": 31.8,
-   "tendance": "neutre",
-   "stade": 1,
-   "lecture": "Cours de 30,64 au-dessus de sa moyenne 50 jours (30,54) et en dessous de sa moyenne 200 jours (31,70). RSI 56,6 : élan neutre. Il se situe à 47 % de sa fourchette sur un an (de 23,80 à 38,32), performance sur 12 mois de 4,8 %. Clôture du 29/10/2026.",
+   "tendance": "baissiere",
+   "stade": 4,
+   "lecture": "Cours de 30,42 en dessous de sa moyenne 50 jours (30,44) et en dessous de sa moyenne 200 jours (31,69). RSI 55,3 : élan neutre. Il se situe à 46 % de sa fourchette sur un an (de 23,80 à 38,32), performance sur 12 mois de -1,2 %. Clôture du 30/10/2026.",
    "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json"
   },
   "actu": [

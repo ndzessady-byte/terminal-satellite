@@ -110,14 +110,14 @@
   ],
   "tech": {
    "bas52": 49.86,
-   "cours": 57.5,
-   "coursLe": "2026-10-29",
+   "cours": 55.6,
+   "coursLe": "2026-10-30",
    "haut52": 85.8,
-   "lecture": "Cours de 57,50 en dessous de sa moyenne 50 jours (64,13) et en dessous de sa moyenne 200 jours (66,73). RSI 38,3 : élan neutre. Il se situe à 21 % de sa fourchette sur un an (de 49,86 à 85,80), performance sur 12 mois de -5,1 %. Clôture du 29/10/2026.",
-   "mm200": 66.73,
-   "mm50": 64.13,
+   "lecture": "Cours de 55,60 en dessous de sa moyenne 50 jours (63,95) et en dessous de sa moyenne 200 jours (66,69). RSI 34,2 : élan neutre. Il se situe à 16 % de sa fourchette sur un an (de 49,86 à 85,80), performance sur 12 mois de -3,9 %. Clôture du 30/10/2026.",
+   "mm200": 66.69,
+   "mm50": 63.95,
    "resistance": 70.8,
-   "rsi14": 38.3,
+   "rsi14": 34.2,
    "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json",
    "stade": 4,
    "support": 62.8,
@@ -156,8 +156,8 @@
   "veilleLe": "2026-10-30"
  },
  "capi": "2,7 Md€",
- "cours": 57.5,
- "coursLe": "2026-10-29",
+ "cours": 55.6,
+ "coursLe": "2026-10-30",
  "devise": "€",
  "faits": [
   {
@@ -178,10 +178,6 @@
   }
  ],
  "histo": [
-  [
-   "23/10",
-   62.05
-  ],
   [
    "24/10",
    62.05
@@ -1217,6 +1213,10 @@
   [
    "29/10",
    57.5
+  ],
+  [
+   "30/10",
+   55.6
   ]
  ],
  "nom": "Melexis",
@@ -1225,9 +1225,9 @@
  "per26": 22,
  "per27": 16.9,
  "perf": {
-  "m1": -16.7,
-  "m3": -16.5,
-  "m12": -5.1
+  "m1": -18.4,
+  "m3": -21.5,
+  "m12": -3.9
  },
  "pub": null,
  "pubLabel": "Résultats annuels 2026 et dividende (début février 2027, date non confirmée)",
