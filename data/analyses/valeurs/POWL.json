@@ -14,6 +14,10 @@
  "risque": "Valorisation d'environ 35 fois les bénéfices des 12 derniers mois alors que le BPA ne progresse que d'environ 8 % et a manqué le consensus deux trimestres de suite ; dépendance encore forte au pétrole, au gaz et à la pétrochimie ; risque d'exécution sur les très grosses commandes ; risque de change sur le dollar.",
  "faits": [
   {
+   "d": "30/10",
+   "t": "Baisse d'environ 8 % sans nouvelle de la société, dans une vente générale des valeurs liées à l'IA et aux data centers après les résultats d'Amazon et d'Intel ; nVent, autre fournisseur d'équipements électriques pour data centers, recule sur des commandes jugées faibles."
+  },
+  {
    "d": "22/10",
    "t": "Clôture à 150,71 $, près du plus bas de la séance (149,25 $), sans communiqué."
   },
@@ -24,10 +28,6 @@
   {
    "d": "15/10",
    "t": "Les valeurs liées aux data centers d'IA reculent avec le choc CoreWeave et une inflation américaine plus forte que prévu."
-  },
-  {
-   "d": "13/10",
-   "t": "JP Morgan garde « surpondérer » mais abaisse son objectif de 300 $ à 250 $."
   }
  ],
  "pub": null,
@@ -1084,7 +1084,7 @@
   "m12": 22.8
  },
  "analyse": {
-  "majLe": "2026-10-01",
+  "majLe": "2026-10-30",
   "verdict": "Powell vit un changement d'échelle : le carnet de commandes a presque doublé en un an pour atteindre 2,4 Md$, tiré par les data centers et les réseaux électriques, avec un bilan sans dette et 634 M$ de trésorerie. Mais le bénéfice ne suit pas encore (BPA +8 % au T3, deux trimestres sous les attentes), et l'action reste chère à environ 35 fois les bénéfices des 12 derniers mois malgré sa chute de 43 % depuis mai. Le dossier dépend presque entièrement de la capacité à livrer ce carnet avec de bonnes marges en 2027 et 2028. À suivre de près, avec une marge de sécurité encore faible.",
   "conviction": "moyenne",
   "revisions": "Mouvement plutôt à la baisse sur les objectifs : Cantor Fitzgerald est passé de 320 $ à 235 $ le 14/08/2026. Objectif moyen de 280 $ pour 4 analystes selon StockAnalysis (une seule source). Le BPA du T3 (1,42 $) a manqué le consensus de 1,49 $, deuxième déception d'affilée.",
@@ -1116,6 +1116,13 @@
   },
   "actu": [
    {
+    "d": "30/10",
+    "fait": "Nouvelle forte baisse sans communiqué, au milieu d'une vente générale des valeurs d'infrastructure pour l'IA : doutes sur le retour des dépenses d'IA après Amazon et Intel, commandes de nVent jugées faibles.",
+    "impact": "negatif",
+    "horizon": "court",
+    "lecture": "Le titre suit le sentiment sur les dépenses des data centers plus que ses propres chiffres ; la question du carnet transformé en bénéfices reste ouverte jusqu'aux résultats annuels."
+   },
+   {
     "d": "22/10",
     "fait": "Forte baisse en séance sans nouvelle propre à Powell, dans une semaine de repli des valeurs d'équipements électriques liées à l'IA, sur fond de doutes sur le financement des data centers.",
     "impact": "negatif",
@@ -1135,13 +1142,6 @@
     "impact": "neutre",
     "horizon": "court",
     "lecture": "L'analyste reconnaît la demande mais reste prudent sur la valorisation et la conversion du carnet en bénéfices."
-   },
-   {
-    "d": "14/08",
-    "fait": "Cantor Fitzgerald ramène son objectif de 320 $ à 235 $ ; la direction indique que les capacités déjà louées suffisent pour exécuter le carnet actuel, la future usine servant à la croissance au-delà.",
-    "impact": "neutre",
-    "horizon": "moyen",
-    "lecture": "Réduit le risque d'exécution, mais confirme que la hausse du chiffre d'affaires sera progressive et non explosive."
    }
   ],
   "scenarios": [
@@ -1187,6 +1187,8 @@
    "Weinstein (stades)"
   ],
   "sources": [
+   "https://www.staradvertiser.com/2026/10/30/breaking-news/tech-stocks-tumble-as-amazon-intel-fuel-ai-spending-fears/",
+   "https://www.aaii.com/investingideas/article/550288-why-powell-industries-inc8217s-powl-stock-is-down-571",
    "https://markets.financialcontent.com/bpas/quote/nq:powl",
    "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-sinks-11-vertiv-134456087.html",
    "https://www.gurufocus.com/news/9121564/powl-maintained-by-jp-morgan-price-target-lowered-to-250",

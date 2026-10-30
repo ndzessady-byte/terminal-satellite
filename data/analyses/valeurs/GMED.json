@@ -14,6 +14,10 @@
  "risque": "Nevro et la robotique reculent en 2026, la croissance hors acquisitions reste autour de 5 à 7 %, et le bénéfice comptable est nettement inférieur au bénéfice ajusté (PER d'environ 19 sur le comptable). Risque de change pour un investisseur en euros.",
  "faits": [
   {
+   "d": "30/10",
+   "t": "Baisse d'environ 6 % sans nouvelle de la société, une semaine avant les résultats du T3 du 05/11, alors que le secteur santé monte ce jour-là."
+  },
+  {
    "d": "14/10",
    "t": "Présentation au salon NASS 2026 des implants sur mesure SCRIPT et d'une nouvelle technique XLIF en position ventrale."
   },
@@ -24,10 +28,6 @@
   {
    "d": "03/09",
    "t": "Marquage CE en Europe pour le système d'imagerie Excelsius3D, qui complète le robot ExcelsiusGPS."
-  },
-  {
-   "d": "26/08",
-   "t": "Rachat de Higgs Boson Health (outils numériques fondés sur l'IA pour les hôpitaux), montant non communiqué."
   }
  ],
  "pub": "2026-11-05",
@@ -1084,7 +1084,7 @@
   "m12": 28.3
  },
  "analyse": {
-  "majLe": "2026-10-28",
+  "majLe": "2026-10-30",
   "verdict": "Globus Medical est devenu, avec la fusion NuVasive, un poids lourd des implants pour la colonne vertébrale, très rentable (marge d'EBITDA ajustée de 35 % au T2), sans dette et avec 840 M$ de trésorerie. L'action a reculé d'environ 23 % depuis son sommet de 96,82 $ et se paie environ 15 fois le bénéfice ajusté 2026, ce qui est raisonnable pour une croissance du bénéfice proche de 8 % par an ensuite. Les deux points faibles sont Nevro et les robots, en recul en 2026, et l'écart entre bénéfice ajusté et bénéfice comptable.",
   "conviction": "moyenne",
   "revisions": "Orientées à la hausse : l'objectif de BPA ajusté 2026 de la société est passé de 4,30 à 4,40 $ (fin 2025) à 4,40 à 4,50 $ (février), 4,70 à 4,80 $ (mai) puis 4,95 à 5,05 $ (août). Objectif de ventes inchangé à 3,18 à 3,22 Md$. Objectif de cours moyen de 103,23 $ (15 analystes, fourchette 84 à 125 $), avec quelques baisses d'objectifs après le T2 (Wells Fargo de 103 à 99 $, Truist de 82 à 80 $).",
@@ -1116,6 +1116,13 @@
   },
   "actu": [
    {
+    "d": "30/10",
+    "fait": "Recul d'environ 6 % sans communiqué ni changement d'avis d'analyste, alors que le secteur santé monte dans un marché qui vend les valeurs liées à l'IA.",
+    "impact": "neutre",
+    "horizon": "court",
+    "lecture": "Mouvement de cours sans information nouvelle avant les résultats du 05/11, qui diront si la colonne vertébrale continue de gagner des parts de marché."
+   },
+   {
     "d": "14/10",
     "fait": "Globus présente au congrès américain de la colonne vertébrale (NASS) ses implants fabriqués sur mesure pour chaque patient (SCRIPT) et une nouvelle technique opératoire XLIF.",
     "impact": "neutre",
@@ -1135,13 +1142,6 @@
     "impact": "neutre",
     "horizon": "long",
     "lecture": "Petite acquisition technologique, sans effet sur le bilan, qui renforce l'écosystème autour du robot."
-   },
-   {
-    "d": "06/08",
-    "fait": "T2 2026 : ventes de 789,6 M$ (+5,9 %, +9 % hors Nevro), BPA ajusté de 1,34 $ (+55,8 %), objectif de BPA ajusté 2026 relevé à 4,95 à 5,05 $ mais objectif de ventes inchangé.",
-    "impact": "positif",
-    "horizon": "moyen",
-    "lecture": "La rentabilité progresse plus vite que prévu, mais la direction reste prudente sur les ventes à cause de Nevro et des robots."
    }
   ],
   "scenarios": [
@@ -1187,6 +1187,7 @@
    "Weinstein (stades)"
   ],
   "sources": [
+   "https://www.aaii.com/investingideas/article/513099-why-globus-medical-inc8217s-gmed-stock-is-down-598",
    "https://finviz.com/news/401371/globus-medical-schedules-third-quarter-earnings-release-and-conference-call",
    "https://www.globenewswire.com/news-release/2026/08/06/3340797/0/en/globus-medical-reports-second-quarter-2026-results.html",
    "https://www.globenewswire.com/news-release/2026/02/24/3244064/0/en/globus-medical-reports-fourth-quarter-and-full-year-2025-results.html",
