@@ -1,8 +1,8 @@
 {
  "asOf": "2026-10-30",
  "attention": [
-  "Mobilisation le 31/10 ; vote sur les recettes du budget et élections américaines le 03/11 ; inflation zone euro le 04/11.",
-  "Globus publie le 05/11, Theon le 09/11, USS le 10/11, SWCC le 11/11.",
+  "03/11 : élections américaines et vote sur les recettes du budget ; frappes sur l'Iran possibles après le scrutin.",
+  "04/11 : inflation de la zone euro d'octobre ; 05/11 : Banque d'Angleterre et résultats de Globus ; 06/11 : emploi américain.",
   "En zone d'intérêt : Melexis, Mueller, Trigano, USS, et après leur chute Harvia et Lectra (thèses touchées)."
  ],
  "etf": {
@@ -15,10 +15,10 @@
  "macro": [
   {
    "label": "CAC 40",
-   "valeur": "vers 7 955",
-   "var": "-0,15 %",
+   "valeur": "7 969,42",
+   "var": "-0,01 %",
    "sens": 0,
-   "note": "30/10 vers midi ; clôture du 29/10 à 7 970"
+   "note": "clôture du 30/10 ; +2,40 % sur la semaine, la meilleure depuis début août"
   },
   {
    "label": "OAT 10 ans",
@@ -43,25 +43,25 @@
   },
   {
    "label": "Brent",
-   "valeur": "vers 116 $",
-   "var": "+1 %",
-   "sens": 1,
-   "note": "30/10 midi, contrat de décembre qui expire ; près de +11 % sur octobre (Reuters)"
+   "valeur": "vers 113,6 $",
+   "var": "n.c.",
+   "sens": 0,
+   "note": "contrat de janvier, référence à partir de lundi ; décembre vers 117 $ à son échéance ; clôture non confirmée"
   },
   {
    "label": "EUR/USD",
-   "valeur": "vers 1,118",
+   "valeur": "vers 1,117",
    "var": "stable",
    "sens": 0,
-   "note": "30/10 midi, juste au-dessus du plus bas depuis mai 2025"
+   "note": "clôture européenne du 30/10, deux sources"
   }
  ],
  "majLe": "2026-10-28T21:00:00+01:00",
  "semaine": "5 au 9 octobre 2026",
  "semaineTexte": [
-  "Vendredi 30/10 : la France recule au T3 (-0,1 %) et son inflation monte à 3,4 % ; CAC 40 presque stable vers 7 955 pts, gaz au-dessus de 100 € le MWh.",
-  "Jeudi 29/10 : BCE inchangée à 2,50 % mais inquiète de l'inflation, Lagarde partira le 07/02. Lectra -20 %, Harvia -13 %, DNO trimestre record, Theon +7 %.",
-  "Mercredi 28/10 : Aubay relève son objectif ; Alten et Melexis reculent malgré des publications correctes."
+  "Semaine : CAC 40 +2,4 % à 7 969 pts malgré la chute de la tech américaine ; la BCE garde son taux à 2,50 % mais s'inquiète de l'inflation, Lagarde partira le 07/02 ; la France recule au T3 (-0,1 %) avec une inflation à 3,4 %.",
+  "Tes valeurs : Lectra -20 % et Harvia -13 % (thèses touchées), Wavestone +12 % en deux jours (T2 de nouveau en croissance), DNO trimestre record, Aubay relève son objectif.",
+  "Énergie : Brent vers 114 à 117 $, gaz européen au-dessus de 100 € le MWh, incidents à Ormuz et reprise des frappes ukrainiennes sur les raffineries russes."
  ],
  "watchlistValidee": false
 }

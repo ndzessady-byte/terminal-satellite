@@ -1,5 +1,5 @@
 {
- "lecture": "La France recule au T3 (-0,1 %) pendant que son inflation monte à 3,4 % : l'économie ralentit et les prix accélèrent, ce qui complique le budget voté le 03/11. L'énergie reste le moteur principal : Brent vers 116 $ sur des incidents à Ormuz encore mal vérifiés, gaz européen au-dessus de 100 € avec des stocks bas. Prochain rendez-vous : l'inflation de la zone euro d'octobre, le 04/11.",
+ "lecture": "Le CAC 40 finit la semaine en hausse de 2,4 % malgré la chute de la tech américaine, porté par les résultats d'entreprises. L'énergie reste le principal risque : pétrole et gaz très chers, incidents à Ormuz et reprise des frappes ukrainiennes sur les raffineries russes, même si Trump et le Qatar laissent espérer une sortie de guerre. Semaine chargée : élections américaines et vote du budget le 03/11, inflation de la zone euro le 04/11, emploi américain le 06/11.",
  "majLe": "2026-10-30",
  "matieres": {
   "ALU": {
@@ -70,6 +70,10 @@
    "faits": [
     {
      "d": "30/10",
+     "t": "Trump affirme que la guerre avec l'Iran sera « bientôt terminée » ; des médiateurs qataris sont revenus à Téhéran avec un projet d'accord. Selon des sources maritimes citées par Reuters, l'explosif posé sur un pétrolier près de Khasab serait la première attaque réussie de ce type depuis février. Brent de décembre vers 117 $ en séance."
+    },
+    {
+     "d": "30/10",
      "t": "L'Iran affirme que quatre pétroliers ont heurté des mines ; rien n'est vérifié et l'armée américaine dément. Seul incident confirmé par l'UKMTO : un pétrolier touché au nord-est de Khasab (Oman) par des explosifs posés sur la coque, équipage sain et sauf. Le Brent remonte vers 116 $ et gagne près de 11 % sur octobre, quatrième mois de hausse d'affilée."
     },
     {
@@ -87,10 +91,6 @@
     {
      "d": "27/10",
      "t": "Le Brent recule vers 114 $ après un plus haut depuis juin 2022 vers 116 $ le 23/10, sur l'espoir de discussions entre les États-Unis et l'Iran."
-    },
-    {
-     "d": "22/10",
-     "t": "Escalade en Arabie saoudite : les Houthis frappent l'aéroport de Dammam (2 morts) et Yanbu, Aramco fait évacuer son siège de Dhahran et Washington retire son personnel non essentiel. Les Gardiens revendiquent de nouvelles frappes sur des navires ; Brent vers 112 à 113 $."
     }
    ],
    "id": "ormuz",
@@ -120,6 +120,8 @@
    "region": "Moyen-Orient / Golfe",
    "resume": "La guerre avec l'Iran, commencée fin février 2026, bloque toujours le détroit d'Ormuz par où passait environ un cinquième du pétrole mondial, et les États-Unis maintiennent un blocus des ports iraniens. Fin septembre, Trump a rejeté le plan iranien de réouverture et un vraquier a encore été touché près d'Oman. Le Brent est repassé au-dessus de 100 $ et c'est le premier moteur de l'inflation et des taux en ce moment.",
    "sources": [
+    "https://www.haaretz.com/us-news/2026-10-30/ty-article/trump-iran-war-will-end-soon-need-guarantee-tehran-wont-obtain-nuclear-weapon/000001a1-8cb2-def7-adad-8efa8b890000",
+    "https://www.thenationalnews.com/business/markets/2026/10/30/oil-prices-set-for-sharp-monthly-rise-on-hormuz-strikes-and-us-threat-to-hit-iran/",
     "https://arynews.tv/oil-set-for-fourth-monthly-gain-as-hormuz-tanker-attack-highlights-supply-risks-from-war",
     "https://www.cnbc.com/2026/10/30/iran-trump-hormuz-oil-middle-east-.html",
     "https://virginiabusiness.com/oil-prices-fall-middle-east-diplomacy-supply-fears/",
@@ -309,6 +311,10 @@
    "faits": [
     {
      "d": "30/10",
+     "t": "Mobilisation du 31/10 : le tribunal administratif autorise le défilé de la CGT entre Bastille et Nation, le gouvernement fait appel ; 70 000 policiers et gendarmes mobilisés, couvre-feu à République et Châtelet du 31/10 au 02/11, manifestations interdites à Marseille et dans le centre de Lyon."
+    },
+    {
+     "d": "30/10",
      "t": "Le PIB français recule de 0,1 % au T3 (Insee) : exportations -1,7 %, investissement -0,6 %. L'inflation monte à 3,4 % sur un an en octobre (3,1 % en septembre), tirée par l'énergie. Vote sur les recettes du budget toujours prévu le 03/11, mobilisation maintenue le 31/10."
     },
     {
@@ -326,10 +332,6 @@
     {
      "d": "23/10",
      "t": "Moody's rend sa décision ce soir : note actuelle Aa3 avec perspective négative (S&P et Fitch déjà à A+). Une baisse d'un cran à A1 est largement attendue."
-    },
-    {
-     "d": "22/10",
-     "t": "Lecornu reçoit les partis à Matignon sur l'ordre public ; Moody's rend sa décision sur la note de la France vendredi 23/10."
     }
    ],
    "id": "france",
@@ -343,6 +345,8 @@
    "region": "France",
    "resume": "Le gouvernement Lecornu présente un budget 2027 avec 54 Md€ d'effort pour ramener le déficit vers 4,8 à 5 % du PIB, mais la gauche promet la censure et le RN reste l'arbitre. L'écart de taux avec l'Allemagne est élevé mais s'est un peu détendu en fin de semaine dernière. C'est le risque principal pour les valeurs très françaises de ta liste.",
    "sources": [
+    "https://www.publicsenat.fr/actualites/politique/mobilisation-du-31-octobre-a-quoi-faut-il-sattendre",
+    "https://www.franceinfo.fr/societe/manifestations/direct-manifestations-du-31-octobre-le-parcours-du-defile-parisien-objet-d-un-bras-de-fer-entre-les-syndicats-et-les-autorites_8259785.html",
     "https://www.lalibre.be/dernieres-depeches/2026/10/30/en-france-le-pib-recule-au-3eme-trimestre-et-leconomie-francaise-est-a-larret-UHW4XPDVIFG65IBNED3EJGLIMQ/",
     "https://www.insee.fr/fr/statistiques/9111036",
     "https://elections2027.com/article/2026-10-27-david-amiel-cible-l-optimisation-fiscale-pour-le-budget-2027",
@@ -483,6 +487,10 @@
    "faits": [
     {
      "d": "30/10",
+     "t": "Moscou confirme que des drones ukrainiens ont visé trois raffineries et un complexe gazochimique dans la nuit et dit avoir intercepté plus de 1 000 drones, un record : les frappes sur les raffineries reprennent, ce qui ajoute un risque sur le diesel."
+    },
+    {
+     "d": "30/10",
      "t": "Selon le Wall Street Journal, l'Ukraine avait suspendu ses frappes sur les raffineries russes depuis la mi-octobre sous la pression de Washington ; dans la nuit, une attaque de drones vise la région de Samara et un incendie touche une raffinerie Rosneft, ce qui mettrait fin à cette pause."
     },
     {
@@ -500,10 +508,6 @@
     {
      "d": "21/10",
      "t": "Après trois heures avec Witkoff, Moscou se dit prêt à reprendre des pourparlers à trois après le 10/11, sans reculer sur ses exigences."
-    },
-    {
-     "d": "21/10",
-     "t": "Witkoff rencontre Zelensky à Oslo puis Poutine à Saint-Pétersbourg ; Poutine propose de rencontrer Trump en Chine. Les frappes continuent des deux côtés."
     }
    ],
    "id": "russie-ukraine",
@@ -521,6 +525,8 @@
    "region": "Europe de l'Est",
    "resume": "Les pourparlers menés par les États-Unis ont repris début septembre mais Zelensky a rejeté le projet d'accord et Moscou pose des conditions territoriales jugées inacceptables. Les frappes de drones en mer Noire ont quasi stoppé les exportations maritimes de céréales des deux pays. Le blé reste nerveux mais recule quand l'espoir de cessez-le-feu revient.",
    "sources": [
+    "https://www.aljazeera.com/video/newsfeed/2026/10/30/russian-oil-refinery-struck-as-ukraine-renews-drone-attacks",
+    "https://www.themoscowtimes.com/2026/10/30/3-killed-as-ukraine-renews-drone-strikes-against-oil-refineries-a94134",
     "https://www.tribuneindia.com/news/world/ukraine-strikes-russian-oil-refinery-in-samara-ends-2-week-pause-reports",
     "https://tvpworld.com/96211857/ukraine-pauses-strikes-on-russian-refineries-after-pressure-from-trump",
     "https://kyivindependent.com/russia-says-battlefield-situation-will-determine-when-ukraine-peace-talks-begin/",
@@ -690,6 +696,10 @@
   {
    "faits": [
     {
+     "d": "30/10",
+     "t": "Le cuivre recule pour la deuxième séance et se dirige vers sa première baisse mensuelle depuis juin, pénalisé par la chute des valeurs liées à l'IA ; l'offre reste tendue (Rio Tinto suspend les opérations souterraines d'Oyu Tolgoi après une activité sismique)."
+    },
+    {
      "d": "27/10",
      "t": "Le cuivre à trois mois monte d'environ 1 % au LME, vers 14 490 $ la tonne (Reuters), porté par le rebond des valeurs liées à l'IA et la demande chinoise ; le dollar ferme limite la hausse. Stocks en baisse de plus de 25 % sur la semaine à Shanghai. Aucune nouvelle décision américaine sur les droits de douane sur les métaux."
     },
@@ -708,10 +718,6 @@
     {
      "d": "23/09",
      "t": "BHP suspend toutes les opérations d'Escondida (Chili), plus grande mine de cuivre du monde, après un accident mortel ; vote syndical sur les salaires prévu fin septembre."
-    },
-    {
-     "d": "08/09",
-     "t": "Record historique du cuivre au LME à 14 533 $/t (clôture 14 510 $), porté par le stockage américain avant des droits attendus sur le cuivre raffiné l'an prochain."
     }
    ],
    "id": "metaux",
@@ -729,6 +735,8 @@
    "region": "Monde (États-Unis, Chili)",
    "resume": "Le cuivre a battu son record au LME début septembre, porté par des achats américains avant d'éventuels droits sur le cuivre raffiné et par la demande IA et électrification. L'arrêt d'Escondida, première mine mondiale, après un accident mortel ajoute un risque d'offre. Les droits américains sur l'acier, l'aluminium et le cuivre européens restent élevés.",
    "sources": [
+    "https://www.bloomberg.com/news/articles/2026-10-30/copper-declines-as-tech-selloff-oil-rally-dent-risk-appetite",
+    "https://www.brecorder.com/news/40446692/copper-set-for-first-monthly-loss-since-june-as-ai-spending-worries-weigh",
     "https://www.brecorder.com/news/40446174/copper-climbs-on-china-demand-strength",
     "https://www.kitco.com/news/off-the-wire/2026-10-27/copper-price-climbs-ai-rebound-china-demand-strength",
     "https://www.tradingkey.com/news/market-movers/262226414-market-movers-mli-20261020",
