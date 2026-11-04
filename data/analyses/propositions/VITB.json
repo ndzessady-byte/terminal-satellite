@@ -1,0 +1,25 @@
+{
+ "ticker": "VITB",
+ "nom": "Vitec Software Group",
+ "pays": "SE",
+ "secteur": "Logiciels verticaux B2B",
+ "marche": "Nasdaq Stockholm",
+ "devise": "SEK",
+ "compte": "PEA",
+ "cours": 309.4,
+ "coursLe": "2026-10-29",
+ "capi": "environ 12,3 Md SEK (environ 1,1 Md€)",
+ "per26": null,
+ "score": 6,
+ "these": "Consolidateur nordique de logiciels de niche (immobilier, santé, énergie, enseignement), dont 88 % des revenus sont récurrents. Au T3 2026, ventes +15 % à 909 M SEK, EBITA +15 % à 272 M SEK (marge de 29,9 %), BPA +7 %. Dette nette à 2,15 fois l'EBITDA ; environ 26 fois le BPA des 12 derniers mois (11,88 SEK).",
+ "lienGeo": "Activité surtout nordique et européenne : faible exposition géopolitique directe, mais sensible au change entre couronne et euro.",
+ "risque": "Croissance organique modeste (environ 4 à 5 % sur les abonnements), dépendance aux acquisitions, dette en hausse sur un an (1,67 fois l'EBITDA il y a un an).",
+ "yahoo": "VIT-B.ST",
+ "source": "https://storage.mfn.se/29a14d47-f7b7-466f-b2de-7dd33589db41/vitec-software-group-2026-q3-eng.pdf",
+ "sources": [
+  "https://storage.mfn.se/29a14d47-f7b7-466f-b2de-7dd33589db41/vitec-software-group-2026-q3-eng.pdf",
+  "https://www.nordnet.se/aktier/kurser/vitec-software-group-b-vit-b-xsto"
+ ],
+ "notes": "Chiffres confirmés par le rapport du T3 2026 (23/10). Cours vers le 29/10, date exacte non affichée. PER 2026 non vérifié. Éligibilité au PEA à confirmer auprès du courtier.",
+ "proposeLe": "2026-11-04"
+}

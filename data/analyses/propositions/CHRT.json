@@ -1,0 +1,25 @@
+{
+ "ticker": "CHRT",
+ "nom": "Cohort",
+ "pays": "GB",
+ "secteur": "Défense, électronique et systèmes",
+ "marche": "Bourse de Londres (AIM)",
+ "devise": "GBP",
+ "compte": "CTO",
+ "cours": 11.96,
+ "coursLe": "2026-10-09",
+ "capi": "environ 565 M£ (environ 650 M€)",
+ "per26": null,
+ "score": 5.5,
+ "these": "Groupe britannique de PME de défense : sonars, communications tactiques, simulation, conseil et cyber. Exercice clos le 30/04/2026 : ventes +13 % à 306,4 M£, résultat opérationnel ajusté +32 % à 36,3 M£, BPA ajusté +14 % à 61,9 pence, carnet de commandes record de 618,8 M£. Environ 19 fois ce BPA.",
+ "lienGeo": "Porté par la hausse des budgets de défense au Royaume-Uni et en Europe, avec des clients à l'export (Portugal, Allemagne).",
+ "risque": "Marge ajustée d'environ 12 %, dans la moyenne du secteur ; commandes irrégulières dépendantes de gros contrats publics. Dette nette non vérifiée.",
+ "yahoo": "CHRT.L",
+ "source": "https://www.investegate.co.uk/announcement/rns/cohort--chrt/final-results/9668931",
+ "sources": [
+  "https://www.investegate.co.uk/announcement/rns/cohort--chrt/final-results/9668931",
+  "https://www.lse.co.uk/rns/final-results-rimpvg757cp5ezs.html"
+ ],
+ "notes": "Chiffres annuels lus dans un résumé du communiqué officiel, non recoupés avec le texte intégral. Dette nette non confirmée. Cours de 11,96 £ daté du 09/10, à confirmer. PER calculé sur le BPA ajusté 2026.",
+ "proposeLe": "2026-11-04"
+}

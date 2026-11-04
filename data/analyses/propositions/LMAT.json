@@ -1,0 +1,25 @@
+{
+ "ticker": "LMAT",
+ "nom": "LeMaitre Vascular",
+ "pays": "US",
+ "secteur": "Santé, dispositifs vasculaires",
+ "marche": "Nasdaq",
+ "devise": "USD",
+ "compte": "CTO",
+ "cours": 85.27,
+ "coursLe": "2026-10-30",
+ "capi": "environ 1,9 Md$ (environ 1,65 Md€)",
+ "per26": 29.5,
+ "score": 6.5,
+ "these": "Spécialiste des implants et outils de chirurgie vasculaire (greffons biologiques, shunts, patchs). Au T2 2026, ventes de 70,4 M$ (+10 % en organique), marge brute 72,1 % et marge opérationnelle 29 % ; trésorerie de 376 M$, bien au-dessus des obligations convertibles (169 M$). Prévision 2026 : 274 à 278 M$ de ventes et un BPA de 2,84 à 2,94 $, soit environ 29,5 fois ce BPA après la chute d'environ 25 % d'août.",
+ "lienGeo": "Ventes surtout aux États-Unis et en Europe ; la société cite le change et des retards au Moyen-Orient parmi les freins du T2.",
+ "risque": "Prévision de croissance organique abaissée de 12 % à 11 % et ventes de cathéters en recul de 11 %. Les résultats du T3 (attendus le 04/11/2026) peuvent faire bouger la thèse.",
+ "yahoo": "LMAT",
+ "source": "https://www.sec.gov/Archives/edgar/data/0001158895/000119312526332982/d320964dex991.htm",
+ "sources": [
+  "https://www.sec.gov/Archives/edgar/data/0001158895/000119312526332982/d320964dex991.htm",
+  "https://goldesel.de/aktien/news/lemaitre-vascular-senkt-2026-eps-aussicht-unter-konsens-aktie-fallt-nach-zahlen-um-129"
+ ],
+ "notes": "Chiffres du communiqué du T2 2026 ; T3 du 04/11 non intégré. Cours au 30/10 d'une seule source, à confirmer. PER calculé sur le milieu de la prévision de BPA (2,89 $). Croissance sur 3 ans non recoupée.",
+ "proposeLe": "2026-11-04"
+}

@@ -1,0 +1,25 @@
+{
+ "ticker": "7747",
+ "nom": "Asahi Intecc",
+ "pays": "JP",
+ "secteur": "Santé, dispositifs médicaux (fils guides et cathéters)",
+ "marche": "Bourse de Tokyo (Prime)",
+ "devise": "JPY",
+ "compte": "CTO",
+ "cours": 3668,
+ "coursLe": "2026-10-30",
+ "capi": "environ 973 Md¥ (environ 5,4 Md€)",
+ "per26": 25.7,
+ "score": 7,
+ "these": "Leader mondial des fils guides pour la cardiologie interventionnelle. Exercice clos fin juin 2026 : ventes +21,2 % à 145,4 Md¥, résultat opérationnel +50,3 % à 45,2 Md¥ (marge de 31,1 %), ROE de 19,8 % et environ 57 Md¥ de trésorerie nette. Prévision pour l'exercice suivant : résultat opérationnel de 52,1 Md¥ (+15 %) et BPA de 142,6 ¥, soit environ 25,7 fois ce BPA. Le vieillissement de la population soutient la demande.",
+ "lienGeo": "La Chine pèse environ 26 % des ventes : exposition aux achats groupés à prix réduits et aux tensions entre la Chine et le Japon.",
+ "risque": "La valorisation intègre déjà une forte qualité ; la pression sur les prix en Chine et un yen plus fort pourraient freiner les marges.",
+ "yahoo": "7747.T",
+ "source": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260814/20260814520933.pdf",
+ "sources": [
+  "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260814/20260814520933.pdf",
+  "https://www.gyokaidigest.com/en/companies/asahi-intecc/report/2026-FY"
+ ],
+ "notes": "Chiffres annuels confirmés par le rapport officiel du 14/08/2026. Cours au 30/10 d'une seule source, à confirmer. PER et capitalisation calculés (265,3 M d'actions, 179 ¥ pour 1 €). Croissance sur 3 ans non recoupée.",
+ "proposeLe": "2026-11-04"
+}
