@@ -1,5 +1,5 @@
 {
- "lecture": "Le pétrole a perdu près de 10 % depuis le 30/10 sur l'espoir de discussions entre Washington et Téhéran, malgré des frappes américaines limitées. Le CAC 40 repasse au-dessus de 8 000 points et monte d'environ 1,7 % ce midi, après la victoire démocrate au Congrès. Les risques restent élevés : pas d'accord avec l'Iran, inflation de la zone euro à 4 % qui rapproche une hausse de la BCE en décembre, stocks de gaz bas et budget français toujours sans vote sur les recettes.",
+ "lecture": "Le CAC 40 termine en hausse de près de 2 % à 8 177,89 points après que les démocrates ont pris les deux chambres du Congrès selon l'AP. Le Brent passe nettement sous 100 $ : le marché mise sur une désescalade avec l'Iran, mais aucun accord n'est annoncé et Téhéran reste ferme. L'inflation de la zone euro à 4 % rapproche une hausse de la BCE en décembre.",
  "majLe": "2026-11-04",
  "matieres": {
   "ALU": {
@@ -70,6 +70,10 @@
    "faits": [
     {
      "d": "04/11",
+     "t": "Le Brent passe sous 100 $ en fin de journée, vers 95 à 97,5 $ (plus bas depuis près de deux mois, plus de 15 % de baisse sur la semaine) : le marché mise sur une moindre implication militaire américaine après les élections. Téhéran reste ferme, aucune frappe plus large ni réouverture d'Ormuz n'est annoncée."
+    },
+    {
+     "d": "04/11",
      "t": "Pas d'accord : Téhéran juge la réponse américaine à son plan pour Ormuz « pas convaincante » et pose sept conditions (levée des sanctions, fin du blocus naval) avant de rouvrir le détroit ; le Qatar dit que l'échange de propositions continue. Selon des médias américains, des plans de frappes plus larges seraient prêts à partir du 05/11 : non confirmé."
     },
     {
@@ -87,10 +91,6 @@
     {
      "d": "30/10",
      "t": "L'Iran affirme que quatre pétroliers ont heurté des mines ; rien n'est vérifié et l'armée américaine dément. Seul incident confirmé par l'UKMTO : un pétrolier touché au nord-est de Khasab (Oman) par des explosifs posés sur la coque, équipage sain et sauf. Le Brent remonte vers 116 $ et gagne près de 11 % sur octobre, quatrième mois de hausse d'affilée."
-    },
-    {
-     "d": "29/10",
-     "t": "Les Gardiens de la révolution affirment que trois pétroliers ont sauté sur des mines au sud du détroit en 24 heures ; l'AP n'a pas pu confirmer, et l'UKMTO signale un navire en feu dans le détroit. Le Brent recule quand même vers 113,7 $ en séance sur l'espoir de discussions."
     }
    ],
    "id": "ormuz",
@@ -120,6 +120,8 @@
    "region": "Moyen-Orient / Golfe",
    "resume": "La guerre avec l'Iran, commencée fin février 2026, bloque toujours le détroit d'Ormuz par où passait environ un cinquième du pétrole mondial, et les États-Unis maintiennent un blocus des ports iraniens. Fin septembre, Trump a rejeté le plan iranien de réouverture et un vraquier a encore été touché près d'Oman. Le Brent est repassé au-dessus de 100 $ et c'est le premier moteur de l'inflation et des taux en ce moment.",
    "sources": [
+    "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-le-seisme-politique-aux-etats-unis-rend-la-bourse-de-paris-euphorique-le-cac-40-bondit-de-pres-de-2-1173163.html",
+    "https://www.thenationalnews.com/business/energy/2026/11/04/brent-oil-slides-to-94-on-iran-uncertainty-after-us-midterms/",
     "https://www.boursorama.com/bourse/actualites/la-bourse-de-paris-termine-en-hausse-profitant-de-la-chute-du-petrole-489e90918b64f36ecc157d9f20167d36",
     "https://www.pbs.org/newshour/world/u-s-launches-new-attacks-on-iranian-targets-days-after-netanyahu-pressed-trump-for-more-strikes",
     "https://www.aljazeera.com/news/2026/11/4/iran-says-us-reply-to-hormuz-plan-unconvincing-trump-confirms-strikes",
@@ -205,6 +207,10 @@
    "faits": [
     {
      "d": "04/11",
+     "t": "Selon l'AP, les démocrates prennent aussi la Chambre des représentants, en plus du Sénat ; le nombre final de sièges n'est pas encore connu."
+    },
+    {
+     "d": "04/11",
      "t": "Eurostat : l'inflation de la zone euro monte à 4,0 % en octobre (3,8 % en septembre), plus haut depuis septembre 2023, conforme aux attentes ; hors énergie et alimentation elle reste à 2,5 %. L'énergie grimpe de 20,8 % sur un an. Une hausse de la BCE en décembre devient plus probable selon ING."
     },
     {
@@ -222,10 +228,6 @@
     {
      "d": "29/10",
      "t": "Christine Lagarde quittera la présidence de la BCE le 07/02/2027, environ neuf mois avant la fin de son mandat (communiqué de la BCE). Les marchés ont peu réagi ; décision sur les taux attendue à 14 h 15, maintien du taux de dépôt à 2,50 % attendu."
-    },
-    {
-     "d": "28/10",
-     "t": "La Fed maintient ses taux par 10 voix contre 2, les deux opposants voulant une hausse ; elle laisse la porte ouverte à de nouvelles hausses. Le taux américain à 10 ans tourne autour de 5 %."
     }
    ],
    "id": "taux",
@@ -247,6 +249,8 @@
    "region": "Zone euro / États-Unis",
    "resume": "Le choc pétrolier relance l'inflation, et les deux grandes banques centrales ont remonté leurs taux en septembre au lieu de les baisser. Les marchés anticipent encore des hausses. C'est un vent contraire pour les petites et moyennes valeurs, pour l'immobilier et pour l'or.",
    "sources": [
+    "https://kktv.com/2026/11/04/democrats-will-win-control-us-house-retaking-control-republicans",
+    "https://www.aljazeera.com/news/2026/11/4/democratic-party-gains-us-house-majority-in-2026-midterm-elections",
     "https://www.euronews.com/2026/11/04/us-midterms-what-trumps-defeat-means-for-europe-and-global-markets",
     "https://www.pbs.org/newshour/politics/democrats-take-control-of-the-senate-after-winning-key-midterm-races",
     "https://think.ing.com/snaps/eurozone-inflation-brings-ecb-closer-to-december-rate-hike",

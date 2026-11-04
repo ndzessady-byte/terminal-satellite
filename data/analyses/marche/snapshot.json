@@ -15,10 +15,10 @@
  "macro": [
   {
    "label": "CAC 40",
-   "valeur": "vers 8 150",
-   "var": "+1,7 %",
+   "valeur": "8 177,89",
+   "var": "+1,96 %",
    "sens": 1,
-   "note": "04/11 midi (une seule source) ; clôtures 8 047,69 le 02/11 et 8 020,31 le 03/11"
+   "note": "clôture du 04/11, portée par les banques après les élections américaines"
   },
   {
    "label": "OAT 10 ans",
@@ -43,10 +43,10 @@
   },
   {
    "label": "Brent",
-   "valeur": "vers 102,6 $",
-   "var": "-1,6 %",
+   "valeur": "vers 95 à 97,5 $",
+   "var": "-6 à -8 %",
    "sens": -1,
-   "note": "04/11 matin ; -7,6 % à 104,77 $ le 02/11, deux sources"
+   "note": "04/11 en fin de journée, plus bas depuis près de deux mois ; pas de cours de règlement"
   },
   {
    "label": "EUR/USD",
@@ -59,7 +59,7 @@
  "majLe": "2026-10-28T21:00:00+01:00",
  "semaine": "5 au 9 octobre 2026",
  "semaineTexte": [
-  "Mercredi 04/11 : inflation de la zone euro à 4,0 % en octobre, plus haut depuis 2023 ; les démocrates reprennent le Sénat selon l'AP ; CAC 40 vers 8 150 pts (+1,7 %) ce midi.",
+  "Mercredi 04/11 : CAC 40 +1,96 % à 8 177,89 pts ; selon l'AP, les démocrates prennent le Sénat et la Chambre ; inflation de la zone euro à 4,0 % en octobre ; Brent sous 100 $.",
   "Le Brent perd près de 10 % depuis le 30/10 (104,77 $ le 02/11, vers 102,6 $ ce matin) sur l'espoir de discussions avec l'Iran, malgré des frappes américaines limitées.",
   "Le vote sur les recettes du budget est reporté une deuxième fois ; mobilisation du 31/10 en net recul."
  ],
