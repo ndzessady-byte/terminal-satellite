@@ -14,6 +14,10 @@
  "risque": "Nevro et la robotique reculent en 2026, la croissance hors acquisitions reste autour de 5 à 7 %, et le bénéfice comptable est nettement inférieur au bénéfice ajusté (PER d'environ 19 sur le comptable). Risque de change pour un investisseur en euros.",
  "faits": [
   {
+   "d": "04/11",
+   "t": "Date confirmée : résultats du T3 le jeudi 05/11 après la clôture américaine, conférence à 16 h 30 (heure de New York)."
+  },
+  {
    "d": "30/10",
    "t": "Baisse d'environ 6 % sans nouvelle de la société, une semaine avant les résultats du T3 du 05/11, alors que le secteur santé monte ce jour-là."
   },
@@ -24,10 +28,6 @@
   {
    "d": "12/10",
    "t": "Résultats du T3 le jeudi 05/11 après la clôture."
-  },
-  {
-   "d": "03/09",
-   "t": "Marquage CE en Europe pour le système d'imagerie Excelsius3D, qui complète le robot ExcelsiusGPS."
   }
  ],
  "pub": "2026-11-05",
@@ -1187,6 +1187,7 @@
    "Weinstein (stades)"
   ],
   "sources": [
+   "https://www.mychesco.com/a/news/regional/globus-medical-sets-november-5-earnings-report-and-call/",
    "https://www.aaii.com/investingideas/article/513099-why-globus-medical-inc8217s-gmed-stock-is-down-598",
    "https://finviz.com/news/401371/globus-medical-schedules-third-quarter-earnings-release-and-conference-call",
    "https://www.globenewswire.com/news-release/2026/08/06/3340797/0/en/globus-medical-reports-second-quarter-2026-results.html",
@@ -1214,7 +1215,7 @@
     "point": null
    }
   ],
-  "veilleLe": "2026-10-30"
+  "veilleLe": "2026-11-04"
  },
  "societe": {
   "resume": "Globus Medical est une société américaine qui fabrique des implants pour la colonne vertébrale (vis, tiges, cages entre les vertèbres), des implants pour les fractures et des robots qui guident le chirurgien pendant l'opération. Concrètement, quand un patient se fait opérer d'une hernie discale grave ou d'une scoliose, le chirurgien pose souvent des vis et des tiges : Globus vend ces pièces, et son robot ExcelsiusGPS l'aide à les placer au millimètre près. Depuis 2025, elle vend aussi, via Nevro, des stimulateurs électriques contre les douleurs chroniques.",

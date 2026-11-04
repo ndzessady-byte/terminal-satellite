@@ -156,13 +156,17 @@
     "point": "chine-usa"
    }
   ],
-  "veilleLe": "2026-10-30"
+  "veilleLe": "2026-11-04"
  },
  "capi": "0,8 Md€",
  "cours": 39.5,
  "coursLe": "2026-11-03",
  "devise": "€",
  "faits": [
+  {
+   "d": "02/11",
+   "t": "+5,5 % sans nouvelle de la société, rebond après la chute qui a suivi le T3."
+  },
   {
    "d": "30/10",
    "t": "Inderes relève sa recommandation (Achat contre Accumuler) mais baisse son objectif de 47 à 46 € et son résultat opérationnel ajusté attendu de 8 % pour 2026 et 6 % pour 2027 ; Nordea baisse aussi son objectif en restant positif. Titre stable."
@@ -174,10 +178,6 @@
   {
    "d": "29/10",
    "t": "T3 : CA 53,9 M€ (+17,0 %, 100 % organique, 46,0 M€ un an plus tôt), résultat opérationnel ajusté 9,5 M€ (8,8 M€), marge ajustée 17,7 % (19,1 %), BPA 0,37 € (0,33 €)."
-  },
-  {
-   "d": "29/10",
-   "t": "9 mois : CA 165,2 M€ (+13,8 %), marge ajustée 18,7 % (19,7 %), BPA 1,16 € (1,01 €), dette nette 60,8 M€ (1,2 fois l'EBITDA). Pas de prévision chiffrée."
   }
  ],
  "histo": [

@@ -152,13 +152,17 @@
     "point": "chine-usa"
    }
   ],
-  "veilleLe": "2026-10-30"
+  "veilleLe": "2026-11-04"
  },
  "capi": "903 M€",
  "cours": 17.68,
  "coursLe": "2026-11-03",
  "devise": "€",
  "faits": [
+  {
+   "d": "04/11",
+   "t": "Encore environ -5,6 % depuis le 30/10, sans nouvelle de la société ni nouvel avis d'analyste."
+  },
   {
    "d": "29/10",
    "t": "Le titre chute d'environ 20 %, vers 18,2 €, au lendemain du T3 : la plus forte baisse du SRD du jour."
@@ -170,10 +174,6 @@
   {
    "d": "28/10",
    "t": "En 2026, la croissance de l'ARR SaaS et des contrats récurrents sera sous la trajectoire visée (environ +15 % et +5 à +8 %) ; la hausse de marge dépassera l'objectif de 120 à 180 points de base."
-  },
-  {
-   "d": "26/10",
-   "t": "Rachat d'actions : 36 571 actions achetées du 19 au 23/10 à 21,70 € en moyenne."
   }
  ],
  "histo": [

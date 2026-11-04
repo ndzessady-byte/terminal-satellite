@@ -14,6 +14,10 @@
  "risque": "Très dépendant du prix du pétrole et du gaz ; Kurdistan irakien à l'arrêt ou vendu à bas prix ; fiscalité norvégienne lourde et risque de change entre dollar et couronne.",
  "faits": [
   {
+   "d": "04/11",
+   "t": "Environ -6,5 % depuis le 30/10 sans nouvelle de la société, pendant que le Brent perd près de 10 % (dont -7,6 % le 02/11) sur l'espoir de discussions avec l'Iran. Le dividende de 0,375 NOK se détache le 06/11."
+  },
+  {
    "d": "29/10",
    "t": "Mer du Nord : les ressources d'Afrodite (DNO 10 %) sont plus que doublées (77 à 180 millions de barils équivalent) et le développement de Kjøttkake (DNO 40 %, premier pétrole en 2028) est lancé. Titre stable vers 24,1 NOK."
   },
@@ -24,10 +28,6 @@
   {
    "d": "29/10",
    "t": "T3 record : CA 1 023 M$ (760,5 M$ au T2), résultat opérationnel 641,1 M$ (439,0), résultat net 101,1 M$ (83,4), trésorerie libre 326,5 M$ (289,5)."
-  },
-  {
-   "d": "29/10",
-   "t": "Dette nette ramenée à 231,9 M$ (552,9 M$ au T2). Production 142 768 barils équivalent par jour (+61 % sur le trimestre)."
   }
  ],
  "pub": null,
@@ -1084,7 +1084,7 @@
   "m12": 64.4
  },
  "analyse": {
-  "majLe": "2026-10-29",
+  "majLe": "2026-11-04",
   "verdict": "DNO est devenu en 2025 un producteur de la mer du Nord grâce au rachat de Sval Energi, et c'est ce qui l'a protégé en 2026 : malgré l'arrêt presque total du Kurdistan depuis février, le groupe a dégagé un CA record et 290 M$ de trésorerie libre au T2. Valorisé environ 6 fois les bénéfices 2026 attendus avec un rendement d'environ 7,9 %, le titre est bon marché, mais ce prix reflète une forte dépendance au pétrole et une fiscalité norvégienne très lourde. La discipline montrée sur Capricorn et Genel est un bon signe pour l'actionnaire.",
   "conviction": "moyenne",
   "revisions": "Sens non confirmé. Consensus MarketScreener au 25/09 : bénéfice net de 348 M$ en 2026 et 376 M$ en 2027, CA de 2,89 Md$ puis 2,84 Md$, dette nette de 362 M$ fin 2026 et 224 M$ fin 2027. Arctic et Clarksons Platou visent 23 NOK (opinion favorable), objectif moyen non trouvé.",
@@ -1116,6 +1116,13 @@
   },
   "actu": [
    {
+    "d": "04/11",
+    "fait": "Recul d'environ 6,5 % depuis le 30/10 sans communiqué, au moment où le Brent passe d'environ 114 $ à environ 103 $.",
+    "impact": "negatif",
+    "horizon": "court",
+    "lecture": "DNO suit le pétrole, comme prévu par la thèse : une paix avec l'Iran ferait baisser le prix du baril et donc la trésorerie libre, même si un Brent au-dessus de 65 $ suffit à couvrir le dividende."
+   },
+   {
     "d": "29/10",
     "fait": "Deux bonnes nouvelles en mer du Nord le jour des résultats : ressources d'Afrodite plus que doublées, développement de Kjøttkake lancé (environ 20 000 barils par jour au plateau, premier pétrole en 2028).",
     "impact": "positif",
@@ -1135,13 +1142,6 @@
     "impact": "positif",
     "horizon": "moyen",
     "lecture": "La trésorerie libre couvre très largement le dividende et la dette nette est déjà dans la fourchette visée : la thèse se confirme, mais elle reste suspendue au prix du pétrole."
-   },
-   {
-    "d": "29/10",
-    "fait": "Kurdistan : prix de vente local de 38,5 $ le baril au T3, relevé à 45 $ en octobre ; Tawke attendu à 50 000 barils par jour en moyenne en 2026. Mer du Nord attendue vers 86 000 barils en 2026, objectif 100 000 en 2030.",
-    "impact": "positif",
-    "horizon": "moyen",
-    "lecture": "Le Kurdistan rapporte davantage, mais toujours bien sous le prix international."
    }
   ],
   "scenarios": [
@@ -1221,7 +1221,7 @@
     "point": null
    }
   ],
-  "veilleLe": "2026-10-30"
+  "veilleLe": "2026-11-04"
  },
  "societe": {
   "resume": "DNO est la plus ancienne compagnie pétrolière norvégienne. Elle produit du pétrole et du gaz, aujourd'hui surtout en mer du Nord (Norvège et Royaume-Uni), et possède aussi de grands gisements au Kurdistan irakien et des parts en Afrique de l'Ouest. Concrètement, quand une raffinerie européenne se procure un cargo de pétrole de la mer du Nord, une partie peut venir des champs où DNO détient des parts.",

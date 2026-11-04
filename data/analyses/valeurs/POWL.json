@@ -14,6 +14,10 @@
  "risque": "Valorisation d'environ 35 fois les bénéfices des 12 derniers mois alors que le BPA ne progresse que d'environ 8 % et a manqué le consensus deux trimestres de suite ; dépendance encore forte au pétrole, au gaz et à la pétrochimie ; risque d'exécution sur les très grosses commandes ; risque de change sur le dollar.",
  "faits": [
   {
+   "d": "03/11",
+   "t": "+6,1 % sans nouvelle commerciale, le jour du rebond des valeurs liées à l'IA ; dividende trimestriel habituel de 0,09 $ (versé le 16/12)."
+  },
+  {
    "d": "30/10",
    "t": "Baisse d'environ 8 % sans nouvelle de la société, dans une vente générale des valeurs liées à l'IA et aux data centers après les résultats d'Amazon et d'Intel ; nVent, autre fournisseur d'équipements électriques pour data centers, recule sur des commandes jugées faibles."
   },
@@ -24,10 +28,6 @@
   {
    "d": "22/10",
    "t": "Recul d'environ 8 à 10 % en séance vers 153 $, sans communiqué : baisse générale des équipements électriques liés à l'IA (GE Vernova -11 %, Vertiv -14 % sur la semaine)."
-  },
-  {
-   "d": "15/10",
-   "t": "Les valeurs liées aux data centers d'IA reculent avec le choc CoreWeave et une inflation américaine plus forte que prévu."
   }
  ],
  "pub": null,
@@ -1187,6 +1187,7 @@
    "Weinstein (stades)"
   ],
   "sources": [
+   "https://finance.yahoo.com/markets/stocks/articles/powell-industries-declares-quarterly-cash-211500391.html",
    "https://www.staradvertiser.com/2026/10/30/breaking-news/tech-stocks-tumble-as-amazon-intel-fuel-ai-spending-fears/",
    "https://www.aaii.com/investingideas/article/550288-why-powell-industries-inc8217s-powl-stock-is-down-571",
    "https://markets.financialcontent.com/bpas/quote/nq:powl",
@@ -1224,7 +1225,7 @@
     "point": "metaux"
    }
   ],
-  "veilleLe": "2026-10-30"
+  "veilleLe": "2026-11-04"
  },
  "societe": {
   "resume": "Powell Industries conçoit et fabrique sur mesure les grosses armoires électriques, tableaux de distribution et postes électriques préfabriqués qui reçoivent le courant à haute tension et le répartissent dans un site. Concrètement, une raffinerie, un terminal de gaz naturel liquéfié, un poste d'une compagnie d'électricité ou un grand data center ont besoin de ces équipements pour alimenter leurs machines en toute sécurité. Chaque projet est unique et peut représenter des dizaines, voire des centaines de millions de dollars.",
