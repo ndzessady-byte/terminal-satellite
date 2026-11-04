@@ -1,0 +1,25 @@
+{
+ "ticker": "1969",
+ "nom": "Takasago Thermal Engineering",
+ "pays": "JP",
+ "secteur": "Génie climatique et rénovation énergétique",
+ "marche": "Bourse de Tokyo (Prime)",
+ "devise": "JPY",
+ "compte": "CTO",
+ "cours": 3992,
+ "coursLe": "2026-10-30",
+ "capi": "environ 561 Md¥ (environ 3,2 Md€)",
+ "per26": 13.1,
+ "score": 7,
+ "these": "Spécialiste japonais du génie climatique (bureaux, usines de semi-conducteurs, data centers). Exercice clos en mars 2026 : ventes +11,1 % à 423,9 Md¥, résultat opérationnel +47,3 % à 47,7 Md¥, ROE de 19,2 %. Objectif pour l'exercice suivant : 440 Md¥ de ventes et 40 Md¥ de bénéfice net (BPA de 305 ¥), soit environ 13 fois ce BPA avec un rendement d'environ 3 %.",
+ "lienGeo": "Activité surtout japonaise, portée par le retour des usines de semi-conducteurs au Japon et la décarbonation des bâtiments ; exposition limitée à la Chine.",
+ "risque": "T1 de l'exercice en recul (ventes -9,9 %, résultat opérationnel -16,2 %) sur une base élevée ; secteur cyclique et coûts de main-d'œuvre en hausse.",
+ "yahoo": "1969.T",
+ "source": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260512/20260511523284.pdf",
+ "sources": [
+  "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260512/20260511523284.pdf",
+  "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260814/20260814520943.pdf"
+ ],
+ "notes": "Cours au 30/10 d'une seule source. PER calculé sur la prévision de la société. Croissance vérifiée sur 2 exercices seulement. Conversion approximative.",
+ "proposeLe": "2026-11-04"
+}

@@ -1,0 +1,25 @@
+{
+ "ticker": "AGX",
+ "nom": "Argan",
+ "pays": "US",
+ "secteur": "Construction de centrales électriques",
+ "marche": "NYSE",
+ "devise": "USD",
+ "compte": "CTO",
+ "cours": 356.38,
+ "coursLe": "2026-10-29",
+ "capi": "environ 5,0 Md$ (environ 4,3 Md€)",
+ "per26": null,
+ "score": 6.5,
+ "these": "Construit des centrales électriques (gaz, renouvelables). T2 de l'exercice 2027 : chiffre d'affaires record de 384 M$ (+61,5 %), bénéfice net 53,3 M$ (+51 %), marge d'EBITDA ajusté de 18,2 %. Bilan sans dette avec 1,03 Md$ de trésorerie et placements, carnet de 2,52 Md$ porté par la demande électrique des data centers.",
+ "lienGeo": "Activité centrée sur les États-Unis (avec une filiale en Irlande et au Royaume-Uni), liée aux data centers et au retour des centrales au gaz.",
+ "risque": "Carnet en baisse de 2,93 à 2,52 Md$ depuis janvier ; dépendance à quelques gros contrats à prix ferme ; environ 28 fois les bénéfices des 12 derniers mois.",
+ "yahoo": "AGX",
+ "source": "https://www.sec.gov/Archives/edgar/data/0000100591/000110465926104735/agx-20260902xex99d1.htm",
+ "sources": [
+  "https://www.sec.gov/Archives/edgar/data/0000100591/000110465926104735/agx-20260902xex99d1.htm",
+  "https://www.marketbeat.com/stocks/NYSE/AGX/"
+ ],
+ "notes": "Cours au 29/10 (une source). PER 2026 non confirmé ; PER des 12 derniers mois recoupé vers 28. Chiffres de l'exercice 2026 d'un article secondaire.",
+ "proposeLe": "2026-11-04"
+}

@@ -1,0 +1,25 @@
+{
+ "ticker": "ATYM",
+ "nom": "Atalaya Mining Copper",
+ "pays": "ES",
+ "secteur": "Mines de cuivre",
+ "marche": "Bourse de Londres",
+ "devise": "GBP",
+ "compte": "CTO",
+ "cours": 9.99,
+ "coursLe": "2026-10-15",
+ "capi": "environ 1,5 Md£ (environ 1,75 Md€)",
+ "per26": null,
+ "score": 5.5,
+ "these": "Producteur de cuivre en Andalousie (Riotinto). S1 2026 : EBITDA record de 126,2 M€ (+17 %), bénéfice net 84,0 M€ (+40 %), coût cash de 2,43 $ la livre ; trésorerie nette de 318,3 M€ après une levée de fonds. Production du T3 +15 % à 13 967 t, avec plusieurs projets de croissance en Espagne.",
+ "lienGeo": "Source européenne de cuivre, métal jugé critique par l'Union européenne face à la dépendance à la Chine.",
+ "risque": "Production 2026 attendue en bas de fourchette ; procédé E-LIX sous sa capacité avec un risque de dépréciation ; un projet attend encore son autorisation ; très sensible au cuivre.",
+ "yahoo": "ATYM.L",
+ "source": "https://data.fca.org.uk/artefacts/NSM/RNS/ccb3c8d7-9c71-472f-9787-81774343fe70.html",
+ "sources": [
+  "https://data.fca.org.uk/artefacts/NSM/RNS/ccb3c8d7-9c71-472f-9787-81774343fe70.html",
+  "https://www.ajbell.co.uk/news/articles/atalaya-copper-production-rises-sees-full-year-low-end-guidance"
+ ],
+ "notes": "Cours au 15/10, ancien et d'une seule source. Capitalisation estimée. PER non confirmé. Société espagnole cotée à Londres : éligibilité au PEA à vérifier, CTO par prudence.",
+ "proposeLe": "2026-11-04"
+}

@@ -1,0 +1,25 @@
+{
+ "ticker": "SFR",
+ "nom": "Sandfire Resources",
+ "pays": "AU",
+ "secteur": "Mines de cuivre",
+ "marche": "Bourse australienne (ASX)",
+ "devise": "AUD",
+ "compte": "CTO",
+ "cours": 20.14,
+ "coursLe": "2026-10-30",
+ "capi": "environ 9,3 Md A$ (environ 5,3 Md€)",
+ "per26": null,
+ "score": 6,
+ "these": "Producteur de cuivre rentable (MATSA en Espagne, Motheo au Botswana). Exercice clos en juin 2026 : chiffre d'affaires 1 654 M$ US (+41 %), EBITDA sous-jacent 867 M$ US (+64 %), bénéfice sous-jacent triplé à 350 M$ US. Trésorerie nette de 342 M$ US fin septembre et premier dividende depuis quatre ans ; objectifs de production confirmés.",
+ "lienGeo": "Actifs en Espagne et au Botswana ; profite de la demande de cuivre pour l'électrification et les réseaux.",
+ "risque": "Très dépendant du cours du cuivre ; coûts et investissements en hausse (299 M$ US prévus, +30 %) ; production stable plutôt qu'en croissance.",
+ "yahoo": "SFR.AX",
+ "source": "https://announcements.asx.com.au/asxpdf/20260826/pdf/0736v54zb73kvx.pdf",
+ "sources": [
+  "https://announcements.asx.com.au/asxpdf/20260826/pdf/0736v54zb73kvx.pdf",
+  "https://www.fool.com.au/2026/10/27/sandfire-resources-september-quarter-earnings-sales-dividend-and-outlook/"
+ ],
+ "notes": "Cours au 30/10 (une source). Capitalisation estimée, non confirmée. PER non confirmé. Chiffres du trimestre de septembre tirés d'un article. Montants en dollars US.",
+ "proposeLe": "2026-11-04"
+}
