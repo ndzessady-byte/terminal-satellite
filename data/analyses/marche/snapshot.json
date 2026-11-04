@@ -1,9 +1,9 @@
 {
- "asOf": "2026-10-30",
+ "asOf": "2026-11-04",
  "attention": [
-  "03/11 : élections américaines et vote sur les recettes du budget ; frappes sur l'Iran possibles après le scrutin.",
-  "04/11 : inflation de la zone euro d'octobre ; 05/11 : Banque d'Angleterre et résultats de Globus ; 06/11 : emploi américain.",
-  "En zone d'intérêt : Melexis, Mueller, Trigano, USS, et après leur chute Harvia et Lectra (thèses touchées)."
+  "05/11 : résultats de Globus ; des frappes américaines plus larges sur l'Iran sont évoquées, non confirmées ; Banque d'Angleterre.",
+  "06/11 : emploi américain ; 09/11 : Theon ; 10/11 : USS ; 10 et 11/11 : pourparlers Ukraine-Russie à Abou Dhabi ; 11/11 : SWCC.",
+  "En zone d'intérêt : Melexis, Mueller, Nakanishi, et après leur chute Harvia et Lectra (thèses touchées)."
  ],
  "etf": {
   "nom": "Amundi PEA Monde MSCI World (DCAM)",
@@ -15,10 +15,10 @@
  "macro": [
   {
    "label": "CAC 40",
-   "valeur": "7 969,42",
-   "var": "-0,01 %",
-   "sens": 0,
-   "note": "clôture du 30/10 ; +2,40 % sur la semaine, la meilleure depuis début août"
+   "valeur": "vers 8 150",
+   "var": "+1,7 %",
+   "sens": 1,
+   "note": "04/11 midi (une seule source) ; clôtures 8 047,69 le 02/11 et 8 020,31 le 03/11"
   },
   {
    "label": "OAT 10 ans",
@@ -43,25 +43,25 @@
   },
   {
    "label": "Brent",
-   "valeur": "vers 113,6 $",
-   "var": "n.c.",
-   "sens": 0,
-   "note": "contrat de janvier, référence à partir de lundi ; décembre vers 117 $ à son échéance ; clôture non confirmée"
+   "valeur": "vers 102,6 $",
+   "var": "-1,6 %",
+   "sens": -1,
+   "note": "04/11 matin ; -7,6 % à 104,77 $ le 02/11, deux sources"
   },
   {
    "label": "EUR/USD",
-   "valeur": "vers 1,117",
-   "var": "stable",
-   "sens": 0,
-   "note": "clôture européenne du 30/10, deux sources"
+   "valeur": "vers 1,126",
+   "var": "+0,6 %",
+   "sens": 1,
+   "note": "04/11 vers 11 h 25, après les élections américaines"
   }
  ],
  "majLe": "2026-10-28T21:00:00+01:00",
  "semaine": "5 au 9 octobre 2026",
  "semaineTexte": [
-  "Semaine : CAC 40 +2,4 % à 7 969 pts malgré la chute de la tech américaine ; la BCE garde son taux à 2,50 % mais s'inquiète de l'inflation, Lagarde partira le 07/02 ; la France recule au T3 (-0,1 %) avec une inflation à 3,4 %.",
-  "Tes valeurs : Lectra -20 % et Harvia -13 % (thèses touchées), Wavestone +6,6 % vendredi (T2 de nouveau en croissance), DNO trimestre record, Aubay relève son objectif.",
-  "Énergie : Brent vers 114 à 117 $, gaz européen au-dessus de 100 € le MWh, incidents à Ormuz et reprise des frappes ukrainiennes sur les raffineries russes."
+  "Mercredi 04/11 : inflation de la zone euro à 4,0 % en octobre, plus haut depuis 2023 ; les démocrates reprennent le Sénat selon l'AP ; CAC 40 vers 8 150 pts (+1,7 %) ce midi.",
+  "Le Brent perd près de 10 % depuis le 30/10 (104,77 $ le 02/11, vers 102,6 $ ce matin) sur l'espoir de discussions avec l'Iran, malgré des frappes américaines limitées.",
+  "Le vote sur les recettes du budget est reporté une deuxième fois ; mobilisation du 31/10 en net recul."
  ],
  "watchlistValidee": false
 }

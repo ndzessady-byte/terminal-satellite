@@ -1,6 +1,6 @@
 {
- "lecture": "Le CAC 40 finit la semaine en hausse de 2,4 % malgré la chute de la tech américaine, porté par les résultats d'entreprises. L'énergie reste le principal risque : pétrole et gaz très chers, incidents à Ormuz et reprise des frappes ukrainiennes sur les raffineries russes, même si Trump et le Qatar laissent espérer une sortie de guerre. Semaine chargée : élections américaines et vote du budget le 03/11, inflation de la zone euro le 04/11, emploi américain le 06/11.",
- "majLe": "2026-10-30",
+ "lecture": "Le pétrole a perdu près de 10 % depuis le 30/10 sur l'espoir de discussions entre Washington et Téhéran, malgré des frappes américaines limitées. Le CAC 40 repasse au-dessus de 8 000 points et monte d'environ 1,7 % ce midi, après la victoire démocrate au Congrès. Les risques restent élevés : pas d'accord avec l'Iran, inflation de la zone euro à 4 % qui rapproche une hausse de la BCE en décembre, stocks de gaz bas et budget français toujours sans vote sur les recettes.",
+ "majLe": "2026-11-04",
  "matieres": {
   "ALU": {
    "moteurs": "L'aluminium reste haut (environ 3 260 $/t, +22 % sur un an) car la production du Golfe s'est effondrée avec la guerre, mais le dollar fort et les exportations chinoises le plafonnent.",
@@ -69,6 +69,18 @@
   {
    "faits": [
     {
+     "d": "04/11",
+     "t": "Pas d'accord : Téhéran juge la réponse américaine à son plan pour Ormuz « pas convaincante » et pose sept conditions (levée des sanctions, fin du blocus naval) avant de rouvrir le détroit ; le Qatar dit que l'échange de propositions continue. Selon des médias américains, des plans de frappes plus larges seraient prêts à partir du 05/11 : non confirmé."
+    },
+    {
+     "d": "03/11",
+     "t": "Trump confirme une frappe « mineure » sur une installation antiaérienne iranienne. L'UKMTO signale un pétrolier touché par deux projectiles près de Limah (Oman), sans victime."
+    },
+    {
+     "d": "02/11",
+     "t": "Frappes américaines limitées sur les îles de Qeshm et Hengam, présentées comme défensives ; Trump dit préférer laisser une chance aux négociations. Le Brent chute de 7,6 % à 104,77 $ sur l'espoir de discussions, puis recule vers 103 à 104 $."
+    },
+    {
      "d": "30/10",
      "t": "Trump affirme que la guerre avec l'Iran sera « bientôt terminée » ; des médiateurs qataris sont revenus à Téhéran avec un projet d'accord. Selon des sources maritimes citées par Reuters, l'explosif posé sur un pétrolier près de Khasab serait la première attaque réussie de ce type depuis février. Brent de décembre vers 117 $ en séance."
     },
@@ -79,18 +91,6 @@
     {
      "d": "29/10",
      "t": "Les Gardiens de la révolution affirment que trois pétroliers ont sauté sur des mines au sud du détroit en 24 heures ; l'AP n'a pas pu confirmer, et l'UKMTO signale un navire en feu dans le détroit. Le Brent recule quand même vers 113,7 $ en séance sur l'espoir de discussions."
-    },
-    {
-     "d": "29/10",
-     "t": "Selon le Wall Street Journal, le vice-président JD Vance a écrit à un haut responsable iranien pour relancer des pourparlers ; Trump minimise l'initiative. Washington aurait prévenu des pays du Golfe d'une possible reprise des frappes après le 03/11. Le Brent reflue vers 114 $ après une clôture à 115,32 $ mercredi."
-    },
-    {
-     "d": "27/10",
-     "t": "Les Houthis revendiquent une frappe de missile sur Ras Tanura, la plus grande raffinerie d'Arabie saoudite (Reuters, Middle East Eye) ; Riyad ne confirme pas. Téhéran promet une riposte plus dévastatrice à toute nouvelle attaque américaine. Brent vers 115 à 116 $ le 28/10 au matin."
-    },
-    {
-     "d": "27/10",
-     "t": "Le Brent recule vers 114 $ après un plus haut depuis juin 2022 vers 116 $ le 23/10, sur l'espoir de discussions entre les États-Unis et l'Iran."
     }
    ],
    "id": "ormuz",
@@ -120,6 +120,9 @@
    "region": "Moyen-Orient / Golfe",
    "resume": "La guerre avec l'Iran, commencée fin février 2026, bloque toujours le détroit d'Ormuz par où passait environ un cinquième du pétrole mondial, et les États-Unis maintiennent un blocus des ports iraniens. Fin septembre, Trump a rejeté le plan iranien de réouverture et un vraquier a encore été touché près d'Oman. Le Brent est repassé au-dessus de 100 $ et c'est le premier moteur de l'inflation et des taux en ce moment.",
    "sources": [
+    "https://www.boursorama.com/bourse/actualites/la-bourse-de-paris-termine-en-hausse-profitant-de-la-chute-du-petrole-489e90918b64f36ecc157d9f20167d36",
+    "https://www.pbs.org/newshour/world/u-s-launches-new-attacks-on-iranian-targets-days-after-netanyahu-pressed-trump-for-more-strikes",
+    "https://www.aljazeera.com/news/2026/11/4/iran-says-us-reply-to-hormuz-plan-unconvincing-trump-confirms-strikes",
     "https://www.haaretz.com/us-news/2026-10-30/ty-article/trump-iran-war-will-end-soon-need-guarantee-tehran-wont-obtain-nuclear-weapon/000001a1-8cb2-def7-adad-8efa8b890000",
     "https://www.thenationalnews.com/business/markets/2026/10/30/oil-prices-set-for-sharp-monthly-rise-on-hormuz-strikes-and-us-threat-to-hit-iran/",
     "https://arynews.tv/oil-set-for-fourth-monthly-gain-as-hormuz-tanker-attack-highlights-supply-risks-from-war",
@@ -201,6 +204,14 @@
   {
    "faits": [
     {
+     "d": "04/11",
+     "t": "Eurostat : l'inflation de la zone euro monte à 4,0 % en octobre (3,8 % en septembre), plus haut depuis septembre 2023, conforme aux attentes ; hors énergie et alimentation elle reste à 2,5 %. L'énergie grimpe de 20,8 % sur un an. Une hausse de la BCE en décembre devient plus probable selon ING."
+    },
+    {
+     "d": "04/11",
+     "t": "États-Unis : selon l'AP, les démocrates reprennent le Sénat ; plusieurs médias les donnent aussi majoritaires à la Chambre, sans résultat final à midi. Le dollar recule, l'euro monte vers 1,126 $, le taux américain à 10 ans recule vers 4,94 %."
+    },
+    {
      "d": "30/10",
      "t": "La croissance de la zone euro ralentit à +0,4 % au T3 (+0,6 % au T2, Eurostat). L'inflation d'octobre de la zone euro sera publiée le 04/11 ; dernier chiffre connu : 3,8 % en septembre."
     },
@@ -215,14 +226,6 @@
     {
      "d": "28/10",
      "t": "La Fed maintient ses taux par 10 voix contre 2, les deux opposants voulant une hausse ; elle laisse la porte ouverte à de nouvelles hausses. Le taux américain à 10 ans tourne autour de 5 %."
-    },
-    {
-     "d": "28/10",
-     "t": "L'OAT 10 ans remonte vers 4,94 à 4,97 % (AFP et Reuters), écart avec le Bund vers 157 pb. Fed ce soir (maintien attendu), BCE demain (taux de dépôt à 2,50 % attendu)."
-    },
-    {
-     "d": "27/10",
-     "t": "Après le maintien de la note par Moody's, l'OAT 10 ans repasse sous 5 %, vers 4,92 % mardi (une seule source). BCE jeudi 29/10 : maintien attendu ; la Fed devrait aussi maintenir le 28/10 mais penche vers une hausse en décembre."
     }
    ],
    "id": "taux",
@@ -244,6 +247,10 @@
    "region": "Zone euro / États-Unis",
    "resume": "Le choc pétrolier relance l'inflation, et les deux grandes banques centrales ont remonté leurs taux en septembre au lieu de les baisser. Les marchés anticipent encore des hausses. C'est un vent contraire pour les petites et moyennes valeurs, pour l'immobilier et pour l'or.",
    "sources": [
+    "https://www.euronews.com/2026/11/04/us-midterms-what-trumps-defeat-means-for-europe-and-global-markets",
+    "https://www.pbs.org/newshour/politics/democrats-take-control-of-the-senate-after-winning-key-midterm-races",
+    "https://think.ing.com/snaps/eurozone-inflation-brings-ecb-closer-to-december-rate-hike",
+    "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-04112026-ap",
     "https://www.cnbc.com/2026/10/30/euro-zone-gdp-france.html",
     "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-16102026-ap",
     "https://www.investing.com/news/economy-news/ecb-keeps-rates-unchanged-euro-slips-4984045",
@@ -310,6 +317,14 @@
   {
    "faits": [
     {
+     "d": "03/11",
+     "t": "Le vote solennel sur les recettes du budget 2027 est reporté une deuxième fois (758 amendements restaient à examiner) ; aucune nouvelle date, les députés ont jusqu'au 17/11 pour la première lecture. Le 49.3 reste évoqué."
+    },
+    {
+     "d": "31/10",
+     "t": "Troisième journée de mobilisation : environ 320 000 manifestants selon le ministère de l'Intérieur, en net recul, et 565 interpellations ; heurts en fin de cortège dans plusieurs villes."
+    },
+    {
      "d": "30/10",
      "t": "Mobilisation du 31/10 : le tribunal administratif autorise le défilé de la CGT entre Bastille et Nation, le gouvernement fait appel ; 70 000 policiers et gendarmes mobilisés, couvre-feu à République et Châtelet du 31/10 au 02/11, manifestations interdites à Marseille et dans le centre de Lyon."
     },
@@ -324,14 +339,6 @@
     {
      "d": "27/10",
      "t": "Le moral des ménages tombe à 80 en octobre, plus bas depuis juin 2013 (Insee). Deuxième samedi de mobilisation le 24/10 (135 interpellations) ; les gilets jaunes appellent à de nouveaux rassemblements le 31/10."
-    },
-    {
-     "d": "23/10",
-     "t": "Moody's maintient la note de la France à Aa3 avec perspective négative, contre l'avis de la plupart des économistes qui attendaient une baisse à A1. La France reste un cran au-dessus des notes de S&P et Fitch (A+)."
-    },
-    {
-     "d": "23/10",
-     "t": "Moody's rend sa décision ce soir : note actuelle Aa3 avec perspective négative (S&P et Fitch déjà à A+). Une baisse d'un cran à A1 est largement attendue."
     }
    ],
    "id": "france",
@@ -345,6 +352,8 @@
    "region": "France",
    "resume": "Le gouvernement Lecornu présente un budget 2027 avec 54 Md€ d'effort pour ramener le déficit vers 4,8 à 5 % du PIB, mais la gauche promet la censure et le RN reste l'arbitre. L'écart de taux avec l'Allemagne est élevé mais s'est un peu détendu en fin de semaine dernière. C'est le risque principal pour les valeurs très françaises de ta liste.",
    "sources": [
+    "https://www.i24news.tv/fr/actu/france/artc-manifestations-en-france-320-000-personnes-dans-les-rues-une-mobilisation-en-baisse-sous-haute-surveillance",
+    "https://entrevue.fr/politique/budget-2027-le-vote-prevu-ce-mardi-reporte-les-deputes-toujours-empetres/",
     "https://www.publicsenat.fr/actualites/politique/mobilisation-du-31-octobre-a-quoi-faut-il-sattendre",
     "https://www.franceinfo.fr/societe/manifestations/direct-manifestations-du-31-octobre-le-parcours-du-defile-parisien-objet-d-un-bras-de-fer-entre-les-syndicats-et-les-autorites_8259785.html",
     "https://www.lalibre.be/dernieres-depeches/2026/10/30/en-france-le-pib-recule-au-3eme-trimestre-et-leconomie-francaise-est-a-larret-UHW4XPDVIFG65IBNED3EJGLIMQ/",
@@ -406,6 +415,14 @@
   {
    "faits": [
     {
+     "d": "02/11",
+     "t": "Le gaz européen recule nettement après son pic au-dessus de 100 € le MWh, sur l'espoir de discussions avec l'Iran."
+    },
+    {
+     "d": "01/11",
+     "t": "Les stocks de gaz européens sont à environ 75 % au début de l'hiver, le plus bas pour la saison ; l'Allemagne vers 61 % rate son objectif d'environ 70 % mais juge l'approvisionnement sûr. Une vague de froid arrive sur le nord-ouest de l'Europe."
+    },
+    {
      "d": "30/10",
      "t": "Le TTF repasse au-dessus de 100 € le MWh, vers 102,8 € (+5 % sur la journée), plus haut depuis fin 2022. Stocks européens remplis à environ 75 % au 29/10, Allemagne vers 62 %, loin de l'objectif du 01/11."
     },
@@ -420,14 +437,6 @@
     {
      "d": "24/10",
      "t": "Les stocks européens restent presque à plat sur la semaine et certains pays puisent déjà dans leurs réserves. Selon l'IEEFA, c'est le plus bas niveau pour la saison depuis 2011. Aucun GNL du Moyen-Orient n'est arrivé depuis mai."
-    },
-    {
-     "d": "22/10",
-     "t": "Le TTF repasse au-dessus de 90 € le MWh, au plus haut depuis décembre 2022, alors que l'Europe vise 90 % de remplissage au 01/11."
-    },
-    {
-     "d": "20/10",
-     "t": "Le TTF dépasse 90 €/MWh, une première depuis décembre 2022 ; stocks européens à 74,6 % contre 89,2 % en moyenne (Allemagne 61 %, France 88 %)."
     }
    ],
    "id": "gaz-hiver",
@@ -441,6 +450,8 @@
    "region": "Europe",
    "resume": "Les stocks de gaz européens sont nettement en retard sur la normale, surtout en Allemagne, alors que le GNL du Golfe arrive mal. Le TTF tient autour de 70 €/MWh, plus du double d'il y a un an. Un hiver froid ou une nouvelle escalade à Ormuz peut faire flamber le prix.",
    "sources": [
+    "https://energynews.pro/en/germany-says-gas-supply-is-secure-despite-storage-filled-to-615",
+    "https://www.energyconnects.com/news/gas-lng/2026/november/germany-misses-gas-storage-target-as-cold-snap-sets-in/",
     "https://www.newsbytesapp.com/news/world/dutch-ttf-futures-hit-eur10278-amid-low-european-reserves/tldr",
     "https://lenergeek.com/2026/10/29/gaz-europeen-ttf-100-euros-mwh-stocks-octobre-2026/",
     "https://www.rte.ie/news/business/2026/1028/1597116-european-gas-price/",
@@ -486,6 +497,14 @@
   {
    "faits": [
     {
+     "d": "03/11",
+     "t": "Des drones ukrainiens touchent la raffinerie de Iaroslavl (environ 300 000 barils par jour) ; la Russie frappe des installations énergétiques dans dix régions ukrainiennes."
+    },
+    {
+     "d": "02/11",
+     "t": "L'émissaire américain annonce des négociations entre l'Ukraine et la Russie, avec médiation américaine, les 10 et 11/11 à Abou Dhabi ; Zelensky lie sa venue à l'absence d'escalade au Moyen-Orient."
+    },
+    {
      "d": "30/10",
      "t": "Moscou confirme que des drones ukrainiens ont visé trois raffineries et un complexe gazochimique dans la nuit et dit avoir intercepté plus de 1 000 drones, un record : les frappes sur les raffineries reprennent, ce qui ajoute un risque sur le diesel."
     },
@@ -500,14 +519,6 @@
     {
      "d": "28/10",
      "t": "Selon Bloomberg, Zelensky dit que des pourparlers entre l'Ukraine, les États-Unis et la Russie pourraient se tenir à Abou Dhabi dès la semaine prochaine. Les frappes continuent, notamment sur le réseau électrique ukrainien."
-    },
-    {
-     "d": "22/10",
-     "t": "Nuit de frappes après la visite de Witkoff (7 morts côté ukrainien) ; le Kremlin accepte en principe des pourparlers à trois mi-novembre, Trump reporte de nouvelles sanctions."
-    },
-    {
-     "d": "21/10",
-     "t": "Après trois heures avec Witkoff, Moscou se dit prêt à reprendre des pourparlers à trois après le 10/11, sans reculer sur ses exigences."
     }
    ],
    "id": "russie-ukraine",
@@ -525,6 +536,8 @@
    "region": "Europe de l'Est",
    "resume": "Les pourparlers menés par les États-Unis ont repris début septembre mais Zelensky a rejeté le projet d'accord et Moscou pose des conditions territoriales jugées inacceptables. Les frappes de drones en mer Noire ont quasi stoppé les exportations maritimes de céréales des deux pays. Le blé reste nerveux mais recule quand l'espoir de cessez-le-feu revient.",
    "sources": [
+    "https://meduza.io/en/news/2026/11/03/trilateral-talks-between-russia-ukraine-and-us-set-for-november-10-11-in-abu-dhabi",
+    "https://www.themoscowtimes.com/2026/11/03/ukrainian-drones-hit-yaroslavl-oil-refinery-trigger-power-outages-in-crimea-a94162",
     "https://www.aljazeera.com/video/newsfeed/2026/10/30/russian-oil-refinery-struck-as-ukraine-renews-drone-attacks",
     "https://www.themoscowtimes.com/2026/10/30/3-killed-as-ukraine-renews-drone-strikes-against-oil-refineries-a94134",
     "https://www.tribuneindia.com/news/world/ukraine-strikes-russian-oil-refinery-in-samara-ends-2-week-pause-reports",
@@ -696,6 +709,10 @@
   {
    "faits": [
     {
+     "d": "03/11",
+     "t": "Le cuivre recule encore vers 6,40 $ la livre à New York, freiné par la baisse des valeurs liées à l'IA ; l'offre reste tendue, la production chilienne du T3 étant la plus faible depuis au moins vingt ans et Cochilco ayant abaissé ses prévisions 2026 et 2027."
+    },
+    {
      "d": "30/10",
      "t": "Le cuivre recule pour la deuxième séance et se dirige vers sa première baisse mensuelle depuis juin, pénalisé par la chute des valeurs liées à l'IA ; l'offre reste tendue (Rio Tinto suspend les opérations souterraines d'Oyu Tolgoi après une activité sismique)."
     },
@@ -714,10 +731,6 @@
     {
      "d": "28/09",
      "t": "Escondida reprend progressivement son activité après l'accident mortel du 23/09."
-    },
-    {
-     "d": "23/09",
-     "t": "BHP suspend toutes les opérations d'Escondida (Chili), plus grande mine de cuivre du monde, après un accident mortel ; vote syndical sur les salaires prévu fin septembre."
     }
    ],
    "id": "metaux",
@@ -735,6 +748,7 @@
    "region": "Monde (États-Unis, Chili)",
    "resume": "Le cuivre a battu son record au LME début septembre, porté par des achats américains avant d'éventuels droits sur le cuivre raffiné et par la demande IA et électrification. L'arrêt d'Escondida, première mine mondiale, après un accident mortel ajoute un risque d'offre. Les droits américains sur l'acier, l'aluminium et le cuivre européens restent élevés.",
    "sources": [
+    "https://www.miningweekly.com/article/cochilco-cuts-chilean-copper-forecast-for-2026-2027-2026-11-02",
     "https://www.bloomberg.com/news/articles/2026-10-30/copper-declines-as-tech-selloff-oil-rally-dent-risk-appetite",
     "https://www.brecorder.com/news/40446692/copper-set-for-first-monthly-loss-since-june-as-ai-spending-worries-weigh",
     "https://www.brecorder.com/news/40446174/copper-climbs-on-china-demand-strength",
