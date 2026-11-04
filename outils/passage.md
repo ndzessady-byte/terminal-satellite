@@ -13,3 +13,5 @@ Ce fichier est la consigne complète d'un passage. Les passages sont programmés
 7. Rattrapage : si le dernier commit « Analyses du » date de plus de 30 heures de bourse, couvrir toute la période manquée.
 
 Fiche complète d'une nouvelle valeur : consigne outils/consigne_fiche.txt.
+
+Limite d'utilisation : si un passage échoue sur une limite (erreur 429 ou « weekly limit »), prévenir Dylan tout de suite via SendUserMessage quand la session reprend, puis rattraper toute la période. Le screener mensuel se fait avec UN seul sous-agent à la fois (pas trois en parallèle), en dehors des heures de passage, pour ne pas épuiser la limite.

@@ -3,8 +3,8 @@
  "nom": "SWCC",
  "pays": "JP",
  "secteur": "Câbles électriques et de communication",
- "cours": 2297.5,
- "coursLe": "2026-10-30",
+ "cours": 2103.0,
+ "coursLe": "2026-11-04",
  "devise": "JPY",
  "capi": "environ 408 Md¥ (environ 2,3 Md€)",
  "per26": 17.4,
@@ -37,14 +37,6 @@
  "yahoo": "5805.T",
  "compte": "CTO",
  "histo": [
-  [
-   "06/10",
-   1542.0
-  ],
-  [
-   "07/10",
-   1554.0
-  ],
   [
    "08/10",
    1592.0
@@ -1075,13 +1067,21 @@
   ],
   [
    "30/10",
-   2297.5
+   2217.0
+  ],
+  [
+   "02/11",
+   2182.5
+  ],
+  [
+   "04/11",
+   2103.0
   ]
  ],
  "perf": {
-  "m1": -14.9,
-  "m3": 6.6,
-  "m12": 62.7
+  "m1": -25.7,
+  "m3": -0.4,
+  "m12": 47.5
  },
  "analyse": {
   "majLe": "2026-10-30",
@@ -1100,18 +1100,18 @@
    "greenblatt": "Rendement bénéficiaire calculé (résultat opérationnel prévu de 33 Md¥ / valeur d'entreprise de 433 Md¥) d'environ 7,6 % et ROIC visé de 13,8 % cette année : profil correct sur la formule magique, sans être exceptionnel."
   },
   "tech": {
-   "cours": 2297.5,
-   "coursLe": "2026-10-30",
-   "mm50": 2667.67,
-   "mm200": 2682.19,
-   "rsi14": 39.5,
+   "cours": 2103.0,
+   "coursLe": "2026-11-04",
+   "mm50": 2638.41,
+   "mm200": 2680.65,
+   "rsi14": 32.8,
    "haut52": 3806.0,
-   "bas52": 1412.0,
+   "bas52": 1426.0,
    "support": 2580,
    "resistance": 2940,
    "tendance": "baissiere",
    "stade": 4,
-   "lecture": "Cours de 2 297,50 en dessous de sa moyenne 50 jours (2 667,67) et en dessous de sa moyenne 200 jours (2 682,19). RSI 39,5 : élan neutre. Il se situe à 37 % de sa fourchette sur un an (de 1 412,00 à 3 806,00), performance sur 12 mois de 62,7 %. Clôture du 30/10/2026.",
+   "lecture": "Cours de 2 103,00 en dessous de sa moyenne 50 jours (2 638,41) et en dessous de sa moyenne 200 jours (2 680,65). RSI 32,8 : élan neutre. Il se situe à 28 % de sa fourchette sur un an (de 1 426,00 à 3 806,00), performance sur 12 mois de 47,5 %. Clôture du 04/11/2026.",
    "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json"
   },
   "actu": [

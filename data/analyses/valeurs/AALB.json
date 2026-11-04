@@ -108,18 +108,18 @@
   ],
   "tech": {
    "bas52": 26.04,
-   "cours": 41.22,
-   "coursLe": "2026-10-30",
+   "cours": 42.34,
+   "coursLe": "2026-11-03",
    "haut52": 45.08,
-   "lecture": "Cours de 41,22 en dessous de sa moyenne 50 jours (42,07) et au-dessus de sa moyenne 200 jours (37,85). RSI 46,5 : élan neutre. Il se situe à 80 % de sa fourchette sur un an (de 26,04 à 45,08), performance sur 12 mois de 54,4 %. Clôture du 30/10/2026.",
-   "mm200": 37.85,
-   "mm50": 42.07,
+   "lecture": "Cours de 42,34 au-dessus de sa moyenne 50 jours (42,04) et au-dessus de sa moyenne 200 jours (37,97). RSI 53,9 : élan neutre. Il se situe à 86 % de sa fourchette sur un an (de 26,04 à 45,08), performance sur 12 mois de 62,6 %. Clôture du 03/11/2026.",
+   "mm200": 37.97,
+   "mm50": 42.04,
    "resistance": 45.5,
-   "rsi14": 46.5,
+   "rsi14": 53.9,
    "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json",
-   "stade": 3,
+   "stade": 2,
    "support": 38.78,
-   "tendance": "neutre"
+   "tendance": "haussiere"
   },
   "verdict": "Aalberts est un industriel diversifie (batiment, industrie, semi-conducteurs) qui retrouve de la croissance organique (+5 %) et des marges en hausse, porte par ses equipements pour les usines de puces liees a l'IA et par un rachat d'actions. Apres +49 % depuis janvier, l'action se paie environ 18,7 fois le benefice 2026, un prix correct seulement si les marges continuent de monter vers l'objectif de 18 % en 2030.",
   "zones": {
@@ -160,8 +160,8 @@
   "veilleLe": "2026-10-30"
  },
  "capi": "4,5 Md€",
- "cours": 41.22,
- "coursLe": "2026-10-30",
+ "cours": 42.34,
+ "coursLe": "2026-11-03",
  "devise": "€",
  "faits": [
   {
@@ -182,14 +182,6 @@
   }
  ],
  "histo": [
-  [
-   "24/10",
-   28.34
-  ],
-  [
-   "27/10",
-   28.6
-  ],
   [
    "28/10",
    28.56
@@ -1221,6 +1213,14 @@
   [
    "30/10",
    41.22
+  ],
+  [
+   "02/11",
+   41.76
+  ],
+  [
+   "03/11",
+   42.34
   ]
  ],
  "nom": "Aalberts",
@@ -1229,9 +1229,9 @@
  "per26": 18.7,
  "per27": 15.8,
  "perf": {
-  "m1": -3.3,
-  "m3": -6.8,
-  "m12": 54.4
+  "m1": -2.8,
+  "m3": -5.6,
+  "m12": 62.6
  },
  "pub": "2026-10-22",
  "pubLabel": "Point d'activité du T3",
