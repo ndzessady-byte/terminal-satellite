@@ -97,18 +97,18 @@
   ],
   "tech": {
    "bas52": 378.55,
-   "cours": 401.5,
-   "coursLe": "2026-11-03",
+   "cours": 416.25,
+   "coursLe": "2026-11-04",
    "haut52": 652.1,
-   "lecture": "Cours de 401,50 en dessous de sa moyenne 50 jours (403,35) et en dessous de sa moyenne 200 jours (467,77). RSI 57,7 : élan neutre. Il se situe à 8 % de sa fourchette sur un an (de 378,55 à 652,10), performance sur 12 mois de -33,4 %. Clôture du 03/11/2026.",
-   "mm200": 467.77,
-   "mm50": 403.35,
+   "lecture": "Cours de 416,25 au-dessus de sa moyenne 50 jours (402,60) et en dessous de sa moyenne 200 jours (466,89). RSI 66,8 : élan neutre. Il se situe à 14 % de sa fourchette sur un an (de 378,55 à 652,10), performance sur 12 mois de -32,6 %. Clôture du 04/11/2026.",
+   "mm200": 466.89,
+   "mm50": 402.6,
    "resistance": 390,
-   "rsi14": 57.7,
+   "rsi14": 66.8,
    "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json",
-   "stade": 4,
+   "stade": 1,
    "support": 375.65,
-   "tendance": "baissiere"
+   "tendance": "neutre"
   },
   "verdict": "LVMH reste le leader mondial du luxe avec une marge opérationnelle de 22,5 % au S1 2026, une dette faible et un cash-flow solide, mais sa Mode et Maroquinerie est retombée à -5 % en organique au T3 à cause de la Chine. Après une baisse de plus de 40 % depuis janvier, le titre se paie environ 16,5 à 17,7 fois les bénéfices 2026 et offre un rendement du cash-flow libre d'environ 5 à 6 %, contre environ 3,5 % fin 2025. Le cours de 383 € reste au-dessus de la zone d'intérêt (330 à 350 €) et la tendance est baissière : la patience est de mise tant que la mode ne se redresse pas.",
   "zones": {
@@ -151,8 +151,8 @@
  },
  "capi": "188,8 Md€",
  "compte": "PEA",
- "cours": 401.5,
- "coursLe": "2026-11-03",
+ "cours": 416.25,
+ "coursLe": "2026-11-04",
  "devise": "€",
  "faits": [
   {
@@ -173,10 +173,6 @@
   }
  ],
  "histo": [
-  [
-   "28/10",
-   614.6
-  ],
   [
    "29/10",
    618.8
@@ -1212,6 +1208,10 @@
   [
    "03/11",
    401.5
+  ],
+  [
+   "04/11",
+   416.25
   ]
  ],
  "nom": "LVMH Moët Hennessy Louis Vuitton",
@@ -1220,9 +1220,9 @@
  "per26": null,
  "per27": null,
  "perf": {
-  "m1": 5.4,
-  "m3": -16.6,
-  "m12": -33.4
+  "m1": 7.9,
+  "m3": -13.3,
+  "m12": -32.6
  },
  "pub": null,
  "pubLabel": "Résultats annuels 2026 (fin janvier 2027, date non encore publiée) ; détachement de l'acompte de 5,50 € le 01/12/2026",

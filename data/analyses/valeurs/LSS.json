@@ -110,14 +110,14 @@
   ],
   "tech": {
    "bas52": 15.2,
-   "cours": 17.68,
-   "coursLe": "2026-11-03",
+   "cours": 17.98,
+   "coursLe": "2026-11-04",
    "haut52": 25.5,
-   "lecture": "Cours de 17,68 en dessous de sa moyenne 50 jours (21,18) et en dessous de sa moyenne 200 jours (19,09). RSI 29,4 : élan faible. Il se situe à 24 % de sa fourchette sur un an (de 15,20 à 25,50), performance sur 12 mois de -21,8 %. Clôture du 03/11/2026.",
-   "mm200": 19.09,
-   "mm50": 21.18,
+   "lecture": "Cours de 17,98 en dessous de sa moyenne 50 jours (21,09) et en dessous de sa moyenne 200 jours (19,06). RSI 32,2 : élan neutre. Il se situe à 27 % de sa fourchette sur un an (de 15,20 à 25,50), performance sur 12 mois de -20,4 %. Clôture du 04/11/2026.",
+   "mm200": 19.06,
+   "mm50": 21.09,
    "resistance": 23.4,
-   "rsi14": 29.4,
+   "rsi14": 32.2,
    "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json",
    "stade": 3,
    "support": 20.5,
@@ -155,8 +155,8 @@
   "veilleLe": "2026-11-04"
  },
  "capi": "903 M€",
- "cours": 17.68,
- "coursLe": "2026-11-03",
+ "cours": 17.98,
+ "coursLe": "2026-11-04",
  "devise": "€",
  "faits": [
   {
@@ -177,10 +177,6 @@
   }
  ],
  "histo": [
-  [
-   "28/10",
-   23.55
-  ],
   [
    "29/10",
    23.85
@@ -1216,6 +1212,10 @@
   [
    "03/11",
    17.68
+  ],
+  [
+   "04/11",
+   17.98
   ]
  ],
  "nom": "Lectra",
@@ -1224,9 +1224,9 @@
  "per26": 30.4,
  "per27": 23.4,
  "perf": {
-  "m1": -14.6,
-  "m3": -21.8,
-  "m12": -21.8
+  "m1": -16.0,
+  "m3": -21.3,
+  "m12": -20.4
  },
  "pub": "2027-02-10",
  "pubLabel": "Résultats annuels 2026 (après bourse)",

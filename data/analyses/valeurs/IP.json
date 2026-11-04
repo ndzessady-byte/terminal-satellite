@@ -106,14 +106,14 @@
   ],
   "tech": {
    "bas52": 30.98,
-   "cours": 38.22,
-   "coursLe": "2026-11-03",
+   "cours": 38.26,
+   "coursLe": "2026-11-04",
    "haut52": 51.0,
-   "lecture": "Cours de 38,22 au-dessus de sa moyenne 50 jours (36,26) et au-dessus de sa moyenne 200 jours (36,75). RSI 58,9 : élan neutre. Il se situe à 36 % de sa fourchette sur un an (de 30,98 à 51,00), performance sur 12 mois de -14,3 %. Clôture du 03/11/2026.",
-   "mm200": 36.75,
-   "mm50": 36.26,
+   "lecture": "Cours de 38,26 au-dessus de sa moyenne 50 jours (36,27) et au-dessus de sa moyenne 200 jours (36,70). RSI 59,1 : élan neutre. Il se situe à 36 % de sa fourchette sur un an (de 30,98 à 51,00), performance sur 12 mois de -12,7 %. Clôture du 04/11/2026.",
+   "mm200": 36.7,
+   "mm50": 36.27,
    "resistance": 36.7,
-   "rsi14": 58.9,
+   "rsi14": 59.1,
    "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json",
    "stade": 1,
    "support": 33.7,
@@ -151,8 +151,8 @@
   "veilleLe": "2026-11-04"
  },
  "capi": "3,7 Md€",
- "cours": 38.22,
- "coursLe": "2026-11-03",
+ "cours": 38.26,
+ "coursLe": "2026-11-04",
  "devise": "€",
  "faits": [
   {
@@ -173,10 +173,6 @@
   }
  ],
  "histo": [
-  [
-   "24/10",
-   42.94
-  ],
   [
    "27/10",
    43.06
@@ -1212,6 +1208,10 @@
   [
    "03/11",
    38.22
+  ],
+  [
+   "04/11",
+   38.26
   ]
  ],
  "nom": "Interpump Group",
@@ -1220,9 +1220,9 @@
  "per26": 16.5,
  "per27": 14.8,
  "perf": {
-  "m1": 7.3,
-  "m3": -1.3,
-  "m12": -14.3
+  "m1": 3.1,
+  "m3": 0.2,
+  "m12": -12.7
  },
  "pub": "2026-11-13",
  "pubLabel": "Résultats du T3",

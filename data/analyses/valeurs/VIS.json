@@ -108,18 +108,18 @@
   ],
   "tech": {
    "bas52": 51.6,
-   "cours": 54.7,
-   "coursLe": "2026-11-03",
+   "cours": 55.9,
+   "coursLe": "2026-11-04",
    "haut52": 62.1,
-   "lecture": "Cours de 54,70 en dessous de sa moyenne 50 jours (54,72) et en dessous de sa moyenne 200 jours (57,17). RSI 54,4 : élan neutre. Il se situe à 30 % de sa fourchette sur un an (de 51,60 à 62,10), performance sur 12 mois de 2,6 %. Clôture du 03/11/2026.",
+   "lecture": "Cours de 55,90 au-dessus de sa moyenne 50 jours (54,69) et en dessous de sa moyenne 200 jours (57,17). RSI 63,1 : élan neutre. Il se situe à 41 % de sa fourchette sur un an (de 51,60 à 62,10), performance sur 12 mois de 5,1 %. Clôture du 04/11/2026.",
    "mm200": 57.17,
-   "mm50": 54.72,
+   "mm50": 54.69,
    "resistance": 57.8,
-   "rsi14": 54.4,
+   "rsi14": 63.1,
    "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json",
-   "stade": 4,
+   "stade": 1,
    "support": 53.11,
-   "tendance": "baissiere"
+   "tendance": "neutre"
   },
   "verdict": "Viscofan, leader mondial des boyaux pour charcuterie, offre un rendement élevé (environ 6 % en comptant le dividende exceptionnel) et un plan ambitieux à 2030, pour un PER d'environ 15,6, sous sa moyenne. Mais les marges souffrent de l'énergie, des matières premières et des devises en 2026, et le cours est au plus bas de l'année sous ses moyennes mobiles : la thèse est intacte, la tendance ne l'est pas encore.",
   "zones": {
@@ -159,8 +159,8 @@
   "veilleLe": "2026-11-04"
  },
  "capi": "2,5 Md€",
- "cours": 54.7,
- "coursLe": "2026-11-03",
+ "cours": 55.9,
+ "coursLe": "2026-11-04",
  "devise": "€",
  "faits": [
   {
@@ -181,10 +181,6 @@
   }
  ],
  "histo": [
-  [
-   "28/10",
-   54.4
-  ],
   [
    "29/10",
    54.0
@@ -1220,6 +1216,10 @@
   [
    "03/11",
    54.7
+  ],
+  [
+   "04/11",
+   55.9
   ]
  ],
  "nom": "Viscofan",
@@ -1228,9 +1228,9 @@
  "per26": 15.6,
  "per27": 14.2,
  "perf": {
-  "m1": 3.4,
-  "m3": -3.5,
-  "m12": 2.6
+  "m1": 4.3,
+  "m3": -2.6,
+  "m12": 5.1
  },
  "pub": "2026-10-22",
  "pubLabel": "Résultats du T3 2026 (après la clôture)",
