@@ -1,0 +1,25 @@
+{
+ "ticker": "MYCR",
+ "nom": "Mycronic",
+ "pays": "SE",
+ "secteur": "Équipements de production électronique et masques",
+ "marche": "Nasdaq Stockholm",
+ "devise": "SEK",
+ "compte": "PEA",
+ "cours": 292.4,
+ "coursLe": "2026-11-04",
+ "capi": "environ 58,4 Md SEK (environ 5,2 Md€)",
+ "per26": null,
+ "score": 5.5,
+ "these": "Machines d'assemblage électronique automatisé et graveurs de masques photo, utilisés notamment pour l'électronique liée à l'IA. Au T3 2026, ventes +38 % à 2 356 M SEK et marge EBIT de 26 % (15 % un an plus tôt) ; sur 9 mois, ventes +23 %, marge de 31 %, commandes +39 %. Objectif de ventes 2026 relevé de 9,25 à 9,75 Md SEK.",
+ "lienGeo": "Très exposé à l'Asie (Chine, Taïwan, Corée) pour les masques et les écrans : sensible aux restrictions d'exportation vers la Chine.",
+ "risque": "Valorisation déjà tendue (environ 29 fois les résultats passés) alors que le marché sanctionne les valeurs de l'IA ; activité masques irrégulière d'un trimestre à l'autre.",
+ "yahoo": "MYCR.ST",
+ "source": "https://www.inderes.se/en/releases/interim-report-january-september-2026-8",
+ "sources": [
+  "https://www.inderes.se/en/releases/interim-report-january-september-2026-8",
+  "https://www.nordnet.se/aktier/kurser/mycronic-mycr-xsto"
+ ],
+ "notes": "Cours et PER passé d'une seule source (Nordnet). PER 2026 et trésorerie nette non vérifiés. Croissance sur 3 ans non revérifiée. Éligibilité au PEA à confirmer auprès du courtier.",
+ "proposeLe": "2026-11-04"
+}

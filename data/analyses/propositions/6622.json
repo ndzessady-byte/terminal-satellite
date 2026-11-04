@@ -1,0 +1,25 @@
+{
+ "ticker": "6622",
+ "nom": "Daihen",
+ "pays": "JP",
+ "secteur": "Transformateurs, robots de soudage, alimentation pour semi-conducteurs",
+ "marche": "Bourse de Tokyo (Prime)",
+ "devise": "JPY",
+ "compte": "CTO",
+ "cours": 2366,
+ "coursLe": "2026-11-02",
+ "capi": "environ 294,6 Md¥ (environ 1,7 Md€)",
+ "per26": 16.9,
+ "score": 6.5,
+ "these": "Trois thèmes en un : transformateurs pour les réseaux, robots de soudage et alimentation pour équipements de semi-conducteurs. Exercice clos en mars 2026 : ventes 237,7 Md¥ (+5 %), résultat opérationnel 18,8 Md¥ (+16,1 %). Prévision pour l'exercice suivant : ventes 280 Md¥ (+17,8 %), résultat opérationnel 25 Md¥ (+33,1 %), avec un T1 en ligne (ventes +13,1 %, résultat +28,9 %). Environ 16,9 fois le BPA prévu.",
+ "lienGeo": "Activité centrée sur le Japon, exposée à la Chine et à l'Asie par les robots et les semi-conducteurs (restrictions d'exportation).",
+ "risque": "Rentabilité moyenne (marge opérationnelle de 7,9 %, ROE de 9,7 %) et flux de trésorerie d'exploitation tombés à 4,9 Md¥ contre 24,0 Md¥, à cause du besoin en fonds de roulement.",
+ "yahoo": "6622.T",
+ "source": "https://www2.jpx.co.jp/disc/66220/081220260508520535_tse-acedjpsm-66220-20260511366220-ixbrl.htm",
+ "sources": [
+  "https://www2.jpx.co.jp/disc/66220/081220260508520535_tse-acedjpsm-66220-20260511366220-ixbrl.htm",
+  "https://www2.jpx.co.jp/disc/66220/081220260803507027_tse-qcedjpsm-66220-20260804366220-ixbrl.htm"
+ ],
+ "notes": "Cours au 02/11 (une source), après division par 5 au 01/10/2026. PER calculé sur le BPA prévu par la société (139,79 ¥ ajusté). Dette financière non publiée dans le résumé. Résultats du T2 attendus début novembre, non intégrés.",
+ "proposeLe": "2026-11-04"
+}

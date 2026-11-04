@@ -1,0 +1,25 @@
+{
+ "ticker": "VLX",
+ "nom": "Volex",
+ "pays": "GB",
+ "secteur": "Câbles et connectique (data centers, électrification)",
+ "marche": "Bourse de Londres",
+ "devise": "GBP",
+ "compte": "CTO",
+ "cours": 5.6,
+ "coursLe": "2026-11-02",
+ "capi": "environ 1,02 Md£ (environ 1,2 Md€)",
+ "per26": null,
+ "score": 7,
+ "these": "Exercice clos fin mars 2026 : chiffre d'affaires record de 1 242,6 M$ (+14,4 %), marge opérationnelle sous-jacente de 10,2 %, résultat opérationnel +19,9 %, data centers +56,3 % en organique. Au S1 de l'exercice 2027, ventes au-dessus de 710 M$ (au moins +21 % en organique) et résultat annuel visé dans le haut des attentes. ROCE d'environ 20 %, levier au plus 1,2 fois.",
+ "lienGeo": "Production mondiale (Asie, Europe, Amériques) : exposée aux droits de douane et aux chaînes d'approvisionnement asiatiques.",
+ "risque": "Ventes aux data centers du S1 sous celles du S2 précédent, l'offre des concurrents s'étant normalisée ; dépendance à quelques grands clients de l'IA.",
+ "yahoo": "VLX.L",
+ "source": "https://www.investegate.co.uk/announcement/rns/volex--vlx/half-year-trading-update/9828243",
+ "sources": [
+  "https://www.investegate.co.uk/announcement/rns/volex--vlx/half-year-trading-update/9828243",
+  "https://www.investegate.co.uk/announcement/rns/volex--vlx/preliminary-group-results-fy2026/9635420"
+ ],
+ "notes": "Cours de 560 pence le 02/11 (une source). Capitalisation calculée avec 182,3 M d'actions. PER non confirmé. Chiffres annuels lus dans un résumé et la présentation. Résultats semestriels le 12/11/2026.",
+ "proposeLe": "2026-11-04"
+}

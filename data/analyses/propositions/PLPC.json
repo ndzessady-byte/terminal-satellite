@@ -1,0 +1,25 @@
+{
+ "ticker": "PLPC",
+ "nom": "Preformed Line Products",
+ "pays": "US",
+ "secteur": "Équipements pour réseaux électriques",
+ "marche": "Nasdaq",
+ "devise": "USD",
+ "compte": "CTO",
+ "cours": 291.15,
+ "coursLe": "2026-10-30",
+ "capi": "environ 1,42 Md$ (environ 1,2 Md€)",
+ "per26": null,
+ "score": 7,
+ "these": "Fabricant de pièces de fixation et de connectique pour les lignes de transport et de distribution d'électricité, porté par les investissements dans les réseaux. Au T3 2026, ventes +18 % à 209,5 M$ et marge brute +370 points de base à 33,4 % ; sur 9 mois, ventes +21 % à 598,5 M$ et BPA hors charge de retraite de 2025 +46 %. Environ 99 M$ de trésorerie pour environ 56 M$ de dette.",
+ "lienGeo": "Activité surtout américaine, avec une exposition à l'Asie-Pacifique ; la direction cite les droits de douane.",
+ "risque": "Croissance passée irrégulière selon le cycle des réseaux (à vérifier sur 3 ans). Titre peu liquide (environ 4,9 millions d'actions), contrôlé en partie par la famille fondatrice.",
+ "yahoo": "PLPC",
+ "source": "https://www.sec.gov/Archives/edgar/data/0000080035/000008003526000034/plpc-10qxexx991x2026q3.htm",
+ "sources": [
+  "https://www.sec.gov/Archives/edgar/data/0000080035/000008003526000034/plpc-10qxexx991x2026q3.htm",
+  "https://www.sec.gov/Archives/edgar/data/0000080035/000008003526000036/plpc-20260930.htm"
+ ],
+ "notes": "Cours au 30/10 (334,94 $ le 26/10 avant la baisse générale), une seule source. PER 2026 non confirmé. Dette calculée à partir du bilan. Ventes 2023 et 2024 non revérifiées.",
+ "proposeLe": "2026-11-04"
+}
