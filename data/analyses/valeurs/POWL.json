@@ -14,6 +14,10 @@
  "risque": "Valorisation d'environ 35 fois les bénéfices des 12 derniers mois alors que le BPA ne progresse que d'environ 8 % et a manqué le consensus deux trimestres de suite ; dépendance encore forte au pétrole, au gaz et à la pétrochimie ; risque d'exécution sur les très grosses commandes ; risque de change sur le dollar.",
  "faits": [
   {
+   "d": "04/11",
+   "t": "Environ -12,9 % sans communiqué de la société, le jour où les valeurs liées aux data centers chutent après la victoire démocrate au Congrès (GE Vernova environ -11 %, Vertiv, Modine et Comfort Systems en forte baisse)."
+  },
+  {
    "d": "03/11",
    "t": "+6,1 % sans nouvelle commerciale, le jour du rebond des valeurs liées à l'IA ; dividende trimestriel habituel de 0,09 $ (versé le 16/12)."
   },
@@ -24,10 +28,6 @@
   {
    "d": "22/10",
    "t": "Clôture à 150,71 $, près du plus bas de la séance (149,25 $), sans communiqué."
-  },
-  {
-   "d": "22/10",
-   "t": "Recul d'environ 8 à 10 % en séance vers 153 $, sans communiqué : baisse générale des équipements électriques liés à l'IA (GE Vernova -11 %, Vertiv -14 % sur la semaine)."
   }
  ],
  "pub": null,
@@ -1084,7 +1084,7 @@
   "m12": 12.2
  },
  "analyse": {
-  "majLe": "2026-10-30",
+  "majLe": "2026-11-04",
   "verdict": "Powell vit un changement d'échelle : le carnet de commandes a presque doublé en un an pour atteindre 2,4 Md$, tiré par les data centers et les réseaux électriques, avec un bilan sans dette et 634 M$ de trésorerie. Mais le bénéfice ne suit pas encore (BPA +8 % au T3, deux trimestres sous les attentes), et l'action reste chère à environ 35 fois les bénéfices des 12 derniers mois malgré sa chute de 43 % depuis mai. Le dossier dépend presque entièrement de la capacité à livrer ce carnet avec de bonnes marges en 2027 et 2028. À suivre de près, avec une marge de sécurité encore faible.",
   "conviction": "moyenne",
   "revisions": "Mouvement plutôt à la baisse sur les objectifs : Cantor Fitzgerald est passé de 320 $ à 235 $ le 14/08/2026. Objectif moyen de 280 $ pour 4 analystes selon StockAnalysis (une seule source). Le BPA du T3 (1,42 $) a manqué le consensus de 1,49 $, deuxième déception d'affilée.",
@@ -1116,6 +1116,13 @@
   },
   "actu": [
    {
+    "d": "04/11",
+    "fait": "Forte baisse sans nouvelle propre à Powell : après la victoire démocrate, le marché vend les fournisseurs des data centers, par crainte de plus d'enquêtes sur la course à l'IA et de moratoires locaux sur les nouveaux data centers. Une source isolée (The Motley Fool) évoque un moratoire défendu au Texas, qui porterait environ 27 % des capacités prévues aux États-Unis : non vérifié.",
+    "impact": "negatif",
+    "horizon": "moyen",
+    "lecture": "Le risque devient en partie politique : Powell est une société texane très exposée aux data centers et aux réseaux, donc un frein réglementaire toucherait le moteur de croissance de la thèse. Aucune annulation de commande n'est annoncée ; les résultats annuels (mi-novembre) diront si le carnet tient."
+   },
+   {
     "d": "30/10",
     "fait": "Nouvelle forte baisse sans communiqué, au milieu d'une vente générale des valeurs d'infrastructure pour l'IA : doutes sur le retour des dépenses d'IA après Amazon et Intel, commandes de nVent jugées faibles.",
     "impact": "negatif",
@@ -1135,13 +1142,6 @@
     "impact": "negatif",
     "horizon": "court",
     "lecture": "La plus grosse commande récente de Powell vient d'un data center : un doute sur le financement des data centers touche directement la partie du dossier qui portait le cours."
-   },
-   {
-    "d": "01/10",
-    "fait": "Cantor Fitzgerald réitère sa note neutre (objectif 235 $) en citant une demande toujours forte ; le titre gagne 3,3 %.",
-    "impact": "neutre",
-    "horizon": "court",
-    "lecture": "L'analyste reconnaît la demande mais reste prudent sur la valorisation et la conversion du carnet en bénéfices."
    }
   ],
   "scenarios": [
@@ -1187,6 +1187,8 @@
    "Weinstein (stades)"
   ],
   "sources": [
+   "https://www.fool.com/investing/2026/11/04/data-center-stocks-just-plunged-after-the-midterms-is-it-time-to-buy-the-dip/",
+   "https://www.thestar.com.my/tech/tech-news/2026/11/05/ai-data-center-stocks-slide-renewables-rally-after-democratic-us-midterm-sweep",
    "https://finance.yahoo.com/markets/stocks/articles/powell-industries-declares-quarterly-cash-211500391.html",
    "https://www.staradvertiser.com/2026/10/30/breaking-news/tech-stocks-tumble-as-amazon-intel-fuel-ai-spending-fears/",
    "https://www.aaii.com/investingideas/article/550288-why-powell-industries-inc8217s-powl-stock-is-down-571",

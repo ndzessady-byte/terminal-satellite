@@ -3,6 +3,13 @@
   "aVerifier": "Dette nette au 30/06/2026 non trouvée (dernière donnée : 166,3 M€ au 31/03). RSI 14 calculé par nous en moyenne simple sur les clôtures Investing (Investing affichait 13,5, valeur incohérente avec l'évolution des cours, donc écartée). PEG de 0,4 peu fiable car calculé sur un rebond cyclique. ROE estimée par calcul. Dates des résultats du 3e trimestre et annuels à confirmer.",
   "actu": [
    {
+    "d": "04/11",
+    "fait": "La rentabilité continue de monter grâce aux prix (EBITDA courant 95 M€, marge 6,4 %, résultat net 34 M€ contre 9 M€). JACQUET et STAPPERT progressent, mais IMS group recule encore (CA -1,5 %, volumes -5,4 %, Allemagne difficile). Le besoin en fonds de roulement monte et la dette nette passe à 214 M€.",
+    "impact": "positif",
+    "horizon": "moyen",
+    "lecture": "Le point bas des marges est confirmé et les prix remontent, comme la thèse l'attendait. Mais les volumes ne repartent pas, surtout en Allemagne, et le stock absorbe du cash : la reprise est celle des prix, pas encore celle de l'activité."
+   },
+   {
     "d": "18/09",
     "fait": "Hausse des taux souverains européens et américains (taux français à 10 ans à 4,55 %), dans un contexte de tensions au Moyen-Orient cité par la société.",
     "horizon": "court",
@@ -22,13 +29,6 @@
     "horizon": "long",
     "impact": "positif",
     "lecture": "Moins d'importations à bas prix soutient les prix de l'acier en Europe, ce qui aide les marges d'un distributeur qui détient des stocks, même si cela peut renchérir certains achats."
-   },
-   {
-    "d": "12/05",
-    "fait": "1er trimestre 2026 : dette nette portée à 166,3 M€ et endettement à 25 % des fonds propres (21 % fin 2025), besoin en fonds de roulement en hausse de 39 M€ ; 50 M€ d'investissements prévus en 2026.",
-    "horizon": "moyen",
-    "impact": "negatif",
-    "lecture": "Le groupe investit avant la reprise ; si elle tarde, la dette et les frais financiers pèseront sur des bénéfices encore faibles."
    }
   ],
   "cadres": [
@@ -52,7 +52,7 @@
    "score": 5,
    "valo": "Au cours de 20,65 € : PER d'environ 15 fois pour 2026 et 9,9 fois pour 2027, valeur d'entreprise d'environ 562 M€ soit environ 5 fois l'EBITDA attendu en 2026 (111,6 M€), rendement du dividende d'environ 1 % (Zonebourse). La capitalisation (environ 420 M€) représente environ 0,63 fois les fonds propres, une décote classique pour une cyclique en bas de cycle. Moyenne de PER sur cinq ans non pertinente, les bénéfices ayant varié de 6 à 180 M€."
   },
-  "majLe": "2026-09-28",
+  "majLe": "2026-11-04",
   "revisions": "Non trouvé : pas d'historique des estimations. BPA attendu 1,25 € en 2026 et 1,94 € en 2027 (ABC Bourse).",
   "scenarios": [
    {
@@ -89,6 +89,8 @@
    }
   ],
   "sources": [
+   "https://www.tradingsat.com/jacquet-metals-FR0000033904/actualites/jacquet-metals-jacquet-metals-ameliore-nettement-sa-rentabilite-sur-9-mois-1173173.html",
+   "https://www.abcbourse.com/marches/newsContent/705621",
    "https://www.optionfinance.fr/info-financiere-en-continu/d/2026-09-10-jacquet-metals.html",
    "https://www.abcbourse.com/marches/jacquet-metals-ameliore-sa-rentabilite-au-1er-semestre-2026-malgre-une-visibilit_702298",
    "https://www.boursorama.com/bourse/actualites/jacquet-metals-resultats-au-30-septembre-2026-f62e91907e64aa4e15681752ae25afc2",
@@ -162,6 +164,18 @@
  "coursLe": "2026-11-04",
  "devise": "€",
  "faits": [
+  {
+   "d": "04/11",
+   "t": "9 mois : CA 1 479 M€ (+3,7 %), EBITDA courant 95 M€ (marge 6,4 % contre 4,9 %), résultat net part du groupe 34 M€ contre 9 M€."
+  },
+  {
+   "d": "04/11",
+   "t": "T3 seul : CA 478 M€ (+8,6 %), porté par les prix (+8,2 %) avec des volumes en léger recul (-0,6 %)."
+  },
+  {
+   "d": "04/11",
+   "t": "Dette nette 214 M€, soit 31,1 % des fonds propres (21,4 % fin 2025) ; stocks en hausse de 45 M€ à 613 M€. La direction prévoit des trimestres semblables au début d'année."
+  },
   {
    "d": "09/09",
    "t": "S1 : CA 1 001 M€, EBITDA courant 60 M€ (6 %), résultat net 22 M€ contre 6 M€. Rachat d'Energy Steel Products (États-Unis)."
@@ -1219,8 +1233,8 @@
   "m3": 1.4,
   "m12": 21.6
  },
- "pub": "2026-11-04",
- "pubLabel": "Résultats du T3",
+ "pub": null,
+ "pubLabel": "Résultats annuels 2026 (mars 2027, date non publiée)",
  "risque": "La direction dit elle-même avoir peu de visibilité.",
  "secteur": "Distribution d'aciers spéciaux",
  "societe": {
@@ -1415,53 +1429,53 @@
     {
      "c": "Que le cycle de l'acier et l'industrie européenne (surtout allemande) repartent, car les profits de Jacquet sont très sensibles aux volumes et aux prix.",
      "etat": "watch",
-     "preuve": "S1 2026 : CA 1 001 M€ (+1,4 %), marge d'EBITDA 6,0 % contre 4,9 %, volumes IMS group -4,4 %.",
+     "preuve": "9 mois : marge d'EBITDA 6,4 % contre 4,9 % ; T3 : prix +8,2 %, volumes -0,6 %.",
      "prochain": "Résultats du T3 2026 le 04/11/2026",
-     "reponse": "Le point bas semble passé pour les marges, mais la reprise des volumes reste timide et la direction prévoit des trimestres semblables au premier semestre, avec une visibilité réduite.",
-     "source": "https://www.webdisclosure.com/press-release/jacquet-metal-service-epa-jcq-informations-privilegiees-communique-sur-comptes-resultats-Z5qiVQtjiUC"
+     "reponse": "Moitié oui : les prix et les marges remontent, mais les volumes ne repartent pas et l'Allemagne reste difficile.",
+     "source": "https://www.abcbourse.com/marches/newsContent/705621"
     },
     {
      "c": "Que la taxe carbone aux frontières de l'UE et la protection du marché européen fassent remonter les prix et les marges des distributeurs.",
-     "etat": "watch",
-     "preuve": "S1 2026 : effet prix -0,3 % ; quotas d'importation réduits d'environ 47 % et droit hors quota de 50 % depuis le 01/07/2026.",
+     "etat": "ok",
+     "preuve": "T3 : effet prix +8,2 % ; marge brute 25,4 % sur 9 mois contre 23,5 %.",
      "prochain": "Résultats du T3 2026 le 04/11/2026",
-     "reponse": "Les nouvelles protections européennes sont en place depuis le 01/07/2026, mais leur effet sur les prix ne se voit pas encore dans les comptes du premier semestre.",
-     "source": "https://www.webdisclosure.com/press-release/jacquet-metal-service-epa-jcq-informations-privilegiees-communique-sur-comptes-resultats-Z5qiVQtjiUC"
+     "reponse": "Oui pour l'instant : les prix remontent nettement au T3 et la marge brute progresse, sans que le communiqué chiffre la part due aux protections.",
+     "source": "https://www.abcbourse.com/marches/newsContent/705621"
     },
     {
      "c": "Que la famille Jacquet continue à bien allouer le capital (rachats d'actions, acquisitions à bas prix au creux du cycle) sans sacrifier le bilan.",
      "etat": "ok",
-     "preuve": "S1 2026 : rachats de Sabater Fundimol (Espagne) et Energy Steel Products (États-Unis), dette nette 143 M€ soit 21 % des fonds propres ; 467 679 actions annulées au 30/06/2026 et 5,76 % d'autodétention.",
+     "preuve": "Dette nette 214 M€ pour 689 M€ de fonds propres ; 383 M€ de lignes de crédit non utilisées.",
      "prochain": "Résultats du T3 2026 le 04/11/2026",
-     "reponse": "Oui : deux petites acquisitions au creux du cycle, des actions annulées, et un endettement qui reste modéré.",
-     "source": "https://fr.finance.yahoo.com/actualites/jacquet-metals-descriptif-programme-rachat-160000457.html"
+     "reponse": "Oui : deux petites acquisitions et des investissements, avec un endettement qui monte mais reste modéré.",
+     "source": "https://www.tradingsat.com/jacquet-metals-FR0000033904/actualites/jacquet-metals-jacquet-metals-ameliore-nettement-sa-rentabilite-sur-9-mois-1173173.html"
     }
    ],
-   "le": "2026-09-29",
+   "le": "2026-11-04",
    "questions": [
     {
-     "etat": "watch",
-     "preuve": "S1 2026 : volumes du groupe +1,5 % (+2,3 % au T2) ; JACQUET +10,1 %, STAPPERT +4,7 %, IMS group -4,4 % (35 % de ses ventes en Allemagne).",
+     "etat": "ko",
+     "preuve": "T3 : volumes -0,6 % ; IMS group 9 mois : CA -1,5 %, volumes -5,4 %.",
      "prochain": "Résultats du T3 2026 le 04/11/2026",
      "q": "Les volumes vendus remontent-ils, en particulier chez IMS group et en Allemagne ?",
-     "reponse": "Les volumes du groupe remontent un peu, mais pas chez IMS group, toujours pénalisée par l'Allemagne.",
-     "source": "https://www.webdisclosure.com/press-release/jacquet-metal-service-epa-jcq-informations-privilegiees-communique-sur-comptes-resultats-Z5qiVQtjiUC"
+     "reponse": "Non : les volumes du groupe reculent légèrement au T3 et IMS group recule encore, pénalisée par l'Allemagne.",
+     "source": "https://www.abcbourse.com/marches/newsContent/705621"
     },
     {
      "etat": "watch",
-     "preuve": "S1 2026 : effet prix -0,3 %, marge brute 25,1 % contre 23,6 % ; provision d'environ 5 M€ au titre du mécanisme d'ajustement carbone aux frontières.",
+     "preuve": "T3 : effet prix +8,2 %.",
      "prochain": "Résultats du T3 2026 le 04/11/2026",
      "q": "Quel est l'effet de la taxe carbone européenne (CBAM) sur les prix de l'inox et sur les marges du groupe ?",
-     "reponse": "Pour l'instant, pas de hausse de prix visible : l'effet sur la marge vient d'ailleurs. La taxe carbone coûte même une provision au groupe, à payer en 2027.",
-     "source": "https://www.webdisclosure.com/press-release/jacquet-metal-service-epa-jcq-informations-privilegiees-communique-sur-comptes-resultats-Z5qiVQtjiUC"
+     "reponse": "Les prix montent nettement au T3, mais la publication ne chiffre pas la part due à la taxe carbone.",
+     "source": "https://www.abcbourse.com/marches/newsContent/705621"
     },
     {
-     "etat": "watch",
-     "preuve": "Stocks 590 M€ fin juin 2026 (569 M€ fin 2025), soit 187 jours de ventes contre 189 ; BFR opérationnel 565 M€ contre 537 M€ (30,3 % du CA).",
+     "etat": "ko",
+     "preuve": "Stocks 613 M€ (+45 M€) ; BFR opérationnel 624 M€ (32,5 % du CA) contre 537 M€ fin 2025.",
      "prochain": "Résultats du T3 2026 le 04/11/2026",
      "q": "Le stock (environ 189 jours de ventes) et le besoin en fonds de roulement baissent-ils pour libérer du cash ?",
-     "reponse": "Non, pas encore : le nombre de jours de stock est stable et le besoin en fonds de roulement a augmenté, donc pas de cash libéré de ce côté.",
-     "source": "https://www.webdisclosure.com/press-release/jacquet-metal-service-epa-jcq-informations-privilegiees-communique-sur-comptes-resultats-Z5qiVQtjiUC"
+     "reponse": "Non : stocks et besoin en fonds de roulement augmentent encore, ce qui fait monter la dette.",
+     "source": "https://www.abcbourse.com/marches/newsContent/705621"
     }
    ]
   },

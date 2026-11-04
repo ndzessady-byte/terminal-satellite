@@ -15,6 +15,10 @@
  "faits": [
   {
    "d": "04/11",
+   "t": "Environ -5,2 % sans nouvelle de la société : le Brent passe sous 100 $ (vers 95 $ en séance) après la victoire démocrate, vue comme réduisant le risque d'escalade avec l'Iran."
+  },
+  {
+   "d": "04/11",
    "t": "Environ -6,5 % depuis le 30/10 sans nouvelle de la société, pendant que le Brent perd près de 10 % (dont -7,6 % le 02/11) sur l'espoir de discussions avec l'Iran. Le dividende de 0,375 NOK se détache le 06/11."
   },
   {
@@ -24,10 +28,6 @@
   {
    "d": "29/10",
    "t": "Le conseil réexaminera la politique de versement aux actionnaires au T4 pour 2027 (rachats ou dividende exceptionnel possibles, rien de décidé)."
-  },
-  {
-   "d": "29/10",
-   "t": "T3 record : CA 1 023 M$ (760,5 M$ au T2), résultat opérationnel 641,1 M$ (439,0), résultat net 101,1 M$ (83,4), trésorerie libre 326,5 M$ (289,5)."
   }
  ],
  "pub": null,
@@ -1117,6 +1117,13 @@
   "actu": [
    {
     "d": "04/11",
+    "fait": "Le Brent passe sous 100 $ pour la première fois depuis près d'un mois ; le marché parie sur un moindre engagement militaire américain contre l'Iran, les négociations ayant repris via le Qatar et le Pakistan.",
+    "impact": "negatif",
+    "horizon": "court",
+    "lecture": "DNO suit le baril. Le Brent reste très au-dessus des 65 $ qui couvrent le dividende, mais une détente durable réduirait la trésorerie libre record et la marge de manœuvre pour des versements supplémentaires en 2027."
+   },
+   {
+    "d": "04/11",
     "fait": "Recul d'environ 6,5 % depuis le 30/10 sans communiqué, au moment où le Brent passe d'environ 114 $ à environ 103 $.",
     "impact": "negatif",
     "horizon": "court",
@@ -1135,13 +1142,6 @@
     "impact": "neutre",
     "horizon": "moyen",
     "lecture": "Pas de hausse du dividende tout de suite, mais la porte est ouverte pour 2027. Le marché avait déjà intégré le trimestre record."
-   },
-   {
-    "d": "29/10",
-    "fait": "Trimestre record porté par le retour du Kurdistan (54 914 barils par jour) et des prix plus élevés : CA 1 023 M$, résultat opérationnel 641,1 M$, trésorerie libre 326,5 M$, dette nette en baisse à 231,9 M$. Mer du Nord stable à 85 364 barils, prix obtenu 106,7 $ par baril équivalent.",
-    "impact": "positif",
-    "horizon": "moyen",
-    "lecture": "La trésorerie libre couvre très largement le dividende et la dette nette est déjà dans la fourchette visée : la thèse se confirme, mais elle reste suspendue au prix du pétrole."
    }
   ],
   "scenarios": [
@@ -1188,6 +1188,8 @@
    "Weinstein (stades)"
   ],
   "sources": [
+   "https://www.nbcnews.com/business/energy/oil-prices-iran-war-midterms-rcna607448",
+   "https://www.thenationalnews.com/business/energy/2026/11/04/brent-oil-slides-to-94-on-iran-uncertainty-after-us-midterms/",
    "https://www.investing.com/news/transcripts/earnings-call-transcript-dno-posts-record-q3-2026-revenue-as-shares-hover-near-high-93CH-4982250",
    "https://www.globenewswire.com/news-release/2026/10/29/3390917/0/en/dno-scores-north-sea-double.html",
    "https://www.globenewswire.com/news-release/2026/10/29/3390911/0/en/key-information-relating-to-cash-dividend.html",
