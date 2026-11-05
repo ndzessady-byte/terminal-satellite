@@ -1,6 +1,6 @@
 {
- "lecture": "Le CAC 40 termine en hausse de près de 2 % à 8 177,89 points après que les démocrates ont pris les deux chambres du Congrès selon l'AP. Le Brent passe nettement sous 100 $ : le marché mise sur une désescalade avec l'Iran, mais aucun accord n'est annoncé et Téhéran reste ferme. L'inflation de la zone euro à 4 % rapproche une hausse de la BCE en décembre.",
- "majLe": "2026-11-04",
+ "lecture": "Le CAC 40 poursuit sa hausse ce midi (vers 8 240 points), porté par Wall Street et les résultats. Le Brent reste vers 94 $ : pas de frappe américaine plus large pour l'instant, mais l'armée se dit prête et les incidents de pétroliers continuent. À Paris, l'Assemblée a rejeté à l'unanimité les recettes du budget 2027, qui part au Sénat ; la Banque d'Angleterre relève son taux à 4 %.",
+ "majLe": "2026-11-05",
  "matieres": {
   "ALU": {
    "moteurs": "L'aluminium reste haut (environ 3 260 $/t, +22 % sur un an) car la production du Golfe s'est effondrée avec la guerre, mais le dollar fort et les exportations chinoises le plafonnent.",
@@ -69,6 +69,10 @@
   {
    "faits": [
     {
+     "d": "05/11",
+     "t": "Pas de frappe américaine plus large ce midi : selon Axios, l'armée est prête mais aucun ordre n'est donné, Trump hésitant entre frappes, accord et blocus ; la médiation du Qatar continue. Nouveaux incidents de pétroliers revendiqués par Téhéran, non vérifiés. Le Brent reste vers 94 $."
+    },
+    {
      "d": "04/11",
      "t": "Le Brent passe sous 100 $ en fin de journée, vers 95 à 97,5 $ (plus bas depuis près de deux mois, plus de 15 % de baisse sur la semaine) : le marché mise sur une moindre implication militaire américaine après les élections. Téhéran reste ferme, aucune frappe plus large ni réouverture d'Ormuz n'est annoncée."
     },
@@ -87,10 +91,6 @@
     {
      "d": "30/10",
      "t": "Trump affirme que la guerre avec l'Iran sera « bientôt terminée » ; des médiateurs qataris sont revenus à Téhéran avec un projet d'accord. Selon des sources maritimes citées par Reuters, l'explosif posé sur un pétrolier près de Khasab serait la première attaque réussie de ce type depuis février. Brent de décembre vers 117 $ en séance."
-    },
-    {
-     "d": "30/10",
-     "t": "L'Iran affirme que quatre pétroliers ont heurté des mines ; rien n'est vérifié et l'armée américaine dément. Seul incident confirmé par l'UKMTO : un pétrolier touché au nord-est de Khasab (Oman) par des explosifs posés sur la coque, équipage sain et sauf. Le Brent remonte vers 116 $ et gagne près de 11 % sur octobre, quatrième mois de hausse d'affilée."
     }
    ],
    "id": "ormuz",
@@ -120,6 +120,8 @@
    "region": "Moyen-Orient / Golfe",
    "resume": "La guerre avec l'Iran, commencée fin février 2026, bloque toujours le détroit d'Ormuz par où passait environ un cinquième du pétrole mondial, et les États-Unis maintiennent un blocus des ports iraniens. Fin septembre, Trump a rejeté le plan iranien de réouverture et un vraquier a encore été touché près d'Oman. Le Brent est repassé au-dessus de 100 $ et c'est le premier moteur de l'inflation et des taux en ce moment.",
    "sources": [
+    "https://www.cbsnews.com/live-updates/iran-war-us-trump-midterms-strait-of-hormuz/",
+    "https://gulfnews.com/uae/usisrael-iran-war-what-uae-residents-need-to-know-today-nov-5-1.500736686",
     "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-le-seisme-politique-aux-etats-unis-rend-la-bourse-de-paris-euphorique-le-cac-40-bondit-de-pres-de-2-1173163.html",
     "https://www.thenationalnews.com/business/energy/2026/11/04/brent-oil-slides-to-94-on-iran-uncertainty-after-us-midterms/",
     "https://www.boursorama.com/bourse/actualites/la-bourse-de-paris-termine-en-hausse-profitant-de-la-chute-du-petrole-489e90918b64f36ecc157d9f20167d36",
@@ -206,6 +208,10 @@
   {
    "faits": [
     {
+     "d": "05/11",
+     "t": "La Banque d'Angleterre relève son taux de 3,75 % à 4 %, sa première hausse depuis 2023, comme attendu."
+    },
+    {
      "d": "04/11",
      "t": "Selon l'AP, les démocrates prennent aussi la Chambre des représentants, en plus du Sénat ; le nombre final de sièges n'est pas encore connu."
     },
@@ -224,10 +230,6 @@
     {
      "d": "29/10",
      "t": "La BCE maintient son taux de dépôt à 2,50 % à l'unanimité et voit un risque d'inflation plus élevé à cause de l'énergie (inflation de la zone euro à 3,8 % en septembre). Elle ne s'engage pas pour décembre, mais le marché attend une hausse. L'euro tombe à son plus bas depuis mai 2025."
-    },
-    {
-     "d": "29/10",
-     "t": "Christine Lagarde quittera la présidence de la BCE le 07/02/2027, environ neuf mois avant la fin de son mandat (communiqué de la BCE). Les marchés ont peu réagi ; décision sur les taux attendue à 14 h 15, maintien du taux de dépôt à 2,50 % attendu."
     }
    ],
    "id": "taux",
@@ -249,6 +251,8 @@
    "region": "Zone euro / États-Unis",
    "resume": "Le choc pétrolier relance l'inflation, et les deux grandes banques centrales ont remonté leurs taux en septembre au lieu de les baisser. Les marchés anticipent encore des hausses. C'est un vent contraire pour les petites et moyennes valeurs, pour l'immobilier et pour l'or.",
    "sources": [
+    "https://tw.news.yahoo.com/bank-england-hikes-interest-rates-120033304.html",
+    "https://moneyweek.com/economy/news/live/uk-interest-rates-november-bank-of-england",
     "https://kktv.com/2026/11/04/democrats-will-win-control-us-house-retaking-control-republicans",
     "https://www.aljazeera.com/news/2026/11/4/democratic-party-gains-us-house-majority-in-2026-midterm-elections",
     "https://www.euronews.com/2026/11/04/us-midterms-what-trumps-defeat-means-for-europe-and-global-markets",
@@ -321,6 +325,10 @@
   {
    "faits": [
     {
+     "d": "04/11",
+     "t": "L'Assemblée rejette à l'unanimité la partie recettes du budget 2027 (458 voix contre, 0 pour) ; la version initiale du gouvernement part au Sénat, examen annoncé en décembre. Le 49.3 reste possible ; sans vote d'ici le 17/12, le gouvernement pourrait passer par ordonnances."
+    },
+    {
      "d": "03/11",
      "t": "Le vote solennel sur les recettes du budget 2027 est reporté une deuxième fois (758 amendements restaient à examiner) ; aucune nouvelle date, les députés ont jusqu'au 17/11 pour la première lecture. Le 49.3 reste évoqué."
     },
@@ -339,10 +347,6 @@
     {
      "d": "28/10",
      "t": "Débats chaotiques sur les recettes du budget : surtaxe des grandes entreprises supprimée (79 voix contre 77), taxe sur les multinationales adoptée de nuit (74 contre 72). Vote solennel sur les recettes le 03/11, sur l'ensemble le 17/11 ; un 49.3 est évoqué mais non confirmé."
-    },
-    {
-     "d": "27/10",
-     "t": "Le moral des ménages tombe à 80 en octobre, plus bas depuis juin 2013 (Insee). Deuxième samedi de mobilisation le 24/10 (135 interpellations) ; les gilets jaunes appellent à de nouveaux rassemblements le 31/10."
     }
    ],
    "id": "france",
@@ -356,6 +360,8 @@
    "region": "France",
    "resume": "Le gouvernement Lecornu présente un budget 2027 avec 54 Md€ d'effort pour ramener le déficit vers 4,8 à 5 % du PIB, mais la gauche promet la censure et le RN reste l'arbitre. L'écart de taux avec l'Allemagne est élevé mais s'est un peu détendu en fin de semaine dernière. C'est le risque principal pour les valeurs très françaises de ta liste.",
    "sources": [
+    "https://fr.euronews.com/2026/11/05/budget-2027-lassemblee-nationale-rejette-le-texte-a-lunanimite",
+    "https://www.france24.com/fr/france/20261104-assemblee-nationale-rejette-unanimite-en-premiere-lecture-budget-etat-2027-pib-finances",
     "https://www.i24news.tv/fr/actu/france/artc-manifestations-en-france-320-000-personnes-dans-les-rues-une-mobilisation-en-baisse-sous-haute-surveillance",
     "https://entrevue.fr/politique/budget-2027-le-vote-prevu-ce-mardi-reporte-les-deputes-toujours-empetres/",
     "https://www.publicsenat.fr/actualites/politique/mobilisation-du-31-octobre-a-quoi-faut-il-sattendre",
@@ -419,6 +425,10 @@
   {
    "faits": [
     {
+     "d": "05/11",
+     "t": "Le gaz européen recule nettement sur l'espoir diplomatique avec l'Iran (plus de 15 % de baisse sur la semaine, niveau exact incertain), mais les stocks sont à environ 74 % le 04/11, au plus bas pour la saison depuis plus de dix ans, avec du froid annoncé."
+    },
+    {
      "d": "02/11",
      "t": "Le gaz européen recule nettement après son pic au-dessus de 100 € le MWh, sur l'espoir de discussions avec l'Iran."
     },
@@ -437,10 +447,6 @@
     {
      "d": "27/10",
      "t": "Le prix du gaz européen (TTF) atteint son plus haut depuis décembre 2022. Wood Mackenzie juge que le marché mondial du GNL pourrait ne retrouver son équilibre qu'à l'automne 2028, même si le conflit s'arrête d'ici la fin de l'année."
-    },
-    {
-     "d": "24/10",
-     "t": "Les stocks européens restent presque à plat sur la semaine et certains pays puisent déjà dans leurs réserves. Selon l'IEEFA, c'est le plus bas niveau pour la saison depuis 2011. Aucun GNL du Moyen-Orient n'est arrivé depuis mai."
     }
    ],
    "id": "gaz-hiver",
@@ -713,6 +719,10 @@
   {
    "faits": [
     {
+     "d": "05/11",
+     "t": "Le cuivre se stabilise vers 6,39 $ la livre ; la prime au comptant à Shanghai est au plus haut depuis 2021, des fonderies chinoises réduisant leur production (une seule source)."
+    },
+    {
      "d": "03/11",
      "t": "Le cuivre recule encore vers 6,40 $ la livre à New York, freiné par la baisse des valeurs liées à l'IA ; l'offre reste tendue, la production chilienne du T3 étant la plus faible depuis au moins vingt ans et Cochilco ayant abaissé ses prévisions 2026 et 2027."
     },
@@ -731,10 +741,6 @@
     {
      "d": "07/10",
      "t": "Grève à la mine de cuivre de Centinela (Antofagasta, Chili) après l'échec de la médiation ; le cuivre reste proche de son record."
-    },
-    {
-     "d": "28/09",
-     "t": "Escondida reprend progressivement son activité après l'accident mortel du 23/09."
     }
    ],
    "id": "metaux",

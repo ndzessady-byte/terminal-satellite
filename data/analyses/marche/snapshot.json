@@ -1,7 +1,7 @@
 {
- "asOf": "2026-11-04",
+ "asOf": "2026-11-05",
  "attention": [
-  "05/11 : résultats de Globus ; des frappes américaines plus larges sur l'Iran sont évoquées, non confirmées ; Banque d'Angleterre.",
+  "05/11 au soir : résultats de Globus ; 06/11 : emploi américain ; des frappes américaines plus larges sur l'Iran restent possibles.",
   "06/11 : emploi américain ; 09/11 : Theon ; 10/11 : USS ; 10 et 11/11 : pourparlers Ukraine-Russie à Abou Dhabi ; 11/11 : SWCC.",
   "En zone d'intérêt : Melexis, Mueller, Nakanishi, et après leur chute Harvia et Lectra (thèses touchées)."
  ],
@@ -15,10 +15,10 @@
  "macro": [
   {
    "label": "CAC 40",
-   "valeur": "8 177,89",
-   "var": "+1,96 %",
+   "valeur": "vers 8 240",
+   "var": "+0,8 %",
    "sens": 1,
-   "note": "clôture du 04/11, portée par les banques après les élections américaines"
+   "note": "05/11 vers 13 h 25 ; clôture du 04/11 à 8 177,89"
   },
   {
    "label": "OAT 10 ans",
@@ -43,10 +43,10 @@
   },
   {
    "label": "Brent",
-   "valeur": "vers 95 à 97,5 $",
-   "var": "-6 à -8 %",
+   "valeur": "vers 94 $",
+   "var": "-0,5 %",
    "sens": -1,
-   "note": "04/11 en fin de journée, plus bas depuis près de deux mois ; pas de cours de règlement"
+   "note": "05/11 matin, après environ -9 % le 04/11"
   },
   {
    "label": "EUR/USD",
@@ -59,9 +59,9 @@
  "majLe": "2026-10-28T21:00:00+01:00",
  "semaine": "5 au 9 octobre 2026",
  "semaineTexte": [
-  "Mercredi 04/11 : CAC 40 +1,96 % à 8 177,89 pts ; selon l'AP, les démocrates prennent le Sénat et la Chambre ; inflation de la zone euro à 4,0 % en octobre ; Brent sous 100 $.",
-  "Le Brent perd près de 10 % depuis le 30/10 (104,77 $ le 02/11, vers 102,6 $ ce matin) sur l'espoir de discussions avec l'Iran, malgré des frappes américaines limitées.",
-  "Le vote sur les recettes du budget est reporté une deuxième fois ; mobilisation du 31/10 en net recul."
+  "Jeudi 05/11 : l'Assemblée a rejeté à l'unanimité les recettes du budget 2027 (texte au Sénat) ; la Banque d'Angleterre relève son taux à 4 % ; CAC 40 vers 8 240 pts.",
+  "Mercredi 04/11 : CAC 40 +1,96 % ; selon l'AP, les démocrates prennent le Sénat et la Chambre ; inflation de la zone euro à 4,0 % ; Brent sous 100 $.",
+  "Tes valeurs : Powell -12,9 % mercredi (vente des valeurs des data centers), Jacquet améliore sa marge mais ses volumes ne repartent pas, Globus publie ce soir."
  ],
  "watchlistValidee": false
 }
