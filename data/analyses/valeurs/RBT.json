@@ -93,14 +93,14 @@
   ],
   "tech": {
    "bas52": 727.0,
-   "cours": 820.0,
-   "coursLe": "2026-11-04",
+   "cours": 825.0,
+   "coursLe": "2026-11-05",
    "haut52": 910.0,
-   "lecture": "Cours de 820,00 au-dessus de sa moyenne 50 jours (773,46) et au-dessus de sa moyenne 200 jours (807,15). RSI 74,2 : élan fort. Il se situe à 51 % de sa fourchette sur un an (de 727,00 à 910,00), performance sur 12 mois de -3,3 %. Clôture du 04/11/2026.",
-   "mm200": 807.15,
-   "mm50": 773.46,
+   "lecture": "Cours de 825,00 au-dessus de sa moyenne 50 jours (773,94) et au-dessus de sa moyenne 200 jours (806,83). RSI 75,8 : élan fort. Il se situe à 54 % de sa fourchette sur un an (de 727,00 à 910,00), performance sur 12 mois de -4,7 %. Clôture du 05/11/2026.",
+   "mm200": 806.83,
+   "mm50": 773.94,
    "resistance": 775,
-   "rsi14": 74.2,
+   "rsi14": 75.8,
    "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json",
    "stade": 1,
    "support": 710,
@@ -138,8 +138,8 @@
   "veilleLe": "2026-11-05"
  },
  "capi": "1,64 Md€",
- "cours": 820.0,
- "coursLe": "2026-11-04",
+ "cours": 825.0,
+ "coursLe": "2026-11-05",
  "devise": "€",
  "faits": [
   {
@@ -156,10 +156,6 @@
   }
  ],
  "histo": [
-  [
-   "29/10",
-   830.0
-  ],
   [
    "30/10",
    833.0
@@ -1195,6 +1191,10 @@
   [
    "04/11",
    820.0
+  ],
+  [
+   "05/11",
+   825.0
   ]
  ],
  "nom": "Robertet",
@@ -1203,9 +1203,9 @@
  "per26": 16.6,
  "per27": 14.9,
  "perf": {
-  "m1": 7.6,
-  "m3": 1.2,
-  "m12": -3.3
+  "m1": 7.7,
+  "m3": 4.2,
+  "m12": -4.7
  },
  "pub": "2027-02-11",
  "pubLabel": "Résultats annuels",

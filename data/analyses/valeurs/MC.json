@@ -97,14 +97,14 @@
   ],
   "tech": {
    "bas52": 378.55,
-   "cours": 416.25,
-   "coursLe": "2026-11-04",
+   "cours": 418.65,
+   "coursLe": "2026-11-05",
    "haut52": 652.1,
-   "lecture": "Cours de 416,25 au-dessus de sa moyenne 50 jours (402,60) et en dessous de sa moyenne 200 jours (466,89). RSI 66,8 : élan neutre. Il se situe à 14 % de sa fourchette sur un an (de 378,55 à 652,10), performance sur 12 mois de -32,6 %. Clôture du 04/11/2026.",
-   "mm200": 466.89,
-   "mm50": 402.6,
+   "lecture": "Cours de 418,65 au-dessus de sa moyenne 50 jours (402,02) et en dessous de sa moyenne 200 jours (466,05). RSI 68,0 : élan neutre. Il se situe à 15 % de sa fourchette sur un an (de 378,55 à 652,10), performance sur 12 mois de -33,9 %. Clôture du 05/11/2026.",
+   "mm200": 466.05,
+   "mm50": 402.02,
    "resistance": 390,
-   "rsi14": 66.8,
+   "rsi14": 68.0,
    "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json",
    "stade": 1,
    "support": 375.65,
@@ -151,8 +151,8 @@
  },
  "capi": "188,8 Md€",
  "compte": "PEA",
- "cours": 416.25,
- "coursLe": "2026-11-04",
+ "cours": 418.65,
+ "coursLe": "2026-11-05",
  "devise": "€",
  "faits": [
   {
@@ -173,10 +173,6 @@
   }
  ],
  "histo": [
-  [
-   "29/10",
-   618.8
-  ],
   [
    "30/10",
    610.1
@@ -1212,6 +1208,10 @@
   [
    "04/11",
    416.25
+  ],
+  [
+   "05/11",
+   418.65
   ]
  ],
  "nom": "LVMH Moët Hennessy Louis Vuitton",
@@ -1220,9 +1220,9 @@
  "per26": null,
  "per27": null,
  "perf": {
-  "m1": 7.9,
-  "m3": -13.3,
-  "m12": -32.6
+  "m1": 7.8,
+  "m3": -13.2,
+  "m12": -33.9
  },
  "pub": null,
  "pubLabel": "Résultats annuels 2026 (fin janvier 2027, date non encore publiée) ; détachement de l'acompte de 5,50 € le 01/12/2026",

@@ -109,14 +109,14 @@
   ],
   "tech": {
    "bas52": 302.0,
-   "cours": 360.0,
-   "coursLe": "2026-11-04",
+   "cours": 359.5,
+   "coursLe": "2026-11-05",
    "haut52": 384.0,
-   "lecture": "Cours de 360,00 au-dessus de sa moyenne 50 jours (323,86) et au-dessus de sa moyenne 200 jours (342,29). RSI 78,4 : élan fort. Il se situe à 71 % de sa fourchette sur un an (de 302,00 à 384,00), performance sur 12 mois de 4,2 %. Clôture du 04/11/2026.",
-   "mm200": 342.29,
-   "mm50": 323.86,
+   "lecture": "Cours de 359,50 au-dessus de sa moyenne 50 jours (324,59) et au-dessus de sa moyenne 200 jours (342,26). RSI 77,4 : élan fort. Il se situe à 70 % de sa fourchette sur un an (de 302,00 à 384,00), performance sur 12 mois de 1,4 %. Clôture du 05/11/2026.",
+   "mm200": 342.26,
+   "mm50": 324.59,
    "resistance": 317,
-   "rsi14": 78.4,
+   "rsi14": 77.4,
    "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json",
    "stade": 1,
    "support": 296,
@@ -154,8 +154,8 @@
   "veilleLe": "2026-11-05"
  },
  "capi": "2,54 Md€",
- "cours": 360.0,
- "coursLe": "2026-11-04",
+ "cours": 359.5,
+ "coursLe": "2026-11-05",
  "devise": "€",
  "faits": [
   {
@@ -176,10 +176,6 @@
   }
  ],
  "histo": [
-  [
-   "29/10",
-   354.5
-  ],
   [
    "30/10",
    351.0
@@ -1215,6 +1211,10 @@
   [
    "04/11",
    360.0
+  ],
+  [
+   "05/11",
+   359.5
   ]
  ],
  "nom": "Virbac",
@@ -1223,9 +1223,9 @@
  "per26": 14.7,
  "per27": 13.2,
  "perf": {
-  "m1": 15.4,
-  "m3": 4.3,
-  "m12": 4.2
+  "m1": 13.1,
+  "m3": 7.6,
+  "m12": 1.4
  },
  "pub": null,
  "pubLabel": "Résultats annuels 2026 (date non encore publiée)",

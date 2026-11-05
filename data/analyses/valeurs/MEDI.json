@@ -3,8 +3,8 @@
  "nom": "Medistim",
  "pays": "NO",
  "secteur": "Santé : contrôle du flux sanguin en chirurgie cardiaque",
- "cours": 298.0,
- "coursLe": "2026-11-04",
+ "cours": 306.0,
+ "coursLe": "2026-11-05",
  "devise": "NOK",
  "capi": "environ 4,6 Md NOK (18,3 millions d'actions)",
  "per26": null,
@@ -37,10 +37,6 @@
  "yahoo": "MEDI.OL",
  "compte": "PEA",
  "histo": [
-  [
-   "22/10",
-   241.0
-  ],
   [
    "23/10",
    252.0
@@ -1076,12 +1072,16 @@
   [
    "04/11",
    298.0
+  ],
+  [
+   "05/11",
+   306.0
   ]
  ],
  "perf": {
-  "m1": 9.6,
-  "m3": 30.7,
-  "m12": 10.8
+  "m1": 14.2,
+  "m3": 35.4,
+  "m12": 13.8
  },
  "analyse": {
   "majLe": "2026-10-28",
@@ -1100,18 +1100,18 @@
    "greenblatt": "Rendement bénéficiaire (résultat opérationnel 2025 de 196,2 M NOK sur une valeur d'entreprise d'environ 4,4 Md NOK) proche de 4,5 % : faible, l'action est chère sur ce critère ; le rendement du capital est en revanche très élevé (non calculé précisément)."
   },
   "tech": {
-   "cours": 298.0,
-   "coursLe": "2026-11-04",
-   "mm50": 267.48,
-   "mm200": 235.81,
-   "rsi14": 61.4,
+   "cours": 306.0,
+   "coursLe": "2026-11-05",
+   "mm50": 268.4,
+   "mm200": 236.1,
+   "rsi14": 66.4,
    "haut52": 308.0,
    "bas52": 188.0,
    "support": 240,
    "resistance": 263,
    "tendance": "haussiere",
    "stade": 2,
-   "lecture": "Cours de 298,00 au-dessus de sa moyenne 50 jours (267,48) et au-dessus de sa moyenne 200 jours (235,81). RSI 61,4 : élan neutre. Il se situe à 92 % de sa fourchette sur un an (de 188,00 à 308,00), performance sur 12 mois de 10,8 %. Clôture du 04/11/2026.",
+   "lecture": "Cours de 306,00 au-dessus de sa moyenne 50 jours (268,40) et au-dessus de sa moyenne 200 jours (236,10). RSI 66,4 : élan neutre. Il se situe à 98 % de sa fourchette sur un an (de 188,00 à 308,00), performance sur 12 mois de 13,8 %. Clôture du 05/11/2026.",
    "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json"
   },
   "actu": [
