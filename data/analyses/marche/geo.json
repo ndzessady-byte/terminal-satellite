@@ -1,5 +1,5 @@
 {
- "lecture": "Le CAC 40 poursuit sa hausse ce midi (vers 8 240 points), porté par Wall Street et les résultats. Le Brent reste vers 94 $ : pas de frappe américaine plus large pour l'instant, mais l'armée se dit prête et les incidents de pétroliers continuent. À Paris, l'Assemblée a rejeté à l'unanimité les recettes du budget 2027, qui part au Sénat ; la Banque d'Angleterre relève son taux à 4 %.",
+ "lecture": "Le CAC 40 finit en petite hausse à 8 205 points, loin de son plus haut de midi, car la vente des valeurs liées à l'IA et aux data centers s'aggrave à Wall Street après la victoire démocrate. Le Brent rebondit vers 97 $ : de nouveaux pétroliers sont touchés à Ormuz, sans accord ni frappe plus large.",
  "majLe": "2026-11-05",
  "matieres": {
   "ALU": {
@@ -70,6 +70,10 @@
    "faits": [
     {
      "d": "05/11",
+     "t": "Téhéran dit que trois pétroliers ont encore été touchés (non vérifié) ; l'UKMTO compte au moins cinq navires touchés depuis dimanche et 35 en octobre, un record. Toujours pas d'ordre de frappe plus large ; la médiation du Qatar continue, les deux camps restant « très éloignés ». Le Brent rebondit vers 97 $ après son plus bas de deux mois."
+    },
+    {
+     "d": "05/11",
      "t": "Pas de frappe américaine plus large ce midi : selon Axios, l'armée est prête mais aucun ordre n'est donné, Trump hésitant entre frappes, accord et blocus ; la médiation du Qatar continue. Nouveaux incidents de pétroliers revendiqués par Téhéran, non vérifiés. Le Brent reste vers 94 $."
     },
     {
@@ -87,10 +91,6 @@
     {
      "d": "02/11",
      "t": "Frappes américaines limitées sur les îles de Qeshm et Hengam, présentées comme défensives ; Trump dit préférer laisser une chance aux négociations. Le Brent chute de 7,6 % à 104,77 $ sur l'espoir de discussions, puis recule vers 103 à 104 $."
-    },
-    {
-     "d": "30/10",
-     "t": "Trump affirme que la guerre avec l'Iran sera « bientôt terminée » ; des médiateurs qataris sont revenus à Téhéran avec un projet d'accord. Selon des sources maritimes citées par Reuters, l'explosif posé sur un pétrolier près de Khasab serait la première attaque réussie de ce type depuis février. Brent de décembre vers 117 $ en séance."
     }
    ],
    "id": "ormuz",
@@ -120,6 +120,8 @@
    "region": "Moyen-Orient / Golfe",
    "resume": "La guerre avec l'Iran, commencée fin février 2026, bloque toujours le détroit d'Ormuz par où passait environ un cinquième du pétrole mondial, et les États-Unis maintiennent un blocus des ports iraniens. Fin septembre, Trump a rejeté le plan iranien de réouverture et un vraquier a encore été touché près d'Oman. Le Brent est repassé au-dessus de 100 $ et c'est le premier moteur de l'inflation et des taux en ce moment.",
    "sources": [
+    "https://www.thenationalnews.com/business/energy/2026/11/05/oil-rebounds-from-two-month-low-as-uncertainty-lingers-over-iran-war/",
+    "https://www.marinelink.com/news/iran-maintains-pressure-three-tankers-hit-544179",
     "https://www.cbsnews.com/live-updates/iran-war-us-trump-midterms-strait-of-hormuz/",
     "https://gulfnews.com/uae/usisrael-iran-war-what-uae-residents-need-to-know-today-nov-5-1.500736686",
     "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-le-seisme-politique-aux-etats-unis-rend-la-bourse-de-paris-euphorique-le-cac-40-bondit-de-pres-de-2-1173163.html",
@@ -597,6 +599,10 @@
    "faits": [
     {
      "d": "05/11",
+     "t": "Les valeurs liées à l'IA et aux data centers chutent encore à Wall Street (Nasdaq vers -4 %, semi-conducteurs vers -9 % à la clôture européenne) : le marché craint que la victoire démocrate freine la construction de data centers et durcisse les règles sur l'IA ; selon UBS, environ 30 % de la hausse prévue des capacités américaines d'ici 2028 pourrait être compromise."
+    },
+    {
+     "d": "05/11",
      "t": "Rien de nouveau entre Pékin et Washington depuis le 28/10. Échéance à surveiller : la suspension par la Chine de contrôles supplémentaires sur les exportations de terres rares expire le 10/11 (CommBank). Une nouvelle prolongation était le scénario central ; nous n'en avons pas trouvé de confirmation."
     },
     {
@@ -614,10 +620,6 @@
     {
      "d": "01/10",
      "t": "Selon Reuters, le département américain du Commerce plafonne les licences d'export de pièces aéronautiques vers Comac (C919) et ralentit leur délivrance, pour faire pression sur Pékin au sujet des terres rares."
-    },
-    {
-     "d": "28/09",
-     "t": "Publication de listes réciproques d'environ 30 Md$ de produits à droits réduits ; semi-conducteurs, VE et batteries exclus. Droits américains moyens sur la Chine : d'environ 22 % à 20,5 % (contre environ 11 % avant 2025)."
     }
    ],
    "id": "chine-usa",
@@ -635,6 +637,8 @@
    "region": "Asie / États-Unis",
    "resume": "La visite de Xi à Washington a permis de prolonger la trêve commerciale jusqu'au 10/01/2027 et de baisser les droits sur environ 30 Md$ de produits de chaque côté. Mais les semi-conducteurs, les véhicules électriques et les batteries sont exclus, et Pékin garde la main sur les terres rares. La tension baisse, sans être réglée.",
    "sources": [
+    "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-la-debacle-des-valeurs-liees-a-l-ia-fait-chuter-le-nasdaq-de-4-le-cac-40-resiste-au-dessus-des-8200-points-1173263.html",
+    "https://www.boursorama.com/bourse/actualites/l-europe-finit-en-baisse-deroute-a-wall-street-ff8371051e8f6d836a9bf8c95e2fe826",
     "https://www.commbank.com.au/articles/newsroom/2026/09/trump-xi-summit-rare-earths-november-deadline.html",
     "https://www.investing.com/news/stock-market-news/us-bans-imports-from-three-chinese-genomics-companies-citing-forced-labor-4979357",
     "https://abcnews.com/US/wireStory/us-bans-imports-3-chinese-biotech-companies-forced-137657166",

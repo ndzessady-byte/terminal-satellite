@@ -15,10 +15,10 @@
  "macro": [
   {
    "label": "CAC 40",
-   "valeur": "vers 8 240",
-   "var": "+0,8 %",
+   "valeur": "8 205,37",
+   "var": "+0,34 %",
    "sens": 1,
-   "note": "05/11 vers 13 h 25 ; clôture du 04/11 à 8 177,89"
+   "note": "clôture du 05/11 ; STMicroelectronics -9,3 %, Soitec -16,7 %"
   },
   {
    "label": "OAT 10 ans",
@@ -43,17 +43,17 @@
   },
   {
    "label": "Brent",
-   "valeur": "vers 94 $",
-   "var": "-0,5 %",
-   "sens": -1,
-   "note": "05/11 matin, après environ -9 % le 04/11"
+   "valeur": "vers 97 $",
+   "var": "+2,5 %",
+   "sens": 1,
+   "note": "05/11 en fin de séance européenne, après un plus bas de deux mois le 04/11"
   },
   {
    "label": "EUR/USD",
-   "valeur": "vers 1,126",
-   "var": "+0,6 %",
-   "sens": 1,
-   "note": "04/11 vers 11 h 25, après les élections américaines"
+   "valeur": "vers 1,123",
+   "var": "stable",
+   "sens": 0,
+   "note": "05/11, deux sources"
   }
  ],
  "majLe": "2026-10-28T21:00:00+01:00",
