@@ -596,6 +596,10 @@
   {
    "faits": [
     {
+     "d": "05/11",
+     "t": "Rien de nouveau entre Pékin et Washington depuis le 28/10. Échéance à surveiller : la suspension par la Chine de contrôles supplémentaires sur les exportations de terres rares expire le 10/11 (CommBank). Une nouvelle prolongation était le scénario central ; nous n'en avons pas trouvé de confirmation."
+    },
+    {
      "d": "28/10",
      "t": "Washington interdit les importations de trois groupes chinois de génomique (BGI Group, BGI Genomics, MGI Tech) pour des liens présumés avec le travail forcé : mesure ciblée qui ne remet pas en cause la trêve."
     },
@@ -614,10 +618,6 @@
     {
      "d": "28/09",
      "t": "Publication de listes réciproques d'environ 30 Md$ de produits à droits réduits ; semi-conducteurs, VE et batteries exclus. Droits américains moyens sur la Chine : d'environ 22 % à 20,5 % (contre environ 11 % avant 2025)."
-    },
-    {
-     "d": "24/09",
-     "t": "Début de la visite d'État de Xi à Washington ; la trêve commerciale, qui expirait en novembre, est prolongée jusqu'au 10/01/2027 selon le Trésor américain."
     }
    ],
    "id": "chine-usa",
@@ -635,6 +635,7 @@
    "region": "Asie / États-Unis",
    "resume": "La visite de Xi à Washington a permis de prolonger la trêve commerciale jusqu'au 10/01/2027 et de baisser les droits sur environ 30 Md$ de produits de chaque côté. Mais les semi-conducteurs, les véhicules électriques et les batteries sont exclus, et Pékin garde la main sur les terres rares. La tension baisse, sans être réglée.",
    "sources": [
+    "https://www.commbank.com.au/articles/newsroom/2026/09/trump-xi-summit-rare-earths-november-deadline.html",
     "https://www.investing.com/news/stock-market-news/us-bans-imports-from-three-chinese-genomics-companies-citing-forced-labor-4979357",
     "https://abcnews.com/US/wireStory/us-bans-imports-3-chinese-biotech-companies-forced-137657166",
     "https://www.ttnews.com/articles/us-shipping-fee-truce-china",
