@@ -3,6 +3,20 @@
   "aVerifier": "MM50, MM200 et RSI datent du 18/09 (Investing.com, avant la hausse post-résultats). Haut sur 52 semaines : 212,4 € selon Zonebourse mais 262 € selon Investing.com, retenu 212,4 €. ROE et ROCE issus d'estimations EuroLand de février 2026. Couverture des intérêts, PER moyen sur 5 ans, comparaison avec les pairs et Piotroski non trouvés. Chiffres de la guidance 2027 non lus dans une source.",
   "actu": [
    {
+    "d": "04/11",
+    "fait": "Marks & Spencer choisit la plateforme de magasin connecté de Vusion pour ses nouveaux magasins, avec une extension possible. Montant non communiqué.",
+    "impact": "positif",
+    "horizon": "moyen",
+    "lecture": "Un nouveau grand distributeur européen, dans le sens du remplacement de Walmart ; sans montant, impossible de dire s'il pèse dans le milliard d'euros de commandes visé au S2."
+   },
+   {
+    "d": "02/11",
+    "fait": "Citi commence à suivre Vusion avec un objectif de 250 € : selon lui, le logiciel, les remplacements et la publicité en magasin compenseront la fin du déploiement Walmart, avec environ 5 points de marge d'EBITDA gagnés entre 2025 et 2028.",
+    "impact": "positif",
+    "horizon": "moyen",
+    "lecture": "L'avis reprend la thèse mais reste une opinion ; la journée investisseurs du 18/11 devra donner les objectifs 2030."
+   },
+   {
     "d": "29/10",
     "fait": "Rachat d'In-Store Media finalisé après la levée de toutes les conditions. In-Store Media travaille avec plus de 1 600 marques dans neuf pays. Financement par un crédit-relais de 200 M€ (12 mois, deux prolongations possibles de 6 mois).",
     "impact": "neutre",
@@ -15,20 +29,6 @@
     "impact": "positif",
     "horizon": "court",
     "lecture": "Le marché est rassuré sur l'après Walmart, mais la hausse part d'un niveau bas. La journée investisseurs du 18/11 devient le prochain test."
-   },
-   {
-    "d": "20/10",
-    "fait": "Commandes du T3 : 462 M€ (+10 %), meilleur T3 de l'histoire, ratio commandes sur ventes au-dessus de 1. Objectif d'environ 1 Md€ de commandes au S2 maintenu (il faut plus de 500 M€ au T4). Walmart Canada s'ajoute au Mexique pour 2027.",
-    "impact": "positif",
-    "horizon": "moyen",
-    "lecture": "C'est le point clé de la thèse : les commandes repartent et de nouveaux relais apparaissent chez Walmart hors États-Unis, mais l'objectif du S2 reste à prouver au T4."
-   },
-   {
-    "d": "20/10",
-    "fait": "CA du T3 de 445 M€ ajustés (+25 %), au-dessus du consensus selon BFM Bourse ; services 77 M€ (+45 %). Objectifs 2026 confirmés (CA +15 à +20 %, marge d'EBITDA ajusté en hausse de plus de 100 points de base).",
-    "impact": "positif",
-    "horizon": "court",
-    "lecture": "La croissance reste forte alors que le déploiement Walmart aux États-Unis touche à sa fin, et la part des services monte encore."
    }
   ],
   "cadres": [
@@ -53,7 +53,7 @@
    "score": 7,
    "valo": "PER 15,3 fois 2026 et 12,5 fois 2027 (Zonebourse, cours 125,5 € le 28/09). VE/CA 1,2 fois 2026. En février 2026, EuroLand Corporate calculait un PER 2025 de 23,9 fois : le titre est donc nettement moins cher qu'avant, après une baisse de 38,6 % depuis janvier. Oddo BHF parle d'environ 5,3 fois l'EBITDA 2027 en valeur d'entreprise. Moyenne sur 5 ans et comparaison chiffrée avec les pairs non trouvées. Consensus Zonebourse : 6 analystes, objectif moyen 203 € (fourchette 170 à 260 €)."
   },
-  "majLe": "2026-10-29",
+  "majLe": "2026-11-05",
   "revisions": "Non trouvé ce soir (page consensus inaccessible).",
   "scenarios": [
    {
@@ -90,6 +90,7 @@
    }
   ],
   "sources": [
+   "https://www.tradingsat.com/vusion-ex-ses-imagotag-FR0010282822/actualites/vusion-ex-ses-imagotag-logiciels-publicite-en-magasin-comment-citi-voit-vusion-negocier-l-apres-walmart-et-son-titre-gagner-86-en-bourse-1172953.html",
    "https://www.optionfinance.fr/info-financiere-en-continu/d/2026-10-29-vusion-finalise-une-acquisition-pour-accelerer-dans-le-retail-media-en-magasin.html",
    "https://www.abcbourse.com/marches/vusion-finalise-lacquisition-din-store-media-financee-par-un-credit-relais-de_705224",
    "https://www.actusnews.com/en/vusiongroup/pr/2026/10/20/chiffre-d_affaires-du-3eme-trimestre-2026-forte-croissance-au-troisieme-trimestre-portee-par-la-dynamique-commerciale-et",
@@ -165,20 +166,20 @@
  "devise": "€",
  "faits": [
   {
+   "d": "05/11",
+   "t": "Clôture en baisse de 5,33 % sans nouvelle de la société, avec le recul des valeurs technologiques de Paris."
+  },
+  {
+   "d": "04/11",
+   "t": "Marks & Spencer va installer la plateforme de magasin connecté de Vusion dans ses nouveaux magasins, avec une extension possible ; montant non communiqué."
+  },
+  {
+   "d": "02/11",
+   "t": "Citi commence à suivre la valeur avec une recommandation positive et un objectif de 250 € (environ 134 € au 30/10)."
+  },
+  {
    "d": "29/10",
    "t": "Après la clôture, Vusion finalise le rachat d'In-Store Media (publicité en magasin, Barcelone), prix non communiqué, financé par un crédit-relais de 200 M€ sur 12 mois. Dans la séance, le titre avait gagné environ 5 % sans nouvelle de la société."
-  },
-  {
-   "d": "21/10",
-   "t": "Clôture confirmée à 125,60 € (+3,9 %), au plus bas du jour, après un pic à 140,60 € (+16 %) en matinée : prises de bénéfices."
-  },
-  {
-   "d": "21/10",
-   "t": "Le titre bondit d'environ 14 à 15 % en matinée, vers 138 à 139 €, meilleure performance du SBF 120."
-  },
-  {
-   "d": "20/10",
-   "t": "CA du T3 : 445 M€ ajustés (+25 %, +49 % à change et droits de douane constants). Commandes 462 M€ (+10 %), meilleur T3 de l'histoire. Services (VAS) 77 M€ (+45 %). Objectifs 2026 confirmés."
   }
  ],
  "histo": [

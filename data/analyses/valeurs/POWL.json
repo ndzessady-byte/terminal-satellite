@@ -15,19 +15,19 @@
  "faits": [
   {
    "d": "05/11",
+   "t": "Nouvelle chute d'environ 14,6 % sans communiqué de la société, le jour où le Nasdaq entre en correction : le marché vend à nouveau les valeurs liées à la construction des data centers après les victoires démocrates, dont celle au Texas."
+  },
+  {
+   "d": "05/11",
    "t": "Précision sur le Texas : pas de nouveau moratoire depuis l'élection, mais une pause existe déjà depuis août (nouveaux raccordements des data centers gelés, puis tous les permis environnementaux depuis le 21/09), jusqu'à la fin d'un audit du réseau texan, sans date de fin."
   },
   {
    "d": "04/11",
+   "t": "Texas : la démocrate Gina Hinojosa bat Greg Abbott et devient gouverneure élue (CBS, Washington Post). Pendant la campagne, elle a demandé un moratoire sur les nouveaux data centers. C'est une promesse : aucun texte n'est en vigueur et elle n'est pas encore en fonction."
+  },
+  {
+   "d": "04/11",
    "t": "Environ -12,9 % sans communiqué de la société, le jour où les valeurs liées aux data centers chutent après la victoire démocrate au Congrès (GE Vernova environ -11 %, Vertiv, Modine et Comfort Systems en forte baisse)."
-  },
-  {
-   "d": "03/11",
-   "t": "Résultats du T4 et de l'exercice 2026 confirmés le 16/11 après la clôture."
-  },
-  {
-   "d": "03/11",
-   "t": "+6,1 % sans nouvelle commerciale, le jour du rebond des valeurs liées à l'IA ; dividende trimestriel habituel de 0,09 $ (versé le 16/12)."
   }
  ],
  "pub": "2026-11-16",
@@ -1117,6 +1117,13 @@
   "actu": [
    {
     "d": "05/11",
+    "fait": "Deuxième forte baisse de suite (environ -27 % en deux séances) sans nouvelle propre à Powell. Le Texas, où Powell est basé et qui compterait environ 27 % des capacités de data centers prévues aux États-Unis selon Wells Fargo, a élu une gouverneure qui a fait campagne pour un moratoire sur les nouveaux data centers, en plus de la pause administrative en place depuis août.",
+    "impact": "negatif",
+    "horizon": "moyen",
+    "lecture": "Le risque devient politique et durable dans l'État de Powell : un moratoire freinerait le moteur de croissance de la thèse. Rien n'est en vigueur, et on ne sait pas si les projets déjà lancés seraient touchés. Les résultats du 16/11 et le discours de la direction sur le carnet seront décisifs."
+   },
+   {
+    "d": "05/11",
     "fait": "Le « moratoire au Texas » cité le 04/11 est la pause administrative décidée par le gouverneur en août et étendue le 21/09 à tous les permis environnementaux des data centers, jusqu'à la fin de l'audit du réseau. Aucun nouveau texte depuis l'élection.",
     "impact": "negatif",
     "horizon": "moyen",
@@ -1135,13 +1142,6 @@
     "impact": "negatif",
     "horizon": "court",
     "lecture": "Le titre suit le sentiment sur les dépenses des data centers plus que ses propres chiffres ; la question du carnet transformé en bénéfices reste ouverte jusqu'aux résultats annuels."
-   },
-   {
-    "d": "22/10",
-    "fait": "Forte baisse en séance sans nouvelle propre à Powell, dans une semaine de repli des valeurs d'équipements électriques liées à l'IA, sur fond de doutes sur le financement des data centers.",
-    "impact": "negatif",
-    "horizon": "court",
-    "lecture": "Mouvement de secteur : le titre est très exposé au thème data centers et réseaux, donc aux doutes sur les dépenses d'IA."
    }
   ],
   "scenarios": [
@@ -1187,6 +1187,10 @@
    "Weinstein (stades)"
   ],
   "sources": [
+   "https://localnews8.com/money/cnn-business-consumer/2026/11/05/nasdaq-plunges-into-correction-territory-as-midterm-results-raise-fresh-questions-about-ai-boom/",
+   "https://ginafortexas.com/2026/07/new-hinojosa-calls-on-greg-abbott-to-put-moratorium-on-data-centers-until-a-legislative-session-that-puts-texans-first/",
+   "https://www.washingtonpost.com/elections/results/2026/11/03/texas-governor-abbott-hinojosa-live-updates/",
+   "https://www.cbsnews.com/texas/news/texas-governor-election-2026-greg-abbott-gina-hinojosa-results/",
    "https://www.texastribune.org/2026/09/21/texas-data-center-moratorium-water-energy/",
    "https://www.globenewswire.com/news-release/2026/11/03/3394794/0/en/powell-industries-announces-date-and-conference-call-for-fiscal-2026-fourth-quarter-and-full-year-results.html",
    "https://www.fool.com/investing/2026/11/04/data-center-stocks-just-plunged-after-the-midterms-is-it-time-to-buy-the-dip/",

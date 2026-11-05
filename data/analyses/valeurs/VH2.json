@@ -157,6 +157,10 @@
  "devise": "€",
  "faits": [
   {
+   "d": "05/11",
+   "t": "Baisse d'environ 5,6 % sans communiqué ni nouvel avis d'analyste ; chiffres définitifs du T3 toujours annoncés pour le 12/11."
+  },
+  {
    "d": "21/10",
    "t": "Jefferies reste à Conserver avec un objectif de 72 € : nouveau trimestre record, mais forte baisse des prises de commandes."
   },
@@ -167,10 +171,6 @@
   {
    "d": "21/10",
    "t": "Carnet après 9 mois d'environ 1,25 Md€, près d'un cinquième de moins qu'un an plus tôt. Chiffres définitifs le 12/11."
-  },
-  {
-   "d": "25/09",
-   "t": "Berenberg maintient Achat, objectif 110 € : la relance allemande l'emporte sur le bruit politique."
   }
  ],
  "histo": [

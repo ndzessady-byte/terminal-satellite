@@ -14,6 +14,10 @@
  "risque": "Nevro et la robotique reculent en 2026, la croissance hors acquisitions reste autour de 5 à 7 %, et le bénéfice comptable est nettement inférieur au bénéfice ajusté (PER d'environ 19 sur le comptable). Risque de change pour un investisseur en euros.",
  "faits": [
   {
+   "d": "05/11",
+   "t": "Baisse d'environ 7 % le jour des résultats, avant la publication, sans nouvelle de la société. Résultats du T3 attendus ce soir après la clôture américaine."
+  },
+  {
    "d": "04/11",
    "t": "Environ +9 % la veille des résultats du T3, sans nouvelle de la société : la santé américaine rebondit après la victoire démocrate (hôpitaux HCA, Tenet et UHS environ +6 à +8 %)."
   },
@@ -22,12 +26,8 @@
    "t": "Date confirmée : résultats du T3 le jeudi 05/11 après la clôture américaine, conférence à 16 h 30 (heure de New York)."
   },
   {
-   "d": "30/10",
-   "t": "Baisse d'environ 6 % sans nouvelle de la société, une semaine avant les résultats du T3 du 05/11, alors que le secteur santé monte ce jour-là."
-  },
-  {
-   "d": "14/10",
-   "t": "Présentation au salon NASS 2026 des implants sur mesure SCRIPT et d'une nouvelle technique XLIF en position ventrale."
+   "d": "03/11",
+   "t": "Rachat de Synaptive Medical (visualisation, navigation et IRM pour la chirurgie du cerveau), repris dans le cadre d'une procédure judiciaire de mise sous séquestre ; prix non communiqué."
   }
  ],
  "pub": "2026-11-05",
@@ -1084,7 +1084,7 @@
   "m12": 31.2
  },
  "analyse": {
-  "majLe": "2026-11-04",
+  "majLe": "2026-11-05",
   "verdict": "Globus Medical est devenu, avec la fusion NuVasive, un poids lourd des implants pour la colonne vertébrale, très rentable (marge d'EBITDA ajustée de 35 % au T2), sans dette et avec 840 M$ de trésorerie. L'action a reculé d'environ 23 % depuis son sommet de 96,82 $ et se paie environ 15 fois le bénéfice ajusté 2026, ce qui est raisonnable pour une croissance du bénéfice proche de 8 % par an ensuite. Les deux points faibles sont Nevro et les robots, en recul en 2026, et l'écart entre bénéfice ajusté et bénéfice comptable.",
   "conviction": "moyenne",
   "revisions": "Orientées à la hausse : l'objectif de BPA ajusté 2026 de la société est passé de 4,30 à 4,40 $ (fin 2025) à 4,40 à 4,50 $ (février), 4,70 à 4,80 $ (mai) puis 4,95 à 5,05 $ (août). Objectif de ventes inchangé à 3,18 à 3,22 Md$. Objectif de cours moyen de 103,23 $ (15 analystes, fourchette 84 à 125 $), avec quelques baisses d'objectifs après le T2 (Wells Fargo de 103 à 99 $, Truist de 82 à 80 $).",
@@ -1123,6 +1123,13 @@
     "lecture": "Mouvement de marché plus que d'information sur Globus ; la publication du 05/11 dira si la colonne vertébrale gagne encore des parts de marché."
    },
    {
+    "d": "03/11",
+    "fait": "Globus rachète Synaptive Medical, spécialiste de la chirurgie du cerveau, repris dans une procédure de mise sous séquestre. Prix et effet sur les ventes non publiés.",
+    "impact": "neutre",
+    "horizon": "long",
+    "lecture": "Petit rachat d'opportunité hors colonne vertébrale, qui élargit la neurochirurgie et la robotique ; il ne change pas la thèse à court terme."
+   },
+   {
     "d": "30/10",
     "fait": "Recul d'environ 6 % sans communiqué ni changement d'avis d'analyste, alors que le secteur santé monte dans un marché qui vend les valeurs liées à l'IA.",
     "impact": "neutre",
@@ -1135,13 +1142,6 @@
     "impact": "neutre",
     "horizon": "long",
     "lecture": "L'innovation continue sur la colonne vertébrale, le cœur de la thèse ; pas d'effet chiffré à court terme."
-   },
-   {
-    "d": "03/09",
-    "fait": "Marquage CE pour le système d'imagerie Excelsius3D.",
-    "impact": "positif",
-    "horizon": "moyen",
-    "lecture": "Ouvre l'Europe à l'offre complète imagerie, navigation et robot, alors que l'international progresse déjà de 16 % à change constant."
    }
   ],
   "scenarios": [
@@ -1187,6 +1187,7 @@
    "Weinstein (stades)"
   ],
   "sources": [
+   "https://www.globenewswire.com/news-release/2026/11/03/3394756/0/en/globus-medical-acquires-synaptive-medical-strengthening-its-position-in-cranial-neurosurgery.html",
    "https://finance.yahoo.com/healthcare/articles/health-insurers-hospitals-rally-sweeping-150037226.html",
    "https://www.mychesco.com/a/news/regional/globus-medical-sets-november-5-earnings-report-and-call/",
    "https://www.aaii.com/investingideas/article/513099-why-globus-medical-inc8217s-gmed-stock-is-down-598",

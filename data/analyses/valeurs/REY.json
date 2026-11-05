@@ -90,6 +90,7 @@
    }
   ],
   "sources": [
+   "https://www.reply.com/it/newsroom/financial-news/company-events-2026-calendar",
    "https://www.reply.com/it/newsroom/financial-news/reply-launch-of-a-share-buyback-program-for-a-maximum-number-of-3607950-shares",
    "https://www.reply.com/it/newsroom/financial-news/share-buyback-program-july-2026",
    "https://www.zonebourse.com/cours/action/REPLY-S-P-A-38135655/",
@@ -154,6 +155,10 @@
  "devise": "€",
  "faits": [
   {
+   "d": "05/11",
+   "t": "Le calendrier officiel confirme le conseil d'administration du 12/11 pour les comptes au 30/09/2026 (T3)."
+  },
+  {
    "d": "10/08",
    "t": "Rachat de FedTec (États-Unis, environ 100 M$ de CA, 400 salariés), prix non communiqué."
   },
@@ -164,10 +169,6 @@
   {
    "d": "30/07",
    "t": "S1 : CA 1 311,9 M€ (+7,4 %), marge d'EBITDA 17,8 %, résultat avant impôt +8,2 %, trésorerie nette 402 M€."
-  },
-  {
-   "d": "09/04",
-   "t": "Rachat d'actions lancé : jusqu'à 3 607 950 actions (9,64 % du capital) et 550 M€ au maximum, du 13/04 au 23/10/2026, sans annulation prévue."
   }
  ],
  "histo": [
@@ -1223,7 +1224,7 @@
   "m12": 15.0
  },
  "pub": "2026-11-12",
- "pubLabel": "Résultats du T3",
+ "pubLabel": "Résultats du T3 2026",
  "risque": "Coupes dans les budgets IT des grands clients ou automatisation d'une partie du conseil par l'IA.",
  "secteur": "Services informatiques et conseil",
  "societe": {
