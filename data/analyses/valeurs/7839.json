@@ -31,7 +31,7 @@
   }
  ],
  "pub": null,
- "pubLabel": "Résultats annuels de l'exercice clos le 30/09/2026 (date non publiée, mi-novembre probable : le 14/11 l'an dernier)",
+ "pubLabel": "Résultats annuels de l'exercice clos le 30/09/2026 (date non publiée ; le 07/11 l'an dernier, donc possible dès cette semaine)",
  "src": "https://finance.matsui.co.jp/stock/7839/settlement/index",
  "notes": "Exercice clos fin septembre. Pas de division d'actions récente. PER 16,5 (exercice clos en septembre 2026) et 15,5 (septembre 2027) selon MarketScreener au cours du 01/09 (2 093 ¥), recalculés à 17,0 et 16,0 au cours de 2 161 ¥ ; PER de 18,5 sur la prévision de la société (BPA 116,67 ¥), jugée prudente. Cours, moyennes mobiles et RSI issus du flux de cours (clôture du 01/10/2026).",
  "yahoo": "7839.T",
@@ -1220,7 +1220,7 @@
     "point": null
    }
   ],
-  "veilleLe": "2026-11-04"
+  "veilleLe": "2026-11-05"
  },
  "societe": {
   "resume": "SHOEI fabrique des casques de moto haut de gamme, conçus et produits uniquement au Japon, et vendus dans le monde entier par des réseaux de distributeurs. Concrètement, un motard européen qui s'offre un casque intégral à 600 ou 800 € chez un concessionnaire a de bonnes chances de choisir un SHOEI, et des pilotes de MotoGP comme Marc Márquez portent la marque. La société produit aussi des casques pour l'administration japonaise.",

@@ -14,6 +14,10 @@
  "risque": "La filiale américaine DCI (fauteuils dentaires) a déjà coûté une dépréciation de 13,8 Md¥ en 2025 ; dépendance au marché nord-américain (40 % des ventes), droits de douane américains et double risque de change (yen et dollar). Pas de consensus d'analystes vérifiable.",
  "faits": [
   {
+   "d": "05/11",
+   "t": "Plus de 5 % de hausse à Tokyo sans publication de la société, le jour où le marché japonais quitte les valeurs liées à l'IA pour le reste de la cote (Topix +1,2 %, Nikkei -1,8 %). Résultats du T3 annoncés pour le 13/11 par un calendrier boursier, non confirmés par la société."
+  },
+  {
    "d": "29/09",
    "t": "Division de l'action par deux (effet au 01/10/2026) : le cours passe d'environ 2 900 ¥ à environ 1 450 ¥, sans changement de valeur."
   },
@@ -24,10 +28,6 @@
   {
    "d": "07/08",
    "t": "S1 2026 : ventes 47,2 Md¥ (+20,5 %), résultat opérationnel 10,0 Md¥ (+32,0 %), bénéfice net 8,1 Md¥ (+132 %). Objectif annuel relevé : ventes 94,5 Md¥, résultat opérationnel 18,6 Md¥, bénéfice net 13,5 Md¥."
-  },
-  {
-   "d": "07/08",
-   "t": "Rachats de deux fabricants américains d'instruments chirurgicaux, Acra Cut et Intech."
   }
  ],
  "pub": "2026-11-13",
@@ -1186,6 +1186,7 @@
    "Weinstein (stades)"
   ],
   "sources": [
+   "https://www.thestar.com.my/business/business-news/2026/11/05/japan039s-nikkei-tumbles-on-tech-rout-despite-strength-in-wider-market",
    "https://japanir.jp/en/company/company-7716/",
    "https://www.nakanishi-inc.jp/app/wp-content/uploads/2026/02/FY2025Q4_FR.pdf",
    "https://finance.biggo.jp/news/jpx_tdnet_140120260806511592",
@@ -1208,7 +1209,7 @@
     "point": null
    }
   ],
-  "veilleLe": "2026-11-04"
+  "veilleLe": "2026-11-05"
  },
  "societe": {
   "resume": "Nakanishi est une société japonaise qui fabrique, sous la marque NSK, les instruments qui tournent à très grande vitesse dans la bouche du patient chez le dentiste (turbines, contre-angles, moteurs), ainsi que des fauteuils dentaires, des instruments pour la chirurgie et des broches pour l'industrie. Concrètement, quand un dentiste soigne une carie, la « fraise » qui siffle est souvent montée sur une turbine NSK. Elle vend dans le monde entier et réalise près de 90 % de ses ventes hors du Japon.",

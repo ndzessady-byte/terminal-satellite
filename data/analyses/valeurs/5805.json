@@ -14,6 +14,10 @@
  "risque": "Prix du cuivre (gonfle le chiffre d'affaires puis peut le dégonfler), retournement des investissements dans les data centers, cours très volatil (de 1 412 à 3 806 ¥ en un an, après division).",
  "faits": [
   {
+   "d": "05/11",
+   "t": "Nouvelle forte baisse (plus de 10 % selon une seule cotation différée) sans publication de la société : Tokyo vend encore les valeurs liées à l'IA (Advantest environ -15 %, Tokyo Electron environ -9,5 %) après la victoire démocrate. Résultats semestriels le 11/11."
+  },
+  {
    "d": "04/11",
    "t": "Environ -5 % depuis le 30/10 sans publication de la société (Bourse de Tokyo fermée le 03/11) ; résultats semestriels le 11/11."
   },
@@ -24,10 +28,6 @@
   {
    "d": "22/10",
    "t": "Clôture à 2 223 ¥ (-6,1 %) sans communiqué de la société, le jour de la baisse générale des valeurs d'équipements électriques liés à l'IA."
-  },
-  {
-   "d": "20/10",
-   "t": "Clôture à 2 279 ¥ (-7,3 %), entraînée par la baisse des fabricants de câbles (Fujikura -6,5 %). Aucune publication de la société."
   }
  ],
  "pub": "2026-11-11",
@@ -1084,7 +1084,7 @@
   "m12": 47.5
  },
  "analyse": {
-  "majLe": "2026-10-30",
+  "majLe": "2026-11-05",
   "verdict": "SWCC est un câblier japonais qui a fortement amélioré sa rentabilité (ROE de 20,7 % sur l'exercice clos en mars 2026) grâce aux câbles haute tension et aux câbles optiques pour data centers. Le premier trimestre de l'exercice en cours a été très fort et la société vise maintenant un bénéfice net de 23 Md¥ (+22 %). À environ 17 fois les bénéfices attendus, la valorisation est raisonnable pour cette croissance, mais une partie de la hausse vient du prix du cuivre et le titre reste très volatil. Le dossier est cohérent tant que la marge tient autour de 10 %.",
   "conviction": "moyenne",
   "revisions": "Consensus en hausse après le T1 : la société a relevé sa propre prévision de bénéfice net de 18,5 à 23 Md¥ le 07/08, et le consensus MarketScreener (5 analystes) est à 23,4 Md¥ pour l'exercice en cours et 26 Md¥ pour le suivant. Objectif moyen 3 568 ¥ après division (environ +30 %). Mizuho est passé à l'achat le 22/06. En mai, la prévision initiale (bénéfice net -1,8 %) était sous les attentes, ce qui avait déclenché la baisse du titre.",
@@ -1116,6 +1116,13 @@
   },
   "actu": [
    {
+    "d": "05/11",
+    "fait": "Deuxième séance de vente des valeurs japonaises liées à l'IA après les élections américaines ; les câbliers Furukawa et Fujikura avaient perdu environ 8 à 9 % le 04/11.",
+    "impact": "negatif",
+    "horizon": "court",
+    "lecture": "La baisse vient du secteur, par crainte de règles plus strictes sur les data centers américains, pas d'une annonce de SWCC. Les résultats du 11/11 montreront si la demande de câbles tient."
+   },
+   {
     "d": "30/10",
     "fait": "Le titre perd plus de 5 % dans la séance sans nouvelle propre à SWCC, deuxième baisse de ce type en dix jours.",
     "impact": "neutre",
@@ -1135,13 +1142,6 @@
     "impact": "negatif",
     "horizon": "court",
     "lecture": "La baisse vient du secteur, pas de la société, mais montre qu'une partie du cours repose sur l'enthousiasme pour les data centers. La partie câbles haute tension pour le réseau japonais n'est pas concernée."
-   },
-   {
-    "d": "31/08",
-    "fait": "Division de l'action par 5 (effective le 01/10/2026) pour améliorer la liquidité et élargir la base d'actionnaires.",
-    "impact": "neutre",
-    "horizon": "court",
-    "lecture": "Ne change pas la valeur de l'entreprise ; rend l'action plus accessible aux particuliers japonais."
    }
   ],
   "scenarios": [
@@ -1187,6 +1187,8 @@
    "Weinstein (stades)"
   ],
   "sources": [
+   "https://capacityglobal.com/news/fibre-makers-slide-as-us-midterms-rattle-tokyo-ai-supply-chain/",
+   "https://www.ksat.com/business/2026/11/05/asian-shares-are-mixed-after-us-midterm-elections-as-ai-related-stocks-sink-in-japan-and-south-korea/",
    "https://finance.yahoo.co.jp/quote/5805.T/history",
    "https://www.traders.co.jp/stocks/61_5805/historical",
    "https://jp.investing.com/news/stock-market-news/article-1718505",
@@ -1222,7 +1224,7 @@
     "point": null
    }
   ],
-  "veilleLe": "2026-11-04"
+  "veilleLe": "2026-11-05"
  },
  "societe": {
   "resume": "SWCC (anciennement Showa Electric Wire & Cable) fabrique des câbles électriques, notamment haute tension, des accessoires de raccordement, des câbles optiques et des composants pour l'électronique. Concrètement, quand un opérateur électrique japonais remplace une vieille ligne enterrée ou qu'un data center a besoin de milliers de fibres dans un espace réduit, SWCC fournit les câbles et les connecteurs. Elle vend aussi des sondes de test utilisées dans la fabrication des semi-conducteurs.",
