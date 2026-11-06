@@ -7,8 +7,8 @@
  ],
  "etf": {
   "nom": "Amundi PEA Monde MSCI World (DCAM)",
-  "cours": 6.195,
-  "coursLe": "2026-11-05",
+  "cours": 6.177,
+  "coursLe": "2026-11-06",
   "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json"
  },
  "exclues": "Exail exclue : offre de Thales à 134 € par action, le cours suit le prix de l'offre.",

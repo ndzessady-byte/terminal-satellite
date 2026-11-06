@@ -108,14 +108,14 @@
   ],
   "tech": {
    "bas52": 51.6,
-   "cours": 55.9,
-   "coursLe": "2026-11-05",
+   "cours": 55.6,
+   "coursLe": "2026-11-06",
    "haut52": 62.1,
-   "lecture": "Cours de 55,90 au-dessus de sa moyenne 50 jours (54,67) et en dessous de sa moyenne 200 jours (57,16). RSI 63,1 : élan neutre. Il se situe à 41 % de sa fourchette sur un an (de 51,60 à 62,10), performance sur 12 mois de 4,7 %. Clôture du 05/11/2026.",
+   "lecture": "Cours de 55,60 au-dessus de sa moyenne 50 jours (54,64) et en dessous de sa moyenne 200 jours (57,16). RSI 59,8 : élan neutre. Il se situe à 38 % de sa fourchette sur un an (de 51,60 à 62,10), performance sur 12 mois de 3,7 %. Clôture du 06/11/2026.",
    "mm200": 57.16,
-   "mm50": 54.67,
+   "mm50": 54.64,
    "resistance": 57.8,
-   "rsi14": 63.1,
+   "rsi14": 59.8,
    "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json",
    "stade": 1,
    "support": 53.11,
@@ -159,8 +159,8 @@
   "veilleLe": "2026-11-06"
  },
  "capi": "2,5 Md€",
- "cours": 55.9,
- "coursLe": "2026-11-05",
+ "cours": 55.6,
+ "coursLe": "2026-11-06",
  "devise": "€",
  "faits": [
   {
@@ -181,10 +181,6 @@
   }
  ],
  "histo": [
-  [
-   "30/10",
-   54.1
-  ],
   [
    "31/10",
    53.9
@@ -1220,6 +1216,10 @@
   [
    "05/11",
    55.9
+  ],
+  [
+   "06/11",
+   55.6
   ]
  ],
  "nom": "Viscofan",
@@ -1228,9 +1228,9 @@
  "per26": 15.6,
  "per27": 14.2,
  "perf": {
-  "m1": 3.5,
+  "m1": 2.2,
   "m3": -2.3,
-  "m12": 4.7
+  "m12": 3.7
  },
  "pub": "2026-10-22",
  "pubLabel": "Résultats du T3 2026 (après la clôture)",

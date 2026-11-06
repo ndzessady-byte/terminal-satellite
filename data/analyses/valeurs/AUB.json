@@ -106,18 +106,18 @@
   ],
   "tech": {
    "bas52": 40.5,
-   "cours": 52.5,
-   "coursLe": "2026-11-05",
+   "cours": 49.55,
+   "coursLe": "2026-11-06",
    "haut52": 61.3,
-   "lecture": "Cours de 52,50 au-dessus de sa moyenne 50 jours (51,40) et au-dessus de sa moyenne 200 jours (51,47). RSI 60,8 : élan neutre. Il se situe à 58 % de sa fourchette sur un an (de 40,50 à 61,30), performance sur 12 mois de 6,5 %. Clôture du 05/11/2026.",
-   "mm200": 51.47,
-   "mm50": 51.4,
+   "lecture": "Cours de 49,55 en dessous de sa moyenne 50 jours (51,27) et en dessous de sa moyenne 200 jours (51,43). RSI 42,4 : élan neutre. Il se situe à 44 % de sa fourchette sur un an (de 40,50 à 61,30), performance sur 12 mois de -0,2 %. Clôture du 06/11/2026.",
+   "mm200": 51.43,
+   "mm50": 51.27,
    "resistance": 52.3,
-   "rsi14": 60.8,
+   "rsi14": 42.4,
    "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json",
-   "stade": 1,
+   "stade": 4,
    "support": 46.47,
-   "tendance": "neutre"
+   "tendance": "baissiere"
   },
   "verdict": "Aubay est l'une des rares sociétés de services informatiques françaises en forte croissance (+11,4 % en organique au 1er semestre 2026), avec des objectifs relevés deux fois, une trésorerie nette et un PER d'environ 14 fois, nettement sous sa moyenne historique. Le principal frein est à court terme : le cours a formé un double sommet et reste sous ses moyennes mobiles, dans un contexte français (budget, taux) qui pèse sur les valeurs moyennes.",
   "zones": {
@@ -145,8 +145,8 @@
   "veilleLe": "2026-11-06"
  },
  "capi": "647 M€",
- "cours": 52.5,
- "coursLe": "2026-11-05",
+ "cours": 49.55,
+ "coursLe": "2026-11-06",
  "devise": "€",
  "faits": [
   {
@@ -167,10 +167,6 @@
   }
  ],
  "histo": [
-  [
-   "30/10",
-   49.5
-  ],
   [
    "31/10",
    50.0
@@ -1206,6 +1202,10 @@
   [
    "05/11",
    52.5
+  ],
+  [
+   "06/11",
+   49.55
   ]
  ],
  "nom": "Aubay",
@@ -1214,9 +1214,9 @@
  "per26": 13.6,
  "per27": 12.4,
  "perf": {
-  "m1": 5.7,
-  "m3": -7.6,
-  "m12": 6.5
+  "m1": 2.2,
+  "m3": -13.4,
+  "m12": -0.2
  },
  "pub": "2027-01-27",
  "pubLabel": "CA annuel 2026 (après bourse)",

@@ -3,8 +3,8 @@
  "nom": "USS",
  "pays": "JP",
  "secteur": "Enchères de voitures d'occasion",
- "cours": 1904.0,
- "coursLe": "2026-11-05",
+ "cours": 1849.0,
+ "coursLe": "2026-11-06",
  "devise": "JPY",
  "capi": "environ 815 Md¥ (environ 4,6 Md€)",
  "per26": 18.4,
@@ -37,10 +37,6 @@
  "yahoo": "4732.T",
  "compte": "CTO",
  "histo": [
-  [
-   "09/10",
-   1693.0
-  ],
   [
    "10/10",
    1699.0
@@ -1075,13 +1071,17 @@
   ],
   [
    "05/11",
-   1904.0
+   1900.0
+  ],
+  [
+   "06/11",
+   1849.0
   ]
  ],
  "perf": {
-  "m1": 5.5,
-  "m3": -5.6,
-  "m12": 11.3
+  "m1": 2.5,
+  "m3": -6.7,
+  "m12": 7.8
  },
  "analyse": {
   "majLe": "2026-10-28",
@@ -1100,18 +1100,18 @@
    "greenblatt": "Rendement bénéficiaire calculé (résultat opérationnel prévu de 61 Md¥ / valeur d'entreprise de 718 Md¥) d'environ 8,5 % et rendement du capital d'environ 31 % (Stockopedia) : profil favorable sur la formule magique."
   },
   "tech": {
-   "cours": 1904.0,
-   "coursLe": "2026-11-05",
-   "mm50": 1871.13,
-   "mm200": 1834.24,
-   "rsi14": 64.7,
+   "cours": 1849.0,
+   "coursLe": "2026-11-06",
+   "mm50": 1868.83,
+   "mm200": 1834.76,
+   "rsi14": 53.8,
    "haut52": 2064.0,
    "bas52": 1643.5,
    "support": 1795,
    "resistance": 1910,
-   "tendance": "haussiere",
-   "stade": 2,
-   "lecture": "Cours de 1 904,00 au-dessus de sa moyenne 50 jours (1 871,13) et au-dessus de sa moyenne 200 jours (1 834,24). RSI 64,7 : élan neutre. Il se situe à 62 % de sa fourchette sur un an (de 1 643,50 à 2 064,00), performance sur 12 mois de 11,3 %. Clôture du 05/11/2026.",
+   "tendance": "neutre",
+   "stade": 3,
+   "lecture": "Cours de 1 849,00 en dessous de sa moyenne 50 jours (1 868,83) et au-dessus de sa moyenne 200 jours (1 834,76). RSI 53,8 : élan neutre. Il se situe à 49 % de sa fourchette sur un an (de 1 643,50 à 2 064,00), performance sur 12 mois de 7,8 %. Clôture du 06/11/2026.",
    "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json"
   },
   "actu": [

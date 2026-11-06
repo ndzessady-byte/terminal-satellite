@@ -3,8 +3,8 @@
  "nom": "SHOEI",
  "pays": "JP",
  "secteur": "Casques moto haut de gamme",
- "cours": 2338.0,
- "coursLe": "2026-11-05",
+ "cours": 2309.0,
+ "coursLe": "2026-11-06",
  "devise": "JPY",
  "capi": "environ 112 Md¥ (environ 630 M€)",
  "per26": 17.0,
@@ -37,10 +37,6 @@
  "yahoo": "7839.T",
  "compte": "CTO",
  "histo": [
-  [
-   "09/10",
-   1694.0
-  ],
   [
    "10/10",
    1675.0
@@ -1075,13 +1071,17 @@
   ],
   [
    "05/11",
-   2338.0
+   2350.0
+  ],
+  [
+   "06/11",
+   2309.0
   ]
  ],
  "perf": {
-  "m1": 5.9,
-  "m3": 19.8,
-  "m12": 39.0
+  "m1": 2.2,
+  "m3": 14.9,
+  "m12": 37.0
  },
  "analyse": {
   "majLe": "2026-10-28",
@@ -1100,18 +1100,18 @@
    "greenblatt": "Rendement bénéficiaire calculé (résultat opérationnel 2025 de 8,9 Md¥ / valeur d'entreprise d'environ 90 Md¥) proche de 10 % et rendement du capital très élevé (environ 20 % de ROE avec beaucoup de trésorerie inutilisée) : profil favorable sur la formule magique."
   },
   "tech": {
-   "cours": 2338.0,
-   "coursLe": "2026-11-05",
-   "mm50": 2168.92,
-   "mm200": 1879.1,
-   "rsi14": 63.7,
-   "haut52": 2338.0,
+   "cours": 2309.0,
+   "coursLe": "2026-11-06",
+   "mm50": 2173.8,
+   "mm200": 1881.61,
+   "rsi14": 58.9,
+   "haut52": 2350.0,
    "bas52": 1580.0,
    "support": 2040,
    "resistance": 2161,
    "tendance": "haussiere",
    "stade": 2,
-   "lecture": "Cours de 2 338,00 au-dessus de sa moyenne 50 jours (2 168,92) et au-dessus de sa moyenne 200 jours (1 879,10). RSI 63,7 : élan neutre. Il se situe à 100 % de sa fourchette sur un an (de 1 580,00 à 2 338,00), performance sur 12 mois de 39,0 %. Clôture du 05/11/2026.",
+   "lecture": "Cours de 2 309,00 au-dessus de sa moyenne 50 jours (2 173,80) et au-dessus de sa moyenne 200 jours (1 881,61). RSI 58,9 : élan neutre. Il se situe à 95 % de sa fourchette sur un an (de 1 580,00 à 2 350,00), performance sur 12 mois de 37,0 %. Clôture du 06/11/2026.",
    "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json"
   },
   "actu": [

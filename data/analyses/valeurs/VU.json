@@ -116,14 +116,14 @@
   ],
   "tech": {
    "bas52": 101.2,
-   "cours": 136.7,
-   "coursLe": "2026-11-05",
-   "haut52": 215.8,
-   "lecture": "Cours de 136,70 au-dessus de sa moyenne 50 jours (125,52) et au-dessus de sa moyenne 200 jours (124,74). RSI 59,2 : élan neutre. Il se situe à 31 % de sa fourchette sur un an (de 101,20 à 215,80), performance sur 12 mois de -36,7 %. Clôture du 05/11/2026.",
-   "mm200": 124.74,
-   "mm50": 125.52,
+   "cours": 138.0,
+   "coursLe": "2026-11-06",
+   "haut52": 215.4,
+   "lecture": "Cours de 138,00 au-dessus de sa moyenne 50 jours (125,68) et au-dessus de sa moyenne 200 jours (124,78). RSI 60,5 : élan neutre. Il se situe à 32 % de sa fourchette sur un an (de 101,20 à 215,40), performance sur 12 mois de -35,6 %. Clôture du 06/11/2026.",
+   "mm200": 124.78,
+   "mm50": 125.68,
    "resistance": 144,
-   "rsi14": 59.2,
+   "rsi14": 60.5,
    "source": "https://raw.githubusercontent.com/ndzessady-byte/terminal-satellite/main/data/prices.json",
    "stade": 2,
    "support": 114,
@@ -161,8 +161,8 @@
   "veilleLe": "2026-11-06"
  },
  "capi": "2,06 Md€",
- "cours": 136.7,
- "coursLe": "2026-11-05",
+ "cours": 138.0,
+ "coursLe": "2026-11-06",
  "devise": "€",
  "faits": [
   {
@@ -183,10 +183,6 @@
   }
  ],
  "histo": [
-  [
-   "30/10",
-   228.0
-  ],
   [
    "31/10",
    241.6
@@ -1222,6 +1218,10 @@
   [
    "05/11",
    136.7
+  ],
+  [
+   "06/11",
+   138.0
   ]
  ],
  "nom": "Vusion",
@@ -1230,9 +1230,9 @@
  "per26": 15.3,
  "per27": 12.5,
  "perf": {
-  "m1": 10.4,
-  "m3": 6.8,
-  "m12": -36.7
+  "m1": 15.0,
+  "m3": 7.6,
+  "m12": -35.6
  },
  "pub": "2026-11-18",
  "pubLabel": "Journée investisseurs à Paris (objectifs à horizon 2030)",
