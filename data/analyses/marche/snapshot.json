@@ -15,10 +15,10 @@
  "macro": [
   {
    "label": "CAC 40",
-   "valeur": "vers 8 060",
-   "var": "-1,7 %",
+   "valeur": "8 139",
+   "var": "-0,81 %",
    "sens": -1,
-   "note": "06/11 vers midi (AFP, Boursorama) ; clôture du 05/11 à 8 205,37"
+   "note": "clôture du 06/11 (trois sources) ; environ +2 % sur la semaine (une source)"
   },
   {
    "label": "OAT 10 ans",
@@ -43,10 +43,10 @@
   },
   {
    "label": "Brent",
-   "valeur": "97 à 100 $",
-   "var": "n.c.",
-   "sens": 0,
-   "note": "06/11 matin, sources divergentes"
+   "valeur": "vers 97,5 $",
+   "var": "-0,7 à -1 %",
+   "sens": -1,
+   "note": "clôture du 06/11, contrat de janvier ; plus de 10 % de baisse sur la semaine"
   },
   {
    "label": "EUR/USD",
@@ -59,7 +59,7 @@
  "majLe": "2026-10-28T21:00:00+01:00",
  "semaine": "5 au 9 octobre 2026",
  "semaineTexte": [
-  "Vendredi 06/11 : la vente des valeurs liées à l'IA s'étend (Nasdaq -5,5 % hier soir, Tokyo -6 % ce matin) ; CAC 40 vers 8 060 pts (-1,7 %) ; emploi américain à 14 h 30.",
+  "Vendredi 06/11 : CAC 40 à 8 139 pts (-0,81 %), environ +2 % sur la semaine ; emploi américain bien plus fort que prévu (165 000 créations) ; vente mondiale des valeurs liées à l'IA.",
   "Semaine : démocrates majoritaires au Congrès selon l'AP, inflation de la zone euro à 4,0 %, budget français rejeté à l'Assemblée, Banque d'Angleterre à 4 %, Brent passé de 114 à moins de 100 $.",
   "Tes valeurs : Powell -27 % en deux séances (Texas, data centers), SWCC environ -20 % en deux séances, Globus abaisse sa prévision de ventes, Jacquet améliore ses marges sans volumes."
  ],

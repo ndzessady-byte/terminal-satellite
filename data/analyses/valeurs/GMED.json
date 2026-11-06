@@ -14,6 +14,10 @@
  "risque": "Nevro et la robotique reculent en 2026, la croissance hors acquisitions reste autour de 5 à 7 %, et le bénéfice comptable est nettement inférieur au bénéfice ajusté (PER d'environ 19 sur le comptable). Risque de change pour un investisseur en euros.",
  "faits": [
   {
+   "d": "06/11",
+   "t": "Environ -11,6 % et plus bas sur un an après le T3 : BMO passe à neutre et baisse son objectif de 94 à 78 $ ; Needham reste positif mais baisse le sien de 117 à 100 $ ; Wells Fargo reste positif avec 100 $."
+  },
+  {
    "d": "05/11",
    "t": "T3 : ventes 763,7 M$ (-0,7 %), sous les attentes ; hors Nevro 690,0 M$ (+3,0 %) ; colonne vertébrale aux États-Unis +2 % (+7 % au T2) ; international -5,7 % ; Nevro -25,7 % ; robotique +24 %."
   },
@@ -24,10 +28,6 @@
   {
    "d": "05/11",
    "t": "Prévision de ventes 2026 abaissée à 3,09 Md$ (contre 3,18 à 3,22 Md$) ; BPA ajusté 2026 maintenu à 4,95 à 5,05 $."
-  },
-  {
-   "d": "05/11",
-   "t": "Baisse d'environ 7 % le jour des résultats, avant la publication, sans nouvelle de la société. Résultats du T3 attendus ce soir après la clôture américaine."
   }
  ],
  "pub": null,
@@ -1116,6 +1116,13 @@
   },
   "actu": [
    {
+    "d": "06/11",
+    "fait": "Première dégradation d'avis après le T3 (BMO, objectif 78 $) et baisse d'objectif chez Needham (100 $) ; Wells Fargo relève légèrement le sien à 100 $. Le titre touche un plus bas sur un an alors que le marché américain monte.",
+    "impact": "negatif",
+    "horizon": "court",
+    "lecture": "La sanction vise le manque de croissance (lancements retardés, Nevro), pas les marges ni le bénéfice, qui restent solides : la thèse dépend désormais de la reprise des ventes de colonne vertébrale."
+   },
+   {
     "d": "05/11",
     "fait": "Ventes du T3 en baisse et sous les attentes, prévision de ventes 2026 abaissée d'environ 3 à 4 %. La direction cite Nevro (retour à la croissance seulement en 2027), des lancements retardés dans la colonne vertébrale et des recrutements de commerciaux concurrents plus faibles que prévu ; l'international recule.",
     "impact": "negatif",
@@ -1135,13 +1142,6 @@
     "impact": "neutre",
     "horizon": "long",
     "lecture": "2027 dépendra des nouveaux produits (SCRIPT, XLIF) et du redressement de Nevro, pas encore visibles."
-   },
-   {
-    "d": "04/11",
-    "fait": "Hausse marquée sans nouvelle de la société : après la victoire démocrate, les valeurs de santé sont recherchées sur l'espoir que les baisses prévues de Medicaid soient retardées.",
-    "impact": "neutre",
-    "horizon": "court",
-    "lecture": "Mouvement de marché plus que d'information sur Globus ; la publication du 05/11 dira si la colonne vertébrale gagne encore des parts de marché."
    }
   ],
   "scenarios": [
@@ -1187,6 +1187,8 @@
    "Weinstein (stades)"
   ],
   "sources": [
+   "https://www.dailypolitical.com/2026/11/06/globus-medical-nysegmed-stock-price-target-lowered-at-needham-company-llc.html",
+   "https://www.investing.com/news/analyst-ratings/bmo-capital-downgrades-globus-medical-stock-rating-to-market-perform-93CH-5007167",
    "https://www.fool.com/earnings/call-transcripts/2026/11/06/globus-medical-gmed-q3-2026-earnings-call-transcript/",
    "https://www.sec.gov/Archives/edgar/data/0001237831/000162828026071042/gmed-q32026ex991.htm",
    "https://www.globenewswire.com/news-release/2026/11/03/3394756/0/en/globus-medical-acquires-synaptive-medical-strengthening-its-position-in-cranial-neurosurgery.html",

@@ -3,6 +3,13 @@
   "aVerifier": "Moyenne mobile 200 jours non confirmée (la page technique Investing lue n'était pas datée et affichait un cours ancien de 56,60 €). RSI 14 calculé par nous en moyenne simple sur les clôtures Investing. Support et résistance issus d'Investtech (analyse partielle, abonnement requis). ROE estimée par calcul. Taux d'intercontrat et effectifs non trouvés. Dates du chiffre d'affaires du 3e trimestre et annuel à confirmer.",
   "actu": [
    {
+    "d": "06/11",
+    "fait": "Baisse sans nouvelle de la société, dans un recul des valeurs de services à Paris après l'avertissement de TP. Cause non confirmée.",
+    "impact": "negatif",
+    "horizon": "court",
+    "lecture": "Rien ne change dans les chiffres d'Aubay (objectif 2026 relevé le 28/10) : mouvement de marché, sans doute la crainte de l'IA sur les métiers de services."
+   },
+   {
     "d": "28/10",
     "fait": "T3 : +8,5 % en organique (France +7,6 %, international +10 %), taux d'activité 93,3 % ; 9 mois +10,3 % en organique. Objectif de CA 2026 relevé à 705 à 710 M€ ; marge 9 à 10 % confirmée.",
     "impact": "positif",
@@ -22,13 +29,6 @@
     "horizon": "court",
     "impact": "negatif",
     "lecture": "Le signal est purement boursier : il ne remet pas en cause les résultats, mais peut offrir un meilleur point d'entrée."
-   },
-   {
-    "d": "18/09",
-    "fait": "Le gouvernement annonce 54 Md€ d'économies pour le budget 2027, l'objectif de déficit à 5 % est repoussé et le taux français à 10 ans monte à 4,55 %.",
-    "horizon": "moyen",
-    "impact": "negatif",
-    "lecture": "La France représente environ 62 % du chiffre d'affaires semestriel (217,2 M€ sur 351,9 M€) : un climat budgétaire tendu peut freiner les projets informatiques des clients français et pèse sur la valorisation des valeurs moyennes."
    }
   ],
   "cadres": [
@@ -52,7 +52,7 @@
    "score": 7,
    "valo": "Au cours de 51,9 € : PER d'environ 13,9 fois pour 2026 et 12,7 fois pour 2027, valeur d'entreprise sur EBITDA d'environ 7,7 fois pour 2026, rendement du dividende d'environ 2,9 % et rendement du flux de trésorerie disponible de 7,6 % (Zonebourse). Le PER moyen des cinq années 2021 à 2025 est d'environ 18,7 fois (24,2 ; 18,3 ; 16,4 ; 15,4 ; 19,4) : le titre se paie donc nettement moins cher que d'habitude malgré une croissance supérieure."
   },
-  "majLe": "2026-10-28",
+  "majLe": "2026-11-06",
   "revisions": "Non trouvé ce soir : aucune page de révisions lisible. Objectif moyen des analystes 68,08 € (Boursorama).",
   "scenarios": [
    {
@@ -89,6 +89,8 @@
    }
   ],
   "sources": [
+   "https://www.abcbourse.com/marches/cac-40-la-bourse-de-paris-termine-en-baisse-wall-street-ne-rassure-qu-a-moitie_705783",
+   "https://www.zonebourse.com/actualite-bourse/tp-s-effondre-les-analystes-doutent-de-son-redressement-ce785fddd18ff420",
    "https://www.webdisclosure.fr/press-release/aubay-epa-aub-chiffre-daffaires-du-troisieme-trimestre-2026-85-objectif-de-chiffre-daffaires-annuel-releve-a-705-710-m-eur-cmNekhPjNym",
    "https://www.financialcontent.com/article/actus-2026-10-1-aubay-dclaration-des-droits-de-vote-au-30-septembre-2026",
    "https://www.financialcontent.com/article/actus-2026-9-29-aubay-mise-a-disposition-du-rapport-financier-semestriel-2026",
@@ -150,6 +152,10 @@
  "devise": "€",
  "faits": [
   {
+   "d": "06/11",
+   "t": "Environ -5,6 % sans communiqué ni avis d'analyste, le jour où TP (ex-Teleperformance) chute de 15,3 % sur une baisse de prévision et où Capgemini recule de 2,8 % ; lien non confirmé par une source."
+  },
+  {
    "d": "28/10",
    "t": "T3 : CA 173,8 M€ (+8,5 %, tout en organique ; France +7,6 %, international +10 %). Objectif 2026 relevé à 705 à 710 M€, marge opérationnelle 9 à 10 % confirmée."
   },
@@ -160,10 +166,6 @@
   {
    "d": "29/09",
    "t": "Rapport financier semestriel 2026 déposé auprès de l'AMF et mis en ligne."
-  },
-  {
-   "d": "16/09",
-   "t": "S1 : CA 351,9 M€ (+30,8 %, dont +11,4 % organique), résultat opérationnel +37,9 %. Objectif 2026 : 695 à 705 M€."
   }
  ],
  "histo": [

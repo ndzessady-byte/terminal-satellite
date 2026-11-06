@@ -156,6 +156,10 @@
  "devise": "€",
  "faits": [
   {
+   "d": "06/11",
+   "t": "Clôture à 408,75 € (-2,36 %), parmi les plus fortes baisses du CAC 40, sans nouvelle de la société."
+  },
+  {
    "d": "27/10",
    "t": "LVMH déclare des rachats de ses propres actions du 19 au 23/10."
   },
@@ -166,10 +170,6 @@
   {
    "d": "13/10",
    "t": "Le titre ouvre en repli d'environ 1,5 % vers 378,70 € après les ventes du T3, près de son plus bas sur un an ; baisse de plus de 40 % depuis le 1er janvier."
-  },
-  {
-   "d": "12/10",
-   "t": "CA du T3 : 18 504 M€ (+1 % en organique, +1,2 % publié). Sur 9 mois : 57 148 M€ (-2 % publié, +2 % en organique)."
   }
  ],
  "histo": [

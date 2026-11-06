@@ -1,5 +1,5 @@
 {
- "lecture": "Le CAC 40 recule d'environ 1,7 % ce midi, vers 8 060 points, après la chute de Wall Street hier soir (Nasdaq -5,5 %) et de l'Asie ce matin, sur la crainte d'un ralentissement des data centers aux États-Unis. Pour l'Iran, Trump hésite entre nouvelles frappes et diplomatie ; le Brent tourne autour de 97 à 100 $. L'emploi américain sort à 14 h 30.",
+ "lecture": "Le CAC 40 finit la semaine à 8 139 points (-0,81 % vendredi, environ +2 % sur la semaine), freiné par la vente mondiale des valeurs liées à l'IA. L'emploi américain surprend nettement à la hausse, ce qui rend une hausse de la Fed en décembre plus probable. Le Brent finit vers 97,5 $, en forte baisse sur la semaine, alors que la médiation avec l'Iran continue sans accord.",
  "majLe": "2026-11-06",
  "matieres": {
   "ALU": {
@@ -70,6 +70,10 @@
    "faits": [
     {
      "d": "06/11",
+     "t": "Trump et l'émir du Qatar discutent de la médiation pour finir la crise ; Téhéran demanderait la levée du blocus naval américain avant de rouvrir tout le détroit (une source). Brent vers 97,5 $ en clôture, en forte baisse sur la semaine."
+    },
+    {
+     "d": "06/11",
      "t": "Trump dit qu'il décidera bientôt s'il ordonne de nouvelles frappes sur l'Iran et a appelé l'émir du Qatar, qui insiste sur la diplomatie. Nouveaux pétroliers touchés selon Téhéran, non vérifié. Le Brent oscille entre 97 et 100 $."
     },
     {
@@ -87,10 +91,6 @@
     {
      "d": "04/11",
      "t": "Pas d'accord : Téhéran juge la réponse américaine à son plan pour Ormuz « pas convaincante » et pose sept conditions (levée des sanctions, fin du blocus naval) avant de rouvrir le détroit ; le Qatar dit que l'échange de propositions continue. Selon des médias américains, des plans de frappes plus larges seraient prêts à partir du 05/11 : non confirmé."
-    },
-    {
-     "d": "03/11",
-     "t": "Trump confirme une frappe « mineure » sur une installation antiaérienne iranienne. L'UKMTO signale un pétrolier touché par deux projectiles près de Limah (Oman), sans victime."
     }
    ],
    "id": "ormuz",
@@ -120,6 +120,7 @@
    "region": "Moyen-Orient / Golfe",
    "resume": "La guerre avec l'Iran, commencée fin février 2026, bloque toujours le détroit d'Ormuz par où passait environ un cinquième du pétrole mondial, et les États-Unis maintiennent un blocus des ports iraniens. Fin septembre, Trump a rejeté le plan iranien de réouverture et un vraquier a encore été touché près d'Oman. Le Brent est repassé au-dessus de 100 $ et c'est le premier moteur de l'inflation et des taux en ce moment.",
    "sources": [
+    "https://english.alarabiya.net/News/gulf/2026/11/06/qatar-s-emir-trump-discuss-mediation-efforts-to-end-regional-crisis",
     "https://www.cbsnews.com/live-updates/iran-war-trump-us-strait-hormuz-persian-gulf/",
     "https://www.thenationalnews.com/business/energy/2026/11/05/oil-rebounds-from-two-month-low-as-uncertainty-lingers-over-iran-war/",
     "https://www.marinelink.com/news/iran-maintains-pressure-three-tankers-hit-544179",
@@ -211,6 +212,10 @@
   {
    "faits": [
     {
+     "d": "06/11",
+     "t": "Emploi américain d'octobre bien plus fort que prévu : 165 000 créations (environ 59 000 attendues), chômage à 4,1 % (BLS). Cela soutient l'hypothèse d'une hausse des taux de la Fed en décembre."
+    },
+    {
      "d": "05/11",
      "t": "La Banque d'Angleterre relève son taux de 3,75 % à 4 %, sa première hausse depuis 2023, comme attendu."
     },
@@ -229,10 +234,6 @@
     {
      "d": "30/10",
      "t": "La croissance de la zone euro ralentit à +0,4 % au T3 (+0,6 % au T2, Eurostat). L'inflation d'octobre de la zone euro sera publiée le 04/11 ; dernier chiffre connu : 3,8 % en septembre."
-    },
-    {
-     "d": "29/10",
-     "t": "La BCE maintient son taux de dépôt à 2,50 % à l'unanimité et voit un risque d'inflation plus élevé à cause de l'énergie (inflation de la zone euro à 3,8 % en septembre). Elle ne s'engage pas pour décembre, mais le marché attend une hausse. L'euro tombe à son plus bas depuis mai 2025."
     }
    ],
    "id": "taux",
@@ -254,6 +255,7 @@
    "region": "Zone euro / États-Unis",
    "resume": "Le choc pétrolier relance l'inflation, et les deux grandes banques centrales ont remonté leurs taux en septembre au lieu de les baisser. Les marchés anticipent encore des hausses. C'est un vent contraire pour les petites et moyennes valeurs, pour l'immobilier et pour l'or.",
    "sources": [
+    "https://www.bls.gov/news.release/empsit.nr0.htm",
     "https://tw.news.yahoo.com/bank-england-hikes-interest-rates-120033304.html",
     "https://moneyweek.com/economy/news/live/uk-interest-rates-november-bank-of-england",
     "https://kktv.com/2026/11/04/democrats-will-win-control-us-house-retaking-control-republicans",
