@@ -14,8 +14,12 @@
  "risque": "Prix du cuivre (gonfle le chiffre d'affaires puis peut le dégonfler), retournement des investissements dans les data centers, cours très volatil (de 1 412 à 3 806 ¥ en un an, après division).",
  "faits": [
   {
+   "d": "06/11",
+   "t": "Nouvelle chute d'environ 10 % (vers 1 668 ¥) sans publication de la société, avec la vente des valeurs japonaises liées à l'IA et aux data centers ; environ -20 % en deux séances. Résultats semestriels le 11/11."
+  },
+  {
    "d": "05/11",
-   "t": "Nouvelle baisse d'environ 4 % (clôture vers 1 992 ¥ selon les cours du soir ; une cotation différée de la matinée donnait plus de 10 %) sans publication de la société : Tokyo vend encore les valeurs liées à l'IA (Advantest environ -15 %, Tokyo Electron environ -9,5 %). Résultats semestriels le 11/11."
+   "t": "Chute d'environ 10,7 % (vers 1 853 ¥, cours de clôture définitif) sans publication de la société : Tokyo vend les valeurs liées à l'IA (Advantest environ -15 %, Tokyo Electron environ -9,5 %)."
   },
   {
    "d": "04/11",
@@ -24,10 +28,6 @@
   {
    "d": "30/10",
    "t": "Nouvelle baisse de plus de 5 % dans la séance (vers 2 217 ¥ selon une cotation différée), après +4,0 % la veille. Aucune publication de la société, cause non identifiée."
-  },
-  {
-   "d": "22/10",
-   "t": "Clôture à 2 223 ¥ (-6,1 %) sans communiqué de la société, le jour de la baisse générale des valeurs d'équipements électriques liés à l'IA."
   }
  ],
  "pub": "2026-11-11",
@@ -1187,6 +1187,7 @@
    "Weinstein (stades)"
   ],
   "sources": [
+   "https://en.fnnews.com/news/202611051102425549",
    "https://capacityglobal.com/news/fibre-makers-slide-as-us-midterms-rattle-tokyo-ai-supply-chain/",
    "https://www.ksat.com/business/2026/11/05/asian-shares-are-mixed-after-us-midterm-elections-as-ai-related-stocks-sink-in-japan-and-south-korea/",
    "https://finance.yahoo.co.jp/quote/5805.T/history",
@@ -1224,7 +1225,7 @@
     "point": null
    }
   ],
-  "veilleLe": "2026-11-05"
+  "veilleLe": "2026-11-06"
  },
  "societe": {
   "resume": "SWCC (anciennement Showa Electric Wire & Cable) fabrique des câbles électriques, notamment haute tension, des accessoires de raccordement, des câbles optiques et des composants pour l'électronique. Concrètement, quand un opérateur électrique japonais remplace une vieille ligne enterrée ou qu'un data center a besoin de milliers de fibres dans un espace réduit, SWCC fournit les câbles et les connecteurs. Elle vend aussi des sondes de test utilisées dans la fabrication des semi-conducteurs.",

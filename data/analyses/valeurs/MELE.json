@@ -153,13 +153,17 @@
     "point": null
    }
   ],
-  "veilleLe": "2026-11-05"
+  "veilleLe": "2026-11-06"
  },
  "capi": "2,7 Md€",
  "cours": 52.5,
  "coursLe": "2026-11-05",
  "devise": "€",
  "faits": [
+  {
+   "d": "02/11",
+   "t": "Rachat de 9 800 actions propres du 26 au 30/10 à 56,78 € en moyenne (263 337 sur 850 000 prévues)."
+  },
   {
    "d": "29/10",
    "t": "Après le T3, Jefferies et Deutsche Bank baissent leur objectif de cours (Deutsche Bank fortement) ; Degroof Petercam reste neutre avec 56 €. Titre stable vers 57,5 €."
@@ -171,10 +175,6 @@
   {
    "d": "28/10",
    "t": "T3 : ventes 223,7 M€ (+4 % sur un an, +3 % sur un trimestre), marge brute 40,7 %, marge opérationnelle 18,5 %, résultat net 31,3 M€ (+14 %), BPA 0,78 €. Prévision S2 maintenue : 445 à 455 M€, marge brute vers 41 %, marge opérationnelle vers 18 %."
-  },
-  {
-   "d": "16/10",
-   "t": "Le titre finit la semaine vers 57,75 € (environ -10 %). Résultats du T3 le 28/10."
   }
  ],
  "histo": [

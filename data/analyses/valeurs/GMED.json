@@ -9,29 +9,29 @@
  "capi": "environ 10,0 Md$ (134,3 millions d'actions)",
  "per26": 14.9,
  "per27": 13.8,
- "statut": "intacte",
+ "statut": "surveiller",
  "these": "Leader des implants pour la colonne vertébrale, Globus gagne des parts de marché aux États-Unis, a fortement amélioré ses marges depuis la fusion avec NuVasive, n'a pas de dette et a relevé deux fois son objectif de bénéfice 2026.",
  "risque": "Nevro et la robotique reculent en 2026, la croissance hors acquisitions reste autour de 5 à 7 %, et le bénéfice comptable est nettement inférieur au bénéfice ajusté (PER d'environ 19 sur le comptable). Risque de change pour un investisseur en euros.",
  "faits": [
   {
    "d": "05/11",
+   "t": "T3 : ventes 763,7 M$ (-0,7 %), sous les attentes ; hors Nevro 690,0 M$ (+3,0 %) ; colonne vertébrale aux États-Unis +2 % (+7 % au T2) ; international -5,7 % ; Nevro -25,7 % ; robotique +24 %."
+  },
+  {
+   "d": "05/11",
+   "t": "BPA ajusté 1,23 $ (+4,4 %), marge d'EBITDA ajustée 34,3 % (32,8 %), trésorerie libre record de 224,8 M$ ; 500 M$ de rachats d'actions en plus autorisés."
+  },
+  {
+   "d": "05/11",
+   "t": "Prévision de ventes 2026 abaissée à 3,09 Md$ (contre 3,18 à 3,22 Md$) ; BPA ajusté 2026 maintenu à 4,95 à 5,05 $."
+  },
+  {
+   "d": "05/11",
    "t": "Baisse d'environ 7 % le jour des résultats, avant la publication, sans nouvelle de la société. Résultats du T3 attendus ce soir après la clôture américaine."
-  },
-  {
-   "d": "04/11",
-   "t": "Environ +9 % la veille des résultats du T3, sans nouvelle de la société : la santé américaine rebondit après la victoire démocrate (hôpitaux HCA, Tenet et UHS environ +6 à +8 %)."
-  },
-  {
-   "d": "04/11",
-   "t": "Date confirmée : résultats du T3 le jeudi 05/11 après la clôture américaine, conférence à 16 h 30 (heure de New York)."
-  },
-  {
-   "d": "03/11",
-   "t": "Rachat de Synaptive Medical (visualisation, navigation et IRM pour la chirurgie du cerveau), repris dans le cadre d'une procédure judiciaire de mise sous séquestre ; prix non communiqué."
   }
  ],
- "pub": "2026-11-05",
- "pubLabel": "Résultats du T3 (après la clôture)",
+ "pub": null,
+ "pubLabel": "Résultats annuels 2026 (février 2027, date non publiée)",
  "src": "https://www.globenewswire.com/news-release/2026/08/06/3340797/0/en/globus-medical-reports-second-quarter-2026-results.html",
  "notes": "Cours de clôture du 01/10/2026 (flux de cours). PER 2026 et 2027 calculés sur le BPA ajusté du consensus (5,00 $ et 5,40 $, StockAnalysis), cohérent avec l'objectif de la société (4,95 à 5,05 $). Sur le bénéfice comptable des 12 derniers mois, le PER est d'environ 19. Pas de dividende. Société américaine : éligible au compte-titres uniquement.",
  "yahoo": "GMED",
@@ -1084,7 +1084,7 @@
   "m12": 31.2
  },
  "analyse": {
-  "majLe": "2026-11-05",
+  "majLe": "2026-11-06",
   "verdict": "Globus Medical est devenu, avec la fusion NuVasive, un poids lourd des implants pour la colonne vertébrale, très rentable (marge d'EBITDA ajustée de 35 % au T2), sans dette et avec 840 M$ de trésorerie. L'action a reculé d'environ 23 % depuis son sommet de 96,82 $ et se paie environ 15 fois le bénéfice ajusté 2026, ce qui est raisonnable pour une croissance du bénéfice proche de 8 % par an ensuite. Les deux points faibles sont Nevro et les robots, en recul en 2026, et l'écart entre bénéfice ajusté et bénéfice comptable.",
   "conviction": "moyenne",
   "revisions": "Orientées à la hausse : l'objectif de BPA ajusté 2026 de la société est passé de 4,30 à 4,40 $ (fin 2025) à 4,40 à 4,50 $ (février), 4,70 à 4,80 $ (mai) puis 4,95 à 5,05 $ (août). Objectif de ventes inchangé à 3,18 à 3,22 Md$. Objectif de cours moyen de 103,23 $ (15 analystes, fourchette 84 à 125 $), avec quelques baisses d'objectifs après le T2 (Wells Fargo de 103 à 99 $, Truist de 82 à 80 $).",
@@ -1116,32 +1116,32 @@
   },
   "actu": [
    {
+    "d": "05/11",
+    "fait": "Ventes du T3 en baisse et sous les attentes, prévision de ventes 2026 abaissée d'environ 3 à 4 %. La direction cite Nevro (retour à la croissance seulement en 2027), des lancements retardés dans la colonne vertébrale et des recrutements de commerciaux concurrents plus faibles que prévu ; l'international recule.",
+    "impact": "negatif",
+    "horizon": "moyen",
+    "lecture": "Le cœur de la thèse faiblit : la colonne vertébrale américaine ne croît que de 2 % (7 % au T2) et la croissance hors Nevro tombe à 3 %. Un trimestre de plus sous le marché déclencherait l'invalidation."
+   },
+   {
+    "d": "05/11",
+    "fait": "Malgré la baisse des ventes, BPA ajusté 2026 maintenu, marge d'EBITDA ajustée en hausse à 34,3 %, trésorerie libre record et 500 M$ de rachats en plus.",
+    "impact": "positif",
+    "horizon": "moyen",
+    "lecture": "La rentabilité et la discipline tiennent, mais le bénéfice protégé vient des marges et des rachats, pas de la croissance."
+   },
+   {
+    "d": "05/11",
+    "fait": "Pas d'objectif 2027 : le directeur général vise une croissance des ventes d'environ 5 à 10 %, avec un bénéfice qui monte plus vite et des dépenses de recherche en hausse.",
+    "impact": "neutre",
+    "horizon": "long",
+    "lecture": "2027 dépendra des nouveaux produits (SCRIPT, XLIF) et du redressement de Nevro, pas encore visibles."
+   },
+   {
     "d": "04/11",
     "fait": "Hausse marquée sans nouvelle de la société : après la victoire démocrate, les valeurs de santé sont recherchées sur l'espoir que les baisses prévues de Medicaid soient retardées.",
     "impact": "neutre",
     "horizon": "court",
     "lecture": "Mouvement de marché plus que d'information sur Globus ; la publication du 05/11 dira si la colonne vertébrale gagne encore des parts de marché."
-   },
-   {
-    "d": "03/11",
-    "fait": "Globus rachète Synaptive Medical, spécialiste de la chirurgie du cerveau, repris dans une procédure de mise sous séquestre. Prix et effet sur les ventes non publiés.",
-    "impact": "neutre",
-    "horizon": "long",
-    "lecture": "Petit rachat d'opportunité hors colonne vertébrale, qui élargit la neurochirurgie et la robotique ; il ne change pas la thèse à court terme."
-   },
-   {
-    "d": "30/10",
-    "fait": "Recul d'environ 6 % sans communiqué ni changement d'avis d'analyste, alors que le secteur santé monte dans un marché qui vend les valeurs liées à l'IA.",
-    "impact": "neutre",
-    "horizon": "court",
-    "lecture": "Mouvement de cours sans information nouvelle avant les résultats du 05/11, qui diront si la colonne vertébrale continue de gagner des parts de marché."
-   },
-   {
-    "d": "14/10",
-    "fait": "Globus présente au congrès américain de la colonne vertébrale (NASS) ses implants fabriqués sur mesure pour chaque patient (SCRIPT) et une nouvelle technique opératoire XLIF.",
-    "impact": "neutre",
-    "horizon": "long",
-    "lecture": "L'innovation continue sur la colonne vertébrale, le cœur de la thèse ; pas d'effet chiffré à court terme."
    }
   ],
   "scenarios": [
@@ -1187,6 +1187,8 @@
    "Weinstein (stades)"
   ],
   "sources": [
+   "https://www.fool.com/earnings/call-transcripts/2026/11/06/globus-medical-gmed-q3-2026-earnings-call-transcript/",
+   "https://www.sec.gov/Archives/edgar/data/0001237831/000162828026071042/gmed-q32026ex991.htm",
    "https://www.globenewswire.com/news-release/2026/11/03/3394756/0/en/globus-medical-acquires-synaptive-medical-strengthening-its-position-in-cranial-neurosurgery.html",
    "https://finance.yahoo.com/healthcare/articles/health-insurers-hospitals-rally-sweeping-150037226.html",
    "https://www.mychesco.com/a/news/regional/globus-medical-sets-november-5-earnings-report-and-call/",
@@ -1217,7 +1219,7 @@
     "point": null
    }
   ],
-  "veilleLe": "2026-11-05"
+  "veilleLe": "2026-11-06"
  },
  "societe": {
   "resume": "Globus Medical est une société américaine qui fabrique des implants pour la colonne vertébrale (vis, tiges, cages entre les vertèbres), des implants pour les fractures et des robots qui guident le chirurgien pendant l'opération. Concrètement, quand un patient se fait opérer d'une hernie discale grave ou d'une scoliose, le chirurgien pose souvent des vis et des tiges : Globus vend ces pièces, et son robot ExcelsiusGPS l'aide à les placer au millimètre près. Depuis 2025, elle vend aussi, via Nevro, des stimulateurs électriques contre les douleurs chroniques.",
@@ -1349,49 +1351,49 @@
    "Pourquoi l'écart reste-t-il si grand entre bénéfice ajusté (5,00 $ visés) et bénéfice comptable, et va-t-il se réduire ?"
   ],
   "suivi": {
-   "le": "2026-10-01",
+   "le": "2026-11-06",
    "bilan": "3 conditions sur 4 tiennent (parts de marché, marges, discipline financière) ; le point fragile est Nevro et la robotique, en recul cette année.",
    "croire": [
     {
      "c": "Que la colonne vertébrale (environ 95 % des ventes) continue de gagner des parts de marché aux États-Unis, avec une croissance supérieure à celle du marché.",
-     "etat": "ok",
-     "reponse": "Oui : la colonne vertébrale aux États-Unis progresse plus vite que le marché pour le cinquième trimestre de suite.",
-     "preuve": "T2 2026 : colonne vertébrale États-Unis +7 %, international +12 % à change constant, ventes hors Nevro +9 %.",
-     "source": "https://www.globenewswire.com/news-release/2026/08/06/3340797/0/en/globus-medical-reports-second-quarter-2026-results.html",
+     "etat": "watch",
+     "reponse": "Plus vraiment ce trimestre : +2 % seulement aux États-Unis, probablement sous le marché ; la direction reconnaît des lancements retardés.",
+     "preuve": "T3 2026 : colonne vertébrale États-Unis +2 % (+7 % au T2), ventes hors Nevro +3,0 %.",
+     "source": "https://www.sec.gov/Archives/edgar/data/0001237831/000162828026071042/gmed-q32026ex991.htm",
      "prochain": "Résultats du T3 2026 (début novembre)"
     },
     {
      "c": "Que les marges gagnées depuis la fusion avec NuVasive (marge d'EBITDA ajustée au-dessus de 31 %) sont durables et pas seulement un effet ponctuel.",
      "etat": "ok",
-     "reponse": "Oui pour l'instant : les marges continuent de monter grâce aux économies de production et d'intégration.",
-     "preuve": "Marge d'EBITDA ajustée de 35,4 % au T2 2026 contre 28,0 % un an plus tôt ; 31,3 % sur 2025 contre 29,2 % en 2024 ; marge brute ajustée de 69,4 %.",
-     "source": "https://www.globenewswire.com/news-release/2026/08/06/3340797/0/en/globus-medical-reports-second-quarter-2026-results.html",
+     "reponse": "Oui : marge au-dessus de 31 % et en hausse sur un an, BPA ajusté annuel maintenu.",
+     "preuve": "Marge d'EBITDA ajustée de 34,3 % au T3 2026 contre 32,8 %.",
+     "source": "https://www.sec.gov/Archives/edgar/data/0001237831/000162828026071042/gmed-q32026ex991.htm",
      "prochain": "Résultats du T3 2026 (début novembre)"
     },
     {
      "c": "Que Nevro (neurostimulation contre la douleur) et la robotique, en recul en 2026, se stabilisent puis repartent en 2027.",
      "etat": "watch",
-     "reponse": "Pas encore : les deux activités reculent, mais la direction voit des signes de redressement (recrutements chez Nevro, plus de robots installés).",
-     "preuve": "T2 2026 : Nevro -14,3 % sur un an, robots -25,8 % à 26,1 M$, mais parc de robots installés +25 % sur un an ; 75 % des postes de vente Nevro pourvus.",
-     "source": "https://www.tradingview.com/news/zacks:fc02b76c2094b:0-gmed-q2-earnings-call-highlights-margin-gains-and-revenue-caution/",
+     "reponse": "Contrasté : la robotique repart (+24 %), mais Nevro se dégrade encore, sans croissance avant 2027.",
+     "preuve": "T3 2026 : Nevro 73,7 M$ (-25,7 %) ; robotique 34,9 M$ (+24 %).",
+     "source": "https://www.fool.com/earnings/call-transcripts/2026/11/06/globus-medical-gmed-q3-2026-earnings-call-transcript/",
      "prochain": "Résultats du T3 2026, puis objectifs 2027 en février"
     },
     {
      "c": "Que la direction continue d'utiliser la trésorerie avec discipline (rachats d'actions, petites acquisitions) sans grosse opération risquée.",
      "etat": "ok",
-     "reponse": "Oui : rachats d'actions réguliers et petites acquisitions, sans dette.",
-     "preuve": "300,5 M$ de rachats en 2025, 136,1 M$ au premier semestre 2026 ; 840,5 M$ de trésorerie et placements au 30/06/2026.",
-     "source": "https://www.globenewswire.com/news-release/2026/08/06/3340797/0/en/globus-medical-reports-second-quarter-2026-results.html",
+     "reponse": "Oui : rachats accrus, nouvelle enveloppe de 500 M$, une seule petite acquisition (Synaptive).",
+     "preuve": "279,0 M$ rachetés sur 9 mois ; 871,2 M$ de trésorerie et placements.",
+     "source": "https://www.sec.gov/Archives/edgar/data/0001237831/000162828026071042/gmed-q32026ex991.htm",
      "prochain": "Résultats du T3 2026"
     }
    ],
    "questions": [
     {
      "q": "Quelle est la vraie croissance hors acquisitions une fois Nevro pleinement intégré dans la base de comparaison (à partir du T2 2026) ?",
-     "etat": "watch",
-     "reponse": "Hors Nevro, la croissance a été de 5,0 % en 2025 et d'environ 9 % au T2 2026 ; l'objectif 2026 implique environ 9 % au total, puis environ 6 % attendus en 2027.",
-     "preuve": "Base hors Nevro 2025 : 2 645,3 M$ (+5,0 %) ; T2 2026 : +6 % publié, +9 % hors Nevro.",
-     "source": "https://www.globenewswire.com/news-release/2026/02/24/3244064/0/en/globus-medical-reports-fourth-quarter-and-full-year-2025-results.html",
+     "etat": "ko",
+     "reponse": "Faible : +3 % hors Nevro au T3 contre environ +9 % au T2, et +5,1 % visés sur 2026 avec un T4 en baisse.",
+     "preuve": "T3 2026 : ventes hors Nevro 690,0 M$ (+3,0 %) ; prévision 2026 ramenée à 3,09 Md$.",
+     "source": "https://www.sec.gov/Archives/edgar/data/0001237831/000162828026071042/gmed-q32026ex991.htm",
      "prochain": "Résultats du T3 2026"
     },
     {
@@ -1404,10 +1406,10 @@
     },
     {
      "q": "Pourquoi l'écart reste-t-il si grand entre bénéfice ajusté (5,00 $ visés) et bénéfice comptable, et va-t-il se réduire ?",
-     "etat": "watch",
-     "reponse": "L'écart se réduit : 2,00 $ comptables contre 2,46 $ ajustés au premier semestre 2026, alors qu'en 2024 c'était 0,75 $ contre 3,04 $. Il vient surtout de l'amortissement des actifs de NuVasive et Nevro.",
-     "preuve": "BPA comptable S1 2026 : 2,00 $ ; BPA ajusté : 2,46 $.",
-     "source": "https://www.globenewswire.com/news-release/2026/08/06/3340797/0/en/globus-medical-reports-second-quarter-2026-results.html",
+     "etat": "ok",
+     "reponse": "Il continue de se réduire : 1,04 $ comptable contre 1,23 $ ajusté au T3.",
+     "preuve": "BPA comptable T3 2026 : 1,04 $ (+18,2 %).",
+     "source": "https://www.sec.gov/Archives/edgar/data/0001237831/000162828026071042/gmed-q32026ex991.htm",
      "prochain": "Résultats du T3 2026"
     }
    ]
